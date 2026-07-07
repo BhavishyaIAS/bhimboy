@@ -181,27 +181,30 @@ returns table (
 language sql
 stable
 as $$
+  -- Every branch of the UNION aliases its columns, and the whole thing is
+  -- wrapped in a CTE so the final ORDER BY can reference "rank" by name
+  -- (a bare UNION would otherwise name columns after the first SELECT only).
   with tsq as (
     select websearch_to_tsquery('english', q) as query
-  )
-  (
+  ),
+  results as (
     select
-      'note'::text,
-      n.id,
-      m.id,
-      m.slug,
-      m.name,
-      m.name,
+      'note'::text          as result_type,
+      n.id                  as id,
+      m.id                  as microtheme_id,
+      m.slug                as microtheme_slug,
+      m.name                as microtheme_name,
+      m.name                as title,
       ts_headline('english', n.content_text, tsq.query,
-        'MaxWords=35, MinWords=15, MaxFragments=2'),
-      ts_rank(n.search_text, tsq.query)
+        'MaxWords=35, MinWords=15, MaxFragments=2') as snippet,
+      ts_rank(n.search_text, tsq.query) as rank
     from public.notes n
     join public.microthemes m on m.id = n.microtheme_id
     cross join tsq
     where n.search_text @@ tsq.query
-  )
-  union all
-  (
+
+    union all
+
     select
       'glossary'::text,
       g.id,
@@ -216,9 +219,9 @@ as $$
     join public.microthemes m on m.id = g.microtheme_id
     cross join tsq
     where g.search_text @@ tsq.query
-  )
-  union all
-  (
+
+    union all
+
     select
       'prelims'::text,
       p.id,
@@ -234,9 +237,9 @@ as $$
     join public.microthemes m on m.id = p.microtheme_id
     cross join tsq
     where p.search_text @@ tsq.query
-  )
-  union all
-  (
+
+    union all
+
     select
       'mains'::text,
       q2.id,
@@ -252,9 +255,10 @@ as $$
     cross join tsq
     where q2.search_text @@ tsq.query
   )
-  -- Order by the 8th output column (rank). A UNION takes its column names
-  -- from the first SELECT, where this expression isn't named "rank", so we
-  -- reference it by position instead.
-  order by 8 desc
+  select
+    result_type, id, microtheme_id, microtheme_slug,
+    microtheme_name, title, snippet, rank
+  from results
+  order by rank desc
   limit 60;
 $$;
