@@ -14,7 +14,7 @@ of each section.
 | M4 — PYQ system | ✅ Verified | Prelims/mains forms, model-answer editor, admin table, student vault; answer-reveal + collapsible model answer verified in-browser |
 | M5 — Bulk upload | ✅ Verified | Template downloads, parse→validate→preview→commit (atomic RPC), xlsx error report, upload logs; admin RPC insert confirmed, student RPC blocked |
 | M6 — Search & polish | ✅ Verified | `global_search` RPC returns ranked grouped results; search page, micro-theme prev/next + breadcrumbs, mobile bottom nav, loading/empty states |
-| M7 — Hardening & deploy | 🟡 In progress | RLS hardening ✅ done (see verification below); Vercel deploy is the remaining step |
+| M7 — Hardening & deploy | ✅ Done | RLS hardened; deployed to Vercel at https://bhimboy.vercel.app and verified live (auth + DB reads from Vercel↔Supabase) |
 
 ### Live verification (2026-07-07)
 
@@ -79,11 +79,24 @@ throwaway student account (since deleted):
 10. **Platform name "Bhimboy"** (from the repo) as the working brand; changing
     it later is a find-replace in ~4 files.
 
-## PAUSE — waiting on Girish (M7 deploy)
+## Live
 
-Supabase is connected and every flow is verified. The only remaining step is
-deploying to Vercel (GitHub is already the source). Deploy walkthrough happens
-in chat; env vars needed on Vercel are the three in `.env.example`.
+- **App:** https://bhimboy.vercel.app (Vercel, auto-deploys from the branch)
+- **Database:** Supabase project `jdxmavlygphwszclsxdi`
+- **Content loaded:** full APPSC Group-I syllabus — 9 papers, 39 subjects,
+  97 topics, 458 micro-themes, all drafts (see `scripts/import-syllabus.mjs`).
+
+Production verified 2026-07-07: admin login works on Vercel, `/admin/syllabus`
+serves the imported tree read live from Supabase, protected routes redirect,
+student + admin pages render.
+
+### Remaining setup niceties (non-blocking)
+- Change the admin password (currently a temporary generated one).
+- Optionally set Supabase Auth **Site URL** / **Redirect URLs** to the Vercel
+  domain — needed later for email confirmation & password-reset links, not for
+  password login (already working).
+- Content is all draft; publish papers/subjects/topics/micro-themes as notes
+  are added.
 
 ## How to run locally
 
