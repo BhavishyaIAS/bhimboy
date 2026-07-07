@@ -9,12 +9,14 @@ import {
 } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { getSyllabusTree } from "@/lib/queries";
+import { FallingLeaves } from "@/components/decor/falling-leaves";
+import { Lotus } from "@/components/decor/ornaments";
 
 export const metadata: Metadata = { title: "Syllabus" };
 export const dynamic = "force-dynamic";
 
 export default async function SyllabusExplorerPage() {
-  const tree = await getSyllabusTree();
+  const tree = await getSyllabusTree({ publishedOnly: true });
 
   const prelims = tree.papers.filter((p) => p.stage === "prelims");
   const mains = tree.papers.filter((p) => p.stage === "mains");
@@ -24,18 +26,24 @@ export default async function SyllabusExplorerPage() {
   );
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold tracking-tight">Syllabus</h1>
-      <p className="mt-1 text-sm text-muted-foreground">
-        Browse paper by paper. Tap a micro-theme to open its notes, videos,
-        PYQs and glossary.
+    <div className="relative animate-rise-in">
+      <FallingLeaves density="whisper" className="fixed inset-0 -z-10 h-screen" />
+      <h1 className="font-display text-3xl font-medium tracking-tight">
+        The Syllabus
+      </h1>
+      <p className="mt-1.5 text-sm text-muted-foreground">
+        Walk it paper by paper. Open a micro‑theme to sit with its notes,
+        videos, PYQs and key terms.
       </p>
 
       {!hasContent && (
-        <div className="mt-10 rounded-xl border border-dashed p-10 text-center text-muted-foreground">
-          <p className="font-medium">Content is being prepared</p>
+        <div className="mt-12 rounded-2xl border border-dashed bg-card/60 p-12 text-center text-muted-foreground backdrop-blur">
+          <Lotus className="mx-auto h-8 w-14 opacity-70" />
+          <p className="mt-4 font-display text-lg text-foreground">
+            The grove is still being planted
+          </p>
           <p className="mt-1 text-sm">
-            Published notes will appear here soon. Check back shortly!
+            Published notes will appear here soon — return shortly.
           </p>
         </div>
       )}
@@ -46,26 +54,29 @@ export default async function SyllabusExplorerPage() {
       ].map(
         (group) =>
           group.papers.length > 0 && (
-            <section key={group.label} className="mt-8">
-              <h2 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+            <section key={group.label} className="mt-9">
+              <h2 className="font-display text-xs font-semibold uppercase tracking-[0.3em] text-ember/70">
                 {group.label}
               </h2>
-              <div className="mt-2 space-y-3">
+              <div className="mt-3 space-y-4">
                 {group.papers.map((paper) => {
                   const subjects = (paper.subjects ?? []).filter(
                     (s) => (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0)
                   );
                   return (
-                    <div key={paper.id} className="rounded-xl border">
-                      <div className="border-b bg-muted/40 px-4 py-3">
-                        <h3 className="font-semibold">{paper.name}</h3>
+                    <div
+                      key={paper.id}
+                      className="overflow-hidden rounded-2xl border bg-card/85 shadow-sm backdrop-blur"
+                    >
+                      <div className="border-b bg-gradient-to-r from-accent/70 to-transparent px-5 py-3.5">
+                        <h3 className="font-display font-semibold">{paper.name}</h3>
                       </div>
                       {subjects.length === 0 ? (
-                        <p className="px-4 py-4 text-sm text-muted-foreground">
-                          No published content in this paper yet.
+                        <p className="px-5 py-4 text-sm italic text-muted-foreground">
+                          This paper is still gathering its leaves.
                         </p>
                       ) : (
-                        <Accordion type="multiple" className="px-4">
+                        <Accordion type="multiple" className="px-5">
                           {subjects.map((subject) => (
                             <AccordionItem
                               key={subject.id}

@@ -27,8 +27,11 @@ export default async function AdminLayout({
     <div className="flex min-h-screen flex-col">
       <header className="sticky top-0 z-40 border-b bg-background/95 backdrop-blur">
         <div className="mx-auto flex h-14 w-full max-w-6xl items-center gap-2 px-4">
-          <Link href="/admin" className="mr-2 shrink-0 font-bold tracking-tight">
-            Bhimboy <span className="text-muted-foreground">Admin</span>
+          <Link
+            href="/admin"
+            className="mr-2 shrink-0 font-display font-semibold italic tracking-tight"
+          >
+            Bhimboy <span className="not-italic text-muted-foreground">Admin</span>
           </Link>
           <nav className="flex items-center gap-0.5 overflow-x-auto">
             {NAV.map((item) => (

@@ -43,10 +43,13 @@ export default async function PyqVaultPage({
   ]);
 
   return (
-    <div className="mx-auto max-w-3xl">
-      <h1 className="text-2xl font-bold tracking-tight">PYQ Vault</h1>
-      <p className="mt-1 text-sm text-muted-foreground">
-        Every previous-year question, filterable and searchable.
+    <div className="mx-auto max-w-3xl animate-rise-in">
+      <h1 className="font-display text-3xl font-medium tracking-tight">
+        The PYQ Vault
+      </h1>
+      <p className="mt-1.5 text-sm text-muted-foreground">
+        Every previous‑year question, waiting patiently. Filter, search,
+        attempt — the answer appears only when you ask.
       </p>
 
       <div className="mt-5">
@@ -59,10 +62,12 @@ export default async function PyqVaultPage({
 
       <div className="mt-3 space-y-4">
         {result.items.length === 0 && (
-          <div className="rounded-xl border border-dashed p-10 text-center text-muted-foreground">
+          <div className="rounded-2xl border border-dashed bg-card/60 p-12 text-center text-muted-foreground">
             <FileQuestion className="mx-auto h-6 w-6" />
-            <p className="mt-2 font-medium">No questions match these filters</p>
-            <p className="mt-1 text-sm">Try removing a filter or two.</p>
+            <p className="mt-3 font-display text-lg text-foreground">
+              Stillness — nothing matches these filters
+            </p>
+            <p className="mt-1 text-sm">Loosen a filter or two and look again.</p>
           </div>
         )}
         {result.items.map((item) =>

@@ -24,10 +24,14 @@ export function LoginForm() {
   );
 
   return (
-    <Card className="w-full max-w-sm">
+    <Card className="w-full max-w-sm border-border/70 bg-card/85 shadow-[0_20px_60px_-24px_oklch(0.46_0.12_36/0.35)] backdrop-blur">
       <CardHeader>
-        <CardTitle className="text-xl">Welcome back</CardTitle>
-        <CardDescription>Log in to continue studying.</CardDescription>
+        <CardTitle className="font-display text-2xl font-medium">
+          Welcome back
+        </CardTitle>
+        <CardDescription>
+          The desk is just as you left it.
+        </CardDescription>
       </CardHeader>
       <CardContent>
         <form action={formAction} className="space-y-4">

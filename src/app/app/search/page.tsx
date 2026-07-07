@@ -46,8 +46,8 @@ export default async function SearchPage({
   const results = q.trim() ? await globalSearch(q) : [];
 
   return (
-    <div className="mx-auto max-w-3xl">
-      <h1 className="text-2xl font-bold tracking-tight">Search</h1>
+    <div className="mx-auto max-w-3xl animate-rise-in">
+      <h1 className="font-display text-3xl font-medium tracking-tight">Seek</h1>
       <form className="relative mt-4" action="/app/search" method="get">
         <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
         <Input
@@ -68,12 +68,15 @@ export default async function SearchPage({
       </form>
 
       {q.trim() === "" ? (
-        <p className="mt-10 text-center text-sm text-muted-foreground">
-          Type something above — try a topic, a keyword, or part of a question.
+        <p className="mt-12 text-center text-sm italic text-muted-foreground">
+          Ask, and the right micro‑theme appears — try a topic, a keyword, or
+          part of a question.
         </p>
       ) : results.length === 0 ? (
-        <div className="mt-10 rounded-xl border border-dashed p-10 text-center text-muted-foreground">
-          <p className="font-medium">No results for “{q}”</p>
+        <div className="mt-10 rounded-2xl border border-dashed bg-card/60 p-12 text-center text-muted-foreground">
+          <p className="font-display text-lg text-foreground">
+            Nothing stirred for “{q}”
+          </p>
           <p className="mt-1 text-sm">
             Try a shorter keyword or a different spelling.
           </p>

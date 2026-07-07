@@ -14,10 +14,14 @@ import type {
   Video,
 } from "@/lib/database.types";
 
-// RLS already restricts students to published rows; ordering happens here.
-export async function getSyllabusTree(): Promise<SyllabusTree> {
+// RLS already restricts students to published rows; `publishedOnly` applies
+// the same filter explicitly so admins previewing the student area see
+// exactly what students see.
+export async function getSyllabusTree(
+  options: { publishedOnly?: boolean } = {}
+): Promise<SyllabusTree> {
   const supabase = await createClient();
-  const { data, error } = await supabase
+  let query = supabase
     .from("papers")
     .select(
       `id, name, stage, sort_order, created_at, updated_at,
@@ -36,6 +40,14 @@ export async function getSyllabusTree(): Promise<SyllabusTree> {
     .order("sort_order", { referencedTable: "subjects.topics" })
     .order("sort_order", { referencedTable: "subjects.topics.microthemes" });
 
+  if (options.publishedOnly) {
+    query = query
+      .eq("subjects.status", "published")
+      .eq("subjects.topics.status", "published")
+      .eq("subjects.topics.microthemes.status", "published");
+  }
+
+  const { data, error } = await query;
   if (error) throw new Error(error.message);
   return { papers: (data ?? []) as unknown as SyllabusTree["papers"] };
 }
@@ -120,11 +132,12 @@ export async function getMicrothemeBySlug(
   };
 }
 
-// Flat, syllabus-ordered list of micro-themes visible to the caller.
+// Flat, syllabus-ordered list of published micro-themes (drives prev/next
+// on the student reading page).
 async function getOrderedMicrothemes(): Promise<
   { id: string; slug: string; name: string }[]
 > {
-  const tree = await getSyllabusTree();
+  const tree = await getSyllabusTree({ publishedOnly: true });
   const flat: { id: string; slug: string; name: string }[] = [];
   for (const paper of tree.papers) {
     for (const subject of paper.subjects ?? []) {

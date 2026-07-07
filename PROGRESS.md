@@ -79,6 +79,21 @@ throwaway student account (since deleted):
 10. **Platform name "Bhimboy"** (from the repo) as the working brand; changing
     it later is a find-replace in ~4 files.
 
+## Design language — "Sharad", the autumn sanctuary (2026-07-07)
+
+Full UI/UX reskin with a meditative, autumn-spiritual identity:
+- Warm parchment/saffron/ember palette (all semantic tokens in
+  `globals.css`), Fraunces serif display type for headings.
+- `FallingLeaves` — slow (22–48s) CSS-only drifting leaves on landing/auth
+  (full) and browsing pages (whisper); seeded PRNG so SSR markup is
+  deterministic; hidden under `prefers-reduced-motion`.
+- `Lotus` breathing ornament + `LeafDivider` between reading-page sections
+  (reading pages stay motion-free for distraction-free study).
+- Landing rebuilt: dawn-light gradient, Telugu shloka, serif hero, glowing
+  CTAs; auth pages match. Student syllabus/PYQ/search pages restyled.
+- Student-area queries now filter `publishedOnly` explicitly so admins
+  previewing the student area see exactly what students see.
+
 ## Live
 
 - **App:** https://bhimboy.vercel.app (Vercel, auto-deploys from the branch)

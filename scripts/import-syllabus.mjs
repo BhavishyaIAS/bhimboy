@@ -158,14 +158,10 @@ async function main() {
         name: s.name,
         sort_order: s.sort_order,
         status: "draft",
-        _key: `${paperId}|${sName}`,
       });
     }
   }
-  const insertedSubjects = await insertReturning(
-    "subjects",
-    subjectRows.map(({ _key, ...r }) => r)
-  );
+  const insertedSubjects = await insertReturning("subjects", subjectRows);
   // Match returned rows back to keys by (paper_id, name) — unique within paper.
   const subjectIdByKey = new Map();
   for (const s of insertedSubjects) {

@@ -3,34 +3,43 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* ============================================================
+   Sharad — the autumn sanctuary.
+   Warm parchment, saffron and ember; a palette for quiet study.
+   ============================================================ */
+
 :root {
-  --radius: 0.625rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.129 0.042 264.695);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.129 0.042 264.695);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.129 0.042 264.695);
-  --primary: oklch(0.208 0.042 265.755);
-  --primary-foreground: oklch(0.984 0.003 247.858);
-  --secondary: oklch(0.968 0.007 247.896);
-  --secondary-foreground: oklch(0.208 0.042 265.755);
-  --muted: oklch(0.968 0.007 247.896);
-  --muted-foreground: oklch(0.554 0.046 257.417);
-  --accent: oklch(0.968 0.007 247.896);
-  --accent-foreground: oklch(0.208 0.042 265.755);
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.984 0.003 247.858);
-  --border: oklch(0.929 0.013 255.508);
-  --input: oklch(0.929 0.013 255.508);
-  --ring: oklch(0.704 0.04 256.788);
+  --radius: 0.8rem;
+  --background: oklch(0.973 0.013 84);
+  --foreground: oklch(0.31 0.042 52);
+  --card: oklch(0.988 0.009 88);
+  --card-foreground: oklch(0.31 0.042 52);
+  --popover: oklch(0.988 0.009 88);
+  --popover-foreground: oklch(0.31 0.042 52);
+  --primary: oklch(0.555 0.135 48);
+  --primary-foreground: oklch(0.985 0.01 88);
+  --secondary: oklch(0.937 0.03 80);
+  --secondary-foreground: oklch(0.36 0.055 50);
+  --muted: oklch(0.945 0.021 83);
+  --muted-foreground: oklch(0.51 0.042 55);
+  --accent: oklch(0.928 0.047 72);
+  --accent-foreground: oklch(0.34 0.06 50);
+  --destructive: oklch(0.55 0.21 29);
+  --destructive-foreground: oklch(0.985 0.01 88);
+  --border: oklch(0.885 0.028 78);
+  --input: oklch(0.885 0.028 78);
+  --ring: oklch(0.68 0.115 55);
+  /* sanctuary extras */
+  --gold: oklch(0.76 0.115 82);
+  --ember: oklch(0.46 0.125 36);
+  --dawn: oklch(0.93 0.055 75);
 }
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
+  --radius-xl: calc(var(--radius) + 6px);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
@@ -50,13 +59,19 @@
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
+  --color-gold: var(--gold);
+  --color-ember: var(--ember);
+  --color-dawn: var(--dawn);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-fraunces);
 }
 
 @theme inline {
-  --animate-accordion-down: accordion-down 0.2s ease-out;
-  --animate-accordion-up: accordion-up 0.2s ease-out;
+  --animate-accordion-down: accordion-down 0.28s ease-out;
+  --animate-accordion-up: accordion-up 0.28s ease-out;
+  --animate-breathe: breathe 7s ease-in-out infinite;
+  --animate-rise-in: rise-in 0.7s cubic-bezier(0.19, 1, 0.22, 1) both;
 }
 
 @keyframes accordion-down {
@@ -77,51 +92,160 @@
   }
 }
 
+/* A slow inhale–exhale for ornaments */
+@keyframes breathe {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.9;
+  }
+  50% {
+    transform: scale(1.045);
+    opacity: 1;
+  }
+}
+
+/* Content settles gently into place */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------- Falling leaves ---------- */
+@keyframes leaf-fall {
+  from {
+    transform: translateY(-8vh);
+  }
+  to {
+    transform: translateY(108vh);
+  }
+}
+@keyframes leaf-sway {
+  0%,
+  100% {
+    margin-left: -4vw;
+    transform: rotate(-38deg);
+  }
+  50% {
+    margin-left: 4vw;
+    transform: rotate(32deg);
+  }
+}
+@keyframes leaf-spin {
+  from {
+    transform: rotateX(0deg) rotateZ(0deg);
+  }
+  to {
+    transform: rotateX(360deg) rotateZ(360deg);
+  }
+}
+
+.leaf {
+  position: absolute;
+  top: 0;
+  will-change: transform;
+  animation-name: leaf-fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  pointer-events: none;
+}
+.leaf-inner {
+  animation: leaf-sway 7s ease-in-out infinite;
+}
+.leaf-inner-2 {
+  animation: leaf-spin 11s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .leaf,
+  .leaf-inner,
+  .leaf-inner-2 {
+    animation: none !important;
+    display: none;
+  }
+  .animate-breathe {
+    animation: none !important;
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground font-sans;
+    @apply bg-background font-sans text-foreground;
   }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-fraunces), Georgia, serif;
+  }
+  ::selection {
+    background: oklch(0.86 0.09 75);
+    color: oklch(0.28 0.05 50);
+  }
+}
+
+/* Dawn-light washes used across pages */
+.dawn-sky {
+  background:
+    radial-gradient(
+      120% 75% at 50% 0%,
+      oklch(0.9 0.075 72 / 0.9) 0%,
+      oklch(0.945 0.04 80 / 0.75) 42%,
+      var(--background) 100%
+    );
+}
+.dawn-veil {
+  background: linear-gradient(
+    to bottom,
+    oklch(0.955 0.028 80 / 0.7),
+    transparent 30%
+  );
 }
 
 /* ---------- Rich content (notes / model answers) ---------- */
 .rich-content {
-  @apply text-[15px] leading-7 text-foreground;
+  @apply text-[15.5px] leading-[1.85] text-foreground;
 }
 .rich-content h1 {
-  @apply mt-8 mb-3 text-2xl font-bold tracking-tight;
+  @apply mt-8 mb-3 text-2xl font-semibold tracking-tight;
 }
 .rich-content h2 {
-  @apply mt-7 mb-2.5 text-xl font-semibold tracking-tight;
+  @apply mt-8 mb-3 text-[1.45rem] font-semibold tracking-tight text-ember;
 }
 .rich-content h3 {
-  @apply mt-6 mb-2 text-lg font-semibold;
+  @apply mt-6 mb-2 text-lg font-semibold text-ember;
 }
 .rich-content h4 {
   @apply mt-5 mb-2 text-base font-semibold;
 }
 .rich-content p {
-  @apply my-3;
+  @apply my-3.5;
 }
 .rich-content ul {
-  @apply my-3 list-disc pl-6;
+  @apply my-3.5 list-disc pl-6 marker:text-primary/70;
 }
 .rich-content ol {
-  @apply my-3 list-decimal pl-6;
+  @apply my-3.5 list-decimal pl-6 marker:text-primary/70;
 }
 .rich-content li {
-  @apply my-1;
+  @apply my-1.5;
 }
 .rich-content blockquote {
-  @apply my-4 border-l-4 border-border pl-4 italic text-muted-foreground;
+  @apply my-5 rounded-r-lg border-l-4 border-primary/50 bg-accent/40 py-2 pl-4 pr-3 italic text-foreground/85;
 }
 .rich-content a {
-  @apply text-blue-600 underline underline-offset-2 dark:text-blue-400;
+  @apply text-primary underline underline-offset-2 hover:text-ember;
 }
 .rich-content strong {
-  @apply font-semibold;
+  @apply font-semibold text-ember;
 }
 .rich-content code {
   @apply rounded bg-muted px-1.5 py-0.5 font-mono text-[13px];
@@ -133,29 +257,29 @@
   @apply bg-transparent p-0;
 }
 .rich-content hr {
-  @apply my-6 border-border;
+  @apply my-8 border-border;
 }
 .rich-content img {
-  @apply my-4 h-auto max-w-full rounded-lg border;
+  @apply my-4 h-auto max-w-full rounded-xl border shadow-sm;
 }
 .rich-content figure {
   @apply my-4;
 }
 .rich-content figcaption {
-  @apply mt-1.5 text-center text-sm text-muted-foreground;
+  @apply mt-2 text-center text-sm italic text-muted-foreground;
 }
 .rich-content .table-wrapper,
 .rich-content .tableWrapper {
-  @apply my-4 w-full overflow-x-auto;
+  @apply my-4 w-full overflow-x-auto rounded-lg border;
 }
 .rich-content table {
   @apply w-full border-collapse text-sm;
 }
 .rich-content th {
-  @apply border bg-muted px-3 py-2 text-left font-semibold;
+  @apply border-b border-r bg-accent/60 px-3 py-2.5 text-left font-semibold last:border-r-0;
 }
 .rich-content td {
-  @apply border px-3 py-2 align-top;
+  @apply border-b border-r px-3 py-2.5 align-top last:border-r-0 [tr:last-child_&]:border-b-0;
 }
 .rich-content .mermaid-diagram svg {
   @apply mx-auto h-auto max-w-full;
@@ -173,26 +297,26 @@
   @apply bg-accent/60;
 }
 .tiptap-editor .tiptap .column-resize-handle {
-  @apply pointer-events-none absolute -right-0.5 top-0 bottom-0 w-1 bg-blue-400;
+  @apply pointer-events-none absolute -right-0.5 top-0 bottom-0 w-1 bg-primary/60;
 }
 .tiptap-editor .tiptap table {
   @apply my-4 w-full border-collapse text-sm;
 }
 .tiptap-editor .tiptap th {
-  @apply border bg-muted px-3 py-2 text-left font-semibold;
+  @apply border bg-accent/60 px-3 py-2 text-left font-semibold;
 }
 .tiptap-editor .tiptap td {
   @apply border px-3 py-2 align-top;
 }
 .tiptap-editor .tiptap img {
-  @apply my-4 h-auto max-w-full rounded-lg border;
+  @apply my-4 h-auto max-w-full rounded-xl border;
 }
 .tiptap-editor .tiptap img.ProseMirror-selectednode {
-  @apply ring-2 ring-blue-500;
+  @apply ring-2 ring-primary;
 }
 .tiptap-editor .tiptap div[data-youtube-video] iframe {
-  @apply my-4 aspect-video w-full max-w-2xl rounded-lg border;
+  @apply my-4 aspect-video w-full max-w-2xl rounded-xl border;
 }
 .tiptap-editor .tiptap .ProseMirror-selectednode {
-  @apply rounded ring-2 ring-blue-500/60;
+  @apply rounded ring-2 ring-primary/60;
 }

@@ -15,7 +15,7 @@ import { NoteRenderer } from "@/components/content/note-renderer";
 import { YouTubeEmbed } from "@/components/content/youtube-embed";
 import { PrelimsQuestionCard } from "@/components/pyq/prelims-question-card";
 import { MainsQuestionCard } from "@/components/pyq/mains-question-card";
-import { Separator } from "@/components/ui/separator";
+import { LeafDivider } from "@/components/decor/ornaments";
 import type { CorrectOption } from "@/lib/database.types";
 
 export const dynamic = "force-dynamic";
@@ -44,13 +44,13 @@ export default async function MicrothemePage({
   const publishedNote = note && note.status === "published" ? note : null;
 
   const sectionHeading =
-    "flex items-center gap-2 text-lg font-semibold tracking-tight";
+    "flex items-center gap-2 font-display text-xl font-semibold tracking-tight";
 
   return (
-    <div className="mx-auto max-w-3xl">
+    <div className="mx-auto max-w-3xl animate-rise-in">
       {/* Breadcrumbs */}
       <nav className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground">
-        <Link href="/app/syllabus" className="hover:text-foreground hover:underline">
+        <Link href="/app/syllabus" className="hover:text-primary hover:underline">
           Syllabus
         </Link>
         <ChevronRight className="h-3 w-3" />
@@ -61,10 +61,10 @@ export default async function MicrothemePage({
         <span>{topic.name}</span>
       </nav>
 
-      <h1 className="mt-3 text-2xl font-bold tracking-tight sm:text-3xl">
+      <h1 className="mt-4 font-display text-3xl font-medium leading-[1.15] tracking-tight sm:text-4xl">
         {microtheme.name}
       </h1>
-      <p className="mt-1 font-mono text-xs text-muted-foreground">
+      <p className="mt-2 font-mono text-xs tracking-wider text-primary/80">
         {microtheme.code}
       </p>
 
@@ -83,7 +83,7 @@ export default async function MicrothemePage({
       {/* 2. Videos */}
       {videos.length > 0 && (
         <section className="mt-10">
-          <Separator className="mb-8" />
+          <LeafDivider className="mb-8" />
           <h2 className={sectionHeading}>
             <VideoIcon className="h-5 w-5 text-primary" /> Video lectures
           </h2>
@@ -103,7 +103,7 @@ export default async function MicrothemePage({
       {/* 3. PYQs */}
       {(prelims.length > 0 || mains.length > 0) && (
         <section className="mt-10">
-          <Separator className="mb-8" />
+          <LeafDivider className="mb-8" />
           <h2 className={sectionHeading}>
             <FileQuestion className="h-5 w-5 text-primary" /> PYQs from this
             micro-theme
@@ -129,14 +129,17 @@ export default async function MicrothemePage({
       {/* 4. Glossary */}
       {glossary.length > 0 && (
         <section className="mt-10">
-          <Separator className="mb-8" />
+          <LeafDivider className="mb-8" />
           <h2 className={sectionHeading}>
             <Lightbulb className="h-5 w-5 text-primary" /> Key terms
           </h2>
           <dl className="mt-4 space-y-3">
             {glossary.map((g) => (
-              <div key={g.id} className="rounded-lg border p-3.5">
-                <dt className="font-semibold">{g.term}</dt>
+              <div
+                key={g.id}
+                className="rounded-xl border border-l-4 border-l-primary/50 bg-card/80 p-4"
+              >
+                <dt className="font-display font-semibold">{g.term}</dt>
                 <dd className="mt-1 text-sm leading-6 text-muted-foreground">
                   {g.definition}
                 </dd>
@@ -146,17 +149,19 @@ export default async function MicrothemePage({
         </section>
       )}
 
-      {/* Prev / next navigation */}
-      <nav className="mt-12 grid grid-cols-2 gap-3 border-t pt-6">
+      {/* Prev / next: the path continues */}
+      <LeafDivider className="mt-14" />
+      <nav className="mt-4 grid grid-cols-2 gap-3">
         {prev ? (
           <Link
             href={`/app/m/${prev.slug}`}
-            className="group rounded-xl border p-3.5 hover:bg-accent"
+            className="group rounded-2xl border bg-card/80 p-4 transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.46_0.12_36/0.4)]"
           >
             <span className="flex items-center gap-1 text-xs text-muted-foreground">
-              <ArrowLeft className="h-3 w-3" /> Previous
+              <ArrowLeft className="h-3 w-3 transition-transform group-hover:-translate-x-0.5" />{" "}
+              The step before
             </span>
-            <span className="mt-1 line-clamp-2 block text-sm font-medium">
+            <span className="mt-1.5 line-clamp-2 block font-display text-sm font-medium">
               {prev.name}
             </span>
           </Link>
@@ -166,12 +171,13 @@ export default async function MicrothemePage({
         {next ? (
           <Link
             href={`/app/m/${next.slug}`}
-            className="group rounded-xl border p-3.5 text-right hover:bg-accent"
+            className="group rounded-2xl border bg-card/80 p-4 text-right transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.46_0.12_36/0.4)]"
           >
             <span className="flex items-center justify-end gap-1 text-xs text-muted-foreground">
-              Next <ArrowRight className="h-3 w-3" />
+              The path continues{" "}
+              <ArrowRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
             </span>
-            <span className="mt-1 line-clamp-2 block text-sm font-medium">
+            <span className="mt-1.5 line-clamp-2 block font-display text-sm font-medium">
               {next.name}
             </span>
           </Link>
