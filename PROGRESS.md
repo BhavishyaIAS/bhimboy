@@ -8,17 +8,40 @@ of each section.
 | Milestone | Status | Notes |
 |---|---|---|
 | M0 — Scaffold | ✅ Done | Next.js 16 (App Router) + TS strict + Tailwind v4, vendored shadcn/ui, Supabase clients, env handling |
-| M1 — Database & auth | 🟡 Code complete | Migrations, RLS, storage policies, seed & admin-promotion scripts written; **needs a live Supabase project to run against** (waiting on credentials — see PAUSE) |
-| M2 — Syllabus Manager | 🟡 Code complete | Tree CRUD, dnd-kit reordering, draft/publish, code generation + inline editing, typed delete confirmation |
-| M3 — Notes system | 🟡 Code complete | TipTap editor (Mermaid node, image upload, tables, YouTube), 10s autosave with indicator, shared student renderer, videos + glossary tabs |
-| M4 — PYQ system | 🟡 Code complete | Prelims/mains forms, model-answer editor, admin table, student vault with filters/answer-reveal/collapsible answers |
-| M5 — Bulk upload | 🟡 Code complete | Template downloads, parse→validate→preview→commit (atomic RPC), xlsx error report, upload logs |
-| M6 — Search & polish | 🟡 Code complete | `global_search` RPC + search page + header search, micro-theme page with prev/next + breadcrumbs, mobile bottom nav, loading/empty states |
-| M7 — Hardening & deploy | ⬜ Pending | RLS verification with a real student account + Vercel deploy — blocked on Supabase credentials |
+| M1 — Database & auth | ✅ Verified | Migrations run on live Supabase; RLS matrix proven (student/admin/anon); storage bucket live; profile trigger fires; admin seeded |
+| M2 — Syllabus Manager | ✅ Verified | Tree CRUD, dnd-kit reordering, draft/publish, code generation + inline editing, typed delete confirmation; renders live tree |
+| M3 — Notes system | ✅ Verified | TipTap editor (Mermaid node, image upload, tables, YouTube), 10s autosave, shared renderer; Mermaid renders to SVG in-browser against live data |
+| M4 — PYQ system | ✅ Verified | Prelims/mains forms, model-answer editor, admin table, student vault; answer-reveal + collapsible model answer verified in-browser |
+| M5 — Bulk upload | ✅ Verified | Template downloads, parse→validate→preview→commit (atomic RPC), xlsx error report, upload logs; admin RPC insert confirmed, student RPC blocked |
+| M6 — Search & polish | ✅ Verified | `global_search` RPC returns ranked grouped results; search page, micro-theme prev/next + breadcrumbs, mobile bottom nav, loading/empty states |
+| M7 — Hardening & deploy | 🟡 In progress | RLS hardening ✅ done (see verification below); Vercel deploy is the remaining step |
 
-"Code complete" = written and passing the production build, but not yet
-exercised against a live database. Full verification happens as soon as the
-Supabase project is connected.
+### Live verification (2026-07-07)
+
+Run against the connected Supabase project with a real admin account and a
+throwaway student account (since deleted):
+
+- **RLS matrix** — student reads only published rows; cannot read drafts;
+  cannot INSERT/UPDATE; `bulk_insert_*` rejects non-admins ("Only admins can
+  bulk upload"); anon sees nothing; admin (authenticated) can INSERT/UPDATE and
+  run the bulk RPC. Profile row auto-created by trigger on signup.
+- **Student browser flow (12/12)** — login → syllabus → micro-theme page with
+  notes, **Mermaid diagram rendered to SVG**, YouTube embed, glossary; prelims
+  answer-reveal; mains collapsible model answer; PYQ vault; grouped search;
+  blocked from `/admin`.
+- **Admin browser flow (6/6)** — login, dashboard live counts, syllabus
+  manager tree, PYQ manager, bulk-upload page + template download.
+
+### Fixes made during verification
+
+- `0002_functions.sql` — `global_search` ordered a UNION by column alias,
+  which failed (`42703`). Wrapped the UNION in a CTE with explicit aliases.
+- `0003_fix_role_trigger.sql` (new) — the role-escalation guard blocked *all*
+  role changes, including from the SQL Editor / service role (where
+  `auth.uid()` is null), making first-admin promotion impossible. Now only
+  blocks authenticated non-admins. Folded into `promote-admin.sql` too.
+- `src/instrumentation.ts` (new) — makes the Node server honour `HTTPS_PROXY`
+  (needed only in proxied dev/CI environments; a no-op on Vercel).
 
 ## Key decisions (deviations & interpretations)
 
@@ -56,12 +79,11 @@ Supabase project is connected.
 10. **Platform name "Bhimboy"** (from the repo) as the working brand; changing
     it later is a find-replace in ~4 files.
 
-## PAUSE — waiting on Girish
+## PAUSE — waiting on Girish (M7 deploy)
 
-Everything up to M6 is built. To go live I need:
-- (a) Supabase project URL + anon key + service role key
-- (b) confirmation of the admin email (assumed girishvenky007@gmail.com)
-- (c) the SQL files under `supabase/` run in the project (instructions provided in chat)
+Supabase is connected and every flow is verified. The only remaining step is
+deploying to Vercel (GitHub is already the source). Deploy walkthrough happens
+in chat; env vars needed on Vercel are the three in `.env.example`.
 
 ## How to run locally
 
