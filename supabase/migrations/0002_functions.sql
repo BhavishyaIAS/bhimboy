@@ -252,6 +252,9 @@ as $$
     cross join tsq
     where q2.search_text @@ tsq.query
   )
-  order by rank desc
+  -- Order by the 8th output column (rank). A UNION takes its column names
+  -- from the first SELECT, where this expression isn't named "rank", so we
+  -- reference it by position instead.
+  order by 8 desc
   limit 60;
 $$;
