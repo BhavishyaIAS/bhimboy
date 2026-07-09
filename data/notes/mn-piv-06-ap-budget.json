@@ -1,0 +1,259 @@
+[
+  {
+    "code": "MN-PIV-GBA-022",
+    "sections": [
+      {
+        "heading": "AP's deficits — the diagnostic",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "AP runs the full deficit family simultaneously: a **persistent revenue deficit** (the structural disease — current spending beyond current receipts, every year since 2014-15), a **fiscal deficit** that has often tested or exceeded the FRBM 3–3.5% of GSDP band (with CAG re-computations placing 'true' deficits higher once off-budget items are counted), and consequently a **debt stock ~33–35% of GSDP plus guarantees** — against the 15th FC's ~32% comfort path for states. The state's **primary deficit** persists too — meaning even before interest, current policy adds debt."
+          },
+          {
+            "type": "table",
+            "headers": ["Deficit-management lever", "AP application", "Assessment"],
+            "rows": [
+              ["**Revenue augmentation**", "GST compliance analytics, excise recalibration, stamps buoyancy, mining royalties, land monetisation", "Buoyant in growth years; excise/liquor policy swings created volatility; base remains narrow without Hyderabad-type services"],
+              ["**Expenditure rationalisation**", "Beneficiary deduplication (Aadhaar-seeded DBT), scheme convergence, staff-cost management (PRC timing), subsidy targeting", "DBT design is genuinely leak-resistant; the big-ticket items (pensions, power subsidies, welfare calendar) are politically shielded"],
+              ["**Borrowing discipline**", "FRBM ceilings + netting of off-budget; longer-tenor SDLs; EAP substitution", "Compulsion-led improvement post-2022; guarantee stock still elevated"],
+              ["**Asset-liability moves**", "Land monetisation proposals, arrears securitisation ideas, PSU restructuring", "One-off and contested; not a structural cure"],
+              ["**Growth strategy (the denominator)**", "Ports-energy-aqua-industrial corridors to lift GSDP and SGST", "The only durable exit: deficit ratios fall fastest when GSDP compounds"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Evaluation — the honest verdict",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**What works**: treasury triage has protected debt service and welfare delivery without default; transparency improved under compulsion (off-budget netting); the FRBM framework, however strained, disciplines the trajectory.",
+              "**What doesn't**: the revenue deficit means **borrowed money funds consumption** — intergenerationally inequitable; interest (~₹25,000+ crore scale annually) is the fastest-compounding head; arrears/pending bills shift deficits into the shadows; power-sector dues (DISCOM subsidies + generator arrears) form a parallel deficit.",
+              "**The three-horizon path**: short term — cash-flow honesty (clear arrears queue, cap guarantees); medium term — revenue-deficit elimination target with a dated glide path (the 15th FC's grant taper was meant to force this); long term — growth compounding (10%+ nominal GSDP makes 33% debt manageable; 8% does not). Anchor the answer in **r vs g**: AP's borrowing cost (~7-7.5%) vs nominal GSDP growth — when g exceeds r, ratios stabilise even with primary deficits.",
+              "**Comparative context**: several large states (Punjab, Kerala, WB, RJ) share the high-debt club; AP's distinction is the bifurcation base-shock origin plus DBT-heavy composition — useful one line of comparison, not a whole paragraph."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Revenue deficit - structural] --> B[Borrowing funds consumption]\n  B --> C[Debt stock rises with guarantees]\n  C --> D[Interest compounds - largest growing head]\n  D --> A\n  E[Exit 1: revenue augmentation and GSDP growth] --> A\n  F[Exit 2: expenditure quality - capex share up] --> B\n  G[Exit 3: transparency - arrears, guarantees on books] --> C\n  H[r vs g: grow the denominator faster than the debt] --> D"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Structure: diagnostic (three deficits + shadow items) → five-lever table → three-horizon path with the r-vs-g anchor → balanced verdict. Update the current year's exact deficit percentages from the latest AP budget-in-brief/CAG report; the structure holds regardless.",
+              "One-line differentiators: 'AP borrows for lunch, not for land' (revenue-deficit critique) balanced by 'no state delivers a rupee of welfare cheaper' (DBT efficiency credit)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Deficit-management questions are trajectory questions — examiners reward the glide-path idea, the r-vs-g test and the arrears/guarantee shadow-deficit point far above a recitation of numbers that date."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP has run a **revenue deficit every year since bifurcation (2014-15)** — the structural marker.",
+      "State FRBM norm: fiscal deficit ~**3% of GSDP** (+0.5% power-reform window in applicable years); 15th FC debt-comfort path for states ~32-33% of GSDP.",
+      "CAG has repeatedly flagged AP's **off-budget borrowings and guarantees** as understating true deficits.",
+      "**Primary deficit** = fiscal deficit − interest; its persistence means current policy (not just legacy debt) adds liabilities.",
+      "The **r-vs-g test**: debt ratios stabilise when nominal growth (g) exceeds the effective interest rate (r).",
+      "Interest payments are among AP's fastest-growing expenditure heads (₹25,000+ crore scale).",
+      "The 15th FC's **revenue-deficit grants taper** across the award period was designed to force states toward revenue balance."
+    ],
+    "mainsAngles": [
+      "Diagnose Andhra Pradesh's deficit family and design a three-horizon consolidation path.",
+      "Borrowing for consumption mortgages the future — examine AP's revenue deficit with intergenerational-equity arguments.",
+      "Shadow deficits — arrears, guarantees, power dues — matter as much as headline numbers: discuss with CAG evidence.",
+      "Growth is the best fiscal policy — apply the r-versus-g framework to AP's debt sustainability.",
+      "Compare AP's fiscal stress with other high-debt states and isolate what is bifurcation-specific."
+    ],
+    "glossary": [
+      { "term": "Structural deficit", "definition": "The deficit that persists at normal economic activity — requiring policy change, not just cyclical recovery, to close." },
+      { "term": "Glide path", "definition": "A dated, pre-announced trajectory of deficit reduction — converting intent into an accountable schedule." },
+      { "term": "Debt sustainability", "definition": "The capacity to service debt without disruptive correction — governed by the gap between growth and interest rates and the primary balance." },
+      { "term": "Contingent liability", "definition": "Obligations (guarantees) that crystallise only on default — the fiscal iceberg's submerged part." },
+      { "term": "Fiscal marksmanship", "definition": "Accuracy of budget estimates against actuals — chronic overestimation of receipts marks stressed states." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBA-023",
+    "sections": [
+      {
+        "heading": "Reading the current AP budget — the permanent grid",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Like the Union note, master the **grid** and refresh February-March's numbers annually: (1) **size & realism** — total outlay vs last year's Actuals (not BE); (2) **deficits** — revenue and fiscal as % of GSDP vs FRBM; (3) **receipts mix** — SOTR growth assumption, the central-grants line (the classic over-booking risk), borrowing reliance; (4) **expenditure composition** — welfare DBT calendar vs capex allocation; (5) **sector winners** — irrigation (Polavaram), roads, education/health real-terms change; (6) **new announcements vs funded announcements** — token provisions (₹1 lakh entries) signal intent without money; (7) **the Socio-Economic Survey cross-check** — GSDP growth, per-capita income, sector shares."
+          },
+          {
+            "type": "table",
+            "headers": ["Recent structural anchors (update yearly)", "Content"],
+            "rows": [
+              ["Budget scale", "AP budgets have run ~**₹2.9–3.3 lakh crore**; welfare + committed heads dominate"],
+              ["The 2024-25 pivot", "Post-election budget rebalanced toward the **'Super Six/Super Seven'-style commitments** and capital revival — **Amaravati restarted** (WB/ADB ₹15,000 cr programme), Polavaram phase-1 re-energised (₹12,157 cr central tranche)"],
+              ["Persistent lines", "Pensions (NTR Bharosa-scale ~₹30,000+ cr/yr at enhanced rates), fee reimbursement, farm support, subsidised rice, power subsidies (agri free power)"],
+              ["Capex tilt", "Irrigation + roads + capital city — capex share targeted upward from the historic ~10-12% floor"],
+              ["Growth frame", "AP consistently reports **above-national GSDP growth** (agriculture-allied led); per-capita income near/above national average — cite from the latest Socio-Economic Survey"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Analysis themes that persist across AP budgets",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Welfare arithmetic vs fiscal arithmetic**: every AP budget is a negotiation between the DBT calendar (politically non-negotiable, ~₹60-80,000 crore across schemes at peak) and FRBM space — analyse whose share moved.",
+              "**The grants gamble**: the central grants-in-aid line's realism decides mid-year stress — compare with the previous year's realisation rate.",
+              "**Capex credibility**: allocations vs actual spends (irrigation capex has historically under-spent against BE) — an execution, not intention, problem; Polavaram/Amaravati reimbursement timing dominates.",
+              "**Debt disclosure**: check the FRBM statement for guarantees and off-budget notes — the CAG's follow-up is where truth surfaces.",
+              "**The comparison discipline**: always benchmark one southern peer (Telangana/Karnataka) on capex share and one high-debt peer (Kerala/Punjab) on deficit — placing AP rather than isolating it."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP Budget speech and volumes] --> B[Deficits vs FRBM]\n  A --> C[Receipts realism - grants line, SOTR growth]\n  A --> D[Welfare calendar vs capex share]\n  A --> E[Sector allocations - irrigation, roads, HRD]\n  B --> F[Fiscal verdict]\n  C --> F\n  D --> G[Priorities verdict]\n  E --> G\n  H[Socio-Economic Survey cross-check] --> F\n  H --> G"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "For the exam year: pull five headline numbers from the **AP Budget in Brief + Annual Financial Statement + Socio-Economic Survey** (outlay, RD, FD, capex, one flagship allocation) and thread them through this grid — the analysis writes itself.",
+              "Keep two evergreen evaluations: (a) 'AP's budget is a welfare state's budget financed by a developing state's revenues'; (b) the delivery machinery (DBT/secretariats) makes each rupee efficient even where the rupee count is strained."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Budget-highlights questions punish stale numbers but reward permanent structure. Learn the seven-point grid + the 2024-25 pivot narrative (welfare recalibration + Amaravati/Polavaram capital revival) and refresh figures each March."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP budget documents: **Annual Financial Statement (Art 202), Budget in Brief, FRBM statements, outcome budget, Socio-Economic Survey**.",
+      "AP budget scale: ~**₹3 lakh crore band**; welfare DBT programmes historically ~₹60-80,000 crore across schemes.",
+      "**Amaravati programme (2024)**: ~₹15,000 crore via World Bank (~$800 mn) + ADB; **Polavaram phase-1 tranche ₹12,157 crore**.",
+      "AP's GSDP growth has generally exceeded the national rate, led by **agriculture & allied (aqua)**.",
+      "**Agri free power** and rice subsidy are AP's long-standing non-DBT welfare lines.",
+      "Irrigation capex in AP habitually **under-executes against BE** — allocation ≠ expenditure.",
+      "The **AP Socio-Economic Survey** (published with the budget) is the official source of state growth and sector data."
+    ],
+    "mainsAngles": [
+      "Analyse the current AP budget using a structured framework of realism, deficits, composition and priorities.",
+      "Welfare calendar versus capital revival — evaluate the balance struck in AP's latest budget.",
+      "Allocations announce, actuals reveal — assess AP's capex execution record with the irrigation example.",
+      "Read AP's budget alongside its Socio-Economic Survey: does the fiscal strategy match the growth story?",
+      "Compare AP's budget priorities with one southern peer and one high-debt state to locate its fiscal position."
+    ],
+    "glossary": [
+      { "term": "Budget in Brief", "definition": "The summary volume of a state budget giving deficits, receipts and major allocations — the analyst's entry document." },
+      { "term": "Token provision", "definition": "A nominal entry (often ₹1,000–₹1 lakh) keeping a scheme alive in the demands without real funding — intent minus money." },
+      { "term": "Realisation rate", "definition": "Actual receipts as a share of budgeted receipts — the credibility measure for optimistic grant or revenue lines." },
+      { "term": "Socio-Economic Survey", "definition": "AP's pre-budget statistical report on GSDP, sectors and human development — the evidence base for budget analysis." },
+      { "term": "Flagship allocation", "definition": "The budget's politically defining scheme line — whose funding adequacy signals the government's true priority." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBA-024",
+    "sections": [
+      {
+        "heading": "State Finance Commission — the third tier's umpire",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Articles 243-I and 243-Y** (73rd/74th Amendments) mandate a **State Finance Commission every five years** to recommend: (a) division of the state's taxes/duties/tolls/fees between the state and its **panchayats and municipalities**; (b) assignment of taxes to local bodies; (c) **grants-in-aid** from the Consolidated Fund of the state; (d) measures to strengthen local finances. The SFC is the **Finance Commission's mirror at the third tier** — and its systematic neglect nationwide (late constitution, lapsed reports, unimplemented recommendations) is why Indian local bodies remain fiscal infants: local governments raise ~**1% of GDP** in own revenue (vs 3%+ in Brazil/South Africa); municipal own revenue ~0.4-0.5% of GDP."
+          },
+          {
+            "type": "table",
+            "headers": ["Local-finance stream", "Content", "AP reality"],
+            "rows": [
+              ["Own taxes", "Property tax (the anchor), profession tax share, advertisement, water/user charges", "AP moved to **capital-value property tax** reform (2021) — contested but base-widening; collection efficiency uneven"],
+              ["Assigned/shared", "Entertainment tax share, stamp-duty surcharge, mineral royalties share", "Assignments erratic; GST subsumed entertainment tax (local share issue)"],
+              ["SFC devolution", "Formula share of state taxes", "AP SFCs have recommended shares; **delays in constitution and ATR** mirror the national pathology"],
+              ["Central FC grants", "**15th FC: ~₹4.36 lakh crore to local bodies** nationally — tied (sanitation/water) + untied; conditions: audited accounts online, property-tax floor", "AP draws substantial PRI grants; conditionality pushed accounts digitisation (AuditOnline/PRIASoft)"],
+              ["Borrowing/other", "Municipal bonds (few AP ULBs rated), CSR, user-charge reform", "GVMC among rated ULBs; bond issuance nascent"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why SFCs underperform — and the AP record",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The national pathology (15th FC & 2nd ARC diagnosis)**: SFCs constituted late or not at all; staffed weakly; data on local finances absent; reports tabled late; Action-Taken Reports vaguer still; recommendations cherry-picked — the 15th FC made **timely SFC constitution an entry condition** for local grants (from 2024-25), the strongest compliance lever yet.",
+              "**AP's record**: SFCs have been constituted with gaps and lags (the state has seen fewer completed SFC cycles than the calendar requires); recommendations on per-capita grants and tax shares implemented partially; the **village secretariat system** (2019) changed the ground reality — functionaries multiplied at village level, but their **funding runs through state budget lines, not panchayat devolution** — deepening the parallel-structure critique from the local-governance note.",
+              "**Strengthening agenda**: constitutional discipline (constitute on time, table with ATR in one session), a **permanent SFC cell** with a local-finance database, property-tax modernisation (GIS rolls, capital values), user-charge realism for water/waste, untied-share predictability (formula-bound), municipal-bond readiness (accounts + ratings), and dovetailing central FC conditionalities with SFC formulas — the 15th FC's design already points this way.",
+              "**The federal-principle close**: money must follow functions (activity mapping) and functionaries — otherwise the 73rd/74th Amendments devolve responsibility without resources: 'unfunded federalism'."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[State taxes and duties] --> B[SFC - Arts 243-I and 243-Y]\n  B --> C[Devolution share to PRIs and ULBs]\n  B --> D[Grants in aid from state fund]\n  E[Central Finance Commission] --> F[Local-body grants - tied and untied]\n  C --> G[Local budgets]\n  D --> G\n  F --> G\n  H[Own revenue: property tax, user charges] --> G\n  G --> I[Services: water, sanitation, roads, lighting]\n  J[Pathology: late SFCs, weak data, ignored reports] --> B"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Anchor numbers: local own revenue ~1% of GDP; municipal ~0.4-0.5%; 15th FC local grants ₹4.36 lakh crore with entry conditions; Arts 243-I/243-Y; AP property-tax reform 2021.",
+              "Standard structure: constitutional mandate → five-stream finance table → national pathology + 15th FC's compliance levers → AP record incl. the secretariat-funding critique → strengthening agenda → 'money follows functions' close."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The highest-value points are the 15th FC's entry conditions (SFC constitution + online accounts + property-tax floor) and the AP-specific observation that secretariat funding bypasses panchayat budgets — together they show both national design and state ground-truth."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 243-I**: SFC for panchayats within one year of the 73rd Amendment and **every five years**; **Art 243-Y** extends it to municipalities.",
+      "SFC recommendations go to the Governor, laid before the legislature with an **Action Taken Report**.",
+      "**15th FC local grants: ~₹4.36 lakh crore** (2021–26); entry conditions include **timely SFC constitution (from 2024-25), online audited accounts, property-tax floor rates**.",
+      "India's local bodies raise ~**1% of GDP** as own revenue; municipal own revenue ~**0.4-0.5%** — among the world's lowest.",
+      "AP shifted ULB property tax to a **capital-value basis (2021)**.",
+      "**PRIASoft/AuditOnline** digitise panchayat accounts — grant-conditionality driven.",
+      "Profession tax ceiling (**Art 276**): ₹2,500/year — a frozen local-revenue lever needing constitutional amendment."
+    ],
+    "mainsAngles": [
+      "State Finance Commissions are the missing middle of Indian fiscal federalism — diagnose their neglect and the 15th FC's corrective levers.",
+      "Money must follow functions — evaluate local-body finances in AP across own revenue, SFC devolution and central grants.",
+      "Property tax is the unloved anchor of municipal finance — examine reform options with AP's capital-value shift.",
+      "Does AP's village secretariat system strengthen or bypass panchayat finance? Argue with the parallel-structure critique.",
+      "Design the terms of reference and data architecture for an effective AP State Finance Commission."
+    ],
+    "glossary": [
+      { "term": "State Finance Commission", "definition": "Constitutional body (Arts 243-I/243-Y) recommending tax sharing, assignment and grants between a state and its local bodies every five years." },
+      { "term": "Own-source revenue", "definition": "Revenue a local body raises itself (property tax, user charges) — the measure of genuine fiscal autonomy." },
+      { "term": "Entry condition", "definition": "Prerequisite (e.g., timely SFC, online accounts) a state/local body must meet to draw central FC grants — compliance by conditionality." },
+      { "term": "Activity mapping", "definition": "Explicit assignment of functions, funds and functionaries across government tiers — the operational test of devolution." },
+      { "term": "Untied grant", "definition": "Funds usable at the recipient's discretion for its mandate — the highest-autonomy transfer, favoured for basic services." },
+      { "term": "Unfunded mandate", "definition": "Responsibility devolved without matching resources — the chronic condition of India's third tier." }
+    ]
+  }
+]
