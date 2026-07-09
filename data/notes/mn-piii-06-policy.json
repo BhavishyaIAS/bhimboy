@@ -1,0 +1,274 @@
+[
+  {
+    "code": "MN-PIII-PAG-016",
+    "sections": [
+      {
+        "heading": "Public policy — the frame",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Public policy is 'whatever governments choose to do or not to do' (**Thomas Dye**). The **policy cycle**: agenda-setting → formulation → legitimation → **implementation** → evaluation → feedback. Indian policy instruments span **laws** (rights-based: RTI, NREGA, RTE, NFSA), **schemes** (centrally sponsored & central sector), **missions** (mission-mode: Swachh Bharat, Jal Jeevan), **regulation** (SEBI, RBI, TRAI) and **transfers** (DBT on the JAM trinity — Jan Dhan, Aadhaar, Mobile)."
+          },
+          {
+            "type": "table",
+            "headers": ["Sector", "Flagship interventions (know 2–3 each)", "Design logic"],
+            "rows": [
+              ["Poverty & livelihoods", "**MGNREGA (2005)** — legal work guarantee; **NRLM/SHGs**; **PM-KISAN** (₹6,000/yr)", "Rights-based safety net + income transfer"],
+              ["Food & nutrition", "**NFSA 2013** (~81 crore covered), **PM Poshan**, **Poshan Abhiyaan**", "Legal entitlement + life-cycle nutrition"],
+              ["Health", "**Ayushman Bharat** — PM-JAY (₹5 lakh cover) + Health & Wellness Centres; **National Health Mission**", "Insurance + primary-care strengthening"],
+              ["Education & skills", "**NEP 2020**, Samagra Shiksha, **PM-SHRI**, Skill India/PMKVY", "Foundational literacy → multidisciplinary HE"],
+              ["Infrastructure", "**PM Gati Shakti**, Bharatmala/Sagarmala, **PMAY (U&G)**, Jal Jeevan Mission (har ghar jal)", "Multimodal logistics + universal basic services"],
+              ["Financial inclusion & digital", "**Jan Dhan**, UPI, **Digital India**, ONDC", "Public digital infrastructure (DPI) as policy platform"],
+              ["Industry & agriculture", "**PLI schemes**, Make in India, MSP + PM-AASHA, e-NAM, FPOs", "Production incentives + market reform"],
+              ["Social justice", "PM-JANMAN, Stand-Up India, **PM Vishwakarma**, NSAP pensions", "Targeted last-mile inclusion"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The AP policy stack — must-cite specifics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Direct-transfer welfare architecture**: AP pioneered saturation DBT — farmer investment support (**Rythu Bharosa**, topping up PM-KISAN), education incentives (**Amma Vodi / Talliki Vandanam** era schemes), fee reimbursement — study them as the *saturation + DBT + secretariat-delivery* model.",
+              "**Delivery innovation**: village/ward **secretariats (2019)** and volunteers; **Spandana** grievance platform; e-crop booking for farm subsidies — administrative capillaries most states lack.",
+              "**Sectoral pushes**: AP Industrial Development Policy, port-led growth (Sagarmala alignment, new ports at Ramayapatnam, Machilipatnam, Bhavanapadu), renewable-energy parks, natural farming (**APCNF** — internationally cited community-managed natural farming).",
+              "Evaluation lens: high welfare coverage vs **fiscal stress** (debt/GSDP among the higher states), capex squeeze, and dependency debates — a balanced mains evaluation must carry both sides."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Policy problem] --> B[Agenda setting - politics, media, courts]\n  B --> C[Formulation - NITI, ministries, committees]\n  C --> D[Legitimation - cabinet, Parliament, budget]\n  D --> E[Implementation - bureaucracy, states, districts]\n  E --> F[Evaluation - CAG, NITI, third party]\n  F --> B\n  E --> G[Delivery rails: DBT, Aadhaar, secretariats]"
+          }
+        ]
+      },
+      {
+        "heading": "How to evaluate any intervention (the reusable grid)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Design**: universal vs targeted? rights-based vs discretionary? conditionality? — e.g., NFSA's legal right vs scheme-based discretion.",
+              "**Coverage & targeting errors**: inclusion/exclusion errors (PDS studies), SECC vs income-certificate targeting.",
+              "**Delivery**: leakage before/after DBT (**DBT savings claims ~₹3.5 lakh crore cumulative**), last-mile authentication failures.",
+              "**Outcomes vs outputs**: toilets built vs open-defecation behaviour; enrolment vs learning (**ASER** gaps).",
+              "**Fiscal sustainability & incentives**: subsidy vs capex balance; freebies debate (**RBI State Finances reports**).",
+              "**Federal fit**: one-size CSS vs state flexibility (Sub-group of CMs on CSS recommended 60:40 sharing & flexi-funds)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Never list schemes — evaluate two per sector using the grid (design → targeting → delivery → outcome → fiscal). Pair one central and one AP scheme in every answer; APPSC examiners specifically reward the AP pairing."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**MGNREGA**: legal guarantee of **100 days** per rural household; wages linked to CPI-AL; social audit statutorily mandated (Sec 17).",
+      "**NFSA 2013** covers **75% rural / 50% urban** population; 5 kg per person per month; Antyodaya 35 kg per household.",
+      "**PM-JAY**: ₹5 lakh per family per year, ~55 crore beneficiaries targeted; AP's counterpart heritage is **Aarogyasri (2007)** — the model for national health insurance.",
+      "**JAM trinity** enabling **DBT** — started with LPG (**PAHAL**), among the world's largest cash-transfer rails.",
+      "**PM Gati Shakti (2021)**: national master plan for multimodal infrastructure on a GIS platform.",
+      "**APCNF** (community-managed natural farming) is AP's globally cited agro-ecology programme.",
+      "CSS sharing pattern for most schemes: **60:40** (90:10 for NE/Himalayan states) after the 14th FC."
+    ],
+    "mainsAngles": [
+      "Rights-based legislation transformed Indian welfare from patronage to entitlement — discuss with MGNREGA, RTI, RTE and NFSA.",
+      "Digital public infrastructure is India's distinctive policy innovation — examine how JAM-DBT changed welfare delivery, with AP's secretariat model as a case.",
+      "Evaluate the saturation-welfare model of Andhra Pradesh on coverage, outcomes and fiscal sustainability.",
+      "Centrally sponsored schemes homogenise what federalism should differentiate — critically examine with reform suggestions.",
+      "Outputs are counted, outcomes are assumed — critique India's scheme-evaluation culture with examples."
+    ],
+    "glossary": [
+      { "term": "Centrally Sponsored Scheme", "definition": "Scheme funded jointly by Centre and states (typically 60:40) and implemented by states in State/Concurrent List areas — the main instrument of central influence on state priorities." },
+      { "term": "Direct Benefit Transfer", "definition": "Transfer of scheme benefits straight to Aadhaar-seeded bank accounts, minimising intermediaries and leakage; built on the JAM trinity." },
+      { "term": "Saturation approach", "definition": "Delivering a benefit to every eligible person rather than phased targeting — reduces exclusion error and discretion; fiscally demanding." },
+      { "term": "Inclusion/exclusion errors", "definition": "Targeting failures: benefits reaching the non-poor (inclusion) or missing the eligible poor (exclusion) — the core diagnostic of welfare design." },
+      { "term": "Mission mode", "definition": "Time-bound, outcome-focused implementation vehicle with dedicated governance (e.g., Swachh Bharat, Jal Jeevan) as against routine departmental delivery." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-017",
+    "sections": [
+      {
+        "heading": "Implementation — where policy goes to struggle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Implementation is the **conversion of policy intent into outcomes** through organisations, money, people and processes. **Pressman & Wildavsky** (*Implementation*, 1973) showed how the 'complexity of joint action' — many actors, many clearances — defeats even well-designed programmes. India's classic gap: **excellent policy, uneven delivery** — what the Economic Survey once called the difference between *outlays and outcomes*."
+          },
+          {
+            "type": "table",
+            "headers": ["Problem cluster", "Content", "Evidence/example"],
+            "rows": [
+              ["**Design flaws**", "Over-ambition, one-size-fits-all CSS, unclear objectives, poor piloting", "Farm laws' consultation deficit; frequent scheme renaming/overlap"],
+              ["**Administrative capacity**", "Vacancies, generalist churn (short tenures), weak state capability at the last mile", "District-level vacancies; average collector tenure < 2 years in many states"],
+              ["**Fiscal plumbing**", "Delayed fund release, parked funds, unspent balances, treasury single-account issues", "MGNREGA wage-payment delays; SNA reforms (2021) to track CSS floats"],
+              ["**Coordination failure**", "Vertical (Centre–state–district) and horizontal (department silos)", "Sanitation = water + health + education + behaviour; Gati Shakti created precisely to break silos"],
+              ["**Information & incentives**", "Target-chasing, data gaming, weak M&E, no consequence for failure", "Toilet-count vs usage; learning-outcome gaps (ASER)"],
+              ["**Corruption & capture**", "Leakage, elite capture of benefits, contractor nexus", "PDS diversion pre-DBT; muster-roll fraud"],
+              ["**Legal-procedural friction**", "Land acquisition, clearances, litigation stays", "Infrastructure time/cost overruns (MoSPI flash reports)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What actually fixes implementation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Delivery-unit approach**: PRAGATI (PM's tech-enabled review), project-monitoring groups, CM dashboards (AP's real-time governance heritage) — escalation with named accountability.",
+              "**Process re-engineering before digitisation**: DBT, e-FMS, JIT fund release (SNA/TSA), faceless & paperless interfaces — 'digitise the reformed process, not the broken one'.",
+              "**Convergence & saturation**: Aspirational Districts Programme (rank–support–compete on 49 indicators), mission convergence at district level.",
+              "**People**: tenure stability (SC in **T.S.R. Subramanian, 2013** — fixed tenures, civil services boards), specialist lateral entry, iGOT-Karmayogi capability building.",
+              "**Accountability from below**: social audit (MGNREGA Sec 17; **Meghalaya's social-audit law**), citizen charters with penalties (**AP Public Services Delivery Guarantee framework**), Spandana-style grievance redress with timelines.",
+              "**Evaluate and sunset**: NITI's DMEO, outcome budgets, third-party evaluation; close what fails."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Policy intent] --> B[Funds flow - timely, traceable]\n  A --> C[Capacity - people, tenure, skills]\n  A --> D[Coordination - convergence platforms]\n  B --> E[Last mile delivery]\n  C --> E\n  D --> E\n  E --> F[Feedback: social audit, grievance redress, dashboards]\n  F --> A\n  F --> G[Course correction and sunset decisions]"
+          }
+        ]
+      },
+      {
+        "heading": "The AP implementation story — both sides",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Strengths**: secretariat-volunteer capillaries deliver DBT with low friction; **Spandana** institutionalised grievance timelines; e-crop and land-records digitisation cut discretion; Aarogyasri's empanelment model showed process innovation at scale.",
+              "**Weaknesses to cite fairly**: scheme continuity ruptures with political cycles (renamed/paused schemes), capex crowd-out by committed welfare expenditure, contractor-payment arrears affecting works programmes, and Polavaram's time/cost overruns as the emblematic mega-project implementation case.",
+              "Use **Polavaram** as your full-spectrum example: inter-state clearances, R&R (rehabilitation of displaced tribal families), funding-pattern disputes with the Centre, technical redesign (diaphragm wall damage), and repeated deadline slippage — every implementation pathology in one project."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Name the seven problem clusters, then give fix-for-problem pairs (vacancy→tenure reform; leakage→DBT+social audit; silo→convergence). End with Polavaram or MGNREGA as a threaded case study. Pressman & Wildavsky + 'outlay vs outcome' phrasing signal conceptual command."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Pressman & Wildavsky (1973)** — founding study of implementation; 'complexity of joint action'.",
+      "**PRAGATI** (2015): PM's ICT-based multi-modal platform for Pro-Active Governance And Timely Implementation.",
+      "**Aspirational Districts Programme (2018)**: NITI Aayog; 112 districts; 5 themes, 49 indicators; AP districts included.",
+      "**SNA (Single Nodal Agency) system, 2021** tracks CSS funds to curb parked balances.",
+      "**T.S.R. Subramanian v. Union (2013)**: SC directed fixed tenures and Civil Services Boards for postings/transfers.",
+      "MGNREGA **Section 17** statutorily mandates **social audit** of works.",
+      "**DMEO** (Development Monitoring & Evaluation Office) under NITI Aayog conducts scheme evaluations."
+    ],
+    "mainsAngles": [
+      "'India does not have a policy problem; it has an implementation problem' — critically examine with sectoral evidence.",
+      "Identify the administrative, fiscal and informational bottlenecks in scheme implementation and match each with a proven reform.",
+      "Mega-project implementation in India is a study in the complexity of joint action — analyse using the Polavaram project.",
+      "Social audit and grievance-redress systems shift accountability from process to outcome — evaluate with MGNREGA and AP's Spandana.",
+      "Frequent transfers are the unpriced tax on Indian administration — discuss tenure-security reforms after T.S.R. Subramanian."
+    ],
+    "glossary": [
+      { "term": "Implementation gap", "definition": "The distance between policy objectives and realised outcomes, produced by design, capacity, funding, coordination and incentive failures." },
+      { "term": "Complexity of joint action", "definition": "Pressman & Wildavsky's phrase for how multiplying actors and decision points geometrically reduces the probability of successful implementation." },
+      { "term": "Outcome budgeting", "definition": "Budget documents mapping outlays to measurable outputs and outcomes per scheme — shifting review from spending to results." },
+      { "term": "Social audit", "definition": "Verification of records against ground reality by the beneficiary community itself (Gram Sabha), statutorily required under MGNREGA." },
+      { "term": "Last-mile delivery", "definition": "The final administrative link where services meet citizens — the stage where authentication, staffing and access failures concentrate." },
+      { "term": "Convergence", "definition": "Aligning multiple schemes/departments on a shared geography or outcome (e.g., Aspirational Districts) to overcome silo implementation." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-018",
+    "sections": [
+      {
+        "heading": "The development mosaic beyond the state",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Development is co-produced. **Civil society** — 'the arena, outside family, state and market, where people associate to advance common interests' — includes **NGOs/VOs, SHGs, cooperatives, trade unions, faith-based bodies, media, academia and community-based organisations (CBOs)**. Constitutional soil: **Art 19(1)(c)** (association), **Art 43** (cooperatives in DPSP), **Part IXB** (97th Amendment — cooperatives), and the deep Gandhian lineage of **constructive work** (Sarvodaya, Bhoodan)."
+          },
+          {
+            "type": "table",
+            "headers": ["Stakeholder", "Development role", "Marquee examples"],
+            "rows": [
+              ["**NGOs/VOs**", "Service delivery, innovation pilots, rights advocacy, watchdog", "**MKSS** → RTI movement; Pratham (ASER); SEWA; Akshaya Patra (mid-day meals)"],
+              ["**SHGs & federations**", "Micro-credit, livelihoods, women's empowerment", "**AP is the SHG heartland** — DWCRA→Velugu/**SERP**→NRLM's national template; bank-linkage model born in undivided AP"],
+              ["**Cooperatives**", "Aggregation, credit, dairy, sugar", "**Amul/NDDB**; PACS computerisation; Ministry of Cooperation (2021)"],
+              ["**Media & academia**", "Agenda-setting, evaluation, whistleblowing", "PDS/NREGA exposés; J-PAL/IFMR evidence"],
+              ["**Corporates (CSR)**", "Mandated 2% spend (**Companies Act 2013, Sec 135**)", "~₹25–30,000 crore/yr CSR pool"],
+              ["**International bodies**", "Finance, norms, technical aid", "World Bank, UN agencies, Global Fund/GAVI"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Contributions, tensions and the regulatory tightrope",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Contributions**: last-mile reach where the state is thin; voice for the voiceless (PILs by CSOs — Vishaka arose from an NGO coalition); policy authorship (**RTI from MKSS's jan sunwais; MGNREGA, FRA, NFSA from campaign coalitions**); innovation the state later scales (SHG bank linkage, ASHA-type community workers).",
+              "**Tensions**: accountability of the unelected; foreign-funding politics; briefcase NGOs; advocacy vs 'anti-development' labelling of protest (dam/mining/nuclear cases).",
+              "**Regulatory frame**: registration (Societies Act 1860/Trusts/Sec-8 companies), **FCRA 2010 (tightened 2020** — Aadhaar of office-bearers, SBI Delhi account, 20% admin cap, no sub-granting), CSR rules, **NITI Darpan** portal, income-tax 12A/80G. SC in **Noel Harper (2022)** upheld the FCRA amendments; critics note FCRA licence numbers have fallen sharply — the 'shrinking civic space' debate.",
+              "**Way forward (2nd ARC, 'Social Capital' report)**: accreditation instead of suspicion, transparent grant regimes, outcome-based partnership contracts, protect advocacy as democratic function while auditing funds strictly."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Development outcomes] --> B[State - policy, finance, scale]\n  A --> C[Market - investment, jobs, CSR]\n  A --> D[Civil society - reach, voice, innovation]\n  D --> E[Service delivery partner]\n  D --> F[Rights advocacy and watchdog]\n  D --> G[Social capital and self-help]\n  E --> H[Tension: autonomy vs contractor role]\n  F --> I[Tension: regulation vs civic space]"
+          }
+        ]
+      },
+      {
+        "heading": "The AP story — civil society as state partner",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**SERP (Society for Elimination of Rural Poverty)** and the **Velugu/Indira Kranthi Patham** SHG movement made undivided AP the national laboratory of women's federations (village → mandal → zilla samakhyas) — the direct ancestor of **NRLM (2011)**; cite **~9 lakh SHGs / crore-scale membership in AP** as the density fact.",
+              "**APCNF (natural farming)** runs through farmer federations and CRPs (community resource persons) — a civil-society-method programme inside government.",
+              "**Watchdog lineage**: social audits of NREGA were pioneered in undivided AP (SSAAT — the first state social-audit society), later a national model.",
+              "Balanced note: partnership can shade into **co-option** — SHG federations mobilised for state schemes raise the autonomy question; a strong mains conclusion holds both partnership and independence."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Anchor with the 2nd ARC 'Social Capital' report, one law (FCRA 2020 + Noel Harper 2022), one movement-to-law chain (MKSS→RTI), and the AP SHG/SSAAT story. The examiner wants roles + tensions + regulation + way forward, not an NGO catalogue."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**2nd ARC, 9th Report — 'Social Capital: A Shared Destiny'** covers NGOs, SHGs and cooperatives.",
+      "**FCRA 2010, amended 2020**: FC funds only in an **SBI New Delhi main branch** account; **sub-granting prohibited**; admin expenses capped at **20%**; upheld in **Noel Harper v. Union (2022)**.",
+      "**CSR**: Companies Act 2013, **Sec 135** — 2% of average net profits (3-yr) for companies meeting thresholds; Schedule VII activities.",
+      "**97th Amendment (2011)**: cooperatives — Art 19(1)(c) expanded, **Art 43B**, Part IXB (Part IXB partly struck for states in **Rajendra Shah, 2021**, valid for multi-state cooperatives).",
+      "**MKSS's** jan sunwai movement (Rajasthan) catalysed **RTI 2005**.",
+      "AP's **SERP** (2000) and social-audit society **SSAAT** were national firsts; NRLM scaled the AP SHG model.",
+      "**NITI Darpan**: NGO registration portal for government grants."
+    ],
+    "mainsAngles": [
+      "Civil society is the third pillar of development, neither state nor market — examine its distinctive contributions with Indian examples.",
+      "From MKSS to MGNREGA, India's rights laws were authored on the streets — discuss the policy role of social movements.",
+      "Regulation of foreign-funded NGOs balances sovereignty against civic space — critically evaluate the FCRA regime after 2020.",
+      "The Andhra SHG movement shows the state scaling civil-society method — analyse its achievements and the co-option risk.",
+      "Suggest a partnership framework between government and voluntary organisations based on the 2nd ARC's Social Capital report."
+    ],
+    "glossary": [
+      { "term": "Civil society", "definition": "The associational space between family, state and market where citizens organise for shared purposes — NGOs, SHGs, unions, media, faith bodies, CBOs." },
+      { "term": "Social capital", "definition": "Networks of trust and reciprocity that enable collective action (Putnam); the 2nd ARC's frame for India's NGO-SHG-cooperative sector." },
+      { "term": "Self-Help Group", "definition": "10–20 member savings-and-credit affinity group, bank-linked and federated; the AP-pioneered backbone of NRLM's women's livelihoods architecture." },
+      { "term": "FCRA", "definition": "Foreign Contribution (Regulation) Act, 2010 (amended 2020) governing foreign donations to associations — registration, designated SBI account, use restrictions." },
+      { "term": "Co-production", "definition": "Joint delivery of public services by state agencies and citizen groups (e.g., social audits, community health workers), combining authority with local knowledge." },
+      { "term": "Advocacy NGO", "definition": "Organisation whose primary work is influencing policy and defending rights rather than delivering services — the segment most affected by regulatory tightening." }
+    ]
+  }
+]

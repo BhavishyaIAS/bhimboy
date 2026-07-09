@@ -1,0 +1,276 @@
+[
+  {
+    "code": "MN-PIII-PAG-019",
+    "sections": [
+      {
+        "heading": "The taxonomy — who is what",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Statutory bodies** are created by an Act of Parliament/state legislature (NHRC, CVC, CIC). **Regulatory bodies** are statutory bodies that license, set standards, and police markets or sectors (RBI, SEBI, TRAI, IRDAI). **Quasi-judicial authorities** decide disputes and impose penalties with court-like procedure but outside regular courts (tribunals, commissions, even the ECI when deciding disqualification references). One body can be all three — SEBI legislates (regulations), executes (inspections) and adjudicates (penalties): the classic **'mini-state' criticism**."
+          },
+          {
+            "type": "table",
+            "headers": ["Body", "Statute", "Mandate — one line"],
+            "rows": [
+              ["**RBI**", "RBI Act 1934; BR Act 1949", "Monetary policy (**MPC, 4% ±2 inflation target**), banking regulation, payments"],
+              ["**SEBI**", "SEBI Act 1992", "Securities market regulation & investor protection (post-Harshad Mehta)"],
+              ["**TRAI**", "TRAI Act 1997", "Telecom tariffs/QoS; disputes go to **TDSAT**"],
+              ["**CCI**", "Competition Act 2002", "Anti-trust: cartels, abuse of dominance, merger control"],
+              ["**IRDAI / PFRDA / FSSAI / CERC-SERC / AERB**", "Sectoral Acts", "Insurance / pensions / food safety / electricity (**APERC** in AP) / atomic safety"],
+              ["**NHRC/SHRC**", "PHRA 1993", "Human-rights inquiry — recommendations only ('teasing illusion'? — its own critique)"],
+              ["**CVC**", "CVC Act 2003", "Vigilance superintendence; supervises CBI in corruption cases (**Vineet Narain, 1997**)"],
+              ["**CIC/SICs**", "RTI Act 2005", "Second-appeal authority on information"],
+              ["**Lokpal / Lokayukta**", "Lokpal & Lokayuktas Act 2013", "Anti-corruption ombudsman for public functionaries"],
+              ["**NGT**", "NGT Act 2010", "Environmental adjudication — polluter pays, precaution"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why regulators exist — and where they hurt",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Rationale**: post-1991, the state moved from **producer to referee** — independent expertise, insulation from daily politics, credible commitment to investors, consumer protection in natural monopolies.",
+              "**Accountability deficit**: appointed not elected; fused powers; weak parliamentary oversight (annual reports tabled, rarely debated) — the **'regulatory state' legitimacy question**.",
+              "**Independence deficit**: executive control of appointments/removals; post-retirement positions; budget dependence; 'revolving door'.",
+              "**Capacity & capture**: staff shortages, industry-dominated information, **regulatory capture** (Stigler); overlaps (CCI vs sectoral regulators; RBI vs SEBI on hybrid products).",
+              "**Tribunalisation troubles**: vacancies, executive-tilted selection committees — repeatedly struck down (**Madras Bar Association cases; Rojer Mathew, 2019**); **L. Chandra Kumar (1997)** keeps HC review intact.",
+              "**Reforms**: FSLRC's unified-agency and due-process template, statutory selection norms, cooling-off periods, regulatory-impact assessment, sunset reviews, and a parliamentary committee on regulators (2nd ARC & Financial Sector reports)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Liberalised economy 1991] --> B[State exits production]\n  B --> C[Independent regulators as referees]\n  C --> D[Powers: rule-making, licensing, adjudication]\n  D --> E[Concern: fused powers - mini state]\n  D --> F[Concern: independence from executive]\n  D --> G[Concern: capture by industry]\n  E --> H[Fix: due process, RIA, appeals to tribunals]\n  F --> I[Fix: statutory selection, tenure, cooling off]\n  G --> J[Fix: transparency, capacity, oversight]"
+          }
+        ]
+      },
+      {
+        "heading": "AP dimension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**APERC** (electricity tariffs — the PPA renegotiation controversy over renewable tariffs was a national test of regulatory sanctity of contracts), **RERA-AP** (real estate), **AP Lokayukta**, **APSHRC**, **APSIC** (information), and the **AP Administrative Tribunal** lineage under **Art 371D**.",
+              "Post-bifurcation, several commissions had to be reconstituted afresh — filling them promptly is itself a governance-quality indicator to cite.",
+              "Use one AP case (APERC-PPA episode) to illustrate the national principle: regulatory certainty is investment policy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define the three categories with one example each, then argue the twin deficits (accountability + independence) with Vineet Narain, Madras Bar Association and the FSLRC template. Close with an AP regulator. Precision beats coverage here."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**MPC** (2016): 6 members, 4% CPI target ±2%, RBI Governor has casting vote.",
+      "**Vineet Narain (1997)** gave CVC statutory-style supervision of CBI; CVC Act followed in **2003**.",
+      "**NHRC** chair: a former CJI **or SC judge** (2019 amendment); recommendations are non-binding.",
+      "**TDSAT** hears telecom appeals; **NCLAT** hears CCI appeals; **SAT** hears SEBI appeals.",
+      "**NGT (2010)**: principles of sustainable development, precaution, polluter pays are statutory (Sec 20).",
+      "**L. Chandra Kumar (1997)**: tribunal orders subject to HC Division Bench review — judicial review is basic structure.",
+      "**APERC** regulates AP power tariffs; electricity is a **Concurrent** subject."
+    ],
+    "mainsAngles": [
+      "The rise of the regulatory state has outpaced its accountability framework — critically examine with Indian examples.",
+      "Fusion of legislative, executive and judicial powers in regulators violates separation of powers — evaluate with SEBI/CCI and due-process safeguards.",
+      "Tribunalisation was meant to speed justice but has become a site of executive control — discuss with recent case law.",
+      "Regulatory certainty is the first infrastructure — analyse with reference to the AP power-purchase renegotiation episode."
+    ],
+    "glossary": [
+      { "term": "Statutory body", "definition": "Authority created by legislation, deriving powers from its parent Act — distinct from constitutional bodies and purely executive creations." },
+      { "term": "Quasi-judicial authority", "definition": "Body that determines rights and imposes liabilities through court-like procedure (notice, hearing, reasoned order) without being a court — e.g., tribunals, commissions, regulators' adjudication wings." },
+      { "term": "Regulatory capture", "definition": "Stigler's thesis that regulated industries co-opt their regulators through information asymmetry, career incentives and lobbying, turning regulation to private benefit." },
+      { "term": "Regulatory impact assessment", "definition": "Ex-ante cost-benefit evaluation of proposed regulations with stakeholder consultation — the FSLRC-recommended discipline for rule-making." },
+      { "term": "Revolving door", "definition": "Movement of personnel between regulator and regulated industry, creating conflict-of-interest risks; addressed by cooling-off periods." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-020",
+    "sections": [
+      {
+        "heading": "Why democracy needs a permanent civil service",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The civil service is the **permanent executive**: politically neutral, professionally competent, serving successive elected governments. Sardar **Patel**, defending the services in the Constituent Assembly ('you will not have a united India if you do not have a good all-India service'), secured **constitutional protection**: **Art 309** (recruitment & conditions), **Art 310** (pleasure doctrine), **Art 311** (safeguards against arbitrary dismissal), **Art 312** (All-India Services — IAS, IPS, IFoS — common to Centre and states)."
+          },
+          {
+            "type": "table",
+            "headers": ["Role in democracy", "Content"],
+            "rows": [
+              ["Policy advice", "Institutional memory + evidence → 'speaking truth to power'; frank noting protected by anonymity"],
+              ["Implementation", "From cabinet decision to village delivery — the state's hands and feet"],
+              ["Continuity & stability", "Bridges electoral cycles; runs the state during transitions and crises (elections themselves are civil-service-run)"],
+              ["Rule of law & rights", "Administers laws impartially; the collector as statutory authority under dozens of Acts"],
+              ["Development leadership", "District mission mode: NREGA to Aspirational Districts; first responders in disasters (cyclone-tested in AP)"],
+              ["Federal glue", "AIS officers serve Union and states — Patel's 'steel frame' argument for **Art 312**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The pathologies — and the reform ledger",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Politicisation**: transfer-posting as reward/punishment; 'committed bureaucracy' vs constitutional loyalty. Fixes: **T.S.R. Subramanian (2013)** — fixed tenure, Civil Services Boards; written record of oral instructions.",
+              "**Generalist vs specialist**: complex sectors need domain depth — **lateral entry** (mission-mode hires), **iGOT-Karmayogi** competency framework (2020), consultative specialist pools.",
+              "**Risk aversion & the 'honest inaction' problem**: fear of post-facto investigation (CVC/CBI/4Cs) → decision paralysis; **PC Act amendment 2018** (Sec 17A prior approval) sought balance.",
+              "**Accountability without harassment**: weak performance appraisal, near-zero exit for non-performers — **FR 56(j)** reviews, intensive 360° empanelment at the Centre; 2nd ARC's 'Refurbishing of Personnel Administration' recommended performance agreements.",
+              "**Ethics & integrity**: conduct rules, **Nolan principles**, proposed Civil Service Code in the Civil Services Bill drafts; asset transparency.",
+              "**Representativeness**: reservation in services as social democracy; gender gap in AIS improving but thin at the top."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Civil service in democracy] --> B[Neutral competence]\n  A --> C[Political responsiveness]\n  B --> D[Risk: ossified, unaccountable]\n  C --> E[Risk: politicised, committed]\n  D --> F[Reforms: performance, exit, specialisation]\n  E --> G[Reforms: tenure security, boards, recorded advice]\n  F --> H[Balanced: responsive yet impartial service]\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "AP angle and the balanced close",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "AP's delivery reputation rides on its field bureaucracy: cyclone evacuation excellence (from **1996/Hudhud 2014 to Michaung 2023** — mortality collapsed versus 1977's ~10,000 deaths), Aarogyasri/DBT administration, and the secretariat cadre (~1.3 lakh) — a **new sub-civil-service layer** whose service conditions and career paths are a live administrative question.",
+              "Friction file: high-profile transfer churn around political transitions in AP illustrates the tenure problem; APPSC's calendar credibility affects the state's talent pipeline.",
+              "Close with the classical balance: the civil servant owes **loyalty to the Constitution, responsiveness to the elected government, and service to the citizen** — in that order (the 'constitutional conscience' formulation)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Patel's Constituent Assembly quote + Arts 309–312 + three pathologies with their matched reforms (tenure/lateral entry/56(j)) + one AP fact (cyclone administration or secretariat cadre) = a complete, distinctive answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 312**: new All-India Service needs a **Rajya Sabha resolution (2/3 present & voting)** — federal consent logic; IAS/IPS/IFoS exist (IFoS added 1966).",
+      "**Art 311** safeguards: no dismissal by authority subordinate to the appointing one; inquiry with opportunity of hearing (exceptions: conviction, impracticability, security).",
+      "**T.S.R. Subramanian (2013)**: fixed tenures, Civil Services Boards, no oral-instruction compliance without record.",
+      "**Sec 17A, PC Act (2018 amendment)**: prior approval before investigating decisions of public servants (relatable to honest-error protection).",
+      "**Mission Karmayogi (2020)**: NPCSCB — competency-based (iGOT) capacity building; SPARROW for APAR.",
+      "**FR 56(j)**: compulsory retirement in public interest after service review — the existing 'exit' tool.",
+      "Patel is called the **'patron saint of the civil services'** for the Constituent Assembly defence (October 1949)."
+    ],
+    "mainsAngles": [
+      "'The civil service must be responsive to the government of the day but loyal only to the Constitution' — discuss the neutrality-commitment dilemma.",
+      "Evaluate tenure security, lateral entry and Mission Karmayogi as answers to the three classic critiques of the Indian bureaucracy.",
+      "Risk-averse administration is the hidden cost of anti-corruption architecture — examine with Section 17A and decision-paralysis evidence.",
+      "The All-India Services are federal glue and federal grievance at once — analyse Centre–state friction over deputation and control.",
+      "Disaster administration in Andhra Pradesh shows the civil service at its best — analyse what made cyclone response a success story."
+    ],
+    "glossary": [
+      { "term": "Neutrality (civil service)", "definition": "Non-partisan service of successive governments with equal fidelity — advice without fear, implementation without favour." },
+      { "term": "Committed bureaucracy", "definition": "1970s demand that officials be committed to the ruling party's ideology — rejected in favour of commitment to the Constitution." },
+      { "term": "Pleasure doctrine (Art 310)", "definition": "Civil servants hold office during the President's/Governor's pleasure, tempered by Article 311's procedural safeguards." },
+      { "term": "Lateral entry", "definition": "Direct recruitment of domain experts into senior government positions outside the career-service route." },
+      { "term": "Mission Karmayogi", "definition": "National Programme for Civil Services Capability Building (2020): role-based competencies, iGOT platform, continuous learning." },
+      { "term": "360-degree empanelment", "definition": "Multi-source reputation assessment used at the Centre for senior postings, supplementing written APARs — praised for candour, criticised for opacity." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-021",
+    "sections": [
+      {
+        "heading": "Good governance — from slogan to framework",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "'Good governance' entered the lexicon through the **World Bank (1992)** — 'the manner in which power is exercised in the management of a country's economic and social resources for development'. **UN/ESCAP's eight characteristics**: **participatory, consensus-oriented, accountable, transparent, responsive, effective & efficient, equitable & inclusive, rule of law**. Indian roots go deeper — **Ram Rajya, Kautilya's praja-sukha**, and Gandhi's **antyodaya** (the last person first). The **2nd ARC** framed it as citizen-centric administration; **'minimum government, maximum governance'** is the current political formulation; **Good Governance Day: 25 December**; the **Good Governance Index (DARPG, 2019)** ranks states."
+          },
+          {
+            "type": "table",
+            "headers": ["Pillar", "Indian instruments"],
+            "rows": [
+              ["Transparency", "**RTI 2005**, proactive disclosure (Sec 4), open data (data.gov.in), e-procurement (GeM)"],
+              ["Accountability", "CAG–PAC chain, social audit, **Citizen's Charters**, Lokpal/Lokayukta, e-governance audit trails"],
+              ["Responsiveness", "CPGRAMS & **AP's Spandana**, service-guarantee laws (time-bound delivery), single-window systems"],
+              ["Rule of law", "Judicial review, police & criminal-justice reform, legal aid (**Art 39A**)"],
+              ["Participation", "Gram Sabha, ward committees, pre-legislative consultation policy (2014), MyGov"],
+              ["Inclusion", "Reservation, DBT saturation, accessibility (Divyangjan), gender budgeting"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "e-Governance — SMART government",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "e-Governance is the use of ICT to make government **SMART — Simple, Moral, Accountable, Responsive, Transparent**. Interaction types: **G2C, G2B, G2G, G2E**. Milestones: computerisation era → **NeGP (2006, 31 Mission-Mode Projects)** → **Digital India (2015)** with its trinity of **JAM**, **India Stack** (Aadhaar e-KYC, UPI, DigiLocker, e-Sign, Account Aggregator) and **DPI** (digital public infrastructure — India's G20 export). Current stack: **UMANG, DigiLocker, GeM, e-Courts, PM Gati Shakti GIS, Bhashini (AI translation), ONDC, CoWIN** — with **DPDP Act 2023** as the data-protection counterweight."
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Gains**: disintermediation (fewer rent-seeking touchpoints), speed & scale (UPI ~half of global real-time payments), audit trails, inclusion at marginal cost (~₹3.5 lakh crore cumulative DBT savings claim).",
+              "**Risks**: digital divide (gender, rural, elderly), **exclusion by authentication failure** (biometric misses in PDS/NREGA), privacy & surveillance (post-**Puttaswamy** proportionality), cybersecurity, vendor lock-in and 'digitising broken processes'.",
+              "**Maturity rule**: e-governance succeeds where **process re-engineering + connectivity + capacity + change management** precede software — the 2nd ARC's 'Promoting e-Governance' (11th Report) checklist."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Good governance goal] --> B[Transparency - RTI, open data]\n  A --> C[Accountability - audit, charters, ombudsman]\n  A --> D[Responsiveness - grievance redress, time-bound services]\n  A --> E[Inclusion - DBT, accessibility, participation]\n  F[e-Governance rails: Aadhaar, UPI, DigiLocker, dashboards] --> B\n  F --> C\n  F --> D\n  F --> E\n  F --> G[Guard rails: DPDP Act, cybersecurity, offline fallback]"
+          }
+        ]
+      },
+      {
+        "heading": "AP — the e-governance pioneer state",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Firsts**: undivided AP ran India's earliest e-governance at scale — **TWINS/e-Seva (1999–2001)** one-stop citizen centres, **CARD** (registration computerisation), **Bhudhaar/WebLand** land records — the lineage behind today's **Mee-Seva (400+ services)**.",
+              "**Current stack**: village/ward secretariats as physical front-ends + volunteers; **Spandana** grievance timelines; e-crop enrolment driving DBT; **RTGS-style real-time governance centres**; land-titling experiments.",
+              "**Cautions for balance**: authentication-failure exclusions, data-privacy governance at state level, and continuity of platforms across political cycles.",
+              "AP consistently features in the **Good Governance Index** service-delivery rankings — quote 'among the leaders in citizen-centric digital delivery' rather than a dated rank."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define good governance via UNESCAP's 8 traits, map each to one Indian instrument, then argue e-governance as the enabler with the SMART acronym, two gains, two risks, and AP's e-Seva→Mee-Seva→secretariat arc as the case study. That structure fits every phrasing from 'good governance' to 'digital governance'."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**UN/ESCAP lists 8 characteristics** of good governance; World Bank popularised the term (1989–92 reports).",
+      "**Good Governance Day — 25 December**; **Good Governance Index** by DARPG (2019, 2021).",
+      "**NeGP (2006)**: 27→31 Mission-Mode Projects; **Digital India launched 1 July 2015**.",
+      "**India Stack** layers: identity (Aadhaar), payments (UPI), data (DigiLocker/Account Aggregator, consent-based).",
+      "**DPDP Act 2023**: consent-based digital personal-data regime; Data Protection Board; grounded in **Puttaswamy (2017)**.",
+      "AP's **e-Seva (2001, Hyderabad)** and **CARD (1998)** were national e-governance firsts; **Mee-Seva (2011)** continues in AP.",
+      "**CPGRAMS** is the Centre's grievance portal; AP's counterpart is **Spandana**."
+    ],
+    "mainsAngles": [
+      "Good governance is the meeting point of ancient Indian statecraft and modern institutional design — discuss from Kautilya to the Good Governance Index.",
+      "e-Governance removes the discretionary middle layer of administration — evaluate gains and new exclusions with Indian evidence.",
+      "Digital public infrastructure is India's distinct governance model — examine its components and the safeguards it still needs.",
+      "Trace Andhra Pradesh's journey from e-Seva to village secretariats and assess what it teaches about last-mile digital governance.",
+      "'Technology cannot fix what process design breaks' — critically examine with the 2nd ARC's e-governance framework."
+    ],
+    "glossary": [
+      { "term": "Good governance", "definition": "Exercise of public power that is participatory, transparent, accountable, responsive, equitable, effective and rule-of-law bound (UN/ESCAP's eight traits)." },
+      { "term": "SMART governance", "definition": "Simple, Moral, Accountable, Responsive, Transparent government — the objective of e-governance." },
+      { "term": "Mission-Mode Project", "definition": "Individually monitored e-governance project with defined services and timelines under NeGP (e.g., land records, e-districts, passports)." },
+      { "term": "India Stack / DPI", "definition": "Open digital public infrastructure — identity, payments and consented data-sharing layers — on which public and private services are built." },
+      { "term": "Digital divide", "definition": "Unequal access to digital services across income, gender, age and geography — the central equity risk of e-governance." },
+      { "term": "Proactive disclosure", "definition": "Section 4 RTI obligation to publish information suo motu, reducing the need for applications — the transparency default." }
+    ]
+  }
+]
