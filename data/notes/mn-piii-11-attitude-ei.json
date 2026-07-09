@@ -1,0 +1,268 @@
+[
+  {
+    "code": "MN-PIII-EIPS-032",
+    "sections": [
+      {
+        "heading": "Attitude — content, structure, functions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "An **attitude** is a **learned, relatively enduring evaluative disposition** — favourable or unfavourable — toward an object, person, idea or institution. Its **content/structure** is the **ABC (tri-component) model**: **A**ffective (feelings — 'I like the office of the collector'), **B**ehavioural (action tendency — 'I will prepare for Group-I'), **C**ognitive (beliefs — 'the civil service enables large-scale good'). Attitudes vary on **valence** (direction), **extremity/strength**, **accessibility** (how fast they activate), **explicit vs implicit** (professed vs automatic — implicit caste/gender bias can contradict professed equality: crucial administrative insight)."
+          },
+          {
+            "type": "table",
+            "headers": ["Function (Katz)", "What the attitude does for the holder", "Administrative example"],
+            "rows": [
+              ["**Utilitarian/adjustive**", "Maximises reward, minimises punishment", "Pro-compliance attitude to taxes when refunds are smooth"],
+              ["**Knowledge**", "Organises a complex world into schemas", "Stereotypes as (dangerous) cognitive shortcuts in policing"],
+              ["**Ego-defensive**", "Protects self-esteem from threat", "Blaming 'the system' to avoid confronting one's own inefficiency"],
+              ["**Value-expressive**", "Expresses core self-concept", "Wearing khadi expressing swadeshi identity; conspicuous integrity"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Attitude ↔ thought and behaviour — the honest relationship",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Attitudes influence thought**: they filter attention and memory (**confirmation bias**) — an officer convinced 'beneficiaries cheat' will find cheating and miss exclusion errors.",
+              "**But behaviour doesn't follow automatically** — **LaPiere (1934)** (Chinese couple served despite anti-Chinese attitudes) showed the attitude-behaviour gap; behaviour follows best when the attitude is **strong, specific, personally experienced and socially supported** (Fishbein-Ajzen's **theory of planned behaviour**: intention = attitude + subjective norms + perceived control).",
+              "**Behaviour also creates attitude**: **cognitive dissonance (Festinger)** — acting against one's attitude generates discomfort resolved by attitude change (officers made to conduct social audits often become audit-believers); **foot-in-the-door** and role-playing effects.",
+              "**Administrative payoff**: to change public behaviour (sanitation, helmet use), change **norms and ease of action**, not just minds — the **nudge** insight (SBM's community-led total sanitation worked on norms, not pamphlets)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Cognition - beliefs] --> D[Attitude]\n  B[Affect - feelings] --> D\n  C[Behavioural tendency] --> D\n  D --> E{Moderators: strength, norms, control}\n  E --> F[Behaviour]\n  F --> G[Dissonance if behaviour contradicts attitude]\n  G --> D"
+          }
+        ]
+      },
+      {
+        "heading": "Formation and change — the levers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Formation**: direct experience (strongest), classical/operant conditioning, **observational learning** (Bandura), group affiliation, media & repetition (mere-exposure effect).",
+              "**Change routes — Elaboration Likelihood Model (Petty & Cacioppo)**: **central route** (quality arguments, when audience is motivated & able — policy consultations) vs **peripheral route** (source attractiveness, emotion, slogans — mass campaigns); durable change needs the central route.",
+              "**Persuasion variables**: credible + trustworthy source (why **ASHA/ANM** vaccine messengers beat ads), two-sided messages for educated audiences, moderate fear + efficacy (COVID messaging lesson), inoculation against misinformation.",
+              "**AP hook**: attitude-change programmes at scale — **Swachh** behaviour change, e-crop/DBT shifting farmer attitudes toward formal systems, and police 'Disha' app adoption as trust-building — evaluate each as central vs peripheral persuasion."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Definitions + ABC + Katz's four functions + LaPiere/dissonance + ELM is the complete toolkit. In case studies, name the function an attitude is serving (ego-defensive?) and the route you'd use to change it — that vocabulary converts psychology into administration."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**ABC model**: Affective, Behavioural, Cognitive components of attitude.",
+      "**Katz (1960)**: four functions — utilitarian, knowledge, ego-defensive, value-expressive.",
+      "**LaPiere (1934)**: classic demonstration of the attitude–behaviour gap.",
+      "**Festinger (1957)**: cognitive dissonance — discomfort from inconsistent cognitions drives attitude change.",
+      "**Theory of planned behaviour (Ajzen)**: attitude + subjective norm + perceived behavioural control → intention → behaviour.",
+      "**Elaboration Likelihood Model**: central (argument-based, durable) vs peripheral (cue-based, fragile) persuasion.",
+      "**Mere-exposure effect (Zajonc)**: repeated exposure alone increases liking."
+    ],
+    "mainsAngles": [
+      "Explain the structure and functions of attitude and their relevance to a civil servant's daily work.",
+      "Attitudes predict behaviour only under conditions — examine with LaPiere and the theory of planned behaviour.",
+      "Behaviour change is often the fastest route to attitude change — discuss with cognitive dissonance and administrative examples.",
+      "Design a behaviour-change campaign (sanitation/road safety) using the central and peripheral routes of persuasion.",
+      "Implicit bias can defeat professed equality — analyse its administrative dangers and debiasing strategies."
+    ],
+    "glossary": [
+      { "term": "Attitude", "definition": "A learned, enduring evaluation — positive or negative — of an object, person or idea, predisposing responses toward it." },
+      { "term": "Cognitive dissonance", "definition": "Psychological tension from holding inconsistent cognitions or acting against one's attitudes, typically resolved by changing the attitude." },
+      { "term": "Implicit attitude", "definition": "Automatic, unconscious evaluation that may diverge from professed views — the seat of unexamined bias." },
+      { "term": "Central route persuasion", "definition": "Attitude change through careful processing of argument quality; produces durable, behaviour-linked attitudes." },
+      { "term": "Subjective norm", "definition": "Perceived social expectation regarding a behaviour — often the decisive lever in public-behaviour campaigns." },
+      { "term": "Confirmation bias", "definition": "The tendency to seek and weigh evidence that supports existing attitudes while discounting contrary evidence." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-033",
+    "sections": [
+      {
+        "heading": "Moral attitude and political attitude",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **moral attitude** is an evaluative disposition anchored in **right/wrong judgments** (justice, honesty, care, purity) — experienced as **objective and non-negotiable**, which is why moral disagreements escalate (moral conviction resists compromise, majority pressure and even law). A **political attitude** is a disposition toward **power, institutions and policy** — ideology (left–right; liberty–equality trade-offs), party identification, trust in institutions, and issue positions. The two interlock: **moralised politics** (when policy becomes sacred value) mobilises intensely but polarises dangerously — the administrator must convert moralised conflict back into negotiable interests."
+          },
+          {
+            "type": "table",
+            "headers": ["Attitude type", "Formation drivers", "Administrative significance"],
+            "rows": [
+              ["Moral", "Family & early socialisation, religion, **moral emotions** (guilt, empathy, disgust), Kohlberg-stage reasoning, moral exemplars", "Predicts integrity under pressure; source of conscientious objection; also of moral rigidity"],
+              ["Political", "Family transmission (strongest single predictor), class/caste/region identity, media ecosystems, generational events (Emergency, liberalisation, bifurcation of AP)", "Officer must be **politically aware but politically neutral** — serving all attitudes without sharing any publicly"]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Haidt's Moral Foundations Theory** — care, fairness, loyalty, authority, sanctity (+liberty): different publics weight foundations differently; policy communication that speaks only 'care/fairness' misses 'loyalty/sanctity' audiences — a persuasion insight for field officers.",
+              "**Civil servant's line**: the AIS Conduct Rules bar public political expression; neutrality of conduct need not mean moral neutrality — an officer is partisan for the **Constitution's** morality (equality, dignity, secular fairness) while neutral among **parties**."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Social influence — how attitudes move people",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Conformity** — **Asch (1951)**: 1/3 conformed to obviously wrong majorities; drivers: normative (fit in) & informational (they must know) influence; antidote: one dissenter breaks the spell — institutional lesson: protect the first dissenting voice (file notings, board minority notes).",
+              "**Obedience** — **Milgram (1963)**: ~65% administered 'maximum shocks' under authority; gradual escalation + diffused responsibility; administrative parallel: illegal orders executed down a chain — hence the rule of **written orders** and personal liability for manifestly illegal commands.",
+              "**Compliance techniques**: foot-in-the-door, door-in-the-face, low-balling — recognise them in vendor negotiations and political demands.",
+              "**Group dynamics**: **groupthink (Janis)** — cohesive groups suppress dissent (policy fiascos); **group polarisation** — deliberation among the like-minded radicalises (social-media echo chambers; communal rumour cascades — the DM's first task in tension: break the information monoculture).",
+              "**Persuasion in public life**: source credibility, message framing (loss vs gain), narrative > statistics for mass audiences, **prebunking** misinformation — the modern district communication toolkit."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Individual attitude] --> B[Normative influence - desire to belong]\n  A --> C[Informational influence - others as evidence]\n  B --> D[Conformity - Asch]\n  C --> D\n  A --> E[Authority pressure - Milgram obedience]\n  D --> F[Group polarisation and groupthink]\n  E --> F\n  F --> G[Safeguards: protected dissent, written orders, diverse groups, devil's advocate]"
+          }
+        ]
+      },
+      {
+        "heading": "The AP field view and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Live applications**: rumour-driven mob events and the administrator's counter-speech duty; faction politics of Rayalaseema as inherited political attitudes; welfare-scheme credit wars moralising policy; social-media polarisation around bifurcation-era grievances (SCS) — each is a social-influence case study waiting to be cited.",
+              "**Officer's toolkit**: institutionalise dissent (red-team reviews), rotate advisory circles (anti-groupthink), pre-bunk before festivals/verdicts, engage credible local messengers (clergy, SHG leaders, teachers), and keep own political attitudes off the record — **visible neutrality is itself a trust technology**."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: This theme = definitions (moral vs political attitude) + Asch/Milgram/Janis with numbers + two administrative safeguards + one AP application. Examiners specifically reward the experiments' figures (1/3, 65%) and the institutional translation."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Asch (1951)**: ~33% conformity to wrong majority judgments; unanimity is the key variable — one dissenter collapses conformity.",
+      "**Milgram (1963)**: ~65% obeyed to the maximum shock level; proximity of victim and authority legitimacy moderate obedience.",
+      "**Janis (1972)**: groupthink — illusion of unanimity, self-censorship, mindguards; remedy: devil's advocacy.",
+      "**Moral Foundations Theory (Haidt)**: care, fairness, loyalty, authority, sanctity, liberty.",
+      "**Group polarisation**: post-discussion attitudes become more extreme in the initially favoured direction.",
+      "AIS (Conduct) Rules bar public political comment and political-party association for officers.",
+      "**Normative vs informational** social influence — Deutsch & Gerard (1955)."
+    ],
+    "mainsAngles": [
+      "Distinguish moral from political attitudes and discuss why moralised politics is hard to administer.",
+      "What do Asch and Milgram teach a civil servant about institutional design? Illustrate with file-noting and written-order safeguards.",
+      "Groupthink has caused more policy failures than corruption — critically examine with safeguards.",
+      "Social media has industrialised social influence — analyse group polarisation and the district administration's counter-strategies.",
+      "A civil servant must be politically neutral but not morally neutral — elaborate with the constitutional-morality standard."
+    ],
+    "glossary": [
+      { "term": "Moral attitude", "definition": "An evaluative disposition grounded in judgments of right and wrong, experienced as objective and resistant to compromise." },
+      { "term": "Political attitude", "definition": "Disposition toward power, institutions, parties and policy — shaped by family, identity and formative events." },
+      { "term": "Conformity", "definition": "Adjusting behaviour or belief to group norms under normative or informational influence (Asch)." },
+      { "term": "Obedience", "definition": "Compliance with directives of authority — capable of overriding conscience under gradual escalation (Milgram)." },
+      { "term": "Groupthink", "definition": "Deterioration of judgment in cohesive groups that prize consensus over realistic appraisal (Janis)." },
+      { "term": "Constitutional morality", "definition": "Fidelity to the Constitution's values — equality, dignity, due process — as the public servant's operative moral compass, above popular or personal morality." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-034",
+    "sections": [
+      {
+        "heading": "Emotional intelligence — concept and models",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Emotional intelligence (EI)** is the capacity to **perceive, understand, use and regulate emotions — one's own and others'** — to guide thought and action. Coined by **Salovey & Mayer (1990)** (ability model: perceiving → using → understanding → managing emotions), popularised by **Daniel Goleman (1995)**, whose mixed model gives the exam-standard **five components**: **self-awareness, self-regulation, motivation, empathy, social skills**. Goleman's claim: for leadership, EI matters about **twice as much as IQ and technical skill combined**; IQ gets you hired, EI gets you followed. Measures: MSCEIT (ability), EQ-i/360° (mixed) — measurement debates make good critical-balance material."
+          },
+          {
+            "type": "table",
+            "headers": ["Goleman component", "Essence", "Administrative behaviour"],
+            "rows": [
+              ["Self-awareness", "Knowing one's emotions, triggers, limits", "Recognising irritation before a public hearing; seeking feedback on blind spots"],
+              ["Self-regulation", "Managing impulses; staying composed", "No outburst under provocation at a dharna; suspending judgment on incomplete files"],
+              ["Motivation (intrinsic)", "Drive beyond salary/status; optimism after setbacks", "Sustained energy in Aspirational-District postings; initiative without incentives"],
+              ["Empathy", "Reading others' feelings; perspective-taking", "Sensing unstated fear in a displaced family; designing queues for the elderly"],
+              ["Social skills", "Managing relationships, networks, conflict", "Negotiating land consent; aligning line departments without authority"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "EI in administration and governance — where it bites",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Crisis leadership**: disasters demand calm authority + empathy — AP's cyclone-evacuation record is an EI-at-scale story: persuading fishermen ashore is emotional labour before it is logistics.",
+              "**Citizen interface**: welfare counters, grievance hearings (Spandana), police stations — **procedural justice research** shows people accept adverse decisions delivered with respect and voice; EI operationalises dignity.",
+              "**Team & change management**: transfers, mergers, digitisation resistance — regulation of others' anxiety decides implementation speed; 'people don't resist change, they resist loss'.",
+              "**Negotiation & conflict**: land acquisition, inter-departmental turf, communal mediation — empathy maps interests behind positions.",
+              "**Ethical guardrail**: self-aware officers catch their biases; self-regulated ones resist anger-driven and fear-driven misjudgment; BUT note the **dark side** — high-EI manipulation (emotional skill serving unethical ends) — EI needs ethics as its rudder.",
+              "**Cultivation**: reflective journaling, mindfulness (evidence-backed), 360° feedback, empathy exposure (field immersion — the reason training academies mandate village stays), **Mission Karmayogi's** behavioural-competency frame."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Self-awareness] --> B[Self-regulation]\n  A --> C[Empathy]\n  B --> D[Composed decisions under pressure]\n  C --> E[Citizen-centric delivery and negotiation]\n  F[Intrinsic motivation] --> D\n  D --> G[Trustworthy administration]\n  E --> G\n  H[Social skill] --> E\n  G --> I[Legitimacy - compliance without coercion]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Standard structure: define (Salovey-Mayer + Goleman) → five components table → three governance applications (crisis, citizen interface, teams) → dark-side caveat → cultivation methods. Quote Aristotle: 'Anyone can become angry — that is easy; but to be angry with the right person, to the right degree, at the right time — that is not easy.'",
+              "**AP examples bank**: cyclone evacuations (Hudhud → zero-casualty doctrine), Spandana grievance hearings, land-pooling negotiation for Amaravati (consent of ~34,000 acres' farmers — a masterclass in interest-based persuasion, whatever its later politics), tribal-area service delivery needing cultural empathy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: EI questions are application questions in disguise — every mark lies in the administrative translation column. Prepare one crisis, one counter-service and one negotiation example from AP and reuse them across EI, attitude and leadership questions."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "EI term coined by **Salovey & Mayer (1990)**; four-branch ability model.",
+      "**Goleman (1995)**: *Emotional Intelligence — Why It Can Matter More Than IQ*; five components; later four-domain leadership model.",
+      "**EQ vs IQ**: Goleman's leadership research attributes the majority of star-performance variance to EI competencies.",
+      "**MSCEIT** measures ability EI; **EQ-i (Bar-On)** measures trait/mixed EI.",
+      "**Amygdala hijack** — Goleman's term for emotion overwhelming rational response; regulation restores prefrontal control.",
+      "**Mission Karmayogi (2020)** embeds behavioural competencies (including EI) in civil-service capability frameworks.",
+      "Procedural-justice research (**Tyler**): perceived fairness of process drives acceptance of outcomes."
+    ],
+    "mainsAngles": [
+      "Define emotional intelligence and examine whether it can be cultivated in serving officers.",
+      "IQ selects officers; EI determines their success — critically evaluate for Indian field administration.",
+      "Show how each Goleman component translates into concrete administrative behaviour, with examples from disaster and welfare administration.",
+      "Emotional intelligence without ethical anchoring is a manipulation toolkit — discuss the dark side of EI.",
+      "Analyse Andhra Pradesh's zero-casualty cyclone doctrine as emotional intelligence institutionalised."
+    ],
+    "glossary": [
+      { "term": "Emotional intelligence", "definition": "The ability to perceive, understand, use and manage emotions in oneself and others to guide effective thought and action." },
+      { "term": "Self-regulation", "definition": "Managing disruptive impulses and moods — composure, adaptability and considered response under pressure." },
+      { "term": "Empathy", "definition": "Accurately sensing and considering others' emotions and perspectives — cognitive, emotional and compassionate variants." },
+      { "term": "Amygdala hijack", "definition": "A rapid, overwhelming emotional reaction that bypasses deliberative brain circuits — the failure mode self-regulation prevents." },
+      { "term": "Emotional labour", "definition": "Managing one's displayed emotions as part of a work role — the unacknowledged workload of frontline public servants." },
+      { "term": "Procedural justice", "definition": "Fairness of decision processes (voice, neutrality, respect, trustworthiness) — the strongest predictor of citizen acceptance of authority." }
+    ]
+  }
+]

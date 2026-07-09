@@ -1,0 +1,355 @@
+[
+  {
+    "code": "MN-PIII-EIPS-035",
+    "sections": [
+      {
+        "heading": "Public service — the concept",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Public service** is work performed **on behalf of the whole community, funded by it, and answerable to it** — distinguished from private employment by its **fiduciary character**: the servant holds **power in trust** for people who cannot individually supervise its use. Core markers: the **public-interest test** (benefit judged for all, especially the least advantaged), **impartiality**, **continuity** (service to successive governments), **legality** (power only through law), and **selflessness** (the first Nolan principle). The **public service ethos/motivation (PSM)** literature (Perry) confirms what oaths assume: many enter public service for meaning, not maximisation — institutions must protect that motivation from cynicism."
+          },
+          {
+            "type": "table",
+            "headers": ["Foundation", "Content", "Source"],
+            "rows": [
+              ["**Trusteeship**", "Office and resources held for beneficiaries, not holders", "Gandhi; fiduciary law; the oath of office"],
+              ["**Social contract**", "Authority derives from consent; service is the price of power", "Hobbes-Locke-Rousseau; Preamble: 'We, the People'"],
+              ["**Dharma of office**", "Role-specific duty (raj-dharma): the ruler's happiness in subjects' happiness", "Kautilya; Shanti Parva; Ashoka's 'all men are my children'"],
+              ["**Weberian vocation**", "Office as impersonal duty — 'without anger or bias' (sine ira et studio)", "Weber, *Politics as a Vocation*"],
+              ["**Constitutional morality**", "Fidelity to constitutional values above personal/popular morality", "Ambedkar; SC in Navtej Johar, Sabarimala discourse"],
+              ["**Nolan principles (1995)**", "Selflessness, integrity, objectivity, accountability, openness, honesty, leadership", "UK Committee on Standards in Public Life — the global benchmark"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Philosophical basis of governance and probity",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Why governance needs philosophy**: administration decides who gets what under scarcity — every allocation embeds a theory of justice. **Utilitarianism** (greatest good — CBA, triage) is governance's workhorse but sacrifices minorities at the margin; **deontology** (rights as trumps, due process) fences it; **Rawls** (justice as fairness — veil of ignorance; **difference principle**: inequalities only if they benefit the least advantaged) supplies the welfare state's deep logic — Antyodaya is applied Rawls; **Sen's capability approach** shifts the metric from resources to real freedoms (the Human Development turn); **virtue ethics** asks what the office does to the officer.",
+              "**Probity's basis**: public office as trust → any private use is breach; **transparency as the default** (Bentham: 'the eye of the public makes the statesman virtuous'); **accountability as the price of discretion**.",
+              "**Indian synthesis**: raj-dharma (power constrained by righteousness), Ashokan paternal care, Gandhian trusteeship + talisman, Ambedkar's constitutional morality — a continuous indigenous philosophy of limited, serving power that answers 'why be honest?' older than any modern code."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Power over others] --> B{Why obey?}\n  B --> C[Consent - social contract]\n  C --> D[Power held in trust]\n  D --> E[Duties: impartiality, probity, accountability]\n  E --> F[Tests: utility, rights, Rawlsian fairness, capabilities]\n  F --> G[Legitimate governance - authority without force]\n  G --> H[Trust renews consent]\n  H --> C"
+          }
+        ]
+      },
+      {
+        "heading": "Making it concrete — and the AP thread",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Applications**: prioritising a PHC in a tribal mandal over an urban flyover is the difference principle in action; due-process protections in encounter-avoidance are deontological fences; DBT saturation reflects utilitarian efficiency + Rawlsian floor.",
+              "**AP thread**: Ashokan edicts stood in Andhra soil (Erragudi/Yerragudi, Kurnool district — minor rock edicts): 'all men are my children' was proclaimed here; the state's welfare-saturation model can be argued as Rawlsian floor-building — and critiqued utilitarianly on fiscal sustainability: a ready-made two-sided evaluation.",
+              "Close: public service is **power on loan**; philosophy is the loan agreement's fine print."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For 'concept of public service' give markers + PSM; for 'philosophical basis' run the four-theory grid (utility, duty, Rawls, capabilities) each with one scheme example, then the Indian synthesis (raj-dharma → trusteeship → constitutional morality). The Erragudi edict is your unique AP fact."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Nolan Committee (UK, 1995)**: seven principles of public life — the benchmark cited by the 2nd ARC.",
+      "**Rawls, *A Theory of Justice* (1971)**: veil of ignorance; liberty principle + fair equality of opportunity + **difference principle**.",
+      "**Amartya Sen**: capability approach — development as freedom; basis of the **HDI (with Mahbub ul Haq, 1990)**.",
+      "**Weber**: bureaucracy's virtues — rules, hierarchy, files, impersonality ('sine ira et studio').",
+      "**Ashoka's minor rock edicts at Erragudi (Kurnool district, AP)** — 'savve munisse paja mama' (all men are my children).",
+      "**Public service motivation (Perry & Wise, 1990)** — attraction to policy-making, commitment to public interest, compassion, self-sacrifice.",
+      "Kautilya: 'praja sukhe sukham rajnah' — the philosophical one-liner of Indian public service."
+    ],
+    "mainsAngles": [
+      "Public service is a trust, not a career — elaborate the concept with its distinguishing markers.",
+      "Compare utilitarian, deontological and Rawlsian bases of governance, showing where each guides Indian policy.",
+      "'Antyodaya is the Indian name of the difference principle' — discuss.",
+      "Trace the indigenous philosophical basis of governance from Kautilya and Ashoka to Gandhi and Ambedkar.",
+      "How does the capability approach change what good governance measures? Illustrate with health and education policy."
+    ],
+    "glossary": [
+      { "term": "Public service ethos", "definition": "The cluster of motivations and norms — duty, impartiality, service before self — that distinguishes public work from private employment." },
+      { "term": "Fiduciary duty", "definition": "The obligation of one who holds power for another's benefit to act solely in that beneficiary's interest — the legal skeleton of trusteeship." },
+      { "term": "Difference principle", "definition": "Rawls's rule that social and economic inequalities are just only if they most benefit the least-advantaged members of society." },
+      { "term": "Capability approach", "definition": "Sen's framework evaluating well-being by people's real freedoms to be and do what they value, not by resources alone." },
+      { "term": "Raj-dharma", "definition": "The ruler's righteous duty in Indian thought — power exercised under moral law for subjects' welfare." },
+      { "term": "Constitutional morality", "definition": "Allegiance to constitutional values and processes even against popular or personal morality — Ambedkar's demanded discipline." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-036",
+    "sections": [
+      {
+        "heading": "Codes of ethics vs codes of conduct",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **code of conduct** lists **specific dos and don'ts with sanctions** — rules (no gifts beyond limits, no speculation, no political activity). A **code of ethics** states **aspirational values and principles** — integrity, impartiality, public interest — guiding judgment where rules run out. India has detailed conduct rules (**CCS (Conduct) Rules 1964; AIS (Conduct) Rules 1968**) but **no adopted code of ethics**; the **2nd ARC (4th & 10th Reports)** and the Draft Public Service Bill proposed one, and **Mission Karmayogi** now carries values in its competency frame. Rules without ethics produce **letter-compliance** ('nothing against the rules' as the alibi of conscience); ethics without rules produces unenforceable piety — services need both."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "Code of conduct", "Code of ethics"],
+            "rows": [
+              ["Nature", "Prescriptive, negative (prohibitions)", "Aspirational, positive (values)"],
+              ["Form", "Detailed rules; legally enforceable; sanctions", "Principles; internalised; guides discretion"],
+              ["Question answered", "'What must I not do?'", "'What should I strive for?'"],
+              ["Indian status", "1964/1968 Rules; 2014 additions (political neutrality, merit advice, high ethical standards inserted as Rule 3(2))", "Recommended by 2nd ARC; draft Public Services Bill; not yet enacted"],
+              ["Risk if alone", "Loophole ethics; risk-averse minimalism", "Vagueness; unenforceability"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Work culture and quality of service delivery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Work culture** = shared assumptions, values and habits governing how work actually gets done (Schein's levels: artifacts → espoused values → underlying assumptions). Indian pathology set: **procedure over outcome** ('file is the product'), hierarchy-worship stifling initiative, presenteeism over performance, risk aversion (the '4Cs' fear — CBI, CVC, CAG, courts), and islands of excellence (ISRO, Metro, EC on election days) proving culture is designable.",
+              "**What builds delivery-quality culture**: outcome metrics + public dashboards, Sevottam-style standards with citizen feedback loops, e-office/e-delivery (removing queue-power), recognition systems (PM awards for excellence), tenure stability, and leadership modelling — **culture is what leaders tolerate**.",
+              "**AP evidence**: time-stamped services under the **Public Services Delivery Guarantee Act 2017**, Spandana's monitored grievance timelines, secretariat service standards, and the zero-casualty cyclone doctrine — culture shifted by measurement plus expectation; the counter-example is scheme-file pendency during political transitions: culture reverts without reinforcement."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Leadership behaviour] --> B[What gets rewarded and tolerated]\n  B --> C[Work culture - shared habits]\n  C --> D[Service delivery quality]\n  D --> E[Citizen feedback and dashboards]\n  E --> B\n  F[Codes: conduct rules + ethics values] --> B\n  G[Utilisation of funds - last mile] --> D"
+          }
+        ]
+      },
+      {
+        "heading": "Utilisation of public funds & the ethics of leadership",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Public funds ethics**: every rupee is a **trust rupee** — canons: legality (Appropriation), economy-efficiency-effectiveness (the CAG's 3E audit), transparency (budget documents, PFMS tracking), and **opportunity-cost honesty** (a statue vs a hospital is an ethical choice, not merely fiscal). Pathologies: March-rush spending, parked funds (fixed by **SNA**), diversion, cost-padding, populist expenditure off-budget (borrowings via corporations — an AP-relevant audit theme flagged by CAG for many states); remedies: outcome budgets, social audit, PFMS/JIT release, hard budget honesty (FRBM disclosures).",
+              "**Ethics OF leadership**: leaders set the moral weather — **ethical leadership** = moral person (integrity, fairness) + **moral manager** (communicates standards, rewards ethics, sanctions violations — Treviño); servant leadership (Greenleaf) and transformational leadership as service models; the leader's specific duties: absorb pressure downward not transmit it, protect honest dissent, own failures publicly (Shastri standard), and never demand what they will not model.",
+              "Combined close: codes give the words, culture gives the habits, funds-discipline gives the proof, leadership gives the weather — quality of governance is their product, not their sum."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The conduct-vs-ethics table is a guaranteed scorer. For work culture cite Schein + one AP delivery reform; for funds cite 3E + SNA + one CAG theme; for leadership cite Treviño's two pillars + Shastri. This theme cross-feeds every ethics case study on resources and teams."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**CCS (Conduct) Rules 1964 / AIS (Conduct) Rules 1968** — India's codes of conduct; **2014 amendment** added values (integrity, political neutrality, merit-based advice) into AIS Rule 3.",
+      "**2nd ARC 4th Report** recommended a Code of Ethics for public servants; **10th Report ('Refurbishing of Personnel Administration')** covers performance and culture.",
+      "**Schein**: organisational culture's three levels — artifacts, espoused values, basic assumptions.",
+      "CAG's audit canons: **economy, efficiency, effectiveness** (3E) beyond compliance audit.",
+      "**PFMS** tracks fund flows; **SNA framework (2021)** ended parked CSS balances.",
+      "**Treviño's ethical leadership**: moral person + moral manager.",
+      "**Greenleaf (1970)**: servant leadership — 'the servant-leader is servant first'."
+    ],
+    "mainsAngles": [
+      "Distinguish a code of ethics from a code of conduct and argue whether India needs the former enacted.",
+      "'Nothing against the rules' can still be everything against the public interest — examine letter-compliance culture and its cures.",
+      "Work culture, not workforce size, determines service-delivery quality — discuss with reforms that shifted culture in Indian administration.",
+      "Every rupee of public money is a fiduciary rupee — evaluate India's fund-utilisation safeguards from Appropriation to social audit.",
+      "Leaders create the ethical weather of organisations — analyse ethical leadership with the moral-person/moral-manager framework."
+    ],
+    "glossary": [
+      { "term": "Code of conduct", "definition": "Enforceable set of specific prohibitions and requirements governing official behaviour, breach of which invites disciplinary sanction." },
+      { "term": "Code of ethics", "definition": "Statement of aspirational values and principles guiding judgment and discretion where rules are silent." },
+      { "term": "Work culture", "definition": "The shared assumptions and habitual practices that determine how an organisation actually works — its default behaviour under no supervision." },
+      { "term": "3E audit", "definition": "Value-for-money audit testing economy (cost of inputs), efficiency (output per input) and effectiveness (outcomes against objectives)." },
+      { "term": "Moral manager", "definition": "Treviño's second pillar: a leader who actively communicates, rewards and enforces ethical standards, not merely embodies them." },
+      { "term": "March rush", "definition": "Year-end expenditure surge to exhaust budgets before lapse — the classic symptom of outlay-focused fund culture." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-037",
+    "sections": [
+      {
+        "heading": "Ethical issues in international relations and funding",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "International relations poses the **statesman's dilemma**: obligations to one's own citizens versus duties to humanity. **Realism** (Morgenthau, Kautilya's mandala) treats national interest as the supreme ethic; **idealism/liberal internationalism** (Wilson, Nehru's Panchsheel) binds states to universal norms; **India's operating synthesis** is principled pragmatism — strategic autonomy with civilisational universalism (**Vasudhaiva Kutumbakam**, Vaccine Maitri)."
+          },
+          {
+            "type": "table",
+            "headers": ["Issue", "The ethical tension", "India-relevant anchor"],
+            "rows": [
+              ["War & intervention", "Sovereignty vs protection of peoples (R2P); just-war rules (jus ad bellum/in bello)", "1971 Bangladesh — humanitarian outcome; drone/asymmetric-war debates"],
+              ["Nuclear ethics", "Deterrence rests on threatening the innocent", "India's **No First Use** posture; disarmament advocacy (Rajiv Gandhi Plan, 1988)"],
+              ["Climate justice", "Historical emitters vs late developers", "**CBDR-RC** principle; per-capita equity; loss & damage fund (COP27)"],
+              ["Trade & IPR", "Patents vs access to medicines; farm subsidies of the rich", "TRIPS flexibilities — India as 'pharmacy of the global South'; WTO food-stockholding fight"],
+              ["Refugees & migration", "Borders vs drowning strangers", "India's non-refoulement practice sans 1951 Convention; Rohingya dilemma"],
+              ["**International funding**", "Donor conditionality vs recipient sovereignty; tied aid; debt-trap lending", "IMF conditionalities (1991 as India's own experience); **Chinese debt diplomacy** (Hambantota) as cautionary tale; India's own grant-based neighbourhood aid"],
+              ["Global governance", "Institutions frozen in 1945 power", "UNSC reform; IMF quota justice — procedural fairness among states"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Corruption — the anatomy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Definition**: abuse of entrusted power for private gain (Transparency International). **Klitgaard's equation: C = M + D − A** (Corruption = Monopoly + Discretion − Accountability) — the single most useful analytical tool: every remedy attacks one term.",
+              "**Types**: petty (speed money at the counter) vs grand (policy/procurement capture) vs **systemic** (corruption as the operating system); collusive (both gain — hardest to detect) vs coercive (extortion from the citizen).",
+              "**Causes**: scarcity + discretion (licence-raj legacy), low detection probability, election-finance economics, social tolerance ('chalta hai'), poor pay at cutting edge, complexity of procedures (each step a toll gate).",
+              "**Consequences**: a regressive tax on the poor (bribe burden falls hardest on them), diverted development (leaky schemes), institutional decay, investment deterrence, and the deepest cost — **the citizen's belief that honesty is naïve**.",
+              "**Remedies mapped to Klitgaard**: cut **monopoly** (competition, choice of service centres); cut **discretion** (rules-as-code, DBT, e-services — AP's Mee-Seva lineage); raise **accountability** (RTI, social audit, Lokpal, asset disclosure, swift trials); plus raise detection (data analytics, whistle-blower protection) and shrink demand (election-finance reform, simplification)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Corruption = Monopoly + Discretion - Accountability] --> B[Cut monopoly: competition, alternatives]\n  A --> C[Cut discretion: rules as code, DBT, e-services]\n  A --> D[Raise accountability: RTI, audit, Lokpal, courts]\n  B --> E[Lower corruption equilibrium]\n  C --> E\n  D --> E\n  F[Raise detection and penalty certainty] --> E\n  G[Reform election finance - the demand side] --> E"
+          }
+        ]
+      },
+      {
+        "heading": "India's anti-corruption architecture and the verdict",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Legal**: PC Act 1988 (2018 amendments: bribe-giving an offence, Sec 17A shield, deemed corporate liability), Benami Act 1988/2016, PMLA 2002, Fugitive Economic Offenders Act 2018, **UNCAC ratified 2011**; institutional: CVC, CBI (**Vineet Narain** autonomy directions), Lokpal (2013/2019), Lokayuktas, ED — with the standing critique of **selective enforcement** and undertrial-length trials.",
+              "**Preventive turn is winning where tried**: GeM procurement, faceless assessment, DBT (~₹3.5 lakh crore leakage-savings claim), e-auctions of spectrum/coal post-2G/coal-block verdicts.",
+              "**AP colour**: AP ACB's disproportionate-assets work, the AP Lokayukta's post-bifurcation reconstitution, Mee-Seva/e-delivery as discretion-cutters, and social audit (SSAAT) as the citizen's detection arm.",
+              "Balanced close: corruption is an **equilibrium, not an event** — it shifts only when detection, penalty, procedure and norms move together; internationally, India's credibility on funding ethics (transparent, untied aid) is now itself strategic capital."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Klitgaard's equation should open your corruption answer and organise its remedies. For international ethics, pick three issues (climate justice, nuclear NFU, debt-trap funding) with India's stance on each — the funding-ethics angle (tied aid, conditionality, Hambantota) is the syllabus phrase most candidates miss."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Klitgaard**: Corruption = Monopoly + Discretion − Accountability.",
+      "**PC (Amendment) Act 2018**: giving a bribe is an offence (Sec 8); **Sec 17A** prior approval; trial target two years.",
+      "**UNCAC** — UN Convention against Corruption (2003); India ratified **2011**.",
+      "**CPI (Transparency International)**: India has hovered around rank 85–96 in recent years (score ~38–40) — quote the band, not a stale rank.",
+      "**Panchsheel (1954)**: five principles of peaceful coexistence — India-China agreement preamble.",
+      "**CBDR-RC**: common but differentiated responsibilities & respective capabilities — UNFCCC equity principle.",
+      "India's nuclear doctrine: credible minimum deterrence with **No First Use** (2003 official doctrine).",
+      "**Vineet Narain (1997)**: CVC oversight of CBI; CBI director's 2-year minimum tenure."
+    ],
+    "mainsAngles": [
+      "National interest and universal morality collide in foreign policy — examine how India reconciles them, with climate and vaccine diplomacy examples.",
+      "International funding is never value-free — discuss the ethics of conditionality, tied aid and debt-trap lending.",
+      "Apply Klitgaard's equation to design an anti-corruption strategy for a district you administer.",
+      "Corruption is a regressive tax on the poorest — substantiate and evaluate the preventive (systemic) versus punitive approaches.",
+      "Has India's anti-corruption architecture kept pace with its laws? Critically assess from Vineet Narain to the Lokpal's first years."
+    ],
+    "glossary": [
+      { "term": "Realism (IR)", "definition": "School holding that states pursue power and survival in an anarchic system — national interest as the operative morality (Morgenthau, Kautilya)." },
+      { "term": "R2P", "definition": "Responsibility to Protect (2005): sovereignty entails a duty to protect populations from atrocity; intervention as last resort — contested for selective use." },
+      { "term": "CBDR-RC", "definition": "Climate-equity principle that all states share responsibility but differentiated by historical emissions and capability." },
+      { "term": "Collusive corruption", "definition": "Corruption where both parties benefit (procurement rigging, evasion deals) — leaving no complainant, hence the hardest to detect; 2nd ARC urged stiffer penalties for it." },
+      { "term": "Speed money", "definition": "Petty bribery to accelerate lawful services — normalised extortion that taxes the citizen's time and the poor's access." },
+      { "term": "Conditionality", "definition": "Policy strings attached to international loans/aid — defended as reform leverage, criticised as sovereignty erosion by unaccountable creditors." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-038",
+    "sections": [
+      {
+        "heading": "The ombudsman idea — from Sweden to Santhanam",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **ombudsman** — an independent high functionary receiving citizen complaints of maladministration and corruption against public authorities — originated in **Sweden (1809)**. India's adaptation was recommended by the **First ARC (1966)** (interim report on 'Problems of Redressal of Citizens' Grievances', under **Morarji Desai**): a **Lokpal** for the Centre and **Lokayuktas** for states. Eight Lokpal bills fell between **1968 and 2011**; the **India Against Corruption movement (2011, Anna Hazare)** finally forced the **Lokpal and Lokayuktas Act, 2013** — a case study in civil society writing law."
+          },
+          {
+            "type": "table",
+            "headers": ["Feature", "Lokpal (2013 Act)", "Notes"],
+            "rows": [
+              ["Composition", "Chairperson + **up to 8 members (50% judicial)**; 50% from SC/ST/OBC/minorities/women", "Chair: ex-CJI/SC judge/eminent person"],
+              ["Selection", "PM + LS Speaker + LoP + CJI (or nominee) + eminent jurist", "Search committee assists; 'LoP' gap fixed by treating largest-opposition leader"],
+              ["Jurisdiction", "**PM included** (with safeguards: not international relations, security, public order; full-bench + 2/3 approval; in-camera), ministers, MPs, Groups A–D, and **societies/trusts receiving big government or foreign funds**", "MPs' conduct *in the House* stays with privileges"],
+              ["Powers", "Supervise/direct CBI for referred cases (transfer of investigating officers needs Lokpal nod), **provisional attachment of assets**, prosecution before special courts", "Inquiry wing + prosecution wing provided"],
+              ["Timelines", "Preliminary inquiry 90 days; investigation 6 months (extendable)", "Trial targets under PC Act"],
+              ["States", "Act mandated Lokayuktas **within one year** — but left design to states", "Result: wide variation, many weak"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Working record and the critique",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Delay as design**: first Lokpal appointed only in **March 2019** (Justice P.C. Ghose) — six years after the Act; rules for complaint format arrived 2020; the body has confirmed strikingly **few full investigations relative to complaints** (thousands received, most disposed at scrutiny) — critics call it 'an institution in hibernation'.",
+              "**Structural gaps**: no suo motu power clarity, dependence on seconded staff, **CBI's parallel masters** (the 'caged parrot' problem persists), whistle-blower law un-operationalised, and the 2016 amendment diluting **asset-disclosure** requirements for officials.",
+              "**Lokayukta unevenness**: strong precedents — **Karnataka Lokayukta under Justice Santosh Hegde** (the illegal-mining report that felled a CM) — versus states with vacant or toothless bodies; **AP's Lokayukta** was reconstituted post-bifurcation (2019 appointment after years vacant) with a limited investigative wing: cite as the capacity gap between statute and staffing.",
+              "**Reform agenda**: fill vacancies by statutory timeline, own investigative cadre, protect whistle-blowers, restore full asset disclosure, digital complaint tracking with published outcomes, and fold the preventive mandate (systemic-improvement recommendations) into annual reports Parliament must debate."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Citizen complaint of corruption] --> B[Lokpal or Lokayukta scrutiny]\n  B --> C[Preliminary inquiry - 90 days]\n  C --> D[Investigation - CBI or inquiry wing, 6 months]\n  D --> E[Prosecution in special court under PC Act]\n  D --> F[Provisional attachment of assets]\n  E --> G[Conviction and recovery]\n  B --> H[Closure with reasons - published]\n  G --> I[Deterrence and systemic recommendations]"
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — necessary, not sufficient",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The ombudsman completes the accountability ring **above** the executive's self-policing (CVC advises, Lokpal can direct) and **below** the courts' slowness — but no single institution defeats a corruption equilibrium: pair Lokpal with the **preventive stack** (DBT, GeM, e-services) and the **social stack** (RTI, social audit) for a complete answer.",
+              "Comparative note: Karnataka (1984) and Maharashtra (1971 — the first) show longevity; **Kerala's amendment controversy (2022)** over the executive's power to reject Lokayukta reports shows the autonomy battle is alive.",
+              "Final line for answers: 'India built the institution the movement demanded; it has yet to give it the teeth the statute promised.'"
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Know five 2013-Act features cold (PM inclusion with safeguards, 50% judicial, CBI supervision, attachment, funded-NGO coverage), the 2019 delay fact, and one strong + one weak Lokayukta example (Hegde's Karnataka vs AP's staffing gap). Balance: institution necessary, current performance underwhelming, reforms specific."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Ombudsman origin: **Sweden, 1809**; the word entered India via the **First ARC (1966)** which coined Lokpal/Lokayukta (term credited to **L.M. Singhvi**).",
+      "**First state Lokayukta: Maharashtra (1971)**; strongest precedent: **Karnataka (esp. Justice Santosh Hegde's illegal-mining report, 2011)**.",
+      "**Lokpal & Lokayuktas Act 2013**: PM within jurisdiction with exclusions (international relations, external/internal security, public order, atomic energy, space) and procedural safeguards.",
+      "Lokpal: chair + up to **8 members, half judicial**; half from SC/ST/OBC/minorities/women; **first Lokpal: Justice P.C. Ghose, March 2019**.",
+      "Lokpal can **supervise and direct CBI**; investigating officer transfer needs its approval; can order **provisional attachment**.",
+      "Preliminary inquiry **90 days**; investigation **6 months** (extendable by recorded reasons).",
+      "2016 amendment relaxed **Section 44** asset-disclosure rules for public servants — a noted dilution."
+    ],
+    "mainsAngles": [
+      "The Lokpal shows how civil society can force legislation — trace its journey from the First ARC to the 2013 Act.",
+      "An ombudsman without its own investigative arm is a forwarding office — critically evaluate the Lokpal's design and record.",
+      "Explain the safeguards attached to the Prime Minister's inclusion in Lokpal jurisdiction and debate their adequacy.",
+      "Lokayuktas are only as strong as states allow — compare the Karnataka experience with the newer or weaker bodies, including Andhra Pradesh's.",
+      "Situate the Lokpal within India's larger anti-corruption architecture and argue what would make the whole system bite."
+    ],
+    "glossary": [
+      { "term": "Ombudsman", "definition": "An independent constitutional/statutory dignitary who investigates citizen complaints of maladministration and corruption against public authorities." },
+      { "term": "Lokpal", "definition": "India's central ombudsman under the 2013 Act — chairperson plus up to eight members with jurisdiction over the PM (with safeguards), ministers, MPs and all central public servants." },
+      { "term": "Lokayukta", "definition": "State-level ombudsman; mandated by the 2013 Act within a year but designed by each state, producing wide variation in powers." },
+      { "term": "Provisional attachment", "definition": "Lokpal's power to freeze assets suspected to be proceeds of corruption during investigation, preventing dissipation." },
+      { "term": "Caged parrot", "definition": "The Supreme Court's epithet (2013, coal-block case) for the CBI's vulnerability to executive influence — the problem Lokpal supervision partially addresses." },
+      { "term": "Maladministration", "definition": "Inefficient, unjust, arbitrary or corrupt administrative action — the classical ombudsman's remit, wider than criminal corruption alone." }
+    ]
+  }
+]
