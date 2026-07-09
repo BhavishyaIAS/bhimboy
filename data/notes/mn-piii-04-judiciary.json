@@ -1,0 +1,280 @@
+[
+  {
+    "code": "MN-PIII-PC-010",
+    "sections": [
+      {
+        "heading": "One integrated pyramid",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India has a **single, integrated judiciary** enforcing both Union and state laws — unlike the American dual system. The pyramid: **Supreme Court (Arts 124–147)** → **High Courts (Arts 214–231)** → **subordinate courts (Arts 233–237)**: district & sessions judges, and below them civil judges and judicial magistrates. **Andhra Pradesh High Court** sits at **Amaravati (Nelapadu)** since 1 January 2019, carved from the common Hyderabad High Court under the **Reorganisation Act**."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Supreme Court", "High Court"],
+            "rows": [
+              ["Strength", "CJI + 33 (Parliament fixes by law; 2019 Act)", "Varies; President determines"],
+              ["Appointment", "President, via the **collegium** (CJI + 4 seniormost) — Second & Third Judges cases (1993, 1998); **NJAC struck down (2015)** for violating judicial independence", "Collegium of CJI + 2, consulting HC & Governor"],
+              ["Tenure/removal", "Till **65**; removal by special-majority address for **proved misbehaviour or incapacity** (Art 124(4), Judges (Inquiry) Act 1968)", "Till **62**; same removal route"],
+              ["Independence props", "Salaries charged on CFI; conduct not discussable (Art 121); contempt power (Art 129); ban on post-retirement practice (Art 124(7))", "Analogous (Arts 215, 220 — practice barred except SC/other HCs)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Jurisdictions and functions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Original**: **Art 131** — Centre–state and inter-state disputes (AP invoked it against neighbouring states in river matters); **Art 32** — writs for fundamental rights ('the very soul of the Constitution' — Ambedkar).",
+              "**Appellate**: constitutional (Art 132), civil (133), criminal (134), and **special leave (Art 136)** — the widest discretionary appellate power in any constitution.",
+              "**Advisory**: **Art 143** — Presidential references (e.g., Berubari 1960, Keshav Singh 1965, the 2025 reference on Governors' timelines).",
+              "**Review & curative**: Art 137; **Rupa Ashok Hurra (2002)** created the curative petition.",
+              "**High Courts**: writs under **Art 226 (wider than Art 32 — 'any other purpose')**, superintendence over all courts/tribunals (**Art 227**), and control over subordinate judiciary (Art 235).",
+              "**Subordinate courts + system reforms**: All-India Judicial Service debate (Art 312 permits), **Gram Nyayalayas Act 2008**, Lok Adalats (Legal Services Authorities Act 1987 — **Art 39A** legal aid), fast-track and commercial courts, e-Courts Phase III."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Supreme Court - Arts 124-147] --> B[High Courts - Arts 214-231]\n  B --> C[District and Sessions Courts - Art 233]\n  C --> D[Civil Judge courts and Judicial Magistrates]\n  A --> E[Writs Art 32 - FRs only]\n  B --> F[Writs Art 226 - FRs and any other purpose]\n  B --> G[Superintendence Art 227 over courts and tribunals]\n  C --> H[Gram Nyayalayas and Lok Adalats at the base]"
+          }
+        ]
+      },
+      {
+        "heading": "Stress points — the evaluation layer",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Pendency ~5 crore cases**; vacancy rates of 20–30% in HCs; judge-population ratio (~21 per million) far below the Law Commission's 50 (120th Report).",
+              "**Collegium opacity vs executive delay**: names reiterated but not notified; the **Memorandum of Procedure** remains unsettled since NJAC (2015).",
+              "**Undertrial burden** (~75% of prisoners) — bail reform urged in **Satender Kumar Antil (2022)**.",
+              "**Tribunalisation** and its discontents — **Chandra Kumar (1997)**: tribunal decisions face HC review; repeated SC strictures on tribunal vacancies (incl. the **AP Administrative Tribunal** framework under Art 371D).",
+              "**Reform basket**: NJIC/judicial infrastructure authority, AIJS, transparent collegium criteria, case-flow management, ODR/e-Courts, regional benches debate (Art 130)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Structure and functions of the judiciary' invites a diagram-led answer: pyramid + jurisdiction table + three reform points with data (pendency, vacancies, undertrials). Add the AP High Court at Amaravati and the Art 371D tribunal as state colour."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "SC strength is fixed by **Parliament by law** — currently **34 including the CJI** (2019 amendment).",
+      "**Art 32 is itself a fundamental right**; suspension possible only via Art 359 during Emergency.",
+      "**Art 226 is wider than Art 32** — writs for fundamental rights *and* 'any other purpose'; Art 226 is not suspended by an emergency proclamation as such.",
+      "A common High Court for two or more states is possible under **Art 231** (AP & Telangana shared one during 2014–18; separate AP HC from 1 Jan 2019).",
+      "**NJAC (99th Amendment)** struck down in the **Fourth Judges case (2015)** — judicial primacy in appointments is basic structure.",
+      "District judges are appointed by the **Governor in consultation with the High Court (Art 233)**.",
+      "**L. Chandra Kumar (1997)**: judicial review under Arts 32/226 is basic structure; tribunal orders appealable to HC Division Bench."
+    ],
+    "mainsAngles": [
+      "'Justice delayed is the Indian judiciary's deepest legitimacy crisis' — analyse causes of pendency and evaluate structural remedies.",
+      "The collegium system survives because every alternative has looked worse — critically examine post-NJAC options for appointment reform.",
+      "Discuss the constitutional scheme for judicial independence and whether post-retirement appointments undermine it.",
+      "Assess the promise and performance of the subordinate-judiciary reforms: Gram Nyayalayas, Lok Adalats and e-Courts."
+    ],
+    "glossary": [
+      { "term": "Collegium system", "definition": "Judge-led appointment mechanism (CJI + seniormost colleagues) evolved through the Second (1993) and Third (1998) Judges cases; constitutionally entrenched by the NJAC verdict (2015)." },
+      { "term": "Special leave petition", "definition": "Art 136 discretionary power of the Supreme Court to hear appeal against any order of any court or tribunal — the widest appellate gate in the system." },
+      { "term": "Curative petition", "definition": "Post-review remedy created in Rupa Ashok Hurra (2002) to cure gross miscarriage of justice, heard by the three seniormost judges plus the bench concerned." },
+      { "term": "Court of record", "definition": "Court whose records have evidentiary value and which can punish for its contempt — the SC (Art 129) and HCs (Art 215)." },
+      { "term": "All-India Judicial Service", "definition": "Proposed centralised recruitment for district judges under Art 312 — requires a Rajya Sabha resolution; debated as a cure for vacancies and diversity deficits." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PC-011",
+    "sections": [
+      {
+        "heading": "Emergency provisions — the unitary switch",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Part XVIII (Arts 352–360)** lets the Union temporarily convert the federal system into a unitary one. The **44th Amendment (1978)** — the corrective to the 1975–77 Emergency — rebuilt every safeguard: 'internal disturbance' became **'armed rebellion'**, written Cabinet advice was made mandatory, and approval/renewal rules were tightened."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "Ground & basis", "Approval & duration", "Effects"],
+            "rows": [
+              ["**National (Art 352)**", "War, external aggression, **armed rebellion**; written recommendation of the **Cabinet**", "Both Houses within **1 month** by **special majority**; 6 months at a time, indefinitely renewable; LS may revoke by simple majority (1/10 members can requisition)", "Union directs states; Parliament legislates on State List; **Art 358** suspends Art 19 (only for war/external aggression); **Art 359** suspends enforcement of FRs **except Arts 20–21**"],
+              ["**President's Rule (Art 356)**", "Failure of constitutional machinery (report of Governor or otherwise); **Art 365** non-compliance", "Both Houses within **2 months** (simple majority); 6 months at a time; max **3 years** (beyond 1 year only with Emergency in force + EC certification — 44th Amdt)", "President assumes executive; Parliament/delegate legislates; **Assembly suspended or dissolved — judicial review per Bommai**"],
+              ["**Financial (Art 360)**", "Threat to financial stability or credit", "Both Houses within 2 months; **continues indefinitely once approved**", "Salary reductions incl. judges; money bills reservable; **never invoked**"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**S.R. Bommai (1994)** domesticated Art 356: proclamations are judicially reviewable, majority is tested on the **floor of the House**, the Assembly cannot be dissolved before parliamentary approval, and mala fide use invites restoration of the government. Use of Art 356 has fallen sharply since — the judgment is the textbook example of judicial review disciplining a political power."
+          }
+        ]
+      },
+      {
+        "heading": "Constitutional amendment — Article 368",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Route", "Majority", "Examples"],
+            "rows": [
+              ["Simple majority (outside Art 368)", "Ordinary law", "New states (Arts 3–4, AP Reorganisation Act 2014), citizenship, salaries, Second Schedule"],
+              ["**Special majority**", "Majority of total membership **+ 2/3 present & voting**, each House separately (no joint sitting)", "FRs, DPSPs — most amendments"],
+              ["Special majority **+ ratification by half the states**", "As above + simple-majority resolutions of ≥ half the state legislatures", "Election of President, Union–state relations, Seventh Schedule, representation of states, Art 368 itself, SC/HC provisions — e.g., **GST (101st)**"]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Shankari Prasad (1951)** & **Sajjan Singh (1965)**: amendments are not 'law' under Art 13 — FRs amendable.",
+              "**Golak Nath (1967)**: FRs unamendable → Parliament answered with the **24th Amendment (1971)**.",
+              "**Kesavananda Bharati (1973, 13 judges)**: Parliament may amend anything but not the **basic structure**.",
+              "**Indira Nehru Gandhi (1975)** & **Minerva Mills (1980)**: struck clauses (39th & 42nd Amdt) exalting amending power; **limited amending power is itself basic structure**; balance of FRs–DPSPs protected.",
+              "**Waman Rao (1981)**: Ninth Schedule insertions after 24-4-1973 are reviewable — confirmed in **I.R. Coelho (2007)**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Amendment bill - either House, no state initiative] --> B[Special majority in each House]\n  B --> C{Touches federal provisions?}\n  C --> D[Ratification by half the states]\n  C --> E[Presidential assent - obligatory after 24th Amdt]\n  D --> E\n  E --> F[Amendment in force]\n  F --> G{Violates basic structure?}\n  G --> H[Struck down - Kesavananda 1973]\n  G --> I[Valid]"
+          }
+        ]
+      },
+      {
+        "heading": "Evaluation and AP relevance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Emergency architecture post-44th Amendment is a study in **learning from abuse**: compare 1975 (Art 359 suspending Art 21, **ADM Jabalpur** — formally overruled in **Puttaswamy, 2017**) with today's non-derogable Arts 20–21.",
+              "Amendment procedure shows the **blend of rigidity and flexibility** — and the basic-structure doctrine adds an unwritten rigidity that has kept the Constitution supreme for five decades.",
+              "**AP hooks**: composite AP saw President's Rule (notably 2014, just before bifurcation); the **32nd Amendment (Art 371D)** and the **101st (GST)** both illustrate amendment routes; the state's creation and bifurcation used the **simple-majority Art 3–4 route**, not Art 368."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For emergencies, the 44th-Amendment safeguards ARE the answer skeleton. For amendments, the six-case doctrinal ladder (Shankari Prasad → Coelho) with years is non-negotiable; close with 'flexible enough to grow, rigid enough to endure'."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "National Emergency has been proclaimed **thrice**: 1962 (China), 1971 (Pakistan), 1975 ('internal disturbance').",
+      "**Art 358** operates only for **war/external aggression**, automatically, and only against **Art 19**; **Art 359** needs a Presidential order and can never bar **Arts 20–21** (44th Amdt).",
+      "President's Rule approval: **simple majority within 2 months**; beyond one year needs Emergency + ECI certification.",
+      "**Financial Emergency (Art 360)** has **never been proclaimed**; once approved it continues indefinitely.",
+      "Amendment bills: introduced in **either House**, no prior Presidential recommendation, **no joint sitting**; President **must assent** (24th Amdt).",
+      "State ratification needs **half the states by simple majority**; no time limit prescribed.",
+      "**ADM Jabalpur (1976)** expressly overruled in **K.S. Puttaswamy (2017)**."
+    ],
+    "mainsAngles": [
+      "'The 44th Amendment converted the Emergency provisions from a sword into a shield' — examine.",
+      "S.R. Bommai is the finest example of judicial review revitalising federalism — discuss the decline of Article 356 since 1994.",
+      "Trace the evolution of the basic structure doctrine and assess whether it is counter-majoritarian or democracy-protecting.",
+      "Compare the procedure under Article 368 with the simple-majority route of Articles 3–4, using the AP Reorganisation Act, 2014."
+    ],
+    "glossary": [
+      { "term": "Armed rebellion", "definition": "Ground substituted for 'internal disturbance' in Art 352 by the 44th Amendment (1978), raising the threshold for a National Emergency." },
+      { "term": "Article 365", "definition": "Deeming provision: a state's failure to comply with Union directions permits the President to hold that constitutional machinery has failed — the bridge to Art 356." },
+      { "term": "Basic structure", "definition": "Core features of the Constitution (supremacy, republican democracy, secularism, federalism, judicial review, FR–DPSP balance) that even a valid Art 368 amendment cannot abrogate — Kesavananda Bharati (1973)." },
+      { "term": "Doctrine of prospective overruling", "definition": "Technique first used in Golak Nath (1967): a new ruling applies only prospectively, saving past transactions." },
+      { "term": "Ninth Schedule", "definition": "Schedule (1st Amendment, Art 31B) immunising listed laws from FR challenge; post-24 April 1973 insertions are reviewable on basic-structure grounds (I.R. Coelho, 2007)." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PC-012",
+    "sections": [
+      {
+        "heading": "Judicial review — the balance wheel",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Judicial review is the power of constitutional courts to **examine the validity of legislative and executive action** and strike down what offends the Constitution. Unlike the USA (where *Marbury v. Madison* implied it), India's text is explicit: **Art 13** (laws inconsistent with FRs are void), **Arts 32/226** (writs), **Arts 131–136** (appellate/original), **Art 245** (competence), plus **Arts 251, 254, 372**. **L. Chandra Kumar (1997)** declared review under Arts 32/226 part of the **basic structure**."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "Content", "Illustrations"],
+            "rows": [
+              ["Review of legislation", "Competence (lists), FR violation, basic structure (for amendments)", "**Kesavananda (1973); I.R. Coelho (2007)**"],
+              ["Review of executive action", "Arbitrariness = inequality under **Art 14**", "**E.P. Royappa (1974); Maneka Gandhi (1978)** — fair, just, reasonable procedure"],
+              ["Review of amendments", "Basic-structure test", "**Minerva Mills (1980); NJAC case (2015)**"],
+              ["Grounds (administrative law)", "Illegality, irrationality (**Wednesbury**), procedural impropriety, proportionality", "**Om Kumar (2001)**; proportionality matured in **Puttaswamy (2017)** & **Anuradha Bhasin (2020)**"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "Scorecard of review in action: striking **Sec 66A IT Act (Shreya Singhal, 2015)**, **electoral bonds scheme (ADR v. Union, Feb 2024)** for violating voters' right to information, decriminalising **Sec 377 (Navtej, 2018)** and **adultery (Joseph Shine, 2018)** — alongside deference phases that critics call 'judicial evasion'."
+          }
+        ]
+      },
+      {
+        "heading": "Public Interest Litigation — review democratised",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "PIL relaxed **locus standi**: any public-spirited person may move the court for those unable to reach it. Architects: **Justices V.R. Krishna Iyer and P.N. Bhagwati** (late 1970s–80s). Milestones: **Hussainara Khatoon (1979)** — speedy trial for undertrials; **S.P. Gupta (1981)** — the doctrinal charter ('judges case'); **Bandhua Mukti Morcha (1984)** — bonded labour; **M.C. Mehta** series — environmental law (absolute liability, **Art 21** right to clean environment); **Vishaka (1997)** — workplace sexual-harassment guidelines (now the 2013 Act); **Ganga/forest continuing mandamus** cases."
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Rights violation of voiceless groups] --> B[Any public-spirited citizen or letter petition]\n  B --> C[Court relaxes locus standi - PIL admitted]\n  C --> D[Fact-finding commissions and amicus curiae]\n  D --> E[Directions, guidelines, continuing mandamus]\n  E --> F[Gains: prison, environment, food, gender rights]\n  E --> G[Risks: judicial overreach, publicity PILs, policy usurpation]\n  G --> H[Filters: costs on frivolous PILs, PIL cells, State of Uttaranchal v Balwant Singh Chaufal 2010 guidelines]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Achievements**: converted Art 21 into a rights-cornucopia (food — **PUCL 2001** interim orders birthing NFSA; shelter; health; clean air), disciplined custodial violence (**D.K. Basu, 1997**), forced electoral transparency (**ADR 2002** — candidate disclosures).",
+              "**Pathologies**: 'publicity-interest litigation', forum shopping, policy overreach (judicially-run sports bodies, liquor-highway rules), and the separation-of-powers objection.",
+              "**Filters now applied**: **Balwant Singh Chaufal (2010)** guidelines — verify credentials, screen motives, impose exemplary costs on frivolous petitions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Activism vs restraint — and the AP thread",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The line runs: **review is legitimacy** (courts enforcing the Constitution) but **governance is not adjudication** — 'the court must not become the first resort for what are essentially political questions'. The doctrine of **separation of powers is itself basic structure (Indira Nehru Gandhi, 1975)** — cutting both ways.",
+              "**AP thread**: PILs and review have shaped AP's public life — the AP High Court's scrutiny of local-body election scheduling (2020–21), Godavari/Krishna environmental compliance petitions, Amaravati-capital litigation (the **three-capitals** matter, where the HC in 2022 mandated capital development and the appeal is pending in the SC) — a live example of courts adjudicating high policy.",
+              "Balanced conclusion: PIL is 'the Indian judiciary's most original contribution to constitutionalism'; its credibility depends on **self-restraint plus rigorous filters**."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define review → constitutional anchors (Arts 13/32/226) → basic-structure status (Chandra Kumar) → PIL genesis, three achievement cases, two pathology points, Chaufal filters → one AP example (three-capitals litigation). That sequence answers every phrasing of this question."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 13(2)**: the State shall not make any law abridging FRs; 'law' includes ordinances, orders, bye-laws, rules and custom — but NOT constitutional amendments (per 24th Amdt, subject to basic structure).",
+      "Writs: **habeas corpus, mandamus, prohibition, certiorari, quo warranto** — Art 32 (FRs only) vs Art 226 (any purpose).",
+      "**L. Chandra Kumar (1997)**: Arts 32/226 review is basic structure; tribunals subordinate to HC review.",
+      "PIL pioneers: **Justices P.N. Bhagwati & V.R. Krishna Iyer**; first major PILs — Hussainara Khatoon (1979), S.P. Gupta (1981).",
+      "**Vishaka (1997)** guidelines drew on **CEDAW**; replaced by the Sexual Harassment Act, 2013.",
+      "**Shreya Singhal (2015)** struck **Sec 66A IT Act**; **ADR (2024)** struck the electoral bonds scheme.",
+      "PIL filters: **State of Uttaranchal v. Balwant Singh Chaufal (2010)**."
+    ],
+    "mainsAngles": [
+      "'Judicial review is the balance wheel of the Constitution' — examine its constitutional foundations and outer limits.",
+      "PIL democratised access to justice but risks judicial populism — critically evaluate with milestones and correctives.",
+      "Is the basic-structure doctrine judicial supremacy or constitutional self-defence? Argue with Kesavananda, Minerva Mills and the NJAC case.",
+      "Courts increasingly decide questions of pure governance — assess with reference to Andhra Pradesh's capital litigation and the doctrine of separation of powers.",
+      "Proportionality has replaced Wednesbury as the pole star of rights review — discuss post-Puttaswamy."
+    ],
+    "glossary": [
+      { "term": "Locus standi", "definition": "The requirement that only an aggrieved person may sue; its relaxation for public causes is the doctrinal foundation of PIL." },
+      { "term": "Continuing mandamus", "definition": "Court keeping a case open and issuing rolling directions with compliance monitoring — used in environmental and investigation-supervision PILs." },
+      { "term": "Wednesbury unreasonableness", "definition": "Ground of review where a decision is so irrational that no reasonable authority could reach it; increasingly supplemented by structured proportionality." },
+      { "term": "Proportionality", "definition": "Four-stage test (legitimate aim, suitability, necessity, balancing) for reviewing rights restrictions — canonised in Puttaswamy (2017) and applied in Anuradha Bhasin (2020)." },
+      { "term": "Epistolary jurisdiction", "definition": "Treating letters or postcards from victims or activists as writ petitions — the access innovation of early PIL." },
+      { "term": "Judicial overreach", "definition": "Court action crossing from interpreting law into policy-making or administration — the standing critique of expansive PIL." }
+    ]
+  }
+]

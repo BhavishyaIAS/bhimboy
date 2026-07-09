@@ -1,0 +1,280 @@
+[
+  {
+    "code": "MN-PIII-PAG-013",
+    "sections": [
+      {
+        "heading": "What Public Administration is",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Public Administration is the **action part of government** — 'the detailed and systematic execution of public law' (**Woodrow Wilson**, whose 1887 essay *The Study of Administration* founded the discipline). **L.D. White**: it consists of 'all those operations having for their purpose the fulfilment or enforcement of public policy'. **Herbert Simon** narrowed the lens to **decision-making** ('administration is the art of getting things done'), while **Dwight Waldo** insisted it is ultimately a field of **political theory** — administration is never value-neutral."
+          },
+          {
+            "type": "table",
+            "headers": ["View of scope", "Content"],
+            "rows": [
+              ["**POSDCORB view (Gulick & Urwick)**", "**P**lanning, **O**rganising, **S**taffing, **D**irecting, **CO**-ordinating, **R**eporting, **B**udgeting — the managerial techniques view; criticised as ignoring substantive policy and values"],
+              ["**Subject-matter view**", "What agencies actually do — law & order, welfare, health, education, defence: services cannot be reduced to techniques"],
+              ["**Broad vs narrow**", "Broad (White): all three organs' administrative work; Narrow (Simon, Luther Gulick): only the executive branch"],
+              ["**Integral vs managerial**", "Integral (Henri Fayol/White): all workers, manual to managerial; Managerial (Simon/Gulick): only those who plan, organise, command"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Public vs private administration**: they share management techniques (**Fayol**: one administrative science), but differ in the **public interest test, legal framework, accountability to legislature and citizen, equality of treatment, monopoly and coercive power, and fishbowl transparency** (**Paul Appleby**: government is 'different because it is public'; **Sir Josiah Stamp**'s four differentiators)."
+          }
+        ]
+      },
+      {
+        "heading": "Nature and evolution — paradigms in one sweep",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Politics–administration dichotomy (1887–1926)** — Wilson, **Goodnow** (*Politics and Administration*): politics decides, administration executes.",
+              "**Principles era (1927–37)** — Willoughby, Gulick: universal 'principles'; the discipline's high noon.",
+              "**Era of challenge (1938–47)** — Simon's *Administrative Behavior* (principles are mere 'proverbs'); the human-relations turn (**Hawthorne studies, Elton Mayo**).",
+              "**Crisis of identity (1948–70)** — behaviouralism; comparative PA (**F.W. Riggs** — prismatic-sala model for developing societies).",
+              "**New Public Administration (Minnowbrook I, 1968)** — relevance, **values, social equity**, change; 'a client-oriented administration'.",
+              "**New Public Management (1980s–90s)** — Hood's term: markets, managerialism, 'steering not rowing' (**Osborne & Gaebler**); agencification, performance pay.",
+              "**Post-NPM / New Public Service & governance (2000s–)** — **Denhardt & Denhardt**: 'serve citizens, not customers'; networks, digital-era governance, collaborative and participatory administration — the SDG-era frame."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Wilson 1887 - dichotomy] --> B[Principles era - POSDCORB]\n  B --> C[Simon's challenge - decisions and behaviour]\n  C --> D[Comparative and development administration - Riggs]\n  D --> E[New Public Administration 1968 - equity and values]\n  E --> F[New Public Management 1990s - markets and managers]\n  F --> G[New Public Service and governance - citizens and networks]"
+          }
+        ]
+      },
+      {
+        "heading": "Why it matters in India — and in AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The Indian state is a **development administration** (Edward Weidner: administration geared to progressive political, economic and social objectives): planning, welfare delivery, and now **mission-mode digital governance**.",
+              "Scope keeps widening: from law-and-order night-watchman to **regulator, enabler, facilitator** — LPG reforms shifted the state's role, but welfare scale (NFSA, MGNREGA, DBT) keeps administration central.",
+              "**AP as a living lab**: the **village/ward secretariat system** (one secretariat per ~2,000 population), functionary-at-doorstep volunteers, and DBT-heavy welfare architecture are a textbook case of Weberian field bureaucracy meeting NPM-style citizen-charter delivery — use it as your illustration for 'scope of public administration today'."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Definitions (Wilson, White, Simon) + POSDCORB + public/private distinction + seven-stage evolution is the complete skeleton. One AP illustration converts a theory answer into an APPSC answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Woodrow Wilson** — 'father of Public Administration'; essay: *The Study of Administration* (**1887**).",
+      "**POSDCORB** coined by **Luther Gulick** (Papers on the Science of Administration, 1937).",
+      "**Herbert Simon** won the **Nobel Prize (Economics, 1978)** for bounded rationality / decision-making.",
+      "**Minnowbrook Conference I (1968)** under **Dwight Waldo** launched New Public Administration; Minnowbrook II (1988), III (2008).",
+      "**F.W. Riggs**: prismatic society, 'sala' model — comparative public administration.",
+      "*Reinventing Government* (1992) — **Osborne & Gaebler**; NPM slogan 'steering rather than rowing'.",
+      "**Paul Appleby** (reports on Indian administration, 1953 & 1956) recommended the **IIPA** and O&M division."
+    ],
+    "mainsAngles": [
+      "'Public administration is public because it is different' — distinguish public from private administration with thinkers.",
+      "Trace the evolution of Public Administration from the politics–administration dichotomy to New Public Service.",
+      "Is POSDCORB an adequate statement of the scope of public administration? Critically examine.",
+      "Development administration remains the defining character of the Indian state — discuss with Andhra Pradesh's delivery architecture as illustration."
+    ],
+    "glossary": [
+      { "term": "Politics–administration dichotomy", "definition": "Founding claim (Wilson, Goodnow) that policy-making (politics) and policy-execution (administration) are separable spheres; later demolished as administrators visibly make policy." },
+      { "term": "POSDCORB", "definition": "Gulick's acronym for the chief executive's functions — Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting." },
+      { "term": "Bounded rationality", "definition": "Simon's insight that decision-makers 'satisfice' rather than maximise, choosing acceptable options under limits of information, time and cognition." },
+      { "term": "New Public Management", "definition": "1980s–90s reform wave importing market mechanisms and private-sector management into government — competition, contracting-out, performance measurement." },
+      { "term": "Development administration", "definition": "Administration oriented to planned socio-economic transformation in post-colonial states (Weidner, Riggs) — India's dominant administrative idiom." },
+      { "term": "New Public Service", "definition": "Denhardt & Denhardt's post-NPM corrective: the administrator's first job is to serve citizens and build public value, not steer customers." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-014",
+    "sections": [
+      {
+        "heading": "The Arthashastra — the state as a science",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Kautilya (Chanakya/Vishnugupta)**, minister to **Chandragupta Maurya (c. 321 BCE)**, wrote the **Arthashastra** — 15 books on statecraft, economics and administration, rediscovered by **R. Shamasastry in 1909**. Its premise is startlingly modern: governance is a **science (danda-niti)**, the king is an **employee of the state**, and administration exists for welfare — '**In the happiness of his subjects lies the king's happiness; in their welfare his welfare**' (praja sukhe sukham rajnah)."
+          },
+          {
+            "type": "table",
+            "headers": ["Element (Saptanga — seven limbs of the state)", "Modern equivalent"],
+            "rows": [
+              ["**Swami** (the sovereign)", "Political executive / head of state"],
+              ["**Amatya** (ministers & officials)", "Council of ministers, civil service"],
+              ["**Janapada** (territory + people)", "Population & geography — the tax and welfare base"],
+              ["**Durga** (fort)", "Security infrastructure, capital"],
+              ["**Kosha** (treasury)", "Public finance — 'all undertakings depend upon finance'"],
+              ["**Danda** (army/force)", "Coercive apparatus, law enforcement"],
+              ["**Mitra** (ally)", "Foreign relations (the mandala theory of concentric friends/enemies)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Administrative machinery in the Arthashastra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Recruitment by merit and test**: amatyas chosen after **upadha (integrity) tests** — dharma, artha, kama and bhaya (fear) tests — the ancient ancestor of integrity screening.",
+              "**Departmentalisation**: ~30 **adhyakshas (superintendents)** — of gold, mines, agriculture (sitadhyaksha), trade (panyadhyaksha), shipping, tolls, weights & measures — a proto-ministerial system with detailed job descriptions.",
+              "**District & local tiers**: janapada divided into **sthaniya (800 villages), dronamukha (400), kharvatika (200), sangrahana (10)**; the **gopa** and **sthanika** as field officers — the lineage of India's district administration.",
+              "**Public finance**: land revenue (bhaga, typically 1/6), tolls, fines; budgeting, audit by **samaharta (collector-general)** and **sannidhata (treasurer)**; strictures against embezzlement — Kautilya lists **40 ways officials swallow revenue** ('just as fish moving in water cannot be known when drinking it').",
+              "**Intelligence & vigilance**: an elaborate espionage network (gudhapurusha) — stationary and wandering spies — for corruption control and state security.",
+              "**Justice & welfare**: dharmasthiya (civil) and kantakashodhana (criminal/administrative) courts; famine relief, support for widows/orphans/aged, consumer protection (price/weights regulation)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[King - Swami] --> B[Mantriparishad and Amatyas]\n  B --> C[About 30 Adhyakshas - departmental superintendents]\n  A --> D[Samaharta - revenue collector general]\n  A --> E[Sannidhata - treasurer]\n  C --> F[District chain: sthaniya to sangrahana]\n  F --> G[Gopa and Sthanika - field officers]\n  A --> H[Gudhapurusha - intelligence network]"
+          }
+        ]
+      },
+      {
+        "heading": "Assessment and enduring relevance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Modern echoes**: merit recruitment (UPSC/APPSC), integrity testing and vigilance (CVC), the district collector (samaharta's descendant), performance budgeting, welfare state (praja-sukha), consumer protection, disaster relief — even the **Yogakshema** phrase in LIC's motto is Kautilyan.",
+              "**Critiques**: amoral realpolitik (ends-justify-means in foreign policy), pervasive surveillance, monarchic frame — but as **ARC and administrative historians note**, the Arthashastra's core is **accountable, audited, welfare-oriented bureaucracy**, not despotism.",
+              "**AP hook**: Mauryan administration reached the Andhra region (Ashokan inscriptions; the Satavahanas, who ruled from Amaravati/Dharanikota, inherited and adapted Mauryan administrative forms) — link ancient administrative continuity to the state's own heritage."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Quote 'praja sukhe sukham rajnah' + the fish-in-water line on corruption. Structure: saptanga → machinery (recruitment, departments, revenue, spies) → relevance table to modern institutions. Examiners reward explicit ancient-to-modern mapping."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Arthashastra: **15 adhikaranas (books)**; rediscovered and published by **R. Shamasastry (1909)**.",
+      "**Saptanga** theory: swami, amatya, janapada, durga, kosha, danda, mitra.",
+      "**Samaharta** = collector-general of revenue; **Sannidhata** = chief treasurer.",
+      "Land revenue was typically **one-sixth (shadbhaga)** of produce.",
+      "**Upadha tests** screened ministers for integrity through dharma, artha, kama and bhaya temptations.",
+      "Kautilya enumerated **40 modes of embezzlement** and prescribed graded punishments and informer rewards.",
+      "**Mandala theory**: the circle-of-states doctrine of foreign policy; four upayas — **sama, dana, bheda, danda**."
+    ],
+    "mainsAngles": [
+      "'The Arthashastra is a manual of the welfare state written two millennia early' — examine with reference to its administrative ideas.",
+      "Map Kautilya's saptanga and revenue administration onto the institutions of modern Indian governance.",
+      "Kautilya's anti-corruption framework combined deterrence, surveillance and incentives — evaluate its contemporary relevance for vigilance administration.",
+      "Compare the Kautilyan district chain (sthaniya–gopa) with the modern district collector system."
+    ],
+    "glossary": [
+      { "term": "Saptanga", "definition": "Kautilya's theory of the state as seven interdependent limbs — sovereign, ministers, territory-people, fort, treasury, force and ally." },
+      { "term": "Danda-niti", "definition": "The science of governance/coercion — Kautilya's term for statecraft, resting on the just use of sanction (danda) to uphold order." },
+      { "term": "Yogakshema", "definition": "Kautilyan compound for acquisition (yoga) and secure enjoyment (kshema) of welfare — the state's welfare duty; echoed in modern Indian public institutions." },
+      { "term": "Adhyaksha", "definition": "Departmental superintendent in Mauryan administration (e.g., of mines, trade, agriculture) — the ancient counterpart of a head of department." },
+      { "term": "Gudhapurusha", "definition": "Kautilya's secret agents — stationary (samstha) and roving (sanchara) spies used for vigilance, intelligence and public-opinion sensing." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-015",
+    "sections": [
+      {
+        "heading": "Mughal administration — the centralised imperial machine",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Mughal system (perfected under **Akbar**) was a **centralised, military-bureaucratic** empire run through the **mansabdari system**: every officer held a **mansab (rank)** with dual **zat** (personal status/salary) and **sawar** (cavalry obligation) grades — a unified civil-military service where office, not birth, fixed rank, though loyalty ran to the emperor personally. Salaries were often paid through **jagirs** (revenue assignments — transferable, non-hereditary), keeping officials dependent on the crown."
+          },
+          {
+            "type": "table",
+            "headers": ["Office", "Function"],
+            "rows": [
+              ["**Wazir / Diwan-i-ala**", "Revenue & finance head — the empire's CFO"],
+              ["**Mir Bakshi**", "Military pay & mansab administration — head of the military-personnel department"],
+              ["**Sadr-us-Sudur**", "Religious endowments, grants, judicial appointments"],
+              ["**Khan-i-Saman**", "Imperial household & state karkhanas"],
+              ["**Qazi-ul-Quzat**", "Chief judge — qazi network below"],
+              ["Provincial tier", "**Subedar** (governor), **Diwan** (provincial revenue — deliberately independent of the subedar: an early check-and-balance), Bakshi, Sadr, Kotwal (town police), Faujdar (district law & order)"]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Land revenue**: **Todar Mal's zabti/dahsala system** — measurement (paimaish), classification (polaj, parauti, chachar, banjar) and cash rates from ten-year averages — the ancestor of ryotwari-style settlement science.",
+              "Weaknesses: personalised loyalty, **jagirdari crisis** (assignments outran revenue by Aurangzeb's time), no rule of law above the emperor, negligible citizen-state relation — administration extracted more than it served."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "British rule — the colonial grammar of Indian administration",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Civil service**: **Cornwallis** professionalised the covenanted service (the 'steel frame' — Lloyd George's phrase); **Macaulay Committee (1854)** brought **open competitive merit recruitment**; Indians entered slowly (Satyendranath Tagore, 1863; simultaneous exams only in 1922).",
+              "**District administration**: the **Collector (created 1772, Warren Hastings)** fused revenue, magisterial and executive power — still the pivot of Indian and AP field administration.",
+              "**Rule of law & codification**: Macaulay's **IPC (1860)**, CrPC, Evidence Act (1872), civil codes — replaced by BNS/BNSS/BSA only in **2023–24**, showing the longevity of the colonial legal frame.",
+              "**Police**: **Police Act, 1861** — a regime-security force answerable upward, not to citizens; its design endures (hence repeated reform demands: NPC 1977–81, **Prakash Singh, 2006**).",
+              "**Revenue settlements**: **Permanent Settlement (1793, Bengal — zamindari)**, **Ryotwari (Munro & Read — Madras Presidency, covering coastal Andhra & Rayalaseema)**, **Mahalwari** (North-West) — each with lasting agrarian consequences.",
+              "**Other legacies**: budgeting & audit (the CAG's ancestry), railways/telegraph/PWD, census & gazetteers, secretariat system, local self-government (**Ripon's 1882 resolution**), and a tradition of **district gazetteer-based knowledge governance**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Colonial administrative legacy] --> B[Steel frame civil service - merit, neutrality]\n  A --> C[District collector - revenue plus magistracy]\n  A --> D[Rule of law - codified IPC CrPC Evidence Act]\n  A --> E[Police Act 1861 - regime policing]\n  A --> F[Revenue settlements - zamindari, ryotwari, mahalwari]\n  B --> G[Continuity: IAS, APPSC merit exams]\n  C --> G\n  D --> H[Replaced 2023-24 by BNS BNSS BSA]\n  E --> I[Pending reform: Prakash Singh directives]"
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — continuity, change and the AP lens",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**What independent India kept**: the generalist civil service, district collector, secretariat, police structure, tehsil/revenue machinery, audit — 'continuity with change': the same steel frame re-purposed from **extraction to development** (Appleby's caution: structures built for control adapt poorly to welfare).",
+              "**What it changed**: constitutional supremacy over executive discretion, universal franchise, fundamental rights, Panchayati Raj, and (slowly) citizen-centric instruments — RTI, charters, e-governance.",
+              "**AP lens**: **Sir Thomas Munro's ryotwari** in the Madras Presidency shaped coastal Andhra and Rayalaseema's direct cultivator-state relation (contrast with zamindari estates abolished by the **Madras Estates Abolition Act, 1948**); the district collector remains AP's delivery pivot, now flanked by secretariats and volunteers — the newest layer on a Mauryan-Mughal-British palimpsest."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner wants lineage, not just description: mansabdari → merit service → IAS; Todar Mal → Munro's ryotwari → AP revenue administration; Police Act 1861 → Prakash Singh. Two continuity chains and one critique (extraction vs welfare design) make a complete answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mansabdari**: dual ranks — **zat** (personal) and **sawar** (cavalry); introduced under **Akbar**.",
+      "**Todar Mal** (Akbar's diwan) devised the **dahsala/zabti** revenue system.",
+      "Office of **Collector**: created **1772** under **Warren Hastings**.",
+      "**Macaulay Committee (1854)** — open competition for the civil service; first ICS exam 1855 (London).",
+      "**Ryotwari** system: **Thomas Munro** & Alexander Read, Madras Presidency — direct settlement with the ryot (cultivator).",
+      "**Police Act, 1861** followed the 1860 Police Commission after the 1857 revolt.",
+      "**Ripon's Resolution on local self-government: 1882** — 'Magna Carta of local self-government'.",
+      "IPC 1860 / CrPC / Evidence Act 1872 replaced by **Bharatiya Nyaya Sanhita, Nagarik Suraksha Sanhita, Sakshya Adhiniyam (in force 1 July 2024)**."
+    ],
+    "mainsAngles": [
+      "Mughal administration was a revenue-military machine with sophisticated checks — examine with reference to mansabdari and the provincial diwan.",
+      "'Independent India inherited a structure of control and asked it to deliver welfare' — critically assess the British administrative legacy.",
+      "Trace the evolution of the district collector from Warren Hastings to the present, with Andhra Pradesh illustrations.",
+      "Compare zamindari and ryotwari settlements and their long-run agrarian legacies in coastal Andhra."
+    ],
+    "glossary": [
+      { "term": "Mansabdari", "definition": "Mughal system of ranked imperial service (mansab = rank) combining civil and military hierarchy, with zat and sawar grades fixing pay and cavalry obligations." },
+      { "term": "Jagir", "definition": "Transferable, non-hereditary assignment of land revenue to a mansabdar in lieu of salary; its scarcity produced the late-Mughal 'jagirdari crisis'." },
+      { "term": "Zabti (dahsala) system", "definition": "Todar Mal's cash revenue settlement based on measured area, crop classification and ten-year average yields and prices." },
+      { "term": "Steel frame", "definition": "Epithet for the ICS — the small, elite, merit-recruited service that held colonial (and then independent) India's administration together." },
+      { "term": "Ryotwari settlement", "definition": "Munro-Read revenue system settling land revenue directly with the cultivating ryot, dominant in the Madras Presidency including coastal Andhra and Rayalaseema." },
+      { "term": "Covenanted civil service", "definition": "Company-era senior service bound by covenant, ancestor of the ICS/IAS; distinguished from the uncovenanted subordinate services." }
+    ]
+  }
+]
