@@ -1,0 +1,264 @@
+[
+  {
+    "code": "MN-PIV-IEC-001",
+    "sections": [
+      {
+        "heading": "The growth story — impressive headline, uneven engine",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India is the **fastest-growing major economy** (~**6.5–7%** real GDP growth in recent years, ~**$4 trillion** nominal GDP, 5th largest; 3rd by **PPP**), yet the growth is **inconsistent across time and unbalanced across sectors**. Time inconsistency: the 2016–20 deceleration (demonetisation, GST transition, IL&FS credit shock), the **–5.8% COVID contraction (FY21)**, then a strong rebound — a saw-tooth path that deters long-horizon private investment. Sectoral imbalance is the deeper worry: **services (~53–55% of GVA)** lead, while **agriculture (~16–18% of GVA but ~45% of employment)** and **manufacturing (stuck near ~16–17% of GVA against the 25% NMP target)** underperform their employment mandates."
+          },
+          {
+            "type": "table",
+            "headers": ["Sector", "Share of GVA", "Share of employment", "The mismatch"],
+            "rows": [
+              ["Agriculture & allied", "~16–18%", "~45%", "Half the workforce produces a sixth of output — chronic **disguised unemployment**, low productivity"],
+              ["Industry (incl. mfg)", "~28–30% (mfg ~17%)", "~25%", "Manufacturing has not absorbed labour leaving farms — the **'missing middle'** of mid-size firms"],
+              ["Services", "~53–55%", "~30%", "High-skill enclave growth; limited mass employment — **'jobless growth'** critique"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "India's structural transformation is **atypical**: it jumped from farm to services, skipping the labour-intensive manufacturing stage that transformed East Asia — the core reason growth translates weakly into good jobs (the **premature deindustrialisation** thesis, Rodrik)."
+          }
+        ]
+      },
+      {
+        "heading": "Why agriculture and manufacturing lag",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Agriculture** (trend growth ~3–3.5%, volatile with monsoons): fragmented holdings (**average ~1.08 ha, 86% small & marginal — Agriculture Census**), skewed irrigation (~50% of net sown area), cereal-centric MSP incentives, weak market linkages despite e-NAM, low value-addition and food-processing, climate stress. Fixes: irrigation (PMKSY), diversification to horticulture/livestock (already >40% of agri-GVA), FPOs, agri-infra fund, natural farming (**AP's APCNF** as the scaled model).",
+              "**Manufacturing**: infrastructure and logistics costs (~13–14% of GDP vs ~8% in competitors — being cut via **Gati Shakti + NLP**), rigid factor markets (land acquisition, pre-2020 labour codes' compliance thicket), credit scarcity for MSMEs, import dependence in electronics/defence (**PLI in 14 sectors** as the counter), skill gaps, and the missing-middle firm-size distribution caused by threshold-based regulation.",
+              "**The employment consequence**: LFPR and female LFPR remain the binding constraints on inclusive growth; without a manufacturing ramp, the **demographic dividend (median age ~29)** risks becoming a demographic anxiety — the window closes by ~2045."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Inconsistent growth] --> B[Agriculture: low productivity, monsoon risk]\n  A --> C[Manufacturing: 17 percent of GVA, missing middle]\n  A --> D[Services-led enclave growth]\n  B --> E[45 percent of workforce underemployed]\n  C --> E\n  E --> F[Weak mass demand]\n  F --> A\n  G[Fixes: irrigation and diversification, PLI and logistics, skills and labour codes] --> B\n  G --> C"
+          }
+        ]
+      },
+      {
+        "heading": "The AP dimension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "AP's economy is **agriculture-heavy relative to India**: agriculture & allied contribute roughly **a third of GSVA** (fisheries alone make AP the **top fish and shrimp producer** — 'aqua capital of India'), so national farm-growth problems bite harder here — but AP's allied-sector diversification (aqua, horticulture, dairy) is also the national template for the way out.",
+              "Manufacturing in AP is below potential despite advantages — the state's answer: port-led industrialisation (**3 industrial corridors — VCIC, CBIC spur, Hyderabad–Bengaluru**, Sri City), sector parks and the industrial policies' incentives; bottleneck story continues in the dedicated industry notes.",
+              "Use AP's contrast in answers: a state that grew fast (high single-digit GSDP growth in several recent years) largely on **primary-sector productivity** — proof that agri-led growth is possible, and its limits (low farm incomes persist) — proof of why manufacturing still matters."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Anchor with the GVA-vs-employment mismatch table — it is the single most reusable economy visual. Then one paragraph each on agriculture's and manufacturing's five causes + fixes, closing with the demographic-window urgency and the AP aqua/horticulture counterpoint."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India: **5th largest** economy nominal, **3rd by PPP**; fastest-growing major economy (~6.5–7%).",
+      "Agriculture: ~**16–18% of GVA** but ~**45% of employment**; **86% of holdings** are small & marginal (avg ~1.08 ha).",
+      "Manufacturing share target: **25% of GDP** (National Manufacturing Policy 2011); actual stuck ~17%.",
+      "**PLI schemes**: 14 sectors, ~₹1.97 lakh crore outlay — electronics assembly the flagship success (mobile exports).",
+      "**FY21 COVID contraction: –5.8%** (real GDP); fastest rebound among major economies FY22.",
+      "AP is India's **largest fish & shrimp producer**; allied activities exceed crop agriculture within AP's farm GVA.",
+      "Logistics cost being addressed via **PM Gati Shakti (2021)** + **National Logistics Policy (2022)**."
+    ],
+    "mainsAngles": [
+      "India's growth is fast but not fat with jobs — examine the sectoral imbalance behind inconsistent growth.",
+      "Why has Indian manufacturing stagnated near a sixth of GVA despite three decades of reform? Evaluate the PLI-era response.",
+      "Agriculture's problem is productivity, not production — discuss with the smallholding structure and the diversification evidence.",
+      "India skipped the factory stage of development — assess the 'premature deindustrialisation' thesis for India and its employment consequences.",
+      "Andhra Pradesh grew on the primary sector — analyse the possibilities and the limits of agri-led growth using AP's experience."
+    ],
+    "glossary": [
+      { "term": "Gross Value Added (GVA)", "definition": "Output minus intermediate consumption — sectoral GDP at basic prices; GDP = GVA + product taxes – subsidies." },
+      { "term": "Disguised unemployment", "definition": "More workers engaged than needed with near-zero marginal productivity — endemic on small family farms." },
+      { "term": "Missing middle", "definition": "India's firm-size gap: many micro firms, few mid-size ones, caused partly by size-threshold regulations that penalise growing." },
+      { "term": "Premature deindustrialisation", "definition": "Rodrik's finding that late developers peak in manufacturing at lower income/employment shares than early industrialisers did." },
+      { "term": "Demographic dividend", "definition": "Growth potential from a bulge of working-age population — realisable only with jobs, health and skills; India's window runs to about 2045." },
+      { "term": "Structural transformation", "definition": "The shift of workers from low- to high-productivity sectors (farm → factory → services) — the core mechanism of development." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IEC-002",
+    "sections": [
+      {
+        "heading": "The macro-stress quartet — inflation, oil, CAD, rupee",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Four external-facing stresses move together: **imported oil → trade deficit → current account deficit (CAD) → rupee depreciation → imported inflation** — a loop where each variable feeds the next. India imports **~85–88% of its crude oil** and ~50% of natural gas; every **$10/barrel rise adds roughly 0.3–0.4% of GDP to the CAD** and pushes CPI up ~0.2–0.3 percentage points — the single largest macro vulnerability."
+          },
+          {
+            "type": "table",
+            "headers": ["Variable", "Framework & recent anchor", "Policy instruments"],
+            "rows": [
+              ["**Inflation**", "CPI targeting: **4% ± 2%** (MPC, 2016); food weight ~46% of CPI makes monsoons monetary events; CPI has generally hovered within band lately with food-price spikes (vegetables, pulses)", "Repo rate & stance; supply-side: buffer stocks (OMSS), import-duty tweaks, export bans (rice/onion episodes)"],
+              ["**Oil prices**", "Brent shocks (2022 Ukraine spike >$120) vs discounted Russian crude (now India's top supplier ~35–40% of imports)", "Diversified sourcing, strategic petroleum reserves, **ethanol blending (E20 target)**, windfall levies (2022–23), EV push"],
+              ["**CAD / BoP**", "CAD comfortable recently (~1–1.5% of GDP; occasional quarterly surpluses) — services exports (~$340 bn+) and **remittances (~$120+ bn, world's largest)** offset the merchandise deficit (electronics, oil, gold)", "Export promotion (FTAs with UAE/Australia/EFTA/UK), import substitution (PLI), gold monetisation, stable FDI policy"],
+              ["**Rupee**", "Slid past **₹83–86/$** range; RBI intervenes to curb volatility, not defend levels — forex reserves ~**$650–700 bn** (top-4 globally) as the buffer", "Reserve accumulation/sales, rupee trade settlement (18+ countries), offshore NDF monitoring"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Transmission and trade-offs — the analytical layer",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Inflation control vs growth**: high repo cools demand-pull inflation but cannot fix vegetable prices — India's inflation is often **supply-shock inflation**, so the MPC's blunt tool imposes growth costs; hence the fiscal-monetary coordination argument.",
+              "**Depreciation's two faces**: helps IT/pharma/textile exporters and remittance recipients; hurts via costlier oil, fertiliser, electronics, edible oil and external debt service — net effect negative for a structurally import-dependent economy.",
+              "**The impossible trinity**: free capital flows + fixed exchange rate + independent monetary policy — pick two; India runs managed float + partial capital controls to keep monetary autonomy.",
+              "**Twin-deficit link**: high fiscal deficit spills into CAD (excess demand meets imports); why FRBM discipline is also external-sector policy.",
+              "**Resilience scoreboard**: inflation targeting institutionalised, reserves ample, CAD moderate, external debt ~19–20% of GDP with low short-term share — India is **stress-prone but shock-absorbent**; the structural cure remains energy transition + manufacturing depth."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Global oil price rise] --> B[Import bill up]\n  B --> C[Trade deficit widens - CAD]\n  C --> D[Rupee depreciates]\n  D --> E[Imported inflation - CPI rises]\n  E --> F[MPC raises repo rate]\n  F --> G[Growth slows, imports cool]\n  G --> C\n  H[Buffers: forex reserves, remittances, services exports, Russian discounts] --> C\n  H --> D"
+          }
+        ]
+      },
+      {
+        "heading": "AP angle and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP transmission channels**: diesel costs hit aqua-farm economics (aerators, pumping) and long-haul horticulture; fertiliser import costs hit paddy belts; **rupee depreciation helps AP's marine exports** (shrimp to the US/China — AP supplies the bulk of India's ~$7–8 bn seafood exports) and pharma exports; Gulf remittances matter to Rayalaseema and coastal households.",
+              "For any macro-stress question: define the variable → India's structural exposure → recent data band (don't overclaim precision) → policy toolkit → one trade-off → one AP channel. The **loop diagram** is your answer skeleton."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Learn bands, not points — CPI target 4±2, oil import share ~85%+, reserves ~$650–700 bn, CAD ~1–1.5% — figures examiners accept across years. The oil→CAD→rupee→inflation loop with the MPC response closes 80% of macro questions."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Inflation targeting** adopted 2016 (RBI Act amendment): CPI-combined **4% ± 2%**; MPC of 6, Governor's casting vote.",
+      "India imports **~85–88% of crude oil**; Russia became the **largest crude supplier** post-2022.",
+      "**Remittances: ~$120+ billion — world's highest** (World Bank); largest sources include the US and Gulf.",
+      "Forex reserves peaked around **$700 bn (2024)** — 4th largest globally.",
+      "**CAD** = trade balance + net services + net income + net transfers; financed via the capital account (FDI, FPI, ECB, NRI deposits).",
+      "**Impossible trinity (Mundell-Fleming)**: capital mobility, fixed exchange rate, monetary autonomy — any two.",
+      "**Ethanol blending**: ~15% achieved; **E20 target 2025-26**; flex-fuel push.",
+      "WPI vs CPI divergence: WPI tracks producer/wholesale (no services), CPI tracks retail (food ~46% weight)."
+    ],
+    "mainsAngles": [
+      "Trace the transmission from global oil prices to Indian household inflation and evaluate the policy buffers at each stage.",
+      "India's inflation is more supply-shock than demand-pull — assess the adequacy of inflation targeting in such an economy.",
+      "A weaker rupee is neither villain nor virtue — analyse the distributional effects of depreciation across sectors and states.",
+      "Why has India's balance of payments proved resilient despite a large merchandise deficit? Discuss services, remittances and reserves.",
+      "Examine how national macro shocks transmit to Andhra Pradesh's aqua, pharma and remittance economy."
+    ],
+    "glossary": [
+      { "term": "Current Account Deficit", "definition": "Excess of a country's payments over receipts on trade, services, income and transfers — financed by capital inflows; sustainable roughly below 2.5–3% of GDP for India." },
+      { "term": "Managed float", "definition": "Exchange-rate regime where the market sets the rate but the central bank intervenes to smooth volatility — India's practice." },
+      { "term": "Imported inflation", "definition": "Domestic price rise caused by costlier imports (oil, edible oil, gold, electronics), amplified by currency depreciation." },
+      { "term": "Core inflation", "definition": "CPI excluding volatile food and fuel — the measure of underlying, demand-driven price pressure." },
+      { "term": "Twin deficits", "definition": "Simultaneous fiscal and current account deficits, the first often feeding the second through excess aggregate demand." },
+      { "term": "Rupee trade settlement", "definition": "RBI's 2022 mechanism allowing invoicing and settling trade in rupees via special vostro accounts — de-dollarisation at the margin." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IEC-003",
+    "sections": [
+      {
+        "heading": "The NPA cycle — how banks got sick and got better",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A loan turns **non-performing (NPA)** when interest/principal stays overdue **90+ days**. India's great NPA wave came from the 2003–08 credit boom: infrastructure and steel/power bets soured after 2011 (fuel linkages, clearances, global steel glut), hidden first by **evergreening and restructuring**, then exposed by the RBI's **Asset Quality Review (2015)**. Gross NPAs peaked at **~11.5% (March 2018; PSBs ~14.6%)** — the **'Twin Balance Sheet problem'** (Economic Survey 2016-17): stressed corporates + stressed banks paralysing credit. A decade later the cycle has turned: **GNPA fell to multi-year lows (~2.5–3%)**, bank profitability at record highs — but the repair cost is the exam story."
+          },
+          {
+            "type": "table",
+            "headers": ["Response pillar (the 4R framework)", "Content", "Assessment"],
+            "rows": [
+              ["**Recognition**", "AQR 2015; ending forbearance; **June 7, 2019 RBI circular** (after SC struck the Feb 12, 2018 one) for time-bound resolution", "Honest books restored — precondition for everything else"],
+              ["**Resolution**", "**IBC 2016**: creditor-in-control, 330-day outer limit, NCLT; landmark recoveries (Essar Steel ~₹42,000 cr); **behavioural deterrence** — promoters settle to avoid losing firms; but recovery rates ~30–32% and delays well beyond timelines", "Game-changer with implementation fatigue; **NARCL/'bad bank' (2021)** + IDRCL for legacy accounts"],
+              ["**Recapitalisation**", "**~₹3.1+ lakh crore infused into PSBs (2017–22)**, incl. recap bonds (fiscal cost off-stage)", "Necessary but moral-hazard-laden — taxpayers funded past misallocation"],
+              ["**Reform**", "PSB mega-mergers (27→12), EASE governance agenda, stricter large-exposure norms, **PCA framework** for weak banks, privatisation announced (two PSBs) but pending", "Governance root cause — political lending & weak boards — only partly addressed (P.J. Nayak Committee's agenda incomplete)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Deeper anatomy — causes, costs, current risks",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Causes taxonomy**: cyclical (commodity/global shocks), structural (project-appraisal weakness, ALM mismatch in infra lending — hence the DFI revival: **NaBFID 2021**), governance (crony allocation, frauds — Nirav Modi/PNB ₹14,000 cr), and legal (pre-IBC recovery averaged ~26% over 4+ years via DRT/SARFAESI).",
+              "**Costs of the NPA decade**: credit growth collapsed (bank credit-to-GDP stagnated), private capex deferred, PSB market value eroded, and fiscal space burned on recap — a lost half-decade of financial intermediation.",
+              "**Watch-list now**: retail/unsecured credit boom (RBI raised risk weights, Nov 2023), MSME restructuring pipelines post-COVID (ECLGS ~₹3.7 lakh crore guaranteed), NBFC interconnectedness (IL&FS 2018, DHFL lessons), and **wilful defaulter** enforcement (top wilful defaults > ₹3.5 lakh crore FoIR-reported).",
+              "**Balanced verdict**: the clean-up worked — IBC changed debtor behaviour, PCA nursed weak banks back, and the twin balance sheet is now a **'twin balance sheet advantage'** (Survey 2022-23) — but recovery percentages, NCLT capacity and PSB governance autonomy remain the unfinished agenda (privatisation as the live debate: efficiency vs financial-inclusion mandates)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Credit boom 2003-08] --> B[Infra and metals exposure]\n  B --> C[Shocks: fuel, clearances, global glut]\n  C --> D[Hidden stress - evergreening]\n  D --> E[AQR 2015 - recognition]\n  E --> F[GNPA peak 11.5 percent in 2018]\n  F --> G[4R: recognise, resolve IBC, recapitalise, reform]\n  G --> H[GNPA at multi-year lows, record bank profits]\n  H --> I[New risks: unsecured retail, NBFC links]"
+          }
+        ]
+      },
+      {
+        "heading": "AP angle and exam craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP-relevant threads**: agriculture-loan stress and **farm-loan waivers** (AP's 2014 waiver among the largest) — waivers ease distress but **damage credit culture** (RBI's consistent position: repayment discipline erodes, banks ration future farm credit); aqua-sector working-capital NPAs track export shocks; AP's high **DISCOM dues** to power generators is the state-level twin-balance-sheet echo (UDAY to LPS rules 2022).",
+              "Craft: define NPA (90-day) → causes taxonomy → the 4R table with IBC facts → current risk watch-list → verdict. Numbers to carry: 11.5% peak (2018), ~2.5–3% now, ₹3.1 lakh crore recap, IBC 2016/330 days, recovery ~30%."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The 4R framework IS the answer structure. Pair every R with one fact and one critique. End with the pivot: yesterday's problem was corporate NPAs; tomorrow's watch-list is unsecured retail and NBFC contagion — showing currency of understanding earns the top band."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**NPA**: overdue **> 90 days**; sub-standard (<12 months) → doubtful → loss assets; provisioning rises accordingly.",
+      "**GNPA peak: ~11.5% in March 2018** (PSBs ~14.6%); recent lows ~2.5–3% with record bank profits.",
+      "**IBC 2016**: 330-day outer limit; **Sec 29A** bars defaulting promoters from re-bidding; CoC of financial creditors decides.",
+      "**NARCL (bad bank) + IDRCL (2021)**: acquires legacy NPAs with government-guaranteed security receipts.",
+      "**Twin Balance Sheet** problem — Economic Survey 2016-17; **4R strategy** — recognition, resolution, recapitalisation, reforms.",
+      "**PCA framework**: RBI's corrective regime on capital/asset-quality/leverage triggers; several PSBs exited by 2021-22.",
+      "**PSB consolidation**: 27 (2017) → **12** (2020); NaBFID (2021) as the new infrastructure DFI.",
+      "**SARFAESI 2002** allows security enforcement without court; DRTs adjudicate recovery."
+    ],
+    "mainsAngles": [
+      "Anatomise India's NPA crisis: how did recognition, resolution, recapitalisation and reform each contribute to the turnaround?",
+      "The IBC changed behaviour more than balance sheets — evaluate its record on recoveries, timelines and deterrence.",
+      "Recapitalising public sector banks without governance reform is refuelling without repair — critically examine.",
+      "Farm-loan waivers relieve today's distress at tomorrow's credit access — discuss with the AP experience.",
+      "From twin balance sheet problem to twin balance sheet advantage — trace the decade and flag the new fragilities."
+    ],
+    "glossary": [
+      { "term": "Non-Performing Asset", "definition": "A loan whose interest or principal remains overdue beyond 90 days, requiring classification and provisioning by the bank." },
+      { "term": "Asset Quality Review", "definition": "RBI's 2015 inspection forcing honest recognition of stressed loans, ending the era of masked restructuring." },
+      { "term": "Evergreening", "definition": "Extending fresh loans so a borrower can service old ones, concealing default — cosmetic asset quality." },
+      { "term": "Insolvency and Bankruptcy Code", "definition": "2016 law shifting distressed firms to creditor control via NCLT within statutory timelines — India's resolution architecture." },
+      { "term": "Prompt Corrective Action", "definition": "RBI's graded restrictions (lending, dividends, expansion) on banks breaching capital or asset-quality thresholds." },
+      { "term": "Wilful defaulter", "definition": "Borrower who can pay but does not, or diverts funds — barred from institutional credit and capital markets." },
+      { "term": "Recapitalisation bonds", "definition": "Government bonds subscribed by banks whose proceeds return as equity capital — recap without immediate cash outgo." }
+    ]
+  }
+]
