@@ -1,0 +1,256 @@
+[
+  {
+    "code": "MN-PIV-IG-025",
+    "sections": [
+      {
+        "heading": "Inclusion — meaning and measures",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Inclusive growth** is growth that is **broad-based across sectors and regions, employment-intensive, and poverty-reducing**, with **equality of opportunity** in access to markets, resources and services (the World Bank/OECD framing India's 11th Plan — 'Towards Faster and More Inclusive Growth' — adopted). It has **process and outcome** dimensions: participation (who produces the growth) and benefit-sharing (who consumes it). Measures: poverty headcounts (**MPI** — health/education/living standards; Tendulkar-line legacy), **inequality** (Gini ~0.35–0.40 consumption; wealth far higher), **employment** (LFPR, worker-population ratio, informality ~90%), and access gaps (financial, digital, health, learning)."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension of exclusion", "Who is excluded", "Mechanism"],
+            "rows": [
+              ["**Economic**", "Landless labour, informal workers, micro-enterprises", "No assets or credit; casualised work without social security; the 'missing middle' denies formal jobs"],
+              ["**Social**", "SCs, STs, minorities, women, persons with disabilities", "Historical discrimination; caste-occupation lock-in; unpaid care burden; the tribal land-alienation frontier"],
+              ["**Regional/spatial**", "Eastern & central India; within states — e.g., **Rayalaseema & north-coastal AP vs the Krishna-Godavari delta**", "Geography + infrastructure deficits + colonial investment patterns; agro-climatic disadvantage"],
+              ["**Financial & digital**", "The unbanked/under-banked; smartphone-less households", "Documentation, distance, digital literacy — exclusion by authentication in the DBT era"],
+              ["**Knowledge/health**", "First-generation learners, undernourished children", "Learning poverty (ASER gaps), stunting ~35% (NFHS-5), anaemia — capability exclusion before market entry"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Causes of exclusion in India — the deep drivers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Initial conditions**: colonial deindustrialisation + zamindari legacies concentrated assets; land reform succeeded only patchily (WB, Kerala, and — for tenancy recording — undivided Andhra's protected-tenant laws partially).",
+              "**Growth pattern**: services-led, skill-biased growth rewards the educated urban minority; agriculture's terms of trade and productivity stagnation hold back the largest workforce.",
+              "**Social structure**: caste and gender as allocation mechanisms — occupational inheritance, discrimination in labour/credit markets (audit-study evidence), child-marriage/care norms cutting female LFPR.",
+              "**State capacity gaps**: schooling without learning, PHCs without doctors, titles without records — services reach unevenly, so public provision fails as the equaliser.",
+              "**Informality trap**: 90% informal employment → no pensions/insurance → shocks (illness, COVID) liquidate assets → poverty re-entry; migration's inclusion (remittances) and exclusion (portability of rights — the e-Shram/ONORC answer).",
+              "**Political economy**: elite capture of subsidies, regional bargaining power differences, and the fiscal squeeze on the social sector (health ~2%, education ~3% of GDP vs 2.5/6 goals)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Unequal initial assets - land, caste, gender] --> B[Unequal capabilities - health, learning]\n  B --> C[Unequal market access - jobs, credit, prices]\n  C --> D[Unequal incomes]\n  D --> A\n  E[Skill-biased services growth] --> C\n  F[Informality - no social security] --> D\n  G[State capacity gaps in schooling and health] --> B\n  H[Inclusion policy attacks each link: assets, capabilities, access, security] --> A"
+          }
+        ]
+      },
+      {
+        "heading": "The AP lens and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP's inclusion profile**: strong on delivery-inclusion (near-universal PDS, DBT saturation, Aarogyasri, high financial-inclusion metrics via SHG-bank linkage) — weaker on **structural inclusion** (farm-wage dependence, regional gaps: Rayalaseema's drought belt and the tribal agency's deprivation vs delta prosperity; female work concentrated in low-wage agriculture/aqua processing).",
+              "**Craft**: define (process + outcome) → five-dimension exclusion table → six deep causes → one paragraph of evidence (MPI exit of 13.5 crore nationally; NFHS-5 stunting/anaemia; informality 90%) → AP's two-speed profile. The 'circle of exclusion' diagram organises everything."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Distinguish inclusion from mere redistribution — the examiner wants opportunity-equality language (assets, capabilities, access) with the causal circle, not a scheme list. Save schemes for the next note; here, analysis wins."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "11th Five-Year Plan (2007–12): **'Towards Faster and More Inclusive Growth'** — the phrase's official Indian debut.",
+      "**MPI (NITI/UNDP)**: ~**13.5 crore exited multidimensional poverty** 2015-16 → 2019-21; dimensions — health, education, living standards.",
+      "**NFHS-5 (2019-21)**: stunting ~35.5%, women's anaemia ~57% — capability-exclusion markers.",
+      "Informal employment ≈ **90%** of India's workforce (PLFS-based estimates).",
+      "**ONORC (One Nation One Ration Card)** enables PDS portability for migrants — inclusion-by-portability.",
+      "**e-Shram**: national database of unorganised workers (30+ crore registered).",
+      "Consumption **Gini ~0.35–0.40**; wealth inequality far higher (top 1% ~40% of wealth by some estimates)."
+    ],
+    "mainsAngles": [
+      "Define inclusive growth in its process and outcome senses and explain why GDP growth alone missed the excluded.",
+      "Map the dimensions of exclusion in India and trace their mutually reinforcing circle.",
+      "Caste, gender and geography still allocate opportunity in India — examine with evidence.",
+      "Informality is the institutional form of exclusion — discuss with the social-security and portability responses.",
+      "Andhra Pradesh delivers welfare inclusively but grows unevenly — analyse the state's two-speed inclusion profile."
+    ],
+    "glossary": [
+      { "term": "Inclusive growth", "definition": "Growth that is broad-based, employment-generating and poverty-reducing, with equal opportunity of access — participation plus benefit-sharing." },
+      { "term": "Exclusion (economic)", "definition": "Denial of access to markets, assets, credit and decent work that keeps groups outside the growth process." },
+      { "term": "Learning poverty", "definition": "Inability to read an age-appropriate text by age 10 — schooling-without-learning as capability exclusion." },
+      { "term": "Elite capture", "definition": "Appropriation of public benefits by locally powerful groups, diverting inclusion instruments from intended beneficiaries." },
+      { "term": "Portability of entitlements", "definition": "Making rights (rations, health cover) claimable anywhere in India — the migrant-inclusion reform exemplified by ONORC." },
+      { "term": "Two-speed inclusion", "definition": "Strong transfer-based welfare coexisting with weak structural transformation — high delivery, lagging opportunity." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IG-026",
+    "sections": [
+      {
+        "heading": "The instrument stack — poverty and employment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Instrument", "Design", "Evidence & critique"],
+            "rows": [
+              ["**MGNREGA (2005)**", "Legal right: 100 days/rural household; demand-driven; wage floor; assets + social audit", "Self-targeting works; drought insurance function proven (COVID surge to ~11 crore individuals); critiques — budget as rationing device, wage delays, asset quality"],
+              ["**NRLM/Aajeevika**", "SHG federations + bank linkage + livelihoods (the **AP SERP model nationalised**)", "~10 crore women mobilised; credit access transformed; graduation to enterprises still thin"],
+              ["**PM-KISAN (2019)**", "₹6,000/yr unconditional to landholder farmers", "Fast, leak-proof DBT; excludes tenants & labourers — the AP counterpoint: Rythu Bharosa topped up and (in design) included tenants via crop-cultivator rights"],
+              ["**PMAY-G/U**", "Housing with DBT + geo-tagging", "~3+ crore rural houses; asset-based poverty exit; land for the landless remains the binding constraint"],
+              ["**Social security floor**", "PM-JJBY/PMSBY (insurance ~₹2 lakh at ₹20-436/yr), APY (pension), e-Shram; NSAP old-age pensions (₹200-500 central — states top up: **AP's pensions among India's most generous ~₹4,000/month via doorstep delivery**)", "Coverage widening; adequacy (central NSAP amounts frozen) the weak point"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Health and education — the capability instruments",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Health**: **Ayushman Bharat's two legs** — PM-JAY (₹5 lakh hospitalisation cover; ~55 crore target; AP's own **Aarogyasri (2007)** pioneered the model and runs an expanded state version — NTR Vaidya Seva lineage, cover raised toward ₹25 lakh) + **Ayushman Arogya Mandirs** (1.6+ lakh upgraded primary centres); National Health Mission (ASHA army); challenges — OOPE still ~40-45%, workforce gaps, primary-tertiary imbalance; **AP's family-doctor programme (2023)** — village-level physician visits pairing with secretariats: a cite-worthy state innovation.",
+              "**Education**: RTE 2009 (near-universal enrolment) → the learning crisis (ASER: ~half of class-V can't read class-II text) → **NEP 2020's** response (FLN mission — NIPUN Bharat; 5+3+3+4; mother-tongue foundation); PM POSHAN (mid-day meals; **AP's Gorumudda** with eggs/chikki enrichment), scholarships & fee reimbursement (**AP's full fee reimbursement for eligible students** — the state's signature education-inclusion instrument alongside school-infrastructure upgrades and English-medium transition, with its bilingual-pedagogy debate).",
+              "**The design lesson across all instruments**: rights + DBT + saturation beat discretionary targeting; but **transfers buy floors, not ladders** — capability instruments (learning, health, skills) convert floors into mobility: the two-generation strategy."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Poverty] --> B[Income floor: MGNREGA, PM-KISAN, pensions]\n  A --> C[Asset base: PMAY housing, SHG credit]\n  A --> D[Risk cover: PM-JAY, insurance, food security]\n  A --> E[Capabilities: FLN learning, nutrition, skills]\n  B --> F[Survival secured]\n  C --> F\n  D --> F\n  E --> G[Mobility - next generation exits]\n  F --> G"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Organise any 'instruments' question by **function** (floor/asset/risk/capability), not by ministry — it shows analytical command and lets you slot central + AP pairs naturally (PM-JAY↔Aarogyasri; PM-KISAN↔Rythu Bharosa; PM POSHAN↔Gorumudda; NSAP↔AP pensions).",
+              "Carry one number per instrument (100 days; ₹6,000; ₹5 lakh; ~10 crore SHG women; ~3 crore houses) and one critique each (rationing; tenant exclusion; OOPE; learning crisis; adequacy)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The floor-vs-ladder distinction is the analytical spine: transfers stop deprivation today; health-education-skills end its inheritance. Close every instruments answer with the two-generation strategy line."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**MGNREGA**: demand-driven legal guarantee (100 days), Sec 17 social audit; unemployment allowance if work not given in 15 days.",
+      "**PM-JAY**: ₹5 lakh/family/year, cashless, portable; AP's **Aarogyasri (2007)** was the pioneering state model.",
+      "**NIPUN Bharat**: foundational literacy & numeracy by class 3 — NEP 2020's first mission.",
+      "**PM POSHAN** (erstwhile MDM): pre-primary to class 8; AP's version — **Jagananna Gorumudda → Dokka Seethamma Madhyahna Bhojanam** (regime renames; cite the scheme function, not just the name).",
+      "**NSAP** central pensions remain ₹200–500/month; AP tops up to ~**₹4,000/month with doorstep delivery** — among India's highest.",
+      "**PM-JJBY/PMSBY**: ₹2 lakh life/accident cover at nominal premia; **APY** guaranteed pension ₹1,000–5,000.",
+      "AP's **family doctor programme (2023)**: mandal-level doctors' scheduled village visits linked to secretariats/YSR clinics."
+    ],
+    "mainsAngles": [
+      "Classify India's anti-poverty instruments by function — floors, assets, risk cover, capabilities — and evaluate one from each class.",
+      "MGNREGA is macro-insurance disguised as a works programme — assess two decades of the guarantee.",
+      "Health assurance without primary care is a leaking bucket — examine Ayushman Bharat's two legs with AP's Aarogyasri-family-doctor pairing.",
+      "Enrolment is solved, learning is not — evaluate NEP 2020's foundational-learning response.",
+      "Transfers buy floors, capabilities build ladders — design a two-generation inclusion strategy with central and AP instruments."
+    ],
+    "glossary": [
+      { "term": "Self-targeting", "definition": "Programme design (manual work at minimum wage) where only the needy self-select — MGNREGA's targeting engine." },
+      { "term": "Out-of-pocket expenditure", "definition": "Direct household health payments — India's ~40-45% share is the impoverishment channel insurance seeks to close." },
+      { "term": "Saturation approach", "definition": "Covering all eligible rather than phased targeting — minimising exclusion errors; AP welfare's operating principle." },
+      { "term": "Foundational literacy and numeracy", "definition": "Reading with comprehension and basic arithmetic by grade 3 — the gateway capability NEP 2020 prioritises." },
+      { "term": "Graduation approach", "definition": "Sequenced support (transfer → asset → coaching → credit) moving households from relief to sustainable livelihoods — the SHG frontier." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IG-027",
+    "sections": [
+      {
+        "heading": "Women's empowerment — the economics of half the sky",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Women's empowerment is **agency + assets + income + voice** — not scheme receipt alone. The macro case: raising female LFPR (**~35-37% and rising on recent PLFS from a ~23% low — much of it rural self-employment; quality is the question**) toward parity could add double-digit GDP percentages (IMF/McKinsey). The instrument stack works four channels: **economic** (SHG-credit, PMMY Mudra — ~68% women borrowers, Stand-Up India, DAY-NULM), **security & rights** (PWDVA, POSH, Shakti Sadans/One-Stop Centres, reservation), **capability** (Beti Bachao Beti Padhao, scholarships, Sukanya Samriddhi), and **time/infrastructure** (Ujjwala ~10 crore LPG connections, Jal Jeevan tap water, maternity benefits — PMMVY, crèches) — the last freeing the unpaid-care hours that block work."
+          },
+          {
+            "type": "table",
+            "headers": ["Channel", "Central instruments", "AP instruments (the SHG heartland)"],
+            "rows": [
+              ["Livelihood & credit", "NRLM (10 crore SHG women), Mudra, Stand-Up India, Lakhpati Didi (crorewomen-scale goal)", "**SERP/Velugu federations** — the national NRLM template; **Cheyutha/Aasara-type asset & bank-linkage transfers**; aqua & dairy value-chain groups"],
+              ["Protection", "POSH 2013, PWDVA 2005, Mission Shakti (OSCs, helplines), fast-track courts", "**Disha police stations & the proposed Disha law** (fast-track for offences against women); Mahila police volunteers"],
+              ["Capability & health", "BBBP, Sukanya Samriddhi, PMMVY (₹5,000+), Poshan Abhiyaan", "Girl-child education incentives, menstrual-health programmes in schools, anaemia mission (NFHS-5 AP women's anaemia high — the target)"],
+              ["Voice & representation", "**106th Amendment** (1/3 in LS/Assemblies, post-delimitation); PRI reservation", "**50% reservation in AP local bodies**; SHG federations as parallel women's parliaments"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Social welfare schemes — the wider net, and the tests",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Life-cycle logic**: ICDS/Poshan (0–6) → PM POSHAN & scholarships (school) → skills/Mudra (youth) → maternity & health cover (working age) → NSAP/state pensions (old age) — evaluate any welfare portfolio by its life-cycle coverage and gaps (adolescent girls and the elderly-care economy are the thin patches).",
+              "**Vulnerable-group schemes**: SC/ST — post-matric scholarships (DBT-reformed), Stand-Up India, **SCSP/TSP fund earmarking (an S.R. Sankaran-era legacy)**; PwD — Accessible India, ADIP; elderly — IGNOAPS plus state top-ups; transgender persons — SMILE; minorities — PM-VIKAS.",
+              "**The four tests for evaluating any welfare scheme** (use in every answer): **adequacy** (is the amount meaningful?), **coverage** (exclusion errors?), **delivery** (leakage? dignity?), **graduation** (does it build exit routes?). AP scores high on coverage-delivery, contested on adequacy-vs-fiscal-space and graduation.",
+              "**The empowerment caveat**: transfers to women's accounts improve household bargaining (evidence) but **agency needs assets in her name** (land titles, house pattas — AP's practice of registering housing pattas in women's names is the cite), mobility, and freedom from violence — measure empowerment by decisions, not disbursements."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Woman's empowerment] --> B[Income: SHG credit, Mudra, wages]\n  A --> C[Assets in her name: pattas, accounts]\n  A --> D[Time freed: LPG, tap water, creches]\n  A --> E[Safety: POSH, Disha, OSCs]\n  A --> F[Voice: 50 percent PRI seats, 106th Amendment]\n  B --> G[Bargaining power in household and market]\n  C --> G\n  D --> B\n  E --> G\n  F --> H[Policy reflects women's priorities]\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Numbers bank: female LFPR ~35-37% (rising), Mudra ~68% women, 10 crore SHG members, Ujjwala ~10 crore, 106th Amendment, AP 50% PRI + pattas-in-her-name.",
+              "For 'women empowerment' run the four-channel table; for 'social welfare schemes' run life-cycle + four tests; both end with the agency caveat — decisions, not disbursements."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner's discriminator is the empowerment-vs-welfare distinction. Two sentences do it: welfare gives her benefits; empowerment gives her the pen — the account, the patta, the seat, the safe street. Then prove AP's SHG lineage makes it the natural laboratory."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Female LFPR rose to ~**35-37%** (PLFS recent rounds) from ~23% (2017-18) — largely rural self-employment.",
+      "**PM Mudra Yojana**: ~68% of loan accounts are women's; Stand-Up India mandates one woman borrower per bank branch.",
+      "**Ujjwala**: ~10 crore LPG connections; time-poverty and indoor-air-pollution instrument.",
+      "**PMMVY**: ₹5,000 maternity benefit (first child; ₹6,000 for second girl child) — Art 42's statutory echo via NFSA Sec 4.",
+      "**106th Amendment (2023)**: women's reservation in LS/Assemblies after delimitation; **AP local bodies already reserve 50%**.",
+      "**SCSP/TSP**: plan-fund earmarking proportionate to SC/ST population — institutionalised in undivided AP by statute (2013 Act).",
+      "AP registers **house pattas in women's names** — asset-based empowerment practice.",
+      "**Lakhpati Didi**: NRLM goal of SHG women earning ₹1 lakh+ annually (3 crore target)."
+    ],
+    "mainsAngles": [
+      "Welfare gives benefits, empowerment gives agency — distinguish and evaluate India's women-centric instrument stack.",
+      "Female labour-force participation is rising but its quality is contested — analyse with PLFS evidence and the care-economy constraint.",
+      "The SHG movement is India's largest women's institution — trace its AP origins and assess its empowerment record.",
+      "Evaluate India's social welfare architecture on the life-cycle principle, identifying the thin patches.",
+      "Assets in her name change the household's arithmetic — discuss with land titles, housing pattas and bank accounts."
+    ],
+    "glossary": [
+      { "term": "Agency", "definition": "The capacity to make and act on one's own choices — the empowerment criterion beyond income or benefit receipt." },
+      { "term": "Time poverty", "definition": "Deficit of discretionary time from unpaid care and drudgery — the invisible tax on women's work and leisure." },
+      { "term": "Life-cycle approach", "definition": "Designing social protection to cover risks at each life stage from infancy to old age — the completeness test of welfare systems." },
+      { "term": "Bargaining power (household)", "definition": "A member's influence over household decisions, shifted by her income, assets, exit options and legal protections." },
+      { "term": "SCSP/TSP", "definition": "Scheduled Caste Sub-Plan and Tribal Sub-Plan — earmarking development funds proportionate to SC/ST population shares." },
+      { "term": "One-Stop Centre", "definition": "Sakhi centres providing integrated police, legal, medical and shelter support to women facing violence." }
+    ]
+  }
+]
