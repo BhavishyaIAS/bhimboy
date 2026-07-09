@@ -1,0 +1,270 @@
+[
+  {
+    "code": "MN-PIII-PAG-022",
+    "sections": [
+      {
+        "heading": "The accountability triad",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Transparency** is the citizen's ability to see government (information, reasons, records). **Accountability** is the obligation of power-holders to **answer (answerability)** and to **face consequences (enforceability)**. **Responsiveness** is government acting on citizen needs within reasonable time. They chain together: you cannot hold to account what you cannot see, and accountability without redress is theatre. The 2nd ARC devoted its **4th Report ('Ethics in Governance')** and **12th Report ('Citizen Centric Administration')** to this triad."
+          },
+          {
+            "type": "table",
+            "headers": ["Type of accountability", "Mechanism", "Weak spot"],
+            "rows": [
+              ["Political (vertical)", "Elections, legislature — questions, committees, no-confidence", "Blunt, 5-yearly, party-mediated"],
+              ["Administrative (internal)", "Hierarchy, conduct rules, APARs, vigilance, departmental inquiry", "Peer protection, delay"],
+              ["Legal (horizontal)", "Judicial review, CAG–PAC, CIC, Lokpal, NHRC", "Post-facto, capacity limits"],
+              ["Social (diagonal)", "**RTI, social audit, Citizen's Charters, jan sunwais, media**", "Depends on citizen capability and state follow-through"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Citizen's Charter — the responsiveness contract",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **Citizen's Charter** is a public declaration by an organisation of the **services it provides, standards, timelines, officers responsible, and grievance remedies**. Origin: UK's **Charter Mark under John Major (1991)** on six principles (standards, information/openness, choice/consultation, courtesy, redress, value for money). India adopted it via the 1997 Chief Ministers' Conference on 'Effective and Responsive Administration'; DARPG coordinates."
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Why charters underperform (2nd ARC diagnosis)**: drafted top-down without user consultation, one-size templates, no penalties for breach, staff unaware, rarely updated — 'a charter on the wall, not in the workflow'.",
+              "**The fix — Sevottam model** (DARPG/BIS **IS 15700:2005**): three modules — (1) a consulted, realistic charter; (2) a working **grievance-redress system**; (3) **service-delivery capability**. Certification forces the plumbing behind the promise.",
+              "**Statutory upgrade**: Right-to-Public-Services laws in ~20 states impose **time limits + officer-level fines** — converting charter promises into enforceable rights (the crucial jump from moral to legal accountability). The central Right of Citizens for Time Bound Delivery of Goods and Services and Redressal of their Grievances Bill, 2011 lapsed — worth citing as unfinished business."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Citizen's Charter] --> B[Standards and timelines published]\n  B --> C[Service delivered in time?]\n  C --> D[Yes - trust builds]\n  C --> E[No - grievance redress with escalation]\n  E --> F[Compensation or penalty on defaulting officer]\n  F --> G[Data feeds service redesign - Sevottam loop]\n  G --> A"
+          }
+        ]
+      },
+      {
+        "heading": "Making the triad real — with the AP case",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP's stack**: the **AP Public Services Delivery Guarantee Act, 2017** (time-bound services with compensation), **Mee-Seva** standards, **Spandana** grievance platform with CM-level review, and social-audit institutionalisation (SSAAT lineage) — a near-complete triad architecture; the exam-worthy critique is **enforcement consistency across political cycles**.",
+              "Other levers: proactive disclosure (RTI Sec 4), open dashboards, e-office audit trails, outcome budgets, **duty to give reasons** (natural justice) — reasons are transparency's legal core.",
+              "Balanced close: responsiveness without capacity produces false promises; accountability without protection produces paralysis — the design task is **credible standards + real consequences + staff capability**, which is exactly Sevottam."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define the triad precisely (answerability + enforceability for accountability), classify mechanisms in the four-type table, diagnose charters with the 2nd ARC, present Sevottam as the fix, and land on the AP 2017 Act. This exact scaffold answers charter, transparency and responsiveness questions alike."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Citizen's Charter concept: **UK, 1991 (John Major)**; India adopted after the **May 1997 CM Conference**.",
+      "**Sevottam** = 'Seva' + 'Uttam'; BIS standard **IS 15700:2005**; three modules — charter, grievance redress, capability.",
+      "**2nd ARC 12th Report: 'Citizen Centric Administration — the Heart of Governance'**.",
+      "Charters in India are **not legally enforceable**; state **Right to Public Services Acts** (first: **Madhya Pradesh, 2010**) add penalties.",
+      "**AP Public Services Delivery Guarantee Act: 2017**; grievance platform: **Spandana**.",
+      "Accountability = **answerability + enforcement** (World Development Report 2004's 'long and short routes' of accountability).",
+      "**CPGRAMS** is DARPG's centralised grievance system."
+    ],
+    "mainsAngles": [
+      "Transparency, accountability and responsiveness form a chain, not a checklist — analyse the linkages with institutional examples.",
+      "Why did Citizen's Charters underdeliver in India, and how does the Sevottam model correct their design? ",
+      "Statutory service-guarantee laws convert administrative promises into citizen rights — evaluate with the AP Act of 2017.",
+      "Social accountability mechanisms complement, not substitute, horizontal institutions like the CAG — discuss.",
+      "Grievance-redress is the most under-invested governance infrastructure in India — examine with CPGRAMS/Spandana evidence."
+    ],
+    "glossary": [
+      { "term": "Answerability", "definition": "The obligation of officials to inform and justify their decisions — the informational half of accountability." },
+      { "term": "Enforceability", "definition": "The capacity to impose consequences for failure or abuse — the sanctions half of accountability." },
+      { "term": "Citizen's Charter", "definition": "A public commitment by an organisation to specified service standards, timelines and remedies — moral in force unless backed by a service-guarantee statute." },
+      { "term": "Sevottam", "definition": "DARPG/BIS excellence model for public service delivery: consulted charter + functioning grievance redress + delivery capability, certified under IS 15700." },
+      { "term": "Social accountability", "definition": "Citizen-led oversight of the state through RTI, social audits, public hearings and participatory monitoring — the 'diagonal' channel." },
+      { "term": "Right to Public Services legislation", "definition": "State laws guaranteeing time-bound delivery of notified services with penalties/compensation for default — e.g., AP's 2017 Act." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-023",
+    "sections": [
+      {
+        "heading": "RTI, 2005 — the transparency revolution",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Right to Information Act, 2005** operationalises the fundamental right to know, read into **Art 19(1)(a)** (**Raj Narain, 1975; S.P. Gupta, 1981**). Born of the **MKSS** movement's jan sunwais and the 2002 Freedom of Information Act's failure, it covers all **public authorities** (bodies of government, substantially financed NGOs; **political parties' inclusion** — CIC said yes in 2013, parties never complied — remains contested)."
+          },
+          {
+            "type": "table",
+            "headers": ["Design element", "Provision"],
+            "rows": [
+              ["Information & right", "**Secs 2(f), 2(j)** — records, opinions, samples; inspection, copies"],
+              ["Timelines", "**30 days** (PIO), **48 hours** where life/liberty is involved"],
+              ["Proactive disclosure", "**Sec 4(1)(b)** — 17 categories suo motu; the Act's most under-implemented section"],
+              ["Exemptions", "**Sec 8** (security, cabinet papers, personal information...), Sec 9; **public-interest override (8(2))**; 20-year declassification rule"],
+              ["Appeals", "First appeal (senior officer) → **CIC/SICs** (second appeal); penalties **Sec 20**: ₹250/day up to ₹25,000 on erring PIOs"],
+              ["Overrides", "**Sec 22** — RTI overrides the Official Secrets Act, 1923 to the extent of inconsistency"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Implications**: ~60 lakh applications a year; exposed Adarsh, Commonwealth, 2G threads, ration-card ghosts and MGNREGA muster fraud; normalised **file-noting disclosure**; built the accountability floor for social audit. **Erosions to cite**: **RTI (Amendment) Act, 2019** — Centre now sets Information Commissioners' tenure/salary (downgraded from ECI-parity, criticised as independence dilution); chronic **CIC/SIC vacancies and pendency**; **Sec 44(3), DPDP Act 2023** amended RTI Sec 8(1)(j) to bar most 'personal information' without the earlier public-interest proviso — flagged as shrinking transparency; over **20 RTI activists' killings** underline the Whistle Blowers Protection Act, 2014 lying unoperationalised."
+          }
+        ]
+      },
+      {
+        "heading": "Public Services Acts — from information to delivery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Logic**: RTI tells you *why* your file is stuck; a **Right to Public Services Act** gets it *unstuck* — notified services, named officers, statutory timelines, appellate escalation, **fines/compensation** for default.",
+              "**Spread**: Madhya Pradesh first (2010); ~20 states followed. **AP: the AP Public Services Delivery Guarantee Act, 2017**, administered through Mee-Seva/secretariats — services like caste/income certificates, mutation, licences carry deadline + compensation tags.",
+              "**Implications**: converts discretion into entitlement; shifts burden of proof to the department; generates delay data for management. **Limits**: weak citizen awareness, modest penalties, exclusion of complex services, and no central law (the 2011 central Bill lapsed).",
+              "**Combined effect**: RTI (transparency) + service guarantee (responsiveness) + social audit (verification) + Lokayukta (sanction) = the full accountability stack; each covers the others' blind spots."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Citizen] --> B[RTI application - see the file]\n  A --> C[Service guarantee claim - move the file]\n  B --> D[PIO 30 days - appeals to CIC or SIC]\n  C --> E[Named officer with deadline]\n  E --> F[Default - penalty and compensation]\n  D --> G[Exposure of process failure]\n  G --> H[Systemic fix: proactive disclosure Sec 4]\n  F --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — the AP-flavoured verdict",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "RTI is India's **most used democratic upgrade since the vote** — but its second decade is defined by defensive erosion (2019 amendment, DPDP interaction, vacancies). The reform agenda: fill commissions on schedule, restore status-parity, operationalise whistle-blower protection, and **make Sec 4 disclosure machine-readable by default** so applications become unnecessary.",
+              "For AP answers: pair the **2017 Guarantee Act + Spandana + Mee-Seva** delivery data with the SIC's functioning; note that undivided AP was an early strong SIC jurisdiction and social-audit pioneer — transparency infrastructure is a state tradition to protect."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Structure as constitutional root (19(1)(a) + two cases) → design table → achievements → four erosions with years (2019, DPDP 2023, vacancies, activist safety) → service-guarantee complement → AP close. The DPDP-RTI interaction is the freshest high-value point; do not omit it."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Right to know traced to **Art 19(1)(a)**: State of UP v. **Raj Narain (1975)**; S.P. Gupta (1981).",
+      "RTI timelines: **30 days**; **48 hours** for life & liberty; deemed refusal appealable.",
+      "**Sec 8(2)**: exempt information may still be disclosed if **public interest outweighs harm**; 20-year rule for most exemptions.",
+      "**Sec 22**: RTI overrides the **Official Secrets Act 1923**; **2nd ARC recommended repealing OSA** and replacing it with a National Security Act chapter.",
+      "**RTI (Amendment) Act 2019**: Centre prescribes tenure & terms of CIC/ICs (previously 5 years, ECI parity).",
+      "**DPDP Act 2023, Sec 44(3)** amended **RTI Sec 8(1)(j)** on personal information — narrowing disclosure.",
+      "First Right to Public Services law: **Madhya Pradesh, 2010**; AP's Act: **2017**.",
+      "**Whistle Blowers Protection Act 2014** — enacted but rules never notified; amendment Bill (2015) pending."
+    ],
+    "mainsAngles": [
+      "RTI shifted the default of Indian administration from secrecy to disclosure — assess two decades of achievements and the recent erosions.",
+      "Examine the tension between privacy (DPDP Act 2023) and transparency (RTI) and propose a reconciliation framework.",
+      "Right to Public Services legislation completes what RTI begins — discuss with the design of the AP Guarantee Act, 2017.",
+      "Information commissions are the load-bearing walls of the RTI edifice — evaluate their independence and capacity after the 2019 amendment.",
+      "'Section 4 is the soul of RTI' — why has proactive disclosure failed, and how can open data revive it?"
+    ],
+    "glossary": [
+      { "term": "Public authority", "definition": "Body established by the Constitution/law/notification or substantially financed by government — the unit bound by RTI (Sec 2(h))." },
+      { "term": "Public Information Officer", "definition": "Designated officer in every public authority who receives and decides RTI requests within statutory timelines, personally liable to Sec 20 penalties." },
+      { "term": "Proactive disclosure", "definition": "Sec 4 duty to publish organisational, functional, financial and decision information suo motu — minimising the need for individual applications." },
+      { "term": "Public-interest override", "definition": "Sec 8(2): even exempt information must be disclosed where public interest in disclosure outweighs the protected harm." },
+      { "term": "Deemed refusal", "definition": "Failure to decide an RTI application within the time limit, treated as refusal and directly appealable." },
+      { "term": "Whistle-blower", "definition": "Person exposing wrongdoing from within or via public channels; India's 2014 protection law remains non-operational for want of rules." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PAG-024",
+    "sections": [
+      {
+        "heading": "What social audit is — and is not",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **social audit** is the **verification of government records against ground reality by the affected community itself**, in a public forum (typically the **Gram Sabha**). It differs from a CAG audit (documents, by experts, post-facto, upward-reporting) in being **participatory, local, real-time-ish and downward-reporting**: muster rolls read aloud, works measured, beneficiaries confirmed, findings recorded and acted on in public. It is accountability's **short route** — service users directly confronting providers."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "Traditional (CAG) audit", "Social audit"],
+            "rows": [
+              ["Auditor", "Professional, external", "Community + trained village social auditors"],
+              ["Evidence", "Files, vouchers", "Files **plus** physical verification and testimony"],
+              ["Forum", "Reports to legislature (PAC)", "Public hearing in Gram Sabha"],
+              ["Trigger", "Annual/periodic plan", "Scheme-mandated rounds (MGNREGA: each GP, **at least once in 6 months**)"],
+              ["Outcome", "Paras, recoveries via departments", "On-the-spot recoveries, FIRs, social pressure, scheme correction"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The institutional story — AP wrote it",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Roots**: MKSS jan sunwais (Rajasthan, 1990s) — reading muster rolls aloud invented the method.",
+              "**Statutory home**: **MGNREGA Sec 17** mandates Gram Sabha social audit of all works; **Audit of Scheme Rules, 2011** (framed with CAG) require an **independent Social Audit Unit (SAU)** in each state, funded (0.5% of scheme expenditure) but independent of the implementing department.",
+              "**Undivided AP built the first and best SAU — SSAAT (Society for Social Audit, Accountability and Transparency, 2006)**: full-time state resource persons + village social auditors drawn from worker families; findings led to crores in recoveries and thousands of disciplinary actions — the national template (**Meghalaya** later passed the first whole-of-government Social Audit Act, 2017).",
+              "**Spread**: NFSA (Sec 28), ICDS, PMAY-G, scholarships and mining (DMF) now carry social-audit provisions; **Supreme Court has repeatedly directed** social audits (e.g., in NFSA and shelter-home matters)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Records obtained from implementing agency] --> B[Village social auditors verify: worksites, beneficiaries, assets]\n  B --> C[Public hearing in Gram Sabha - testimony recorded]\n  C --> D[Decisions: recoveries, FIRs, disciplinary action]\n  D --> E[Action-taken report to state SAU and council]\n  E --> F[Findings feed scheme redesign]\n  F --> A"
+          }
+        ]
+      },
+      {
+        "heading": "Importance, limits, way forward",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Importance**: deters leakage where it happens; educates citizens in entitlements (rights-literacy machine); legitimises the state by visible correction; supplies ground-truth data no file audit can; deepens Gram Sabha democracy — Gandhi's oversight from below.",
+              "**Limits**: dependent on SAU independence (departments resisting their own audit), weak **follow-up on findings** (recovery and prosecution rates low), elite capture and fear in face-to-face hearings, auditor safety, and coverage gaps beyond MGNREGA.",
+              "**Way forward**: statutory social audit across all welfare schemes (Meghalaya model), protected and adequately funded SAUs reporting to an independent authority, mandatory time-bound **action-taken reports**, integration with Lokayukta/vigilance for sanctions, and digital disclosure of findings (open dashboards) — CAG's advisory on social audit standards (2016) as the quality anchor.",
+              "**AP closing fact**: SSAAT's model — worker-family auditors, public decisions, systematic rounds — remains India's proof that the poor can audit the state that serves them."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define against CAG audit (the table is the answer), give the legal chain (MGNREGA Sec 17 → 2011 Rules → SAUs), claim the AP-SSAAT first, and always end with the follow-up-deficit critique — examiners reward candidates who know social audit's problem is enforcement, not detection."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**MGNREGA Sec 17**: Gram Sabha shall conduct social audits of all works within the Panchayat.",
+      "**MGNREGA Audit of Schemes Rules, 2011**: independent **Social Audit Units**; ~0.5% of expenditure as funding norm.",
+      "**SSAAT (undivided AP, 2006)** — India's first dedicated state social-audit society.",
+      "**Meghalaya Community Participation and Public Services Social Audit Act, 2017** — first law extending social audit to ~26 schemes/11 departments.",
+      "**NFSA Sec 28** and PMAY-G guidelines also mandate social audits.",
+      "Method origin: **MKSS jan sunwais**, Rajasthan — reading muster rolls in public hearings.",
+      "CAG issued **Auditing Standards for Social Audit (2016)** to professionalise SAU practice."
+    ],
+    "mainsAngles": [
+      "Social audit inverts the direction of accountability — compare it with CAG audit and argue their complementarity.",
+      "Detection without consequence: examine the follow-up deficit in India's social-audit regime and suggest an enforcement architecture.",
+      "Andhra Pradesh's SSAAT proved the poor can audit the state — analyse the design features that made it work and travel.",
+      "Should social audit be made statutory for all welfare expenditure? Discuss with the Meghalaya precedent.",
+      "Social audit is as much a civic pedagogy as an accountability tool — elaborate."
+    ],
+    "glossary": [
+      { "term": "Social audit", "definition": "Community-led verification of official records against ground reality in a public forum, culminating in publicly recorded findings and corrective decisions." },
+      { "term": "Social Audit Unit", "definition": "Independent state-level body (mandated by the 2011 MGNREGA Audit Rules) that facilitates audits — resourced by the scheme but organisationally separate from implementers." },
+      { "term": "Jan sunwai", "definition": "Public hearing where records are read aloud and residents testify — the MKSS-invented method at the heart of social audit." },
+      { "term": "Action-taken report", "definition": "Mandatory departmental response to audit findings (recoveries, sanctions, corrections) — the weakest and most decisive link in the audit chain." },
+      { "term": "Village social auditor", "definition": "Trained community member (often from beneficiary families) who conducts verification — SSAAT's key personnel innovation." }
+    ]
+  }
+]
