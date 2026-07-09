@@ -1,0 +1,271 @@
+[
+  {
+    "code": "MN-PIV-GBI-016",
+    "sections": [
+      {
+        "heading": "The budget — constitutional identity and structure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The budget is constitutionally the **Annual Financial Statement (Art 112** for the Union; **Art 202** for states**)** — the estimated receipts and expenditure of the government for the financial year, laid before the legislature. Money flows through three constitutional funds: the **Consolidated Fund (Art 266(1))** — all revenues, loans and receipts, withdrawable only by appropriation law; the **Contingency Fund (Art 267)** — imprest for unforeseen expenditure (Union corpus raised to **₹30,000 crore**, 2021), recouped later; and the **Public Account (Art 266(2))** — money held in trust (provident funds, small savings), no appropriation needed."
+          },
+          {
+            "type": "table",
+            "headers": ["Component", "Receipts side", "Expenditure side"],
+            "rows": [
+              ["**Revenue account** (current, non-asset)", "**Tax revenue** (direct: income, corporate; indirect: GST, customs, excise) + **non-tax** (dividends incl. RBI surplus, interest, spectrum fees)", "Salaries, pensions, **interest payments** (largest single head), subsidies (food-fertiliser-LPG), grants to states (even for capital creation — an accounting quirk)"],
+              ["**Capital account** (asset/liability changing)", "Borrowings (market loans), **disinvestment receipts**, recovery of loans", "**Capital expenditure**: infrastructure, machinery, loans to states (incl. 50-yr interest-free capex loans), equity injections"]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Charged vs voted**: charged expenditure (President/judges' salaries, interest, CAG) is **non-votable** (Art 112(3)) — discussed but not put to vote; the rest needs demands-for-grants approval.",
+              "**Documents ecosystem**: AFS, Demands for Grants, Finance Bill, **FRBM statements** (Macro-Economic Framework, Medium-Term Fiscal Policy), Expenditure Profile/Budget at a Glance, **Output-Outcome Framework**, and the Economic Survey (a day earlier, by CEA)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Classification lenses an examiner tests",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Revenue vs capital** — the quality-of-spending lens: revenue expenditure consumes, capex creates assets with multiplier ~2.5–4x vs ~<1 for revenue transfers (RBI/NIPFP estimates) — the intellectual basis of the post-2020 capex push.",
+              "**Plan vs non-plan abolished (2017-18)** on Rangarajan committee logic; replaced by revenue-capital across all heads — a favourite prelims trap.",
+              "**Scheme lens**: Central Sector (100% Centre) vs **Centrally Sponsored** (shared, states implement) vs Finance-Commission transfers vs states' own schemes.",
+              "**Gender/child/SC-ST budgeting**: cross-cutting statements tagging allocations (gender budget ~1% of GDP scale) — welfare-targeting lenses.",
+              "**Merger reforms**: Railway budget merged (2017, Bibek Debroy panel); budget date advanced to **1 February** (2017) so allocations operate from 1 April; paperless budget since 2021."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Annual Financial Statement Art 112] --> B[Consolidated Fund - Art 266-1]\n  A --> C[Contingency Fund - Art 267]\n  A --> D[Public Account - Art 266-2]\n  B --> E[Revenue account: taxes and current spend]\n  B --> F[Capital account: borrowings and asset spend]\n  E --> G[Revenue deficit if spend exceeds receipts]\n  F --> H[Capex - growth multiplier]\n  B --> I[Withdrawal only via Appropriation Act - Art 114]"
+          }
+        ]
+      },
+      {
+        "heading": "AP mirror and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The state budget mirrors the Union constitutionally (**Arts 202–207**): AP's AFS, its Consolidated Fund, charged items (Governor, HC judges' salaries), Appropriation Acts in the Assembly; AP presents gender and welfare annexures and (like most states) a **Socio-Economic Survey** alongside.",
+              "**AP structural signature** (link to RMA-012): revenue expenditure dominance — welfare DBT + salaries/pensions/interest leave capex ~10-12% of total spend in tight years — the 'quality of expenditure' critique made concrete.",
+              "Craft: for 'structure & components', draw the three-funds + two-accounts diagram, then the charged/voted and revenue/capital distinctions with one number each (₹30,000 cr contingency; capex multiplier) — precision over length."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Four articles (112, 266, 267, 114), two accounts, three funds, one multiplier — that's the complete skeleton. The revenue-vs-capital quality argument converts a descriptive question into an analytical answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "'Budget' appears nowhere in the Constitution — the term is **Annual Financial Statement (Art 112)**.",
+      "**Art 266(1)** Consolidated Fund; **Art 267** Contingency Fund (Union corpus **₹30,000 crore** since 2021-22, held by Finance Secretary); **Art 266(2)** Public Account.",
+      "**Charged expenditure** (Art 112(3)): President's emoluments, judges' salaries & pensions, CAG, interest/debt — non-votable.",
+      "No tax except by authority of law — **Art 265**; withdrawal from CFI only via **Appropriation Act (Art 114)**.",
+      "**Plan/non-plan distinction abolished 2017-18**; Railway budget merged 2017; budget date advanced to **1 Feb**.",
+      "Interest payments are the **largest expenditure head** of the Union revenue account.",
+      "Capex multiplier estimated ~**2.5–4x**, far above revenue-expenditure multipliers — basis of the capex strategy."
+    ],
+    "mainsAngles": [
+      "Describe the constitutional architecture of public finance — funds, accounts and the appropriations discipline.",
+      "Revenue and capital expenditure differ in what they leave behind — analyse the 'quality of expenditure' debate.",
+      "Why were the plan/non-plan and railway-budget distinctions abolished, and what did classification reform achieve?",
+      "Compare the Union and Andhra Pradesh budget structures, highlighting AP's expenditure-quality challenge.",
+      "Gender and outcome budgeting move the budget from arithmetic to accountability — evaluate."
+    ],
+    "glossary": [
+      { "term": "Annual Financial Statement", "definition": "The constitutionally mandated statement of estimated receipts and expenditure (Arts 112/202) — the budget's legal identity." },
+      { "term": "Consolidated Fund", "definition": "The single pool of all government revenues, borrowings and receipts, withdrawable only under appropriation law." },
+      { "term": "Public Account", "definition": "Trust monies (provident funds, small savings) the government holds as banker — spendable without legislative vote." },
+      { "term": "Charged expenditure", "definition": "Constitutionally protected spending (judges, CAG, interest) not submitted to the House's vote — insulating institutions from majority pressure." },
+      { "term": "Capital expenditure", "definition": "Spending that creates assets or reduces liabilities — infrastructure, equipment, loans — the growth-multiplying half of the budget." },
+      { "term": "Outcome budget", "definition": "Statement mapping outlays to measurable outputs and outcomes per scheme — the results lens on allocations." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBI-017",
+    "sections": [
+      {
+        "heading": "The budget cycle — four stages",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Budgeting runs an annual **cycle of four stages**: **formulation** (Sept–Jan: Budget Division circular, ministries' estimates, RE/BE finalisation, pre-budget consultations, the **halwa ceremony** & lock-in), **enactment** (presentation 1 Feb → general discussion → **DRSC scrutiny of demands** → discussion & voting of demands (LS only) → **Appropriation Bill** → **Finance Bill** (taxation; must pass in 75 days)), **execution** (funds release via **TSA/PFMS**, competent-authority sanctions, reappropriations), and **audit & review** (CAG audit → PAC examination → Action Taken — closing the loop ~2 years later)."
+          },
+          {
+            "type": "table",
+            "headers": ["Parliamentary device", "Function"],
+            "rows": [
+              ["**Vote on account (Art 116)**", "Advance grant (~2 months) to keep government running pending full passage — routine before elections/interim budgets"],
+              ["**Cut motions**", "Policy cut (₹1), economy cut, token cut (₹100) — symbolic accountability; fall of one = confidence crisis"],
+              ["**Guillotine**", "Undiscussed demands voted en bloc on the last allotted day — in recent years the **vast majority of demands are guillotined**, the central critique of budget scrutiny"],
+              ["**Supplementary/excess grants (Art 115)**", "Mid-year additional needs; excess grants need PAC scrutiny post-facto"],
+              ["**Appropriation vs Finance Bill**", "Appropriation authorises **spending** from CFI; Finance Act authorises **taxation** — both money bills (Art 110)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Recent changes and reform frontier",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Calendar & format**: date advanced to **1 Feb (2017)** enabling full-year execution; **railway merger (2017)**; **plan/non-plan abolition (2017-18)**; **paperless budget + Union Budget app (2021)**; halwa-to-lock-in continuity.",
+              "**Fund-flow re-engineering**: **PFMS 'just-in-time' releases**, **SNA (2021)** for CSS (ending float parking), **TSA** for autonomous bodies — treasury efficiency worth crores in interest.",
+              "**Results orientation**: **Output-Outcome Monitoring Framework** covering major schemes; NITI's DMEO evaluations; gender/child/SC-ST statements; climate-tagging experiments.",
+              "**Fiscal transparency**: post-2021 budgets brought **off-budget borrowings (FCI loans etc.) above the line** — a credibility reform (the 'honest budget' point); FRBM statements give rolling targets.",
+              "**Frontier critiques & fixes**: guillotine culture (fix: mandatory minimum discussion days; a **parliamentary budget office** for independent costing), RE-BE gaming, single-year horizon (fix: medium-term expenditure frameworks with teeth), execution rigidity (fix: flexi-funds within CSS), and weak post-legislative scrutiny (fix: PAC capacity + timely Action-Taken)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Formulation - circulars, estimates, consultations] --> B[Enactment - presentation 1 Feb]\n  B --> C[DRSC scrutiny of demands]\n  C --> D[Voting of demands - guillotine risk]\n  D --> E[Appropriation Act + Finance Act]\n  E --> F[Execution - PFMS, SNA, JIT releases]\n  F --> G[CAG audit]\n  G --> H[PAC examination and Action Taken]\n  H --> A"
+          }
+        ]
+      },
+      {
+        "heading": "AP process notes and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "AP mirrors the cycle in the Assembly (**Arts 202–207**): Governor's recommendation, demands by department, Appropriation & Finance Acts; with a **Legislative Council**, money bills follow the RS-like 14-day limitation (Art 198). AP has run **vote-on-account budgets in election years** (2019, 2024) — live examples of Art 116's state counterpart.",
+              "Craft: narrate the four stages in one line each, then spend the answer on **evaluation** — guillotine data, DRSC referral decline, PFMS/SNA gains, off-budget cleanup — process questions are actually accountability questions."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Recent changes' = the 2017 trio (date, railway, plan) + 2021 trio (paperless, off-budget honesty, SNA/JIT) — six reforms with one line each is a complete 10-marker. Add the parliamentary-budget-office suggestion to end forward-looking."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Budget presented on **1 February** since 2017 (earlier: last working day of Feb); Economic Survey precedes it.",
+      "**Vote on account: Art 116** — typically two months' expenditure (1/6 of estimates).",
+      "**Finance Bill must be passed within 75 days** of introduction (Provisional Collection of Taxes framework).",
+      "Demands for grants are voted **only by the Lok Sabha** (Art 113); Rajya Sabha discusses.",
+      "**26 Departmentally Related Standing Committees**-era scrutiny: demands referred after general discussion, House in recess.",
+      "**SNA (2021)/PFMS**: CSS funds tracked; just-in-time release reforms cut idle float.",
+      "**Off-budget FCI borrowings (NSSF loans)** were brought on-budget in the FY22 budget — transparency landmark.",
+      "Excess grants (Art 115) require **PAC** examination before regularisation."
+    ],
+    "mainsAngles": [
+      "Walk through the budget cycle from circular to Action-Taken report and identify where accountability leaks.",
+      "The guillotine has replaced scrutiny — evaluate Parliament's declining financial oversight and remedies including a budget office.",
+      "Assess the 2017 and 2021 waves of budget-process reform for credibility and efficiency gains.",
+      "From outlays to outcomes: how far have PFMS, SNA and the outcome framework changed fiscal management?",
+      "Describe the state budget process in a bicameral legislature like Andhra Pradesh's, noting the Council's limited role."
+    ],
+    "glossary": [
+      { "term": "Vote on account", "definition": "Parliament's advance grant for a short period pending full budget passage — expenditure continuity without policy change." },
+      { "term": "Guillotine", "definition": "En-bloc voting of all outstanding demands when allotted time ends — the symbol of shrinking budget scrutiny." },
+      { "term": "Appropriation Act", "definition": "The law authorising withdrawal from the Consolidated Fund for voted and charged expenditure — spending's legal gate." },
+      { "term": "Revised Estimates", "definition": "Mid-year re-projection of the current year's receipts/spending presented with the next budget — the BE-RE-Actuals credibility chain." },
+      { "term": "Just-in-time release", "definition": "Transferring funds only when implementing agencies actually need to pay — ending idle balances that cost interest." },
+      { "term": "Parliamentary Budget Office", "definition": "Proposed independent legislature-serving body for costing and fiscal analysis — strengthening scrutiny with expertise." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBI-018",
+    "sections": [
+      {
+        "heading": "Types of budget — the philosophy menu",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Type", "Logic", "Use/critique"],
+            "rows": [
+              ["Balanced vs surplus vs **deficit budget**", "Receipts = / > / < expenditure", "Modern welfare states run counter-cyclical deficits (Keynes); chronic structural deficits are the disease"],
+              ["**Line-item (traditional)**", "Control by object of expenditure", "Strong control, blind to results — still the Indian base layer"],
+              ["**Performance budgeting**", "Link inputs to outputs (1st Hoover Commission; India from 1968)", "Precursor of today's Output-Outcome Framework"],
+              ["**Programme budgeting (PPBS)**", "Allocate by objectives across departments", "Analytically elegant, administratively heavy — faded globally"],
+              ["**Zero-Based Budgeting**", "Justify every rupee afresh each year (Pyhrr; India experiments 1986-87)", "Ideal against incrementalism; too costly to do annually — used selectively for scheme reviews/sunsets"],
+              ["**Outcome budgeting**", "Outlays → outputs → outcomes with indicators (India 2005-06 onwards)", "The current Indian frame; measurement quality is its weak spot"],
+              ["**Gender budgeting**", "Tag and design allocations by gender impact (India since 2005-06)", "~1% of GDP tagged; Part A/B statements; quality-over-quantity critique"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Deficits — definitions, hierarchy, management",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Revenue deficit** = revenue expenditure − revenue receipts (living beyond current means). **Effective revenue deficit** = RD − grants to states for capital creation. **Fiscal deficit** = total expenditure − (revenue receipts + non-debt capital receipts) = **the year's borrowing requirement** — the headline number. **Primary deficit** = FD − interest payments (this year's fresh fiscal behaviour, stripped of past debt's cost). Financing: market borrowings (dated securities + T-bills), small savings (NSSF), external debt (~1–2%, lowest among peers), and — barred since FRBM — direct monetisation (RBI primary subscriptions; the WMA window remains for cash mismatches)."
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**FRBM discipline**: Act 2003; **2018 amendments (post-N.K. Singh FRBM Review Committee)** — fiscal-deficit anchor **3% of GDP**, **debt targets: Centre 40% / general government 60%**, escape clause (0.5%, invoked COVID); revenue-deficit target dropped as an operational anchor.",
+              "**The COVID arc**: Union FD spiked to **9.2% (FY21)** → glide path announced to **below 4.5% by FY26** — met in stages (5.6% FY24, ~4.8-4.9% FY25 RE, ~4.4% FY26 BE); the new anchor from FY27: **debt-to-GDP path** (Centre ~50% by 2031 direction) rather than annual FD points — a conceptual shift worth citing.",
+              "**Management toolkit**: expenditure quality (capex share up), revenue buoyancy (GST maturation, direct-tax simplification), asset monetisation & disinvestment (chronic under-achievement), subsidy rationalisation (DBT-LPG, urea neem-coating), and honest accounting (off-budget cleanup).",
+              "**Deficit-debate balance**: austerity vs growth — deficits that fund capex with high multipliers can be **self-stabilising** (growth denominator); deficits funding current transfers risk debt spirals when **r > g**; India's saving grace: domestic-currency, domestically-held debt."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Total expenditure] --> B[Fiscal deficit = borrowing need]\n  B --> C[Primary deficit = FD minus interest]\n  B --> D[Revenue deficit share - the bad deficit]\n  B --> E[Financed by: G-secs, NSSF, external]\n  E --> F[Debt stock rises]\n  F --> G[Interest burden next year]\n  G --> A\n  H[FRBM anchors: FD 3 percent, debt 40-60, escape clause] --> B\n  I[Quality fix: capex composition, buoyancy, honest books] --> D"
+          }
+        ]
+      },
+      {
+        "heading": "AP mirror and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**State FRBM**: net borrowing ceiling ~**3% of GSDP** (+0.5% power-reform incentive); AP typically seeks full ceilings, runs **revenue deficits** (the structurally 'bad' kind), and has faced ceiling deductions for past off-budget borrowings — the state is the national deficit-quality debate in miniature.",
+              "Craft: define the four deficits with formulas → FRBM targets and the FY21-FY26 arc → the debt-anchor shift → quality-of-deficit argument → AP mirror. Numbers: 3%, 40/60, 9.2% (FY21), 4.5% (FY26 target)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Examiners test whether you know WHICH deficit measures what: FD = borrowing, RD = consumption financing, PD = current-year behaviour. The 'not all deficits are equal' composition argument + the new debt-anchor shift are the analysis that tops answers."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Fiscal deficit = total expenditure − (revenue receipts + non-debt capital receipts)** — equals gross borrowing requirement.",
+      "**Primary deficit = fiscal deficit − interest payments**.",
+      "FRBM Act **2003**; 2018 amendment: FD anchor **3%**, debt **40% Centre / 60% general government**, **escape clause ±0.5%**.",
+      "Union FD: **9.2% (FY21)** → glide path **< 4.5% by FY26**; from FY27 the anchor shifts to a **declining debt-GDP ratio**.",
+      "**Zero-based budgeting**: Peter Pyhrr (Texas Instruments); Indian experiments from 1986-87.",
+      "**Gender budgeting** statement since **2005-06** (Part A: women-specific 100%; Part B: ≥30% allocations).",
+      "States' net borrowing ceiling: **3% of GSDP** + 0.5% power-sector-reform linked (recent norms).",
+      "**Effective revenue deficit** excludes grants to states used for capital creation — introduced 2011-12."
+    ],
+    "mainsAngles": [
+      "Not all deficits are created equal — differentiate the deficit family and argue which one policy should target.",
+      "From annual deficit points to a debt anchor: evaluate the evolution of India's FRBM framework after N.K. Singh.",
+      "Deficits that build assets pay for themselves — examine the capex-composition strategy of recent budgets.",
+      "Compare zero-based, performance and outcome budgeting as answers to incrementalism.",
+      "Analyse Andhra Pradesh's deficit profile within state-FRBM rules and the consequences of off-budget borrowing corrections."
+    ],
+    "glossary": [
+      { "term": "Fiscal deficit", "definition": "The excess of total expenditure over non-borrowed receipts — the government's borrowing requirement and the headline fiscal indicator." },
+      { "term": "Revenue deficit", "definition": "Borrowing used to finance current consumption (revenue spending beyond revenue receipts) — the quality-negative deficit." },
+      { "term": "Primary deficit", "definition": "Fiscal deficit net of interest — isolating the current year's discretionary fiscal stance from inherited debt costs." },
+      { "term": "Escape clause", "definition": "FRBM provision allowing deviation up to 0.5% of GDP on specified grounds (war, calamity, structural reform) with stated return path." },
+      { "term": "Debt anchor", "definition": "Medium-term debt-to-GDP target replacing annual deficit points as the fiscal rule — the post-FY26 Indian framework." },
+      { "term": "Monetisation of deficit", "definition": "Central bank financing of government deficits by primary subscription — barred under FRBM to protect price stability." }
+    ]
+  }
+]

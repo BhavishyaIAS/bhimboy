@@ -1,0 +1,247 @@
+[
+  {
+    "code": "MN-PIV-GBI-019",
+    "sections": [
+      {
+        "heading": "How to analyse ANY Union budget — the permanent framework",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "'Current budget' questions recur every year with new numbers — so master the **analysis grid**, then plug in the latest February's figures. Grid: (1) **macro stance** — is the fiscal deficit consolidating or expanding, and against what growth assumption? (2) **quality** — capex share and its trend; revenue-deficit direction; (3) **revenue realism** — tax buoyancy assumed vs history, disinvestment credibility; (4) **composition winners** — which sectors gained in real terms (nominal +% minus inflation); (5) **welfare vs investment balance**; (6) **federal impact** — devolution, grants, capex loans to states; (7) **credibility check** — BE vs last year's RE vs Actuals."
+          },
+          {
+            "type": "table",
+            "headers": ["Anchor (FY 2025-26 budget — latest fully verified)", "Figure/announcement", "Analytical note"],
+            "rows": [
+              ["Fiscal deficit", "**4.4% of GDP (BE)** — glide path met (from 9.2% FY21)", "Consolidation while protecting capex — the defining stance"],
+              ["Capital expenditure", "**~₹11.2 lakh crore** effective-capex scale sustained", "Capex-led strategy continues; execution rates the thing to watch"],
+              ["Income-tax relief", "New-regime rebate raised — **no tax up to ₹12 lakh income** (₹12.75 lakh salaried with standard deduction); slabs recast", "Consumption stimulus to households — a stance shift toward demand"],
+              ["New anchor", "From FY27, fiscal policy steered by **declining debt-to-GDP** (Centre toward ~50% by 2031)", "The conceptual headline — deficit points give way to a debt anchor"],
+              ["Sectoral pushes", "Agriculture (**PM Dhan-Dhaanya Krishi Yojana**, 100 districts), MSME limits raised, **Nuclear Energy Mission** (100 GW by 2047; SMR push), AI centres of excellence, Jal Jeevan extension, maritime development fund", "Map each to a challenge-note theme (agri productivity, MSME credit, energy transition)"],
+              ["States' window", "**50-year interest-free capex loans (~₹1.5 lakh crore)** continued", "The Centre-state investment bridge — AP a major claimant"]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Update ritual: each February, refresh this table from indiabudget.gov.in (Budget at a Glance) and PRS's budget analysis — the seven-point grid stays; only the numbers move."
+          }
+        ]
+      },
+      {
+        "heading": "Evaluation themes that outlive any single budget",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Consolidation with growth**: India cut the deficit ~4.8 points in five years without austerity-style capex cuts — the 'quality consolidation' story; risk: private capex must take the baton as public capex growth plateaus.",
+              "**Tax structure**: direct-tax share and the new regime's simplification vs the exemption-ecosystem's end; GST's maturing collections (₹1.8–2 lakh crore monthly runs) but rate-rationalisation pending; the corporate-tax-cut (2019) revenue sacrifice vs investment response debate.",
+              "**Welfare architecture**: food subsidy (~₹2 lakh crore) + PM-KISAN + Ujjwala as the floor; critics' point — real-terms stagnation in MGNREGA/education/health vs supporters' point — DBT efficiency and capex's job-creation.",
+              "**Credibility**: budget numbers have become MORE honest (off-budget cleanup, realistic nominal-GDP assumptions post-2021) — cite the reversal of the pre-2020 over-projection habit.",
+              "**The AP reading of any Union budget**: what did AP gain — devolution share (4.047%), capex-loan allocations, railway/highway outlays in AP, Polavaram provisioning, Amaravati support (the ₹15,000-cr multilateral route featured in July 2024's budget), backward-district funds — a state-lens paragraph earns APPSC marks."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Union Budget] --> B[Stance: deficit path vs growth]\n  A --> C[Quality: capex share, revenue deficit]\n  A --> D[Realism: buoyancy, disinvestment]\n  A --> E[Composition: sector winners]\n  A --> F[Federal: devolution, capex loans, AP items]\n  B --> G[Verdict on macro management]\n  C --> G\n  D --> H[Verdict on credibility]\n  E --> I[Verdict on priorities]\n  F --> J[Verdict for the state]"
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "FY26 Union budget: fiscal deficit **4.4% of GDP (BE)**; FY25 ~4.8% (RE) — glide path to 'below 4.5% by FY26' achieved.",
+      "New income-tax regime (FY26): **nil tax up to ₹12 lakh** via rebate; standard deduction ₹75,000 for salaried.",
+      "**PM Dhan-Dhaanya Krishi Yojana**: 100 low-productivity agri districts (Aspirational-Districts model for farming).",
+      "**Nuclear Energy Mission**: 100 GW by 2047; Small Modular Reactor development; Atomic Energy Act amendments proposed.",
+      "50-year **interest-free capex loans to states** ~₹1.5 lakh crore window continues.",
+      "From **FY27**, the fiscal rule shifts to a **declining central debt-to-GDP** anchor (toward ~50% by March 2031).",
+      "July 2024 budget: **₹15,000 crore Amaravati support** via multilateral agencies — the AP-specific landmark."
+    ],
+    "mainsAngles": [
+      "Evaluate the current Union budget on stance, quality and credibility using a structured framework.",
+      "Fiscal consolidation without capex compression is India's post-pandemic signature — assess its sustainability as private investment's turn arrives.",
+      "Income-tax relief marks a pivot from investment-led to consumption-supported growth — examine the macro logic and risks.",
+      "Read the latest Union budget from Andhra Pradesh's seat — devolution, capex loans, Amaravati and Polavaram.",
+      "Budgets are credibility documents before they are arithmetic — discuss India's improvement in fiscal transparency."
+    ],
+    "glossary": [
+      { "term": "Budget at a Glance", "definition": "The summary document giving deficits, receipts and expenditure heads — the analyst's first read of any budget." },
+      { "term": "Effective capital expenditure", "definition": "Union capex plus grants-in-aid to states for capital asset creation — the true public-investment measure." },
+      { "term": "Tax buoyancy", "definition": "Ratio of tax-revenue growth to nominal GDP growth — above 1 means the tax system outpaces the economy." },
+      { "term": "Glide path", "definition": "Pre-announced multi-year trajectory of deficit reduction — anchoring expectations while allowing gradual adjustment." },
+      { "term": "Interim budget / vote on account", "definition": "Pre-election budget seeking expenditure authority without major policy changes, pending the full budget of the new government." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBI-020",
+    "sections": [
+      {
+        "heading": "Federal finance — the transfer architecture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's fiscal federalism rests on a **constitutionally mandated umpire** — the **Finance Commission (Art 280**, every five years**)** — correcting the built-in **vertical imbalance** (Centre raises ~60%+ of combined revenue; states incur ~60% of expenditure) and **horizontal imbalance** (income gaps across states). Transfer channels: **tax devolution** (untied — the gold standard), **FC grants** (revenue-deficit, local-body, disaster, sector), **centrally sponsored schemes** (tied, matching), and **capex loans** (the newest window)."
+          },
+          {
+            "type": "table",
+            "headers": ["15th FC (2021–26) element", "Content", "Issue it raises"],
+            "rows": [
+              ["Vertical share", "**41%** of the divisible pool (1% adjusted for J&K UTs)", "**Cesses & surcharges (~15–20% of gross taxes) sit OUTSIDE the pool** — effective state share of gross revenue ~32-33%: the central grievance"],
+              ["Horizontal formula", "Income distance 45, population (2011) 15, area 15, forest & ecology 10, **demographic performance 12.5**, tax effort 2.5", "2011-census shift penalised early stabilisers — the South's objection; demographic-performance weight was the compensation"],
+              ["Grants", "Revenue-deficit grants (AP a major recipient), local bodies (~₹4.36 lakh crore), health, disaster (NDRF/SDRF)", "Sector/state-specific grants shrank vs FC-14's design"],
+              ["16th FC", "Chair **Arvind Panagariya**; award 2026–31", "States' asks: include cesses in the pool, raise share toward 45-50%, weight equity vs efficiency afresh"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "GST and the federal bargain",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Design**: constitutional surgery (**101st Amendment, 2016; Arts 246A, 269A, 279A**) pooled sovereignty — one nation, one tax (CGST+SGST/IGST); **GST Council**: Centre 1/3 vote-weight, states 2/3, decisions by 3/4 — Centre holds an effective veto, states collectively hold another.",
+              "**Issues ledger**: (a) **compensation cliff** — 14%-growth guarantee ended June 2022; cess extended only to repay COVID loans; (b) **autonomy loss** — states surrendered their most buoyant tax; petroleum/liquor exclusions persist as their residual levers; (c) **rate complexity** — multiple slabs, inverted duties; rationalisation via GoM slow; (d) **IGST settlement & compliance burdens** for small firms; (e) **Mohit Minerals (2022)**: Council recommendations are **not binding** — 'cooperative federalism is a dialogue'; both Parliament and legislatures retain power.",
+              "**Scoreboard**: collections matured (₹1.8–2 lakh crore monthly band), e-invoicing curbed evasion, logistics unified (check-posts gone); states' SGST + devolved IGST have grown, but the **perception of centralisation** persists because the guarantee ended just as cesses grew.",
+              "**Central assistance beyond FC**: CSS (~₹5 lakh crore universe; 60:40 sharing, 90:10 NE/Himalayan) with matching-burden and one-size critiques (Sub-group of CMs recommended flexi-funds); Special Assistance capex loans; EAP routing; discretionary grants — the **conditionality gradient** from untied devolution to tightly tied schemes is the analytical spine of any federal-finance answer."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Central gross tax revenue] --> B[Cesses and surcharges - outside pool]\n  A --> C[Divisible pool]\n  C --> D[41 percent to states - untied devolution]\n  A --> E[FC grants - RD, local bodies, disaster]\n  A --> F[CSS - tied, matching 60:40]\n  A --> G[Capex loans - 50 year interest free]\n  D --> H[State budgets]\n  E --> H\n  F --> H\n  G --> H\n  B --> I[States' grievance - effective share falls]"
+          }
+        ]
+      },
+      {
+        "heading": "The AP brief and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP's federal-finance file**: 4.047% inter-se share; large revenue-deficit grants (bifurcation legacy); GST compensation cliff hit a consumption-heavy state; high CSS dependence with matching strain; capex-loan window heavily used; the **16th FC representation** argues bifurcation costs + low per-capita income + demographic performance.",
+              "Craft: define the two imbalances → transfer channels by conditionality → 15th FC table → GST five-issue ledger with Mohit Minerals → 16th FC asks → AP paragraph. The **cess-outside-the-pool** point is the single highest-yield criticism; the **dialogue-not-decree** quote is the balancing close."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Federal finance = one diagram (transfer channels by tiedness) + three numbers (41%, 2/3-3/4 Council weights, 60:40 CSS) + two cases (Mohit Minerals; compensation end 2022) + one AP claim. That kit answers GST, FC and central-assistance questions interchangeably."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 280**: FC every five years — taxes distribution, grants principles, local-body augmentation, plus referred matters.",
+      "**15th FC devolution: 41%**; horizontal weights — income distance **45%**, population(2011) 15, area 15, forest-ecology 10, demographic performance 12.5, tax effort 2.5.",
+      "**Cesses & surcharges lie outside the divisible pool** (Art 270) — the core states' grievance (~15-20% of gross taxes).",
+      "**GST Council (Art 279A)**: Centre 1/3, states 2/3 voting weight; decisions need **3/4**; recommendations non-binding (**Mohit Minerals, 2022**).",
+      "**GST compensation** (101st Amendment package): 14% growth guarantee for 5 years — ended **June 2022**.",
+      "CSS sharing: generally **60:40** (90:10 for NE & Himalayan states) since 2015.",
+      "**16th Finance Commission**: chairman **Arvind Panagariya**; award period **2026–31**.",
+      "AP's 15th-FC inter-se share: **4.047%**; AP among the largest revenue-deficit-grant states."
+    ],
+    "mainsAngles": [
+      "Vertical imbalance is by design; the dispute is over correction — analyse India's transfer architecture by conditionality.",
+      "Cesses are unshared taxes by another name — evaluate the erosion of the divisible pool and remedies before the 16th FC.",
+      "GST pooled sovereignty without pooling trust — assess the Council's working after the compensation era and Mohit Minerals.",
+      "Should Finance Commissions reward performance or need? Examine the 2011-census controversy and the southern states' case.",
+      "Prepare Andhra Pradesh's memorandum to the 16th Finance Commission with its three strongest claims."
+    ],
+    "glossary": [
+      { "term": "Divisible pool", "definition": "Net central tax proceeds shareable with states under Art 270 — excluding cesses, surcharges and collection costs." },
+      { "term": "Vertical fiscal imbalance", "definition": "The gap between the Centre's revenue-raising dominance and states' expenditure responsibilities — corrected by transfers." },
+      { "term": "Horizontal imbalance", "definition": "Revenue-capacity differences across states — addressed through equalising formulas like income distance." },
+      { "term": "Income distance", "definition": "A state's per-capita-income gap from the richest states — the 45%-weight equity criterion of the 15th FC." },
+      { "term": "Compensation cess", "definition": "GST-era levy on demerit/luxury goods that funded the five-year 14% revenue guarantee to states; now servicing COVID-period loans." },
+      { "term": "Tied transfer", "definition": "Funds usable only for specified purposes (CSS) — maximising central priorities, minimising state discretion." }
+    ]
+  },
+  {
+    "code": "MN-PIV-GBA-021",
+    "sections": [
+      {
+        "heading": "AP's budget constraints — the post-bifurcation equation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This theme fuses the two threads already built (RMA-012 resources; RMA-013 Act fulfilment) into the **budget-management question**: how does a state that lost its revenue capital, runs persistent revenue deficits and carries ~one-third-of-GSDP debt actually construct its budget — and how does the **central-assistance conflict** shape every line? The constraint set: (1) **committed expenditure** (salaries+pensions+interest ≈ two-thirds of revenue receipts in tight years); (2) **welfare commitments** (DBT calendar politically locked); (3) **FRBM ceilings** now netted for past off-budget borrowing; (4) **contested central flows** (Sec 46 arrears, Polavaram reimbursements, backward-district grants — money budgeted but disputed); (5) GST-compensation cliff since 2022."
+          },
+          {
+            "type": "table",
+            "headers": ["Budget-construction reality", "Consequence", "Management response"],
+            "rows": [
+              ["Revenue receipts pre-committed", "Capex becomes the residual (~10-12% of spend)", "Capex pushed to central windows (50-yr loans), EAPs, PPPs"],
+              ["Disputed central assistance booked as receipts", "Budgeted-vs-actual gaps; supplementary strain", "Conservative re-budgeting; litigation/negotiation track with Centre"],
+              ["Welfare calendar (DBT tranches)", "Cash-flow management dominates treasury", "Ways-and-means advances, bill-queue prioritisation (criticised by CAG)"],
+              ["Borrowing ceiling binding", "Corporation/guarantee routes tempting", "Post-2022 netting closed much of this — transparency by compulsion"],
+              ["Bifurcation asset-liability division incomplete", "Schedule IX/X institutions' assets (worth thousands of crores) unresolved with Telangana", "Sheela Bhide committee recommendations; inter-state negotiation stalls"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The central-assistance conflict — budget edition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**What AP books vs what arrives**: successive AP budgets have shown large 'grants-in-aid from Centre' estimates that under-realise — the gap embodies the SCS/Sec-46/Polavaram disputes; analysts read AP budgets by comparing **BE grants vs Actuals** (routinely large shortfalls) — cite this technique.",
+              "**Polavaram funding mechanics**: expenditure incurred by the state → reimbursement claims via PPA/CWC scrutiny → delayed/pruned settlements (2013-14 price-level cap dispute; component eligibility) — the cash-flow burden of a 'centrally funded' project falls first on the state.",
+              "**The 2024-25 turn**: central budgets explicitly provisioned **Amaravati (₹15,000 cr multilateral route)** and reaffirmed Polavaram support (~₹12,157 cr tranche approved 2024 for phase-1) — conflict shifting to accommodation; an updated answer must carry this arc, not just grievance.",
+              "**Evaluation**: AP's budget management is **competent triage under structural deficit** — protecting welfare delivery and debt service while capex leans on Delhi; the risks — arrears culture (pending bills), guarantee build-up, and dependence on politically contingent central goodwill — are the counterweights a balanced answer needs."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP revenue receipts] --> B[Committed: salaries, pensions, interest]\n  A --> C[Welfare DBT calendar]\n  B --> D[Little left for capex]\n  C --> D\n  D --> E[Capex via central loans, EAPs, PPP]\n  F[Disputed central assistance - Sec 46, Polavaram claims] --> G[BE vs Actuals gap]\n  G --> H[Supplementaries, arrears, WMA reliance]\n  E --> I[Budget balances - fragile but functioning]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Differentiate this from RMA-012/013 by focus: this is the **budget-construction and management** answer — constraints table + BE-vs-Actuals technique + Polavaram reimbursement mechanics + the 2024 accommodation turn.",
+              "Facts to carry: committed expenditure share (~2/3 of revenue receipts), capex ~10-12%, Amaravati ₹15,000 cr (2024), Polavaram ₹12,157 cr tranche, Sheela Bhide committee (asset division)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner's sophistication test here is the BE-vs-Actuals grants gap — showing you read AP budgets like an analyst, not a manifesto. Pair one criticism (arrears/guarantees) with one credit (delivery efficiency) and the 2024-25 accommodation update."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP's committed expenditure (salaries+pensions+interest) absorbs roughly **two-thirds of revenue receipts** in strained years.",
+      "**Sheela Bhide committee** recommends division of Schedule IX/X institution assets between AP and Telangana — largely unresolved.",
+      "**Polavaram phase-1**: ~₹12,157 crore central tranche approved (2024) for completion to +41.15m contour.",
+      "**Amaravati**: ₹15,000 crore support via World Bank/ADB route announced in the July 2024 Union budget.",
+      "AP has repeatedly budgeted central grants that **under-realise against BE** — the fiscal signature of the assistance dispute.",
+      "States' ways-and-means advances (WMA) from RBI manage cash mismatches — heavily used by deficit states.",
+      "Off-budget borrowings are **netted against borrowing ceilings since 2022** — compressing AP's space."
+    ],
+    "mainsAngles": [
+      "Constructing a budget under structural deficit: analyse AP's constraint set and management strategy.",
+      "Booked but not banked — examine the budgeted-versus-actual central grants gap as the fiscal face of AP's dispute with the Centre.",
+      "A nationally funded project financed first by the state — critique the Polavaram reimbursement model.",
+      "From confrontation to accommodation: assess the post-2024 turn in AP's central-assistance equation.",
+      "Suggest a medium-term fiscal consolidation path for AP that protects both welfare and capital formation."
+    ],
+    "glossary": [
+      { "term": "Committed expenditure", "definition": "Non-discretionary obligations — salaries, pensions, interest — that pre-empt revenue receipts before any policy choice." },
+      { "term": "BE-Actuals gap", "definition": "Difference between budget estimates and realised figures — the credibility metric; large grant-side gaps mark contested central flows." },
+      { "term": "Ways and Means Advances", "definition": "RBI's short-term credit to governments for cash-flow mismatches — within limits, with overdraft consequences beyond." },
+      { "term": "Reimbursement model", "definition": "Project-funding design where the state spends first and claims from the Centre after scrutiny — shifting cash-flow burden downward." },
+      { "term": "Pending bills / arrears", "definition": "Committed payments queued beyond the year — an off-radar liability CAG insists on disclosing." }
+    ]
+  }
+]
