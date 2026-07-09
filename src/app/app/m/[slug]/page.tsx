@@ -16,6 +16,7 @@ import { YouTubeEmbed } from "@/components/content/youtube-embed";
 import { PrelimsQuestionCard } from "@/components/pyq/prelims-question-card";
 import { MainsQuestionCard } from "@/components/pyq/mains-question-card";
 import { LeafDivider } from "@/components/decor/ornaments";
+import { AutumnScene } from "@/components/living/autumn-scene";
 import type { CorrectOption } from "@/lib/database.types";
 
 export const dynamic = "force-dynamic";
@@ -47,7 +48,12 @@ export default async function MicrothemePage({
     "flex items-center gap-2 font-display text-xl font-semibold tracking-tight";
 
   return (
-    <div className="mx-auto max-w-3xl animate-rise-in">
+    <>
+      {/* The sparrow builds her nest while you build yours. Kept outside the
+          animated wrapper: a transformed ancestor would re-anchor the fixed
+          canvas away from the viewport. */}
+      <AutumnScene />
+      <div className="mx-auto max-w-3xl animate-rise-in">
       {/* Breadcrumbs */}
       <nav className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground">
         <Link href="/app/syllabus" className="hover:text-primary hover:underline">
@@ -185,6 +191,7 @@ export default async function MicrothemePage({
           <span />
         )}
       </nav>
-    </div>
+      </div>
+    </>
   );
 }

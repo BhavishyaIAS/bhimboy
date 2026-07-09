@@ -79,6 +79,36 @@ throwaway student account (since deleted):
 10. **Platform name "Bhimboy"** (from the repo) as the working brand; changing
     it later is a find-replace in ~4 files.
 
+## Design language II — "The Living Universe" (2026-07-07)
+
+Full procedural-animation layer mapping the design philosophy onto the
+learning journey. Three canvas worlds (`src/components/living/`):
+
+- **Ocean of Consciousness** (landing + auth): night-to-day sky from real
+  local time, stars/moon with halo, procedural waves (noise-modulated —
+  no wave repeats), breathing tide, moonlight reflection column, dew
+  droplets that crawl/merge/join the ocean, ripples on every tap and
+  strong scroll, drifting consciousness motes.
+- **Rainforest of Life** (syllabus/PYQ/search): misty canopy, swaying
+  light shafts, pollen; silhouette creatures with state machines — deer
+  (walks/stops/listens), rare elephant (every 3–6 min, never on a
+  schedule), two noise-driven butterflies that startle on tap, gliding
+  birds, a patient turtle. Idle time makes the forest richer.
+- **Sparrow & the Autumn Tree** (reading page): a bough from the corner
+  with golden-angle sub-branches, endless unique falling leaves, and a
+  sparrow that builds a real nest one twig per ~40–75s flight —
+  session-persisted (~15 min to complete), then she settles in it.
+  The visitor witnesses creation, not animation.
+
+Universal layer (`living-canvas.tsx`): scenes breathe ±0.3% on an 11s
+cycle; wind is eased from the user's scrolling; time of day flows
+continuously; single static frame under `prefers-reduced-motion`;
+rAF pauses when the tab is hidden; DPR capped for mobile.
+
+Gotcha discovered: a transformed ancestor (the `animate-rise-in` wrapper)
+re-anchors `position: fixed` children, so scenes must be siblings of the
+animated content, never children.
+
 ## Design language — "Sharad", the autumn sanctuary (2026-07-07)
 
 Full UI/UX reskin with a meditative, autumn-spiritual identity:

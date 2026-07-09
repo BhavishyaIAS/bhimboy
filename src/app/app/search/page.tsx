@@ -4,6 +4,7 @@ import { BookOpen, FileQuestion, Lightbulb, Search } from "lucide-react";
 import { globalSearch, type SearchResult } from "@/lib/queries";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import { ForestScene } from "@/components/living/forest-scene";
 
 export const metadata: Metadata = { title: "Search" };
 export const dynamic = "force-dynamic";
@@ -46,8 +47,10 @@ export default async function SearchPage({
   const results = q.trim() ? await globalSearch(q) : [];
 
   return (
-    <div className="mx-auto max-w-3xl animate-rise-in">
-      <h1 className="font-display text-3xl font-medium tracking-tight">Seek</h1>
+    <>
+      <ForestScene opacity={0.6} />
+      <div className="mx-auto max-w-3xl animate-rise-in">
+      <h1 className="relative font-display text-3xl font-medium tracking-tight">Seek</h1>
       <form className="relative mt-4" action="/app/search" method="get">
         <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
         <Input
@@ -116,6 +119,7 @@ export default async function SearchPage({
           })}
         </div>
       )}
-    </div>
+      </div>
+    </>
   );
 }

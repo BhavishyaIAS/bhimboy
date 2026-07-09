@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { FileQuestion } from "lucide-react";
+import { ForestScene } from "@/components/living/forest-scene";
 import { getPyqFilterOptions, getPyqs, type PyqFilters as Filters } from "@/lib/queries";
 import { PyqFilters } from "@/components/pyq/pyq-filters";
 import { PyqPagination } from "@/components/pyq/pyq-pagination";
@@ -43,8 +44,10 @@ export default async function PyqVaultPage({
   ]);
 
   return (
-    <div className="mx-auto max-w-3xl animate-rise-in">
-      <h1 className="font-display text-3xl font-medium tracking-tight">
+    <>
+      <ForestScene opacity={0.6} />
+      <div className="mx-auto max-w-3xl animate-rise-in">
+      <h1 className="relative font-display text-3xl font-medium tracking-tight">
         The PYQ Vault
       </h1>
       <p className="mt-1.5 text-sm text-muted-foreground">
@@ -100,6 +103,7 @@ export default async function PyqVaultPage({
           total={result.total}
         />
       </div>
-    </div>
+      </div>
+    </>
   );
 }

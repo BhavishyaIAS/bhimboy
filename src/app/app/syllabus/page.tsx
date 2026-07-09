@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { getSyllabusTree } from "@/lib/queries";
-import { FallingLeaves } from "@/components/decor/falling-leaves";
+import { ForestScene } from "@/components/living/forest-scene";
 import { Lotus } from "@/components/decor/ornaments";
 
 export const metadata: Metadata = { title: "Syllabus" };
@@ -26,14 +26,15 @@ export default async function SyllabusExplorerPage() {
   );
 
   return (
-    <div className="relative animate-rise-in">
-      <FallingLeaves density="whisper" className="fixed inset-0 -z-10 h-screen" />
-      <h1 className="font-display text-3xl font-medium tracking-tight">
-        The Syllabus
+    <>
+      <ForestScene />
+      <div className="relative animate-rise-in">
+      <h1 className="relative font-display text-3xl font-medium tracking-tight">
+        The Forest
       </h1>
-      <p className="mt-1.5 text-sm text-muted-foreground">
-        Walk it paper by paper. Open a micro‑theme to sit with its notes,
-        videos, PYQs and key terms.
+      <p className="relative mt-1.5 text-sm text-muted-foreground">
+        The living syllabus. Walk it paper by paper — every branch a topic,
+        every leaf a micro‑theme. Nothing here competes; everything belongs.
       </p>
 
       {!hasContent && (
@@ -132,6 +133,7 @@ export default async function SyllabusExplorerPage() {
             </section>
           )
       )}
-    </div>
+      </div>
+    </>
   );
 }
