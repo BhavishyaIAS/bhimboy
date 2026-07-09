@@ -1,0 +1,272 @@
+[
+  {
+    "code": "MN-PIII-EIPS-025",
+    "sections": [
+      {
+        "heading": "Essence — what ethics is",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Ethics** is the systematic study of what makes human action **right or wrong, good or bad** — the standards by which conduct is judged. Distinguish the neighbouring terms precisely: **morals** (personal/social codes actually held), **values** (enduring beliefs about what is worthwhile — honesty, courage), **laws** (state-enforced minimum conduct), **etiquette** (social manners). Ethics is broader than law: **everything legal is not ethical** (loopholes, unjust laws), and some ethical acts may even be illegal (civil disobedience). Branches: **meta-ethics** (what does 'good' mean?), **normative ethics** (what should I do? — consequentialism/**deontology**/virtue ethics), **applied ethics** (bioethics, environmental, administrative)."
+          },
+          {
+            "type": "table",
+            "headers": ["Determinant of ethics in human action", "How it shapes conduct", "Example"],
+            "rows": [
+              ["**Individual**: conscience, values, character, emotional intelligence", "Internal compass; Gandhi's 'inner voice'", "Officer refuses a bribe though undetectable"],
+              ["**Family & upbringing**", "Primary value transmission (modelling, discipline)", "Honesty learnt from parental example"],
+              ["**Society & culture**", "Norms, customs, peer sanction", "Dowry persists where socially normalised"],
+              ["**Religion & philosophy**", "Doctrines of duty, karma, golden rule", "Nishkama karma (Gita) — duty without attachment to fruit"],
+              ["**Education & institutions**", "Codes, training, socialisation into roles", "Medical ethics via MCI/NMC code"],
+              ["**Law & polity**", "Deterrence + expressive function of law", "PC Act shifting bribe norms"],
+              ["**Leadership & role models**", "Tone at the top; mimicry of the admired", "An upright collector raising a district's norms"],
+              ["**Situation/context**", "Pressure, anonymity, incentives (Milgram, Zimbardo)", "Good people yielding to obedience pressure"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Consequences of ethics — and its absence",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**For the individual**: integrity produces inner harmony, credibility and self-respect ('a clear conscience is a soft pillow'); unethical gain corrodes through guilt, fear and reputational fragility.",
+              "**For organisations**: ethical climate lowers transaction costs — trust replaces surveillance; unethical climates produce Enron/Satyam-style collapse (India's biggest corporate fraud, 2009 — a Hyderabad lesson).",
+              "**For administration**: ethics converts power into legitimacy; its absence produces corruption, capture, and citizen cynicism — the 'trust deficit' that makes every scheme costlier to run.",
+              "**For society & polity**: social capital, rule-of-law compliance, investment climate; ethical failure normalises shortcut culture — visible in tax evasion and everyday 'chalta hai'.",
+              "**For the environment & future generations**: intergenerational ethics (sustainability) — today's restraint is tomorrow's habitability."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Human action] --> B[Determinants: person, family, society, religion, law, leadership, situation]\n  B --> C{Ethical filter}\n  C --> D[Ethical action]\n  C --> E[Unethical action]\n  D --> F[Trust, legitimacy, social capital]\n  E --> G[Corruption, cynicism, institutional decay]\n  F --> H[Virtuous cycle - norms strengthen]\n  G --> I[Vicious cycle - norms erode]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer-ready anchors",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Thinkers to deploy**: Socrates ('the unexamined life is not worth living'), Aristotle (virtue as habit — 'we are what we repeatedly do'), Kant (categorical imperative — act only on universalisable maxims; persons as ends), Mill (greatest happiness), Gandhi (means-ends purity; **Seven Social Sins** — 'politics without principles, commerce without morality...'), Buddha (madhyama marga), Kautilya (praja-sukha as the ruler's dharma).",
+              "**Indian civilisational frame**: **dharma** as context-sensitive duty (svadharma), **Rta** (cosmic order), the Gita's **nishkama karma** — action with detachment from fruits — the classic answer to motivation-vs-consequence questions.",
+              "**AP/administrative colour**: use everyday service situations — certificate issuance, land mutation, welfare verification — where determinants (peer norms, political pressure, citizen desperation) collide; the essence-determinants-consequences triad maps exactly onto such cases."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: This theme IS the definitional bedrock of the ethics section — memorise crisp one-line definitions (ethics/morals/values/law), the eight determinants, and five consequence domains. In case-study answers, explicitly name which determinant is operating; examiners reward that diagnostic vocabulary."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Ethics (Greek *ethos* = character/custom); moral philosophy's three branches: **meta-ethics, normative ethics, applied ethics**.",
+      "**Normative triad**: consequentialism (Bentham/Mill), deontology (Kant), virtue ethics (Aristotle).",
+      "**Kant's categorical imperative**: universalisability + humanity-as-end formulations.",
+      "**Gandhi's Seven Social Sins** (Young India, 1925) — wealth without work, politics without principles, etc.",
+      "**Milgram (1963)** obedience and **Zimbardo (1971)** Stanford prison experiments — situational determinants of conduct.",
+      "**Nishkama karma**: Bhagavad Gita II.47 — right to action, not to its fruits.",
+      "**Satyam scandal (2009)**: India's largest corporate accounting fraud — governance-ethics case from AP's own backyard."
+    ],
+    "mainsAngles": [
+      "Define ethics and distinguish it from morality and law; why is the distinction critical for a civil servant?",
+      "Human action is shaped less by character and more by situation — critically examine with Milgram and Zimbardo.",
+      "Discuss the determinants of ethics in human action and illustrate how an administrator can strengthen the favourable ones.",
+      "'Everything legal is not ethical' — examine with public-life examples and the way an officer should navigate the gap.",
+      "What are the consequences of ethical erosion for governance? Illustrate with the trust-deficit costs in welfare delivery."
+    ],
+    "glossary": [
+      { "term": "Ethics", "definition": "The systematic study and practice of standards of right and wrong conduct — the rational evaluation of human action." },
+      { "term": "Values", "definition": "Enduring convictions about what is desirable (honesty, compassion, courage) that guide choices across situations." },
+      { "term": "Morals", "definition": "The actual codes of right conduct held by a person or community — the lived counterpart of ethical theory." },
+      { "term": "Meta-ethics", "definition": "Inquiry into the meaning and status of moral terms — whether 'good' is objective, subjective or emotive." },
+      { "term": "Categorical imperative", "definition": "Kant's supreme moral law: act only on maxims you could will as universal law; treat humanity always as an end, never merely as a means." },
+      { "term": "Nishkama karma", "definition": "The Gita's ideal of desireless action — performing one's duty without attachment to outcomes." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-026",
+    "sections": [
+      {
+        "heading": "The dimensions of ethics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Dimension", "Core question", "Key content"],
+            "rows": [
+              ["**Descriptive ethics**", "What do people actually believe/do?", "Empirical study of moral practices (anthropology of dowry, corruption norms)"],
+              ["**Meta-ethics**", "What does 'good' mean? Is morality objective?", "Cognitivism vs emotivism; moral realism vs relativism"],
+              ["**Normative ethics**", "What ought I do?", "**Teleology** (ends: utilitarianism), **Deontology** (duty: Kant), **Virtue ethics** (character: Aristotle); care ethics (Gilligan)"],
+              ["**Applied ethics**", "What is right in this domain?", "Bio-ethics, environmental ethics, media ethics, **administrative ethics**, international ethics, AI ethics"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "A second useful axis: ethics **at four levels** — individual (conscience), professional (codes), societal (norms) and global (human rights, climate justice). Case-study answers gain marks by identifying **which dimension and level** a dilemma sits in before resolving it."
+          }
+        ]
+      },
+      {
+        "heading": "Ethics in private and public relationships",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Private relationships** (family, friendship, love) run on **partiality**: loyalty, care, unconditional obligation — a parent rightly favours her child. **Public relationships** (officer–citizen, professional–client, leader–led) must run on **impartiality**: equal treatment, rule-boundness, public reason, accountability. The classic ethical failure of Indian public life is the **transfer of private ethics into public roles** — nepotism is family loyalty misapplied; the classic private failure is the reverse — treating intimates with bureaucratic coldness or transactional calculation."
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Continuities**: honesty, dignity, promise-keeping and non-cruelty bind both spheres — a person is one moral unit; **integrity means the spheres do not contradict** (the officer honest in office and in taxes at home).",
+              "**Differences**: (a) partiality vs impartiality; (b) discretion vs transparency (private life may keep secrets, public office must give reasons); (c) personal resources vs **trusteeship of public resources**; (d) consent-based vs power-asymmetric relations — hence stricter public standards.",
+              "**Conflict zones**: a friend seeks a favour in your official capacity (conflict of interest — disclose and recuse); family expectations vs posting integrity; whistle-blowing on a colleague-friend (public duty outweighs private loyalty — but with fair process); the **'godfather culture'** in transfers.",
+              "**Resolution tools**: publicity test (would it survive the front page?), reversibility test (roles reversed?), universalisability (Kant), and the **trusteeship** standard (Gandhi) — public power held for others."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[One moral agent] --> B[Private sphere - partiality, love, loyalty]\n  A --> C[Public sphere - impartiality, rules, accountability]\n  B --> D{Spillover?}\n  C --> D\n  D --> E[Nepotism: private loyalty invading public role]\n  D --> F[Coldness: public formality invading home]\n  E --> G[Fix: disclosure, recusal, codes]\n  F --> H[Fix: emotional intelligence, work-life integrity]"
+          }
+        ]
+      },
+      {
+        "heading": "Deploying this in answers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Exemplars**: Lal Bahadur Shastri (resigning as Railway Minister; refusing family use of official car), T.N. Seshan-era election discipline, **Sardar Vallabhbhai Patel's advice to services** on impartiality; contrast with dynastic capture and 'sifarish' culture.",
+              "**AP flavour**: a tahsildar processing her own relative's land mutation must recuse; a volunteer distributing pensions in his own street embodies the daily private-public interface AP's secretariat model creates — proximity aids delivery but multiplies conflict-of-interest situations: the design answer is disclosure norms + randomised verification + social audit.",
+              "Balanced close: the goal is not to sterilise private affection but to **fence it** — strong families build the values public life needs; strong institutions keep those loyalties from becoming favours."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: This theme feeds case studies directly. Keep a four-step template: identify the relationship type → name the conflicting values (loyalty vs impartiality) → apply a test (publicity/universalisability) → give the institutional safeguard (disclosure, recusal). Quote Shastri or Patel once."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Four dimensions of ethics: **descriptive, meta, normative, applied**.",
+      "Normative schools: **teleological** (consequences), **deontological** (duty), **virtue** (character), plus **care ethics** (Carol Gilligan).",
+      "**Conflict of interest** = clash between private interest and public duty; standard remedies: **disclosure, recusal, divestment**.",
+      "Gandhi's **trusteeship**: wealth and power held in trust for society.",
+      "**Lal Bahadur Shastri** resigned owning moral responsibility for the 1956 Ariyalur rail accident — the exemplar of public accountability.",
+      "Publicity test (Kantian/Rawlsian): an act is suspect if it cannot be publicly justified."
+    ],
+    "mainsAngles": [
+      "Distinguish the dimensions of ethics and show where administrative ethics sits within applied ethics.",
+      "'Private virtue is no guarantee of public virtue, but private vice is a reliable warning' — discuss.",
+      "Partiality is the ethic of the family; impartiality the ethic of the state — examine the tensions when the two meet in a civil servant's life.",
+      "Nepotism is misplaced loyalty — analyse conflict-of-interest situations in administration and the safeguards against them.",
+      "In the era of doorstep delivery, proximity between officials and beneficiaries multiplies ethical friction — discuss with the AP secretariat-volunteer model."
+    ],
+    "glossary": [
+      { "term": "Applied ethics", "definition": "The branch of ethics resolving concrete domain-specific questions — administrative, medical, environmental, business, AI." },
+      { "term": "Impartiality", "definition": "Deciding on relevant merits alone, without favour or bias toward relations, friends or groups — the first virtue of public office." },
+      { "term": "Conflict of interest", "definition": "A situation where private interest could improperly influence official duty; managed by disclosure, recusal or divestment." },
+      { "term": "Trusteeship", "definition": "Gandhian doctrine that possessions and power are held in trust for society's benefit, not personal enjoyment." },
+      { "term": "Publicity test", "definition": "Heuristic that conduct is ethical only if its justification could be openly stated without shame — a screen for hidden partiality." },
+      { "term": "Care ethics", "definition": "Normative approach (Gilligan, Noddings) centring relationships, empathy and responsiveness — a corrective to purely rule-based ethics." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-027",
+    "sections": [
+      {
+        "heading": "Integrity — the keystone virtue",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Integrity** (Latin *integer* — whole) is the **consistency of values, words and actions across situations and audiences** — being the same person in the file, in the field and at home. It is broader than honesty: honesty is truth-telling; integrity is **wholeness** — incorruptibility, moral courage, and refusal to compartmentalise. Types worth naming: **financial integrity** (no illicit gain), **intellectual integrity** (following evidence against convenience), **moral integrity** (acting on professed values), and **institutional integrity** (an organisation's fidelity to its purpose — Lokpal, ECI debates)."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Meaning", "Instrument in Indian public service"],
+            "rows": [
+              ["Integrity", "Wholeness of values-conduct", "Integrity pacts (CVC), annual property returns, **integrity index**"],
+              ["**Accountability**", "Answerability + consequences for the use of power", "APAR chain, CAG-PAC, vigilance, RTI, courts, social audit"],
+              ["Probity", "Proven adherence to public rectitude — integrity **demonstrated in office**", "Conduct Rules 1964/1968, PC Act 1988 (as amended 2018)"],
+              ["Fiduciary duty", "Public office as trust", "Oath of office; trusteeship doctrine"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The architecture of accountability in Indian public service",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Internal**: conduct rules, hierarchy, APAR/360°, vigilance officers, departmental inquiries (Art 311 procedure) — fast in theory, protective in practice.",
+              "**Legislative**: questions, committees (PAC/Estimates/DRSC), CAG audit — the classic chain; weakened by shrinking House time.",
+              "**Judicial**: review of administrative action, PC Act prosecutions, continuing mandamus.",
+              "**Independent bodies**: CVC (superintendence), Lokpal (2013 Act; functional since 2019) & **Lokayuktas**, CIC, NHRC — the ombudsman layer.",
+              "**Social**: RTI, social audit (AP's SSAAT), citizen charters with penalties, media & civil society — accountability's newest, most democratic ring.",
+              "**Diagnosis (2nd ARC, 4th Report)**: India punishes honest error and misses calibrated dishonesty — recommendations: protect bona fide action (**now PC Act Sec 17A**), swift traps for the corrupt, simplified disciplinary process, and **ethical competence in recruitment and training** (now Mission Karmayogi's behavioural frame)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Public servant's power] --> B[Internal checks: rules, vigilance, appraisal]\n  A --> C[External checks: CAG, courts, Lokpal, CIC]\n  A --> D[Social checks: RTI, social audit, media]\n  B --> E{Balance}\n  C --> E\n  D --> E\n  E --> F[Too weak - corruption thrives]\n  E --> G[Too blunt - honest paralysis]\n  E --> H[Calibrated - integrity with initiative]"
+          }
+        ]
+      },
+      {
+        "heading": "Building integrity — beyond deterrence",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Reduce opportunity**: process re-engineering, e-delivery (fewer discretionary touchpoints — AP's Mee-Seva/DBT lineage), transparent postings, e-procurement (GeM).",
+              "**Raise the cost**: certain and swift (not merely severe) sanction; asset-disproportion cases; **forfeiture laws**; protect whistle-blowers (2014 Act's non-operation is the standing gap).",
+              "**Grow the conscience**: ethics training with dilemmas not sermons (Karmayogi), oath-and-onboarding rituals, integrity role-modelling by seniors — 'the tone at the top sets the ethics budget of the middle'.",
+              "**Exemplars to cite**: **E. Sreedharan** (Delhi Metro — schedule and probity as culture), **T.N. Seshan** (institutional assertion), **S.R. Sankaran** (the 'people's IAS officer' of undivided AP — austere, tribal-welfare pioneer, refused awards) — Sankaran is the perfect APPSC exemplar.",
+              "Balanced close: integrity is personal, but **probity is infrastructural** — built from systems that make honesty easy and dishonesty costly."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Define integrity vs honesty vs probity in the first three lines — that distinction alone separates answers. Then one accountability map (five rings), one 2nd ARC recommendation, one AP exemplar (S.R. Sankaran). For case studies, integrity = consistency under pressure; show the pressure, then the consistency."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**2nd ARC 4th Report: 'Ethics in Governance'** — the master document for this theme.",
+      "**PC Act 1988, amended 2018**: taking a bribe redefined (Sec 7), **giving** a bribe an offence (Sec 8), **Sec 17A** prior-approval shield for official decisions, time-bound trials.",
+      "**Lokpal**: 2013 Act; chairperson + up to 8 members (50% judicial; 50% from SC/ST/OBC/minorities/women); first Lokpal appointed **2019**.",
+      "**CVC**: statutory (2003); Integrity Pact and integrity-index initiatives in procurement.",
+      "**Whistle Blowers Protection Act 2014** — assented but rules un-notified; 2015 dilution Bill pending.",
+      "**S.R. Sankaran (IAS, undivided AP)** — exemplar of austere, welfare-first service; key figure behind bonded-labour abolition follow-up and SC/ST sub-plan thinking.",
+      "Conduct Rules: **CCS (Conduct) Rules 1964 / AIS (Conduct) Rules 1968**."
+    ],
+    "mainsAngles": [
+      "Integrity is wholeness, honesty is only truthfulness — elaborate the distinction and its significance for public service.",
+      "India's accountability regime deters the honest more than the corrupt — critically examine with the 2nd ARC and Section 17A.",
+      "Map the five rings of accountability around an Indian civil servant and evaluate their relative effectiveness.",
+      "Institutional integrity matters as much as personal integrity — discuss with reference to the Election Commission and Lokpal debates.",
+      "Sketch the integrity-building strategy you would adopt as a district collector, distinguishing opportunity-reduction, deterrence and value-formation."
+    ],
+    "glossary": [
+      { "term": "Integrity", "definition": "Consistency of values, words and deeds across contexts — incorruptible wholeness of character; broader than honesty." },
+      { "term": "Probity", "definition": "Demonstrated adherence to the highest standards of rectitude in public office — integrity as verified public practice." },
+      { "term": "Accountability", "definition": "The duty of power-holders to explain their use of public authority and to bear consequences for its misuse." },
+      { "term": "Integrity Pact", "definition": "CVC-promoted agreement between procurer and bidders forswearing bribery, monitored by independent external monitors." },
+      { "term": "Section 17A, PC Act", "definition": "2018 provision requiring prior approval before inquiry into decisions taken by public servants in official functions — the honest-error shield." },
+      { "term": "Institutional integrity", "definition": "An institution's fidelity to its constitutional purpose, protected through appointment quality, autonomy and transparency (phrase from the SC's CVC appointment ruling, 2011)." }
+    ]
+  }
+]

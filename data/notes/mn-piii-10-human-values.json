@@ -1,0 +1,349 @@
+[
+  {
+    "code": "MN-PIII-EIPS-028",
+    "sections": [
+      {
+        "heading": "Harmony in existence — the concentric circles",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Human existence unfolds in **four concentric harmonies**: within the **self** (thought-word-deed alignment — the root meaning of integrity), in the **family** (the first school of relationship), in **society** (justice, fraternity, trust) and with **nature** (co-existence, not conquest). Indian thought names this whole: **Rta** (cosmic order), **dharma** (that which upholds — *dharayati iti dharmah*), **Vasudhaiva Kutumbakam** (the world is one family, Maha Upanishad) and **sarvodaya** (welfare of all — Gandhi via Ruskin). Disharmony at any circle propagates: an anxious self strains the family; fractured families weaken social trust; an extractive society breaks nature — and a broken nature (climate stress) returns to destabilise all three."
+          },
+          {
+            "type": "table",
+            "headers": ["Circle", "Harmony looks like", "Disharmony looks like", "Restoring values"],
+            "rows": [
+              ["Self", "Self-awareness, contentment, purpose", "Anomie, addiction, consumer restlessness", "Self-examination, moderation (Aristotle's mean; Buddhist madhyama marga)"],
+              ["Family", "Care, respect across generations, security", "Elder neglect, domestic violence, dowry", "Love, duty, mutual respect, sharing"],
+              ["Society", "Fraternity (Preamble!), civic trust, inclusion", "Casteism, communalism, inequality", "**Justice, equality, tolerance, empathy** — Ambedkar's 'fraternity as the real safeguard'"],
+              ["Nature", "Stewardship, sufficiency, reverence (sacred groves)", "Pollution, extinction, climate crisis", "Trusteeship, sustainability, **Art 48A & 51A(g)**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Human relationships in society and with nature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Relationship is founded on values, not contracts**: trust (the base), respect (recognising equal dignity), affection, care, guidance, gratitude — when these are assured, families and societies need less law; where they fail, no law suffices.",
+              "**Society**: the Preamble's **fraternity** is the relationship value constitutionalised — 'liberty, equality, fraternity' as a trinity where, per Ambedkar, without fraternity the other two need 'a constable to enforce them'.",
+              "**Nature**: Indian traditions treat nature as kin — **Prithvi Sukta** (Atharvaveda: 'Earth is my mother, I am her son'), Buddhist ahimsa, Bishnoi and **Chipko** movements, sacred groves; modern echoes — **sustainable development, intergenerational equity (Brundtland)**, SC's recognition of nature's rights strands, **Mission LiFE** (lifestyle for environment).",
+              "**Administrative translation**: harmony is not a private nicety — communal-harmony maintenance, family-welfare schemes, eco-restoration are governance functions; an officer's empathy and impartiality are harmony-instruments."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Harmony in the self] --> B[Harmony in family]\n  B --> C[Harmony in society]\n  C --> D[Harmony with nature]\n  D --> E[Stable climate and resources]\n  E --> A\n  C --> F[Fraternity, trust, low conflict]\n  F --> G[Good governance becomes possible]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer anchors and AP colour",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Quotes that fit everywhere**: 'The world has enough for everyone's need, not for anyone's greed' (Gandhi); 'Vasudhaiva Kutumbakam' (also the G20 India theme — One Earth, One Family, One Future); Ambedkar on fraternity; the Gita's *lokasangraha* (acting for the world's cohesion).",
+              "**AP colour**: coastal AP's cyclone-solidarity traditions (community evacuation as social harmony in action); **APCNF natural farming** as harmony-with-nature policy; temple-tank and sacred-grove restoration; Srisailam/Eastern Ghats eco-sensitivity debates as the harmony-vs-extraction dilemma.",
+              "Balanced close: harmony is **not the absence of conflict but its just resolution** — a constitutional democracy institutionalises harmony through rights, fraternity and due process."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Use the four-circle structure for ANY 'harmony' question — self→family→society→nature — with one Indian concept (dharma/Rta), one constitutional hook (fraternity/51A(g)) and one AP example (APCNF). It converts an abstract theme into a scored answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Vasudhaiva Kutumbakam** — Maha Upanishad; India's **G20 (2023) theme**: 'One Earth · One Family · One Future'.",
+      "**Fraternity** appears in the Preamble — 'assuring the dignity of the individual and the unity and integrity of the Nation'.",
+      "**Art 48A** (DPSP): State to protect environment; **Art 51A(g)**: citizen's duty to protect nature and 'have compassion for living creatures'.",
+      "**Sarvodaya** — Gandhi's rendering of Ruskin's *Unto This Last*.",
+      "**Chipko (1973, Uttarakhand — Sunderlal Bahuguna, Gaura Devi)** and the **Bishnoi (Khejarli, 1730)** are the classic harmony-with-nature movements.",
+      "**Brundtland Report (1987)** defined sustainable development — intergenerational equity.",
+      "**Mission LiFE (2022)**: individual lifestyle change as climate action."
+    ],
+    "mainsAngles": [
+      "Harmony with nature is not romanticism but survival strategy — discuss with Indian environmental traditions and climate policy.",
+      "'Without fraternity, liberty and equality need a constable' — explain Ambedkar's insight for contemporary India.",
+      "Trace how disharmony in the inner life of individuals aggregates into social conflict, and the values that reverse it.",
+      "Andhra Pradesh's community-managed natural farming embodies harmony between livelihood and ecology — examine.",
+      "What does 'harmony in existence' demand of a district administrator during communal tension?"
+    ],
+    "glossary": [
+      { "term": "Dharma", "definition": "That which upholds and sustains order — context-sensitive duty binding self, society and cosmos in Indian thought." },
+      { "term": "Fraternity", "definition": "The Preamble's value of social solidarity and mutual regard, assuring individual dignity and national unity — democracy's emotional infrastructure." },
+      { "term": "Sarvodaya", "definition": "Gandhian ideal of the rise/welfare of all, beginning with the last person (antyodaya)." },
+      { "term": "Intergenerational equity", "definition": "The duty of the present generation to leave future generations an undiminished natural and social inheritance." },
+      { "term": "Lokasangraha", "definition": "The Gita's ideal of acting for the cohesion and welfare of the world — public-spirited action as duty." },
+      { "term": "Trusteeship of nature", "definition": "Holding natural resources as trustee for community and posterity, not as owner — the ethical core of sustainability." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-029",
+    "sections": [
+      {
+        "heading": "Gender equability — concept and distinctions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Sex** is biological; **gender** is the socially constructed set of roles and expectations attached to it. **Equality** gives everyone the same treatment; **equity/equability** gives each what they need to reach equal outcomes — the ladder adjusted to the wall each person faces. Gender equability in relationships means **equal dignity, voice, opportunity and safety** across family, workplace and public life — not sameness of roles by force, but freedom from role imposition. Constitutional bedrock: **Arts 14, 15(1), 15(3)** (special provisions for women — protective discrimination), **16, 21, 39(a),(d)** (equal pay), **42, 51A(e)** (renounce practices derogatory to women's dignity)."
+          },
+          {
+            "type": "table",
+            "headers": ["Sphere", "Inequity manifests as", "Corrective (law + policy)"],
+            "rows": [
+              ["Family", "Son preference, unequal inheritance, unpaid care burden (~7x men's, Time Use Survey), domestic violence", "**Hindu Succession (Amendment) 2005** — daughters as coparceners (**Vineeta Sharma, 2020**); **PWDVA 2005**; Beti Bachao Beti Padhao"],
+              ["Marriage & body", "Child marriage, dowry, consent erasure", "PCMA 2006; DP Act 1961; **Joseph Shine (2018)** — adultery decriminalised as it treated wife as property"],
+              ["Work", "19th-25th percentile female LFPR debates, pay gaps, glass ceiling, safety", "Equal Remuneration (now Code on Wages), **POSH Act 2013** (from **Vishaka**), Maternity Benefit (Amendment) 2017 — 26 weeks"],
+              ["Public life", "Under-representation", "**106th Amendment (2023)** — 1/3 reservation in LS & Assemblies (post-delimitation); 73rd/74th (1/3, many states 50%) — **AP PRIs reserve 50% for women**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why equability is everyone's dividend",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Intrinsic**: dignity is not a benefit conferred but a right recognised (Arts 14/21; **NALSA 2014** extended the frame to transgender persons; Transgender Persons Act 2019).",
+              "**Instrumental**: closing gender work-gaps could add double-digit percentages to GDP (McKinsey/IMF estimates); children of empowered mothers show better nutrition and education outcomes — equability compounds across generations.",
+              "**Relational**: equable homes model consent and respect — the deepest prevention of gender violence; **masculinity work** (engaging men) is now recognised policy content.",
+              "**The stubborn core**: norms outlast laws — khap resistance, marital-rape exception debate (pending constitutional challenge), care-work invisibility. Norm change needs education (NEP's gender-inclusion fund), representation, and visible female authority."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Gender norms learnt in family] --> B[Unequal care and inheritance]\n  B --> C[Educational and work gaps]\n  C --> D[Under-representation in power]\n  D --> E[Laws and budgets miss women's needs]\n  E --> A\n  F[Interventions: education, law, reservation, SHG income, male engagement] --> B\n  F --> C\n  F --> D"
+          }
+        ]
+      },
+      {
+        "heading": "AP dimension and exam use",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP's assets**: the **SHG women's federations (SERP legacy)** — among the world's largest women's collectives — as economic-voice infrastructure; **50% reservation in PRIs and ULBs**; **Disha (2019)** police stations and the Disha Bill's fast-track ambition (assent pending — cite carefully as 'proposed'); high female electoral turnout.",
+              "**AP's gaps**: child-marriage pockets, dowry deaths, female LFPR concentrated in low-wage agriculture, sex-ratio-at-birth vigilance — use **NFHS-5 AP facts**: sex ratio favourable overall but anaemia among women high — the equability agenda is nutrition and work quality, not only safety.",
+              "**Balance in answers**: pair one law + one norm intervention per sphere; end with 'equability is achieved in kitchens and cabinets alike'."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The word is equABILITY — write the equality-vs-equity distinction in your first paragraph, then run the four-sphere table (family, marriage, work, public life) with one case law each (Vineeta Sharma, Joseph Shine, Vishaka/POSH, 106th Amendment). AP's SHG + 50% PRI facts are your differentiators."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 15(3)** permits special provisions for women & children — the constitutional basis of protective discrimination.",
+      "**Vishaka (1997)** guidelines → **POSH Act 2013** (ICC mandatory in workplaces with 10+ employees).",
+      "**Hindu Succession (Amendment) Act 2005**; **Vineeta Sharma v. Rakesh Sharma (2020)**: daughter's coparcenary right is by birth.",
+      "**106th Constitutional Amendment (2023)**: one-third seats for women in Lok Sabha, state Assemblies and Delhi — effective after delimitation following the next census.",
+      "**Joseph Shine (2018)** struck Sec 497 IPC (adultery); **NALSA (2014)** recognised transgender rights under Arts 14/21.",
+      "AP reserves **50%** seats for women in local bodies; **Disha police stations** for crimes against women.",
+      "**Maternity Benefit (Amendment) 2017**: 26 weeks paid leave; crèche mandate for 50+ employee establishments."
+    ],
+    "mainsAngles": [
+      "Equality of treatment can perpetuate inequality of condition — explain gender equity with constitutional and policy illustrations.",
+      "The family is the first site of gender ethics — discuss how inheritance, care work and consent norms shape all later equality.",
+      "Women's political reservation transforms representation into power — evaluate the 106th Amendment and the panchayat experience.",
+      "Assess Andhra Pradesh's SHG-based empowerment model as a route to gender equability, noting its limits.",
+      "Laws have outrun norms in India's gender journey — examine with the marital-rape debate and care-economy data."
+    ],
+    "glossary": [
+      { "term": "Gender", "definition": "Socially constructed roles, behaviours and expectations attached to sexes — variable across cultures and time, hence changeable." },
+      { "term": "Gender equity (equability)", "definition": "Fairness of treatment according to need — differentiated support so that outcomes, not just rules, are equal." },
+      { "term": "Protective discrimination", "definition": "Constitutionally sanctioned special provisions (Art 15(3), 15(4)) favouring disadvantaged groups to achieve real equality." },
+      { "term": "Care economy", "definition": "Unpaid domestic and care work, disproportionately female, invisible in GDP — its recognition, reduction and redistribution is core gender policy." },
+      { "term": "Glass ceiling", "definition": "Invisible barriers keeping women from top positions despite formal equality of opportunity." },
+      { "term": "POSH framework", "definition": "Prevention, prohibition and redress of workplace sexual harassment via Internal Committees under the 2013 Act, rooted in the Vishaka guidelines." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-030",
+    "sections": [
+      {
+        "heading": "How values form — the three great schools",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Values are **learnt, not inherited** — through imitation, instruction, reward-punishment, and reflection. Psychology's map: **Bandura's social learning** (modelling), **Kohlberg's moral development** (pre-conventional → conventional → post-conventional stages), **Piaget** (heteronomous to autonomous morality). Three institutions do most of the forming: **family, society, educational institutions** — in that developmental order."
+          },
+          {
+            "type": "table",
+            "headers": ["Institution", "Mechanisms", "Values typically transmitted", "Failure modes"],
+            "rows": [
+              ["**Family**", "Modelling by parents, discipline styles, stories, rituals, sibling negotiation", "Honesty, empathy, respect, gender attitudes, work ethic — the 'first school'", "Authoritarianism (fear ethics), indulgence (entitlement), modelling hypocrisy, patriarchy transmission"],
+              ["**Society**", "Peer groups, community norms, religion, festivals, media & social media, role models/celebrities", "Cooperation, identity, tolerance — or prejudice", "Caste/communal socialisation, consumerism, online echo chambers, normalised corruption ('everyone does it')"],
+              ["**Educational institutions**", "Curriculum + the **hidden curriculum** (what school practices teach), teachers as models, sports/NSS/NCC, peer culture", "Discipline, scientific temper (51A(h)), citizenship, dignity of labour", "Rote over reflection, competition over character, teacher misconduct, ragging"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The developmental relay — and its modern disruptors",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Sequence matters**: family lays the base (0–6 years — hence ECCE in **NEP 2020**), school systematises it, society tests and hardens it; adult institutions (workplace, state) then either reinforce or erode — a corrupt office can unteach an honest upbringing (situational power again).",
+              "**Disruptors**: nuclearisation and dual-career time squeeze (outsourced childhood), **social media as the new co-parent** (algorithmic values: outrage, comparison, instant gratification), migration separating generations, commercialised education.",
+              "**Deliberate value education**: NEP 2020's ethics integration, NCERT's value-education frameworks, **NCC/NSS/Scouts**, service-learning; Gandhi's **Nai Talim** (learning through productive work); the Radhakrishnan (1948), Kothari (1964–66 — 'education and national values') and **Justice J.S. Verma Committee (2012)** emphasis on gender-respect education.",
+              "**State's role is enabling, not preaching**: fund ECCE and teacher quality, protect childhood (POCSO, JJ Act), regulate media literacy into curricula, and model integrity in its own conduct — children learn the state's values from queues and police stations, not textbooks."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Family 0-6 - modelling and attachment] --> B[School 6-18 - curriculum plus hidden curriculum]\n  B --> C[Society and peers - testing and hardening]\n  C --> D[Workplace and state - reinforcement or erosion]\n  E[Media and social media - the ambient teacher] --> A\n  E --> B\n  E --> C\n  D --> F[Adult character - values in action]"
+          }
+        ]
+      },
+      {
+        "heading": "AP dimension and answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**AP hooks**: school-education investments (Mana Badi/Nadu-Nedu infrastructure upgrades, English-medium debate — values of aspiration vs mother-tongue grounding), mid-day meal (Gorumudda) as an equality lesson eaten daily, SHG mothers as visible female-agency models for children, and village secretariats bringing the state's conduct close enough to imitate.",
+              "**Craft**: for any 'role of X in inculcating values' question, use the mechanism → values → failure → fix grid per institution, cite Kohlberg once, and close with the hidden-curriculum insight: institutions teach by how they behave, not what they preach."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiners' favourite twist is 'which institution matters most today?' — argue family for depth, school for system, but concede the phone has joined the family. A balanced, mechanism-based answer with Bandura/Kohlberg named beats moralising every time."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Kohlberg**: six stages in three levels — pre-conventional (punishment/reward), conventional (approval/law), post-conventional (principle).",
+      "**Bandura's Bobo-doll experiments** — children imitate observed aggression: social learning theory.",
+      "**Art 51A(h)**: duty to develop scientific temper, humanism and the spirit of inquiry and reform.",
+      "**NEP 2020**: 5+3+3+4 design with **ECCE** foundation; ethics and constitutional values integrated across stages.",
+      "**Kothari Commission (1964–66)**: 'the destiny of India is being shaped in her classrooms'.",
+      "**Nai Talim (1937)**: Gandhi's basic education through craft and productive work.",
+      "AP's school-infrastructure programme: **Mana Badi / Nadu-Nedu**; MDM known as **Gorumudda**."
+    ],
+    "mainsAngles": [
+      "The family is the first and most durable school of values — discuss its mechanisms and modern strains.",
+      "Schools teach values more by their hidden curriculum than their moral-science period — examine.",
+      "Social media has become the third parent — analyse its impact on value formation and the literacy response needed.",
+      "Evaluate NEP 2020's approach to value education against Gandhi's Nai Talim.",
+      "As a district education officer, design a practical programme for value inculcation using family-school-community linkages."
+    ],
+    "glossary": [
+      { "term": "Socialisation", "definition": "The lifelong process by which individuals internalise the norms and values of their groups — primary (family) and secondary (school, peers, media)." },
+      { "term": "Social learning theory", "definition": "Bandura's account of learning through observation and imitation of models, especially those admired or rewarded." },
+      { "term": "Hidden curriculum", "definition": "The unstated lessons institutions teach through their routines, hierarchies and behaviour — punctuality, obedience, whose voice counts." },
+      { "term": "Post-conventional morality", "definition": "Kohlberg's highest level: conduct guided by self-chosen universal principles rather than approval or law." },
+      { "term": "Value education", "definition": "Deliberate cultivation of desirable values through curriculum, activity and institutional practice rather than mere exhortation." },
+      { "term": "Nai Talim", "definition": "Gandhian basic education integrating productive handwork with learning — dignity of labour as pedagogy." }
+    ]
+  },
+  {
+    "code": "MN-PIII-EIPS-031",
+    "sections": [
+      {
+        "heading": "Why lives teach what lectures cannot",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Moral philosophy argues; **exemplars demonstrate**. Lives of great leaders, reformers and administrators supply **embodied ethics** — proof that principle can survive power, poverty and pressure. For the exam, build a **matrix of persons → the one value each most cleanly embodies → one incident as evidence**. Depth on eight figures beats name-dropping eighty."
+          },
+          {
+            "type": "table",
+            "headers": ["Exemplar", "Signature value", "Evidence incident"],
+            "rows": [
+              ["**M.K. Gandhi**", "Means-ends purity; self-scrutiny", "Calling off Non-Cooperation after **Chauri Chaura (1922)** — principle over momentum; talisman of the last man"],
+              ["**Dr. B.R. Ambedkar**", "Justice through institutions; intellect against odds", "Burning Manusmriti yet choosing constitutionalism — 'educate, agitate, organise'; grammar of anarchy speech"],
+              ["**Sardar Patel**", "Unity, decisiveness, institutional loyalty", "Integration of 560+ states without civil war; defence of the civil services (1949)"],
+              ["**Lal Bahadur Shastri**", "Accountability & austerity", "Resigned after the **1956 Ariyalur** rail accident; 'Jai Jawan Jai Kisan' amid the 1965 food crisis"],
+              ["**Abraham Lincoln**", "Magnanimity & moral firmness", "'With malice toward none'; Emancipation with reconciliation"],
+              ["**Nelson Mandela**", "Forgiveness as strategy", "Truth & Reconciliation over revenge after 27 years' prison"],
+              ["**Mother Teresa / Sree Narayana Guru / Savitribai Phule**", "Compassion; reform through dignity; women's education", "Nirmal Hriday; 'one caste, one religion, one God for man'; first girls' school (1848) despite stones"],
+              ["**A.P.J. Abdul Kalam**", "Humility + national ambition", "Returned to teaching after the Presidency; crediting teams for missile successes"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Administrators as exemplars — the service's own saints",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**S.R. Sankaran (IAS, undivided AP)** — the 'people's officer': lifelong bachelor-austerity, drafted bonded-labour abolition follow-up and SC/ST Special Component Plan, negotiated hostage release without glorifying himself, refused Padma awards — **the APPSC exemplar par excellence**.",
+              "**E. Sreedharan** — Delhi Metro/Konkan Railway: punctuality as ethics, reverse-clock accountability, resignation offers owning accidents.",
+              "**T.N. Seshan** — institutional self-respect: voter ID, MCC enforcement — showed that statutes sleep until character wakes them.",
+              "**Armstrong Pame** (the 'Miracle Road' via crowdfunding), **Vinod Rai** (audit assertiveness — with the debate on audit overreach as balance), **Kiran Bedi** (prison reform at Tihar), **Ashok Khemka / Ashok Kumar-style** transfer-punished probity — persistence under penalty.",
+              "**Reformers of Andhra**: **Kandukuri Veeresalingam** (widow remarriage, 1881 — the first in coastal Andhra; social reform through journalism), **Gurajada Apparao** ('desamante matti kaadoi, desamante manushuloi' — a nation is its people, not soil), **Potti Sriramulu** (fast unto death, 1952 — self-sacrifice that redrew India's map and created Andhra State, 1953).",
+              "**Lesson-extraction method**: for each figure state (a) the value, (b) the price paid (every exemplar paid one), (c) the administrative translation — what YOU would do differently in office because of them."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Exemplary life] --> B[Value made visible]\n  B --> C[Price paid - office, comfort, life]\n  C --> D[Credibility - ethics with evidence]\n  D --> E[Imitation by observers - Bandura]\n  E --> F[Institutional culture shifts]\n  F --> G[Next generation's baseline rises]"
+          }
+        ]
+      },
+      {
+        "heading": "Using exemplars in answers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "In **case studies**, invoke an exemplar's principle, not biography: 'Gandhi's talisman suggests weighing the weakest stakeholder' — one line, then apply.",
+              "In **theory answers**, pair Indian + international, historic + serving, national + **Andhra** (Veeresalingam/Sriramulu/Sankaran) — three pairings signal range.",
+              "Balance requirement: acknowledge exemplars' complexity (Gandhi's failed experiments, Seshan's abrasiveness) — hagiography reads weaker than 'value + price + limitation'."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Prepare a personal 8-figure matrix (2 freedom-era, 2 reformers incl. one Andhra, 2 administrators incl. Sankaran, 2 international) with one incident and one quote each. That single asset serves ethics theory, case studies AND the essay paper."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Gandhi's talisman**: recall the face of the poorest man and ask if your step restores his control over his life.",
+      "**Potti Sriramulu's** 58-day fast (died 15 Dec 1952) led to **Andhra State (1 Oct 1953)** — the first linguistic state.",
+      "**Kandukuri Veeresalingam** conducted the first widow remarriage in coastal Andhra (**1881**); journal: *Vivekavardhini*.",
+      "**Gurajada Apparao** — *Kanyasulkam* (1892), the classic Telugu social-reform play against bride-price.",
+      "**S.R. Sankaran** was among the architects of the **SC/ST Special Component Plan** and the bonded-labour abolition framework (1976 Act follow-through).",
+      "**Shastri resigned** as Railway Minister owning moral responsibility (1956) — the touchstone of ministerial accountability.",
+      "**Savitribai Phule** — first Indian woman teacher; first girls' school, Pune, **1848**."
+    ],
+    "mainsAngles": [
+      "Exemplary lives are ethics made visible — discuss how role models shape administrative conduct, with Indian illustrations.",
+      "Compare the leadership ethics of Gandhi and Ambedkar; what does each offer a modern civil servant?",
+      "Great administrators institutionalise their values — examine with S.R. Sankaran, T.N. Seshan and E. Sreedharan.",
+      "Andhra's reformers — Veeresalingam to Potti Sriramulu — changed society before the state did; analyse their methods and price.",
+      "'Every exemplar paid a price' — discuss why costliness is central to moral credibility in public life."
+    ],
+    "glossary": [
+      { "term": "Role model", "definition": "A person whose observed conduct becomes a template for others' behaviour — the operative mechanism of social learning in ethics." },
+      { "term": "Gandhi's talisman", "definition": "The decision test of recalling the weakest person one has seen and asking whether the contemplated act helps them." },
+      { "term": "Moral courage", "definition": "Willingness to act rightly at personal cost — the differentiator between held values and lived ones." },
+      { "term": "Exemplarist ethics", "definition": "Moral theory (Zagzebski) that grounds ethics in admiration of exemplars rather than abstract rules." },
+      { "term": "Special Component Plan", "definition": "Earmarking of plan funds proportionate to SC population — an institutional-justice innovation associated with S.R. Sankaran's cohort." }
+    ]
+  }
+]
