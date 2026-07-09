@@ -29,9 +29,7 @@ export async function getSyllabusTree(
          id, paper_id, name, sort_order, status, created_at, updated_at,
          topics (
            id, subject_id, name, sort_order, status, created_at, updated_at,
-           microthemes (
-             id, topic_id, name, code, slug, sort_order, status, created_at, updated_at
-           )
+           microthemes (*)
          )
        )`
     )

@@ -17,6 +17,7 @@ import { PrelimsQuestionCard } from "@/components/pyq/prelims-question-card";
 import { MainsQuestionCard } from "@/components/pyq/mains-question-card";
 import { LeafDivider } from "@/components/decor/ornaments";
 import { AutumnScene } from "@/components/living/autumn-scene";
+import { CoverageChips } from "@/components/app/coverage-chips";
 import type { CorrectOption } from "@/lib/database.types";
 
 export const dynamic = "force-dynamic";
@@ -70,8 +71,9 @@ export default async function MicrothemePage({
       <h1 className="mt-4 font-display text-3xl font-medium leading-[1.15] tracking-tight sm:text-4xl">
         {microtheme.name}
       </h1>
-      <p className="mt-2 font-mono text-xs tracking-wider text-primary/80">
+      <p className="mt-2 flex flex-wrap items-center gap-2 font-mono text-xs tracking-wider text-primary/80">
         {microtheme.code}
+        <CoverageChips microtheme={microtheme} size="md" />
       </p>
 
       {/* 1. Notes */}

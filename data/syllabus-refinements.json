@@ -1,0 +1,154 @@
+{
+  "version": "2.0",
+  "rationale": "Audit of appsc_syllabus.json against the official APPSC Group-I 2018 syllabus (data/GroupI_Syllabus_2018.pdf). Fixes: (1) freedom-struggle landmark depth — constitutional developments and the three Gandhian mass movements were compressed into two overloaded nodes; (2) overbroad Paper-IV/V sessions split to one-sitting size; (3) 19th-c reformers split; (4) practical current-affairs organisation; (5) every node enriched with priority / est_minutes / exam_overlap so students can plan coverage.",
+  "renames": [
+    {
+      "code": "MN-PII-HCOI-035",
+      "theme": "Gandhian Era",
+      "micro_theme": "Rowlatt Act, Jallianwala Bagh; Non-Cooperation & Khilafat movements"
+    },
+    {
+      "code": "PRE-PI-HC-047",
+      "theme": "Gandhian Era",
+      "micro_theme": "Champaran to Non-Cooperation: early Gandhian satyagrahas"
+    },
+    {
+      "code": "MN-PII-HCOI-031",
+      "theme": "Reform Movements",
+      "micro_theme": "19th-c socio-religious reform: Raja Ram Mohan Roy, Dayananda, Vivekananda"
+    },
+    {
+      "code": "MN-PIV-II-048",
+      "theme": "Energy & Urban",
+      "micro_theme": "Energy & power infrastructure in India"
+    },
+    {
+      "code": "MN-PV-ED-023",
+      "theme": "Natural Resources",
+      "micro_theme": "Natural resources: renewable vs non-renewable; forest, fishery, fossil fuels & minerals"
+    }
+  ],
+  "additions": [
+    {
+      "after": "MN-PII-HCOI-035",
+      "paper": "Paper-II: History, Culture & Geography (India & AP)",
+      "section": "History & Culture of India",
+      "unit_no": "4",
+      "unit": "British Rule & Reform",
+      "theme": "Gandhian Era",
+      "micro_theme": "Civil Disobedience, Dandi March & Round Table Conferences",
+      "cognitive_level": "Analytical",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "MN-PII-HCOI-035+1",
+      "paper": "Paper-II: History, Culture & Geography (India & AP)",
+      "section": "History & Culture of India",
+      "unit_no": "4",
+      "unit": "British Rule & Reform",
+      "theme": "Gandhian Era",
+      "micro_theme": "Quit India Movement, INA & Subhash Chandra Bose",
+      "cognitive_level": "Analytical",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "MN-PII-HCOI-037",
+      "paper": "Paper-II: History, Culture & Geography (India & AP)",
+      "section": "History & Culture of India",
+      "unit_no": "5",
+      "unit": "Nationalism & Independence",
+      "theme": "Constitutional Developments",
+      "micro_theme": "Acts of 1909, 1919 & 1935; Simon Commission, Cripps & Cabinet Mission",
+      "cognitive_level": "Conceptual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "MN-PII-HCOI-031",
+      "paper": "Paper-II: History, Culture & Geography (India & AP)",
+      "section": "History & Culture of India",
+      "unit_no": "4",
+      "unit": "British Rule & Reform",
+      "theme": "Reform Movements",
+      "micro_theme": "19th-c socio-religious reform: Annie Besant, Sir Syed Ahmad Khan & others",
+      "cognitive_level": "Conceptual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "PRE-PI-HC-047",
+      "paper": "Paper-I: General Studies",
+      "section": "History & Culture",
+      "unit_no": "6",
+      "unit": "Modern India III",
+      "theme": "Gandhian Era",
+      "micro_theme": "Civil Disobedience & Quit India movements; INA",
+      "cognitive_level": "Conceptual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "PRE-PI-HC-045",
+      "paper": "Paper-I: General Studies",
+      "section": "History & Culture",
+      "unit_no": "5",
+      "unit": "Modern India II",
+      "theme": "Constitutional Developments",
+      "micro_theme": "Constitutional acts & missions 1909–1947 (Morley-Minto to Cabinet Mission)",
+      "cognitive_level": "Factual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "MN-PIV-II-048",
+      "paper": "Paper-IV: Economy & Development (India & AP)",
+      "section": "Infrastructure India",
+      "unit_no": "11",
+      "unit": "Infrastructure India",
+      "theme": "Energy & Urban",
+      "micro_theme": "Urban infrastructure: smart cities, urban environment & solid-waste management",
+      "cognitive_level": "Conceptual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "MN-PV-ED-023",
+      "paper": "Paper-V: Science & Technology",
+      "section": "Environment & Development",
+      "unit_no": "5",
+      "unit": "Environment",
+      "theme": "Natural Resources",
+      "micro_theme": "Water resources & watershed management; land resources, soils & soil reclamation",
+      "cognitive_level": "Conceptual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "PRE-PII-CE-058",
+      "paper": "Paper-II: General Aptitude",
+      "section": "Current Events",
+      "unit_no": "23",
+      "unit": "Current Affairs",
+      "theme": "Practical Organisation",
+      "micro_theme": "Government schemes & policies in news (India & AP): rolling revision",
+      "cognitive_level": "Factual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "PRE-PII-CE-058+1",
+      "paper": "Paper-II: General Aptitude",
+      "section": "Current Events",
+      "unit_no": "23",
+      "unit": "Current Affairs",
+      "theme": "Practical Organisation",
+      "micro_theme": "Reports, indices & rankings in news: rolling revision",
+      "cognitive_level": "Factual",
+      "in_both_prelims_mains": true
+    },
+    {
+      "after": "PRE-PII-CE-058+2",
+      "paper": "Paper-II: General Aptitude",
+      "section": "Current Events",
+      "unit_no": "23",
+      "unit": "Current Affairs",
+      "theme": "Practical Organisation",
+      "micro_theme": "Awards, persons, places & defence exercises in news: rolling revision",
+      "cognitive_level": "Factual",
+      "in_both_prelims_mains": true
+    }
+  ]
+}

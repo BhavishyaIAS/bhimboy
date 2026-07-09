@@ -50,6 +50,10 @@ export interface Microtheme {
   slug: string;
   sort_order: number;
   status: ContentStatus;
+  // Coverage-plan metadata (added in migration 0004; optional until run)
+  priority?: 1 | 2 | 3; // 1 core · 2 important · 3 supporting
+  est_minutes?: number | null;
+  exam_overlap?: boolean;
   created_at: string;
   updated_at: string;
 }

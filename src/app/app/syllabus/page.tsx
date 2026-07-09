@@ -11,6 +11,7 @@ import { Badge } from "@/components/ui/badge";
 import { getSyllabusTree } from "@/lib/queries";
 import { ForestScene } from "@/components/living/forest-scene";
 import { Lotus } from "@/components/decor/ornaments";
+import { CoverageChips, paperTotals } from "@/components/app/coverage-chips";
 
 export const metadata: Metadata = { title: "Syllabus" };
 export const dynamic = "force-dynamic";
@@ -35,6 +36,12 @@ export default async function SyllabusExplorerPage() {
       <p className="relative mt-1.5 text-sm text-muted-foreground">
         The living syllabus. Walk it paper by paper — every branch a topic,
         every leaf a micro‑theme. Nothing here competes; everything belongs.
+      </p>
+      <p className="relative mt-2 text-xs text-muted-foreground">
+        <span className="font-medium text-ember">core</span> = start here
+        (highest yield) · <span className="font-medium text-emerald-700">P+M</span>{" "}
+        = counts for Prelims and Mains — study once, use twice · the clock is
+        one honest sitting.
       </p>
 
       {!hasContent && (
@@ -64,13 +71,24 @@ export default async function SyllabusExplorerPage() {
                   const subjects = (paper.subjects ?? []).filter(
                     (s) => (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0)
                   );
+                  const allMicros = (paper.subjects ?? []).flatMap((s) =>
+                    (s.topics ?? []).flatMap((t) => t.microthemes ?? [])
+                  );
+                  const totals = paperTotals(allMicros);
                   return (
                     <div
                       key={paper.id}
                       className="overflow-hidden rounded-2xl border bg-card/85 shadow-sm backdrop-blur"
                     >
-                      <div className="border-b bg-gradient-to-r from-accent/70 to-transparent px-5 py-3.5">
+                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 border-b bg-gradient-to-r from-accent/70 to-transparent px-5 py-3.5">
                         <h3 className="font-display font-semibold">{paper.name}</h3>
+                        {allMicros.length > 0 && (
+                          <span className="text-xs text-muted-foreground">
+                            {allMicros.length} micro-theme
+                            {allMicros.length === 1 ? "" : "s"}
+                            {totals ? ` · ${totals}` : ""}
+                          </span>
+                        )}
                       </div>
                       {subjects.length === 0 ? (
                         <p className="px-5 py-4 text-sm italic text-muted-foreground">
@@ -107,9 +125,10 @@ export default async function SyllabusExplorerPage() {
                                                 <span className="flex-1 text-sm">
                                                   {m.name}
                                                 </span>
+                                                <CoverageChips microtheme={m} />
                                                 <Badge
                                                   variant="outline"
-                                                  className="hidden font-mono text-[10px] text-muted-foreground sm:inline-flex"
+                                                  className="hidden font-mono text-[10px] text-muted-foreground lg:inline-flex"
                                                 >
                                                   {m.code}
                                                 </Badge>
