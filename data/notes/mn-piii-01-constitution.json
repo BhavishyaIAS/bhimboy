@@ -1,0 +1,340 @@
+[
+  {
+    "code": "MN-PIII-PC-001",
+    "sections": [
+      {
+        "heading": "The making — facts the examiner starts with",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Constitution was framed by the **Constituent Assembly**, set up under the **Cabinet Mission Plan, 1946**. It took **2 years, 11 months and 18 days**, was **adopted on 26 November 1949** (celebrated as **Constitution Day / Samvidhan Divas**) and came fully into force on **26 January 1950** — the date chosen to honour the **Purna Swaraj** resolution of 1930. **Dr. B.R. Ambedkar** chaired the **Drafting Committee**; **Dr. Rajendra Prasad** presided over the Assembly. The **Objectives Resolution**, moved by **Jawaharlal Nehru on 13 December 1946** and adopted on **22 January 1947**, became the philosophical soul of the Preamble."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Originally: **395 Articles, 22 Parts, 8 Schedules**. Today (after ~106 amendments): about **470 Articles, 25 Parts, 12 Schedules** — the **lengthiest written constitution** of any sovereign state.",
+              "Reasons for length: geographical vastness and diversity, a **single constitution for Union and States**, the heavy imprint of the **Government of India Act, 1935**, and inclusion of administrative detail to avoid ambiguity."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Salient features at a glance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Feature", "What it means", "Key anchor"],
+            "rows": [
+              ["Lengthiest written constitution", "Single document for Union + States, detailed administration", "395→~470 Articles"],
+              ["Blend of rigidity & flexibility", "Some provisions by special majority, some by simple majority, some need state ratification", "**Article 368**, Part XX"],
+              ["Parliamentary government", "Executive responsible to legislature; nominal vs real executive", "**Articles 74, 75, 163, 164**"],
+              ["Federal system with unitary bias", "Dual polity, but strong Centre", "**'quasi-federal' — K.C. Wheare**"],
+              ["Integrated & independent judiciary", "Single hierarchy with Supreme Court at apex, enforces Union and state laws", "**Articles 124–147, 214–231**"],
+              ["Fundamental Rights", "Justiciable limitations on the State", "**Part III (Arts 12–35)**"],
+              ["Directive Principles", "Non-justiciable goals of a welfare state", "**Part IV (Arts 36–51)**"],
+              ["Fundamental Duties", "Added by **42nd Amendment, 1976** on **Swaran Singh Committee** advice", "**Part IV-A, Art 51A** (11 duties after 86th Amdt)"],
+              ["Secular state", "No state religion; equal respect to all — 'principled distance'", "**Arts 25–28**; word added 1976"],
+              ["Universal adult franchise", "Every citizen 18+ votes (61st Amendment reduced from 21)", "**Article 326**"],
+              ["Single citizenship", "Only Indian citizenship, unlike the USA", "**Part II (Arts 5–11)**"],
+              ["Emergency provisions", "Converts federal structure into unitary during crises", "**Arts 352, 356, 360**"],
+              ["Three-tier government", "Panchayats and Municipalities constitutionalised, 1992", "**73rd & 74th Amendments; Parts IX, IX-A**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Sources — 'a bag of borrowings'?",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Source", "Provisions taken"],
+            "rows": [
+              ["**Government of India Act, 1935**", "Federal scheme, office of Governor, judiciary, Public Service Commissions, emergency provisions, administrative detail (the largest single source)"],
+              ["**Britain**", "Parliamentary system, rule of law, legislative procedure, single citizenship, cabinet system, prerogative writs, bicameralism"],
+              ["**USA**", "Fundamental Rights, judicial review, independence of judiciary, impeachment of President, removal of judges, post of Vice-President"],
+              ["**Ireland**", "Directive Principles, nomination of members to Rajya Sabha, method of electing the President"],
+              ["**Canada**", "Federation with a strong Centre, residuary powers with the Centre, Centre-appointed Governors, advisory jurisdiction of Supreme Court"],
+              ["**Australia**", "Concurrent List, freedom of inter-state trade (**Art 301**), joint sitting of the two Houses"],
+              ["**USSR**", "Fundamental Duties, ideals of justice (social, economic, political) in the Preamble"],
+              ["**France**", "Republic; ideals of liberty, equality, fraternity"],
+              ["**Germany (Weimar)**", "Suspension of Fundamental Rights during Emergency"],
+              ["**South Africa**", "Procedure for amendment, election of Rajya Sabha members"],
+              ["**Japan**", "'Procedure established by law' (**Article 21**)"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "The 'bag of borrowings' jibe misses the point: the framers practised **creative adaptation, not imitation** — every borrowed device was modified to Indian conditions (e.g. the American 'due process' was deliberately replaced by the Japanese 'procedure established by law' to balance liberty with social reform)."
+          }
+        ]
+      },
+      {
+        "heading": "The Preamble — identity card of the Constitution",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Preamble declares India a **Sovereign, Socialist, Secular, Democratic Republic** securing **Justice, Liberty, Equality and Fraternity**. The words **'Socialist', 'Secular'** and **'Integrity'** were inserted by the **42nd Amendment, 1976** — the only amendment of the Preamble so far. Judicial journey: **Berubari Union case (1960)** — Preamble is *not* part of the Constitution; **Kesavananda Bharati (1973)** — reversed, Preamble *is* part of the Constitution and embodies the **basic structure**; **LIC of India (1995)** — reaffirmed, though it is non-justiciable and confers no power."
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Indian Constitution] --> B[Part III: Fundamental Rights - justiciable]\n  A --> C[Part IV: Directive Principles - non-justiciable]\n  A --> D[Part IVA: Fundamental Duties - 11 duties]\n  B --> E[Courts enforce via Art 32 and Art 226]\n  C --> F[Guide state policy - welfare state]\n  D --> G[Moral obligations of citizens]\n  E --> H[Balance: Minerva Mills 1980 - harmony between FRs and DPSPs is basic structure]\n  F --> H"
+          }
+        ]
+      },
+      {
+        "heading": "The Andhra Pradesh dimension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Article 371D** (inserted by the **32nd Amendment, 1973**, after the Jai Andhra/Telangana agitations) empowers the President to provide **equitable opportunities in public employment and education** across regions of AP — basis of the **Presidential Order (1975)**, local cadres, and the **AP Administrative Tribunal**. It continues to apply to both AP and Telangana after 2014.",
+              "The **AP Reorganisation Act, 2014** — enacted under **Articles 3 and 4** by simple majority — is the living proof that India is 'an **indestructible Union of destructible states**'.",
+              "**Fifth Schedule** applies to the Scheduled Areas of AP (agency areas of Alluri Sitharama Raju, Parvathipuram Manyam, Eluru, ASR district etc.), giving the Governor special report duties."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For any 'salient features' question, structure the answer as written-ness → blend of rigidity/flexibility → parliamentary → federal-with-unitary-bias → rights/duties/DPSP trinity → independent judiciary, and close with Granville Austin's phrase that the Constitution is 'first and foremost a social document'."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Constituent Assembly first met **9 December 1946**; Dr. Sachchidananda Sinha was interim President, **Dr. Rajendra Prasad** permanent President.",
+      "**Objectives Resolution**: moved 13 Dec 1946 by Nehru, adopted 22 Jan 1947.",
+      "Drafting Committee (29 Aug 1947) had **7 members**, chaired by **B.R. Ambedkar**.",
+      "Adopted **26 Nov 1949**; Articles 5, 6, 8, 9, 60, 324, 366, 367, 379 etc. came into force immediately; the rest on **26 Jan 1950**.",
+      "Preamble amended only once — **42nd Amendment 1976** (Socialist, Secular, Integrity).",
+      "**Article 371D** is AP-specific (extended to Telangana by the 2014 Act); inserted by the **32nd Amendment, 1973**.",
+      "National emblem's motto **'Satyameva Jayate'** is from the **Mundaka Upanishad**; the design was adopted on 26 January 1950."
+    ],
+    "mainsAngles": [
+      "'The Indian Constitution is a bag of borrowings' — critically examine (line: borrowed forms, indigenous spirit; creative adaptation).",
+      "Discuss how the Constitution blends rigidity with flexibility, with reference to Article 368 and judicial review of amendments.",
+      "'Federal in form, unitary in spirit' — evaluate this description of the Indian Constitution (Wheare vs Austin vs Bommai).",
+      "Examine the continuing relevance of Article 371D for Andhra Pradesh after the 2014 bifurcation.",
+      "Granville Austin called the Constitution 'a social document' — substantiate with reference to Parts III and IV."
+    ],
+    "glossary": [
+      { "term": "Preamble", "definition": "The introductory statement of the Constitution declaring its source (We, the People), the nature of the polity (Sovereign, Socialist, Secular, Democratic Republic) and its objectives (Justice, Liberty, Equality, Fraternity); part of the Constitution per Kesavananda Bharati (1973) but non-justiciable." },
+      { "term": "Basic structure doctrine", "definition": "Doctrine laid down in Kesavananda Bharati (1973) that Parliament may amend any part of the Constitution under Article 368 but cannot destroy its basic features (e.g., supremacy of the Constitution, secularism, judicial review, federalism)." },
+      { "term": "Procedure established by law", "definition": "Article 21 standard (borrowed from Japan) under which the State may deprive a person of life or liberty by a validly enacted procedure; after Maneka Gandhi (1978) the procedure must also be just, fair and reasonable — importing due-process content." },
+      { "term": "Quasi-federal", "definition": "K.C. Wheare's description of India: a system federal in form but with pronounced unitary features such as emergency powers, single citizenship, All-India Services and a strong Centre." },
+      { "term": "Article 371D", "definition": "Special provision (32nd Amendment, 1973) empowering the President to secure equitable opportunities in public employment and education for people of different regions of Andhra Pradesh; basis of local cadres and the AP Administrative Tribunal." },
+      { "term": "Samvidhan Divas", "definition": "Constitution Day, celebrated on 26 November every year (since 2015) marking the adoption of the Constitution in 1949." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PC-002",
+    "sections": [
+      {
+        "heading": "The constitutional design of two governments",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India has a **dual polity**: the **Union government** (Part V) and **State governments** (Part VI), each with its own executive, legislature and defined field of action. The field is demarcated by the **Seventh Schedule** read with **Articles 245–246** (territorial and subject-matter distribution) and by **Articles 73 and 162**, which make the **executive power co-extensive with legislative power** at each level."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Union", "State"],
+            "rows": [
+              ["Executive head", "**President (Arts 52–62)** — nominal head; acts on aid & advice (**Art 74**)", "**Governor (Arts 153–162)** — nominal head; aid & advice (**Art 163**)"],
+              ["Real executive", "**PM + Council of Ministers (Art 75)**, collectively responsible to Lok Sabha (**75(3)**)", "**CM + Council of Ministers (Art 164)**, responsible to Assembly (**164(2)**)"],
+              ["Extent of executive power", "**Art 73** — matters on which Parliament can legislate", "**Art 162** — matters on which the State legislature can legislate"],
+              ["Legislature", "Parliament (**Art 79**): President + RS + LS", "Legislature (**Art 168**): Governor + Assembly (+ Council in AP — bicameral)"],
+              ["Size cap on ministry", "≤ **15% of Lok Sabha strength** (**91st Amendment, 2003**)", "≤ 15% of Assembly strength (minimum 12 ministers)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Who does what — the Seventh Schedule",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["List", "Entries (current)", "Character", "Illustrative subjects"],
+            "rows": [
+              ["**Union List (List I)**", "**100** (originally 97)", "National importance; Parliament alone", "Defence, foreign affairs, atomic energy, currency, railways, banking, communications, census, citizenship"],
+              ["**State List (List II)**", "**61** (originally 66)", "Local/regional importance; State legislates (Parliament can intrude via **Arts 249, 250, 252, 253, 356**)", "Public order, **police**, public health, agriculture, land, prisons, local government, markets"],
+              ["**Concurrent List (List III)**", "**52** (originally 47)", "Both; Union law prevails on repugnancy (**Art 254**)", "Criminal law & procedure, marriage, education, forests, trade unions, electricity, population control"]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Residuary power** is with the Union (**Art 248; Entry 97 List I**) — the Canadian model.",
+              "The **42nd Amendment (1976)** shifted five subjects to the Concurrent List: **education, forests, weights & measures, protection of wild animals & birds, administration of justice**.",
+              "In a conflict, **predominance runs Union List → Concurrent List → State List**."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Duties of the Union towards the States",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Art 355** — duty of the Union to **protect states** against external aggression and internal disturbance, and to ensure state government is carried on per the Constitution.",
+              "**Arts 256–257** — states must comply with Union laws; the Union may give **directions**; failure can invite **Art 365 → Art 356** consequences.",
+              "**Art 275 & 280** — statutory grants and Finance Commission devolution: the fiscal duty of the Union to correct imbalance.",
+              "**Art 263** — Inter-State Council to coordinate; **Art 262** — adjudication of inter-state river water disputes."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Constitution: Arts 245-246 + Seventh Schedule] --> B[Union List 100 - Parliament]\n  A --> C[State List 61 - State Legislature]\n  A --> D[Concurrent List 52 - Both]\n  D --> E[Repugnancy: Union law prevails - Art 254]\n  C --> F[Exceptions: Arts 249 250 252 253 - Parliament enters State List]\n  A --> G[Residuary: Art 248 with Union]"
+          }
+        ]
+      },
+      {
+        "heading": "The AP dimension — a state built by these provisions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The **AP Reorganisation Act, 2014** imposed specific **duties on the Union towards AP**: special assistance for **backward districts (Rayalaseema & north-coastal AP)**, declaring **Polavaram** a **national project**, tax incentives, and establishing Schedule-13 institutions (IIT Tirupati, IIM Visakhapatnam, NIT Tadepalligudem, IIIT, Central University of AP at Anantapur, AIIMS Mangalagiri, IISER Tirupati, etc.).",
+              "AP is one of the six states with a **Legislative Council (Art 169)** — revived in 2007, giving it a bicameral legislature.",
+              "Everyday governance in AP illustrates the lists: **police and land** (State List) run village/ward secretariats and revenue administration, while **railways, ports (major), telecom** (Union List) shape Visakhapatnam's economy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: When asked about 'functions and duties' of governments, do NOT just reproduce the lists — organise the answer as (1) constitutional demarcation, (2) executive co-extensiveness (Arts 73/162), (3) the Union's protective and fiscal duties towards states, and (4) one live illustration (AP Reorganisation Act obligations works perfectly)."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Executive power of the Union is vested in the **President (Art 53)**; of the state in the **Governor (Art 154)**.",
+      "Council of Ministers headed by PM must **aid and advise** the President — advice binding after the **42nd/44th Amendments** (Art 74).",
+      "Union List **100 entries**, State List **61**, Concurrent List **52** (post-42nd Amendment shifts).",
+      "**Residuary powers**: Art 248 read with **Entry 97, Union List**.",
+      "Ministry size capped at **15% of the lower House** by the **91st Amendment, 2003**.",
+      "**Art 355** — Union's duty to protect states; **Art 365** — consequence of not complying with Union directions.",
+      "**Polavaram** was declared a national project under the **AP Reorganisation Act, 2014**."
+    ],
+    "mainsAngles": [
+      "Discuss the scheme of distribution of executive powers between the Union and the States, and how Articles 256–257 tilt it towards the Centre.",
+      "'The Union's duty under Article 355 is both a shield and a sword' — critically examine with reference to its use to justify Article 356.",
+      "Examine whether the 42nd Amendment's transfer of education and forests to the Concurrent List strengthened governance or weakened federalism.",
+      "Evaluate the Union government's discharge of its statutory obligations to Andhra Pradesh under the AP Reorganisation Act, 2014."
+    ],
+    "glossary": [
+      { "term": "Dual polity", "definition": "Constitutional arrangement of two levels of government — Union and State — each deriving authority directly from the Constitution and acting within its own demarcated sphere." },
+      { "term": "Co-extensiveness of executive power", "definition": "Principle in Articles 73 and 162 that a government's executive power extends to all matters on which its legislature can make laws." },
+      { "term": "Repugnancy (Art 254)", "definition": "Conflict between a Union and a State law on a Concurrent List subject; the Union law prevails, unless the State law received Presidential assent (and even then Parliament can override)." },
+      { "term": "Residuary powers", "definition": "Power to legislate on matters not enumerated in any of the three lists; vested in Parliament under Article 248 and Entry 97 of the Union List." },
+      { "term": "Collective responsibility", "definition": "Principle (Arts 75(3), 164(2)) that the Council of Ministers stands or falls together, answerable to the directly elected House." }
+    ]
+  },
+  {
+    "code": "MN-PIII-PC-003",
+    "sections": [
+      {
+        "heading": "How federal is India?",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Constitution nowhere uses the word 'federation' — **Article 1** calls India a **'Union of States'**, signalling (per Ambedkar) that the federation is **not the result of an agreement** and that **no state may secede**. India displays all classical federal features — **dual polity, written constitution, division of powers, constitutional supremacy, rigidity, independent judiciary, bicameralism** — alongside pronounced **unitary features**."
+          },
+          {
+            "type": "table",
+            "headers": ["Federal features", "Unitary tilt"],
+            "rows": [
+              ["Division of powers (Seventh Schedule)", "**Art 3**: Parliament alone alters state boundaries/names — 'indestructible Union of destructible states'"],
+              ["Written, supreme, rigid Constitution", "**Emergency provisions (Arts 352/356/360)** convert the polity into a unitary one"],
+              ["Independent integrated judiciary", "**Single citizenship**; single integrated judiciary; **All-India Services (Art 312)**"],
+              ["Bicameralism — Rajya Sabha represents states", "**Governor** as Centre's agent; reservation of bills (**Arts 200–201**)"],
+              ["Direct election of both levels", "Unequal Rajya Sabha representation; residuary powers with the Centre; **fiscal dependence of states**"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "Verdicts: **K.C. Wheare** — 'quasi-federal'; **Granville Austin** — '**cooperative federalism**'; **Ivor Jennings** — 'federation with a strong centralising tendency'; and the Supreme Court in **S.R. Bommai (1994)** — **federalism is part of the basic structure**."
+          }
+        ]
+      },
+      {
+        "heading": "The live issues and challenges",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Office of the Governor** — partisan appointments, sitting on bills (Arts 200–201), discretion in hung assemblies. **Punchhi Commission (2010)** recommended a fixed 5-year term and removal only through impeachment-like process; **SC in State of Punjab v. Governor (2023)** held Governors cannot indefinitely withhold assent.",
+              "**Misuse of Article 356** — used over 130 times, curbed by **S.R. Bommai (1994)**: floor test is the venue for testing majority; proclamation is judicially reviewable.",
+              "**Fiscal federalism** — vertical imbalance (states incur ~60% of expenditure but raise ~40% of revenue); mounting **cesses and surcharges** (outside the divisible pool) shrink states' effective share below the **41% recommended by the 15th Finance Commission**.",
+              "**GST and lost autonomy** — states surrendered sales-tax powers to the **GST Council (Art 279A)**; the end of guaranteed compensation (2022) and the **Mohit Minerals (2022)** ruling (Council recommendations are not binding — 'cooperative federalism is a dialogue') keep this contested.",
+              "**Concurrent-List creep** — central laws on state-list-adjacent fields (e.g., the three farm laws, 2020–21, touching agricultural markets) provoke friction.",
+              "**Inter-state river water disputes (Art 262)** — the **Krishna (KWDT-I & II)** and **Godavari** tribunals are existential for AP; the **AP–Telangana** sharing dispute after 2014 remains unresolved; the Krishna River Management Board's jurisdiction was notified only in 2021.",
+              "**Institutional atrophy** — the **Inter-State Council (Art 263)**, created on Sarkaria's advice in 1990, meets rarely; **NITI Aayog** (2015) replaced Planning Commission transfers with a think-tank role, weakening a fiscal channel while promoting '**competitive federalism**' (rankings, Aspirational Districts).",
+              "**Special Category Status** — abolished as a general mechanism after the 14th Finance Commission; **AP's continuing demand for SCS**, promised on the floor of the Rajya Sabha in 2014, is the sharpest current illustration of trust deficit in Union–state relations."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Challenges to Indian federalism] --> B[Political: Governor and Art 356]\n  A --> C[Fiscal: cesses, GST, FC devolution]\n  A --> D[Administrative: AIS control, central schemes]\n  A --> E[Jurisdictional: concurrent creep, river disputes]\n  B --> F[Reforms: Sarkaria and Punchhi norms, Bommai review]\n  C --> G[Reforms: widen divisible pool, honour compensation]\n  D --> H[Reforms: flexibility in CSS, consult states]\n  E --> I[Reforms: activate Inter-State Council Art 263]"
+          }
+        ]
+      },
+      {
+        "heading": "Committees and the way forward",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Body", "Year", "Core recommendations"],
+            "rows": [
+              ["**Administrative Reforms Commission (I)**", "1966–70", "Inter-State Council; guidelines for Governors"],
+              ["**Sarkaria Commission**", "1983–88", "Art 356 as a **last resort**; consultation with CM before appointing Governor; permanent Inter-State Council (created 1990)"],
+              ["**Punchhi Commission**", "2007–10", "Fixed tenure for Governors; 'localised emergency'; Governor's discretion narrowed; National Integration Council reforms"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "Way forward: institutionalise the **Inter-State Council** as the apex dialogue forum, widen the **divisible pool** to include cesses, time-bound gubernatorial assent, respect the **Bommai** discipline, and treat the GST Council's dialogic model — 'cooperative federalism as a **dialogue**' (Mohit Minerals) — as the template. Federalism, as Austin said, must remain **cooperative in structure and bargaining in spirit**."
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: An APPSC answer on federal challenges that cites the AP-specific wounds — Special Category Status, Krishna water sharing, pending Reorganisation Act promises — alongside Bommai and the Finance Commission will always outscore a generic all-India answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Article 1**: 'India, that is Bharat, shall be a Union of States' — term 'federation' absent.",
+      "**S.R. Bommai v. Union of India (1994)**: federalism & secularism are basic structure; Art 356 judicially reviewable; majority tested on the floor.",
+      "**Art 263** Inter-State Council — set up 1990 on **Sarkaria Commission** recommendation.",
+      "**Art 279A** GST Council — created by the **101st Amendment, 2016**; SC in **Mohit Minerals (2022)** held its recommendations are not binding.",
+      "**15th Finance Commission** (chair: **N.K. Singh**) recommended **41% devolution** (1% adjusted for J&K UTs).",
+      "**Zonal Councils** are **statutory** (States Reorganisation Act, 1956), not constitutional; AP is in the **Southern Zonal Council**.",
+      "**KWDT-I (Bachawat, 1976)** and **KWDT-II (Brijesh Kumar)** govern Krishna water allocation affecting AP."
+    ],
+    "mainsAngles": [
+      "'Indian federalism is a dialogue, not a decree' — discuss in the light of the GST Council and Mohit Minerals (2022).",
+      "Critically examine the office of the Governor as the weakest link in Union–State relations, with recent judicial pronouncements.",
+      "Fiscal centralisation through cesses and surcharges is hollowing out Finance Commission devolution — evaluate.",
+      "Andhra Pradesh's post-bifurcation grievances illustrate the trust deficit in Indian federalism — analyse with reference to Special Category Status and river water disputes.",
+      "Compare cooperative and competitive federalism as operating philosophies of NITI Aayog."
+    ],
+    "glossary": [
+      { "term": "Quasi-federalism", "definition": "K.C. Wheare's characterisation of India as a polity federal in form but unitary in spirit, owing to emergency powers, Article 3, single citizenship and central fiscal dominance." },
+      { "term": "Cooperative federalism", "definition": "Union and states working as partners in shared national goals — institutionalised in the Inter-State Council, GST Council and centrally sponsored schemes." },
+      { "term": "Competitive federalism", "definition": "States competing for investment and performance rankings (e.g., Ease of Doing Business, NITI Aayog indices) as a spur to reform." },
+      { "term": "Divisible pool", "definition": "The share of central taxes distributable to states under Article 270 as recommended by the Finance Commission; cesses and surcharges lie outside it." },
+      { "term": "Special Category Status", "definition": "Erstwhile Planning-era classification giving favourable central assistance to disadvantaged states; discontinued as a general category after the 14th Finance Commission — the core of AP's post-2014 demand." },
+      { "term": "Floor test", "definition": "Proving a government's majority on the floor of the House — mandated by S.R. Bommai (1994) as the proper test instead of the Governor's subjective assessment." }
+    ]
+  }
+]
