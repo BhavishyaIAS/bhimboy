@@ -125,7 +125,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[Colonial revenue imperative] --> B[Permanent Settlement 1793 - zamindar]\n  A --> C[Ryotwari 1820 - cultivator, Munro]\n  A --> D[Mahalwari 1822-33 - village]\n  B --> E[Absentee landlordism, tenant rack-renting]\n  C --> F[Over-assessment, moneylender power]\n  D --> G[Village co-liability strain]\n  E --> H[Land = commodity; commercialisation; famines]\n  F --> H\n  G --> H\n  H --> I[Peasant movements to zamindari abolition 1948]"
+            "code": "flowchart TD\n  A[Colonial revenue imperative] --> B[Permanent Settlement 1793 - zamindar]\n  A --> C[Ryotwari 1820 - cultivator, Munro]\n  A --> D[Mahalwari 1822-33 - village]\n  B --> E[Absentee landlordism, tenant rack-renting]\n  C --> F[Over-assessment, moneylender power]\n  D --> G[Village co-liability strain]\n  E --> H[Land becomes commodity - commercialisation and famines]\n  F --> H\n  G --> H\n  H --> I[Peasant movements to zamindari abolition 1948]"
           }
         ]
       },

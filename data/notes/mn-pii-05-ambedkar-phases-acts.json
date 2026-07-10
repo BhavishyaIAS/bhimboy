@@ -204,7 +204,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[1909 - separate electorates enter] --> B[1919 - dyarchy in provinces]\n  B --> C[Simon 1927 - boycott; Nehru Report vs 14 Points]\n  C --> D[RTCs 1930-32 - Communal Award]\n  D --> E[1935 Act - provincial autonomy, stillborn federation]\n  E --> F[1937 ministries - office experience]\n  F --> G[Cripps 1942 - post-dated cheque]\n  G --> H[Cabinet Mission 1946 - grouping fails]\n  H --> I[Direct Action - Mountbatten Plan - 1947]\n  E --> J[Administrative skeleton inherited by the 1950 Constitution]"
+            "code": "flowchart TD\n  A[1909 - separate electorates enter] --> B[1919 - dyarchy in provinces]\n  B --> C[Simon 1927 boycott - Nehru Report vs 14 Points]\n  C --> D[RTCs 1930-32 - Communal Award]\n  D --> E[1935 Act - provincial autonomy, stillborn federation]\n  E --> F[1937 ministries - office experience]\n  F --> G[Cripps 1942 - post-dated cheque]\n  G --> H[Cabinet Mission 1946 - grouping fails]\n  H --> I[Direct Action - Mountbatten Plan - 1947]\n  E --> J[Administrative skeleton inherited by the 1950 Constitution]"
           }
         ]
       },
