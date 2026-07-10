@@ -1,0 +1,171 @@
+[
+  {
+    "code": "MN-PII-G-092",
+    "sections": [
+      {
+        "heading": "Disaster management — the paradigm and the machinery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The field's great shift: from **relief-centric response** to **risk-reduction across the cycle** — mitigation → preparedness → response → recovery ('build back better'). India's legal spine: the **Disaster Management Act 2005** — **NDMA** (PM-chaired) / SDMAs (CM-chaired) / DDMAs (Collector-chaired), **NDRF** (16 battalions; the world's largest dedicated force), NIDM, and the funds ladder (**NDRF/SDRF; the 15th FC's re-architecture: mitigation funds (NDMF/SDMF) alongside response — ~₹1.6 lakh crore window**). Policy stack: National Policy 2009, **NDMP 2016 (revised 2019** — the first national plan aligned to **Sendai 2015-30's** four priorities & targets), the **PM's 10-point agenda**, and India's global exports — **CDRI (2019)** and heat-action/EWS diplomacy."
+          },
+          {
+            "type": "table",
+            "headers": ["Cycle stage", "Content & instruments", "AP practice"],
+            "rows": [
+              ["**Mitigation**", "Hazard mapping-zoning, building codes, ecosystem buffers (mangroves cut surge — Coringa's proof), embankments-with-ecology", "Cyclone shelters network (from 1977's lesson), coastal shelterbelts & mangrove restoration; Polavaram-era flood-cushion debates"],
+              ["**Preparedness**", "Early-warning chains (IMD's doppler-satellite net; **Common Alerting Protocol/SACHET SMS**), mock drills, community task forces (Aapda Mitra), pre-positioning", "**RTGS-era real-time monitoring; secretariat-volunteer last-mile warning**; fishermen-return protocols; the drill culture behind zero-casualty"],
+              ["**Response**", "Incident Response System, NDRF-SDRF-forces triage, surge evacuation", "**Mass evacuations** (Hudhud ~4 lakh era; Michaung lakhs moved); Vizag's urban response test 2014"],
+              ["**Recovery**", "Build-back-better housing, livelihood restoration, PDNA (post-disaster needs assessment)", "Post-Hudhud Vizag rebuild (~₹22,000 cr damage; smart-city convergence); Titli's Srikakulam horticulture recovery lessons"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Impact assessment — and the evaluation frontier",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Impact assessment's toolkit**: rapid damage assessment (satellite + drone), **PDNA** (sectoral losses: housing-infra-livelihood-ecology), economic accounting (direct vs indirect vs macro losses — disasters cost India ~$10-15 bn/yr era estimates), and **HRVA (hazard-risk-vulnerability atlases)** feeding zoning; plus **EIA's disaster lens** — siting norms (CRZ for coasts) as ex-ante impact assessment.",
+              "**What works (evidence)**: early warning + evacuation = the mortality collapse (1977's 10,000 → Phailin/Hudhud's double digits → Michaung's near-zero); mangroves' surge attenuation (post-2004 tsunami studies); cash-based recovery beating material dole; **female task-force inclusion** improving compliance.",
+              "**Gaps (the honest audit)**: DDMA capacity (collector-overload), mitigation-fund under-use vs response bias, **urban flood governance** (Budameru 2024 — drainage encroachment as the unaddressed 'disaster before the disaster'), heat-action plans' patchiness, recovery's long-tail neglect (livelihoods after headlines), and climate-era compound risks outrunning static plans.",
+              "**Reform agenda**: risk-informed land use enforced, mitigation-fund pipelines, urban-drain audits, heat as notified disaster debate, parametric insurance (state-level cat-bonds thinking), and community-first (Sendai's 'all-of-society') — AP's volunteer capillaries as the national model for the last mile."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[DM Act 2005: NDMA-SDMA-DDMA + NDRF] --> B[Mitigation: codes, mangroves, zoning]\n  A --> C[Preparedness: EWS, drills, volunteers]\n  A --> D[Response: evacuation, IRS]\n  A --> E[Recovery: build back better, PDNA]\n  B --> F[Risk reduced before the event]\n  C --> G[Mortality collapse - AP doctrine]\n  E --> H[Impact assessment feeds next cycle]\n  F --> I[Frontier: urban floods, heat, compound risks]\n  G --> I\n  H --> B"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Spine: Act-2005 machinery + Sendai's four priorities + the cycle table + AP's doctrine + the gaps paragraph — works for 'framework', 'preparedness', 'AP model' and 'impact assessment' phrasings alike.",
+              "Numbers: 16 NDRF battalions; 15th FC ~₹1.6 lakh crore & mitigation windows; 1977→2014→2023 mortality arc; Hudhud ₹22,000 cr."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Cite Sendai's four priorities by name (understand risk; strengthen governance; invest in DRR; build back better) and map one AP practice to each — the alignment table is an instant top-band device."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**DM Act 2005**: NDMA (PM chair), SDMA (CM), DDMA (Collector); **NDRF — 16 battalions**; NIDM for capacity.",
+      "**Sendai Framework 2015-30**: four priorities, seven targets (successor to Hyogo 2005-15).",
+      "**NDMP 2016 (revised 2019)** — first national plan on Sendai lines; **PM's 10-point agenda (2016 AMCDRR)**.",
+      "**15th FC** created **mitigation funds (NDMF/SDMF)** beside response funds — total disaster window ~₹1.6 lakh crore (2021-26).",
+      "**CDRI (2019)** — India-initiated Coalition for Disaster Resilient Infrastructure; **CAP/SACHET** — the national alert system.",
+      "**Aapda Mitra** — trained community volunteers scheme; IRS = Incident Response System.",
+      "AP's cyclone-mortality arc: **1977 (~10,000) → Hudhud 2014 (double digits) → Michaung 2023 (near-zero)** — the doctrine's proof.",
+      "**PDNA** = post-disaster needs assessment — the recovery-planning instrument."
+    ],
+    "mainsAngles": [
+      "From relief to risk — trace the paradigm shift and India's DM Act architecture.",
+      "Map AP's practices onto Sendai's four priorities and certify the zero-casualty doctrine's ingredients.",
+      "Response is funded, mitigation is filed — critique India's disaster-finance bias and the 15th FC's corrective.",
+      "Assess impact-assessment instruments (PDNA, HRVA, EIA-siting) as the learning loop of disaster governance.",
+      "The next disasters are urban, hot and compound — audit preparedness beyond the cyclone success story."
+    ],
+    "glossary": [
+      { "term": "Disaster-management cycle", "definition": "The mitigation-preparedness-response-recovery loop — governance across risk's whole life, not just its eruption." },
+      { "term": "Sendai Framework", "definition": "The 2015-30 global DRR compact — four priorities and seven targets from understanding risk to building back better." },
+      { "term": "Early-warning system", "definition": "The detection-decision-dissemination-response chain whose last mile determines lives saved." },
+      { "term": "Build back better", "definition": "Recovery that upgrades resilience (housing, siting, livelihoods) rather than restoring vulnerability." },
+      { "term": "Mitigation fund", "definition": "Ex-ante risk-reduction financing (NDMF/SDMF) — the 15th FC's structural correction to response bias." },
+      { "term": "Parametric insurance", "definition": "Payouts triggered by hazard parameters (wind speed, rainfall) rather than assessed loss — speed for certainty trade." }
+    ]
+  },
+  {
+    "code": "MN-PII-G-093",
+    "sections": [
+      {
+        "heading": "Pollution — forms, sources, standards",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Domain", "Pollutants & sources", "Standards & instruments"],
+            "rows": [
+              ["**Air**", "**PM2.5/PM10** (combustion, dust), SO2-NOx (power, vehicles), CO, **ground-level ozone** (secondary), benzene; stubble-episodic north; India hosts most of the world's most-polluted cities lists", "**NAAQS (2009, 12 pollutants — under revision)**; **AQI (2015, 6 bands)**; **NCAP 2019** (~130 cities; 40% PM cut by 2026 vs 2017); CAQM for the NCR airshed; BS-VI leap (2020); PUSA-decomposer & paddy-shift for stubble"],
+              ["**Water**", "Sewage (~72% urban untreated-gap era; CPCB's **polluted river stretches ~311/603**), industrial effluents (CETPs' patchiness), agrochemical runoff (nitrate-fluoride-arsenic groundwater), plastics; **eutrophication** (the Kolleru textbook case)", "Water Act 1974 (CPCB/SPCBs); **Namami Gange** (~₹40,000 cr programme; STP capacity build); Jal Jeevan's quality testing; groundwater regulation (CGWA)"],
+              ["**Soil & waste**", "Heavy metals, pesticide residues (POPs), **legacy dumpsites (~3,000+ lakh tonnes)**, e-waste (~16+ lakh t/yr, world #3), plastic (~40 lakh t/yr, ~single-use ban 2022), biomedical, C&D", "**SWM Rules 2016 family** (segregation-EPR regimes: plastic-e-waste-battery EPR), **SBM 2.0's** dumpsite remediation & GFC star ratings; soil-health via fertiliser reform (nano-urea, PM-PRANAM)"],
+              ["**Noise & emerging**", "Traffic-construction-festival noise (Noise Rules 2000: 55/45 dB residential day/night); light pollution; microplastics; PFAS 'forever chemicals'; AMR as pollution's biological edge", "Rules enforcement + the frontier debate — cite one emerging pollutant to show currency"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Management — principles, tools, the AP file",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Legal-doctrinal base**: Environment (Protection) Act 1986 (the umbrella post-Bhopal), Air Act 1981, Water Act 1974, **Art 21's right to a clean environment (Subhash Kumar 1991)**, polluter-pays & precaution (**Vellore 1996**), absolute liability (**M.C. Mehta-Oleum 1987**), public trust (Kamal Nath 1997), and the **NGT (2010)** as the enforcement accelerator (compensation regimes on drains, dumps, groundwater).",
+              "**Instrument spectrum**: command-control (standards, consents, closures) → market (coal cess history, **the CPCB-style emissions trading pilots — Surat's PM-ETS, the world's first particulate market**; the **carbon-market (CCTS) rollout**) → disclosure (star-rating, PARIVESH single-window with its dilution debates) → behavioural (LiFE, segregation campaigns) — the modern mix argument: standards set floors, markets find cheap abatement, courts backstop.",
+              "**The AP pollution file**: **Visakhapatnam's industrial airshed** (pharma-steel-port cluster; the **LG Polymers styrene leak, May 2020** — 12 deaths: AP's Bhopal-echo and NGT's ₹50-crore interim liability case), **Kolleru lake's** aquaculture eutrophication and the Operation Kolleru restoration (2006 demolitions; ongoing encroachment relapse), **Godavari-Krishna delta agrochemical loads**, fluoride belts (Prakasam-Guntur groundwater), granite-quarry dust (Rayalaseema), and coastal plastic on the aqua economy — each pairs a livelihood with its externality: the state's management test is **greening without de-industrialising**.",
+              "**Way forward**: airshed (not city) management, sewage-first water strategy, EPR enforcement with recycler formalisation, continuous-monitoring transparency, health-based standard revision (WHO 2021 guidelines vs NAAQS gap), and pollution as a **public-health budget line** — the reframing that ends strong answers."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Pollution sources: combustion, sewage, waste, agrochemicals] --> B[Media: air, water, soil, noise]\n  B --> C[Health and ecosystem costs]\n  D[Law: EPA 1986, Air-Water Acts, NGT] --> E[Command and control floors]\n  F[Markets: ETS pilots, carbon scheme, EPR] --> G[Least-cost abatement]\n  H[Disclosure and behaviour: AQI, LiFE, segregation] --> I[Public pressure]\n  E --> J[Managed pollution decline]\n  G --> J\n  I --> J\n  C --> K[AP file: Vizag airshed, LG Polymers, Kolleru, fluoride]\n  K --> J"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Domain table + doctrine set (four cases) + instrument spectrum + AP file = the complete kit for 'pollution & its management' in any wording.",
+              "AP specifics to always carry: LG Polymers 2020, Kolleru eutrophication-restoration, Vizag airshed, fluoride belts — one sentence each."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The instrument-spectrum argument (floors-markets-courts-behaviour) shows conceptual command; the LG Polymers case gives AP's answer its own Bhopal-scale anchor — absolute liability applied at home."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**NCAP (2019)**: ~130 non-attainment cities; target **40% PM reduction by 2025-26** (base 2017); **AQI launched 2015** (six categories).",
+      "**BS-VI nationwide from 1 April 2020** — the leapfrog from BS-IV.",
+      "CPCB identified **~311 polluted river stretches** on 279 rivers (2022 assessment).",
+      "**Absolute liability — M.C. Mehta (Oleum, 1987)**; **polluter pays & precaution — Vellore (1996)**; right to clean environment — **Subhash Kumar (1991)**.",
+      "**LG Polymers styrene leak, Visakhapatnam — 7 May 2020**; NGT's ₹50-crore interim deposit; the absolute-liability revival case.",
+      "**Kolleru** — Ramsar wetland (2002); **Operation Kolleru (2006)** demolished fish-tank encroachments; relapse remains the issue.",
+      "**Surat's particulate emissions-trading scheme** — the world's first PM market; India's **CCTS** carbon market notified 2023.",
+      "**Single-use plastic ban (1 July 2022)**; EPR regimes cover plastic, e-waste, batteries, tyres.",
+      "Noise standards: **55 dB day / 45 dB night** (residential) under the 2000 Rules."
+    ],
+    "mainsAngles": [
+      "Standards set floors, markets find savings, courts hold the line — argue the instrument mix of pollution management.",
+      "India's air strategy must move from city lists to airsheds — evaluate NCAP with the reform agenda.",
+      "Sewage is the water question — assess river-cleaning programmes against the treatment-capacity arithmetic.",
+      "Analyse AP's pollution file — Vizag's airshed, LG Polymers, Kolleru — as the greening-without-deindustrialising test.",
+      "Waste is a design failure — evaluate the EPR-SBM 2.0 architecture for circular management."
+    ],
+    "glossary": [
+      { "term": "PM2.5", "definition": "Fine particulates under 2.5 microns penetrating deep into lungs and blood — the deadliest routine pollutant." },
+      { "term": "Eutrophication", "definition": "Nutrient-overload of water bodies driving algal blooms and oxygen crashes — Kolleru's aquaculture syndrome." },
+      { "term": "Absolute liability", "definition": "The Mehta-Oleum doctrine: hazardous enterprises owe full compensation without exceptions — stricter than strict liability." },
+      { "term": "Extended Producer Responsibility", "definition": "Producers' statutory obligation for their products' end-of-life management — the waste-rules' economic engine." },
+      { "term": "Airshed management", "definition": "Governing pollution across a meteorologically connected region rather than city borders — the CAQM model's logic." },
+      { "term": "Non-attainment city", "definition": "A city persistently violating NAAQS — the NCAP's unit of mission." }
+    ]
+  }
+]
