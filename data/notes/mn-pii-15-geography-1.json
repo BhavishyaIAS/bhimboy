@@ -1,0 +1,251 @@
+[
+  {
+    "code": "MN-PII-G-089",
+    "sections": [
+      {
+        "heading": "Sustainable development — concept, measures, architecture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Sustainable development** = 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs' (**Brundtland Report, *Our Common Future*, 1987**). Three pillars — **economic, social, environmental** (planet-people-prosperity); core doctrines — **intergenerational & intragenerational equity, precautionary principle, polluter pays, common but differentiated responsibilities (CBDR)**. The institutional ladder: **Stockholm 1972** (UNEP born; India's Art 48A/51A(g) followed via the 42nd Amendment) → Brundtland 1987 → **Rio 1992** (Agenda 21; UNFCCC-CBD-UNCCD triplets) → Johannesburg 2002 → **Rio+20 (2012**, 'The Future We Want') → **SDGs 2015 (Agenda 2030: 17 goals, 169 targets)** — with India's localisation: **NITI's SDG India Index**, state indicator frameworks (AP consistently a **front-runner** category state), and district-level dashboards."
+          },
+          {
+            "type": "table",
+            "headers": ["Globalization ↔ sustainability", "Content"],
+            "rows": [
+              ["What globalization is", "Integration of trade, capital, technology, people and ideas across borders — waves: 1990s LPG-era hyper-globalisation → post-2008 slowbalisation → post-COVID **re-globalisation** (friend-shoring, resilient supply chains, digital-services globalisation)"],
+              ["Sustainability gains", "Technology diffusion (solar-cost collapse via global chains), green finance flows, norm export (ESG, Paris architecture), poverty reduction through trade (the great convergence)"],
+              ["Sustainability strains", "Carbon-intensive freight & production offshoring ('pollution havens' — emissions embedded in trade), resource extraction frontiers, homogenised consumption, race-to-the-bottom fears, and **carbon-border frictions (EU CBAM)** hitting developing exporters — the new trade-climate flashpoint"],
+              ["Reconciliations", "SDG 17's partnership frame; technology transfer & climate finance ($100 bn → NCQG debates), circular-economy trade, **India's positions**: CBDR, per-capita equity, **LiFE (lifestyle for environment)**, International Solar Alliance & CDRI — globalising solutions, not just supply chains"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The AP dimension — sustainability on the delta's edge",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Exposure**: a 974-km cyclone coast, delta salinity ingress, Kolleru's eutrophication history, Eastern-Ghats mining pressure, urban air-water stress — AP's development runs on climate's frontline.",
+              "**Response stack**: renewable leadership (solar parks, wind, the pumped-storage pipeline, green-hydrogen hubs), **APCNF natural farming** (the agro-ecological flagship), mangrove restoration (Coringa/Krishna), zero-based budgeting of ecology? no — rather **SDG institutionalisation** (AP's planning department dashboards; front-runner rankings), Jagananna-to-current-era housing with green norms, and the blue-economy framing of the port build-out (with CRZ discipline as the tension).",
+              "**Globalization's AP face**: shrimp-pharma-granite exports tie village economies to world prices (the US anti-dumping duty on shrimp as the teachable episode); Sri City's global factories; Gulf-remittance Rayalaseema; CBAM's future bite on AP's export basket — the state is a **globalisation case study in miniature**.",
+              "**The synthesis line**: for AP, sustainability is not a constraint on development but its **precondition** — a cyclone-alley, delta-fed, export-linked economy has no unsustainable path that is not also self-defeating."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Sustainable development - Brundtland 1987] --> B[Three pillars: economy, society, environment]\n  B --> C[Global architecture: Rio 1992 - SDGs 2015]\n  D[Globalization] --> E[Gains: tech diffusion, finance, convergence]\n  D --> F[Strains: embedded carbon, extraction, CBAM frictions]\n  C --> G[India: CBDR, LiFE, ISA-CDRI, SDG Index]\n  E --> G\n  F --> G\n  G --> H[AP: renewables, APCNF, mangroves, SDG front-runner]\n  H --> I[Sustainability as precondition on a cyclone coast]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Definitions + doctrine set (equity, precaution, polluter pays, CBDR) + the Stockholm→SDG ladder = the concept half; the gains-strains-reconciliation table = the globalization half; AP's exposure-response = the regional close.",
+              "Fresh hooks: CBAM, slowbalisation/friend-shoring, NCQG finance debates, LiFE — currency without ephemera."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Tie the two syllabus words together explicitly — 'globalization supplies sustainability's tools and its temptations' — and land the AP precondition line. Both examiner boxes (concept + application) get ticked."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Brundtland Commission (1983-87)** — *Our Common Future*; the canonical SD definition.",
+      "**Stockholm 1972** → UNEP; India's **42nd Amendment (1976)** inserted Arts **48A & 51A(g)**.",
+      "**Rio 1992**: Agenda 21 + the three conventions (**UNFCCC, CBD, UNCCD**); **SDGs (2015)**: 17 goals, 169 targets, horizon 2030.",
+      "**SDG India Index (NITI Aayog, 2018–)** — AP has ranked in the **front-runner** band in successive editions.",
+      "**CBAM** — the EU's carbon border adjustment (transitional 2023, definitive 2026): the trade-climate flashpoint.",
+      "**Mission LiFE (2022)**, **International Solar Alliance (2015)**, **CDRI (2019)** — India's global-solutions triad.",
+      "Doctrines: **precautionary principle & polluter pays** absorbed into Indian law via **Vellore Citizens (1996)**; **public trust** via *M.C. Mehta v. Kamal Nath (1997)*."
+    ],
+    "mainsAngles": [
+      "Define sustainable development's pillars and doctrines, and trace the Stockholm-to-SDG institutional ladder.",
+      "Globalization supplies sustainability's tools and its temptations — argue both sides with current evidence.",
+      "Carbon at the border — examine CBAM-era trade-climate frictions from a developing-economy standpoint.",
+      "For a cyclone-coast delta state, sustainability is development's precondition — substantiate with AP's exposure-response stack.",
+      "Evaluate India's SDG localisation from NITI's index to district dashboards, with AP's record."
+    ],
+    "glossary": [
+      { "term": "Sustainable development", "definition": "Meeting present needs without compromising future generations' ability to meet theirs — Brundtland's inter-temporal compact." },
+      { "term": "CBDR-RC", "definition": "Common but differentiated responsibilities and respective capabilities — the equity keystone of climate governance." },
+      { "term": "Precautionary principle", "definition": "Where threats of serious harm exist, scientific uncertainty must not postpone preventive action — Indian law via Vellore (1996)." },
+      { "term": "Slowbalisation", "definition": "The post-2008 deceleration and reconfiguration of global integration — regionalised, security-conscious supply chains." },
+      { "term": "CBAM", "definition": "The EU's carbon border adjustment mechanism taxing embedded emissions of imports — climate policy meeting trade policy." },
+      { "term": "SDG localisation", "definition": "Translating the 17 goals into state-district indicators, budgets and plans — India's NITI-led model." }
+    ]
+  },
+  {
+    "code": "MN-PII-G-090",
+    "sections": [
+      {
+        "heading": "The weather machine — temperature, humidity, clouds, winds",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Element", "Core concepts", "Must-know specifics"],
+            "rows": [
+              ["**Temperature**", "Insolation drivers (latitude, altitude, continentality, currents, aspect); **lapse rate ~6.5°C/km**; **inversions** (valley frost, urban smog lids)", "Heat budget: ~51% surface absorption; albedo (fresh snow ~80-90%); India's heatwave criteria (IMD: plains ≥40°C + departure norms)"],
+              ["**Humidity**", "Absolute vs **relative humidity**; dew point; saturation & condensation (dew, frost, fog, mist)", "RH highest at dawn; warm air holds more vapour (~7%/°C — Clausius-Clapeyron: the climate-extremes multiplier)"],
+              ["**Cloudiness**", "Genera by height: **cirrus (high), alto- (mid), stratus/nimbus (low), cumulonimbus (vertical)**; okta scale (0-8)", "**Cumulonimbus = thunderstorm-hail-tornado factory**; nimbostratus = steady rain; cloud radiative double role (day cooling, night blanket)"],
+              ["**Winds**", "Pressure-gradient force + **Coriolis** (right-deflection NH) + friction; **geostrophic** balance aloft", "Planetary system: trades-westerlies-polar easterlies; ITCZ migration = monsoon's engine; **jet streams** (subtropical, polar; the **tropical easterly jet** in India's monsoon); local winds — land-sea breeze, mountain-valley, **loo, mango showers, Kalbaisakhi**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Special weather phenomena — the exam set",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Monsoon mechanics** (the Indian centrepiece): differential heating + ITCZ's northward march + **Mascarene High → Somali (Findlater) jet → moisture surge**; upper-air players — subtropical westerly jet's withdrawal north of the Himalaya, **tropical easterly jet**, Tibetan heating; variability drivers — **ENSO (El Niño ↔ weak monsoon tendency), IOD (positive ↔ favourable), MJO pulses**; breaks and active spells; withdrawal's rain gift to AP (the **northeast/retreating monsoon, Oct-Dec — Rayalaseema & south-coastal AP's second season**).",
+              "**Cyclones** (tropical): warm SST ≥26.5°C, low shear, Coriolis beyond ~5° — structure (eye, eyewall, spiral bands); Bay of Bengal's October-November clustering; **naming by WMO/ESCAP panel**; storm surge as the killer arm (full disaster treatment G-091/092). **Temperate (extra-tropical) cyclones**: frontal, larger, west-to-east — **western disturbances** watering rabi Punjab and snowing the Himalaya.",
+              "**Thunderstorms & tornadoes**: convective trinity (moisture, instability, lift); India's **Kalbaisakhi (Nor'westers)**; hailstorms of the Deccan; lightning as India's biggest single weather killer (~2,500+ deaths/yr) — an under-quoted fact. **El Niño/La Niña & teleconnections**: the Walker-circulation see-saw — one paragraph every examiner expects.",
+              "**AP's weather personality**: the **rain-shadow paradox** — SW monsoon's modest yield in Rayalaseema (leeward of the Western Ghats) vs the **NE monsoon's cyclone-laden generosity**; loo-less but heatwave-prone coastal plains (Vizianagaram-Prakasam June spikes); the Bay's October machine aiming at Nellore-Machilipatnam-Kalingapatnam — geography's explanation of AP's farm calendar and disaster calendar alike."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Insolation and differential heating] --> B[Temperature fields]\n  B --> C[Pressure gradients]\n  C --> D[Winds - Coriolis deflected]\n  D --> E[Moisture transport - humidity]\n  E --> F[Condensation - clouds]\n  F --> G[Precipitation systems]\n  G --> H[Monsoon: ITCZ + jets + ENSO-IOD]\n  G --> I[Cyclones: warm bay, low shear]\n  G --> J[Thunderstorms: Kalbaisakhi, hail, lightning]\n  H --> K[AP: SW modest, NE generous, cyclone alley]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Element questions: definition → controls → one diagram-worthy mechanism → one Indian/AP application (inversion→smog; RH→heat index; Cb→hail; jet→monsoon).",
+              "Phenomena questions: monsoon's five-actor cast (ITCZ, Mascarene, Somali jet, TEJ, Tibetan plateau) + ENSO-IOD paragraph + the AP two-monsoon signature."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Clausius-Clapeyron ~7%/°C line is the modern bridge from basic met to climate-extremes questions; AP's NE-monsoon dependence is the regional key that unlocks agriculture, cyclones and drought answers together."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Normal **lapse rate ~6.5°C/km**; inversion = temperature rising with height (frost hollows, smog lids).",
+      "**Relative humidity** peaks near dawn; dew point = saturation temperature; ~**7% more vapour per °C** warming.",
+      "Cloud families: **cirro- (high, ice), alto- (mid), strato-/nimbo- (low), cumulo- (vertical)**; cumulonimbus → thunder, hail, tornado.",
+      "**Coriolis zero at the equator** — hence no cyclones within ~5° latitude; deflection right in NH.",
+      "Monsoon jets: **Somali/Findlater (low-level, cross-equatorial)** & **Tropical Easterly Jet (upper, 100-150 hPa)**; **western disturbances** = winter's extra-tropical rain in NW India.",
+      "**El Niño**: warm eastern Pacific ↔ weakened Walker cell ↔ Indian-monsoon deficit tendency; **positive IOD** compensates.",
+      "**NE (retreating) monsoon (Oct-Dec)** is the principal wet season for **south-coastal AP & Rayalaseema**; Bay cyclones cluster **Oct-Nov**.",
+      "**Lightning kills ~2,500+ Indians yearly** — the largest single weather cause of death."
+    ],
+    "mainsAngles": [
+      "From insolation to precipitation — trace the causal chain linking temperature, humidity, clouds and winds.",
+      "Assemble the Indian monsoon's five-actor mechanism and the ENSO-IOD levers of its variability.",
+      "Compare tropical and temperate cyclones in genesis, structure and Indian impacts.",
+      "Explain AP's two-monsoon personality and its consequences for the farm and disaster calendars.",
+      "Warmer air is thirstier air — apply Clausius-Clapeyron to the new age of weather extremes."
+    ],
+    "glossary": [
+      { "term": "Temperature inversion", "definition": "Warm air overlying cold, suppressing convection — the lid that traps smog and frost." },
+      { "term": "Relative humidity", "definition": "Actual vapour as a percentage of the air's saturation capacity at that temperature — the comfort and condensation index." },
+      { "term": "ITCZ", "definition": "The equatorial convergence-rainfall belt whose seasonal migration drives the monsoon's advance and retreat." },
+      { "term": "Jet stream", "definition": "Narrow bands of very fast upper-tropospheric winds steering weather systems — India's monsoon dances with the STWJ and TEJ." },
+      { "term": "Western disturbance", "definition": "Mediterranean-origin extra-tropical systems bringing winter rain-snow to northwest India — rabi's benefactor." },
+      { "term": "Storm surge", "definition": "Cyclone-driven sea-level upheaval flooding coasts — the deadliest limb of Bay of Bengal cyclones." }
+    ]
+  },
+  {
+    "code": "MN-PII-G-091",
+    "sections": [
+      {
+        "heading": "Hazard anatomy — five files",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Hazard", "Mechanism & Indian geography", "AP exposure & marquee events"],
+            "rows": [
+              ["**Earthquakes**", "Plate-boundary strain release (Himalayan thrust — the great-quake deficit); **zones II-V (IS 1893)**; intraplate surprises (Latur 1993, Bhuj 2001 — Zone V pocket)", "AP mostly **Zone II-III** (low-moderate); Ongole-coastal Zone III strips; reservoir-linked tremors debated (Srisailam environs) — AP's real seismic file is **building-code compliance**, not fault lines"],
+              ["**Landslides**", "Slope + saturation + seismicity + slope-cutting; Himalaya & Western Ghats as the twin belts (Wayanad 2024 the recent tragedy)", "Eastern Ghats' modest but real slides — **Araku-Visakhapatnam agency road cuts**, 2020s ghat-road failures; mining-destabilised slopes"],
+              ["**Floods**", "Riverine (basin monsoal peaks), flash (cloudbursts, urban), coastal (surge); Brahmaputra-Ganga plains the national theatre; **urban flooding** the new normal (encroached drains + C-C rainfall intensification)", "**Godavari's fury** (2022's ~26 lakh cusecs at Bhadrachalam-Polavaram reach; Konaseema inundation), **Krishna 2009** (Kurnool submerged — Srisailam backwater), **Budameru's Vijayawada flood (Sept 2024** — the city's worst in decades), Pennar flash events"],
+              ["**Cyclones**", "Bay of Bengal = the world's deadliest basin (shallow shelf → surge amplification; funnel geometry); Oct-Nov + May windows", "**AP = cyclone alley**: 1977 Diviseema (~10,000+ dead — the trauma benchmark), 1990 Machilipatnam, 1996 Godavari, **Hudhud 2014 (Visakhapatnam — a city hit head-on; ~₹22,000 cr damage)**, Titli 2018 (Srikakulam), Michaung 2023 (flooding Nellore-Tirupati belts) — the improvement arc: 10,000 dead (1977) → double digits (Hudhud) → near-zero: the zero-casualty doctrine"],
+              ["**Cloudbursts (+ heat & drought as the quiet hazards)**", "Cloudburst: >10 cm/hour convective dumps, Himalayan valleys' speciality; heatwaves & drought as slow killers", "AP's analogue: intense convective bursts on ghat towns; **heatwaves** (2015's ~1,700+ AP deaths — among India's worst) and **Rayalaseema's chronic drought** — the hazards without sirens"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Cross-cutting analysis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Hazard ≠ disaster**: risk = hazard × exposure × vulnerability ÷ capacity — the framing equation; India's curve shows hazards constant-to-worsening (climate) while **mortality falls where capacity rose** (cyclones) and rises where exposure grew unplanned (urban floods, heat).",
+              "**Climate-change multipliers**: rapid-intensification cyclones (warmer bay), C-C rainfall extremes (urban flash floods), compound events (surge + river flood — Godavari-cyclone coincidences), longer heatwaves — attribute carefully ('consistent with' language).",
+              "**The AP arc as the answer's spine**: 1977 Diviseema's trauma → cyclone shelters + IMD radar net + evacuation drill culture → **Hudhud's single-city test** → zero-casualty playbook (early warning to the last fisherman via secretariat-volunteer capillaries) — the world-cited success; against it, the **new deficits**: Budameru's urban-drainage failure, heat-action gaps, drought's quiet attrition — success in the siren hazards, homework in the silent ones."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Hazard event] --> B{Exposure and vulnerability}\n  B --> C[Disaster or absorbed shock]\n  D[Cyclone: warned, shelters, evacuation] --> E[Mortality collapsed - AP doctrine]\n  F[Urban flood: encroached drains, intense rain] --> G[Rising losses - Budameru 2024]\n  H[Heat and drought: no sirens] --> I[Quiet casualties and farm distress]\n  E --> J[Lesson: capacity beats hazard]\n  G --> J\n  I --> J"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Event bank (one line each): Diviseema 1977, Krishna 2009, Hudhud 2014, Titli 2018, Godavari 2022, Michaung 2023, Budameru 2024, heat 2015 — AP's complete hazard almanac.",
+              "Always open with the risk equation and close with the siren-vs-silent contrast — mechanism + region + judgment is the full-marks shape."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'AP defeated the cyclone and is still negotiating with the drain, the heat and the drought' — the sentence that shows both the celebrated arc and the honest frontier."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India's seismic zoning (IS 1893): **Zones II-V**; ~59% of area quake-prone; AP largely **Zone II-III**.",
+      "**Diviseema cyclone (19 Nov 1977)**: ~10,000+ deaths in the Krishna delta — AP's disaster benchmark.",
+      "**Hudhud (12 Oct 2014)** made landfall at **Visakhapatnam** — rare direct city hit; ~₹22,000 crore damage, casualties held to double digits.",
+      "**Krishna floods 2009** submerged Kurnool; **Godavari 2022** neared record flows at the Polavaram reach; **Budameru overflow flooded Vijayawada, Sept 2024**.",
+      "**2015 heatwave** killed ~1,700+ in AP — among India's deadliest heat events.",
+      "Bay of Bengal's lethality: shallow shelf + funnel = **surge amplification**; world's deadliest cyclone basin.",
+      "**Cloudburst** definition: ~**100 mm/hour** over a small area.",
+      "Risk equation: **hazard × exposure × vulnerability ÷ capacity**."
+    ],
+    "mainsAngles": [
+      "Hazards are natural; disasters are social — apply the risk equation across India's hazard map.",
+      "Anatomise the Bay of Bengal's lethality and AP's cyclone-alley geography.",
+      "From Diviseema to the zero-casualty doctrine — narrate and explain AP's cyclone-mortality collapse.",
+      "Urban flooding is a governance hazard — dissect the Budameru 2024 episode.",
+      "The silent hazards — heat and drought — lack sirens and headlines: assess AP's preparedness gap."
+    ],
+    "glossary": [
+      { "term": "Vulnerability", "definition": "The susceptibility of people and assets to hazard harm — poverty, housing quality, age, location as its determinants." },
+      { "term": "Storm surge", "definition": "Cyclone-driven coastal sea rise — the Bay's shallow shelf amplifies it into the basin's deadliest weapon." },
+      { "term": "Rapid intensification", "definition": "A cyclone's swift strengthening (≥30 kt/24 h) over warm waters — the forecast-challenging climate-era trend." },
+      { "term": "Flash flood", "definition": "Sudden high-intensity flood from cloudbursts or dam-drain failure — minutes-to-hours lead time." },
+      { "term": "Compound event", "definition": "Co-occurring hazards (surge + riverine flood, heat + drought) whose joint impact exceeds their sum." },
+      { "term": "Zero-casualty doctrine", "definition": "AP-Odisha's evacuation-first cyclone protocol — warning, shelters and last-mile drill aiming at no deaths." }
+    ]
+  }
+]
