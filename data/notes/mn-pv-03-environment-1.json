@@ -1,0 +1,259 @@
+[
+  {
+    "code": "MN-PV-ED-019",
+    "sections": [
+      {
+        "heading": "Natural vs anthropogenic pollution — the framing this paper wants",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Pollution is any addition to environment media that impairs their function. **Natural sources** exist — volcanic SO2-ash, wildfires' PM & CO, dust storms (the pre-monsoon Thar plumes), radon from rocks, geogenic groundwater poisons (**arsenic in the Ganga-Brahmaputra alluvium; fluoride in AP's Prakasam-Guntur-Nalgonda-belt granites**), algal toxins — but the Anthropocene's signature is that **human flows now dwarf natural ones** (fixed nitrogen doubled, CO2 up ~50% over pre-industrial). The natural-vs-anthropogenic distinction matters for POLICY: geogenic fluoride needs **alternate water supply/defluoridation**, not emitter regulation; anthropogenic loads need source control."
+          },
+          {
+            "type": "table",
+            "headers": ["Degradation form", "Process", "India-AP evidence"],
+            "rows": [
+              ["Air quality decline", "Combustion PM-NOx-SO2 + secondary ozone/aerosols; episodic dust-fire additions", "IGP winter inversions; **Vizag's industrial airshed**; ozone's crop-yield tax (~wheat losses documented)"],
+              ["Water degradation", "Organic sewage (BOD), industrial toxics, nutrient runoff → **eutrophication-hypoxia**; thermal plumes", "311 polluted stretches; **Kolleru's aquaculture nutrient syndrome**; coastal hypoxia patches off deltas"],
+              ["**Land degradation** (~30%)", "Erosion (water 80%+ of it), salinisation-waterlogging (canal commands), chemical decline, **desertification** (UNCCD definition — drylands' productivity loss)", "Saline patches of the Krishna-Godavari commands; Rayalaseema's degrading drylands; **LDN target: 26 mha restoration by 2030**"],
+              ["Biotic degradation", "Habitat fragmentation, **invasive species (Lantana, Prosopis juliflora, water hyacinth choking Kolleru-type wetlands)**, overgrazing-overfishing", "Eastern-Ghats fragmentation; bycatch pressure on the AP coast"],
+              ["Novel entities", "Microplastics (found rain-to-placenta), PFAS, pharma residues (Hyderabad-belt antibiotic effluents → **AMR hotspots**), light-noise", "The frontier list every fresh answer should name once"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Degradation's systemic reading — and responses",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The planetary-boundaries frame (Rockström)**: nine boundaries — climate, biosphere integrity, biogeochemical flows (N-P), land-system change, freshwater, novel entities, ocean acidification, aerosols, ozone — with **six of nine transgressed** (2023 update): the scientific scaffolding that upgrades a pollution answer into an Earth-system one.",
+              "**Costs**: health (air pollution ~1.6-1.7 million Indian deaths/yr attributed — Lancet/GBD), productivity (soil-yield drag, ozone-crop loss), water treatment burdens, biodiversity services' erosion — degradation as a **~3-8% of GDP** running bill (World Bank-era estimates band).",
+              "**Response logic by source-type**: geogenic → substitution & treatment (JJM's quality-affected habitations); diffuse anthropogenic (agriculture) → input reform + landscape buffers (natural farming's case); point anthropogenic → standards-consents-CETPs + markets (ETS pilots); novel entities → precaution + EPR + research; biotic → protected-area + invasive management + restoration (**Green India Mission; the 26-mha LDN pledge; Aravalli-type green walls and AP's mangrove-shelterbelt works**)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Pollution sources] --> B[Natural: volcanic, dust, geogenic As-F, wildfire]\n  A --> C[Anthropogenic: combustion, sewage, agrochemical, industry, novel entities]\n  B --> D[Policy: substitute and treat - defluoridation, JJM]\n  C --> E[Policy: source control - standards, markets, EPR]\n  C --> F[Degradation: land 30 percent, wetlands, biotic loss]\n  F --> G[Planetary boundaries - six of nine crossed]\n  E --> H[Restoration: LDN 26 mha, missions, mangroves]\n  D --> H\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Distinguish this from G-093 by leading with natural-vs-anthropogenic + degradation forms + planetary boundaries — the science-paper register; keep the acts-and-programmes weight there.",
+              "AP set: fluoride belts (geogenic), Kolleru (nutrient), Vizag airshed (industrial), Krishna-command salinity (land), hyacinth (invasive) — one per degradation form."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The fluoride-vs-factory contrast (geogenic needs pipes, anthropogenic needs policing) is the distinction this syllabus line exists to test; the six-of-nine boundaries fact is the science-currency marker."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Geogenic pollutants**: arsenic (Gangetic alluvium), **fluoride (granitic AP-Telangana belts)**, uranium pockets, radon — nature's own contamination.",
+      "**Planetary boundaries (Rockström 2009; 2023 update)**: **six of nine crossed** — climate, biosphere, land, freshwater, N-P flows, novel entities.",
+      "Air pollution's India toll ~**1.6-1.7 million deaths/yr** (GBD/Lancet attributions).",
+      "**Land Degradation Neutrality**: India's pledge to restore **26 million ha by 2030** (UNCCD COP14, Delhi 2019).",
+      "**Invasive flagship species**: Lantana camara, Prosopis juliflora, water hyacinth (Eichhornia), Parthenium.",
+      "**Eutrophication → hypoxic 'dead zones'** — nutrient-fed algal collapse; Kolleru the state's textbook case.",
+      "Hyderabad-belt pharma effluents are globally cited **AMR (antimicrobial-resistance) hotspots**.",
+      "**Fixed nitrogen** flows have roughly **doubled** naturally-fixed levels — the Haber-Bosch planetary signature."
+    ],
+    "mainsAngles": [
+      "Nature also pollutes — differentiate geogenic from anthropogenic contamination and the distinct policy each demands.",
+      "Catalogue India's degradation forms — air, water, land, biotic, novel — with one AP illustration each.",
+      "Read India's environment through the planetary-boundaries frame and its six transgressions.",
+      "Degradation is a running GDP bill — quantify the health and productivity costs and the restoration economics.",
+      "From LDN's 26 million hectares to mangrove walls — evaluate India's restoration agenda."
+    ],
+    "glossary": [
+      { "term": "Geogenic contamination", "definition": "Naturally occurring pollutants (arsenic, fluoride) leached from geology into water — treated by substitution, not emitter control." },
+      { "term": "Planetary boundaries", "definition": "The nine Earth-system thresholds defining humanity's safe operating space — six now transgressed." },
+      { "term": "Desertification", "definition": "Land degradation in dryland zones reducing biological productivity — UNCCD's remit and Rayalaseema's risk." },
+      { "term": "Invasive alien species", "definition": "Non-native species whose spread harms ecosystems — Lantana-to-hyacinth, degradation's biological arm." },
+      { "term": "Novel entities", "definition": "Human-made substances (plastics, PFAS, pharma residues) without natural analogues — the boundary crossed before it was measured." },
+      { "term": "Land Degradation Neutrality", "definition": "Balancing new degradation with restoration so net healthy land stays stable — India's 26-mha commitment." }
+    ]
+  },
+  {
+    "code": "MN-PV-ED-020",
+    "sections": [
+      {
+        "heading": "Climate change — science, stakes, justice",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The physics in three lines: GHGs (CO2 ~420+ ppm — a 50% pre-industrial rise; CH4's short-lived potency ~80x/20yr) trap outgoing long-wave radiation; warming is **~1.2-1.3°C** already (2024 flirted with 1.5°C annual); **IPCC AR6**: human influence 'unequivocal', every increment matters, overshoot risks (ice sheets, AMOC) rise non-linearly. India's stake: monsoon volatility (C-C intensification), Himalayan cryosphere loss, **sea-level rise on a 7,500-km coast (AP's delta frontline)**, heat exceeding labour thresholds, yield stress (wheat's terminal heat) — among the most climate-exposed major economies."
+          },
+          {
+            "type": "table",
+            "headers": ["Climate justice — the equity ledger", "Content"],
+            "rows": [
+              ["Historical responsibility", "Developed world ~**half of cumulative CO2 with ~1/8 of population**; India: ~7% of annual, **~3-4% of cumulative, per-capita ~1/3 of world average** — the arithmetic of CBDR"],
+              ["Carbon-budget equity", "1.5°C's remaining budget shrinking; equal-per-capita claims vs grandfathering — India's per-capita-convergence argument at every COP"],
+              ["Finance justice", "$100 bn promise (met late, loans-heavy) → **NCQG (Baku 2024: $300 bn/yr by 2035 core — called inadequate by the South; $1.3 tn aspiration)**; **Loss & Damage Fund operationalised (COP28)** — reparations' polite name"],
+              ["Transition justice", "Within nations too: coal-district workers (Jharkhand-to-Godavari-valley), fisherfolk facing CRZ-and-warming — 'just transition' as domestic climate justice; **CBAM as justice inverted** (the South taxed for the North's standards)"],
+              ["India's positions", "CBDR-RC, per-capita equity, **LiFE** (consumption-side justice), Panchamrit NDCs, ISA-CDRI-Global Biofuels Alliance — justice arguments institutionalised"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "EIA — the anticipatory instrument",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**What & whence**: Environment Impact Assessment = ex-ante evaluation of a project's environmental costs with public participation; India's ladder — 1994 notification → **EIA Notification 2006** (Category A: central MoEF&CC appraisal; **Category B: State-level SEIAA/SEAC** — B1 needs EIA, B2 exempt), stages: **screening → scoping (ToR) → public consultation (hearing + written) → appraisal (EAC) → clearance with conditions → monitoring (compliance reports)**.",
+              "**The critique file**: **post-facto clearance** jurisprudence (condemned by SC — *Common Cause 2017; Alembic 2020* — yet recurring via amnesty schemes), dilution attempts (the **draft EIA 2020's** exemption-expansion and consultation-shortening controversy), consultant capture & cut-paste EIAs, weak compliance monitoring (self-reporting), strategic gaps (no cumulative/basin assessment — the Char Dham & Great Nicobar debates), and speed-vs-scrutiny politics (PARIVESH single-window).",
+              "**Reform set**: independent accredited assessors, cumulative-strategic EIA for regions (airshed-basin), participatory monitoring (community compliance committees), climate-risk integration into appraisal (the next frontier), and NGT-backed enforcement — EIA as **democracy's environmental due process**, not a licence queue.",
+              "**AP applications**: Polavaram's (national-project) EIA-R&R saga, Vizag's cumulative-airshed question, aqua-conversion CRZ cases, pumped-storage sitings on Eastern-Ghats streams — the state's live EIA docket for illustrations."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Climate physics: GHGs, 1.3 C, AR6] --> B[Impacts: monsoon, heat, sea level - AP delta]\n  B --> C[Justice: cumulative emissions vs per-capita equity]\n  C --> D[Finance: NCQG, Loss and Damage]\n  C --> E[Just transition within nations]\n  F[EIA 2006: screen-scope-consult-appraise-monitor] --> G[Anticipatory guardrail for development]\n  G --> H[Critiques: post-facto, dilution, cut-paste, no cumulative view]\n  H --> I[Reform: strategic EIA, independent assessors, climate lens]\n  D --> J[Sustainable development with equity]\n  E --> J\n  I --> J"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Climate-justice questions: the four-row equity ledger + India's institutional answers; EIA questions: the six-stage process + five critiques + reform set.",
+              "Numbers: 420 ppm, 1.3°C, cumulative 3-4% vs per-capita 1/3, NCQG $300 bn, Category A/B split."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Climate justice is CBDR between nations and just transition within them' — the two-level definition that structures the whole theme; for EIA, the post-facto-clearance case law (Common Cause, Alembic) is the precision that scores."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "CO2 ~**420+ ppm**; warming ~**1.2-1.3°C**; **IPCC AR6 (2021-23)** — 'unequivocal' human influence; 2024 ≈ the first ~1.5°C calendar year.",
+      "India: ~**7% of annual, ~3-4% of cumulative CO2, per-capita ~2 t (≈1/3 world average)** — the justice arithmetic.",
+      "**Loss & Damage Fund** agreed COP27, operationalised **COP28 (Dubai)**; **NCQG at COP29 (Baku 2024): $300 bn/yr by 2035** core goal.",
+      "**Panchamrit (COP26)**: 500 GW non-fossil, 50% capacity, 45% intensity cut, 1 bn t CO2 reduction, **Net Zero 2070**.",
+      "**EIA Notification 2006**: Category **A (central EAC)** vs **B (SEIAA)**; stages — screening, scoping, public consultation, appraisal.",
+      "**Public hearing** conducted by the SPCB at site; exempt categories (B2, defence, some linear projects) are the contest zone.",
+      "SC against **post-facto environmental clearance**: *Common Cause (2017)*, *Alembic Pharmaceuticals (2020)*.",
+      "**Draft EIA 2020** drew record public objections for exemption-expansion and consultation-curtailment — shelved."
+    ],
+    "mainsAngles": [
+      "State the climate-justice case in numbers — cumulative responsibility, per-capita equity, finance shortfalls — and India's institutional advocacy.",
+      "Loss and damage is reparations by consensus — trace the fund's journey and its adequacy debate.",
+      "Just transition is climate justice at home — design it for India's coal districts and coastal livelihoods.",
+      "EIA is environmental due process — audit the 2006 architecture's stages against its five standing critiques.",
+      "From project files to basin thinking — argue the case for strategic and cumulative assessment with Indian examples."
+    ],
+    "glossary": [
+      { "term": "Climate justice", "definition": "Equity in sharing the carbon budget, adaptation costs and transition burdens — between and within nations." },
+      { "term": "NCQG", "definition": "The New Collective Quantified Goal on climate finance (Baku 2024: $300 bn/yr by 2035) succeeding the $100 bn pledge." },
+      { "term": "Loss and Damage", "definition": "Compensation-flavoured finance for climate harms beyond adaptation — the fund born at COP27-28." },
+      { "term": "Just transition", "definition": "Managing decarbonisation so workers and regions dependent on fossil economies aren't abandoned." },
+      { "term": "SEIAA", "definition": "State Environment Impact Assessment Authority — the Category-B appraisal tier of the 2006 notification." },
+      { "term": "Post-facto clearance", "definition": "Regularising projects built without prior approval — judicially condemned as the negation of EIA's anticipatory logic." },
+      { "term": "Strategic Environmental Assessment", "definition": "Appraisal of policies-plans-regions rather than single projects — the cumulative-impact reform frontier." }
+    ]
+  },
+  {
+    "code": "MN-PV-ED-021",
+    "sections": [
+      {
+        "heading": "Prediction science — hazard by hazard",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Hazard", "Predictability & tools", "India's systems"],
+            "rows": [
+              ["**Cyclones**", "**Most predictable**: genesis-track-intensity models (3-5 day skilful tracks; intensity harder — rapid-intensification the frontier); ensemble NWP + satellites + radar + buoys", "**IMD's RSMC New Delhi** (regional mandate); INSAT-3D/3DR, **12+ Doppler radar coastal net**, Ocean buoys (NIOT), high-res models (~12→6 km); colour-coded warnings + **impact-based forecasting**; AP's zero-casualty operations ride on this"],
+              ["**Earthquakes**", "**Time prediction impossible** (state of science) — only probabilistic hazard (zonation, recurrence) + **early warning post-rupture** (P-wave lead seconds; Sikkim-Uttarakhand pilots) + precursors research (unproven)", "National Seismological Network (~150+ stations, NCS); microzonation (Delhi, Lucknow…); **IS codes + retrofitting** as the real 'prediction substitute'"],
+              ["**Landslides**", "Susceptibility mapping + **rainfall-threshold early warning** (antecedent moisture models); slope instrumentation (piezometers, InSAR deformation)", "**GSI's national landslide susceptibility mapping (85% complete-era) & Bhukosh portal**; NDMA guidelines; Kerala-Uttarakhand-Ghats regional EWS pilots; AP's ghat-road watch"],
+              ["**Tsunamis**", "Warnable if generated far: deep-ocean detection → travel-time models (minutes-hours lead); near-field remains cruel (<15 min)", "**ITEWC/INCOIS Hyderabad (2007, post-2004)** — bottom-pressure recorders (BPRs), tide gauges, sirens; serves the Indian-Ocean region; drills on the AP coast"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Management — the hazard-specific playbook (beyond G-092's generic cycle)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Cyclones**: NCRMP's shelters-embankments-roads (AP-Odisha core states), mangrove bio-shields, **evacuation doctrine** (the 1977→near-zero arc), impact-based warnings to fishermen (NAVIC-enabled messaging), post-landfall restoration drills (power-telecom mutual aid).",
+              "**Earthquakes**: since prediction fails, **codes are the forecast** — IS 1893/13920 enforcement, school-hospital retrofitting (NDMA's priority list), masonry-culture change (RC confinement), insurance penetration; urban search-and-rescue (NDRF's USAR teams) and 72-hour community self-help training.",
+              "**Landslides**: regulate slope-cutting (hill-road DPR audits), drainage discipline (the cheapest stabiliser), bioengineering (vetiver-bamboo), threshold-based road closures, relocation of red-zone habitations (Wayanad's lesson).",
+              "**Tsunamis**: vertical-evacuation structures & mapped routes, coastal-zone setbacks (CRZ synergy), **last-mile sirens + drills** (INCOIS-state SOPs), harbour protocols; the 2004 memory institutionalised (Indian Ocean Wave exercises).",
+              "**Cross-cutting**: **common alerting (SACHET/CAP)**, NAVIC-satcom redundancy, risk-informed land use as the meta-prediction — 'we cannot predict the earthquake, we can predict the collapse'."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Prediction capability spectrum] --> B[Cyclone: days of skilful lead - IMD]\n  A --> C[Tsunami: minutes-hours - INCOIS ITEWC]\n  A --> D[Landslide: threshold-based alerts - GSI]\n  A --> E[Earthquake: no time prediction - zonation only]\n  B --> F[Evacuation doctrine - near-zero deaths]\n  C --> G[Sirens, drills, vertical evacuation]\n  D --> H[Slope regulation, drainage, closures]\n  E --> I[Codes and retrofitting as the forecast]\n  F --> J[Prediction plus preparedness = lives]\n  G --> J\n  H --> J\n  I --> J"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Differentiate from G-091/092: THIS answer leads with prediction science (models, sensors, lead times) then hazard-specific management; institutional name-dropping (IMD-RSMC, INCOIS-ITEWC, NCS, GSI-Bhukosh) is the currency.",
+              "The predictability spectrum (cyclone > tsunami > landslide > earthquake) is the organising insight; 'codes are the earthquake forecast' the memorable line."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Pair each hazard with its lead-time number (3-5 days / minutes-hours / hours-threshold / zero) and its lead institution — that 4×2 grid is the complete skeleton of this syllabus line."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**IMD is the WMO's RSMC (New Delhi)** for North-Indian-Ocean cyclones — regional naming & advisories.",
+      "**ITEWC at INCOIS, Hyderabad (2007)** — Indian (and regional) tsunami warning centre; BPR + tide-gauge network.",
+      "**Earthquake time-prediction is not scientifically possible**; early-warning systems exploit P-wave vs S-wave lag (seconds).",
+      "**GSI** leads national **landslide susceptibility mapping (Bhukosh portal)**; rainfall-threshold EWS pilots in Ghats-Himalaya.",
+      "**NCRMP** (National Cyclone Risk Mitigation Project) built shelters-embankments in AP-Odisha-era phases.",
+      "**SACHET/CAP** — the common alerting protocol SMS-cell-broadcast system; **NAVIC** messaging reaches fishermen at sea.",
+      "IS codes: **1893 (seismic design), 13920 (ductile detailing)** — enforcement is the earthquake 'forecast'.",
+      "**Impact-based forecasting** — IMD's shift from event parameters to expected damage-action advisories."
+    ],
+    "mainsAngles": [
+      "Rank the four hazards on the predictability spectrum and derive each one's management doctrine.",
+      "Cyclone forecasting is India's quiet scientific triumph — trace the IMD system behind the zero-casualty record.",
+      "We cannot time earthquakes, so codes must forecast collapse — argue the retrofitting-first strategy.",
+      "Evaluate India's tsunami warning architecture since 2004 and its last-mile challenge on the AP coast.",
+      "Landslide risk is made by roads and rain together — assess mapping, thresholds and slope governance."
+    ],
+    "glossary": [
+      { "term": "Numerical Weather Prediction", "definition": "Physics-based atmospheric modelling (ensembles for uncertainty) — the engine of modern cyclone track forecasts." },
+      { "term": "Rapid intensification", "definition": "Sudden cyclone strengthening that models still under-catch — the key remaining forecast frontier." },
+      { "term": "Earthquake early warning", "definition": "Post-rupture alerts racing S-waves using P-wave detection — seconds of lead for shutdowns and cover." },
+      { "term": "Microzonation", "definition": "Block-level mapping of ground-shaking susceptibility within a city — planning's seismic microscope." },
+      { "term": "Bottom Pressure Recorder", "definition": "Deep-ocean sensor detecting tsunami waves' passage — the warning network's offshore tripwire." },
+      { "term": "Impact-based forecasting", "definition": "Warnings phrased as expected damage and required action, not just hazard parameters — the usability revolution." }
+    ]
+  }
+]
