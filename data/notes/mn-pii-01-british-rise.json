@@ -1,0 +1,262 @@
+[
+  {
+    "code": "MN-PII-HCOI-027",
+    "sections": [
+      {
+        "heading": "1757–1856: from trading company to paramount power",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "In a single century the East India Company converted trade posts into an empire through **war, diplomacy and annexation**. The hinge events: **Plassey (23 June 1757)** — Siraj-ud-Daula betrayed by **Mir Jafar**; Bengal's wealth opened; **Buxar (1764)** — the real military decision, defeating Mir Qasim + Shuja-ud-Daula + Shah Alam II together; the **Treaty of Allahabad (1765)** granted the Company the **Diwani of Bengal, Bihar, Orissa** — revenue collection = sovereignty's substance. Then the **dual government (1765-72)** — power without responsibility — collapsed into the 1770 Bengal famine (a third of Bengal perished)."
+          },
+          {
+            "type": "table",
+            "headers": ["Instrument of expansion", "Mechanism", "Key applications"],
+            "rows": [
+              ["**War**", "Superior artillery-infantry drill + Indian sepoys + naval control", "Anglo-Mysore wars (4; **Tipu fell at Srirangapatnam, 1799**), Anglo-Maratha wars (3; ended 1818 — Peshwa abolished), Anglo-Sikh wars (2; **Punjab annexed 1849**)"],
+              ["**Subsidiary Alliance** (Wellesley, 1798–)", "British troops stationed at the ally's cost; Resident at court; no other Europeans; foreign policy surrendered", "**Hyderabad first (1798)** — the Nizam's state became the model client; then Mysore, Awadh, the Marathas"],
+              ["**Doctrine of Lapse** (Dalhousie, 1848-56)", "No adopted heir recognised; state 'lapses' to the Company", "**Satara (1848), Jhansi (1853), Nagpur (1854)** — fuel for 1857"],
+              ["**Annexation on 'misgovernment'**", "Administrative pretext", "**Awadh (1856)** — the sepoys' homeland; the deepest 1857 grievance"],
+              ["**Diplomacy & divide**", "Playing rival claimants, cash subsidies", "Carnatic wars' nawab-making; Maratha internal feuds"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why the British won — and what rule meant",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Causes of success**: disciplined drilled infantry & standardised artillery; naval supremacy (reinforcement + trade); Bengal's revenues funding wars (Indian resources conquered India); unified command vs fractured Indian polities; the sepoy army (Indians ~5/6 of Company forces); contractual credit networks (Jagat Seths' finance); and no pan-Indian identity yet to resist as one.",
+              "**Consolidation architecture (1773-1856)**: Regulating Act 1773 (Governor-General; Supreme Court 1774) → Pitt's India Act 1784 (Board of Control — dual control) → Charter Acts 1813 (trade monopoly ends, ₹1 lakh for education), 1833 (Governor-General **of India**; law commission — Macaulay), 1853 (open competition for civil service) — the legal scaffolding of empire.",
+              "**Economic meaning**: 'Plassey plunder' → drain of wealth (**Dadabhai Naoroji's** later theorisation); deindustrialisation of textiles; land settlements re-engineering agrarian society (next note); India as raw-material supplier and captive market — **colonialism's three stages** (mercantile plunder → free-trade exploitation → finance imperialism, per R.P. Dutt's framework).",
+              "**AP dimension**: the **Northern Circars** (coastal Andhra) passed to the Company via the Nizam (**1766 treaty; firm grant 1823**); **Rayalaseema = the 'Ceded Districts' (1800)** — ceded by the Nizam for subsidiary-alliance costs — the very names of AP's regions are subsidiary-alliance artefacts; Company rule in Andhra ran from **Masulipatnam's factory (1611)** through Munro's ryotwari laboratory."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Trade posts - Surat, Masulipatnam, Madras, Calcutta] --> B[Plassey 1757 - Bengal's wealth]\n  B --> C[Buxar 1764 and Diwani 1765]\n  C --> D[Bengal revenue funds conquest]\n  D --> E[Wars: Mysore, Marathas, Sikhs]\n  D --> F[Subsidiary alliances - Hyderabad 1798]\n  D --> G[Lapse and annexation - Dalhousie]\n  E --> H[Paramountcy by 1856]\n  F --> H\n  G --> H\n  H --> I[1857 - the reckoning]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Chronology anchors: 1757-1764-1765 (the Bengal trilogy), 1798 (Hyderabad SA), 1799 (Tipu), 1818 (Marathas), 1849 (Punjab), 1848-56 (Lapse), 1856 (Awadh).",
+              "For 'rise of British power' questions: instruments table + causes-of-success paragraph + the AP paragraph (Circars/Ceded Districts) — the regional grounding APPSC uniquely rewards."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'British conquered India with Indian soldiers and Indian money' is the thesis line; Naoroji's drain and R.P. Dutt's three stages give it scholarly weight. Always name-drop the Ceded Districts — Rayalaseema's colonial birth certificate."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Plassey 1757** (Clive vs Siraj; Mir Jafar's betrayal); **Buxar 1764** (Munro defeated the triple alliance); **Diwani 1765** (Treaty of Allahabad).",
+      "**Subsidiary Alliance**: Wellesley; **first acceptor — the Nizam of Hyderabad (1798)**.",
+      "**Doctrine of Lapse** (Dalhousie): Satara 1848, Jaitpur/Sambalpur 1849, Jhansi 1853, Nagpur 1854; **Awadh annexed 1856 on misgovernment**, not lapse.",
+      "Anglo-Mysore: Tipu died defending **Srirangapatnam (1799)**; Anglo-Maratha III ended 1818; **Punjab annexed 1849** after Anglo-Sikh II.",
+      "**Northern Circars** obtained from the Nizam (1766); **Ceded Districts (Rayalaseema) ceded 1800** for subsidiary costs.",
+      "Company's first Andhra factory: **Masulipatnam (1611)**.",
+      "Regulating Act **1773** → Pitt's India Act **1784** → Charter Acts **1813/1833/1853** — the constitutional ladder of Company rule."
+    ],
+    "mainsAngles": [
+      "British power in India was built with Indian sepoys and Bengal's revenues — examine the instruments and enablers of expansion, 1757–1856.",
+      "Compare the Subsidiary Alliance and the Doctrine of Lapse as techniques of indirect and direct annexation.",
+      "Why did Indian states fail to resist the Company despite repeated wars? Analyse the structural asymmetries.",
+      "Trace how coastal Andhra and Rayalaseema entered British possession, and what the labels 'Circars' and 'Ceded Districts' reveal.",
+      "The Charter Acts turned a trading company into a state — discuss the constitutional consolidation of Company rule."
+    ],
+    "glossary": [
+      { "term": "Diwani", "definition": "The right to collect revenue and administer civil justice — granted to the Company for Bengal-Bihar-Orissa in 1765, making it sovereign in substance." },
+      { "term": "Subsidiary Alliance", "definition": "Wellesley's system binding Indian rulers to host and fund British troops, accept a Resident, and surrender foreign relations — protection at the price of sovereignty." },
+      { "term": "Doctrine of Lapse", "definition": "Dalhousie's policy of annexing states whose rulers died without a natural heir, refusing recognition to adopted successors." },
+      { "term": "Paramountcy", "definition": "The Company's (later Crown's) claimed supreme authority over Indian princely states — suzerainty above treaty text." },
+      { "term": "Ceded Districts", "definition": "Rayalaseema districts ceded by the Nizam to the Company in 1800 to pay for his subsidiary force — the colonial origin of the region's name." },
+      { "term": "Drain of wealth", "definition": "Naoroji's thesis that India's surplus was transferred to Britain via home charges, remittances and unrequited exports — 'the moral drain' of colonialism." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-028",
+    "sections": [
+      {
+        "heading": "Three settlements — one extractive logic",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Land revenue was colonialism's fiscal engine (~half of Company income), and the three settlement systems were experiments in **who to make responsible for it**: the zamindar (Bengal), the individual cultivator (Madras-Bombay), or the village community (North-West). Each restructured Indian agrarian society for a century and beyond."
+          },
+          {
+            "type": "table",
+            "headers": ["Feature", "**Permanent Settlement (1793)**", "**Ryotwari (1820–)**", "**Mahalwari (1822/33)**"],
+            "rows": [
+              ["Architect & area", "**Cornwallis (John Shore's plan), Bengal-Bihar-Orissa** (~19% of British India)", "**Thomas Munro & Alexander Read**; Madras (incl. **coastal Andhra & Rayalaseema**), Bombay (~51%)", "**Holt Mackenzie (1822), R.M. Bird/James Thomason (1833)**; NW Provinces, Punjab (~30%)"],
+              ["Settled with", "**Zamindars** as proprietors", "**The ryot (cultivator)** directly", "**The mahal (village/estate)** jointly — lambardar collected"],
+              ["Revenue character", "**Fixed in perpetuity** (10/11 to state, 1/11 to zamindar)", "**Temporary, revised** (~30-yr resettlements); initially ~50% of produce", "Periodically revised; ~66% then 50%"],
+              ["Logic", "Property-owning loyal gentry; predictable revenue; Whig landlordism", "Utilitarian direct contact; no intermediaries; Munro's paternalism", "Preserve (use) village bodies as revenue machines"],
+              ["Outcome", "**Sunset law auctions**, absentee landlordism, sub-infeudation layers, rack-rented tenants; zamindars = loyalist class", "Over-assessment → debt, land alienation to moneylenders; but direct state-peasant relation (AP's agrarian DNA)", "Village co-responsibility broke under over-assessment; Punjab canal-colony variant later"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Consequences — the agrarian transformation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Property revolution**: land became a **saleable, mortgageable commodity** — customary rights collapsed into contract; the moneylender entered as the new agrarian power (Deccan Riots 1875 as the symptom).",
+              "**Commercialisation**: cash revenue forced cash crops (indigo, cotton, opium, groundnut in Rayalaseema) — market integration without market protection; famines intensified (1770, 1866 Orissa, 1876-78 Madras/Deccan — Rayalaseema devastated).",
+              "**Class re-formation**: Bengal — zamindar/tenant polarity (later Bengal Tenancy Acts, Permanent Settlement's slow strangulation of state finance); Madras — peasant-moneylender axis; everywhere — growth of landless labour.",
+              "**Political consequences**: agrarian grievance fed 1857 (taluqdar-sepoy Awadh nexus), peasant movements (note HCOI-038), kisan sabhas, and ultimately **zamindari abolition (Madras Estates Abolition Act 1948; the first estates taken over included Andhra zamindaris)**.",
+              "**The AP specifics**: Munro's **ryotwari was born in the Ceded Districts (Bellary-Anantapur experiments, 1800s)** before Madras-wide extension (1820); coastal Andhra had a **zamindari overlay too** (Vizianagaram, Pithapuram, Venkatagiri estates under Permanent-Settlement-type sanads, 1802-03) — so AP uniquely lived **both systems**: the delta's estate belt vs the ryotwari uplands; the **Inam lands** (tax-free grants) were a third layer, later targeted by inam abolition laws."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Colonial revenue imperative] --> B[Permanent Settlement 1793 - zamindar]\n  A --> C[Ryotwari 1820 - cultivator, Munro]\n  A --> D[Mahalwari 1822-33 - village]\n  B --> E[Absentee landlordism, tenant rack-renting]\n  C --> F[Over-assessment, moneylender power]\n  D --> G[Village co-liability strain]\n  E --> H[Land = commodity; commercialisation; famines]\n  F --> H\n  G --> H\n  H --> I[Peasant movements to zamindari abolition 1948]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The comparison table IS the answer to most phrasings; add one consequences paragraph and the AP both-systems paragraph for distinction.",
+              "Percentages to carry: coverage 19-51-30; Bengal split 10/11-1/11; assessment ~50% (ryotwari), 66→50% (mahalwari)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The killer AP line — 'Andhra lived both settlements: sanad zamindaris in the delta, Munro's ryotwari in the Ceded Districts — and its 1948 Estates Abolition Act began undoing the first.' Few candidates know AP had Permanent-Settlement estates at all."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Permanent Settlement (1793)**: Cornwallis, Bengal; zamindar keeps **1/11th**; revenue fixed forever; 'sunset law' auctions on default.",
+      "**Ryotwari**: piloted by **Read & Munro in the Baramahal/Ceded Districts**, generalised in **Madras 1820** (Munro as Governor); direct settlement with the ryot, ~30-year revisions.",
+      "**Mahalwari**: **Holt Mackenzie's Regulation VII of 1822**, modified by **Bird/Thomason (1833)** — NW Provinces & later Punjab; village (mahal) jointly liable.",
+      "Coverage of British India: ryotwari ~**51%**, mahalwari ~30%, zamindari ~19%.",
+      "Coastal Andhra estates (Vizianagaram, Pithapuram, Venkatagiri) held **permanent sanads (1802-03)** — Madras's own Permanent-Settlement pocket.",
+      "**Madras Estates (Abolition & Conversion into Ryotwari) Act, 1948** — among India's first zamindari-abolition laws, covering Andhra estates.",
+      "**Deccan Riots (1875)** against moneylenders → Deccan Agriculturists' Relief Act 1879."
+    ],
+    "mainsAngles": [
+      "Compare the three land-revenue settlements on design, logic and legacy — one extractive purpose, three social engineerings.",
+      "The Permanent Settlement created property and destroyed the peasantry's customary world — discuss.",
+      "Munro's ryotwari promised the cultivator and delivered the moneylender — evaluate with the Madras/Andhra experience.",
+      "Land settlements are the deep history of Indian agrarian classes — trace the line from 1793 to zamindari abolition.",
+      "Andhra lived both zamindari and ryotwari — analyse the regional duality and its long-run consequences for AP's agrarian structure."
+    ],
+    "glossary": [
+      { "term": "Zamindar", "definition": "Revenue intermediary made proprietor under the Permanent Settlement — collecting from tenants, remitting a fixed sum to the state." },
+      { "term": "Ryot", "definition": "The cultivating peasant — the direct settlement unit of the ryotwari system, holding a patta from the state." },
+      { "term": "Mahal", "definition": "A village or estate treated as one fiscal unit under mahalwari, with co-sharers jointly liable through the lambardar." },
+      { "term": "Sunset law", "definition": "Permanent-Settlement rule auctioning zamindari estates if revenue wasn't paid by sunset of the due date — churning Bengal's landed class." },
+      { "term": "Sub-infeudation", "definition": "Layering of rent-collecting intermediaries between zamindar and actual tiller — Bengal counted up to a dozen tiers." },
+      { "term": "Inam", "definition": "Tax-free or favourably assessed land grant (religious/service) — Madras's third tenure layer, abolished by post-independence inam legislation." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-029",
+    "sections": [
+      {
+        "heading": "1857 — causes: a century's grievances, a cartridge's spark",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Cause layer", "Content"],
+            "rows": [
+              ["Political", "Doctrine of Lapse (Jhansi, Nagpur, Satara); **Awadh's annexation (1856)** — the sepoys' homeland humiliated; Mughal court's planned extinction (Bahadur Shah's successors to leave the Red Fort)"],
+              ["Economic", "Revenue over-assessment; **taluqdars of Awadh dispossessed (Summary Settlement 1856)**; deindustrialised artisans; resumption of inam/rent-free lands (Bentinck-era inquiries)"],
+              ["Social-religious", "Missionary activity + reforms perceived as interference (sati abolition, widow remarriage, Religious Disabilities Act 1856 protecting converts' inheritance); racial arrogance"],
+              ["Military", "Sepoy pay/pension grievances; **General Service Enlistment Act 1856** (overseas service = caste loss); Indians barred above subedar; 6:1 sepoy-European ratio post-Punjab"],
+              ["Immediate", "**Greased cartridges** of the Enfield rifle (cow & pig fat) — **Mangal Pandey, Barrackpore, 29 March 1857**; Meerut sepoys court-martialled, rose **10 May 1857**, marched to Delhi, proclaimed **Bahadur Shah Zafar** emperor"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Spread & leaders**: Delhi (Bahadur Shah; real command **Bakht Khan**), Kanpur (**Nana Saheb**, Tantia Tope, Azimullah), Lucknow (**Begum Hazrat Mahal**), Jhansi (**Rani Lakshmibai** — died Gwalior, June 1858), Bareilly (Khan Bahadur Khan), Arrah/Bihar (**Kunwar Singh**), Faizabad (**Maulvi Ahmadullah Shah**). Recaptures: Delhi (Sept 1857, John Nicholson), Lucknow (March 1858, Campbell), Jhansi-Gwalior (Hugh Rose, June 1858); Tantia Tope's guerrilla year ended in betrayal and execution (April 1859)."
+          }
+        ]
+      },
+      {
+        "heading": "Why it failed — and what it changed",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Failure causes**: no all-India spread (Punjab, Bengal, Bombay, Madras armies largely loyal — **south India, including Andhra, stayed quiet**); no unified command or plan; backward-looking symbols (restoring Mughal/Peshwa orders) vs no common positive programme; educated middle class & most princes (Scindia, Nizam — **Salar Jung kept Hyderabad loyal**) aloof; British telegraph, Crimea-freed troops, and ruthless resources.",
+              "**Nature debate (historiography)**: 'sepoy mutiny' (British official view) vs **'First War of Independence' (V.D. Savarkar, 1909)** vs 'feudal reaction' (R.C. Majumdar: 'neither first, nor national, nor war of independence') vs modern view — **a popular civil rebellion with sepoy vanguard** (S.B. Chaudhuri; Eric Stokes' peasant-armed studies): civilians outnumbered sepoys among the punished.",
+              "**Impact — the great reorganisation**: **Government of India Act 1858** — Crown rule, Secretary of State with Council, Viceroy (Canning); **Queen's Proclamation (1 Nov 1858, Allahabad)** — no annexations, religious non-interference, princes' adoption rights honoured (Lapse dead), equal-opportunity promise (honoured in breach); **Army re-engineering** — European ratio ~1:2, artillery Europeanised, 'martial races' + divide-and-rule recruitment; **princes converted to 'breakwaters in the storm'** — loyalist pillars till 1947; racial chasm deepened; conservative alliance with landlords (taluqdars restored); and the psychological legacy — 1857's memory fed later nationalism even as its methods were abandoned.",
+              "**AP note**: while the Madras Presidency stayed calm, Andhra's own anti-colonial risings ran on a different clock — the **palegar/zamindari resistances earlier (e.g., Uyyalawada Narasimha Reddy's Kurnool rising, 1846-47 — executed 1847)** and the tribal fituris later (Rampa 1879, Alluri 1922-24) — cite Narasimha Reddy as Rayalaseema's pre-1857 counterpart."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Accumulated grievances - political, agrarian, military, religious] --> B[Cartridge spark - Meerut 10 May 1857]\n  B --> C[Delhi proclaimed - Bahadur Shah]\n  C --> D[Awadh, Rohilkhand, Bundelkhand, Bihar rise]\n  D --> E[No unified command or programme]\n  E --> F[Suppression by mid-1858]\n  F --> G[Act of 1858 - Crown rule]\n  G --> H[Army rebuilt, princes co-opted, reforms frozen]\n  H --> I[Memory feeds modern nationalism]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Leader-place pairs are non-negotiable prelims-and-mains currency (eight pairs above). Date anchors: 29 Mar (Pandey), 10-11 May (Meerut-Delhi), Sept 1857 (Delhi falls), June 1858 (Jhansi/Gwalior), 1 Nov 1858 (Proclamation).",
+              "For 'nature' questions: run the four-position historiography with names; for 'impact': the 1858 Act + army + princes triad; always add the Narasimha Reddy AP counterpoint."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner's favourite twist is 'why did the south stay quiet?' — answer: ryotwari's different agrarian anatomy, Madras army's composition, distance from the Gangetic grievance core — then pivot to Andhra's own separate rebellion timeline (Narasimha Reddy 1847, fituris later)."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mangal Pandey — Barrackpore, 29 March 1857** (34th BNI); Meerut rising **10 May 1857**.",
+      "Leaders: Delhi-**Bakht Khan**, Kanpur-**Nana Saheb/Tantia Tope**, Lucknow-**Begum Hazrat Mahal**, Jhansi-**Lakshmibai**, Bihar-**Kunwar Singh**, Faizabad-**Maulvi Ahmadullah**.",
+      "**GoI Act 1858**: Company abolished; **Secretary of State for India** with 15-member Council; Governor-General became **Viceroy (Canning first)**.",
+      "**Queen Victoria's Proclamation** read at **Allahabad, 1 Nov 1858** by Canning.",
+      "'First War of Independence' — **V.D. Savarkar (1909)**; R.C. Majumdar's counter: 'neither first, nor national…'.",
+      "**Uyyalawada Narasimha Reddy's Kurnool/Koilkuntla rising (1846-47)** — Rayalaseema's pre-1857 armed resistance; hanged 1847.",
+      "Hyderabad stayed loyal under **Salar Jung**; Madras Presidency (incl. Andhra) saw no 1857 rising.",
+      "Army after 1858: European:Indian ~**1:2**, artillery exclusively European, 'martial races' recruitment."
+    ],
+    "mainsAngles": [
+      "1857 was a civil rebellion with a sepoy vanguard — evaluate the historiographical debate on its nature.",
+      "Anatomise the causes of 1857 as a century of grievance awaiting a spark.",
+      "Why did the revolt fail, and why did south India — including Andhra — stand apart?",
+      "The empire that suppressed 1857 was not the empire that provoked it — analyse the post-1858 reorganisation of British rule.",
+      "Place Uyyalawada Narasimha Reddy's rising in the longer Andhra tradition of armed resistance before and after 1857."
+    ],
+    "glossary": [
+      { "term": "Greased cartridge", "definition": "Enfield rifle cartridge rumoured coated with cow and pig fat, requiring biting — the immediate trigger of the sepoy rising." },
+      { "term": "Taluqdar", "definition": "Awadh's great landholder class, dispossessed by the 1856 Summary Settlement and restored post-1858 as loyalist allies." },
+      { "term": "Queen's Proclamation", "definition": "The 1858 charter of Crown rule promising non-annexation, religious non-interference and equal treatment — 'the Magna Carta of Indian people' in official rhetoric." },
+      { "term": "Martial races theory", "definition": "Post-1857 recruitment doctrine favouring 'loyal' communities (Sikhs, Gurkhas, Pathans) while excluding the rebellion's heartland — divide-and-rule in uniform." },
+      { "term": "Fituri", "definition": "Tribal rising/rebellion in the Andhra agency tracts (Rampa 1879, Alluri's 1922-24) — the region's recurring form of anti-colonial revolt." },
+      { "term": "Breakwaters in the storm", "definition": "Canning's phrase for the loyal princes of 1857 — the rationale for preserving princely states as imperial pillars." }
+    ]
+  }
+]
