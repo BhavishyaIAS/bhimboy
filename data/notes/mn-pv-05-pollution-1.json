@@ -1,0 +1,259 @@
+[
+  {
+    "code": "MN-PV-PL-024",
+    "sections": [
+      {
+        "heading": "Air, water, soil — sources and impacts (the technical register)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Medium", "Primary sources", "Impact mechanisms"],
+            "rows": [
+              ["**Air**", "Stationary combustion (power ~half of SO2), vehicles (NOx-CO-PM), industry-processes, biomass-stubble, dust; **secondary formation** (SO2/NOx→sulphate-nitrate PM; VOC+NOx+sun→ozone)", "PM2.5's alveolar-to-blood penetration (IHD, stroke, COPD, LBW); ozone's crop enzyme damage; SO2-NOx→acid deposition; black carbon's glacier forcing"],
+              ["**Water**", "Sewage (BOD-pathogens), industry (metals-toxics: Cr-tanneries, Hg, Pb), agriculture (N-P runoff, pesticides), aquaculture effluents, thermal discharge", "Oxygen sag below outfalls (DO crash → fish kill); **eutrophication-algal-hypoxia**; **biomagnification** of persistent toxics up food chains (Minamata's Hg lesson); pathogen disease burden; nitrate's blue-baby (methemoglobinemia)"],
+              ["**Soil**", "Agrochemical residues (OC pesticides' persistence), heavy metals (sewage-irrigation, industrial fallout, mine tailings), plastic film, fly-ash, salinisation", "Microbiome-earthworm decline → fertility loss; crop uptake → dietary metal exposure (Cd in rice); groundwater leaching; persistence (POPs' decades)"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Measurement literacy** (the science-paper differentiator): air — µg/m³, AQI's pollutant-wise sub-indices; water — **BOD** (organic load's oxygen demand; bathing-class <3 mg/l), **COD, DO, faecal coliform (MPN)**; soil — pH-EC-organic carbon plus contaminant assays; bio-indicators (lichens for air, mayflies for streams)."
+          }
+        ]
+      },
+      {
+        "heading": "Control technologies — the engineering answers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Air control**: particulates — **ESPs** (electrostatic precipitators; the coal-plant standard), bag filters, cyclones-scrubbers; gases — **FGD** (flue-gas desulphurisation; the delayed 2015-norms saga), **SCR/low-NOx burners**, catalytic converters (BS-VI's three-way + DPF+SCR), VOC capture; process shifts — cleaner fuels (gas, ethanol), electrification; area measures — dust suppression, green buffers, stubble in-situ (Happy Seeder-decomposer).",
+              "**Water control**: the **treatment train** — primary (screens-settling) → **secondary biological** (activated sludge, trickling filters, UASB, SBR, the low-cost oxidation ponds-wetlands) → tertiary (nutrient removal, disinfection UV/Cl, membranes for reuse); **CETPs** for industrial clusters; **ZLD** for high-toxic sectors (textiles' Tirupur precedent); non-point control — buffer strips, fertiliser scheduling, drip; in-situ river rehab — aeration, wetland interception (the Ganga bioremediation pilots).",
+              "**Soil control & remediation**: prevention (balanced fertilisation, IPM, treated-only sewage irrigation) → containment (lining, capping) → remediation — **phytoremediation** (hyperaccumulators; vetiver-sunflower), **bioremediation** (microbial degraders; oil-zapper's fame), soil washing, electrokinetics, biochar amendment — the technology ladder by cost.",
+              "**The management wrap**: standards (NAAQS, effluent norms) + monitoring (CAAQMS, real-time effluent OCEMS) + enforcement (consent-to-operate, closures) + economics (ETS pilots, treated-water reuse markets) — technology works when institutions make it bind (the G-093 governance file complements)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Sources: combustion, sewage, agrochemicals] --> B[Air: PM, NOx, SO2, O3]\n  A --> C[Water: BOD, nutrients, toxics]\n  A --> D[Soil: residues, metals, salts]\n  B --> E[Controls: ESP, FGD, SCR, BS-VI, fuel shift]\n  C --> F[Treatment train: primary-secondary-tertiary, CETP, ZLD]\n  D --> G[Remediation: phyto, bio, washing, biochar]\n  E --> H[Standards + monitoring + enforcement]\n  F --> H\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "This is the TECHNOLOGY note (vs G-093's law-policy note): sources-mechanisms table + control paragraphs with named devices (ESP, FGD, UASB, ZLD, phytoremediation) + measurement literacy (BOD-DO-AQI).",
+              "AP illustrations: Vizag ESP-FGD retrofits, Tirupur-style ZLD arguments for pharma clusters, delta aqua-effluent management, fly-ash roads."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Name five technologies with their target pollutant — ESP-PM, FGD-SO2, SCR-NOx, UASB-sewage, ZLD-toxics — that one sentence signals engineering literacy the science paper rewards."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**BOD** — oxygen demanded by microbes degrading organic waste; bathing-quality benchmark **<3 mg/l**; DO healthy river ~5+ mg/l.",
+      "**Secondary pollutants**: ozone, sulphate-nitrate PM — formed in-air from precursors; ground-level ozone needs sun+NOx+VOC.",
+      "**ESP** removes particulates by charging-collection; **FGD** scrubs SO2 (limestone-gypsum); **SCR** reduces NOx with ammonia over catalyst.",
+      "**BS-VI (2020)** cut sulphur to 10 ppm enabling DPF-SCR after-treatment.",
+      "**UASB** — anaerobic sludge-blanket sewage tech; oxidation ponds & constructed wetlands the low-cost train.",
+      "**ZLD (zero liquid discharge)** mandated for highly polluting textile clusters (Tirupur precedent).",
+      "**Biomagnification** — concentration of persistent toxics up trophic levels (DDT, Hg — Minamata).",
+      "**Phytoremediation** uses hyperaccumulator plants; **bioremediation** microbial degraders (TERI's Oilzapper)."
+    ],
+    "mainsAngles": [
+      "From source to receptor — trace each medium's pollution mechanism and its matched control technology.",
+      "The treatment train is water policy's hardware — design sewage and industrial-effluent systems for an AP city.",
+      "Why did FGD norms slip a decade? Examine the economics-enforcement gap in air-control retrofits.",
+      "Soil is the slowest medium to poison and to clean — evaluate the remediation ladder with Indian pilots.",
+      "Monitoring is the mother of enforcement — assess CAAQMS-OCEMS real-time regimes and their gaming risks."
+    ],
+    "glossary": [
+      { "term": "BOD/COD", "definition": "Biochemical/Chemical oxygen demand — organic-pollution loads measured by the oxygen their degradation consumes." },
+      { "term": "Electrostatic precipitator", "definition": "Device charging flue-gas particles for plate collection — the workhorse of coal-plant PM control." },
+      { "term": "Flue-gas desulphurisation", "definition": "Scrubbing SO2 from stack gases (typically limestone slurry → gypsum) — the 2015 norms' delayed centrepiece." },
+      { "term": "Activated sludge", "definition": "Aerobic microbial treatment of sewage in aerated tanks with sludge recycling — secondary treatment's standard." },
+      { "term": "Zero liquid discharge", "definition": "Full recovery-recycle of industrial effluent with only solid residue leaving — the high-toxics sector mandate." },
+      { "term": "Phytoremediation", "definition": "Using plants to extract, stabilise or degrade soil-water contaminants — green, slow, cheap remediation." }
+    ]
+  },
+  {
+    "code": "MN-PV-PL-025",
+    "sections": [
+      {
+        "heading": "Noise pollution — the neglected medium",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Noise = unwanted sound; measured in **decibels (dB(A))** on a **logarithmic scale** (+10 dB = ×10 intensity, ~×2 loudness). Sources: traffic (the urban baseline), construction, industry, generators, aircraft, and India's specials — horns and loudspeakers-festivals. **Impacts**: auditory (NIHL — permanent >85-90 dB chronic exposure) and the larger non-auditory file — sleep disruption, cardiovascular stress (hypertension-IHD associations at >55 dB night), cognition (children's learning near flight paths), wildlife disruption (bird song shifts, marine mammals vs shipping sonar). **Regulation**: **Noise Rules 2000** under EPA — zone standards (**industrial 75/70, commercial 65/55, residential 55/45, silence 50/40 day/night dB**), silence zones (100 m around hospitals-schools-courts), loudspeaker curfews (10 pm-6 am; SC's *In Re Noise Pollution 2005*), CPCB's ambient-noise network in metros — enforcement the weak limb (police-SPCB split)."
+          },
+          {
+            "type": "table",
+            "headers": ["Solid-waste management — the chain", "Content"],
+            "rows": [
+              ["Generation & composition", "India MSW ~**62+ MT/yr (1.5 lakh+ TPD)**; typical mix ~50-55% wet/organic, ~30% dry recyclables, rest inert-domestic-hazardous; per-capita ~0.4-0.6 kg/day urban"],
+              ["**Rules architecture**", "**SWM Rules 2016** (segregation at source into wet-dry-domestic hazardous; user fees; decentralised processing; landfill only for residuals) + the EPR family — **Plastic (2016/22), e-Waste (2022), Battery (2022), C&D (2016)** rules"],
+              ["Processing menu", "**Composting-vermicomposting** (wet), **biomethanation/CBG** (GOBARdhan link), material-recovery facilities (dry), **waste-to-energy** (calorific caveats — Indian waste's low CV; Okhla-era controversies), C&D recycling plants, **sanitary landfill vs the dumpsite legacy (~3,000+ sites; SBM 2.0's remediation of ~15-16 crore tonnes)**"],
+              ["Recycle-reuse economy", "India's recycling tradition (kabadiwala's ~60% paper-plastic-metal informal recovery); **EPR credits marketplaces**; refill-reuse models; the **informal-sector integration imperative** (waste-pickers' ~15-40 lakh workforce — 'recognise, don't replace')"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Evaluation and the craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**SWM's binding constraint is behavioural-institutional, not technical**: segregation at source decides everything downstream (mixed waste kills composting and WtE alike); **Indore's** decade-topping SBM run proves the model — door-to-door six-way segregation, GPS fleets, processing at scale, user-fee discipline: cite it as the existence proof.",
+              "**Waste-to-energy's honest note**: works only on segregated high-CV residuals; as mixed-waste incineration it's costly and dirty — 'WtE is a residuals technology, not a substitute for segregation'.",
+              "**Circular pivot**: EPR's producer financing + recyclate standards + design-for-recycling (the plastic ban's single-use list) + urban mining (e-waste's metals) — waste policy graduating into materials policy.",
+              "**AP file**: Vizag-Tirupati-Vijayawada's Swachh rankings runs, **Anantapur-era garbage-free-city pilots**, secretariat-linked collection (~100% door-to-door claims), legacy-dump bioremediation at the big-city sites, aqua-processing waste and coastal plastic (the fishing-net EPR frontier) — plus the **Tirupati temple-town model** (banned plastics, mass composting of floral waste) as a religious-city showcase."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Waste generated 62 MT] --> B{Segregated at source?}\n  B --> C[Wet: compost, biomethanation]\n  B --> D[Dry: MRF, recycling, EPR credits]\n  B --> E[Residuals: WtE or sanitary landfill]\n  B --> F[Mixed: dumpsite legacy - SBM 2.0 remediation]\n  G[Informal sector 15-40 lakh pickers] --> D\n  C --> H[Circular materials economy]\n  D --> H\n  E --> H\n  I[Noise: zone standards, silence zones, curfews] --> J[Enforcement gap - the neglected medium]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Noise: dB-logarithm + zone-standard table + auditory/non-auditory impacts + 2005 SC case; SWM: 2016-rules pillars + processing menu + Indore proof + informal-integration + EPR-circularity.",
+              "The segregation-decides-everything thesis and WtE-as-residuals caveat are the two evaluative keys."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Quote the four zone standards (75-65-55-50 day) from memory and the Indore model in one line — precision on the neglected medium plus the existence proof on waste is a scoring combination."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Decibel scale is logarithmic**: +10 dB = tenfold intensity; chronic **>85 dB** risks noise-induced hearing loss.",
+      "**Noise Rules 2000** zones (day/night dB): industrial **75/70**, commercial **65/55**, residential **55/45**, **silence 50/40**; loudspeakers barred **10 pm-6 am** (SC 2005).",
+      "**SWM Rules 2016**: source segregation (wet/dry/domestic-hazardous), decentralised processing, landfills for residuals only.",
+      "India's MSW ~**62+ million tonnes/yr**; legacy dumpsites ~3,000+; **SBM-Urban 2.0** targets full remediation ('lakshya zero dumpsites').",
+      "**EPR rules family**: plastic packaging (2022 targets), e-waste (2022), batteries (2022), tyres — producer-financed circularity.",
+      "**Indore** — India's cleanest city for successive Swachh surveys: the segregation-processing model city.",
+      "**GOBARdhan/CBG** links wet waste to bio-energy; C&D waste rules (2016) mandate recycling plants.",
+      "Informal waste workforce ~**15-40 lakh**; integration (not displacement) is stated policy."
+    ],
+    "mainsAngles": [
+      "Noise is the pollutant without a lobby — assess its health file and the enforcement gap in the 2000 Rules.",
+      "Segregation decides everything — anatomise the SWM 2016 architecture and Indore's existence proof.",
+      "Waste-to-energy is a residuals technology — evaluate its Indian record against the composting-first logic.",
+      "EPR turns waste policy into materials policy — examine the producer-responsibility regimes and their markets.",
+      "Integrate, don't replace — argue the informal sector's place in India's recycling economy."
+    ],
+    "glossary": [
+      { "term": "dB(A)", "definition": "A-weighted decibel — sound intensity weighted to human hearing; the logarithmic unit of noise regulation." },
+      { "term": "Silence zone", "definition": "100-m belts around hospitals, schools and courts with the strictest limits (50/40 dB) under the 2000 Rules." },
+      { "term": "Source segregation", "definition": "Household separation of wet, dry and hazardous streams — the hinge of all downstream waste processing." },
+      { "term": "Material recovery facility", "definition": "Sorting plant channelling dry waste to recyclers — the dry stream's processing node." },
+      { "term": "Legacy waste", "definition": "Decades-old dumped mixed waste; bio-mined and remediated under SBM 2.0's zero-dumpsite goal." },
+      { "term": "Extended Producer Responsibility", "definition": "Producers' financed obligation for post-consumer product waste — plastics-e-waste-battery rules' engine." }
+    ]
+  },
+  {
+    "code": "MN-PV-PL-026",
+    "sections": [
+      {
+        "heading": "Soil erosion — the quiet haemorrhage and its remedies",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India loses soil at ~**15-16 tonnes/ha/yr average (~5+ billion tonnes)** against a tolerable ~4-11; **water erosion dominates (~80%+ of degraded area)** — sheet → rill → gully progression — with wind erosion in the arid west. Drivers: vegetation loss, up-down cultivation on slopes, overgrazing, fallow exposure to monsoon bursts, and construction's cut-and-dump. **The remedy stack is the watershed toolkit applied by slope class**: **agronomic** (contour cultivation, strip cropping, cover crops-mulching, conservation tillage/zero-till, grass waterways), **mechanical** (contour bunding, graded bunds, **bench terracing** for >15-20% slopes, trenches, gully control — check dams, spurs), **vegetative** (shelterbelts-windbreaks for wind erosion, vetiver hedgerows — the 'living bund', afforestation of ridges, dune stabilisation with grasses), **regulatory** (grazing rotation, mining-construction sediment control) — matched, sequenced (ridge-to-valley), and community-maintained (the Hiware-Bazar lesson from ED-046)."
+          },
+          {
+            "type": "table",
+            "headers": ["Coastal erosion", "Content"],
+            "rows": [
+              ["The problem", "**~34% of India's coastline is eroding** (NCCR shoreline atlas); drivers — sediment starvation (upstream dams trapping silt: the Krishna-Godavari deltas' deficit), **ports-breakwaters interrupting longshore drift** (the classic updrift-accretion/downdrift-erosion couple), sand mining, mangrove loss, SLR + intensified cyclones"],
+              ["**AP's hotspots**", "**Uppada (Kakinada coast)** — the state's emblematic eroding village (highway-homes lost; geo-tube trials), Kakinada-Godavari spit dynamics, **Visakhapatnam's post-port erosion history (RK Beach nourishment via dredger bypassing)**, Krishna delta's retreat (Diviseema shores), Nizampatnam sector — the state's shoreline audit shows significant eroding stretches"],
+              ["Hard responses", "Seawalls-revetments (protect land, often transfer erosion downdrift & lose the beach), **groynes** (trap drift — starve neighbours), offshore breakwaters — engineering with side-effects: 'armouring is local victory, coastal defeat' unless system-designed"],
+              ["Soft & hybrid responses", "**Beach nourishment + sediment bypassing at ports (Vizag's practice)**, dune rebuilding, **mangrove-shelterbelt bio-shields** (post-2004 evidence; Coringa's buffer), **geo-textile tubes/reef units (Uppada trials, Kerala's Poonthura-era pilots)**, managed retreat + setback enforcement (**CRZ 2019's hazard-line logic**) — working WITH the sediment budget"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The analytical wrap",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**One science, two theatres**: both erosions are **sediment-budget problems** — soil erosion exports the farm's capital; coastal erosion is the shore's account running deficits (dams withhold deposits, structures divert transfers) — the budget metaphor unifies the answer.",
+              "**Choose interventions by process, not fashion**: agronomy before masonry on farms (cheapest first); nourishment-bypassing before armour on coasts; and always the maintenance-institution question (bunds silt, geo-tubes tear — who repairs?).",
+              "**Policy anchors**: watershed programmes (PMKSY-WDC, MGNREGA-NRM) for soil; **NCCR shoreline monitoring, CRZ-2019 hazard mapping, the National Strategy for Coastal Protection & flood-plain-esque setback discipline** for coasts; climate adaptation funds converging on both.",
+              "**AP close**: a delta state with dam-starved sediment and a port-dense coast is erosion's natural laboratory — Uppada's geo-tubes, Vizag's bypassing, Coringa's mangroves and the ridge-to-valley uplands give AP one example per technique."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Sediment budget] --> B[Farm theatre: rain detaches, slope transports]\n  A --> C[Coast theatre: rivers supply, drift distributes]\n  B --> D[Remedies: agronomic, mechanical, vegetative - ridge to valley]\n  C --> E[Deficit drivers: dams, ports, sand mining, SLR]\n  E --> F[Hard: seawalls, groynes - side effects]\n  E --> G[Soft: nourishment, bypassing, mangroves, geo-tubes, setbacks]\n  D --> H[Budget balanced - capital conserved]\n  G --> H\n  F --> I[Downdrift transfer unless system-designed]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Soil: rates + water-erosion dominance + the three-family remedy stack by slope; Coast: 34% fact + the four-driver diagnosis + hard-vs-soft with the downdrift caveat.",
+              "AP set-pieces: Uppada, Vizag bypassing, Coringa bio-shield, delta sediment starvation — the four-example kit."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Erosion is a sediment-budget deficit' — open both halves with it; the updrift-accretion/downdrift-erosion couple at ports is the mechanism examiners test, and Uppada is AP's name for the whole problem."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India's soil loss ~**15.35 t/ha/yr** (~5.3 billion tonnes); **water erosion ~80%+** of degraded area; progression **sheet→rill→gully**.",
+      "**Bench terracing** suits steep (>16%) slopes; contour bunding gentler ones; **vetiver hedgerows** the vegetative bund.",
+      "**~33-34% of India's coastline is eroding** (NCCR National Shoreline Assessment).",
+      "**Longshore drift interruption** by ports/groynes → updrift accretion, **downdrift erosion** — the coastal-structure signature.",
+      "**Uppada (Kakinada)** — AP's flagship erosion village; **geo-textile tube** protection trials; Vizag practises **sand bypassing/beach nourishment**.",
+      "Upstream **dams trap sediment**, starving deltas (Krishna-Godavari) — subsidence-plus-SLR compounds retreat.",
+      "**Mangrove bio-shields** attenuate waves/surge (post-2004 tsunami evidence); **Coringa** is AP's buffer forest.",
+      "**CRZ Notification 2019** + hazard-line mapping govern coastal setbacks."
+    ],
+    "mainsAngles": [
+      "Erosion is a sediment-budget deficit — unify the farm and the shore under one science and derive matched remedies.",
+      "Agronomy before masonry — sequence the soil-conservation stack by slope and cost with programme anchors.",
+      "Ports build beaches on one side and eat villages on the other — explain the drift mechanics and the bypassing answer.",
+      "Hard armour or soft adaptation — adjudicate coastal-protection choices with AP's Uppada-Vizag-Coringa evidence.",
+      "Dams starve deltas — connect reservoir siltation to coastal retreat and the governance it demands."
+    ],
+    "glossary": [
+      { "term": "Sheet-rill-gully erosion", "definition": "Water erosion's escalation from uniform skimming to channels to ravines — the diagnostic sequence." },
+      { "term": "Bench terracing", "definition": "Converting steep slopes into level steps — the mechanical answer where bunds can't hold." },
+      { "term": "Longshore drift", "definition": "Wave-driven along-coast sediment conveyor — interrupting it redistributes beaches from downdrift to updrift." },
+      { "term": "Beach nourishment", "definition": "Artificially replenishing beach sand (often by port dredger bypassing) — protection that keeps the beach." },
+      { "term": "Geo-textile tube", "definition": "Sand-filled fabric barriers used as soft-engineered coastal defence — Uppada's trial technology." },
+      { "term": "Sediment starvation", "definition": "Deficit of river-borne sediment (dam-trapped) that turns stable deltas into retreating ones." }
+    ]
+  }
+]
