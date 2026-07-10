@@ -1,0 +1,251 @@
+[
+  {
+    "code": "MN-PIII-LII-039",
+    "sections": [
+      {
+        "heading": "The Constitution's legal skeleton — a lawyer's summary",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This law-unit theme re-reads the polity notes through a **legal lens**: the Constitution as **supreme law** (Art 13 voiding inconsistent laws), its **nature** (written, quasi-federal, parliamentary, justiciable rights), and the **rights-directives architecture** as enforceable vs aspirational law. What the examiner wants here is the LEGAL operation — which provision, what remedy, which court."
+          },
+          {
+            "type": "table",
+            "headers": ["Fundamental Rights (Part III) — the enforceable core", "Legal content"],
+            "rows": [
+              ["**Art 14** equality", "Reasonable-classification test (intelligible differentia + rational nexus); arbitrariness doctrine (**Royappa**); the manifest-arbitrariness ground (**Shayara Bano, 2017** — triple talaq struck)"],
+              ["**Art 19** six freedoms", "Citizens only; each freedom with its own reasonable-restriction clause (19(2)-(6)); proportionality review post-**Puttaswamy**"],
+              ["**Arts 20-22** criminal-process rights", "No ex-post-facto, double jeopardy, self-incrimination (20); life-liberty by fair procedure (21 — the residuary rights mine: privacy, dignity, speedy trial); arrest safeguards + preventive-detention limits (22)"],
+              ["**Arts 23-24, 25-28, 29-30**", "Anti-exploitation (trafficking, child labour); religious freedom with public-order caps; minority culture-education rights (**TMA Pai's** framework)"],
+              ["**Art 32** remedies", "The right TO enforce rights — five writs; 'the soul' (Ambedkar); HCs' Art 226 wider (any purpose)"],
+              ["**DPSPs (Part IV)**", "Non-justiciable duties of the State (39's distributive clauses, 39A legal aid, 43 living wage, 44 UCC, 48A environment) — judicially fused with FRs (**Minerva Mills'** balance doctrine); the FR-DPSP harmonisation is basic structure"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Centre-state division of powers — the legal machinery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Legislative division** (Arts 245-254; Seventh Schedule): the three lists with Union predominance; doctrines the courts police with — **pith & substance, colourable legislation, repugnancy (254), harmonious construction** (the PC-005 file, here cited as case law: Balsara, Gajapati, Karunanidhi).",
+              "**Administrative & financial division**: Arts 256-263 (directions, delegation, Inter-State Council), Arts 268-293 (taxing heads' separation — no overlap by design; GST's 246A concurrency the exception; borrowing limits 293(3) — the AP-relevant consent requirement while indebted to the Centre).",
+              "**The legal character question**: 'Indian federalism is a legal hierarchy with political negotiation' — Bommai's judicial review of 356, Art 131 suits (state-vs-Centre litigation: AP's own water/asset suits context), and the **Art 143 advisory** channel — federal disputes are justiciable in India to a degree rare among federations.",
+              "**Answer craft**: for this theme, always answer with **provision + doctrine + case** triplets; the polity-note content (PC-001/002/005) supplies substance — the law lens supplies the marks."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Constitution as supreme law - Art 13] --> B[Part III rights - enforceable]\n  A --> C[Part IV directives - aspirational]\n  B --> D[Remedies: Art 32 and 226 writs]\n  C --> E[Fused via Minerva balance]\n  A --> F[Power division: Arts 245-254, Seventh Schedule]\n  F --> G[Doctrines: pith and substance, repugnancy]\n  F --> H[Fiscal: separate tax heads, 246A GST exception]\n  G --> I[Justiciable federalism - Bommai, Art 131]\n  D --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Provision-doctrine-case triplets: 14-classification-Royappa; 21-fair procedure-Maneka; 32-writs-'the soul'; 254-repugnancy-Karunanidhi; 356-review-Bommai.",
+              "Differentiate from the polity notes by register: legal operation and remedy, not institutional description."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: In the law unit, every assertion earns its mark only with its provision number attached — write like a junior counsel, not a commentator."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Art 13**: 'law' includes ordinance, order, bye-law, rule, custom — all void to the extent of FR inconsistency.",
+      "**Art 21's expansion**: Maneka (1978) — procedure must be just-fair-reasonable; progeny — privacy (Puttaswamy 2017), speedy trial (Hussainara), shelter, environment.",
+      "**Writ literacy**: habeas corpus (detention), mandamus (public duty), prohibition & certiorari (jurisdictional control), quo warranto (office's title).",
+      "**Art 20** protections apply even in emergency (44th Amendment's non-derogables with 21).",
+      "**Doctrine of severability & eclipse** — Art 13's operational doctrines (RMDC; Bhikaji Narain).",
+      "**Art 293(3)**: a state indebted to the Centre needs central consent to borrow — the fiscal-federal leash.",
+      "**TMA Pai (2002)** — 11-judge framework on minority educational rights (Art 30)."
+    ],
+    "mainsAngles": [
+      "Read Parts III and IV as one charter — enforceable liberty and directed welfare fused by judicial balance.",
+      "Article 21 became the residuary right — trace its expansion and the discipline proportionality now imposes.",
+      "The Seventh Schedule is policed by doctrine — illustrate pith-and-substance, colourability and repugnancy with cases.",
+      "Indian federal disputes are justiciable — evaluate Articles 131, 143 and Bommai as the legal machinery of federalism.",
+      "Write the provision-doctrine-case method: demonstrate it on equality, liberty and repugnancy questions."
+    ],
+    "glossary": [
+      { "term": "Reasonable classification", "definition": "Art 14's test — a valid differentia rationally connected to the law's object; arbitrariness its modern supplement." },
+      { "term": "Procedure established by law (post-Maneka)", "definition": "Art 21's standard read to require fair, just and reasonable procedure — due process in substance." },
+      { "term": "Doctrine of severability", "definition": "Only the unconstitutional part of a law falls if separable — Art 13's scalpel." },
+      { "term": "Doctrine of eclipse", "definition": "Pre-constitutional laws inconsistent with FRs are dormant, not dead — revived if the inconsistency is removed." },
+      { "term": "Repugnancy", "definition": "Concurrent-field conflict resolved for Union law (Art 254), saving assented state laws." },
+      { "term": "Advisory jurisdiction", "definition": "Art 143 — Presidential references for the SC's opinion; federalism's consultative valve." }
+    ]
+  },
+  {
+    "code": "MN-PIII-LII-040",
+    "sections": [
+      {
+        "heading": "Powers of the three organs — the legal inventory",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Organ", "Powers (legal register)", "Checks upon it"],
+            "rows": [
+              ["**Legislature**", "Law-making within lists; constituent power (368); financial control (no tax/spend without it — Arts 265/266); oversight devices; privileges (105/194); impeachment-removal powers (President, judges); delegated-legislation grants", "Judicial review (competence + FRs + basic structure); presidential returns; bicameral checks; election accountability"],
+              ["**Executive**", "Aid-advice governance (74/163); ordinance power (123/213 — legislative in nature, judicially disciplined: **Krishna Kumar Singh**); delegated legislation (rules-notifications — the modern statute's bulk); treaty-making; pardons (72/161 — **judicially reviewable: Epuru Sudhakar, an AP case**); appointments; emergency powers", "Legislative responsibility (75(3)); judicial review of action (14's arbitrariness; proportionality); CAG audit; no-confidence"],
+              ["**Judiciary**", "Judicial review (the trinity: legislation, action, amendments); writ jurisdiction; contempt power (129/215); rule-making for courts; **Art 142's complete-justice** power (the elastic clause — Ayodhya, TN Governor's deemed assent — with its overreach debate); guideline-legislation in vacuums (**Vishaka doctrine**)", "Appointment-removal process; legislative override by valid re-enactment (curing the defect); Art 121/211 speech bars; self-restraint doctrines (political-question avoidance, presumption of constitutionality)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Separation of powers — the Indian doctrine",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Not Montesquieu's wall but functional distribution**: India separates **functions with overlaps** (ordinances = executive legislation; tribunals = executive adjudication; contempt = judicial punishment) — the doctrine's Indian formulation: no organ may **usurp the essential function** of another (**Ram Jawaya Kapur, 1955**; separation as basic structure — **Indira Nehru Gandhi, 1975**, striking the election-dispute clause).",
+              "**The friction files**: judicial legislation (Vishaka's defence: interim gap-filling vs the criticism of mandamus-governance); legislative overruling of judgments (permissible only by **removing the basis**, not by declaring a judgment void — **Cauvery reference; Madras Bar Assn** line); executive's tribunal control (the Madras Bar Association series policing composition); Art 142's widening (the 2025-era Presidential-reference debate on assent timelines — PC-004's file, cited here as the separation question it is).",
+              "**The balanced close**: Indian separation is a **dialogue of checks** — each organ holding elastic powers, each disciplined by the others' review; the health test is not purity of separation but **accountability at each overlap**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Separation - functional, not absolute] --> B[Legislature: laws, purse, constituent power]\n  A --> C[Executive: ordinances, rules, pardons, appointments]\n  A --> D[Judiciary: review, writs, Art 142, contempt]\n  B --> E[Overlap: delegated legislation to executive]\n  C --> F[Overlap: ordinance legislation]\n  D --> G[Overlap: Vishaka-type guidelines]\n  E --> H[Check: laying procedure, review]\n  F --> H\n  G --> H\n  H --> I[Essential-function usurpation barred - Ram Jawaya, basic structure]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The three-row inventory + the functional-separation doctrine + two friction files = complete; **Epuru Sudhakar (AP)** on pardons and Krishna Kumar Singh on ordinances are the precision citations.",
+              "'Accountability at each overlap' is the evaluative standard to end on."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Ram Jawaya (1955) for the doctrine, Indira Nehru Gandhi (1975) for its basic-structure status — the two-case spine of every separation answer; Art 142's current controversies supply the freshness."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Ram Jawaya Kapur (1955)** — Indian separation is functional; no organ may usurp another's essential function.",
+      "**Separation of powers held part of the basic structure** in Indira Nehru Gandhi (1975).",
+      "**Ordinances**: Arts 123/213; lapse 6 weeks after reassembly; re-promulgation a fraud (Krishna Kumar Singh, 2017).",
+      "**Pardons reviewable**: **Epuru Sudhakar v. Govt of AP (2006)** — relevant/irrelevant-considerations review of Art 161 clemency.",
+      "**Art 142** — 'complete justice' power unique to the SC; instrument of the Ayodhya decree and the 2025 assent controversies.",
+      "**Vishaka (1997)** — judicial guidelines valid as interim law until legislation (the gap-filling doctrine).",
+      "Legislatures may nullify a judgment's **basis** by valid retrospective law, but cannot simply overrule the judgment."
+    ],
+    "mainsAngles": [
+      "Functional distribution, not watertight separation — expound the Indian doctrine from Ram Jawaya to the basic-structure holding.",
+      "Each organ legislates a little, judges a little, executes a little — audit the overlaps and their accountability devices.",
+      "Article 142 is equity with a constitution-sized jurisdiction — debate its use from Ayodhya to assent timelines.",
+      "When may Parliament undo a judgment? State the removing-the-basis doctrine with cases.",
+      "Tribunalisation tests separation at the executive-judicial seam — evaluate with the Madras Bar Association line."
+    ],
+    "glossary": [
+      { "term": "Essential-function doctrine", "definition": "The Indian separation rule — organs may share functions but none may take over another's core role." },
+      { "term": "Delegated legislation", "definition": "Rules-regulations made by the executive under statutory authority — the modern statute's operative bulk, checked by laying and review." },
+      { "term": "Ordinance", "definition": "Executive-made temporary law during legislative recess (123/213) — subject to placement, lapse and judicial discipline." },
+      { "term": "Complete justice (Art 142)", "definition": "The SC's power to pass any decree needed for full justice in a cause — equity's constitutional residuary." },
+      { "term": "Removing the basis", "definition": "The only valid legislative response to an adverse judgment — curing the defect the court found, prospectively or retrospectively." },
+      { "term": "Judicial legislation", "definition": "Court-made norms (Vishaka guidelines) filling statutory vacuums — defended as interim, criticised as trespass." }
+    ]
+  },
+  {
+    "code": "MN-PIII-LII-041",
+    "sections": [
+      {
+        "heading": "The court pyramid — civil and criminal sides",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Tier", "Civil side", "Criminal side"],
+            "rows": [
+              ["Apex", "**Supreme Court** — appeals (SLP 136; civil 133), original (131), advisory (143)", "Same court — criminal appeals (134), death-confirmation ultimately"],
+              ["State", "**High Court** — first/second appeals, writs (226), superintendence (227), original civil side in some HCs", "Criminal appeals-revisions; **death sentences require HC confirmation (Sec 407 BNSS/366 CrPC lineage)**"],
+              ["District", "**District Judge** (the principal civil court; also hears appeals from munsiff-level); Additional DJs; commercial courts at this tier", "**Sessions Judge** (same officer wearing the criminal robe) — tries offences committed to sessions (7+ yr punishments); can pass any sentence, **death subject to HC confirmation**"],
+              ["Below", "**Senior Civil Judge → Junior Civil Judge (munsiff)** — pecuniary jurisdiction ladders (state-set)", "**Chief Judicial Magistrate (up to 7 yrs) → Judicial Magistrate First Class (up to 3 yrs/fine) → JMSC**; Metropolitan Magistrates in metros; Executive Magistrates (preventive, not trial, functions — the DM's side)"],
+              ["Base & alternatives", "**Gram Nyayalayas** (mobile village courts, 2008 Act), Lok Adalats (award = decree; no appeal), tribunals (specialised), arbitration-mediation (**Mediation Act 2023**)", "Same Nyayalayas (petty criminal); plea bargaining (2005-added, now BNSS chapter)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Substantive vs procedural law — the classification that organises everything",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Substantive law defines rights-duties-offences**: what murder IS (**BNS 2023**, replacing IPC), what a contract IS (Contract Act 1872), property (TPA 1882), torts (uncodified) — the WHAT of law.",
+              "**Procedural (adjective) law enforces them**: HOW to try — **BNSS 2023** (replacing CrPC) for criminal process (FIR-investigation-cognizance-trial-appeal), **CPC 1908** for civil process (plaint-written statement-issues-evidence-decree-execution), **Bharatiya Sakshya Adhiniyam 2023** (evidence — spanning both sides).",
+              "**Why the distinction matters legally**: procedure is generally **retrospective** (no vested right in procedure), substance prospective (Art 20(1)'s ex-post-facto bar for offences); procedural default can be cured, substantive illegality cannot; interpretation canons differ (procedure construed to advance justice).",
+              "**The 2023 recodification** (the currency layer): **BNS-BNSS-BSA (in force 1 July 2024)** — community service as punishment, organised-crime & terrorism as general offences, timelines (charges in 60 days, judgment in 45 post-trial), e-FIR & Zero FIR statutory, forensic mandate (7-yr+ offences), trials-in-absentia for absconders, sedition recast as 152 BNS ('acts endangering sovereignty') — modernisation with civil-liberty debates (police custody extension, 152's breadth) to note on both sides."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Supreme Court] --> B[High Court - writs, appeals, death confirmation]\n  B --> C[District and Sessions Judge]\n  C --> D[Civil: Senior and Junior Civil Judges]\n  C --> E[Criminal: CJM - JMFC - JMSC]\n  D --> F[Gram Nyayalayas, Lok Adalats, mediation]\n  E --> F\n  G[Substantive: BNS, Contract, TPA] --> H[Rights and offences defined]\n  I[Procedural: BNSS, CPC, BSA] --> J[Enforcement pathway]\n  H --> K[Justice delivered through the pyramid]\n  J --> K"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Draw the pyramid with the dual-hat district tier (DJ = Sessions Judge); sentence-power ladder (JMFC 3 yrs → CJM 7 → Sessions any, death needing HC confirmation) is the precision set.",
+              "Substantive-vs-procedural: definition pair + retrospectivity rule + the 2023 recodification's five features with one critique."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The District Judge and the Sessions Judge are one officer with two jurisdictions' — the line that shows you know the pyramid from inside; the BNS-BNSS-BSA feature-set is 2024-26's guaranteed currency question."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Sentence powers: **JMFC — up to 3 years; CJM — up to 7; Sessions — any sentence, death subject to High Court confirmation**.",
+      "**District Judge (civil) and Sessions Judge (criminal) are the same officer** — Arts 233-237 govern the cadre.",
+      "**Gram Nyayalayas Act 2008** — mobile village courts (Nyayadhikari = JMFC rank); Lok Adalat awards are **deemed decrees, non-appealable**.",
+      "**Substantive**: BNS 2023, Contract Act 1872, TPA 1882; **Procedural**: BNSS 2023, CPC 1908; **BSA 2023** (evidence) — new codes in force **1 July 2024**.",
+      "Procedure applies **retrospectively** (no vested right in procedure); **Art 20(1)** bars retrospective offences/penalties.",
+      "BNSS features: **e-FIR/Zero FIR statutory, forensics mandatory for 7-yr+ offences, judgment within 45 days of trial-end, trial in absentia**.",
+      "**Sedition (124A IPC) recast as Sec 152 BNS** — 'acts endangering the sovereignty, unity and integrity of India'.",
+      "**Mediation Act 2023** institutionalised pre-litigation mediation; plea bargaining continues under BNSS."
+    ],
+    "mainsAngles": [
+      "Map the civil and criminal court pyramids and the one officer who anchors both at the district.",
+      "Distinguish substantive from procedural law and show why the distinction decides retrospectivity and cure.",
+      "Audit the 2023 criminal-code recodification — modernisations, timelines and the civil-liberty debates.",
+      "Justice at the base — evaluate Gram Nyayalayas, Lok Adalats and the Mediation Act as the pyramid's foundations.",
+      "Backlog is a procedure problem before a judge-strength problem — argue with case-flow and ADR evidence."
+    ],
+    "glossary": [
+      { "term": "Cognizance", "definition": "A magistrate's judicial notice of an offence to set trial process in motion — the criminal case's ignition." },
+      { "term": "Committal", "definition": "The magistrate's transfer of sessions-triable offences to the Sessions Court — the pyramid's escalator." },
+      { "term": "Substantive law", "definition": "Law defining rights, duties and offences (BNS, contract, property) — the WHAT." },
+      { "term": "Procedural law", "definition": "Law prescribing enforcement machinery and process (BNSS, CPC, evidence) — the HOW; generally retrospective." },
+      { "term": "Zero FIR", "definition": "FIR registrable at any police station regardless of jurisdiction, transferred later — statutory under BNSS." },
+      { "term": "Plea bargaining", "definition": "Negotiated guilty plea for reduced sentence in eligible offences — docket-relief with safeguards." }
+    ]
+  }
+]
