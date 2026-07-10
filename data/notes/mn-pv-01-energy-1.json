@@ -1,0 +1,267 @@
+[
+  {
+    "code": "MN-PV-E2-013",
+    "sections": [
+      {
+        "heading": "India's energy profile — needs and arithmetic",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India is the **world's third-largest energy consumer** (after China & the US) yet runs on roughly **one-third of the global per-capita average** — the headroom that makes India **the largest source of future energy-demand growth** (IEA: ~25% of global demand growth to 2040). The mix (primary energy): **coal ~55%, oil ~26%, gas ~6%, renewables+hydro ~7-8%, nuclear ~1-2%**; electricity capacity ~**485+ GW (2025)** with **non-fossil ~50% of capacity** (achieved ahead of the 2030 NDC) but fossil still ~75% of **generation** — the capacity-vs-generation distinction every answer needs. Import exposure: **~88% of crude, ~50% of gas, even coking coal** — the security core (E2-016)."
+          },
+          {
+            "type": "table",
+            "headers": ["Efficiency architecture", "Instrument", "Content"],
+            "rows": [
+              ["Statute", "**Energy Conservation Act 2001 (amended 2022)**", "Created **BEE**; 2022 amendments: **carbon-credit trading scheme (CCTS)**, non-fossil purchase obligations, large buildings in code"],
+              ["Industry", "**PAT (Perform-Achieve-Trade)**", "Energy-intensity targets for designated consumers with tradable ESCerts — multiple cycles, ~2% intensity gains per cycle band"],
+              ["Appliances", "**Standards & Labelling (star ratings)**", "Fridges-ACs-fans-pumps; the quiet demand-side workhorse"],
+              ["Lighting & buildings", "**UJALA (~37 crore LEDs)**, Street-lighting programme, **ECBC/Eco Niwas** codes", "LED price crash (₹310→₹38 era) — the world-cited procurement success"],
+              ["Agriculture & mobility", "PM-KUSUM solar pumps; FAME-II/PM E-DRIVE EV push; fuel-economy (CAFE) norms", "Demand-side across sectors"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Resource endowment**: coal reserves ~350+ bn tonnes (5th largest; quality caveat — high ash), lignite (Neyveli belt), modest oil (Bombay High, Rajasthan), gas (KG basin — **AP's offshore relevance**), hydro potential ~145 GW (half tapped), solar ~750 GW potential, wind ~1,160 GW (at 150 m), **thorium's world-class monazite beach sands (AP-Odisha-TN coasts)** — the endowment sentence that links straight to AP."
+          }
+        ]
+      },
+      {
+        "heading": "Analysis — the four-question frame",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**How much?** Demand doubles-plus by 2047 (electricity faster — cooling, EVs, data centres as the new demand trio); peak demand crossed **250 GW (2024)** — plan for the peak, not the average.",
+              "**From what?** The transition is **additive, not substitutive** in the near term: renewables take growth's share while coal holds the base — the '**coal plateau, clean growth**' honest description; efficiency is the 'first fuel' (cheapest MW is the one not needed — PAT/UJALA's case).",
+              "**Delivered how?** The grid's stress points: DISCOM finances (AT&C ~15%+, RDSS's metering fix), storage scarcity (PSP+BESS pipeline), transmission for RE zones — delivery, not generation, is the binding constraint.",
+              "**AP hook**: energy-intensity leadership (AP among top EE-implementing states — LED streetlighting first-mover), KG-gas landfall, the PSP pipeline (~40 GW identified) and solar parks — the state as the transition's test bed (full AP file in PIV-IDA-045/IA-051)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[India's energy need - third largest, low per-capita] --> B[Supply: coal-dominant mix]\n  A --> C[Efficiency first fuel: EC Act, PAT, UJALA, codes]\n  B --> D[Import exposure: 88 percent crude]\n  C --> E[Avoided demand - cheapest MW]\n  D --> F[Security agenda - E2-016]\n  B --> G[Transition: non-fossil 50 percent capacity]\n  G --> H[Delivery constraints: DISCOMs, storage, grid]\n  E --> H\n  H --> I[2047 goal: reliable, affordable, low-carbon]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Numbers kit: 3rd-largest consumer, 1/3 per-capita, coal ~55% primary/~75% generation, 50% non-fossil capacity, 88% crude imports, peak 250 GW, UJALA 37 crore, PAT-ESCerts.",
+              "Frames: capacity-vs-generation; efficiency-as-first-fuel; additive transition; delivery-as-constraint — four one-liners that structure any energy question."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Open with the paradox — 'third-largest consumer, one-third per-capita' — and close with delivery-as-the-binding-constraint. The examiner sees a thousand lists of schemes; the four-question frame is what distinguishes."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India: **3rd-largest energy consumer**; per-capita ~**one-third of world average**; largest future demand-growth source (IEA).",
+      "**EC Act 2001 → BEE (2002)**; **2022 amendment** enabled the **carbon-credit trading scheme (CCTS)**.",
+      "**PAT scheme**: energy-intensity targets + tradable **ESCerts** for designated consumers.",
+      "**UJALA**: ~37 crore LED bulbs; LED procurement price fell ~90% — the demand-aggregation classic.",
+      "Installed capacity ~**485 GW (2025)**; **non-fossil ≈50% of capacity** achieved 2025 (ahead of NDC 2030); peak demand crossed **250 GW (May 2024)**.",
+      "Crude import dependence ~**88%**; gas ~50%; coal reserves ~**350+ billion tonnes** (high-ash).",
+      "**Monazite (thorium) beach sands** concentrate on AP-Odisha-Kerala-TN coasts — India's three-stage programme's endowment.",
+      "**ECBC/Eco Niwas Samhita** — commercial/residential building energy codes."
+    ],
+    "mainsAngles": [
+      "Third-largest consumer at one-third per-capita — decode India's energy arithmetic and its 2047 implications.",
+      "Efficiency is India's first fuel — evaluate the EC Act-PAT-UJALA architecture and its next frontier.",
+      "Capacity greens faster than generation — explain the distinction and the coal plateau's logic.",
+      "Delivery, not generation, binds India's energy future — argue with DISCOM, storage and grid evidence.",
+      "Audit India's resource endowment from high-ash coal to thorium sands, and the strategy each dictates."
+    ],
+    "glossary": [
+      { "term": "Primary energy", "definition": "Energy in its raw form (coal, crude, hydro inflow) before conversion — the mix's honest denominator." },
+      { "term": "Energy intensity", "definition": "Energy per unit of GDP — India's NDC metric (45% cut by 2030 vs 2005) and PAT's target variable." },
+      { "term": "PAT/ESCerts", "definition": "Perform-Achieve-Trade: efficiency targets whose over-achievement mints tradable certificates — market-based conservation." },
+      { "term": "First fuel", "definition": "Efficiency's honorific — avoided demand as the cheapest, cleanest energy resource." },
+      { "term": "AT&C losses", "definition": "Aggregate technical & commercial losses in distribution — the leak that bankrupts DISCOMs and taxes the grid." },
+      { "term": "Peak demand", "definition": "The system's highest instantaneous load (250+ GW) — the planning number that storage and peaker capacity must meet." }
+    ]
+  },
+  {
+    "code": "MN-PV-E2-014",
+    "sections": [
+      {
+        "heading": "Clean-energy resources — the portfolio",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Resource", "India status", "Notes"],
+            "rows": [
+              ["**Solar**", "~**110+ GW** (2025) — utility parks (Bhadla; **AP's Kurnool/NP Kunta**), rooftops lagging → **PM Surya Ghar (2024: 1 crore rooftop homes, ~₹75,000 cr)**", "Tariffs ~₹2.5/unit era lows; duck-curve integration the issue; **module PLI + ALMM** for supply-chain onshoring"],
+              ["**Wind**", "~**48-50 GW**; TN-Gujarat-Karnataka-**AP-Rayalaseema** belts", "Repowering old turbines; **offshore wind** (Gujarat/TN ~37 GW zones; VGF 2024) the frontier"],
+              ["**Hydro & PSP**", "Large hydro ~47 GW (renewable-classified 2019); **pumped storage** the new star — **AP's ~40 GW pipeline** the national anchor", "Storage-first hydro policy; Himalayan ecology caveats (Teesta/Chamoli lessons)"],
+              ["**Bio-energy**", "~11 GW power + **ethanol E20 achieved 2025 target-year**; CBG (SATAT/GOBARdhan)", "2G refineries (Panipat); food-vs-fuel watch"],
+              ["**Green hydrogen**", "**National GH2 Mission (2023, ₹19,744 cr)**: 5 MMT by 2030; hubs — **Vizag-Pudimadaka (NTPC), Kakinada**, Kandla, Tuticorin", "The industrial-decarbonisation key (fertiliser, refinery, steel)"],
+              ["**Nuclear (bridge)**", "~8.2 GW; **Nuclear Energy Mission (2025): 100 GW by 2047, SMRs, Act amendments**", "Full file E2-017"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Policy & programme stack — and its evaluation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Targets**: NDC 2030 — 50% non-fossil capacity (met early), 45% emission-intensity cut; **500 GW non-fossil by 2030** (the political target; ~last-100-GW challenge); Net Zero 2070.",
+              "**Programme stack**: National Solar Mission (2010's 20 GW dream → 100+ GW reality), **PLI for modules & ALMM** (import substitution vs cost tension), **PM-KUSUM** (farm solar's three components), **PM Surya Ghar** (rooftop democratisation), **Green Energy Corridors** (transmission), **RE bidding trajectory (50 GW/yr)**, **Offshore wind VGF**, **National Green Hydrogen Mission**, **BESS VGF (2023-)** and the **CCTS carbon market** — the complete acronym armoury with one line each.",
+              "**Evaluation ledger**: costs collapsed (solar's ~₹2.5), capacity soared — but **integration debts** (curtailment risk, storage shortfall, DISCOM must-run stress), **land-and-transmission frictions**, **rooftop-and-agri lag** vs utility success, **China-dependence** in cells-wafers (PLI's slow onshoring), and the **AP PPA-renegotiation episode (2019)** as the sanctity-of-contract cautionary tale — celebrate + audit in the same paragraph.",
+              "**AP anchor**: solar parks (Kurnool 1,000 MW; NP Kunta), Rayalaseema wind, **Pinnapuram integrated RE-storage (world-scale)**, green-hydrogen MoUs (~₹2 lakh crore era announcements), rooftop's coastal potential — AP as the storage-backed-renewables laboratory."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Clean-energy portfolio] --> B[Solar 110 GW + rooftop mission]\n  A --> C[Wind 50 GW + offshore VGF]\n  A --> D[Hydro-PSP - AP's 40 GW pipeline]\n  A --> E[Bio: E20, CBG]\n  A --> F[Green hydrogen 5 MMT 2030 - Vizag hub]\n  B --> G[Integration needs: storage, grid, markets]\n  C --> G\n  D --> G\n  F --> H[Industrial decarbonisation]\n  G --> I[500 GW non-fossil 2030 - Net Zero 2070]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Resource table (six rows, one status number each) + policy stack (ten instruments, one line each) + the celebrate-and-audit ledger = the complete kit.",
+              "AP flags: Kurnool-NP Kunta, Pinnapuram, Pudimadaka GH2, Rayalaseema wind — at least two per answer."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner's discriminator is the integration paragraph — storage, transmission, DISCOM economics. Capacity numbers impress; the delivery-system understanding scores."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Solar ~**110+ GW**, wind ~**50 GW**, total RE (incl. large hydro) ~**220+ GW** within ~485 GW (2025).",
+      "**PM Surya Ghar Muft Bijli Yojana (2024)**: 1 crore rooftop-solar homes; up to 300 free units logic; ~₹75,021 crore.",
+      "**National Green Hydrogen Mission (Jan 2023)**: ₹19,744 crore; **5 MMT/yr by 2030**; SIGHT incentives; **NTPC Pudimadaka (Vizag)** among the first hubs.",
+      "**PM-KUSUM**: components A (small RE plants), B (standalone pumps), C (feeder/pump solarisation).",
+      "**E20 petrol achieved by 2025** (target preponed from 2030); SATAT for compressed biogas.",
+      "**Offshore wind**: ~37 GW potential zones off Gujarat & TN; VGF scheme approved 2024 (1 GW initial).",
+      "**BESS VGF (2023)** and **PSP guidelines** — the storage push; AP's PSP pipeline ~**40 GW** identified.",
+      "**ALMM** (approved models & manufacturers list) + module **PLI** — solar supply-chain onshoring instruments."
+    ],
+    "mainsAngles": [
+      "Portfolio, not silver bullet — survey India's clean-energy resources and each one's binding constraint.",
+      "From 20 GW dreams to 100 GW reality — evaluate the solar mission's success and its rooftop-agri unfinished half.",
+      "Green hydrogen is industrial policy in energy's clothing — assess the mission and AP's hub candidacy.",
+      "Targets met early, integration pending — audit the 500-GW path on storage, grid and DISCOM readiness.",
+      "Contract sanctity is renewable policy — draw the lessons of AP's PPA episode for investor-led transitions."
+    ],
+    "glossary": [
+      { "term": "Duck curve", "definition": "The net-load shape solar creates — midday trough, evening ramp — that storage and flexible plants must fill." },
+      { "term": "Curtailment", "definition": "Forced backing-down of renewable generation for grid or contract reasons — the integration failure indicator." },
+      { "term": "Viability-gap funding", "definition": "Capital subsidy making frontier technologies (offshore wind, BESS) bankable at current costs." },
+      { "term": "Green hydrogen", "definition": "Hydrogen from renewable-powered electrolysis — the decarbonisation vector for fertiliser, refining and steel." },
+      { "term": "Repowering", "definition": "Replacing old low-capacity wind turbines with modern ones on the same sites — capacity growth without new land." },
+      { "term": "Must-run status", "definition": "Grid rule obliging purchase of RE generation — protective for the transition, contested by stressed DISCOMs." }
+    ]
+  },
+  {
+    "code": "MN-PV-E2-015",
+    "sections": [
+      {
+        "heading": "Conventional vs non-conventional — the comparison core",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Attribute", "Conventional (coal-thermal, oil, gas, large hydro*)", "Non-conventional (solar, wind, bio, geothermal, tidal)"],
+            "rows": [
+              ["Nature", "Finite, stock-based; centuries of accumulation", "Flow-based, renewable; daily/seasonal cycles"],
+              ["Dispatch", "**Dispatchable** — follows load (coal's ramping limits aside); the grid's inertia and base", "**Variable/intermittent** — needs forecasting + storage + balancing"],
+              ["Cost structure", "Fuel-opex heavy; volatile (imported coal/oil)", "Capex-heavy, near-zero marginal cost — tariff certainty once built"],
+              ["Externalities", "CO2 (~0.9-1 kg/kWh coal), PM-SOx-NOx, ash ponds, mining displacement", "Minimal operating emissions; land-use, mineral supply chains, end-of-life waste"],
+              ["Scale & siting", "Large central stations, anywhere fuel reaches", "Resource-tied (sun-wind-tide maps decide); modular — rooftop to park"],
+              ["India status", "Coal ~210+ GW capacity, ~75% generation; gas underused (~25 GW at low PLF); large hydro ~47 GW", "Solar 110+, wind ~50, bio ~11 GW; geothermal-tidal at pilot stage"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "*Large hydro straddles the line — renewable by flow, 'conventional' by vintage and scale; since 2019 India counts it renewable: a favourite prelims nuance."
+          }
+        ]
+      },
+      {
+        "heading": "The five non-conventional files — one paragraph each",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Solar**: PV (crystalline dominant; thin-film niche) + CSP (Rajasthan pilots); resource ~4-7 kWh/m²/day nationally; India's cost revolution (E2-014); **floating solar** (Ramagundam 100 MW; reservoir synergy — evaporation cut + no land) and **agrivoltaics** as land-answers.",
+              "**Wind**: kinetic energy ∝ v³ — siting is everything (passes of TN/AP's Rayalaseema, Gujarat coast); hub heights rising (120-150 m unlocking 1,160 GW potential); hybrid (wind+solar+BESS) parks the new tender norm.",
+              "**Bio-energy**: combustion-cogeneration (bagasse), biomethanation (CBG), liquid fuels (1G molasses-ethanol → **2G ligno-cellulosic** — Panipat; used-cooking-oil biodiesel); carbon-neutral in principle, collection-economics-bound in practice; stubble-to-energy as the air-quality twofer.",
+              "**Geothermal**: India's ~10 GW-scale theoretical niche — **Puga (Ladakh) pilot**, Tattapani, Manikaran springs; direct-use (space heating, drying) more viable than power near-term.",
+              "**Tidal & ocean**: Gulf of **Khambhat/Kutch** (~12,500 MW theoretical) and Sundarbans creeks; high capex + ecology stalled projects; **OTEC** (Kavaratti desalination-linked pilot) and wave energy (IIT-M's devices off Tuticorin) — the research frontier where India runs demonstration-scale.",
+              "**The synthesis**: conventional supplies **firmness**, non-conventional supplies **growth and cleanliness**; the grid of 2035 pairs them through **storage (PSP/BESS), gas-peaking, demand response and green hydrogen** — 'firm green power' as the destination concept (AP's Pinnapuram the poster project)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Energy sources] --> B[Conventional: coal, oil, gas, large hydro]\n  A --> C[Non-conventional: solar, wind, bio, geothermal, tidal]\n  B --> D[Firm, dispatchable, polluting]\n  C --> E[Clean, variable, capex-based]\n  D --> F{Pairing layer}\n  E --> F\n  F --> G[Storage: PSP, BESS]\n  F --> H[Flexibility: gas peaking, demand response]\n  G --> I[Firm green power - the destination]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The six-attribute comparison table answers the direct question; the five-file paragraphs cover 'discuss non-conventional sources'; the pairing synthesis elevates either.",
+              "AP hooks: Rayalaseema wind passes, Kurnool solar, Godavari-basin bagasse cogen, Pinnapuram firm-green — plus the KG gas note on the conventional side."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Conventional gives firmness, non-conventional gives growth — storage marries them' is the three-clause thesis; the wind-cube law (P ∝ v³) and floating-solar twofer are the technical garnishes examiners notice."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Large hydro reclassified as renewable in March 2019** — the straddle nuance.",
+      "Wind power scales with the **cube of wind speed (P ∝ v³)** — micro-siting's physics.",
+      "**Floating solar**: Ramagundam (100 MW, NTPC) among India's largest; Omkareshwar expanding.",
+      "**2G ethanol refinery: Panipat (2022)** — rice-straw feedstock; **E20 achieved 2025**.",
+      "**Geothermal pilot: Puga valley, Ladakh (ONGC)**; hot springs — Manikaran, Tattapani.",
+      "**Tidal potential ~12,500 MW** (Khambhat, Kutch, Sundarbans) — unexploited; **OTEC-desalination pilot at Kavaratti (NIOT)**.",
+      "Coal generation share ~**75%** despite ~50% non-fossil capacity — the generation-capacity gap.",
+      "Bagasse cogeneration and CBG (SATAT) are the bio-workhorses; biomass power ~11 GW."
+    ],
+    "mainsAngles": [
+      "Draw the six-attribute comparison of conventional and non-conventional energy and its planning implications.",
+      "Firmness versus growth — argue why the 2035 grid must pair coal's successor services with renewable expansion.",
+      "Survey the five non-conventional families with one Indian project and one constraint each.",
+      "Land is the renewable's hidden fuel — evaluate floating solar, agrivoltaics and repowering as answers.",
+      "From variable to firm — explain the storage-flexibility toolkit converting green power into dependable power."
+    ],
+    "glossary": [
+      { "term": "Dispatchability", "definition": "A plant's ability to vary output on command — the grid service conventional plants supply and storage must replicate." },
+      { "term": "Capacity factor (PLF)", "definition": "Actual output as a share of nameplate potential — solar ~20%, wind ~25-35%, coal ~60-70%: the comparison's honest lens." },
+      { "term": "Floating solar", "definition": "PV on reservoirs — saving land, cutting evaporation, pairing with hydro evacuation." },
+      { "term": "2G ethanol", "definition": "Fuel from crop residues' cellulose rather than food sugars — the food-vs-fuel resolver." },
+      { "term": "OTEC", "definition": "Ocean thermal energy conversion — exploiting surface-deep temperature gradients; India's Kavaratti pilot pairs it with desalination." },
+      { "term": "Hybrid park", "definition": "Co-located wind+solar+storage sharing evacuation — the tender format smoothing variability." }
+    ]
+  }
+]
