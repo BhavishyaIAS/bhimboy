@@ -1,0 +1,261 @@
+[
+  {
+    "code": "MN-PII-HCOI-041",
+    "sections": [
+      {
+        "heading": "The road to 15 August — and its price",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The endgame ran: 1945-46 elections (League swept Muslim seats — the mandate it lacked in 1937) → **Cabinet Mission's** failed unity design → **Direct Action (16 Aug 1946)** and the riot chain (Calcutta → **Noakhali (Oct) → Bihar → Garhmukteshwar → Rawalpindi (Mar 1947)**) → Interim Government's dysfunction (League's obstruction from within) → Attlee's **20 February 1947** deadline statement (transfer by June 1948; Mountbatten sent) → **Mountbatten's 3 June Plan** (partition + dominion status + princely choice) — accepted by Congress as 'the freezing of a civil war' — → **Indian Independence Act (18 July 1947)** → **Radcliffe awards published 17 August** — two days *after* freedom: boundaries revealed to already-moving millions."
+          },
+          {
+            "type": "table",
+            "headers": ["Partition's ledger", "Content"],
+            "rows": [
+              ["Human cost", "Deaths ~**5-10+ lakh** (estimates range to 20); **~1.4-1.8 crore displaced** — history's largest forced migration; ~1 lakh women abducted/violated (Recovery Act 1949's painful sequel)"],
+              ["Why Congress accepted", "Exhaustion + ungovernability of coalition (Interim Govt) + riots' momentum + fear of balkanisation beyond two states + Patel's 'diseased limb' realism + Mountbatten's speed; Gandhi's dissent stood apart — he spent 15 August fasting in Calcutta"],
+              ["Institutional surgery", "Armies, assets (₹55 crore dispute → Gandhi's last fast), records, even instruments divided; **Punjab & Bengal partitioned by Radcliffe**; Sylhet & NWFP referendums"],
+              ["**Rehabilitation**", "Ministry of Relief & Rehabilitation; camps (Kurukshetra's ~3 lakh); **Nilokheri (S.K. Dey's township-with-work model)**, Faridabad; evacuee-property law; East-Punjab land allotment (graded cuts — Tarlok Singh's 'standard acre'); Bengal's slower tragedy (continuing influx → Dandakaranya scheme later); refugees rebuilt Delhi, Kolkata — displacement's entrepreneurial epilogue"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — and the Andhra register",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Was Partition inevitable?** The historiography: League's determination + Congress's mistakes (1937 ministry-formation snub debate, mass-contact failure) + British grooves (electorates) + the 1946-47 violence spiral — best answer: **inevitable only in its last two years**; alternatives (Cabinet Mission federation) died of distrust, not design.",
+              "**Freedom-with-Partition's meaning**: sovereignty won by mass movement, yet the social fabric torn — Nehru's 'tryst' beside Gandhi's Calcutta fast is the era's honest portrait; the secular-state resolve (no two-nation logic conceded for those who remained) is Partition's constitutional rebuttal.",
+              "**Andhra register**: distant from the partition borders, Andhra's 1947-48 drama was **Hyderabad's accession** (next note) — but Partition touched the region via evacuee-property administration in Hyderabad state, and the secular-composite politics Andhra's leaders (Pattabhi as 1948 Congress president at Jaipur) carried into the republic's founding."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[1946: Mission fails, Direct Action] --> B[Riot chain: Calcutta, Noakhali, Bihar, Punjab]\n  B --> C[Attlee's Feb 1947 deadline]\n  C --> D[Mountbatten 3 June Plan]\n  D --> E[Independence Act 18 July 1947]\n  E --> F[Two dominions 14-15 August]\n  F --> G[Radcliffe lines published 17 August]\n  G --> H[Mass migration and violence]\n  H --> I[Rehabilitation: camps, Nilokheri, land allotment]\n  I --> J[Secular constitutional rebuttal of two nations]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Chronological spine (Feb 1947-Aug 1947) + the ledger table + the inevitability paragraph = the complete answer set; Nilokheri and the standard-acre are the rehabilitation specifics that distinguish answers.",
+              "Numbers honestly banded: deaths 5-10+ lakh, displaced ~1.5 crore, women ~1 lakh — precision-claiming here reads as ignorance."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The two-image close — Nehru's Tryst at midnight, Gandhi fasting in Calcutta — earns the discursive mark; the rehabilitation paragraph (too often skipped) earns the content mark. Do both."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Attlee's statement: 20 February 1947** (transfer by June 1948); **Mountbatten Plan: 3 June 1947**; **Indian Independence Act: 18 July 1947**.",
+      "**Radcliffe Boundary Commissions** (Punjab & Bengal); awards published **17 August 1947**.",
+      "Referendums: **NWFP & Sylhet (July 1947)**; Badshah Khan's Pathans boycotted NWFP's.",
+      "Gandhi spent 15 August 1947 in **Calcutta**; his Calcutta fast (Sept 1947) and last Delhi fast (**13-18 Jan 1948**); assassinated **30 January 1948**.",
+      "**Nilokheri township (S.K. Dey)** — 'Mazdoor Manzil' work-centred rehabilitation; **Kurukshetra camp** the largest.",
+      "**Abducted Persons (Recovery) Act 1949**; ~₹55 crore cash-balances dispute resolved after Gandhi's fast.",
+      "**Jaipur Congress 1948** presided by **Pattabhi Sitaramayya** — the Andhra man at the founding-era helm."
+    ],
+    "mainsAngles": [
+      "Was Partition inevitable? Periodise the answer — long grooves, late inevitability.",
+      "Freedom arrived with a torn fabric — narrate the 1946-47 endgame from Direct Action to Radcliffe.",
+      "Rehabilitation was the republic's first governance test — assess the response from Kurukshetra to Nilokheri.",
+      "Why did Congress accept what it had always refused? Reconstruct the 1947 calculus.",
+      "The Constitution is Partition's rebuttal — discuss the secular-state resolve of the founding."
+    ],
+    "glossary": [
+      { "term": "Mountbatten Plan", "definition": "The 3 June 1947 scheme — partition on communal-majority lines, dominion status at speed, princely states to choose — the endgame's blueprint." },
+      { "term": "Radcliffe Line", "definition": "The boundary drawn by Cyril Radcliffe's commissions through Punjab and Bengal — published after independence itself." },
+      { "term": "Evacuee property", "definition": "Assets left by migrants to the other dominion — administered/compensated under evacuee-property law; rehabilitation's currency." },
+      { "term": "Standard acre", "definition": "The productivity-weighted unit used to allot East-Punjab land to refugees with graded cuts — planned rehabilitation's tool." },
+      { "term": "Interim Government", "definition": "The Sept 1946 Congress-League executive under Nehru whose internal obstruction proved coalition impossible." },
+      { "term": "Tryst with Destiny", "definition": "Nehru's midnight address of 14-15 August 1947 — the founding speech of the sovereign republic-to-be." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-042",
+    "sections": [
+      {
+        "heading": "Integration — Patel-Menon's nine-month miracle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "At lapse of paramountcy, **~565 princely states** (40% of area, ~24% of population) could join either dominion — in theory, none. **Patel + V.P. Menon** (States Department, July 1947) ran the playbook: **Instrument of Accession** (only defence-external affairs-communications) + **privy purses** + Mountbatten's persuasion → all but three signed by 15 August. The holdouts: **Junagadh** (Muslim ruler, Hindu majority → accession to Pakistan reversed by plebiscite, Feb 1948), **Kashmir** (standstill → tribal invasion Oct 1947 → accession 26 Oct 1947 → the enduring question), and **Hyderabad** — the Andhra syllabus's centre."
+          },
+          {
+            "type": "table",
+            "headers": ["Hyderabad 1947-48", "Content"],
+            "rows": [
+              ["The Nizam's gambit", "Independence ambition (Osman Ali Khan); **Standstill Agreement (Nov 1947)**; arms procurement; **Razakars under Kasim Razvi (Ittehad-ul-Muslimeen)** terrorising the join-India movement"],
+              ["The people's struggle", "**Hyderabad State Congress satyagraha (Swami Ramananda Tirtha)**; border camps from Indian territory; **Telangana's communist-led peasant struggle** simultaneously fighting Nizam-deshmukh order; Vande Mataram legacy cadres"],
+              ["**Operation Polo (Police Action), 13-17 September 1948**", "Five days; Nizam surrendered; Razvi jailed; **communal violence in the aftermath — the Sundarlal Committee's report** (kept unpublished for decades) recorded large-scale killings: the honest asterisk"],
+              ["Aftermath", "Military → civilian administration (M.K. Vellodi); Nizam as Rajpramukh; **mulki rules' continuation**; 1952 first elections; Hyderabad state lived until **1956's trifurcation** — Telangana to Andhra (→AP), Marathwada to Bombay, Kannada districts to Mysore"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Merger-to-reorganisation**: integration's second phase (mergers into unions/provinces, 1948-50) closed the map; then democracy asked the language question — **Potti Sriramulu's fast unto death (15 Oct–15 Dec 1952)** for a Telugu state from Madras → **Andhra State (1 Oct 1953, Kurnool capital)** — the **first linguistic state**, breaching the JVP Committee's (1949) caution → **Fazl Ali Commission/SRC (1953-55; States Reorganisation Act 1956)**: 14 states/6 UTs on language — **Andhra Pradesh (1 Nov 1956)** as Andhra + Telangana under the **Gentlemen's Agreement** (safeguards: regional council, mulki-type domicile rules, deputy-CM convention — their erosion seeds 2014's bifurcation: HCOA-068 completes this thread)."
+          }
+        ]
+      },
+      {
+        "heading": "Assessment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Patel's method** = carrot (purses, honours), stick (Junagadh-Hyderabad demonstrations), and speed — 'the iron fist in the velvet glove'; Menon's drafting genius; Mountbatten's throne-to-throne persuasion: bloodless save the exceptions — a state-building feat with few parallels.",
+              "**Linguistic reorganisation's verdict**: feared as fissiparous, it proved **federal glue** — language-states deepened democracy (vernacular publics) without breaking unity; the counter-ledger: borders still contested (Belagavi), and the intra-state questions (Telangana within AP) that language alone couldn't settle.",
+              "**Andhra's double distinction**: the **first linguistic state (1953)** born of Sriramulu's sacrifice, and the **first SRC-era merger (1956)** whose safeguard-erosion became the first major un-merger (2014) — AP bookends India's states-reorganisation story."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[565 states at lapse of paramountcy] --> B[Accession playbook: Patel, Menon, purses]\n  B --> C[All but three by 15 Aug 1947]\n  C --> D[Junagadh - plebiscite 1948]\n  C --> E[Kashmir - accession Oct 1947]\n  C --> F[Hyderabad - Police Action Sept 1948]\n  F --> G[Merger phase 1948-50]\n  G --> H[Language question: Sriramulu 1952]\n  H --> I[Andhra State 1953 - first linguistic state]\n  I --> J[SRC 1956 - Andhra Pradesh born 1 Nov 1956]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The three-holdout structure + the Hyderabad table + the 1952-56 language chain is the complete architecture; the Sundarlal asterisk and Gentlemen's Agreement clauses are the honesty-and-depth markers.",
+              "Dates cold: 26 Oct 1947 (Kashmir), Feb 1948 (Junagadh plebiscite), 13-17 Sept 1948 (Polo), 15 Dec 1952 (Sriramulu), 1 Oct 1953, 1 Nov 1956."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For APPSC, the Hyderabad-Telangana strand is not a footnote but the headline — write Police Action WITH the people's struggle (Ramananda Tirtha + communist peasantry) and WITH the Sundarlal honesty, then carry the Gentlemen's Agreement forward to 2014."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Instrument of Accession**: defence, external affairs, communications; States Department (July 1947) — **Patel + V.P. Menon**.",
+      "**Junagadh**: plebiscite **Feb 1948**; **Kashmir accession: 26 October 1947** (Hari Singh; post-invasion).",
+      "**Operation Polo: 13-17 September 1948**; Hyderabad's militia — **Razakars (Kasim Razvi)**; **Sundarlal Committee** documented the aftermath.",
+      "**Hyderabad State Congress** leader: **Swami Ramananda Tirtha**; state's join-India satyagraha 1947-48.",
+      "**Potti Sriramulu** died **15 December 1952** (58-day fast, Madras) → **Andhra State 1 October 1953 (Kurnool capital; Prakasam first CM)**.",
+      "**JVP Committee (1949)**: Nehru-Patel-Pattabhi — cautious on linguistic states; **SRC/Fazl Ali (with K.M. Panikkar & H.N. Kunzru), report 1955; SR Act 1956** — 14 states, 6 UTs.",
+      "**Andhra Pradesh formed 1 November 1956** (first SRC-era merger) under the **Gentlemen's Agreement (Feb 1956)** — regional committee, domicile safeguards, deputy-CM convention.",
+      "Privy purses abolished by the **26th Amendment (1971)**."
+    ],
+    "mainsAngles": [
+      "Integration of the states was the republic's first triumph — anatomise the Patel-Menon method and its three hard cases.",
+      "Hyderabad 1948 was accession, liberation and tragedy at once — write the layered account.",
+      "From Sriramulu's fast to the SRC — evaluate linguistic reorganisation as federal glue, not fissure.",
+      "The Gentlemen's Agreement was a merger's fine print — trace its safeguards and their erosion to 2014.",
+      "Compare Junagadh, Kashmir and Hyderabad as three grammars of accession."
+    ],
+    "glossary": [
+      { "term": "Paramountcy", "definition": "The Crown's suzerainty over princely states — lapsing at independence, leaving accession to rulers' choice." },
+      { "term": "Instrument of Accession", "definition": "The minimal treaty (three subjects) by which princely states joined a dominion — Menon's speed-friendly device." },
+      { "term": "Privy purse", "definition": "Guaranteed payments to acceding rulers — integration's price, abolished in 1971." },
+      { "term": "Police Action", "definition": "Operation Polo (Sept 1948) — the five-day military integration of Hyderabad state." },
+      { "term": "Mulki rules", "definition": "Hyderabad-era domicile requirements for public employment — carried into AP's safeguards and the Telangana question." },
+      { "term": "Gentlemen's Agreement (1956)", "definition": "The Andhra-Telangana pact of safeguards (regional committee, jobs, deputy-CM) conditioning the AP merger — its erosion fed bifurcation politics." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-043",
+    "sections": [
+      {
+        "heading": "Constitution-making — the founding workshop",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Constituent Assembly** (Cabinet-Mission framework; first met **9 December 1946**; sovereign after independence) worked 2 years 11 months 18 days through committees (Nehru — Union Powers & States; **Patel — Provincial, Minorities/FR (Advisory)**; Rajendra Prasad presiding; **Ambedkar's Drafting Committee**, with B.N. Rau's draft as base). Keystones: the **Objectives Resolution** (Dec 1946) becoming the Preamble; universal adult franchise at a stroke (democracy's largest wager); federalism with a strong centre (Partition's imprint); FRs + DPSPs (liberty and welfare braided); abolition of untouchability (Art 17); secular citizenship as the two-nation theory's rebuttal. **Andhra hands in the Assembly**: Pattabhi Sitaramayya, N.G. Ranga, **Durgabai Deshmukh** (one of the 15 women members), T. Prakasam, K. Santhanam-era Madras bench — the region present at the creation."
+          },
+          {
+            "type": "table",
+            "headers": ["Early-republic economic policy", "Content"],
+            "rows": [
+              ["Land reform (states)", "**Zamindari abolition (Madras Estates Abolition Act 1948** covering Andhra estates; UP/Bihar acts 1950-51); tenancy reform; ceilings (patchy); the First Amendment (1951) + **Ninth Schedule** shielding reform from litigation"],
+              ["Planning", "**Planning Commission (15 Mar 1950)**; **First Plan (1951-56)** — agriculture-Harrod-Domar; **Second Plan (1956-61)** — **Mahalanobis heavy-industry model**; steel trio (Bhilai-Rourkela-Durgapur)"],
+              ["Industrial framework", "IPR **1948** (mixed economy) → IPR **1956** (the 'economic constitution': Schedule A public monopoly) + Industries Act 1951 (licensing)"],
+              ["Science-institutions", "IITs (Kharagpur 1951–), CSIR labs, AEC (1948)/DAE (1954 — Bhabha), community development (**2 Oct 1952**) & NES; the dams — 'temples of modern India' (**Nagarjuna Sagar's foundation, 1955** — Nehru's phrase-site on Telugu soil; Bhakra, Hirakud, DVC)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Foreign-policy initiatives — Nehru's grammar",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Non-alignment**: independence of judgment between blocs — not neutrality but 'enlightened self-interest' (keep both aid doors open, avoid entanglement); institutional arc — **Asian Relations Conference (Delhi 1947)** → **Bandung (1955**, Afro-Asian solidarity) → **NAM's Belgrade summit (1961**, Nehru-Tito-Nasser-Sukarno-Nkrumah).",
+              "**Panchsheel (29 April 1954**, China-Tibet trade agreement's preamble): five principles of coexistence — the idealist plank whose 1962 shattering (China war) is the standard critique; balanced verdict: NAM won India voice-beyond-weight and development space, but military unpreparedness (1962) exposed idealism's fiscal shadow.",
+              "**Neighbourhood & world**: Korea armistice diplomacy (Menon; NNRC chair 1953), Indus Waters Treaty (1960 — cooperation with Pakistan amid conflict), Goa's liberation (1961 — anti-colonial consistency over Western opinion), Commonwealth's republic formula (1949 — sovereignty inside association), UN peacekeeping tradition (Congo).",
+              "**The synthesis close**: the early republic's triad — **constitutional democracy + planned mixed economy + non-aligned autonomy** — one integrated founding project: political freedom institutionalised, economic freedom attempted, strategic freedom asserted; its incomplete legs (land reform's dilution, 1962, licence-raj's later costs) are the evaluation's honest counterweight."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Founding project 1946-61] --> B[Political: Constitution 1950, universal franchise, first election 1951-52]\n  A --> C[Economic: land reform, Planning Commission, Mahalanobis 1956]\n  A --> D[Strategic: non-alignment, Panchsheel 1954, Bandung 1955]\n  B --> E[Democracy consolidated]\n  C --> F[Industrial base - and licence raj's seed]\n  D --> G[Voice beyond weight - and 1962's shock]\n  E --> H[The republic's triad: assessed with its incomplete legs]\n  F --> H\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use the triad architecture (political-economic-strategic) for any 'early republic' question; each leg gets achievement + institution + critique.",
+              "Andhra anchors: Estates Abolition 1948, Nagarjuna Sagar 1955, Durgabai in the Assembly (and later Planning Commission/social welfare), first general election's Madras-state Andhra politics (Prakasam-era) — regional presence in every leg."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The Constitution answered Partition; the Plan answered poverty; non-alignment answered the Cold War' — that one-line triad, then the evidence, then the honest counterweights: the complete top-band shape."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Constituent Assembly first met **9 Dec 1946**; Constitution adopted **26 Nov 1949**, in force **26 Jan 1950**; **15 women members** included **Durgabai Deshmukh**.",
+      "**First general election 1951-52** — ~17.3 crore electors, ~45% turnout: universal franchise's first test.",
+      "**Planning Commission: 15 March 1950**; **Second Plan (Mahalanobis, 1956)**; steel plants — **Bhilai (USSR), Rourkela (W. Germany), Durgapur (UK)**.",
+      "**IPR 1956** — 'economic constitution'; Industries (D&R) Act **1951** — licensing.",
+      "**Community Development Programme: 2 October 1952**; **Nagarjuna Sagar foundation: 1955** (Nehru; 'temples of modern India' idiom).",
+      "**Panchsheel: 29 April 1954** (India-China agreement on Tibet); **Bandung 1955**; **NAM Belgrade 1961**.",
+      "**Indus Waters Treaty 1960** (World Bank-brokered); **Goa liberated Dec 1961 (Operation Vijay)**.",
+      "**First Amendment (1951)** created the **Ninth Schedule** to shield land reform."
+    ],
+    "mainsAngles": [
+      "The founding triad — Constitution, Plan, Non-alignment — was one project of freedom institutionalised: elaborate and evaluate.",
+      "Universal adult franchise was the founders' greatest wager — assess the first general election as democracy's proof.",
+      "From Estates Abolition to the Ninth Schedule — evaluate early land reform's promise and dilution with the Andhra evidence.",
+      "The Mahalanobis strategy built temples and queues alike — weigh the Second Plan's legacy.",
+      "Non-alignment was self-interest enlightened, not neutrality — assess Nehru's foreign policy through Bandung, Panchsheel and 1962."
+    ],
+    "glossary": [
+      { "term": "Objectives Resolution", "definition": "Nehru's December 1946 declaration of the Assembly's aims — sovereignty, justice, equality — transmuted into the Preamble." },
+      { "term": "Ninth Schedule", "definition": "The First Amendment's shelter for land-reform laws from fundamental-rights challenge — reform's constitutional armour." },
+      { "term": "Mahalanobis model", "definition": "The Second Plan's heavy-industry-first strategy — capital goods today for consumer goods tomorrow." },
+      { "term": "Non-alignment", "definition": "Independent judgment outside Cold-War blocs, preserving autonomy and aid access — India's founding strategic doctrine." },
+      { "term": "Panchsheel", "definition": "The five principles of peaceful coexistence (1954) — sovereignty, non-aggression, non-interference, equality, coexistence." },
+      { "term": "Community Development Programme", "definition": "The 1952 block-based rural development apparatus — planning's village arm and Panchayati Raj's precursor." }
+    ]
+  }
+]
