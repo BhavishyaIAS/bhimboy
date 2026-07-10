@@ -1,0 +1,264 @@
+[
+  {
+    "code": "MN-PV-E2-016",
+    "sections": [
+      {
+        "heading": "Energy security — the four A's and India's exposure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Energy security (IEA): 'uninterrupted availability of energy sources at an affordable price' — unpacked as the **four A's: Availability** (physical resources), **Accessibility** (geopolitics of supply), **Affordability** (price & subsidy burden), **Acceptability** (environmental-social licence). India's exposure sheet: **~88% crude imports** (~$130-180 bn/yr swings), ~50% gas, coking-coal dependence; chokepoint risk (**Hormuz ~2/5 of imports' transit; Malacca**); price shocks transmitting to CAD-rupee-inflation (the PIV-IEC-002 loop); plus the **new dependencies** — solar cells-wafers, battery minerals (Li-Co-Ni), electrolysers: **transition security** as the fifth dimension."
+          },
+          {
+            "type": "table",
+            "headers": ["Security strategy", "Instruments", "Status note"],
+            "rows": [
+              ["Diversify suppliers", "Russia's discounted rise (~35-40% of crude), West Asia's balance, US-Africa-LatAm spot mix", "Diversification worked in 2022's test — refiner flexibility the quiet hero"],
+              ["Strategic reserves", "**SPR: Visakhapatnam (1.33 MMT), Mangaluru, Padur (total 5.33 MMT ≈ 9-10 days)** + Phase-II (Chandikhol, Padur-II)", "**Vizag = India's first SPR — the AP anchor fact**; commercial-leasing model added"],
+              ["Domestic production", "OALP-HELP exploration (no-go area cuts), **deepwater KG (ONGC's KG-DWN-98/2 producing 2024-25)**, CBM-shale, coal-gasification mission", "Decline arrested, not reversed; KG basin = AP's stake"],
+              ["Demand substitution", "**E20 (achieved), CBG, EVs (FAME→PM E-DRIVE), gas-based economy target (6→15%)**, green hydrogen for industry", "Oil-demand bending, not yet peaking"],
+              ["Overseas equity & diplomacy", "OVL assets (Sakhalin, Mozambique), **ISA, IEA-association, IPEF-supply chains**, rupee-crude experiments", "Equity oil hedges volumes, not prices"],
+              ["Grid & mineral security", "One-Nation-One-Grid, **KABIL's lithium hunts (Argentina), J&K's Reasi lithium find (5.9 MT inferred)**, PLI-ACC batteries, e-waste urban mining", "Critical-minerals mission (2025) — the transition-security file"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "'Indian energy sciences' — the indigenous R&D estate",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Institutions**: DAE's constellation (**BARC** — reactors-fuel cycle; **IGCAR Kalpakkam** — fast-breeder science; RRCAT lasers), **ONGC-OIL's** deepwater capability, **CSIR** labs (IIP Dehradun fuels; CECRI batteries; NCL catalysis), **NISE** (solar), **NIWE** (wind, Chennai), **SSEF/ISA's** Delhi anchoring, IITs' energy-science schools & DST's clean-energy missions (Mission Innovation membership).",
+              "**Indigenous flagships**: **PHWR mastery (220→700 MW — Kakrapar-3/4)**, **fast-breeder PFBR (Kalpakkam — core loading 2024)**, thorium's **AHWR design & Bhavini pipeline**, solar-cell efficiency labs, **battery chemistries (sodium-ion, ACC PLI)**, **green-hydrogen electrolyser R&D**, 2G-ethanol enzymes, coal-gasification (Talcher) — the sovereignty-through-science storyline.",
+              "**The analytical close**: energy security's centre of gravity is shifting **from barrels to supply chains to technologies** — for India the hedge is threefold: diversify (today), electrify-substitute (this decade), **indigenise the transition's technologies** (the energy-sciences mandate) — with AP's Vizag SPR, KG deepwater and GH2-PSP projects as the state's tri-role in the national strategy."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Energy security - four A's] --> B[Oil-gas exposure: 88 percent, chokepoints]\n  B --> C[Hedges: diversify, SPR Vizag, equity oil]\n  B --> D[Substitute: ethanol, EVs, gas, hydrogen]\n  A --> E[Transition security: minerals, cells, electrolysers]\n  E --> F[KABIL, Reasi lithium, PLI-ACC, minerals mission]\n  G[Energy sciences: BARC-IGCAR, CSIR, NISE-NIWE] --> H[Indigenise technologies]\n  D --> I[Security 2047: electrons over barrels]\n  F --> I\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Four-A definition + exposure numbers + six-strategy table + the barrels→supply-chains→technologies shift = the full architecture.",
+              "AP trio to cite: **Vizag SPR (India's first)**, KG deepwater production, Pudimadaka-Pinnapuram transition assets."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The transition-security paragraph (lithium, cells, electrolysers) is what separates a 2026-ready answer from a 2015 one; anchor it with Reasi's 5.9 MT and KABIL."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Four A's of energy security**: availability, accessibility, affordability, acceptability (IEA/APERC frame).",
+      "**SPR Phase-I: Visakhapatnam (1.33 MMT — India's first), Mangaluru (1.5), Padur (2.5) = 5.33 MMT (~9-10 days' cover)**; Phase-II adds Chandikhol & Padur-II (6.5 MMT).",
+      "**Russia became India's top crude supplier (2022-)** — ~35-40% share at peak discounting.",
+      "**Reasi (J&K) lithium: 5.9 million tonnes inferred (2023)**; **KABIL** signed Argentina lithium-block agreements.",
+      "**ONGC's KG-DWN-98/2** deepwater block (off AP) began oil production (2024) — 'energy from the Bay'.",
+      "Gas-based economy target: **15% of primary mix** (from ~6%); city-gas rounds expanding.",
+      "**IGCAR Kalpakkam** — fast-reactor hub; **PFBR core-loading began 2024** (Bhavini).",
+      "**National Critical Minerals Mission (2025)** — exploration-to-recycling security stack."
+    ],
+    "mainsAngles": [
+      "Define energy security's four A's and audit India's exposure and hedges on each.",
+      "From barrels to supply chains to technologies — trace energy security's shifting centre of gravity for India.",
+      "Strategic reserves, discounted diplomacy and demand substitution — evaluate India's response to the 2022 energy shock.",
+      "Transition security is the new import bill — assess India's critical-minerals and manufacturing answers.",
+      "Map India's energy-science estate and its indigenous flagships from PHWRs to electrolysers."
+    ],
+    "glossary": [
+      { "term": "Strategic Petroleum Reserve", "definition": "State-held emergency crude storage (Vizag-Mangaluru-Padur caverns) buffering supply shocks — days-of-cover the metric." },
+      { "term": "Chokepoint risk", "definition": "Supply vulnerability at maritime narrows (Hormuz, Malacca) through which import lifelines pass." },
+      { "term": "Equity oil", "definition": "Overseas field stakes (OVL) giving volume claims — a hedge on access more than on price." },
+      { "term": "Transition security", "definition": "Securing the minerals, components and technologies of clean energy — the fifth dimension beyond hydrocarbons." },
+      { "term": "KABIL", "definition": "Khanij Bidesh India Ltd — the PSU JV acquiring overseas critical-mineral assets (lithium, cobalt)." },
+      { "term": "Energy sciences", "definition": "The indigenous R&D establishment (DAE-CSIR-NISE-NIWE-IITs) converting energy dependence into technological capability." }
+    ]
+  },
+  {
+    "code": "MN-PV-E2-017",
+    "sections": [
+      {
+        "heading": "The three-stage programme — Bhabha's long game",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Homi Bhabha's** 1950s design matched technology to endowment (modest uranium, **vast thorium**): **Stage 1 — PHWRs** (natural uranium fuel, heavy-water moderation; the mastered workhorse — indigenous **700 MW units at Kakrapar 3/4 critical 2020-23; fleet mode: 10×700 MW sanctioned**); **Stage 2 — Fast Breeder Reactors** (plutonium-fuelled, breeding more fuel than burnt; **PFBR 500 MW, Kalpakkam — core loading began 2024** after long gestation); **Stage 3 — Thorium reactors** (U-233 from thorium blankets; **AHWR design ready; Bhavani/‘Bharat Small Reactors' era adds parallel tracks**) — the sequence that turns **AP-Kerala-Odisha monazite sands** into centuries of fuel. Current fleet: **~24 reactors, ~8.2 GW**; target arc: 22.4 GW by 2031-32 → **Nuclear Energy Mission (Budget 2025): 100 GW by 2047, ₹20,000 cr SMR R&D (5 indigenous SMRs by 2033), Atomic Energy Act & CLNDA amendments proposed** — the private-entry inflection."
+          },
+          {
+            "type": "table",
+            "headers": ["Policy & international stand", "Content"],
+            "rows": [
+              ["Doctrine (2003)", "**Credible minimum deterrence + No First Use** (with the caveat clauses); massive retaliation posture; CBM-first diplomacy — the responsible-power brand"],
+              ["The tests", "**Pokhran-I (1974, 'Smiling Buddha' — PNE framing)**; **Pokhran-II (May 1998)** → sanctions → the rehabilitation arc"],
+              ["The 2005-08 breakthrough", "**Indo-US 123 Agreement + separation plan; IAEA safeguards (2009-14 additional protocol); NSG waiver (Sept 2008)** — civil-nuclear commerce unlocked WITHOUT NPT signature: the diplomatic masterpiece"],
+              ["Regimes", "**NPT/CTBT unsigned** (discriminatory critique; voluntary moratorium held); **MTCR (2016), Wassenaar (2017), Australia Group (2018) joined; NSG membership pending** (China's block); **FMCT supported**"],
+              ["Liability friction", "**CLNDA 2010's supplier-recourse clause (Sec 17b)** chilled vendors — insurance-pool workaround (₹1,500 cr INIP), now **amendment proposed (2025)** to unlock Westinghouse-EDF-domestic-private capital"],
+              ["Partnerships", "**Russia (Kudankulam 1-6)**, France (Jaitapur MoUs), US (Kovvada's ghost — the **AP angle**: the once-designated Westinghouse site at Kovvada, Srikakulam — stalled on liability-cost; fresh SMR-era possibilities)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — energy, strategy, and the debate",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Why nuclear now**: firm zero-carbon base for a 2070-Net-Zero grid (complementing variable RE), land-thrifty (vs solar's acreage), and industrial-heat/hydrogen synergies — the SMR case (factory-built, load-following, brownfield coal-site reuse).",
+              "**The critique ledger**: cost-and-time overruns (PFBR's decades), waste's millennial politics, post-Fukushima safety anxieties (Kudankulam protests; AERB's independence question — the **Nuclear Safety Regulatory Authority Bill's** lapse), uranium-import dependence pending Stage-2/3 maturity — balance, then verdict: nuclear as **necessary complement, not panacea**, with regulatory-independence reform as the credibility key.",
+              "**AP thread**: monazite's thorium coast (IREL's Odisha-Kerala-**AP beach-sand** operations), **Kovvada's** stalled-park lesson, and the SMR-era possibility of coal-site conversions in AP's thermal belt — the state's three touchpoints."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Bhabha three-stage design] --> B[Stage 1 PHWR - 700 MW fleet mode]\n  B --> C[Stage 2 FBR - PFBR core loading 2024]\n  C --> D[Stage 3 Thorium - AHWR, monazite sands]\n  E[1998 tests - sanctions] --> F[2008 NSG waiver + 123 Agreement]\n  F --> G[Kudankulam, Jaitapur, Kovvada tracks]\n  G --> H[CLNDA liability chill]\n  H --> I[2025: Mission 100 GW, SMRs, Act amendments]\n  D --> I\n  I --> J[Nuclear as firm zero-carbon complement]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Three-stage table + doctrine line + the 2008 breakthrough + CLNDA friction + 2025 mission = the policy spine; the critique ledger supplies balance.",
+              "Dates: 1974, 1998, 2005-08, 2010 (CLNDA), 2024 (PFBR loading), 2025 (Mission); numbers: 8.2 GW now, 22.4 by 2031-32, 100 by 2047, 5 SMRs by 2033."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Without NPT yet within the tent' — the phrase for India's international stand; and always land the AP trio (thorium sands, Kovvada, SMR-on-coal-sites) for the state paper's flavour."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Three stages**: PHWR (nat-U) → FBR (Pu-239 breeding) → thorium/U-233 (AHWR) — matching India's thorium-rich, uranium-modest endowment.",
+      "**Kakrapar-3 (2020) & 4**: first indigenous **700 MW PHWRs**; 10 more in fleet mode; fleet ~24 reactors/**8.2 GW**.",
+      "**PFBR (500 MW, Kalpakkam, Bhavini)** — core loading began **March 2024**.",
+      "**Pokhran-I: 18 May 1974; Pokhran-II: 11 & 13 May 1998**; doctrine (2003): **credible minimum deterrence, No First Use**.",
+      "**NSG waiver: 6 September 2008**; 123 Agreement (Oct 2008); India in **MTCR 2016, Wassenaar 2017, Australia Group 2018**; NSG membership pending.",
+      "**CLNDA 2010 Sec 17(b)** supplier recourse — the vendor chill; **Indian Nuclear Insurance Pool (₹1,500 cr, 2015)**; amendments proposed 2025.",
+      "**Nuclear Energy Mission (Budget 2025)**: 100 GW by 2047; ₹20,000 crore SMR R&D; **5 indigenous SMRs by 2033**; private participation via Act amendments.",
+      "**Kovvada (Srikakulam, AP)** — the designated (stalled) Westinghouse AP-1000 site; **monazite** beach sands = thorium feed (IREL)."
+    ],
+    "mainsAngles": [
+      "Bhabha designed for thorium before the world priced carbon — evaluate the three-stage programme's logic and delays.",
+      "From pariah to partner without signing the NPT — narrate India's 1998-2008 nuclear diplomacy.",
+      "Liability law protected victims and paralysed vendors — assess CLNDA and the 2025 amendment turn.",
+      "100 GW by 2047 with SMRs and private capital — appraise the Nuclear Energy Mission's promise and preconditions.",
+      "Argue nuclear's place in a Net-Zero 2070 grid, with the safety-regulation reform it owes the public."
+    ],
+    "glossary": [
+      { "term": "PHWR", "definition": "Pressurised Heavy Water Reactor — natural-uranium fuelled, heavy-water moderated; India's indigenised workhorse (220/540/700 MW)." },
+      { "term": "Fast breeder reactor", "definition": "Reactor breeding more fissile fuel (Pu-239/U-233) than it consumes — Stage 2's multiplier of scarce uranium." },
+      { "term": "AHWR", "definition": "Advanced Heavy Water Reactor — BARC's thorium-burning Stage-3 design (U-233/Th fuel)." },
+      { "term": "No First Use", "definition": "India's declared posture of nuclear retaliation-only — credible minimum deterrence's ethical face." },
+      { "term": "NSG waiver", "definition": "The 2008 exemption letting nuclear commerce with India despite NPT non-signature — the diplomatic unlock." },
+      { "term": "SMR", "definition": "Small Modular Reactor (≤300 MW, factory-built) — the load-following, coal-site-reusing new track (Bharat Small Reactors)." },
+      { "term": "CLNDA", "definition": "Civil Liability for Nuclear Damage Act 2010 — victim-compensation law whose supplier-recourse clause chilled foreign vendors." }
+    ]
+  },
+  {
+    "code": "MN-PV-ED-018",
+    "sections": [
+      {
+        "heading": "Development vs environment — the debate's anatomy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The classic framing — growth OR ecology — is a **false binary at the horizon, a real trade-off at the site**. Theory toolkit: the **Environmental Kuznets Curve** (pollution rises then falls with income — partial truth: works for SO2-rivers, fails for CO2-biodiversity), **limits-to-growth vs ecological-modernisation** schools, **strong vs weak sustainability** (can built capital substitute natural capital? not for climate-pollinators-aquifers: the 'critical natural capital' answer), and **Amartya Sen's** reconciliation — development AS freedom includes environmental entitlements; add India's civilisational register (trusteeship, sarvodaya) and the **environmental-justice** lens: the poor bear degradation's costs first (whose development? whose environment?)."
+          },
+          {
+            "type": "table",
+            "headers": ["Resource", "Depletion evidence (India)", "Drivers"],
+            "rows": [
+              ["**Forests**", "Recorded forest ~21-25% of area but **dense-forest quality declining**; diversion ~15,000+ km² since 1980 (FCA clearances); the 2023 FCA amendment's exemptions debate", "Infrastructure, mining, encroachment; plantation ≠ forest (the compensatory-afforestation critique)"],
+              ["**Groundwater**", "**~17% of assessment blocks over-exploited**; NW India's aquifer mining (satellite-gravimetry famous); AP's Rayalaseema stress", "Free power + paddy-sugarcane misfit; drilling anarchy"],
+              ["**Soil**", "~**30% of land degraded** (desertification atlas); nutrient mining (NPK imbalance 4:2:1 norm vs ~7:3:1 use)", "Monoculture, urea bias, erosion (G-092/PL-026 files)"],
+              ["**Minerals & sand**", "Iron-ore/coal districts' cumulative loss; **illegal sand mining** as the rivers' daily wound", "Extraction rents; weak district enforcement (DMF's corrective purpose)"],
+              ["**Biodiversity & wetlands**", "Wetland loss ~1/3 in decades (SAC atlases); Kolleru's shrinkage the AP emblem; Western Ghats' Gadgil-Kasturirangan tug", "Land conversion, pollution, invasives"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Reconciling — the institutional answer",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Price the externality**: coal cess history → CCTS carbon market; eco-compensation (CAMPA's ₹ lakh-crore corpus and its plantation-quality audit); **natural-capital accounting** (green GDP pilots; the 'GDP of the poor' — forests' share of rural incomes).",
+              "**Gate the projects**: EIA-appraisal (ED-020's file), forest & wildlife clearances, CRZ; reformed toward **cumulative & strategic assessment** (basin-airshed level) rather than project-by-project attrition.",
+              "**Rights as guardrails**: FRA's community forest rights, PESA consent, **Samatha (1997)** & **Niyamgiri (2013 — the gram-sabha referendum)**: the AP-adjacent jurisprudence making communities co-deciders.",
+              "**The synthesis**: at the horizon, environment IS development (health, water, climate stability); at the site, honest trade-offs need **transparent valuation + consent + compensation-that-restores** — 'develop like an heir, not an executor': the closing aphorism."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Development pressure] --> B[Resource depletion: forest, water, soil, minerals]\n  B --> C[Costs fall on the poor first - environmental justice]\n  D[False binary at horizon] --> E[Environment as development: health, water, climate]\n  F[Real trade-off at site] --> G[Tools: EIA gates, pricing, CAMPA, rights-consent]\n  G --> H[Restorative compensation]\n  C --> G\n  E --> I[Develop like an heir, not an executor]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Theory kit (EKC + strong/weak sustainability + justice lens) → depletion table (five rows, one number each) → four-tool reconciliation → aphorism close.",
+              "AP anchors: Rayalaseema groundwater, Kolleru, Eastern-Ghats mining vs Samatha, sand-mining governance — the state's own debate in miniature."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Name the binary false-at-horizon/real-at-site — that single distinction organises every development-vs-environment question; the Niyamgiri-Samatha consent line adds the jurisprudential edge."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Environmental Kuznets Curve** — inverted-U pollution-income hypothesis; holds for local pollutants, fails for CO2.",
+      "India's degraded land ~**29-30%** (SAC Desertification Atlas); over-exploited groundwater blocks ~**17%** (CGWB).",
+      "**Forest (Conservation) Act 1980**: ~**15,000+ km² diverted** since 1980; **2023 amendment (Van Adhiniyam)** exemptions controversy.",
+      "**CAMPA** — compensatory afforestation fund (₹ lakh-crore scale) under the 2016 Act.",
+      "**Niyamgiri (2013)**: SC-ordered gram-sabha referendums rejected Vedanta's bauxite mining — consent jurisprudence's landmark (with AP's **Samatha 1997**).",
+      "Fertiliser-use imbalance vs the **4:2:1 NPK** norm — soil-mining marker.",
+      "**Kolleru** shrank under aquaculture; 'Operation Kolleru' (2006) the restoration episode.",
+      "Gadgil (2011) vs **Kasturirangan (2013)** Western-Ghats ESA reports — the conservation-development tug's case file."
+    ],
+    "mainsAngles": [
+      "False at the horizon, real at the site — resolve the development-environment binary with theory and cases.",
+      "Audit India's natural-resource depletion across forest, water, soil and minerals with one corrective each.",
+      "Compensatory afforestation compensates on paper — critique CAMPA-era restoration and its quality question.",
+      "Consent is the new clearance — trace Samatha-to-Niyamgiri jurisprudence and its meaning for project development.",
+      "The poor pay ecology's bills first — apply the environmental-justice lens to India's growth story."
+    ],
+    "glossary": [
+      { "term": "Environmental Kuznets Curve", "definition": "The hypothesis that degradation first rises then falls with income — valid locally, invalid for global commons like carbon." },
+      { "term": "Critical natural capital", "definition": "Ecosystem assets (climate, aquifers, pollination) with no man-made substitutes — the strong-sustainability core." },
+      { "term": "Compensatory afforestation", "definition": "Mandated plantation against diverted forest land (CAMPA-funded) — quantity's answer with a quality problem." },
+      { "term": "Environmental justice", "definition": "Fair distribution of environmental benefits and burdens — asking whose development and whose degradation." },
+      { "term": "Cumulative impact assessment", "definition": "Evaluating many projects' combined basin/airshed effects — the reform beyond project-wise EIA." },
+      { "term": "Natural-capital accounting", "definition": "Valuing ecosystem stocks and services in national accounts — making depletion visible to GDP." }
+    ]
+  }
+]
