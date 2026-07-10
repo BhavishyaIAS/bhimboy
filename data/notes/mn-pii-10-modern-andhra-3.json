@@ -1,0 +1,253 @@
+[
+  {
+    "code": "MN-PII-HCOA-061",
+    "sections": [
+      {
+        "heading": "Folk and tribal culture — the people's archive",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Form", "Content", "Notes"],
+            "rows": [
+              ["**Oral epics & ballads**", "**Palnati Veerula Katha** (the 'Andhra Kurukshetra' — Brahma Naidu's chapakudu inter-caste feast!), **Katamaraju Katha** (cattle-herders' epic), **Bobbili Katha**, Desingu Raja; **veedhi-bhagavatam** street tellings", "Sung by hereditary bards (**pichchukuntla, jangam katha** traditions); epics encode caste-negotiation and heroism — subaltern history in verse"],
+              ["**Performance forms**", "**Burrakatha** (3-performer narrative — modernised by praja natya mandali politics), **Harikatha** (Ajjada Adibhatla Narayana Dasu — 'Harikatha pitamaha'), **Tolu bommalata** (leather shadow-puppetry), **Veeranatyam, Butta bommalu, Dappu, Tappeta gullu, Kolatam**, Chindu/Yaksha-ganam of the Madigas", "Burrakatha became the freedom movement's loudspeaker (and later the communists'); puppetry carried Ramayana-Mahabharata to the village night"],
+              ["**Tribal cultures (Eastern Ghats agency)**", "**Koya, Konda Reddi, Savara (Gidugu's grammar!), Gadaba, Jatapu, Kondh, Valmiki; Chenchus (Nallamala)**; **Dhimsa dance (Araku), Thurpu bhagavatam**; gotti/kolatam variants; shifting-cultivation (podu) lifeworlds; sacred groves & hill deities (Sammakka-Saralamma's cousin-cults)", "Culture = economy = rights: podu, NTFP and land alienation are cultural questions too — the fituris (Alluri) defended a lifeworld, not just livelihood"],
+              ["**Subaltern religious culture**", "Village goddesses (**grama devatas — Poleramma, Gangamma (Tirupati jatara), Maridamma**), jataras & animal-sacrifice complexes, **Veerabrahmam's Kalagnanam** (the Vishwabrahmin prophet of Kandimallayapalle — egalitarian prophecy tradition; Dudekula Siddayya his Muslim disciple)", "Bhakti-from-below: Veerabrahmam's anti-caste prophecy is Andhra's Kabir-parallel — a favourite exam point"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Subaltern voices and women's cultural role",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Subaltern culture as counter-history**: Madiga Chindu performers, Mala Dasari ritualists, the Jamukula-katha singers preserved caste-critical narrative (the Chennaiah-Jambavanta origin tales asserting Dalit primacy) — 'the defeated keep their own scripture'; modern Dalit assertion (Adi-Andhra 1917) drew on these reservoirs.",
+              "**Women as culture-bearers**: the **female oral universe** — lullabies (lali paatalu), grinding-songs, wedding suvvi songs, **Bathukamma's coastal cousins (Gobbemma circles)**, lament traditions; women's tellings of Ramayana (**'Ramayanam of the women's quarters'** — Chandrabati-parallel Telugu variants where Sita's voice leads); vrata-kathas as women's narrative commons; and the professional exceptions — devadasi-court traditions preserving Kshetrayya padams & Kuchipudi's feminine repertoire (with their exploitation-artistry double face, the anti-nautch debate's substance).",
+              "**Colonial-modern impact**: census-folklorists collected while missionaries condemned; print marginalised bards; BUT nationalism **re-functionalised** folk forms (burrakatha for swaraj; lambadi/kolatam at Congress meets) and the modern state institutionalised them (Sangeet Natak-style academies, tribal museums — Araku) — the preservation-vs-fossilisation tension is the evaluative close.",
+              "**The thesis**: Andhra's identity was built twice — by the literate renaissance (HCOA-056/059/060) and by this **oral commonwealth**; an answer that names both is complete."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Andhra's oral commonwealth] --> B[Bardic epics: Palnadu, Katamaraju]\n  A --> C[Performance: burrakatha, harikatha, shadow puppets]\n  A --> D[Tribal lifeworlds: Koya, Savara, Chenchu - Dhimsa]\n  A --> E[Village goddess jataras and prophet cults - Veerabrahmam]\n  A --> F[Women's song universe and vrata tales]\n  B --> G[Subaltern counter-history]\n  E --> G\n  C --> H[Refunctionalised by nationalism and left politics]\n  F --> G\n  D --> I[Culture as rights: podu, forests, fituri defence]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Name-dense but organised: one epic (Palnadu + chapakudi), one performer-saint (Adibhatla; Veerabrahmam), one tribal complex (Dhimsa-Araku; Savara-Gidugu), one women's form (suvvi/gobbemma), one modern re-use (burrakatha-swaraj).",
+              "Two evaluative tensions to close: exploitation-artistry (devadasi repertoire) and preservation-fossilisation (academies vs living practice)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The chapakudi (inter-dining) motif of the Palnadu epic and Veerabrahmam's anti-caste Kalagnanam are the two facts that prove folk culture carried social radicalism centuries before the reformers — the connection APPSC loves."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Palnati Yuddham (c. 1182, Karempudi)** — the ballad cycle's core; **Brahma Naidu's chapakudi** (inter-caste common meal) its radical motif.",
+      "**Burrakatha**: narrator + two side-drummers (vanta/rajakiya commentary); harnessed by the freedom and Praja Natya Mandali movements.",
+      "**Ajjada Adibhatla Narayana Dasu** — 'Harikatha pitamahudu', scholar-performer of Vizianagaram.",
+      "**Tolu bommalata** — Telugu leather shadow-puppetry (Ramayana repertoire).",
+      "**Dhimsa** — Araku valley tribal dance; **Savara** language received its first grammar from **Gidugu Ramamurthy**.",
+      "**Chenchus** — Nallamala's hunter-gatherer PVTG, linked to Srisailam's Mallikarjuna lore.",
+      "**Pothuluri Veerabrahmam** (17th c., Kandimallayapalle, Kadapa) — *Kalagnanam* prophecies; disciples across castes incl. **Dudekula Siddayya**.",
+      "**Gangamma jatara (Tirupati)** and grama-devata complexes — the village goddess substrate."
+    ],
+    "mainsAngles": [
+      "Folk epics are subaltern history sung — analyse Palnadu and Katamaraju as social documents.",
+      "From temple courtyard to Congress dais — trace the political re-functionalisation of Andhra's performance forms.",
+      "Tribal culture in the agency is inseparable from forest rights — connect lifeworld and fituri.",
+      "Women were the oral tradition's custodians — recover their song-universe and its quiet counter-narratives.",
+      "Veerabrahmam's prophecy tradition was reform before the reformers — evaluate subaltern religiosity's radical edge."
+    ],
+    "glossary": [
+      { "term": "Burrakatha", "definition": "Three-member Telugu ballad-performance (tambura narrator with drummer-commentators) — folk media turned political megaphone." },
+      { "term": "Chapakudi", "definition": "The inter-caste common meal of the Palnadu epic — medieval commensality as remembered social radicalism." },
+      { "term": "Jatara", "definition": "Periodic village-goddess festival-fair (Gangamma, Sammakka-type) — the subaltern ritual commons." },
+      { "term": "Kalagnanam", "definition": "Veerabrahmam's verse prophecies foretelling social inversion — Andhra's egalitarian apocalyptic literature." },
+      { "term": "Grama devata", "definition": "Village guardian goddess (Poleramma, Maridamma) worshipped outside Brahminical mediation — the base layer of Telugu religion." },
+      { "term": "Praja Natya Mandali", "definition": "The IPTA's Andhra wing — left cultural troupe that modernised burrakatha and folk forms for mass politics (1940s)." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-062",
+    "sections": [
+      {
+        "heading": "The Justice Party and the non-Brahmin question in Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **South Indian Liberal Federation ('Justice Party', Madras 1916-17 — T.M. Nair, P. Thyagaraja Chetty, C. Natesa Mudaliar)** answered a real asymmetry: Brahmins (~3% of the Presidency) held the crushing majority of degrees, judgeships and Congress leadership. Its programme — **communal representation in education and services** — produced dyarchy-era ministries (1920-26, 1930-37) and the **Communal G.O.s (1927-era)** rationing posts among communities: **India's first reservation architecture**, the ancestor of today's OBC frame. **Andhra's stake**: leading Justicites were Telugu magnates — the **Raja of Panagal (Panaganti Ramarayaningar, Chief Minister 1921-26**, of Kalahasti's family), **Kurma Venkata Reddy Naidu** (minister; acting Governor's-council rank), koneti/kamma-reddy-velama elite networks; the party's **Andhra wing** fought Brahmin dominance in the new university-bar-secretariat world."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "Content", "Assessment"],
+            "rows": [
+              ["Achievements", "**Communal G.O.s** (quota rationing); **Madras University reform; Andhra University's birth (1926) under Panagal's ministry**; temple-administration law (**HRE Act 1926** — state oversight of temples: the HR&CE lineage); Staff Selection-type service boards; women's suffrage resolution (Madras first, 1921)", "Institutional social justice — reservations, temple-state relations and AU are its living monuments in AP"],
+              ["Politics & limits", "Elite non-Brahminism (zamindar-led, not subaltern); **loyalist tilt** (ministries under dyarchy while Congress boycotted); anti-Brahminism sometimes displacing anti-colonialism; fading after 1937 (Congress sweep), transformed by **Periyar into Dravidar Kazhagam (1944)**", "The standard critique: justice for the backward pursued through collaboration with the Raj; yet its quota-grammar outlived its politics"],
+              ["Andhra vs Tamil trajectories", "In Tamil country → Dravidian movement & DMK's century; **in Andhra → absorbed into Congress-kisan politics** (kamma-reddy elites moved to Congress/communists by the 1930s); non-Brahminism persisted as social fact, not separate party", "Why the difference? Andhra's linguistic-identity politics (Andhra movement) provided the alternative vehicle — a comparison examiners relish"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Andhra leaders in the era — the wider gallery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Justice stream**: Panagal Raja (CM 1921-26; the **Panagal-era G.O.s**), Kurma Venkata Reddy Naidu (acting CM 1936 interlude), A. Subbarayalu Reddiar (first Justice CM, 1920 — of Andhra-border lineage), Bollini/Munuswamy-era ministers — plus the **Andhra Non-Brahmin conferences** of the 1920s.",
+              "**The Congress counter-gallery** (for balance, same years): Konda Venkatappayya, Prakasam, Pattabhi — Brahmin-led Congress vs Justicite non-Brahminism was Andhra's elite fault line UNTIL kisan radicalism (Ranga) and the Andhra movement rebuilt coalitions across it.",
+              "**Legacy audit for AP**: reservations' genealogy (Communal G.O. → post-independence lists → BC quotas), **HR&CE temple governance**, Andhra University, and the normalised presence of non-Brahmin leadership in every later party (NTR's 1980s mobilisation has this pre-history) — Justice's grammar without Justice's loyalism."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Brahmin dominance in education-services] --> B[Justice Party 1916-17]\n  B --> C[Dyarchy ministries 1920-26 - Panagal Raja]\n  C --> D[Communal GOs - first reservations]\n  C --> E[Andhra University 1926, HRE Act 1926]\n  B --> F[Critique: elite, loyalist]\n  F --> G[Tamil path: Periyar - DK 1944 - Dravidian century]\n  F --> H[Andhra path: absorbed into Congress-kisan politics]\n  D --> I[AP legacy: BC reservation genealogy, HR&CE]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Anchors: 1916-17 founding trio; Panagal CM 1921-26; Communal G.O.s; AU 1926; HRE 1926; DK 1944; the Andhra-Tamil divergence paragraph.",
+              "Balance formula: real grievance + institutional harvest + loyalist critique + divergent afterlife — four moves, full marks."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The Justice Party lost its politics and bequeathed its grammar' — reservations and HR&CE are its AP afterlife. The Panagal-AU connection is the must-cite Andhra fact."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Justice Party (SILF): 1916-17, Madras — T.M. Nair, P. Thyagaraja Chetty, C. Natesa Mudaliar**; organ: *Justice*.",
+      "**First Justice ministry (1920): A. Subbarayalu Reddiar**; then **Raja of Panagal (1921-26)** — the Andhra-origin CM.",
+      "**Communal G.O. (1927 & antecedents)** — proportional community rationing of posts: India's reservation prototype (struck down later in **Champakam Dorairajan 1951 → First Amendment/15(4)**).",
+      "**Andhra University established 1926 (Panagal ministry; first VC — Cattamanchi Ramalinga Reddy)**.",
+      "**Madras Hindu Religious Endowments Act 1926** — the HR&CE system's origin.",
+      "Madras was the **first legislature to enfranchise women (1921)** — under the Justice ministry.",
+      "**Periyar took over (1938); Justice became Dravidar Kazhagam (1944)**.",
+      "**Kurma Venkata Reddy Naidu** — Andhra Justicite; acting Chief Minister (1936) between ministries."
+    ],
+    "mainsAngles": [
+      "The Justice Party answered a real asymmetry with a flawed politics — evaluate its programme, ministries and loyalism.",
+      "India's reservation grammar was written in Madras — trace the Communal G.O.s' genealogy to modern BC quotas via Champakam.",
+      "Panagal's ministry gave Andhra its university and temples their regulator — assess the Justice era's institutional harvest for AP.",
+      "Why did non-Brahminism become a Dravidian century in Tamil country but dissolve into Congress-kisan politics in Andhra?",
+      "Social justice and anti-colonialism ran on separate tracks in the 1920s Presidency — discuss their later convergence."
+    ],
+    "glossary": [
+      { "term": "Non-Brahmin movement", "definition": "The Madras-Presidency mobilisation against Brahmin over-representation in education and office — the Justice Party its political vehicle." },
+      { "term": "Communal G.O.", "definition": "Government Orders rationing appointments among communities — the first institutional reservations, ancestor of Art 15(4)-16(4) practice." },
+      { "term": "Dyarchy ministry", "definition": "Provincial cabinets under the 1919 Act's transferred subjects — the Justice Party governed while Congress boycotted." },
+      { "term": "HR&CE", "definition": "Hindu Religious & Charitable Endowments regime (from the 1926 Act) — state oversight of temples, AP's included." },
+      { "term": "Panagal Raja", "definition": "Panaganti Ramarayaningar of Kalahasti — Justice Chief Minister (1921-26), founder-era patron of Andhra University." },
+      { "term": "Dravidar Kazhagam", "definition": "Periyar's 1944 transformation of the Justice Party into a social-revolutionary movement — the Tamil afterlife Andhra didn't take." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-063",
+    "sections": [
+      {
+        "heading": "The poets' front — nationalist and revolutionary Telugu literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Writer", "Works", "Contribution"],
+            "rows": [
+              ["**Gurram Jashuva (1895-1971)**", "***Gabbilam* (1941)** — the Dalit Meghadutam: a bat carries the outcaste's message to Siva; *Firadausi*, *Kandiseekudu*", "Dalit suffering made high poetry — 'the poet of the ages' (**Kavi Kokila; Navayuga Kavi Chakravarti**) answering caste with artistry; untouchability's indictment inside the canon"],
+              ["**Boyi Bheemanna (1911-2005)**", "***Gudiselu Kalipotunnayi* (huts are burning)**, *Paleru* (the farm-servant play), *Raga Vasistham*", "From paleru (bonded farmhand) to Padma Bhushan — literature of Dalit labour; the burning-huts image as the classic of agrarian-caste protest"],
+              ["**Sri Sri (Srirangam Srinivasa Rao, 1910-83)**", "***Maha Prasthanam* (written 1930s, pub. 1950)** — 'Mundadugu', 'Desa charitralu'…", "The revolution's metronome: '**another world, another world, another world is calling**'; abhyudaya (progressive) poetry's manifesto — Marxist modernism that re-metred Telugu verse; later Viplava Rachayitala Sangham (Virasam, 1970) founding president"],
+              ["**Garimella Satyanarayana (1893-1952)**", "**'Maakoddee Tella Dorathanamu' (1921)** — 'we don't want this white lordship'", "The Non-Cooperation era's banned anthem — jailed repeatedly for a song; the singing satyagrahi"],
+              ["**Rayaprolu Subbarao (1892-1984)**", "*Trunakankanam*, *Andhravali*; **'Edesamegina endukalidina… janani janmabhoomischa'**", "Bhava-kavitvam's father AND patriotic lyricist — romantic nationalism's Telugu voice"],
+              ["**Unnava Lakshminarayana (1877-1958)**", "***Malapalli* (1922)** — the novel of a Mala village, Gandhian-socialist vision; wrote it in Rayavellore jail; **Sarada Niketanam (women's institution, Guntur)**", "The first great social-realist Telugu novel — banned by the Raj; reform + nationalism + Dalit dignity in one canvas"],
+              ["**Tripuraneni Ramaswamy (1887-1943)**", "*Sutapuranam*, *Sambhuka Vadha*, *Khooni*; barrister of Tenali — '**Kaviraju**'", "Rationalist counter-mythology — rereading Ramayana-puranas from the non-Brahmin standpoint; self-respect weddings' Telugu priest-book (Vivaha Vidhi); the region's Periyar-parallel pen"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Reading the front — movements in verse",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Three streams, one river**: patriotic-romantic (Rayaprolu, Garimella — and add **Chilakamarthi's 'Bharata Khandambu'** lineage), social-realist reform (Unnava, Jashuva, Bheemanna), and revolutionary-progressive (Sri Sri; the **Abhyudaya Rachayitala Sangham/Arasam (1943)** — with **Praja Natya Mandali** as its stage wing) — Telugu letters marched a half-step ahead of Telugu politics at every turn.",
+              "**Literature as organisation**: songs were the movement's logistics — Garimella's anthem at NCM meetings, burrakatha adaptations of Malapalli themes, Sri Sri's metres in the Telangana struggle's squad songs — verse did the work leaflets couldn't (memory + music + mass).",
+              "**The caste-question inside the canon**: Jashuva writing INTO the pandit assembly (his avadhanam-circuit triumphs), Bheemanna's paleru autobiography-drama, Tripuraneni's counter-epics — Telugu literature conducted India's caste debate in full public view a generation before national historiography caught up.",
+              "**Assessment**: no Indian language shows a tighter weld of poetry and politics in 1920-50; the exam's favourite pairing — **Gabbilam vs Meghadutam** (the messenger inverted: cloud for the exile-lord, bat for the outcaste) — one sentence of it marks literary literacy."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Telugu literature 1920-50] --> B[Patriotic-romantic: Rayaprolu, Garimella]\n  A --> C[Social-realist: Unnava's Malapalli, Jashuva, Bheemanna]\n  A --> D[Revolutionary: Sri Sri - Maha Prasthanam, Arasam 1943]\n  A --> E[Rationalist: Tripuraneni's counter-epics]\n  B --> F[Songs as movement logistics]\n  C --> G[Caste debate inside the canon]\n  D --> H[Telangana squad songs, Virasam later]\n  E --> G\n  F --> I[Politics and poetry welded]\n  G --> I\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Work-author pairs cold: Gabbilam-Jashuva; Paleru/Gudiselu-Bheemanna; Maha Prasthanam-Sri Sri; Maakoddee-Garimella; janani janmabhoomischa-Rayaprolu; Malapalli-Unnava; Sutapuranam-Tripuraneni.",
+              "The three-streams frame + the literature-as-logistics argument + one inverted-Meghadutam sentence = the complete answer kit."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Quote one line each from Sri Sri ('another world is calling') and Garimella ('maakoddee tella dorathanamu'), and note Malapalli's ban — banned books and jailed songs prove literature's political weight better than any adjective."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Jashuva's *Gabbilam* (1941)** — a bat as the Dalit's messenger to Siva (the Meghadutam inversion); honorifics: **Kavi Kokila**.",
+      "**Boyi Bheemanna**: *Paleru* (farmhand play), *Gudiselu Kalipotunnayi*; **Padma Bhushan (2001)**.",
+      "**Sri Sri's *Maha Prasthanam*** — abhyudaya (progressive) poetry's manifesto; **Arasam (1943)**; **Virasam founded 1970** (Sri Sri president).",
+      "**Garimella Satyanarayana** jailed for **'Maakoddee Tella Dorathanamu' (1921)** — the NCM's Telugu anthem.",
+      "**Rayaprolu Subbarao** — bhava-kavitvam pioneer; 'janani janmabhoomischa' patriot-lyric ('Edesamegina…').",
+      "**Unnava's *Malapalli* (1922)** — written in jail, **banned by the Madras government**; founded **Sarada Niketanam** (Guntur) for women.",
+      "**Tripuraneni Ramaswamy 'Kaviraju'** — *Sutapuranam*, *Sambhuka Vadha*; rationalist counter-puranas; Tenali barrister.",
+      "**Praja Natya Mandali** — the left cultural troupe carrying these texts to villages (1940s)."
+    ],
+    "mainsAngles": [
+      "Telugu poetry marched half a step ahead of Telugu politics — map the three literary streams of 1920-50 onto the movements they served.",
+      "Gabbilam inverted the Meghadutam — analyse Jashuva's poetics of untouchability inside the classical canon.",
+      "Songs were the movement's logistics — argue with Garimella, burrakatha and the Telangana squad songs.",
+      "Malapalli fused Gandhi, socialism and Dalit dignity — assess Unnava's novel and its ban.",
+      "From Sri Sri's Maha Prasthanam to Virasam — trace the revolutionary line in Telugu letters and its debates."
+    ],
+    "glossary": [
+      { "term": "Abhyudaya kavitvam", "definition": "Progressive (Marxist-humanist) Telugu poetry movement — Sri Sri its metronome, Arasam (1943) its organisation." },
+      { "term": "Bhava kavitvam", "definition": "The romantic-lyric school (Rayaprolu, Krishna Sastri) — subjectivity and nation as twin muses." },
+      { "term": "Gabbilam", "definition": "Jashuva's 1941 masterpiece: the outcaste sends his plaint to Siva by a bat — Dalit epic within classical form." },
+      { "term": "Paleru", "definition": "The bonded farm-servant — Bheemanna's play (and personal past) making agrarian-caste servitude visible." },
+      { "term": "Counter-purana", "definition": "Rationalist rewriting of epic-puranic tales from the subaltern side (Tripuraneni's Sutapuranam, Sambhuka Vadha)." },
+      { "term": "Virasam", "definition": "Viplava Rachayitala Sangham (1970) — the revolutionary writers' association, Sri Sri founding president; the progressive line's radical successor." }
+    ]
+  }
+]
