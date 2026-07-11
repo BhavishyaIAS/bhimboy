@@ -1,0 +1,506 @@
+[
+  {
+    "code": "MN-PII-HCOA-049",
+    "sections": [
+      {
+        "heading": "Socio-cultural & religious life in Andhradesa, 1000–1565 CE",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Between the **Kakatiyas and the fall of Vijayanagara (Talikota 1565)**, Andhradesa lived a **temple-centred, agrarian, culturally vibrant civilisation**. Under the **Kakatiyas, Reddis, Velamas and Vijayanagara**, society was organised around **temples and irrigation tanks**, religion balanced **Shaivism (Virashaivism), Vaishnavism and surviving Jainism**, and Telugu literature entered its classical age — a golden epoch of synthesis and prosperity."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Andhradesa 1000–1565"],
+            "rows": [
+              ["**Polity & society**", "**Nayaka/samanta feudal order**; the **Kakatiya 'nayankara' & angaraksha** systems mobilised non-elite groups (even shudra warriors — Kakatiyas were of pastoral origin); castes fluid at the martial frontier."],
+              ["**Economy**", "**Tank irrigation** (Kakatiya tanks — Pakala, Ramappa lakes) and temple-centred agrarian economy; brisk trade; the temple as bank, employer & redistributor."],
+              ["**Religion**", "**Shaivism (incl. Virashaiva/Lingayat), Vaishnavism (Ramanuja's influence), Shakti cults**; **Jainism declining**; Bhakti (HCOI-018) — **Palkuriki Somanatha, later Annamayya, Vemana, Potana**."],
+              ["**Women & culture**", "**Rudrama Devi** — a rare reigning queen (Kakatiya); a rich culture of temple dance, music, festivals and vernacular devotion."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The temple order and the age of synthesis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The Kakatiya distinction (the key point)**: the Kakatiyas (Warangal, 1163–1323) forged a **relatively open, participatory polity** — of pastoral (non-kshatriya) origin, they recruited warriors across castes (the **nayankara** land-service system), and **Rudrama Devi** ruled as queen — a striking social feature Marco Polo & later historians noted.",
+              "**Temple as institution**: the medieval Andhra temple was **economic engine, social hub and cultural patron** — endowed with land, it financed irrigation, employed artisans and hosted the Bhakti-devotional efflorescence.",
+              "**Religious currents**: **Virashaivism (Palkuriki Somanatha's Basava Purana), Sri Vaishnavism (Ramanuja at Tirupati), and Shakti worship** flourished; the **Bhakti movement** democratised devotion and enriched Telugu; **Jainism and Buddhism** faded.",
+              "**Vijayanagara's overlay**: after the Kakatiya fall (1323), the **Musunuri Nayakas** briefly resisted the Sultanate, then **Vijayanagara (1336)** became Andhradesa's protector of Hindu culture till **Talikota (1565)** — the era's political climax (HCOA-051)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Andhradesa 1000-1565] --> B[Kakatiyas - Warangal]\n  B --> C[Nayankara land-service, open polity]\n  B --> D[Rudrama Devi - reigning queen]\n  A --> E[Temple-tank agrarian economy]\n  A --> F[Religion - Shaiva, Vaishnava, Shakti]\n  F --> G[Bhakti - Palkuriki Somanatha]\n  B --> H[Kakatiya fall 1323]\n  H --> I[Musunuri Nayakas resist]\n  I --> J[Vijayanagara protects till Talikota 1565]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Frame the era around the TEMPLE-TANK order and the Kakatiya open polity (nayankara, Rudrama Devi), then religion (Shaiva-Vaishnava-Shakti, Bhakti), then the Vijayanagara overlay.",
+              "The Kakatiyas' participatory, caste-fluid warrior polity and Rudrama Devi are the distinctive, high-value points."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Argue medieval Andhradesa through the temple-tank economy and the Kakatiyas' unusually open polity (nayankara land-service, Rudrama Devi as reigning queen), with a Shaiva-Vaishnava-Shakti-Bhakti religious life crowned by Vijayanagara's protection till Talikota 1565."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Kakatiyas (Warangal, 1163-1323)** — of pastoral origin; **nayankara** land-service system recruited warriors across castes.",
+      "**Rudrama Devi** — Kakatiya queen; one of the few women to rule in medieval India; noted by **Marco Polo**.",
+      "Economy — **tank irrigation** (Pakala, Ramappa/Laknavaram lakes) and temple-centred agrarian order.",
+      "Religion — **Shaivism/Virashaivism, Sri Vaishnavism (Ramanuja, Tirupati), Shakti**; **Jainism declined**.",
+      "**Palkuriki Somanatha** — Virashaiva poet (Basava Purana, Panditaradhya Charitra).",
+      "After Kakatiya fall (1323), **Musunuri Nayakas (Prolaya & Kapaya)** resisted the Sultanate.",
+      "**Vijayanagara (founded 1336)** protected Andhra Hindu culture till **Battle of Talikota (1565)**."
+    ],
+    "mainsAngles": [
+      "Examine the socio-cultural distinctiveness of the Kakatiya polity, including its open recruitment and Rudrama Devi.",
+      "Analyse the temple as the central economic and cultural institution of medieval Andhradesa.",
+      "Discuss the religious currents — Shaiva, Vaishnava and Shakti — in Andhra between 1000 and 1565.",
+      "Assess the role of the Bhakti movement in the cultural life of medieval Andhra.",
+      "Evaluate Vijayanagara's role as the protector of Andhra culture until Talikota."
+    ],
+    "glossary": [
+      {"term": "Nayankara", "definition": "The Kakatiya (and Vijayanagara) system of granting land to nayakas/warriors in return for military service — enabling broad, caste-fluid recruitment."},
+      {"term": "Rudrama Devi", "definition": "The Kakatiya queen (r. c. 1263-89) who ruled Warangal in her own right, a rare woman sovereign of medieval India."},
+      {"term": "Virashaivism", "definition": "A devotional Shaiva movement (Lingayats) stressing equality and Kannada-Telugu vernacular devotion; propagated in Andhra by Palkuriki Somanatha."},
+      {"term": "Musunuri Nayakas", "definition": "Andhra chiefs (Prolaya & Kapaya) who rallied resistance and briefly expelled the Delhi Sultanate from Warangal after 1323."},
+      {"term": "Talikota (1565)", "definition": "The battle in which the Deccan Sultanates defeated Vijayanagara, ending its imperial protection of Andhra Hindu culture."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-050",
+    "sections": [
+      {
+        "heading": "The antiquity & growth of Telugu language & literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Telugu — a **Dravidian language of great antiquity** — grew from the **earliest inscriptions (~575 CE)** through the **Kavitraya (11th–14th c.)** to its **golden age under Krishnadevaraya and the Ashtadiggajas (16th c.)**. Its literary history is the spine of Andhra's cultural identity: from Nannaya's epic beginnings to the **Prabandha** perfection of the Vijayanagara court, Telugu became one of India's richest classical literatures."
+          },
+          {
+            "type": "table",
+            "headers": ["Age", "Landmarks"],
+            "rows": [
+              ["**Pre-literary**", "Earliest **Telugu inscriptions** (Renati Cholas, Kalamalla ~575 CE); Telugu words in Prakrit-Sanskrit records."],
+              ["**Age of the Kavitraya (11th–14th c.)**", "**Nannaya (Adikavi), Tikkana, Errapragada** — the **Telugu Mahabharatam**; **Nannaya's** grammar; **Tikkana's** dramatic power; **Errapragada** the bridge."],
+              ["**Age of Srinatha & Bhakti (14th–15th c.)**", "**Srinatha** (Kavisarvabhauma — Sringara Naishadham), **Potana** (Telugu Bhagavatam), **Annamayya** (padakavita), **Bammera Potana**; devotional-classical fusion."],
+              ["**Golden Age / Prabandha (16th c.)**", "**Krishnadevaraya's** court — the **Ashtadiggajas** (Allasani Peddana etc.); the **Prabandha** (ornate narrative kavya) perfected; Telugu called **'Desa bhashalandu Telugu lessa'**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The golden age and the Prabandha peak",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Antiquity established**: Telugu's Dravidian roots run deep — inscriptional Telugu by the 6th century, literary Telugu by the 11th (**Nannaya**); the **Kavitraya** rendered the Mahabharatam and fixed classical Telugu grammar and diction.",
+              "**The Srinatha–Bhakti bloom**: **Srinatha** (the 'emperor of poets') and **Potana** (the beloved **Telugu Bhagavatam**) fused erudite kavya with popular devotion; **Annamacharya (Annamayya)** created **padakavita (sankirtana)** at Tirupati — thousands of Telugu devotional songs.",
+              "**The golden age (the summit)**: **Krishnadevaraya (1509–29)** — himself author of **Amuktamalyada** — presided over the **Ashtadiggajas ('eight elephants of the poetic directions')**, led by **Allasani Peddana (Andhra Kavita Pitamaha, Manucharitramu)**; the **Prabandha** form reached perfection at the Bhuvana Vijayam court.",
+              "**Later flowering & significance**: dwipada, yakshagana, and prose developed later; Telugu's literary continuity — from Nannaya to the moderns — makes it, with Tamil, among the **most storied Indian literatures**, and the core of Andhra self-identity."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Telugu - ancient Dravidian] --> B[Inscriptions ~575 CE]\n  B --> C[Kavitraya - Nannaya, Tikkana, Errapragada]\n  C --> D[Mahabharatam]\n  A --> E[Srinatha and Potana - 14-15c]\n  E --> F[Annamayya - padakavita at Tirupati]\n  A --> G[Krishnadevaraya 16c - golden age]\n  G --> H[Ashtadiggajas - Allasani Peddana]\n  H --> I[Prabandha perfected]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Move through four ages (inscriptional → Kavitraya → Srinatha/Bhakti → Krishnadevaraya golden age); crown it with the Ashtadiggajas and the Prabandha.",
+              "Key names to always include: Nannaya (Adikavi), the Kavitraya, Potana, Annamayya, Krishnadevaraya, Allasani Peddana (Andhra Kavita Pitamaha)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Structure Telugu's growth as four ages ending in the golden age — Krishnadevaraya's court, the Ashtadiggajas and the perfected Prabandha; anchor with Nannaya, the Kavitraya, Potana, Annamayya and Allasani Peddana."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Telugu — a **Dravidian language**; earliest inscriptions ~**575 CE** (Renati Cholas).",
+      "**Kavitraya (trinity)** — **Nannaya (Adikavi), Tikkana, Errapragada** — the **Telugu Mahabharatam**.",
+      "**Srinatha** — 'Kavisarvabhauma' (Sringara Naishadham); **Potana** — **Telugu Bhagavatam**.",
+      "**Annamacharya (Annamayya)** — pioneer of **padakavita/sankirtana** at Tirupati.",
+      "**Krishnadevaraya (1509-29)** — wrote **Amuktamalyada**; court of the **Ashtadiggajas**.",
+      "**Allasani Peddana** — **Andhra Kavita Pitamaha**; wrote **Manucharitramu**; leader of the Ashtadiggajas.",
+      "The **Prabandha** (ornate narrative kavya) reached its peak in the 16th-century golden age."
+    ],
+    "mainsAngles": [
+      "Trace the growth of Telugu literature from the Kavitraya to the golden age of the Ashtadiggajas.",
+      "Assess the contribution of Krishnadevaraya and his court to Telugu literature.",
+      "Examine the Prabandha as the characteristic literary form of the Telugu golden age.",
+      "Discuss the devotional strand in Telugu literature — Potana and Annamayya.",
+      "Evaluate the antiquity and classical status of the Telugu language."
+    ],
+    "glossary": [
+      {"term": "Kavitraya", "definition": "The 'trinity' of Telugu poets — Nannaya, Tikkana, Errapragada — who translated the Mahabharatam and shaped classical Telugu."},
+      {"term": "Prabandha", "definition": "An elaborate, self-contained narrative kavya perfected in the 16th-century Telugu golden age (e.g. Manucharitramu)."},
+      {"term": "Ashtadiggajas", "definition": "The 'eight elephants' — eight great poets of Krishnadevaraya's Bhuvana Vijayam court, led by Allasani Peddana."},
+      {"term": "Padakavita", "definition": "The devotional song-poetry (sankirtana) form pioneered by Annamacharya at Tirupati."},
+      {"term": "Amuktamalyada", "definition": "The celebrated Telugu prabandha authored by Krishnadevaraya himself, on the saint Andal."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-051",
+    "sections": [
+      {
+        "heading": "Fine arts, art & architecture — Kakatiyas, Reddis, Gajapatis, Vijayanagaras",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Medieval Andhra's four great powers — **Kakatiyas, Reddis, Gajapatis and Vijayanagara** — created a **distinct Deccan artistic golden age**: the **Kakatiya temple-and-torana idiom (Ramappa, Warangal)**, Reddi forts and temples, Gajapati influence in the north-east, and the **grand Vijayanagara style (Hampi)** — an integrated culture of architecture, sculpture, dance and music."
+          },
+          {
+            "type": "table",
+            "headers": ["Power", "Artistic legacy"],
+            "rows": [
+              ["**Kakatiyas (1163–1323)**", "**Ramappa (Rudreswara) temple — UNESCO**, Thousand-Pillar temple (Hanamkonda), **Warangal kirti-toranas**, floating bricks, black-basalt sculpture; **Nritta Ratnavali** (dance treatise)."],
+              ["**Reddis (14th–15th c.)**", "Kondavidu & Rajahmundry courts; **temple building, fortifications**, and great literary patronage (Srinatha at the Reddi court); Ahobilam, Simhachalam patronage."],
+              ["**Gajapatis (Odisha, 15th–16th c.)**", "Ruled coastal north-Andhra; **Kalinga temple influence** (Simhachalam, Srikurmam); Vaishnava temple culture."],
+              ["**Vijayanagara (1336–1565)**", "The **Hampi** masterpieces — **Vitthala temple (stone chariot, musical pillars), Virupaksha, Lotus Mahal, elephant stables**; the mature **Dravida-Vijayanagara style** (tall gopurams, ornate mandapas)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The Deccan artistic synthesis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Kakatiya signature**: the **Ramappa temple** (star platform, sandbox foundation, floating bricks, gleaming black-basalt figures) and the **Warangal kirti-toranas** define the Kakatiya idiom — engineering plus artistry; the toranas feature on **Telangana's state emblem**.",
+              "**Vijayanagara grandeur**: at **Hampi**, the **Vitthala temple's stone chariot and musical (SaReGaMa) pillars**, towering **rayagopurams**, pillared **kalyana mandapas** and secular structures (Lotus Mahal, elephant stables) mark the **peak of Dravida temple architecture** — a UNESCO World Heritage site.",
+              "**Reddi & Gajapati contributions**: the **Reddis** of Kondavidu/Rajahmundry built forts and temples and were great literary patrons; the **Gajapatis** brought **Kalinga (Odishan) temple traditions** to Srikakulam-Visakhapatnam (Simhachalam, Srikurmam).",
+              "**Performing arts**: this era codified **dance (Nritta Ratnavali), Carnatic music's roots, and temple-based Kuchipudi antecedents** — a total art culture, not merely stone."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Medieval Andhra art] --> B[Kakatiyas]\n  B --> C[Ramappa temple - UNESCO, floating bricks]\n  B --> D[Warangal kirti-toranas]\n  A --> E[Reddis - Kondavidu forts, temples]\n  A --> F[Gajapatis - Kalinga temples, Simhachalam]\n  A --> G[Vijayanagara - Hampi]\n  G --> H[Vitthala temple - stone chariot, musical pillars]\n  G --> I[Rayagopurams, Lotus Mahal]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Give one power one signature monument: Kakatiya→Ramappa/kirti-torana, Reddi→Kondavidu, Gajapati→Simhachalam (Kalinga style), Vijayanagara→Hampi Vitthala.",
+              "Ramappa (UNESCO, floating bricks) and Hampi's Vitthala stone chariot & musical pillars are the memorable set-pieces."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Assign each power a signature — Kakatiya Ramappa & Warangal toranas, Reddi Kondavidu forts, Gajapati Kalinga temples (Simhachalam), Vijayanagara Hampi (Vitthala's stone chariot & musical pillars) — the two UNESCO peaks (Ramappa, Hampi) are your anchors."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Ramappa (Rudreswara) temple** — Kakatiya; **UNESCO World Heritage**; 'floating bricks', sandbox foundation, black-basalt sculpture.",
+      "**Warangal kirti-toranas** — Kakatiya gateways; part of **Telangana's state emblem**.",
+      "**Thousand-Pillar temple, Hanamkonda** — Kakatiya (trikutalaya, Shiva-Vishnu-Surya).",
+      "**Reddis** — Kondavidu & Rajahmundry; patrons of **Srinatha**; forts and temples.",
+      "**Gajapatis** — brought **Kalinga (Odishan) temple style** to north-coastal Andhra (Simhachalam, Srikurmam).",
+      "**Hampi (Vijayanagara)** — UNESCO; **Vitthala temple (stone chariot, musical pillars), Virupaksha, Lotus Mahal, elephant stables**.",
+      "**Nritta Ratnavali** (Jayapa Senani) — Kakatiya-era dance treatise."
+    ],
+    "mainsAngles": [
+      "Compare the architectural achievements of the Kakatiyas and Vijayanagara.",
+      "Assess the Ramappa temple as a marvel of Kakatiya engineering and art.",
+      "Analyse the Vijayanagara style at Hampi as the culmination of Dravida temple architecture.",
+      "Discuss the contribution of the Reddis and Gajapatis to medieval Andhra art and architecture.",
+      "Examine the integration of temple architecture, sculpture and performing arts in medieval Andhra."
+    ],
+    "glossary": [
+      {"term": "Kirti-torana", "definition": "An ornamental Kakatiya gateway/arch; the Warangal examples feature on Telangana's state emblem."},
+      {"term": "Ramappa temple", "definition": "The 13th-century Kakatiya Shiva temple near Warangal, a UNESCO site famed for 'floating' lightweight bricks and black-basalt sculpture."},
+      {"term": "Rayagopuram", "definition": "The towering ornamented gateway-tower characteristic of the mature Vijayanagara temple style."},
+      {"term": "Vitthala temple", "definition": "The Hampi masterpiece famed for its stone chariot and musical (resonating) pillars."},
+      {"term": "Gajapatis", "definition": "The Odishan dynasty that ruled north-coastal Andhra and brought the Kalinga temple tradition (Simhachalam, Srikurmam)."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-052",
+    "sections": [
+      {
+        "heading": "Historical monuments of Andhra & their significance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Andhra-Telangana's monuments — from **Buddhist Amaravati and Nagarjunakonda** to the **Kakatiya Warangal Fort and Ramappa**, the **Vijayanagara Hampi**, the **Qutb Shahi Golconda and Charminar**, and colonial-era landmarks — form a **living record of two millennia of Deccan civilisation**. They are significant as **heritage, tourism, identity and evidence** — the physical archive of Telugu history."
+          },
+          {
+            "type": "table",
+            "headers": ["Era", "Key monuments & significance"],
+            "rows": [
+              ["**Buddhist (2c BCE–4c CE)**", "**Amaravati Mahastupa, Nagarjunakonda, Bhattiprolu, Ghantasala** — the Buddhist heartland; global significance for Mahayana/art history."],
+              ["**Kakatiya (12–14c)**", "**Warangal Fort & kirti-toranas, Ramappa (UNESCO), Thousand-Pillar temple, Golconda's early fort** — engineering & the Telangana identity."],
+              ["**Vijayanagara (14–16c)**", "**Hampi (UNESCO)** — Vitthala, Virupaksha; **Lepakshi** (Veerabhadra temple — hanging pillar, murals); Penukonda, Chandragiri (later capital)."],
+              ["**Qutb Shahi (16–17c)**", "**Golconda Fort, Charminar, Qutb Shahi tombs, Mecca Masjid (Hyderabad)** — Indo-Islamic Deccan grandeur & the founding of Hyderabad."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why the monuments matter",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**As evidence & identity**: monuments are **primary historical sources** (inscriptions, iconography, engineering) and **anchors of regional identity** — the Warangal torana on Telangana's emblem, Charminar as Hyderabad's icon.",
+              "**As heritage (UNESCO)**: **Hampi and Ramappa are UNESCO World Heritage Sites**; **Golconda, Qutb Shahi tombs and the Kakatiya trail** are on tentative lists — global recognition of Deccan civilisation.",
+              "**As economy & soft power**: heritage **tourism** (Hyderabad, Hampi, Tirupati, Warangal, Nagarjunakonda) is a major livelihood and cultural-diplomacy asset — conservation is thus also development policy.",
+              "**Conservation challenge**: **urbanisation, neglect, submergence (Nagarjunakonda relocated for the dam), and encroachment** threaten these sites — ASI protection, adaptive reuse and community stewardship are the live policy questions."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Andhra-Telangana monuments] --> B[Buddhist - Amaravati, Nagarjunakonda]\n  A --> C[Kakatiya - Warangal, Ramappa UNESCO]\n  A --> D[Vijayanagara - Hampi UNESCO, Lepakshi]\n  A --> E[Qutb Shahi - Golconda, Charminar]\n  A --> F[Significance]\n  F --> G[Evidence and identity]\n  F --> H[UNESCO heritage]\n  F --> I[Tourism economy]\n  F --> J[Conservation challenge]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Organise monuments chronologically (Buddhist → Kakatiya → Vijayanagara → Qutb Shahi) with one line of significance each, then a four-fold significance section (evidence/identity, UNESCO, tourism, conservation).",
+              "The two UNESCO sites (Hampi, Ramappa) plus Golconda/Charminar are the anchor examples."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: List monuments chronologically with a one-line 'significance' each, then argue significance four ways — historical evidence & identity, UNESCO heritage (Hampi, Ramappa), tourism economy, and the conservation challenge (Nagarjunakonda's submergence is the classic case)."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**UNESCO World Heritage in AP-Telangana**: **Hampi (Vijayanagara)** and **Ramappa temple (Kakatiya)**.",
+      "**Buddhist**: Amaravati, **Nagarjunakonda** (relocated/museum-island due to Nagarjunasagar dam), Bhattiprolu, Ghantasala.",
+      "**Kakatiya**: **Warangal Fort & kirti-toranas, Thousand-Pillar temple, Ramappa**.",
+      "**Vijayanagara**: **Hampi (Vitthala, Virupaksha)**, **Lepakshi (Veerabhadra — hanging pillar)**, Chandragiri, Penukonda.",
+      "**Qutb Shahi**: **Golconda Fort, Charminar, Qutb Shahi tombs, Mecca Masjid** (Hyderabad).",
+      "Monuments are **primary historical sources** and **regional-identity symbols** (Warangal torana on Telangana emblem).",
+      "**ASI** protects centrally-notified monuments; heritage **tourism** is a major economic asset."
+    ],
+    "mainsAngles": [
+      "Discuss the significance of Andhra-Telangana's historical monuments as sources of history and symbols of identity.",
+      "Assess the role of heritage monuments in the tourism economy of the Telugu states.",
+      "Examine the conservation challenges facing Andhra's historical monuments.",
+      "Trace the evolution of monumental architecture in the Telugu country across major dynasties.",
+      "Evaluate the case of Nagarjunakonda as a study in heritage relocation and conservation."
+    ],
+    "glossary": [
+      {"term": "ASI", "definition": "The Archaeological Survey of India — the central body responsible for protecting and conserving notified monuments."},
+      {"term": "Golconda Fort", "definition": "The great Qutb Shahi fortress near Hyderabad, famed for its acoustics, defences and diamond trade."},
+      {"term": "Charminar", "definition": "The iconic 1591 monument founding the city of Hyderabad, built by Muhammad Quli Qutb Shah."},
+      {"term": "Lepakshi", "definition": "A Vijayanagara-era Veerabhadra temple in Anantapur, known for its hanging pillar and mural paintings."},
+      {"term": "Nagarjunakonda", "definition": "An Ikshvaku Buddhist site whose relics were relocated to an island/museum when the Nagarjunasagar reservoir submerged the valley."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-053",
+    "sections": [
+      {
+        "heading": "The Qutb Shahis' contribution to Andhra history & culture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Qutb Shahi dynasty (1518–1687)** — founded by **Sultan Quli Qutb-ul-Mulk** at Golconda — gave Andhra the **city of Hyderabad, a flowering of Indo-Persian-Deccani culture, and, uniquely among the Deccan Sultanates, generous patronage of Telugu** alongside Persian and the birth of **Dakhni Urdu**. Their reign is the great **medieval Indo-Islamic chapter** of Telugu history."
+          },
+          {
+            "type": "table",
+            "headers": ["Contribution", "Detail"],
+            "rows": [
+              ["**Urban foundation**", "**Muhammad Quli Qutb Shah founded Hyderabad (1591)** with the **Charminar**; laid out a planned city with Mecca Masjid, gardens & tanks (Hussain Sagar) — Golconda earlier the citadel."],
+              ["**Architecture**", "**Golconda Fort** (acoustics, water system), **Charminar, Qutb Shahi tombs, Mecca Masjid** — a distinctive **Deccani Indo-Islamic** style."],
+              ["**Language & literature**", "Patronised **Telugu** (rare for a Sultanate — e.g. under Ibrahim Quli 'Malkibharama') and **Persian**; **Muhammad Quli** wrote **Dakhni Urdu poetry** (Kulliyat) — a pioneer of Urdu verse."],
+              ["**Economy & trade**", "**Golconda diamonds** (Kollur mines — the Koh-i-Noor, Hope diamond), textiles (Machilipatnam port), and a cosmopolitan trade linking the Deccan to the world."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "A syncretic Deccani culture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Founding Hyderabad (the signature)**: **Muhammad Quli Qutb Shah** built **Hyderabad (1591)** around the **Charminar** — one of India's great planned cities — relieving crowded Golconda; the city remains the Qutb Shahis' living monument.",
+              "**Telugu-Persian synthesis**: uniquely among the Deccan Sultanates, the Qutb Shahis **patronised Telugu language and poets** (Ibrahim Quli was celebrated by Telugu poets as 'Malkibharama'), while nurturing **Persian and Dakhni Urdu** — a genuine **Ganga-Jamuni Deccani culture**.",
+              "**Dakhni Urdu's cradle**: **Muhammad Quli Qutb Shah** was among the **first to compose a substantial body of Urdu (Dakhni) poetry** — his Kulliyat celebrating local life, festivals and the beloved Bhagmati — foundational to Urdu literature.",
+              "**Economy & the diamond trade**: **Golconda** was synonymous with **diamonds** (Kollur/Paritala mines yielded the Koh-i-Noor, Hope, Regent), and **Machilipatnam** thrived on textile exports — the wealth that funded the culture; the state fell to **Aurangzeb (1687)**, absorbed into the Mughal Deccan."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Qutb Shahis 1518-1687] --> B[Sultan Quli founds line at Golconda]\n  A --> C[Muhammad Quli founds Hyderabad 1591]\n  C --> D[Charminar, Mecca Masjid]\n  A --> E[Patronise Telugu and Persian]\n  A --> F[Dakhni Urdu - Muhammad Quli poetry]\n  A --> G[Golconda diamonds, Machilipatnam trade]\n  A --> H[Fell to Aurangzeb 1687]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Four contributions: urban (Hyderabad/Charminar), architectural (Golconda/tombs), linguistic (Telugu patronage + Dakhni Urdu birth), economic (diamonds/Machilipatnam trade).",
+              "Stress the UNIQUE Telugu patronage among Sultanates and Muhammad Quli as a pioneer of Urdu poetry — the syncretic Deccani theme."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Qutb Shahis' signature is the founding of Hyderabad (Charminar) and a syncretic Deccani culture — uniquely patronising Telugu among the Sultanates while cradling Dakhni Urdu (Muhammad Quli's poetry); Golconda diamonds funded it all."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Qutb Shahi dynasty (1518-1687)** — founded by **Sultan Quli Qutb-ul-Mulk** at **Golconda**.",
+      "**Muhammad Quli Qutb Shah** founded **Hyderabad (1591)** and built the **Charminar**; wrote **Dakhni Urdu** poetry (Kulliyat).",
+      "Uniquely patronised **Telugu** — **Ibrahim Quli Qutb Shah** hailed as **'Malkibharama'** by Telugu poets.",
+      "Monuments — **Golconda Fort, Charminar, Qutb Shahi tombs, Mecca Masjid**.",
+      "**Golconda diamonds** — Kollur mines; the **Koh-i-Noor, Hope, Regent** diamonds; **Machilipatnam** textile port.",
+      "The dynasty fell to **Aurangzeb (Mughals) in 1687**.",
+      "Pioneers of **Dakhni Urdu** literature — a Deccani Indo-Persian synthesis."
+    ],
+    "mainsAngles": [
+      "Assess the Qutb Shahi contribution to the urban and cultural history of Andhra, centred on the founding of Hyderabad.",
+      "Examine the Qutb Shahis' unique patronage of Telugu among the Deccan Sultanates.",
+      "Discuss the role of the Qutb Shahis in the development of Dakhni Urdu literature.",
+      "Analyse Golconda's economy and the diamond trade under the Qutb Shahis.",
+      "Evaluate the Qutb Shahis as agents of Indo-Persian-Telugu cultural synthesis."
+    ],
+    "glossary": [
+      {"term": "Qutb Shahis", "definition": "The dynasty (1518-1687) that ruled the Golconda Sultanate, founded Hyderabad, and patronised Telugu, Persian and Dakhni Urdu."},
+      {"term": "Dakhni Urdu", "definition": "The southern (Deccani) form of early Urdu; Muhammad Quli Qutb Shah was among its first major poets."},
+      {"term": "Charminar", "definition": "The four-minaret monument built by Muhammad Quli Qutb Shah in 1591 at the centre of the new city of Hyderabad."},
+      {"term": "Malkibharama", "definition": "The affectionate Telugu epithet for Ibrahim Quli Qutb Shah, reflecting his patronage of Telugu poets."},
+      {"term": "Golconda diamonds", "definition": "The famous diamonds (Koh-i-Noor, Hope, Regent) traded from the Kollur mines under Qutb Shahi Golconda."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-054",
+    "sections": [
+      {
+        "heading": "Praja Kavi Vemana & regional literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Vemana** — the **'people's poet' (Praja Kavi)** — is Telugu's most beloved **social-reformer poet**: his pithy **Ataveladi verses (Vemana Satakam)** attacked caste, superstition, hypocrisy and ritualism in the plain speech of the common man. He crowns a rich tradition of **regional, popular and Bhakti Telugu literature** that carried learning and reform beyond the courtly elite."
+          },
+          {
+            "type": "table",
+            "headers": ["Figure/Form", "Contribution"],
+            "rows": [
+              ["**Vemana (Praja Kavi)**", "**Ataveladi (three-and-a-half-line) verses** ending in the refrain 'Vishwadabhirama Vinura Vema'; social critique of caste, greed, ritual; a Yogic-Advaita moral voice; C.P. Brown popularised him."],
+              ["**Sataka (gnomic) tradition**", "Moral/devotional 100-verse works — **Vemana Satakam, Sumati Satakam (Baddena), Dasarathi Satakam, Bhaskara Satakam** — the popular didactic backbone."],
+              ["**Bhakti-devotional**", "**Annamayya (padakavita), Ramadasu (Bhadrachala kirtanas), Tyagaraja (Carnatic)**, Potana — devotion in the people's tongue."],
+              ["**Dwipada & folk forms**", "**Dwipada** (couplet narrative — Palkuriki Somanatha, Ranganatha Ramayanam), **Yakshaganam, Harikatha, Burrakatha, Kuchipudi** — performative regional literature."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The people's voice in Telugu",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Vemana the reformer (the core)**: writing in **simple Ataveladi verse**, Vemana **attacked caste hierarchy, idol-worship for its own sake, greed and hypocrisy** and preached **inner virtue and Advaitic realisation** — a **social-reform voice centuries ahead of his time**, memorised by every Telugu child; his refrain **'Vishwadabhirama Vinura Vema'** is iconic.",
+              "**The Sataka backbone**: the **Sataka (100-verse gnomic) form** — Vemana, **Sumati (Baddena), Dasarathi (Ramadasu), Bhaskara** — made ethics and devotion **portable and popular**, the moral curriculum of Telugu society.",
+              "**Devotion for the people**: **Bhadrachala Ramadasu's** Rama kirtanas, **Annamayya's** Venkateswara padams and **Tyagaraja's** Carnatic kritis carried Bhakti (HCOI-018) in Telugu song — uniting literature, music and mass devotion.",
+              "**Performative & folk literature**: **dwipada narratives, Yakshaganam, Harikatha, Burrakatha and Kuchipudi** took stories and reform to villages — the **regional, oral-performative literature** that complemented the courtly Prabandha and kept Telugu a living people's language."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Regional Telugu literature] --> B[Vemana - Praja Kavi]\n  B --> C[Ataveladi verse - Vishwadabhirama Vinura Vema]\n  B --> D[Critique of caste, ritual, greed]\n  A --> E[Sataka tradition - Sumati, Dasarathi, Bhaskara]\n  A --> F[Bhakti song - Annamayya, Ramadasu, Tyagaraja]\n  A --> G[Folk-performative - Dwipada, Yakshagana, Harikatha, Burrakatha]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Centre Vemana as the reformer-poet (Ataveladi verse, anti-caste/anti-ritual message, the iconic refrain, C.P. Brown's role), then widen to the Sataka, Bhakti-song and folk-performative traditions.",
+              "Regional literature's theme = literature for the PEOPLE (plain language, moral reform, oral-performative reach) vs the courtly Prabandha."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Vemana = the people's poet — simple Ataveladi verse attacking caste, ritual and greed, refrain 'Vishwadabhirama Vinura Vema'; frame him within a democratic tradition (Sataka, Bhakti-song, dwipada/folk forms) that carried Telugu learning and reform to the masses."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Vemana** — **Praja Kavi (people's poet)**; wrote in **Ataveladi** metre; refrain **'Vishwadabhirama Vinura Vema'**.",
+      "**C.P. Brown** collected, translated and popularised Vemana's verses.",
+      "Vemana's message — anti-caste, anti-ritual, anti-hypocrisy; **Advaita/Yogic** moral philosophy.",
+      "**Sataka (100-verse) tradition** — **Vemana, Sumati (Baddena), Dasarathi, Bhaskara** Satakams.",
+      "**Bhadrachala Ramadasu** — Rama kirtanas; **Annamayya** — padakavita; **Tyagaraja** — Carnatic kritis.",
+      "**Dwipada** — couplet narrative form (Palkuriki Somanatha, Ranganatha Ramayanam).",
+      "Folk-performative forms — **Yakshaganam, Harikatha, Burrakatha, Kuchipudi**."
+    ],
+    "mainsAngles": [
+      "Assess Vemana as a social-reformer poet and the significance of his message for Telugu society.",
+      "Examine the Sataka tradition as the moral and didactic backbone of popular Telugu literature.",
+      "Discuss the role of Bhakti song-literature (Annamayya, Ramadasu, Tyagaraja) in Telugu culture.",
+      "Analyse the folk and performative forms of Telugu regional literature and their social reach.",
+      "Contrast the courtly Prabandha with the popular regional literature of the Telugu country."
+    ],
+    "glossary": [
+      {"term": "Praja Kavi", "definition": "The 'people's poet' — the honorific for Vemana, whose plain-language verse addressed the common people."},
+      {"term": "Ataveladi", "definition": "The Telugu verse metre used by Vemana for his short, epigrammatic moral poems."},
+      {"term": "Sataka", "definition": "A Telugu literary form of ~100 verses on a moral or devotional theme, each ending in a fixed refrain (makutam)."},
+      {"term": "C.P. Brown", "definition": "The 19th-century British scholar-official who collected, edited and translated Vemana's verses, saving and popularising them."},
+      {"term": "Dwipada", "definition": "A Telugu narrative form in rhyming couplets, used for popular epics like the Ranganatha Ramayanam."}
+    ]
+  }
+]
