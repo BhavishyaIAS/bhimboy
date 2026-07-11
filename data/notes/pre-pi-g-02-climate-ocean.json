@@ -1,0 +1,282 @@
+[
+  {
+    "code": "PRE-PI-G-111",
+    "sections": [
+      {
+        "heading": "Atmosphere — structure & composition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **atmosphere** is the gaseous envelope of the Earth, layered by temperature into the **troposphere, stratosphere, mesosphere, thermosphere and exosphere**. Its composition (mostly **nitrogen and oxygen**) and the **ozone layer** make life possible."
+          },
+          {
+            "type": "table",
+            "headers": ["Layer", "Feature"],
+            "rows": [
+              ["**Troposphere**", "0–~12 km; **all weather occurs here**; temp falls with height (**normal lapse rate ~6.5°C/km**)."],
+              ["**Stratosphere**", "~12–50 km; contains the **ozone layer** (absorbs UV); ideal for **jet flights**; temp rises."],
+              ["**Mesosphere**", "~50–80 km; **coldest layer**; **meteors burn** here."],
+              ["**Thermosphere (Ionosphere)**", "reflects **radio waves**; **auroras**; temp very high."],
+              ["**Composition**", "**Nitrogen ~78%, Oxygen ~21%**, Argon ~0.9%, CO₂ ~0.04%; water vapour & dust variable."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Troposphere = weather; Stratosphere = ozone; Mesosphere = meteors burn; Ionosphere = radio reflection.",
+              "N₂ 78% / O₂ 21%; normal lapse rate 6.5°C/km."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Layers (ascending) — **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.",
+      "**All weather** occurs in the **Troposphere**; **normal lapse rate ~6.5°C/km**.",
+      "**Ozone layer** lies in the **Stratosphere** (absorbs UV).",
+      "**Mesosphere** — coldest; **meteors burn up** here.",
+      "**Ionosphere (thermosphere)** reflects **radio waves**; **auroras** occur here.",
+      "Composition — **Nitrogen 78%, Oxygen 21%, Argon 0.9%, CO₂ 0.04%**.",
+      "**Tropopause, Stratopause** etc. separate the layers."
+    ],
+    "mainsAngles": [
+      "Describe the structure and composition of the atmosphere."
+    ],
+    "glossary": [
+      {"term": "Troposphere", "definition": "The lowest atmospheric layer where all weather phenomena occur."},
+      {"term": "Ozone layer", "definition": "The stratospheric band of ozone that absorbs harmful ultraviolet radiation."},
+      {"term": "Lapse rate", "definition": "The rate of temperature decrease with height, normally ~6.5°C per km in the troposphere."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-112",
+    "sections": [
+      {
+        "heading": "Elements & factors of climate; air masses & fronts",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Weather and climate** are described by **elements** (temperature, pressure, wind, humidity, precipitation) and controlled by **factors** (latitude, altitude, distance from sea, ocean currents, relief, winds). **Air masses** and their boundaries (**fronts**) drive mid-latitude weather."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Elements**", "**Temperature, pressure, wind, humidity, clouds, precipitation**."],
+              ["**Factors (controls)**", "**Latitude, altitude, continentality, ocean currents, prevailing winds, relief, slope/aspect**."],
+              ["**Pressure belts**", "**Equatorial low, Sub-tropical high, Sub-polar low, Polar high** (4 belts pattern)."],
+              ["**Planetary winds**", "**Trade winds, Westerlies, Polar easterlies**; deflected by Coriolis."],
+              ["**Air masses & fronts**", "**cP, cT, mP, mT**; fronts — **warm, cold, occluded, stationary** (weather boundaries)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Distinguish elements (measured) vs factors/controls (latitude, altitude, sea, currents).",
+              "Four pressure belts; three planetary winds (trades, westerlies, polar easterlies); fronts = air-mass boundaries."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Elements of weather** — temperature, pressure, wind, humidity, precipitation.",
+      "**Factors/controls** — **latitude, altitude, continentality, ocean currents, winds, relief**.",
+      "Four **pressure belts** — equatorial low, sub-tropical high, sub-polar low, polar high.",
+      "**Planetary winds** — Trade winds (E), Westerlies, Polar easterlies.",
+      "**Air masses** — continental Polar (cP), maritime Tropical (mT), etc.",
+      "**Fronts** — warm, cold, occluded, stationary (boundary between two air masses).",
+      "**Temperature inversion** — temp rises with height (calm, clear nights, valleys)."
+    ],
+    "mainsAngles": [
+      "Distinguish the elements and controlling factors of climate."
+    ],
+    "glossary": [
+      {"term": "Air mass", "definition": "A large body of air with uniform temperature and humidity acquired from its source region."},
+      {"term": "Front", "definition": "The boundary between two contrasting air masses, along which weather forms."},
+      {"term": "Pressure belt", "definition": "A global zone of high or low pressure (e.g. equatorial low) that steers planetary winds."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-113",
+    "sections": [
+      {
+        "heading": "Atmospheric disturbances & climate change",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Atmospheric disturbances** — cyclones (tropical & temperate), thunderstorms and jet streams — produce much of the world's severe weather, while **climate change** (global warming from greenhouse gases) is altering these patterns — a topic of high current relevance."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Tropical cyclones**", "Form over warm seas (>26.5°C); **eye, eyewall**; called **cyclones (India), hurricanes (Atlantic), typhoons (Pacific)**; hit AP/Odisha coast."],
+              ["**Temperate cyclones**", "Mid-latitude, front-based; bring **western disturbances** (NW India winter rain)."],
+              ["**Jet streams**", "Fast upper-air westerlies; **sub-tropical jet** influences the Indian monsoon."],
+              ["**El Nino / La Nina (ENSO)**", "**El Nino** (warm Pacific) → weak monsoon/drought; **La Nina** → good monsoon."],
+              ["**Climate change**", "**Greenhouse gases (CO₂, CH₄), global warming, sea-level rise**; Paris Agreement, IPCC."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Cyclone naming by region; El Nino weakens the Indian monsoon; jet stream steers monsoon onset.",
+              "Climate change = GHGs → warming, sea-level rise; IPCC & Paris Agreement."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Tropical cyclones** need warm seas (>26.5°C); have an **eye & eyewall**; **cyclone/hurricane/typhoon** by region.",
+      "AP's coast is highly **cyclone-prone** (Bay of Bengal, Oct-Dec).",
+      "**Western disturbances** (temperate cyclones from the Mediterranean) bring **winter rain to NW India**.",
+      "**Jet streams** — sub-tropical westerly jet influences **monsoon onset & withdrawal**.",
+      "**El Nino** (warm eastern Pacific) → **weak monsoon/drought**; **La Nina** → strong monsoon.",
+      "**Greenhouse gases** — CO₂, methane (CH₄), N₂O; cause **global warming**.",
+      "**IPCC** (assessment reports) & the **Paris Agreement (2015, 1.5-2°C)** address climate change."
+    ],
+    "mainsAngles": [
+      "Discuss atmospheric disturbances and the impact of climate change on the monsoon."
+    ],
+    "glossary": [
+      {"term": "Tropical cyclone", "definition": "An intense low-pressure storm forming over warm tropical seas, called a cyclone in the Indian Ocean."},
+      {"term": "El Nino", "definition": "An abnormal warming of the eastern Pacific that tends to weaken the Indian monsoon."},
+      {"term": "Jet stream", "definition": "A narrow band of fast upper-atmospheric wind that influences monsoon and mid-latitude weather."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-114",
+    "sections": [
+      {
+        "heading": "Oceans — physical, chemical & biological characteristics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **oceans** cover ~71% of Earth and are described by their **relief (physical), salinity/temperature (chemical) and marine life (biological)** characteristics, along with **currents, tides and waves** that regulate global climate."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**Relief**", "**Continental shelf → slope → deep-sea plain (abyssal) → trench (deepest — Mariana)**; mid-oceanic ridges."],
+              ["**Salinity**", "Avg **~35 ppt**; highest in enclosed seas (Dead Sea, Red Sea); lower near river mouths/poles."],
+              ["**Temperature**", "Decreases with depth; **thermocline** separates warm surface from cold deep."],
+              ["**Currents**", "Warm (Gulf Stream, Kuroshio) & cold (Labrador, Humboldt); regulate coastal climate & fisheries."],
+              ["**Tides**", "**Spring tides (new/full moon), Neap tides (quarter moon)**; caused by Moon & Sun gravity."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Ocean relief order: shelf→slope→abyssal plain→trench (Mariana deepest); salinity ~35 ppt.",
+              "Spring tides (new/full moon, highest) vs Neap tides (quarter moon)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Oceans cover **~71%** of Earth; **continental shelf** is the richest fishing/oil zone.",
+      "**Mariana Trench (Pacific)** — deepest point (Challenger Deep).",
+      "Average ocean **salinity ~35 ppt (parts per thousand)**; highest in the **Dead Sea**.",
+      "**Thermocline** — the zone of rapid temperature decrease with depth.",
+      "**Warm currents** — Gulf Stream (Atlantic), Kuroshio (Pacific); **cold** — Labrador, Humboldt/Peru.",
+      "**Spring tides** — new & full moon (highest); **Neap tides** — first/last quarter (lowest).",
+      "Meeting of warm & cold currents creates rich **fishing grounds** (e.g. Grand Banks)."
+    ],
+    "mainsAngles": [
+      "Describe the physical and chemical characteristics of ocean waters."
+    ],
+    "glossary": [
+      {"term": "Continental shelf", "definition": "The shallow, gently sloping seabed near coasts, rich in fisheries and hydrocarbons."},
+      {"term": "Salinity", "definition": "The dissolved salt content of seawater, averaging ~35 parts per thousand."},
+      {"term": "Spring tide", "definition": "The highest tide, occurring at new and full moon when Sun and Moon align."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-115",
+    "sections": [
+      {
+        "heading": "Hydrological disasters; marine & continental resources",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Water-related hazards — **floods, tsunamis, droughts and storm surges** — cause major disasters, while **marine and continental resources** (fisheries, minerals, energy, water) are vital to the economy — both especially relevant to coastal Andhra."
+          },
+          {
+            "type": "table",
+            "headers": ["Item", "Detail"],
+            "rows": [
+              ["**Tsunami**", "Seismic sea-wave (earthquake/undersea landslide); **2004 Indian Ocean tsunami** hit the AP/TN coast."],
+              ["**Floods & storm surge**", "Monsoon floods; **cyclonic storm surges** on the AP-Odisha coast."],
+              ["**Drought**", "Rainfall deficiency; chronic in **Rayalaseema** (AP)."],
+              ["**Marine resources**", "**Fisheries, offshore oil/gas (KG basin), placer minerals (monazite beach sands), salt, tidal energy**."],
+              ["**Continental resources**", "**Freshwater, soils, forests, minerals, groundwater** on land."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Tsunami (2004) & cyclonic storm surge = major AP coastal hazards; KG basin = offshore gas.",
+              "Beach-sand placer minerals (monazite) and fisheries are key marine resources."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Tsunamis** are triggered by undersea **earthquakes**; the **2004 Indian Ocean tsunami** struck the AP/Tamil-Nadu coast.",
+      "**Storm surges** from Bay-of-Bengal cyclones flood the AP-Odisha coast.",
+      "**Krishna-Godavari (KG) basin** — major offshore **oil & natural gas** reserves.",
+      "**Beach-sand placer minerals** — **monazite (thorium), ilmenite, garnet** along the AP coast.",
+      "**Rayalaseema** — chronically drought-prone (AP).",
+      "**Tidal & wave energy, salt, fisheries** — marine resources.",
+      "**NDMA** (National Disaster Management Authority) coordinates disaster response."
+    ],
+    "mainsAngles": [
+      "Assess hydrological disasters and marine resources with reference to coastal Andhra."
+    ],
+    "glossary": [
+      {"term": "Tsunami", "definition": "A series of ocean waves generated by undersea earthquakes or landslides."},
+      {"term": "Storm surge", "definition": "An abnormal rise of seawater during a cyclone that floods low-lying coasts."},
+      {"term": "Placer minerals", "definition": "Heavy minerals (e.g. monazite, ilmenite) concentrated in beach and river sands."}
+    ]
+  }
+]
