@@ -1,0 +1,338 @@
+[
+  {
+    "code": "PRE-PI-IAE-079",
+    "sections": [
+      {
+        "heading": "National income — concepts & components",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**National income** measures the total value of goods and services produced by an economy in a year. Its core aggregates — **GDP, GNP, NNP, National Income (NNP at factor cost)** — and the distinction between **market price and factor cost, nominal and real** — are fundamental macroeconomic concepts."
+          },
+          {
+            "type": "table",
+            "headers": ["Aggregate", "Meaning"],
+            "rows": [
+              ["**GDP**", "Value of final goods/services produced **within a country** in a year."],
+              ["**GNP**", "GDP **+ net factor income from abroad (NFIA)**."],
+              ["**NNP**", "GNP **– depreciation**."],
+              ["**National Income**", "**NNP at factor cost** (NNP at market price – indirect taxes + subsidies)."],
+              ["**Nominal vs real**", "**Nominal** = current prices; **Real** = constant prices (inflation-adjusted)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "GNP = GDP + NFIA; NNP = GNP – depreciation; NI = NNP at factor cost.",
+              "Real GDP adjusts for inflation; GDP deflator = nominal/real ×100."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**GDP** — output produced **within domestic territory**; **GNP = GDP + Net Factor Income from Abroad**.",
+      "**NNP = GNP – Depreciation**; **National Income = NNP at factor cost**.",
+      "**Market price = factor cost + indirect taxes – subsidies**.",
+      "**Nominal GDP** at current prices; **Real GDP** at constant (base-year) prices.",
+      "**GDP deflator = (Nominal GDP / Real GDP) × 100** — a measure of inflation.",
+      "**Per-capita income = National Income / Population**.",
+      "**Green GNP** accounts for environmental degradation."
+    ],
+    "mainsAngles": [
+      "Explain the concepts of GDP, GNP and National Income."
+    ],
+    "glossary": [
+      {"term": "GDP", "definition": "Gross Domestic Product — value of final goods/services produced within a country in a year."},
+      {"term": "NFIA", "definition": "Net Factor Income from Abroad — the difference added to GDP to get GNP."},
+      {"term": "Real GDP", "definition": "GDP measured at constant prices, adjusted for inflation."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-080",
+    "sections": [
+      {
+        "heading": "India's National Accounts",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **national accounts** are compiled by the **National Statistical Office (NSO/MoSPI)** using three approaches (**production, income, expenditure**). Estimates use a **base year** (currently 2011-12), and GDP is now reported at **market prices** with **Gross Value Added (GVA)** by sector."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Compiling agency**", "**NSO (National Statistical Office), MoSPI**; formerly CSO."],
+              ["**Three methods**", "**Production (value-added), Income, Expenditure** approaches."],
+              ["**Base year**", "Currently **2011-12** (periodically revised)."],
+              ["**GVA**", "**GDP = GVA + taxes on products – subsidies**; GVA measures sectoral output."],
+              ["**First estimate**", "First national-income estimate by **Dadabhai Naoroji**; scientific by **V.K.R.V. Rao**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "NSO/MoSPI compiles; three methods; base year 2011-12; GVA by sector.",
+              "First scientific national income estimate = V.K.R.V. Rao."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "National accounts compiled by the **National Statistical Office (NSO), MoSPI** (merger of CSO & NSSO).",
+      "Three methods — **production/value-added, income, expenditure**.",
+      "Current **base year = 2011-12**.",
+      "**GVA (Gross Value Added)** = GDP at basic prices; **GDP = GVA + product taxes – subsidies**.",
+      "First national-income estimate — **Dadabhai Naoroji** ('Poverty and Un-British Rule'); first scientific — **V.K.R.V. Rao**.",
+      "**National Sample Survey (NSS)** provides consumption/employment data.",
+      "The **Economic Survey** & **Union Budget** use these accounts."
+    ],
+    "mainsAngles": [
+      "Describe how India's national income is estimated."
+    ],
+    "glossary": [
+      {"term": "NSO", "definition": "The National Statistical Office (MoSPI) that compiles India's national accounts."},
+      {"term": "GVA", "definition": "Gross Value Added — sectoral output at basic prices, the building block of GDP."},
+      {"term": "Base year", "definition": "The reference year (currently 2011-12) for computing real (constant-price) national income."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-081",
+    "sections": [
+      {
+        "heading": "Demographic issues, poverty & inequalities",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India faces intertwined **demographic, poverty and inequality** challenges — a large young population (dividend or burden), persistent though declining **poverty**, and widening **income and regional inequality** — central concerns of inclusive development."
+          },
+          {
+            "type": "table",
+            "headers": ["Issue", "Detail"],
+            "rows": [
+              ["**Demographic dividend**", "Large working-age share (~2005-2055 window); needs jobs, skills, health."],
+              ["**Poverty measurement**", "**Tendulkar & Rangarajan committees**; **NITI Aayog MPI** (health, education, living standards)."],
+              ["**Poverty trend**", "Declining; MPI poverty fell sharply (NITI/UNDP)."],
+              ["**Inequality**", "Measured by the **Gini coefficient** & **Lorenz curve**; rising wealth concentration."],
+              ["**Regional inequality**", "North-south, rural-urban, inter-state disparities."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Poverty lines: Tendulkar & Rangarajan committees; MPI (multidimensional).",
+              "Inequality: Gini coefficient / Lorenz curve; demographic dividend window."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Demographic dividend** window ~**2005-2055**; needs jobs & skilling.",
+      "Poverty-line committees — **Tendulkar (2009), Rangarajan (2014)**; earlier **Lakdawala, Alagh**.",
+      "**Multidimensional Poverty Index (MPI)** — health, education, standard of living (NITI Aayog & UNDP/OPHI).",
+      "**Gini coefficient (0-1)** & the **Lorenz curve** measure income inequality.",
+      "Poverty in India has **declined** significantly (NITI MPI reports).",
+      "**Kuznets curve** — inequality rises then falls with development.",
+      "**Regional & rural-urban inequalities** remain significant."
+    ],
+    "mainsAngles": [
+      "Discuss poverty and inequality measurement in India."
+    ],
+    "glossary": [
+      {"term": "Demographic dividend", "definition": "Growth potential from a large working-age population relative to dependents."},
+      {"term": "Multidimensional Poverty Index", "definition": "A poverty measure combining health, education and living-standard deprivations."},
+      {"term": "Gini coefficient", "definition": "A 0-1 measure of income inequality, derived from the Lorenz curve."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-082",
+    "sections": [
+      {
+        "heading": "Occupational structure & unemployment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **occupational structure** is shifting slowly from agriculture to services, but its **labour market** is marked by **informality, low female participation and various forms of unemployment** — measured through the **Periodic Labour Force Survey (PLFS)**."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Occupational shift**", "Falling primary share; rising services; but agriculture still largest employer (~45%)."],
+              ["**Types of unemployment**", "**Disguised (agriculture), seasonal, structural, cyclical, frictional, educated**."],
+              ["**Data source**", "**Periodic Labour Force Survey (PLFS)** by NSO (since 2017)."],
+              ["**Key indicators**", "**LFPR (labour force participation), WPR (worker-population ratio), UR (unemployment rate)**."],
+              ["**Challenges**", "**Jobless growth, informality (~90%), low female LFPR**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Disguised unemployment = hidden surplus labour in agriculture; PLFS is the data source.",
+              "Key rates: LFPR, WPR, UR; challenges = informality + low female LFPR."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Disguised unemployment** — surplus workers whose marginal product is zero (common in agriculture).",
+      "**Types** — disguised, seasonal, structural, cyclical, frictional, educated/technological.",
+      "**Periodic Labour Force Survey (PLFS)** — official employment data (NSO, since 2017-18).",
+      "Indicators — **LFPR, Worker-Population Ratio (WPR), Unemployment Rate (UR)**.",
+      "~**90% of the workforce is in the informal/unorganised sector**.",
+      "**Female Labour Force Participation** is low but improving.",
+      "'**Jobless growth**' — GDP rising without proportionate job creation — is a key concern."
+    ],
+    "mainsAngles": [
+      "Analyse the nature of unemployment in India and its measurement."
+    ],
+    "glossary": [
+      {"term": "Disguised unemployment", "definition": "Situation where more workers are engaged than needed, with zero marginal productivity (esp. farming)."},
+      {"term": "PLFS", "definition": "The Periodic Labour Force Survey, India's main source of employment-unemployment data."},
+      {"term": "LFPR", "definition": "Labour Force Participation Rate — the share of working-age population in the labour force."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-083",
+    "sections": [
+      {
+        "heading": "Employment & poverty-eradication schemes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India runs a large architecture of **employment-generation and poverty-eradication schemes** — the flagship **MGNREGA (rural wage-employment guarantee)** alongside skilling, self-employment, livelihood and social-security programmes — to secure inclusive growth."
+          },
+          {
+            "type": "table",
+            "headers": ["Scheme", "Focus"],
+            "rows": [
+              ["**MGNREGA (2005)**", "**100 days' guaranteed wage employment** to rural households; demand-driven; social audit."],
+              ["**DAY-NRLM / NULM**", "Rural & urban livelihoods (self-help groups)."],
+              ["**Skilling**", "**Skill India, PMKVY, DDU-GKY**."],
+              ["**Self-employment/credit**", "**PM Mudra, Stand-Up India, PMEGP**."],
+              ["**Social security**", "**PM-SYM, Atal Pension, Jan Suraksha (PMJJBY/PMSBY)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "MGNREGA (2005) = 100 days' guaranteed rural wage employment; demand-driven, social audit.",
+              "Skilling (PMKVY), credit (Mudra), livelihoods (NRLM/NULM)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**MGNREGA (2005)** — legal guarantee of **100 days' wage employment** per rural household per year.",
+      "MGNREGA is **demand-driven** with **social audits** and unemployment allowance.",
+      "**DAY-NRLM (rural) & DAY-NULM (urban)** — livelihoods via **Self-Help Groups**.",
+      "**Skill India / PMKVY / DDU-GKY** — skilling; **PM Mudra Yojana** — micro-credit.",
+      "**PMEGP, Stand-Up India** — self-employment/entrepreneurship.",
+      "Social security — **PM-SYM (pension), Atal Pension Yojana, PMJJBY & PMSBY (insurance)**.",
+      "**Antyodaya** targeting focuses on the poorest."
+    ],
+    "mainsAngles": [
+      "Assess MGNREGA and other employment schemes in reducing rural poverty."
+    ],
+    "glossary": [
+      {"term": "MGNREGA", "definition": "The 2005 Act guaranteeing 100 days of wage employment per rural household per year."},
+      {"term": "Self-Help Group", "definition": "A small savings-and-credit group (esp. of women) central to livelihood missions."},
+      {"term": "PMKVY", "definition": "The Pradhan Mantri Kaushal Vikas Yojana — India's flagship skill-development scheme."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-084",
+    "sections": [
+      {
+        "heading": "Rural & urban development issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Balanced **rural and urban development** is central to India's growth. Rural development tackles **agriculture, infrastructure, livelihoods and services**, while urban development addresses **housing, sanitation, mobility and smart infrastructure** amid rapid urbanisation."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "Key programmes"],
+            "rows": [
+              ["**Rural infrastructure**", "**PMGSY (roads), PMAY-Gramin (housing), Jal Jeevan Mission (tap water), Saubhagya (power)**."],
+              ["**Rural livelihoods**", "**DAY-NRLM, MGNREGA, PM-KISAN**."],
+              ["**Urban housing/sanitation**", "**PMAY-Urban, Swachh Bharat-Urban, AMRUT (water/sewerage)**."],
+              ["**Urban transformation**", "**Smart Cities Mission, metro rail, urban transport**."],
+              ["**Issues**", "Rural — connectivity, credit, migration; Urban — slums, congestion, services, finance."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Rural: PMGSY, PMAY-G, Jal Jeevan; Urban: PMAY-U, AMRUT, Smart Cities, Swachh Bharat.",
+              "Issues: rural connectivity/migration; urban slums/services/finance."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**PMGSY** — all-weather rural roads; **PMAY (Gramin & Urban)** — housing for all.",
+      "**Jal Jeevan Mission** — functional tap water to every rural household.",
+      "**Swachh Bharat Mission** — sanitation (rural & urban); ODF status.",
+      "**AMRUT** — urban water supply, sewerage & green spaces; **Smart Cities Mission (2015)** — 100 cities.",
+      "**Saubhagya** — household electrification; **DDUGJY** — rural power.",
+      "Urban challenges — **slums, congestion, solid waste, municipal finance**.",
+      "Rural challenges — **connectivity, credit, out-migration, service delivery**."
+    ],
+    "mainsAngles": [
+      "Discuss the key issues in rural and urban development in India."
+    ],
+    "glossary": [
+      {"term": "PMGSY", "definition": "The Pradhan Mantri Gram Sadak Yojana providing all-weather rural road connectivity."},
+      {"term": "AMRUT", "definition": "The Atal Mission for Rejuvenation and Urban Transformation (water, sewerage, urban amenities)."},
+      {"term": "Smart Cities Mission", "definition": "A 2015 programme to develop 100 cities with smart infrastructure and services."}
+    ]
+  }
+]
