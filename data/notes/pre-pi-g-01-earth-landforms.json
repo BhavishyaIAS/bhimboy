@@ -1,0 +1,225 @@
+[
+  {
+    "code": "PRE-PI-G-107",
+    "sections": [
+      {
+        "heading": "Earth in the solar system & motions of the Earth",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Earth** is the **third planet** from the Sun and the only known abode of life. Its two motions — **rotation (on its axis)** and **revolution (around the Sun)** — produce **day-night and the seasons**, and its **tilt (23.5°)** governs the pattern of insolation."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Solar system**", "8 planets; **Terrestrial (Mercury-Venus-Earth-Mars)** & **Jovian (Jupiter-Saturn-Uranus-Neptune)**; Sun ~99.8% of mass."],
+              ["**Rotation**", "Earth spins **west→east** in ~**23 hrs 56 min**; causes **day & night**, the **Coriolis force**, and tides timing."],
+              ["**Revolution**", "Earth orbits the Sun in **365¼ days**; with the axial tilt causes **seasons**; leap year adjusts the ¼ day."],
+              ["**Axial tilt**", "**23.5°** to the orbital plane — the cause of seasons & varying day length."],
+              ["**Perihelion/Aphelion**", "Nearest Sun **~3 Jan (perihelion)**; farthest **~4 July (aphelion)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Rotation → day/night & Coriolis; revolution + 23.5° tilt → seasons.",
+              "Perihelion (~3 Jan) vs Aphelion (~4 July); terrestrial vs Jovian planets."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Earth — **3rd planet**; rotation **west→east**, ~**23 hr 56 min** (sidereal day).",
+      "**Axial tilt = 23.5°** — the cause of seasons.",
+      "**Revolution** ~**365¼ days**; the extra ¼ day gives a **leap year**.",
+      "**Perihelion ~3 January**, **Aphelion ~4 July**.",
+      "Terrestrial (inner, rocky) vs **Jovian (outer, gaseous)** planets.",
+      "Rotation causes the **Coriolis force** (deflection — right in N hemisphere, left in S).",
+      "**Equinoxes** (21 Mar, 23 Sep) — equal day & night; **Solstices** (21 Jun, 22 Dec)."
+    ],
+    "mainsAngles": [
+      "Explain how the Earth's motions and axial tilt cause day-night and seasons."
+    ],
+    "glossary": [
+      {"term": "Rotation", "definition": "The Earth's spin on its own axis (west to east), causing day and night."},
+      {"term": "Revolution", "definition": "The Earth's orbit around the Sun, which with the axial tilt causes the seasons."},
+      {"term": "Coriolis force", "definition": "The apparent deflection of moving objects/winds due to the Earth's rotation."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-108",
+    "sections": [
+      {
+        "heading": "Concept of time & seasons",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Time** is measured by the Earth's rotation via **longitudes**, giving **local and standard time and time zones**, while the **seasons** result from the Earth's revolution and axial tilt shifting the Sun's vertical rays between the tropics."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Longitude & time**", "**360° / 24 hrs → 15°/hour; 1° = 4 minutes**; places east are ahead."],
+              ["**GMT / Prime Meridian**", "**0° longitude (Greenwich)**; basis of world time."],
+              ["**IST**", "**82.5°E** (Mirzapur) → **+5:30 hrs GMT**."],
+              ["**IDL**", "**~180° International Date Line** — date changes; zig-zags to avoid landmasses."],
+              ["**Seasons**", "Sun overhead at **Tropic of Cancer (~21 Jun, N summer)**, **Equator (equinoxes)**, **Tropic of Capricorn (~22 Dec)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "1° longitude = 4 minutes; IST = 82.5°E = GMT +5:30.",
+              "IDL ≈ 180°; solstices/equinoxes drive the seasons."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**15° of longitude = 1 hour**; **1° = 4 minutes** of time.",
+      "**Prime Meridian (0°) = Greenwich (GMT)**.",
+      "**Indian Standard Time = 82.5°E** (near Mirzapur) = **GMT + 5:30**.",
+      "**International Date Line ≈ 180°**; crossing east→west adds a day.",
+      "**Summer Solstice (21 Jun)** — Sun over Tropic of Cancer; **Winter Solstice (22 Dec)** — over Tropic of Capricorn.",
+      "**Equinoxes (21 Mar, 23 Sep)** — Sun over the Equator; equal day & night worldwide.",
+      "Areas near the poles experience **midnight sun / polar night**."
+    ],
+    "mainsAngles": [
+      "Explain the concept of standard time and the causes of seasons."
+    ],
+    "glossary": [
+      {"term": "IST", "definition": "Indian Standard Time, based on the 82.5°E meridian, GMT +5:30."},
+      {"term": "International Date Line", "definition": "The roughly 180° meridian across which the calendar date changes."},
+      {"term": "Solstice", "definition": "The day the Sun is vertically overhead at a tropic (21 Jun / 22 Dec), giving longest/shortest days."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-109",
+    "sections": [
+      {
+        "heading": "Internal structure of the Earth",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Earth's interior is layered into **crust, mantle and core**, revealed mainly by **seismic (earthquake) waves**. Density and temperature rise with depth, and **discontinuities** separate the layers — knowledge central to plate tectonics, volcanism and the magnetic field."
+          },
+          {
+            "type": "table",
+            "headers": ["Layer", "Feature"],
+            "rows": [
+              ["**Crust**", "Thin outer shell; **SIAL (continental — Si-Al) over SIMA (oceanic — Si-Mg)**; oceanic crust denser/thinner."],
+              ["**Mantle**", "Up to ~2900 km; **asthenosphere** (partly molten, source of magma); convection drives plates."],
+              ["**Core**", "**Outer core (liquid Fe-Ni)** — generates the **magnetic field**; **inner core (solid)**; the **NIFE** layer."],
+              ["**Discontinuities**", "**Mohorovicic (crust-mantle), Gutenberg (mantle-core), Lehmann (outer-inner core)**."],
+              ["**Seismic waves**", "**P-waves** (primary, through solids & liquids), **S-waves** (secondary, solids only — hence liquid outer core)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "S-waves don't pass the outer core → it's liquid; P-shadow & S-shadow zones prove core structure.",
+              "Discontinuities: Moho (crust-mantle), Gutenberg (mantle-core)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Three layers — **Crust, Mantle, Core**; studied via **seismic waves**.",
+      "**SIAL** (continental crust, Si+Al) over **SIMA** (oceanic crust, Si+Mg); core = **NIFE (Ni+Fe)**.",
+      "**Asthenosphere** (upper mantle) — source of magma; convection drives **plate tectonics**.",
+      "**Outer core is liquid** → generates Earth's **magnetic field**; **inner core solid**.",
+      "**S-waves cannot pass through the liquid outer core** (S-wave shadow zone).",
+      "Discontinuities — **Moho (crust-mantle), Gutenberg (mantle-core), Lehmann (inner core)**.",
+      "**P-waves** = fastest, longitudinal, travel through all media; **S-waves** = transverse, solids only."
+    ],
+    "mainsAngles": [
+      "Describe the internal structure of the Earth as revealed by seismic waves."
+    ],
+    "glossary": [
+      {"term": "Asthenosphere", "definition": "The partly molten upper-mantle layer whose convection drives plate movement."},
+      {"term": "Mohorovicic discontinuity", "definition": "The boundary between the Earth's crust and mantle."},
+      {"term": "S-wave shadow zone", "definition": "The region where secondary waves fail to arrive, proving the outer core is liquid."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-110",
+    "sections": [
+      {
+        "heading": "Major landforms & their features",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Earth's surface displays **first-order (continents, ocean basins), second-order (mountains, plateaus, plains) and third-order (minor erosional/depositional)** landforms, shaped by **endogenic (tectonic/volcanic)** and **exogenic (weathering/erosion)** forces."
+          },
+          {
+            "type": "table",
+            "headers": ["Landform", "Feature / example"],
+            "rows": [
+              ["**Mountains**", "**Fold (Himalayas, Alps), Block/fault (Vosges, Sierra Nevada), Volcanic (Fuji), Residual (Aravalli)**."],
+              ["**Plateaus**", "**Intermontane (Tibet — highest), Volcanic (Deccan), Continental, Piedmont**."],
+              ["**Plains**", "**Alluvial (Indo-Gangetic), coastal, glacial, loess** — flat, fertile."],
+              ["**Agents of erosion**", "**River (V-valley, delta), glacier (U-valley, moraine), wind (barchan, loess), sea (cliffs, beaches), groundwater (karst)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Mountain types: fold (Himalaya), block, volcanic, residual; Tibet = highest plateau; Deccan = volcanic plateau.",
+              "Match erosion agent to feature: river-delta, glacier-U valley, wind-barchan, sea-cliff, groundwater-karst."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Fold mountains** — Himalayas, Alps, Andes, Rockies (young); **residual** — Aravalli (old).",
+      "**Block mountains** form between **faults (horst & graben — rift valleys)**.",
+      "**Tibet** — highest & largest **intermontane plateau**; **Deccan** — a **volcanic (lava) plateau**.",
+      "**River landforms** — V-valley, meander, ox-bow lake, **delta** (depositional).",
+      "**Glacial** — U-shaped valley, cirque, moraine, fjord; **Aeolian (wind)** — barchan dunes, loess.",
+      "**Karst (limestone)** — sinkholes, caves, stalactites/stalagmites.",
+      "**Endogenic** forces build (tectonic); **exogenic** forces (weathering/erosion) wear down."
+    ],
+    "mainsAngles": [
+      "Classify major landforms and the forces that shape them."
+    ],
+    "glossary": [
+      {"term": "Fold mountain", "definition": "A mountain formed by compression and folding of crustal rocks, e.g. the Himalayas."},
+      {"term": "Rift valley", "definition": "A graben — a sunken block of land between two faults (e.g. the East African Rift)."},
+      {"term": "Karst topography", "definition": "Landforms produced by the dissolution of limestone — caves, sinkholes and dripstones."}
+    ]
+  }
+]
