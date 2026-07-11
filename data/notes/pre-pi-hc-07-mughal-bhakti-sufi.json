@@ -1,0 +1,282 @@
+[
+  {
+    "code": "PRE-PI-HC-034",
+    "sections": [
+      {
+        "heading": "Mughal rulers & political history (Babur–Aurangzeb)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Mughal Empire (1526–1857)**, founded by **Babur** at Panipat, was medieval India's grandest state. The **Great Mughals — Babur, Humayun, Akbar, Jahangir, Shah Jahan, Aurangzeb** — built and expanded it to near-subcontinental extent before its 18th-century decline."
+          },
+          {
+            "type": "table",
+            "headers": ["Ruler", "Key events"],
+            "rows": [
+              ["**Babur (1526-30)**", "**1st Panipat (1526)** vs Ibrahim Lodi; **Khanwa (1527)** vs Rana Sanga; memoir **Baburnama** (Turki)."],
+              ["**Humayun (1530-56)**", "Lost to **Sher Shah Suri** (Chausa 1539, Kannauj 1540); regained throne 1555; **Sur interregnum** (Sher Shah's rupee, GT Road, dak)."],
+              ["**Akbar (1556-1605)**", "**2nd Panipat (1556)** vs Hemu; mansabdari; **Din-i-Ilahi**; Rajput policy; abolished jizya."],
+              ["**Jahangir (1605-27)**", "Nur Jahan; captured Kangra; execution of Guru Arjan; Captain Hawkins/Sir Thomas Roe."],
+              ["**Shah Jahan (1628-58)**", "**Taj Mahal**; golden age of architecture; Deccan wars."],
+              ["**Aurangzeb (1658-1707)**", "Greatest extent; re-imposed **jizya (1679)**; 27-yr Deccan/Maratha war; empire overstretched."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Battles: Panipat I (1526, Babur), Khanwa (1527), Panipat II (1556, Akbar vs Hemu).",
+              "Sher Shah Suri's interregnum (rupee, GT road, dak-chauki) is a frequent MCQ."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**First Battle of Panipat (1526)** — Babur defeated **Ibrahim Lodi** (used field artillery & tulughma).",
+      "**Battle of Khanwa (1527)** — Babur vs **Rana Sanga**; **Baburnama** written in **Turki**.",
+      "**Sher Shah Suri** — defeated Humayun; introduced the silver **rupiya**, rebuilt the **Grand Trunk Road**, **dak-chauki** postal system; tomb at Sasaram.",
+      "**Second Battle of Panipat (1556)** — Akbar (Bairam Khan) defeated **Hemu**.",
+      "**Jahangir** — married **Nur Jahan**; received **Captain Hawkins & Sir Thomas Roe** (English envoys).",
+      "**Shah Jahan** built the **Taj Mahal, Red Fort, Jama Masjid**; the architectural golden age.",
+      "**Aurangzeb** — greatest territorial extent; re-imposed **jizya (1679)**; died in the Deccan (1707)."
+    ],
+    "mainsAngles": [
+      "Trace the political consolidation and later decline of the Mughal Empire."
+    ],
+    "glossary": [
+      {"term": "Baburnama", "definition": "Babur's memoirs written in Turki, a primary source for the early Mughal period."},
+      {"term": "Sur interregnum", "definition": "The 1540-55 rule of Sher Shah Suri and successors, noted for administrative reforms adopted later by the Mughals."},
+      {"term": "Tulughma", "definition": "Babur's flanking cavalry tactic combined with field artillery at Panipat."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-035",
+    "sections": [
+      {
+        "heading": "Mughal administration, economy & society",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Mughals ran India's most **integrated pre-modern administration** — the **mansabdari service, Todar Mal's revenue settlement, and a provincial pyramid** — funding a **prosperous, monetised, trade-rich economy**; **Akbar's** liberal reforms are its high point."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**Mansabdari**", "**Akbar's** ranking by **zat (status) & sawar (cavalry)**; transferable, salaried nobility; paid via **jagir**."],
+              ["**Revenue (Zabti/Dahsala)**", "**Todar Mal's** system — measured land, classified soil, cash demand on a 10-year average (~1/3)."],
+              ["**Central offices**", "**Diwan (finance), Mir Bakhshi (military/mansab), Sadr (religion), Mir Saman (household)**."],
+              ["**Provincial**", "**Subah → Sarkar → Pargana → village**; Subedar, Diwan, Faujdar."],
+              ["**Akbar's reforms**", "Abolished jizya (1564) & pilgrim tax; **Sulh-i-kul, Ibadat Khana, Din-i-Ilahi, Mansabdari, Rajput alliances**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Mansabdari (zat & sawar) + Todar Mal's Zabti revenue = the two pillars to always cite.",
+              "Akbar's liberal policy (jizya abolished, Sulh-i-kul, Din-i-Ilahi) is the analytical core."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mansabdari** — Akbar's; ranks by **zat (personal) & sawar (cavalry)**; paid through **jagir**.",
+      "**Zabti/Dahsala revenue** — **Todar Mal**; cash demand on a **10-year average**.",
+      "Central ministries — **Diwan, Mir Bakhshi, Sadr-us-Sudur, Mir Saman**.",
+      "Provincial units — **Subah → Sarkar → Pargana → village**.",
+      "**Akbar** abolished **jizya (1564)**; **Sulh-i-kul** (universal tolerance); **Din-i-Ilahi (1582); Ibadat Khana** debates.",
+      "Economy — **monetised, silver-rich (dam & rupee), textile exports, karkhanas, flourishing towns**.",
+      "**Ain-i-Akbari / Akbarnama** by **Abul Fazl** documents the system."
+    ],
+    "mainsAngles": [
+      "Analyse the mansabdari and revenue systems as the framework of Mughal administration."
+    ],
+    "glossary": [
+      {"term": "Mansab", "definition": "A Mughal service rank fixing status (zat) and cavalry obligation (sawar)."},
+      {"term": "Zabti/Dahsala", "definition": "Todar Mal's revenue system setting a cash demand from measured land and a ten-year price average."},
+      {"term": "Sulh-i-kul", "definition": "Akbar's doctrine of 'universal peace'/tolerance towards all faiths."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-036",
+    "sections": [
+      {
+        "heading": "Mughal art, architecture & literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Mughals raised **Indo-Islamic art to its zenith** — the **Taj Mahal and Fatehpur Sikri, the Mughal miniature school, Persian and translated literature** — a **Ganga-Jamuni synthesis** that peaked under Shah Jahan."
+          },
+          {
+            "type": "table",
+            "headers": ["Field", "Detail"],
+            "rows": [
+              ["**Architecture — Akbar**", "**Fatehpur Sikri (Buland Darwaza, Panch Mahal), Agra Fort, Humayun's Tomb** (predecessor of the Taj)."],
+              ["**Architecture — Shah Jahan**", "**Taj Mahal, Red Fort, Jama Masjid, Moti Masjid**; **pietra dura, charbagh, bulbous dome**; the marble golden age."],
+              ["**Painting**", "**Mughal miniature** (Persian Safavid + Indian) — peak under **Jahangir**; artists Mansur, Bishandas."],
+              ["**Literature**", "**Persian** (court language); **Baburnama, Akbarnama/Ain (Abul Fazl), Jahangir's Tuzuk**; Sanskrit translations (Mahabharata → Razmnama)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Akbar = Fatehpur Sikri/Humayun's tomb (charbagh, red sandstone); Shah Jahan = Taj/marble/pietra dura.",
+              "Miniature painting peaked under Jahangir (Mansur — nature studies)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Humayun's Tomb** — first garden-tomb (charbagh), forerunner of the Taj.",
+      "**Fatehpur Sikri** — Akbar; **Buland Darwaza, Panch Mahal, Diwan-i-Khas**.",
+      "**Taj Mahal, Red Fort, Jama Masjid, Moti Masjid** — Shah Jahan; **pietra dura & white marble**.",
+      "**Mughal miniature painting** peaked under **Jahangir**; painter **Ustad Mansur** (flora-fauna).",
+      "**Persian** was the court language; Akbar's translation bureau rendered the **Mahabharata as Razmnama**.",
+      "Chronicles — **Akbarnama & Ain-i-Akbari (Abul Fazl), Tuzuk-i-Jahangiri (Jahangir)**.",
+      "Style = **Indo-Islamic synthesis** (arch-dome-minaret + Indian craft, charbagh gardens)."
+    ],
+    "mainsAngles": [
+      "Assess Mughal architecture and painting as the peak of Indo-Islamic synthesis."
+    ],
+    "glossary": [
+      {"term": "Pietra dura", "definition": "Inlay of semi-precious stones in marble, a hallmark of Shah Jahan's architecture."},
+      {"term": "Charbagh", "definition": "The four-quartered Persian garden layout used in Mughal tombs like Humayun's and the Taj."},
+      {"term": "Mughal miniature", "definition": "The Persian-Indian court painting school that peaked under Jahangir."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-037",
+    "sections": [
+      {
+        "heading": "The Bhakti Movement — saints & impact",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Bhakti Movement** was a **devotional reform current (7th–17th c.)** stressing **loving devotion to a personal god, equality, and vernacular worship** over ritual and caste. Beginning with the Tamil **Alvars and Nayanars**, it spread across India through **saguna and nirguna** saints, democratising religion and enriching vernacular literature."
+          },
+          {
+            "type": "table",
+            "headers": ["Saint", "Region / idea"],
+            "rows": [
+              ["**Alvars & Nayanars**", "Tamil; **Vishnu (Alvars) & Shiva (Nayanars)** devotion — the earliest Bhakti (7th-10th c.)."],
+              ["**Shankaracharya / Ramanuja / Madhva**", "**Advaita / Vishishtadvaita / Dvaita** philosophies underpinning Bhakti."],
+              ["**Ramananda, Kabir, Guru Nanak**", "**Nirguna** (formless); Kabir (Hindu-Muslim unity), Nanak (founded Sikhism)."],
+              ["**Chaitanya, Mirabai, Surdas, Tulsidas**", "**Saguna** (with form) — Krishna/Rama devotion; vernacular bhajans."],
+              ["**Regional saints**", "**Namdev, Tukaram, Ramdas (Maharashtra); Shankaradeva (Assam)**; in Andhra — **Annamayya, Ramadasu, Vemana, Potana**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Distinguish Saguna (Tulsidas, Surdas, Mira, Chaitanya) vs Nirguna (Kabir, Nanak, Ramananda).",
+              "Alvars/Nayanars = earliest (Tamil); impact = vernacular growth, social equality, Hindu-Muslim synthesis."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Earliest Bhakti — Tamil **Alvars (Vishnu)** & **Nayanars (Shiva)** (7th-10th c.).",
+      "**Nirguna** (formless god) — **Kabir, Guru Nanak, Ramananda, Dadu**.",
+      "**Saguna** (god with form) — **Tulsidas (Ramcharitmanas), Surdas, Mirabai, Chaitanya**.",
+      "**Ramanuja** — Vishishtadvaita; **Madhva** — Dvaita; **Shankara** — Advaita.",
+      "Maharashtra saints — **Jnaneshwar, Namdev, Tukaram, Ramdas** (Varkari tradition).",
+      "Andhra Bhakti — **Annamayya (Tirupati), Bhadrachala Ramadasu, Potana, Vemana**.",
+      "Impact — **social equality, anti-ritual/anti-caste, vernacular literature, Hindu-Muslim synthesis**."
+    ],
+    "mainsAngles": [
+      "Examine the social impact of the Bhakti movement in medieval India."
+    ],
+    "glossary": [
+      {"term": "Saguna Bhakti", "definition": "Devotion to a personal god with attributes and form (e.g. Rama, Krishna)."},
+      {"term": "Nirguna Bhakti", "definition": "Devotion to a formless, attribute-less god, as taught by Kabir and Nanak."},
+      {"term": "Alvars & Nayanars", "definition": "The earliest Tamil Bhakti saints devoted to Vishnu and Shiva respectively."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-038",
+    "sections": [
+      {
+        "heading": "Sufism — orders, ideas & influence",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Sufism** — Islamic **mysticism** seeking union with God through **love, devotion and self-purification** — spread across India via **silsilas (orders)**, above all the **Chishti and Suhrawardi**. Its **khanqahs, tolerance and vernacular devotion (qawwali)** paralleled the Bhakti movement and fostered **Hindu-Muslim synthesis**."
+          },
+          {
+            "type": "table",
+            "headers": ["Order/Saint", "Detail"],
+            "rows": [
+              ["**Chishti order**", "**Khwaja Moinuddin Chishti (Ajmer)** — founder in India; **Nizamuddin Auliya (Delhi), Baba Farid, Salim Chishti**; simple, tolerant, sama (music)."],
+              ["**Suhrawardi order**", "**Bahauddin Zakariya (Multan)** — accepted state patronage & wealth (unlike Chishtis)."],
+              ["**Key ideas**", "**Wahdat-ul-Wujud (unity of being — Ibn Arabi)**, love (ishq), pir-murid (master-disciple), khanqah."],
+              ["**Other orders**", "**Qadiri, Naqshbandi** (Shaikh Ahmad Sirhindi — orthodox reaction)."],
+              ["**Influence**", "**Qawwali (Amir Khusrau), Urdu, Hindu-Muslim harmony, vernacular poetry**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Chishti (Ajmer, tolerant, no state patronage) vs Suhrawardi (Multan, accepted wealth/state) is the key contrast.",
+              "Wahdat-ul-Wujud, khanqah, sama (qawwali) and Hindu-Muslim synthesis = the influence."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Chishti order** — introduced by **Khwaja Moinuddin Chishti (dargah at Ajmer)**; avoided state patronage.",
+      "**Nizamuddin Auliya** (Delhi) — greatest Chishti; disciple **Amir Khusrau**.",
+      "**Suhrawardi order** — **Bahauddin Zakariya (Multan)**; accepted royal patronage & wealth.",
+      "**Wahdat-ul-Wujud** ('unity of being') — Sufi doctrine (Ibn Arabi).",
+      "Sufi institutions — **khanqah (hospice), silsila (order), pir-murid, sama (devotional music)**.",
+      "**Naqshbandi** order — **Shaikh Ahmad Sirhindi** led an orthodox reaction against syncretism.",
+      "Influence — **qawwali, Urdu, vernacular devotional poetry, Hindu-Muslim synthesis**."
+    ],
+    "mainsAngles": [
+      "Compare the Bhakti and Sufi movements and their role in cultural synthesis."
+    ],
+    "glossary": [
+      {"term": "Silsila", "definition": "A Sufi order or spiritual lineage linking master (pir) and disciples (murid)."},
+      {"term": "Khanqah", "definition": "A Sufi hospice/lodge that served as a centre of devotion, teaching and charity."},
+      {"term": "Wahdat-ul-Wujud", "definition": "The Sufi doctrine of the 'unity of being' — that all existence is one with God."}
+    ]
+  }
+]
