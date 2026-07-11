@@ -1,0 +1,59 @@
+[
+  {
+    "code": "PRE-PI-HC-002",
+    "sections": [
+      {
+        "heading": "IVC major sites",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Indus/Harappan Civilisation** spread across a vast area of the north-west subcontinent, with major cities strung along the **Indus and (dried) Saraswati-Ghaggar-Hakra** systems. Each key site — **Harappa, Mohenjodaro, Dholavira, Lothal, Kalibangan, Rakhigarhi** — is associated with distinctive finds that are frequent exam facts."
+          },
+          {
+            "type": "table",
+            "headers": ["Site", "River / location & signature find"],
+            "rows": [
+              ["**Harappa**", "**Ravi** (Punjab, Pakistan); first excavated (1921, Daya Ram Sahni); granaries, cemetery R-37, workmen's quarters."],
+              ["**Mohenjodaro**", "**Indus** (Sindh, Pakistan); **Great Bath, Great Granary, Dancing Girl, Priest-King, Pashupati seal**."],
+              ["**Dholavira**", "**Rann of Kutch (Gujarat)**; unique **water-harvesting/reservoirs**, signboard, three-part city; **UNESCO site**."],
+              ["**Lothal**", "**Gujarat (Bhogava)**; **dockyard** (maritime trade), bead factory, rice husk, fire-altars."],
+              ["**Kalibangan**", "**Rajasthan (Ghaggar)**; **ploughed field**, fire-altars, evidence of earthquake."],
+              ["**Rakhigarhi**", "**Haryana** — the **largest IVC site** in India (Ghaggar plain)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Match site to signature find: Mohenjodaro-Great Bath/Dancing Girl, Lothal-dockyard, Kalibangan-ploughed field, Dholavira-water reservoirs, Rakhigarhi-largest in India.",
+              "Harappa was the first site excavated (1921); rivers: Harappa-Ravi, Mohenjodaro-Indus."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Harappa (Ravi, Pakistan)** — first excavated in **1921** (Daya Ram Sahni); granaries, cemetery R-37.",
+      "**Mohenjodaro (Indus, Sindh)** — **Great Bath, Great Granary, Dancing Girl, Priest-King, Pashupati seal**.",
+      "**Dholavira (Kutch, Gujarat)** — advanced **water-harvesting & reservoirs**; 'signboard'; a **UNESCO World Heritage Site**.",
+      "**Lothal (Gujarat)** — **dockyard** (evidence of maritime trade); bead-making; fire-altars.",
+      "**Kalibangan (Rajasthan, Ghaggar)** — **ploughed field**, fire-altars, earthquake evidence.",
+      "**Rakhigarhi (Haryana)** — the **largest Harappan site in India**.",
+      "Other sites — **Chanhudaro (beads, no citadel), Banawali, Surkotada (horse bones debated), Ropar**."
+    ],
+    "mainsAngles": [
+      "Discuss the major sites of the Indus Valley Civilisation and their significance."
+    ],
+    "glossary": [
+      {"term": "Mohenjodaro", "definition": "'Mound of the dead' — the largest Harappan city, site of the Great Bath and Dancing Girl."},
+      {"term": "Lothal", "definition": "A Harappan port town in Gujarat with a dockyard, evidencing maritime trade."},
+      {"term": "Rakhigarhi", "definition": "The largest Indus Valley site located in India (Haryana)."}
+    ]
+  }
+]
