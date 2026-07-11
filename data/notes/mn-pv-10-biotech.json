@@ -1,0 +1,337 @@
+[
+  {
+    "code": "MN-PV-BN-032",
+    "sections": [
+      {
+        "heading": "Biotechnology & nanotechnology — nature, scope, applications",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Biotechnology** = using living systems/organisms (or their parts) to make products and processes. The **colour code** (the examiner's framing): **Red** (medical — vaccines, diagnostics, therapeutics, gene therapy), **Green** (agricultural — GM crops, biofertilisers, tissue culture), **White** (industrial — enzymes, biofuels, bioplastics), **Blue** (aquatic/marine — a big AP relevance), and Grey (environmental/bioremediation), Gold (bioinformatics). **Nanotechnology** = engineering matter at 1-100 nanometres, where quantum-and-surface effects give new properties (strength, conductivity, reactivity, targeted delivery). The two converge in **nano-biotechnology** (nano drug-delivery, biosensors, lab-on-chip)."
+          },
+          {
+            "type": "table",
+            "headers": ["Field", "Applications (India)", "AP relevance"],
+            "rows": [
+              ["Red biotech", "Recombinant insulin/vaccines (**Covaxin, Rotavac, CERVAVAC**), molecular diagnostics (RT-PCR), CAR-T (NexCAR19), gene therapy trials", "Hyderabad-Vizag biotech-pharma belt (region); vaccine manufacturing"],
+              ["Green biotech", "**Bt cotton** (India's only commercial GM crop), tissue-culture banana/potato, biofertilisers-biopesticides", "AP's tissue-culture horticulture, aqua-feed, natural-farming synergy"],
+              ["White/industrial", "Enzymes, **ethanol (E20), CBG**, bioplastics, bio-manufacturing (the **BioE3 policy 2024** — biotech for economy-environment-employment)", "Agro-processing, distillery ethanol"],
+              ["**Blue biotech**", "Marine bioactives, aquaculture genetics, seaweed", "**AP as India's aqua leader** — the natural Blue-biotech home"],
+              ["Nanotech", "Nano-medicine (targeted delivery), nano-sensors, water purification (nano-filters), agriculture (nano-urea — IFFCO)", "Nano-urea in AP farming; water-treatment applications"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The Indian bioeconomy — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Scale**: India's **bioeconomy ~$150+ bn (2024), targeting ~$300 bn by 2030** — bio-pharma the largest slice, then bio-agri, bio-industrial, bio-IT; India is a **top-tier vaccine and biosimilar producer**.",
+              "**Enablers**: **DBT (Department of Biotechnology) + BIRAC** (startup-funding), the **BioE3 Policy (2024)**, biotech parks (Genome Valley the model), Biotechnology Industry Research Assistance, and the emerging **synthetic biology and bio-manufacturing** push.",
+              "**Nanotech's Indian frame**: the **Nano Mission (2007)**, applications in health (drug delivery, diagnostics), agriculture (nano-fertilisers/pesticides — with safety debates), energy (batteries, solar), water (purification), and materials — with the nano-toxicology-and-regulation gap the caution.",
+              "**AP hook**: the state's aqua-marine biotech potential (Blue), tissue-culture horticulture (Green), pharma-vaccine manufacturing (Red), nano-urea and water-treatment applications — a natural biotech-nano economy on the coast."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Biotechnology] --> B[Red - medical]\n  A --> C[Green - agricultural]\n  A --> D[White - industrial]\n  A --> E[Blue - marine]\n  F[Nanotechnology 1-100 nm] --> G[Nano-medicine, sensors, water, agri]\n  A --> H[Nano-biotech convergence]\n  F --> H\n  B --> I[Bioeconomy 150 bn to 300 bn by 2030]\n  C --> I\n  D --> I\n  E --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Colour-code biotech + nanotech definition + the field-application-AP table + the bioeconomy scale and enablers.",
+              "The colour framework and the $150→300 bn bioeconomy target are the structuring facts; BioE3 (2024) is the fresh policy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Open with the biotech colour code — it instantly organises a sprawling topic; then the bioeconomy numbers and BioE3 policy show currency; AP's Blue-biotech aqua potential is the state's natural claim."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Biotech colour code**: Red (medical), Green (agri), White (industrial), Blue (marine), Grey (environmental), Gold (bioinformatics).",
+      "**Bt cotton** — India's only commercially cultivated GM crop (Bt brinjal moratorium-2010; GM mustard's contested approval).",
+      "**Nanotechnology** — engineering at **1-100 nm**; **Nano Mission (2007)**; **nano-urea (IFFCO)** the mass-agri application.",
+      "India's **bioeconomy ~$150+ bn (2024), target ~$300 bn by 2030**; ~60% of global vaccine volume.",
+      "**BioE3 Policy (2024)** — Biotechnology for Economy, Environment & Employment; bio-manufacturing focus.",
+      "**DBT + BIRAC** — the biotech department and its industry-research-funding arm; **Genome Valley (Hyderabad)** the biotech-park model.",
+      "**Nano-biotechnology** — convergence: nano drug-delivery, biosensors, lab-on-chip."
+    ],
+    "mainsAngles": [
+      "The biotech colour code organises a sprawling field — survey India's red, green, white and blue applications.",
+      "Nanotechnology is the enabling science of the small — assess its Indian applications and the toxicology-regulation gap.",
+      "India's bioeconomy targets $300 bn — evaluate the enablers from DBT-BIRAC to BioE3.",
+      "Convergence is the frontier — analyse nano-biotechnology in medicine, diagnostics and agriculture.",
+      "AP's coast is a Blue-biotech opportunity — argue the state's marine and aqua biotechnology potential."
+    ],
+    "glossary": [
+      { "term": "Biotechnology (colour code)", "definition": "Classifying biotech by application domain — red (medical), green (agri), white (industrial), blue (marine), etc." },
+      { "term": "Nanotechnology", "definition": "Engineering matter at 1-100 nm, exploiting quantum and surface effects for new properties." },
+      { "term": "Bioeconomy", "definition": "The share of the economy based on biological resources and biotechnology — India's ~$150 bn, growing toward $300 bn." },
+      { "term": "Nano-biotechnology", "definition": "The convergence of nanoscale engineering with biology — targeted delivery, biosensors, lab-on-chip." },
+      { "term": "BioE3 Policy", "definition": "India's 2024 biotech policy for Economy, Environment and Employment, centred on bio-manufacturing." },
+      { "term": "Nano-urea", "definition": "Nanoparticle nitrogen fertiliser (IFFCO) delivering nutrient efficiently in tiny volumes — the mass-agri nano application." }
+    ]
+  },
+  {
+    "code": "MN-PV-BN-033",
+    "sections": [
+      {
+        "heading": "Ethical, social and legal concerns — the biotech governance triangle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Concern", "The issues", "Illustration"],
+            "rows": [
+              ["**Ethical (bioethics)**", "Playing god / human dignity (germline editing), informed consent, animal welfare, designer babies, dual-use (bioweapons), gene-drive ecology, equity of access (who gets $2-mn gene therapies?)", "**He Jiankui's CRISPR babies (2018)** — the global ethics rupture; the WHO germline-editing moratorium debate"],
+              ["**Social**", "GM-food acceptance, farmer dependence (seed-corporate power — the Bt-cotton/Monsanto royalty debate), biopiracy of traditional knowledge, labour displacement, the gene-data privacy question", "**Bt brinjal moratorium (2010)** on social-acceptance grounds; neem-turmeric biopiracy battles"],
+              ["**Legal/regulatory**", "Biosafety approval, IP (patenting life — the Diamond v. Chakrabarty lineage; India's Sec 3 exclusions), liability, ABS compliance, data protection", "India's **GEAC** approval regime; the stalled **Biotechnology Regulatory Authority (BRAI) Bill**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "India's governance framework — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The regulatory architecture**: **GEAC (Genetic Engineering Appraisal Committee)** under MoEF&CC — the apex biosafety approver for GMOs; **RCGM/IBSC** (research-level oversight under DBT); **Biological Diversity Act 2002** (ABS, biopiracy); **ICMR bioethics guidelines** (human research), **DBT's gene-editing guidelines (2022)**; the long-pending **BRAI Bill** (a single science-based regulator — stalled on autonomy-and-trust concerns).",
+              "**The precaution-vs-promotion tension**: biotech's promise (food-medicine security) vs its risks (irreversibility, ecology, equity) — the governance job is **science-based risk assessment + participatory legitimacy + case-by-case decisions**; India's GM-crop caution (only Bt cotton; brinjal moratorium; mustard's litigation) exemplifies precaution winning, for better and worse.",
+              "**The frontier ethics**: gene editing (somatic OK, germline red-lined), gene drives (ecosystem-scale, near-irreversible), synthetic biology, AI-designed proteins, neuro-biotech — where the pacing problem (technology outrunning governance) is acute; India needs anticipatory bioethics, not reactive bans.",
+              "**AP hook**: GM-cotton cultivation (and its farmer-distress debates in the cotton belt), tissue-culture-and-natural-farming coexistence, aqua-biotech biosafety, and biodiversity-ABS in the Eastern Ghats — the state's biotech-ethics touchpoints."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Biotech governance triangle] --> B[Ethical: dignity, consent, dual-use]\n  A --> C[Social: acceptance, farmer dependence, biopiracy]\n  A --> D[Legal: biosafety, IP, ABS, liability]\n  B --> E[India: GEAC, ICMR ethics, gene-editing guidelines]\n  C --> E\n  D --> E\n  E --> F[Precaution vs promotion balance]\n  F --> G[Science-based + participatory + case-by-case]\n  H[Frontier: gene drives, synthetic bio] --> I[Anticipatory bioethics needed]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The ethical-social-legal triangle table + India's GEAC-centred architecture + the precaution-promotion tension + frontier ethics.",
+              "He Jiankui (germline red line) and Bt-brinjal moratorium (social acceptance) are the two anchor cases; the stalled BRAI Bill is the regulatory-gap fact."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Frame biotech governance as balancing precaution and promotion through science-based, participatory, case-by-case decisions — then the He-Jiankui germline red line and the Bt-brinjal social-acceptance moratorium as the illustrating cases."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**GEAC (Genetic Engineering Appraisal Committee)** — apex GMO biosafety approver under MoEF&CC; **RCGM/IBSC** under DBT for research.",
+      "**Bt brinjal — moratorium 2010** (Jairam Ramesh) on social-acceptance/safety grounds; **GM mustard** approval under litigation.",
+      "**He Jiankui (China, 2018)** — CRISPR-edited babies; the germline-editing ethics rupture.",
+      "**BRAI (Biotechnology Regulatory Authority of India) Bill** — proposed single regulator; **stalled/lapsed**.",
+      "**DBT gene-editing guidelines (2022)** — permit somatic-cell editing under oversight; germline red-lined.",
+      "IP: **patenting-life** debate (Diamond v. Chakrabarty, US); India's Patents Act **Sec 3(b)/(c)/(j)** exclude many life-form/method patents.",
+      "**Biological Diversity Act 2002** governs ABS and biopiracy (neem-turmeric battles)."
+    ],
+    "mainsAngles": [
+      "Balance precaution and promotion — frame biotech governance as science-based, participatory and case-by-case.",
+      "The germline red line — analyse the ethics of gene editing after He Jiankui.",
+      "Farmer dependence and biopiracy are biotech's social costs — evaluate with Bt cotton and the neem battles.",
+      "India needs a trusted biotech regulator — assess the GEAC regime and the stalled BRAI Bill.",
+      "Governance lags gene drives and synthetic biology — argue for anticipatory bioethics."
+    ],
+    "glossary": [
+      { "term": "GEAC", "definition": "Genetic Engineering Appraisal Committee — India's apex GMO biosafety approval body under MoEF&CC." },
+      { "term": "Germline editing", "definition": "Heritable genetic modification of embryos/gametes — internationally red-lined after the He Jiankui episode." },
+      { "term": "Precautionary principle", "definition": "Acting to prevent serious/irreversible harm despite scientific uncertainty — biotech's governance default." },
+      { "term": "Biopiracy", "definition": "Commercial appropriation of biological resources or traditional knowledge without consent or benefit-sharing." },
+      { "term": "Gene drive", "definition": "An engineered inheritance mechanism spreading a trait through a wild population — powerful and near-irreversible." },
+      { "term": "BRAI", "definition": "The proposed Biotechnology Regulatory Authority of India — a single science-based regulator, stalled on trust concerns." }
+    ]
+  },
+  {
+    "code": "MN-PV-BN-034",
+    "sections": [
+      {
+        "heading": "Genetic engineering — mechanism and impact on human life",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Genetic engineering** = the directed modification of an organism's genome using recombinant-DNA and gene-editing tools. Core techniques: **recombinant DNA** (cut with restriction enzymes, paste with ligase into vectors/plasmids — the 1970s foundation), **PCR** (amplification), **gene cloning/expression** (making proteins — insulin the first triumph, 1982), and the revolution — **CRISPR-Cas9** (Doudna-Charpentier, Nobel 2020: cheap, precise, programmable editing — 'find-and-replace for DNA'), plus base/prime editing (even finer). Types by target: **somatic** (the patient only — permitted) vs **germline** (heritable — red-lined)."
+          },
+          {
+            "type": "table",
+            "headers": ["Impact on human life", "Application", "Status"],
+            "rows": [
+              ["**Medicine**", "Recombinant drugs (insulin, growth hormone, clotting factors), **gene therapy (approved for sickle-cell — Casgevy/CRISPR, 2023), CAR-T (NexCAR19, India 2024)**, vaccines (DNA/mRNA)", "From lab to clinic — the therapeutic revolution"],
+              ["**Diagnostics**", "Molecular diagnosis (RT-PCR, NGS), genetic screening, liquid biopsy, pharmacogenomics", "Precision medicine's foundation"],
+              ["**Agriculture**", "GM crops (Bt, herbicide-tolerant, golden rice-provitamin A), disease-resistant livestock", "Green-biotech's core (BN-035/HB-041 files)"],
+              ["**Research-industry**", "Model organisms, engineered microbes (insulin-producing E. coli), enzymes, biosensors", "The bio-manufacturing base"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Promise, peril, and the balanced verdict",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The promise**: curing genetic diseases (sickle-cell, thalassemia — India's huge burden), feeding-nourishing (biofortification), personalised medicine, and the bio-economy; genetic engineering is arguably the most consequential biotechnology for human life.",
+              "**The peril**: germline's heritable-and-irreversible risk (designer babies, eugenics shadow), off-target edits (safety), equity (gene therapies at $millions — access justice), ecological risks (gene drives, GMO escape), dual-use (engineered pathogens), and the genetic-privacy/discrimination question (insurance, employment).",
+              "**The governance line**: somatic-yes/germline-red-line, rigorous biosafety (GEAC/ICMR/DBT), access-equity design, and anticipatory ethics — the BN-033 framework applied; India's specific stakes are its genetic-disease burden (a therapy opportunity) and its GM-crop caution (a social-acceptance test).",
+              "**AP hook**: sickle-cell burden in tribal AP (the therapy-need angle), Bt-cotton cultivation (the GM-agri debate), and pharma-biotech manufacturing capacity (the region's recombinant-drug base)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Genetic engineering] --> B[Tools: rDNA, PCR, CRISPR-Cas9]\n  B --> C[Somatic - permitted]\n  B --> D[Germline - red-lined]\n  C --> E[Medicine: gene therapy, CAR-T, recombinant drugs]\n  C --> F[Agriculture: GM crops, biofortification]\n  E --> G[Promise: cure genetic disease, nourish]\n  D --> H[Peril: designer babies, irreversibility]\n  G --> I[Governance: somatic-yes, germline-no, equity, anticipation]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Techniques (rDNA → CRISPR) + somatic/germline distinction + the impact table + the promise-peril-governance triad.",
+              "CRISPR-Nobel-2020 and the sickle-cell gene-therapy approval (2023) are the frontier facts; the somatic/germline line is the ethical anchor."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The somatic-yes/germline-red-line distinction is genetic engineering's ethical spine — state it clearly; CRISPR as 'find-and-replace for DNA' and the sickle-cell cure are the accessible frontier illustrations."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Recombinant DNA** — restriction enzymes cut, ligase joins, vectors/plasmids carry; **recombinant human insulin (Humulin, 1982)** the first product.",
+      "**CRISPR-Cas9** — Doudna & Charpentier, **Nobel Chemistry 2020**; base/prime editing the finer successors.",
+      "**Somatic editing** (non-heritable, permitted) vs **germline editing** (heritable, red-lined).",
+      "**Casgevy (2023)** — first approved CRISPR gene therapy (sickle-cell/beta-thalassemia).",
+      "**NexCAR19 (2024)** — India's first indigenous CAR-T cell therapy.",
+      "**Golden Rice** — provitamin-A biofortified GM rice; **Bt crops** use Bacillus thuringiensis insecticidal genes.",
+      "**PCR (Kary Mullis, Nobel 1993)** — DNA amplification, molecular biology's workhorse."
+    ],
+    "mainsAngles": [
+      "From recombinant DNA to CRISPR — trace genetic engineering's tools and their impact on human life.",
+      "Somatic yes, germline no — defend the ethical line dividing therapy from heritable modification.",
+      "Gene therapy cures but at millions per dose — confront the access-equity question.",
+      "India's genetic-disease burden is a therapy opportunity — assess the sickle-cell and thalassemia frontier.",
+      "Promise and peril in one technology — construct the governance framework for genetic engineering."
+    ],
+    "glossary": [
+      { "term": "Recombinant DNA", "definition": "DNA combining sequences from different sources via cut-and-paste enzymes — genetic engineering's founding technique." },
+      { "term": "CRISPR-Cas9", "definition": "A programmable gene-editing system ('find-and-replace for DNA') — cheap, precise, revolutionary (Nobel 2020)." },
+      { "term": "Somatic vs germline", "definition": "Editing body cells (patient-only, permitted) versus reproductive cells/embryos (heritable, red-lined)." },
+      { "term": "Gene therapy", "definition": "Treating disease by correcting or replacing faulty genes — now approved for sickle-cell (Casgevy)." },
+      { "term": "Biofortification", "definition": "Enhancing crops' nutrient content genetically or by breeding (golden rice's provitamin A)." },
+      { "term": "Off-target effect", "definition": "Unintended edits elsewhere in the genome — gene editing's core safety concern." }
+    ]
+  },
+  {
+    "code": "MN-PV-BN-035",
+    "sections": [
+      {
+        "heading": "Biodiversity, fermentation and immuno-diagnosis — three applied pillars",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This theme bundles three applied areas. **Biodiversity (as biotech resource)**: genetic diversity is the raw material of biotechnology — bioprospecting for novel genes/molecules (drugs, enzymes, crop traits), conservation (in-situ PAs, ex-situ gene banks — **NBPGR seeds, NBAGR animals, NBFGR fish**), and the ABS framework (Biological Diversity Act) ensuring benefit-sharing. India, a **megadiverse country (~8% of global species)**, is a bioprospecting treasure — and biopiracy target (neem-turmeric-basmati battles)."
+          },
+          {
+            "type": "table",
+            "headers": ["Pillar", "Mechanism", "Applications"],
+            "rows": [
+              ["**Fermentation technology**", "Controlled microbial (or cell) growth in bioreactors converting substrates to products — batch/fed-batch/continuous; upstream (strain, media) + downstream (separation, purification)", "**Foods** (curd, idli, bread, alcohol, vinegar), **antibiotics** (penicillin the classic), **enzymes, organic acids, vitamins, biofuels (ethanol), recombinant proteins (insulin), single-cell protein, biofertilisers** — the workhorse of industrial biotech (White)"],
+              ["**Immuno-diagnosis**", "Antigen-antibody specificity detected/quantified — **ELISA, lateral-flow (rapid tests), Western blot, immunofluorescence, chemiluminescence**; monoclonal antibodies (hybridoma) as reagents", "Disease diagnosis (HIV, dengue, Covid rapid antigen), pregnancy tests, hormone/marker assays, blood typing, allergy testing — **the diagnostic backbone that CoWIN-era India scaled**"],
+              ["**Biodiversity biotech**", "Bioprospecting + gene banks + tissue culture (BN-036/HB-040) + ABS", "Novel drugs (from plants-microbes-marine), crop traits, industrial enzymes (extremophiles), conservation of elite germplasm"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Integration and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The value chain they form**: biodiversity supplies the genes/microbes → fermentation scales their products → immuno-diagnosis (and other tools) validates and applies them — a mini bio-manufacturing pipeline; India's vaccine-and-diagnostics prowess rests on exactly this stack.",
+              "**Fermentation's centrality**: it is biotechnology's oldest and most industrial arm — from the idli batter to the insulin bioreactor; **precision fermentation** (engineered microbes making specific molecules — alt-proteins, pharma) is the frontier (the White-biotech BioE3 push).",
+              "**Immuno-diagnosis's public-health value**: rapid, point-of-care, scalable — the reason India could mass-test in the pandemic; the frontier is multiplexed/molecular-immuno hybrids and AI-read assays.",
+              "**AP hook**: aqua-and-marine bioprospecting (Blue-biotech), the region's pharma-fermentation manufacturing base, tissue-culture horticulture, and Eastern-Ghats biodiversity for ABS — the three pillars localised."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Biodiversity - genes and microbes] --> B[Bioprospecting + gene banks + ABS]\n  B --> C[Fermentation - scale the products]\n  C --> D[Foods, antibiotics, enzymes, biofuels, insulin]\n  A --> E[Immuno-diagnosis - antigen-antibody tools]\n  E --> F[ELISA, rapid tests, monoclonals]\n  C --> G[Bio-manufacturing pipeline]\n  F --> G\n  G --> H[India's vaccine-diagnostics prowess]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Three-pillar table (mechanism + applications) + the biodiversity→fermentation→diagnosis value chain + precision-fermentation frontier.",
+              "Gene banks (NBPGR/NBAGR/NBFGR), megadiverse-India, penicillin/insulin fermentation, ELISA — the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Show the three pillars as one value chain — biodiversity supplies, fermentation scales, immuno-diagnosis validates — that integration is the mark-winning insight over three separate summaries."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India = a **megadiverse country** (~8% of recorded global species; 4 biodiversity hotspots); gene banks — **NBPGR (plants), NBAGR (animals), NBFGR (fish)**.",
+      "**Fermentation** modes: batch, fed-batch, continuous; **penicillin** (Fleming/Chain-Florey) the antibiotic classic; **recombinant insulin** produced by fermentation.",
+      "**ELISA** (enzyme-linked immunosorbent assay), lateral-flow rapid tests, Western blot — immuno-diagnostic techniques.",
+      "**Monoclonal antibodies** — hybridoma technology (Köhler-Milstein, Nobel 1984); therapeutic and diagnostic reagents.",
+      "**Precision fermentation** — engineered microbes producing specific molecules (alt-proteins, pharma) — the White-biotech frontier.",
+      "**Single-cell protein** — microbial biomass as protein source; **biofertilisers** (Rhizobium, Azotobacter) via fermentation.",
+      "**ABS (Biological Diversity Act 2002)** governs bioprospecting benefit-sharing."
+    ],
+    "mainsAngles": [
+      "Biodiversity supplies, fermentation scales, diagnosis validates — present the three pillars as one bio-manufacturing chain.",
+      "Fermentation is biotech's oldest and most industrial arm — trace it from idli to insulin to precision fermentation.",
+      "Immuno-diagnosis scaled India's pandemic response — evaluate ELISA-to-rapid-test technology and its frontier.",
+      "Megadiverse India is a bioprospecting treasure and a biopiracy target — argue the ABS balance.",
+      "Gene banks are biodiversity's insurance — assess India's ex-situ conservation for biotechnology."
+    ],
+    "glossary": [
+      { "term": "Fermentation technology", "definition": "Controlled cultivation of microbes/cells in bioreactors to make products — biotech's oldest, most industrial process." },
+      { "term": "ELISA", "definition": "Enzyme-Linked Immunosorbent Assay — an antigen-antibody test for detecting/quantifying disease markers." },
+      { "term": "Monoclonal antibody", "definition": "An identical antibody made by hybridoma cells — a key diagnostic and therapeutic reagent." },
+      { "term": "Bioprospecting", "definition": "Searching biodiversity for commercially valuable genes, molecules and organisms — under ABS rules." },
+      { "term": "Gene bank", "definition": "Ex-situ repository of genetic material (seeds, animal-fish germplasm) — biodiversity's biotech insurance (NBPGR)." },
+      { "term": "Precision fermentation", "definition": "Using engineered microbes to produce specific target molecules (proteins, pharma) — the White-biotech frontier." }
+    ]
+  }
+]
