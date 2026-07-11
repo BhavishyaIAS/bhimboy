@@ -1,0 +1,342 @@
+[
+  {
+    "code": "MN-PII-HCOI-013",
+    "sections": [
+      {
+        "heading": "The Pallavas — architects of the Dravidian temple",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Pallavas of Kanchipuram (~4th–9th c. CE)** dominated the eastern Deccan-Tamil region and pioneered **South Indian (Dravidian) stone temple architecture**. Their greatest rulers: **Mahendravarman I** (the versatile 'Vichitrachitta' — playwright, musician, initiator of rock-cut temples) and **Narasimhavarman I 'Mamalla'** (defeated the Chalukya Pulakeshin II; founded **Mamallapuram/Mahabalipuram**). They fought the long **Pallava-Chalukya conflict** for Deccan supremacy."
+          },
+          {
+            "type": "table",
+            "headers": ["Architectural stage", "Example", "Feature"],
+            "rows": [
+              ["**Mahendra style (rock-cut)**", "Cave temples (Mandagapattu — 'without brick, timber, metal or mortar')", "Pillared halls cut into rock"],
+              ["**Mamalla style**", "**Mahabalipuram — the Rathas (monolithic 'Pancha Rathas'), Arjuna's Penance (giant relief)**", "Free-standing monoliths carved from boulders (UNESCO)"],
+              ["**Rajasimha style (structural)**", "**Shore Temple (Mahabalipuram), Kailasanatha & Vaikunthaperumal (Kanchipuram)**", "The first structural stone temples — the Dravidian vimana emerges"],
+              ["**Nandivarman style**", "Later Kanchi temples", "Refinement of the structural temple"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Socio-cultural contribution — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Cultural achievement**: the Pallavas made **Kanchipuram a great centre of learning** (Sanskrit + Tamil; the Ghatika/university; Dandin's Dashakumaracharita; Bharavi), patronised the **Bhakti movement (the Alvars-Nayanars flourished in their era, HCOI-018)**, and their **Dravidian temple template (vimana-mandapa-gopuram)** became the model the Cholas perfected (HCOI-016).",
+              "**Society & administration**: Brahmadeya land-grants, sabha-village assemblies (the seed of Chola local self-government), a caste-ordered Brahmanical society with rising temple-centred economy and culture.",
+              "**The AP/Deccan relevance**: the Pallavas ruled parts of the **southern Andhra region** (their early history is linked to the Krishna-Guntur area — the early Pallava copper-plates are in Prakrit from the Andhra country); the **Pallava-Chalukya-Pandya triangle** shaped the whole southern Deccan including Andhra's borderlands.",
+              "**Craft**: the four-stage architecture table (the heart of any Pallava answer) + the Kanchi-learning-and-Bhakti culture + the Dravidian-template legacy + the Andhra connection."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Pallavas of Kanchi 4th-9th c] --> B[Mahendravarman I - rock-cut caves]\n  B --> C[Narasimhavarman Mamalla - Mahabalipuram rathas]\n  C --> D[Rajasimha - structural Shore Temple, Kailasanatha]\n  D --> E[Dravidian temple template - vimana]\n  A --> F[Kanchi - centre of learning]\n  A --> G[Bhakti - Alvars-Nayanars]\n  E --> H[Model perfected by the Cholas]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The four-stage architectural evolution + Kanchi as a learning-Bhakti centre + the Dravidian-template legacy + the Andhra connection.",
+              "Mahendravarman-rock-cut, Mamalla-Mahabalipuram-rathas, Rajasimha-Shore Temple are the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Pallavas' four-stage architectural evolution (rock-cut → monolith → structural) is the answer's spine — they invented the Dravidian temple the Cholas would perfect; Mahabalipuram is the showcase."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Pallavas** — capital **Kanchipuram**; **Mahendravarman I** (rock-cut temples; 'Vichitrachitta'; Mattavilasa Prahasana play).",
+      "**Narasimhavarman I 'Mamalla'** — defeated Chalukya Pulakeshin II; founded **Mamallapuram (Mahabalipuram)**.",
+      "Architectural stages: **Mahendra (cave), Mamalla (monolithic rathas), Rajasimha (structural — Shore Temple, Kailasanatha Kanchi), Nandivarman**.",
+      "**Mahabalipuram** — Pancha Rathas, Arjuna's Penance/Descent of Ganga, Shore Temple (UNESCO).",
+      "Kanchi — a great learning centre (Sanskrit-Tamil); Pallava-era **Bhakti (Alvars-Nayanars)**.",
+      "**Pallava-Chalukya conflict** — the long Deccan-supremacy struggle.",
+      "Early Pallava copper-plates (Prakrit) come from the **Krishna-Guntur (Andhra) region**."
+    ],
+    "mainsAngles": [
+      "The Pallavas invented the Dravidian temple — trace their four-stage architectural evolution.",
+      "Kanchi was a twin capital of stone and learning — assess the Pallava cultural achievement.",
+      "The Pallava-Chalukya conflict shaped the Deccan — analyse the southern power struggle.",
+      "Mahabalipuram is Pallava art in a boulder — evaluate its rathas and reliefs.",
+      "The Pallavas patronised Bhakti and the temple economy — connect religion, land-grants and society."
+    ],
+    "glossary": [
+      { "term": "Vimana", "definition": "The pyramidal tower over the sanctum in Dravidian temples — the Pallava innovation the Cholas monumentalised." },
+      { "term": "Ratha (monolith)", "definition": "A temple carved from a single boulder — Mahabalipuram's Pancha Rathas the Pallava showcase." },
+      { "term": "Rock-cut temple", "definition": "A shrine excavated into living rock — Mahendravarman's pioneering Pallava style." },
+      { "term": "Ghatika", "definition": "The Brahmanical college/assembly of learning at Kanchipuram under the Pallavas." },
+      { "term": "Brahmadeya", "definition": "A tax-free land grant to Brahmanas — a Pallava-Chola instrument of agrarian and cultural expansion." },
+      { "term": "Gopuram", "definition": "The monumental temple gateway-tower that grew from Pallava beginnings into the Dravidian skyline." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-014",
+    "sections": [
+      {
+        "heading": "The Chalukyas — Badami and the Eastern branch",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Chalukyas of Badami (Vatapi) (~6th–8th c. CE)** were the Deccan's dominant power, founded by **Pulakeshin I**, peaking under **Pulakeshin II (who checked Harsha of Kanauj on the Narmada and fought the Pallavas — the Aihole inscription by Ravikirti records his glory)**. Their lasting gift is **temple architecture** — the experimental cradle where **Nagara (northern), Dravida (southern) and the hybrid Vesara** styles were tried side by side at **Aihole ('cradle of Indian temple architecture'), Badami and Pattadakal (UNESCO)**."
+          },
+          {
+            "type": "table",
+            "headers": ["Branch", "Content"],
+            "rows": [
+              ["**Badami (Western) Chalukyas**", "Pulakeshin II; **Aihole (Durga, Lad Khan temples), Badami cave temples, Pattadakal (Virupaksha, Sangameshvara)**; Sanskrit-Kannada patronage"],
+              ["**Eastern Chalukyas of Vengi (the AP dynasty!)**", "Founded by **Kubja Vishnuvardhana** (Pulakeshin II's brother, ~624 CE); ruled coastal Andhra (Vengi — Krishna-Godavari) for ~500 years; **the cradle of Telugu literature**"],
+              ["**Language & literature**", "**Nannaya** ('Adikavi' — the first Telugu poet), under Eastern-Chalukya **Rajaraja Narendra**, began the **Telugu Mahabharatam (Andhra Mahabharatam)** — the birth of written Telugu literature"],
+              ["**Art**", "Chalukyan temples fused north-south styles; the Eastern Chalukyas built temples in the Andhra deltas (Draksharama, Bhimavaram-area, Bhimeswara)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Significance — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The architectural laboratory**: Aihole-Badami-Pattadakal were where Indian temple styles were **experimentally synthesised** — the birthplace of the Vesara (Deccan hybrid) style and the proving ground the later Rashtrakutas (Ellora) and Hoysalas built on; a pivotal art-history moment.",
+              "**The Telugu-literature birth (the crucial AP point)**: the **Eastern Chalukyas of Vengi** patronised **Nannaya**, who under Rajaraja Narendra (11th c.) began the **Andhra Mahabharatam** — the FOUNDING work of written Telugu literature; Nannaya-Tikkana-Errana are the '**Kavitraya**' (trinity of poets) who translated the Mahabharata, and it starts here — Andhra's literary genesis.",
+              "**Political significance**: the Badami Chalukyas checked Harsha (keeping the north-south balance) and fought the Pallavas (the Deccan's defining rivalry); the Eastern Chalukyas gave coastal Andhra ~500 years of continuity and a Telugu cultural identity.",
+              "**Craft**: the two-branch structure (Badami + Eastern-Vengi) + the architecture laboratory (Aihole-Pattadakal) + the Telugu-literature birth (Nannaya) — the Eastern Chalukyas are the AP core."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Chalukyas of Badami 6th-8th c] --> B[Pulakeshin II - checks Harsha, fights Pallavas]\n  A --> C[Architecture lab: Aihole, Badami, Pattadakal]\n  C --> D[Nagara + Dravida + Vesara styles]\n  A --> E[Eastern Chalukyas of Vengi - Kubja Vishnuvardhana]\n  E --> F[Ruled coastal Andhra ~500 years]\n  E --> G[Nannaya - first Telugu poet - Andhra Mahabharatam]\n  G --> H[Birth of written Telugu literature]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Badami + Eastern-Vengi branches + the Aihole-Pattadakal architecture lab + Nannaya's Telugu-literature birth.",
+              "Pulakeshin II-Aihole inscription, Pattadakal-UNESCO, Kubja Vishnuvardhana, Nannaya-Andhra Mahabharatam are the anchors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For AP, the Eastern Chalukyas of Vengi are the headline — they gave coastal Andhra 500 years and, through Nannaya's Andhra Mahabharatam, the very birth of written Telugu literature; Pattadakal is the architecture-lab showcase."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Chalukyas of Badami (Vatapi)** — **Pulakeshin II** (checked Harsha on the Narmada; **Aihole inscription** by Ravikirti; fought Pallava Narasimhavarman I who sacked Badami).",
+      "**Aihole** — 'cradle of Indian temple architecture'; **Pattadakal** (Virupaksha temple) — UNESCO; **Badami cave temples**.",
+      "Styles experimented: **Nagara, Dravida, Vesara (Deccan hybrid)**.",
+      "**Eastern Chalukyas of Vengi** — founded by **Kubja Vishnuvardhana (~624 CE)**; ruled coastal Andhra ~500 years.",
+      "**Nannaya** ('Adikavi', first Telugu poet) under **Rajaraja Narendra** began the **Andhra Mahabharatam** — birth of Telugu literature.",
+      "The **Kavitraya (poet-trinity)**: Nannaya, Tikkana, Errana/Yerrapragada — translators of the Mahabharata.",
+      "Eastern-Chalukya delta temples: Draksharama Bhimeswara etc."
+    ],
+    "mainsAngles": [
+      "Aihole to Pattadakal was India's temple-architecture laboratory — evaluate the Chalukyan synthesis.",
+      "The Eastern Chalukyas gave Andhra its literature — assess Nannaya and the birth of written Telugu.",
+      "Pulakeshin II held the north-south balance — analyse Badami Chalukya political achievement.",
+      "The Vesara style was born in the Deccan — trace the hybrid temple form's Chalukyan origins.",
+      "Vengi gave coastal Andhra 500 years of continuity — evaluate the Eastern Chalukya legacy for AP."
+    ],
+    "glossary": [
+      { "term": "Vesara", "definition": "The hybrid Deccan temple style blending Nagara and Dravida — experimentally developed by the Chalukyas." },
+      { "term": "Aihole inscription", "definition": "Ravikirti's eulogy of Pulakeshin II — a key Chalukyan epigraphic and literary source." },
+      { "term": "Eastern Chalukyas of Vengi", "definition": "The coastal-Andhra branch (from Kubja Vishnuvardhana) that ruled ~500 years and birthed Telugu literature." },
+      { "term": "Nannaya", "definition": "The 'Adikavi' (first poet) of Telugu, who began the Andhra Mahabharatam under Eastern-Chalukya patronage." },
+      { "term": "Kavitraya", "definition": "The 'trinity of poets' (Nannaya, Tikkana, Errana) who rendered the Mahabharata into Telugu." },
+      { "term": "Pattadakal", "definition": "The Chalukyan royal-coronation temple town (UNESCO) showcasing the north-south architectural synthesis." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-015",
+    "sections": [
+      {
+        "heading": "Rashtrakutas and the Kalyani Chalukyas — Deccan zenith",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Rashtrakutas (~753–982 CE)** — founded by **Dantidurga**, overthrowing the Badami Chalukyas — became the **most powerful pan-Indian empire of their time**, intervening in the north (Kanauj tripartite struggle with the Palas and Pratiharas) and dominating the Deccan. Their crowning glory: the **Kailasa Temple at Ellora (Krishna I)** — the world's **largest monolithic rock-cut structure**, carved top-down from a single hill (UNESCO). The **Kalyani (Western) Chalukyas (~973–1189 CE)** — the **Chalukya revival under Tailapa II**, capital Kalyani — succeeded them, patronising Kannada literature and the Vesara temples, and producing **Vijnaneshwara's Mitakshara** (the great legal treatise on inheritance)."
+          },
+          {
+            "type": "table",
+            "headers": ["Dynasty", "Contribution"],
+            "rows": [
+              ["**Rashtrakutas**", "**Kailasa Temple Ellora** (Krishna I); Elephanta caves patronage; **Arab-trade prosperity** (Al-Masudi praised Amoghavarsha as a great king); **Amoghavarsha I** — 'Ashoka of the South', wrote **Kavirajamarga (first Kannada literary work)**; Jain patronage"],
+              ["**Kalyani Chalukyas**", "Chalukya revival (Tailapa II); **Vesara temples** (Lakkundi, Dambal, Itagi — 'the Mahadeva temple'); Kannada poets (Ranna, Pampa-era); **Vijnaneshwara's Mitakshara** (Hindu inheritance law); the **Chola-Chalukya wars**"],
+              ["Language-literature", "Both were great **Kannada** patrons; the 'three gems' of Kannada (Pampa, Ponna, Ranna) flourished in this Deccan renaissance"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Significance — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The Deccan as the pivot**: for two centuries the Rashtrakutas made the **Deccan the balancing power of India** — no northern or southern empire could ignore them; they participated in the tripartite Kanauj struggle AND dominated the south, a rare pan-Indian Deccan supremacy.",
+              "**The Ellora achievement**: the **Kailasa temple** — carved downward from solid basalt, a full temple complex from one rock — is arguably ancient-medieval India's greatest engineering-artistic feat; Ellora's caves (Hindu-Buddhist-Jain together) embody Rashtrakuta religious catholicity.",
+              "**Cultural-legal legacy**: the Kannada literary renaissance (Kavirajamarga, the three gems) and the **Mitakshara** (which governed Hindu inheritance across much of India into modern times) are lasting contributions; the Deccan was a cultural powerhouse, not a periphery.",
+              "**AP link**: these were Kannada-Deccan (western) powers, but the **Rashtrakuta-Chalukya-Chola contests directly shaped the Andhra-Telangana borderlands** (Vengi was contested), and the **Kakatiyas (HCOI-020) rose as their successors** in the Telugu country — the AP thread runs through the Deccan power-succession."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Rashtrakutas 753-982 - Dantidurga] --> B[Pan-Indian Deccan power - Kanauj struggle]\n  A --> C[Kailasa Temple Ellora - largest monolith]\n  A --> D[Amoghavarsha - Kavirajamarga, Kannada]\n  A --> E[Kalyani Chalukyas 973-1189 - Tailapa revival]\n  E --> F[Vesara temples, Kannada three gems]\n  E --> G[Vijnaneshwara Mitakshara - inheritance law]\n  E --> H[Successors: Kakatiyas in Telugu country]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The two-dynasty table + the Deccan-as-pivot thesis + Ellora's Kailasa + the Kannada-literary and Mitakshara legacies + the AP power-succession thread.",
+              "Kailasa-Ellora, Amoghavarsha-Kavirajamarga, Mitakshara, Kakatiya-succession are the anchors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Rashtrakutas made the Deccan India's balancing power for two centuries — that pan-Indian-Deccan thesis plus the Ellora Kailasa (largest monolith) is the answer's core; the Kakatiya succession is AP's thread."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Rashtrakutas** — founder **Dantidurga**; **Krishna I built the Kailasa Temple, Ellora** (largest monolithic rock-cut structure, UNESCO).",
+      "**Amoghavarsha I** — 'Ashoka of the South'; wrote **Kavirajamarga (first Kannada literary work)**; praised by Arab traveller **Al-Masudi**.",
+      "Rashtrakutas joined the **tripartite Kanauj struggle** (with Palas and Pratiharas).",
+      "**Kalyani (Western) Chalukyas** — revival under **Tailapa II** (~973); capital **Kalyani**; Vesara temples (Itagi Mahadeva).",
+      "**Vijnaneshwara's Mitakshara** — the great Hindu inheritance-law treatise (Kalyani Chalukya court).",
+      "**Kannada three gems**: Pampa, Ponna, Ranna.",
+      "Successors in the Telugu country: the **Kakatiyas** (Warangal)."
+    ],
+    "mainsAngles": [
+      "The Rashtrakutas made the Deccan India's pivot — evaluate their pan-Indian power.",
+      "The Kailasa temple is India's greatest monolith — assess Rashtrakuta engineering and art.",
+      "The Deccan led a Kannada renaissance — analyse the literary flowering under both dynasties.",
+      "The Mitakshara governed Hindu inheritance for centuries — trace its Kalyani-Chalukya origins.",
+      "From Rashtrakutas to Kakatiyas — trace the Deccan power-succession into the Telugu country."
+    ],
+    "glossary": [
+      { "term": "Kailasa Temple", "definition": "The Ellora monolithic temple carved top-down from a single basalt hill — the Rashtrakuta engineering marvel." },
+      { "term": "Kavirajamarga", "definition": "Amoghavarsha's work — the first extant literary composition in Kannada." },
+      { "term": "Kalyani Chalukyas", "definition": "The Western Chalukya revival (973-1189) from Kalyani — Vesara temples and Kannada literature." },
+      { "term": "Mitakshara", "definition": "Vijnaneshwara's legal commentary on inheritance — a foundational text of Hindu law." },
+      { "term": "Tripartite struggle", "definition": "The three-way contest (Rashtrakutas-Palas-Pratiharas) for Kanauj — the Rashtrakutas' northern intervention." },
+      { "term": "Vesara", "definition": "The hybrid Deccan temple style matured by the Chalukyas of Kalyani." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-016",
+    "sections": [
+      {
+        "heading": "The Cholas — the Dravidian imperial zenith",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Imperial Cholas (~850–1279 CE)** of the Kaveri delta built **South India's greatest empire** — a naval-and-agrarian power that projected across the seas. **Rajaraja I** (conquered the Deccan-Sri Lanka-Maldives; built the **Brihadeeswara/Rajarajeswaram Temple, Thanjavur**) and **Rajendra I** (the **Gangaikonda Chola** — marched to the Ganga; the **naval expedition to Srivijaya/Southeast Asia** — a rare Indian maritime conquest) were the giants. The Cholas perfected the **Dravidian temple** and pioneered **local self-government**."
+          },
+          {
+            "type": "table",
+            "headers": ["Chola achievement", "Content"],
+            "rows": [
+              ["**Local self-government (the famous point)**", "The **Uttaramerur inscriptions** detail the **ur (general assembly) and sabha (Brahmadeya village assembly)** with elected committees (variyams), qualifications, ballot (kudavolai) — one of history's most sophisticated village democracies"],
+              ["**Temple architecture**", "**Brihadeeswara Thanjavur (Rajaraja I) — the great vimana; Gangaikondacholapuram; Airavatesvara Darasuram** — the Chola 'living temples' trio (UNESCO); the temple as economic-social-cultural nucleus"],
+              ["**Bronze sculpture**", "The **Chola bronzes (Nataraja — the cosmic dancer)** — the summit of Indian metal sculpture (lost-wax)"],
+              ["**Maritime power & trade**", "**Naval empire** — Sri Lanka, Maldives, the **Srivijaya expedition (Southeast Asia)**; guild-trade (Ayyavole, Manigramam) with China-SE Asia"],
+              ["**Culture**", "Tamil literature (Kamban's Ramayana), Shaivism, Bhakti temple-culture"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Significance — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The village-democracy legacy**: the **Uttaramerur inscriptions** are cited as ancient India's most detailed record of **elected local self-government** — committees, eligibility rules, and a lottery-ballot; a genuine (if elite) participatory tradition that resonates with modern Panchayati Raj — the most examinable Chola point.",
+              "**The maritime dimension**: the Cholas were **India's greatest naval power** — the Srivijaya expedition and the control of Indian Ocean trade routes made them a maritime empire, spreading Tamil-Hindu culture to Southeast Asia (the Cholas' rare projection of Indian sea-power).",
+              "**Art at its summit**: Chola bronze **Nataraja** and the Brihadeeswara vimana represent the peak of Dravidian temple-and-bronze art; the temple was the hub of land, credit, employment and culture — a total institution.",
+              "**AP link**: the Cholas conquered the **Vengi (coastal Andhra)** region and fought the Kalyani Chalukyas and the rising **Kakatiyas** for control of the Andhra country — the Chola-Chalukya-Kakatiya contest over Vengi is the AP thread; Chola influence reached the southern Andhra temples."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Imperial Cholas 850-1279] --> B[Rajaraja I - Brihadeeswara, Deccan-Lanka]\n  A --> C[Rajendra I - Gangaikonda, Srivijaya navy]\n  A --> D[Local self-government - Uttaramerur ur-sabha]\n  A --> E[Chola bronzes - Nataraja]\n  A --> F[Maritime trade empire - SE Asia]\n  D --> G[Elected village committees, ballot]\n  A --> H[Contested Vengi with Chalukyas-Kakatiyas]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The Chola achievement table + the Uttaramerur village-democracy (the star point) + the maritime empire + the bronze-and-temple art summit + the Vengi contest.",
+              "Rajaraja-Brihadeeswara, Rajendra-Srivijaya, Uttaramerur, Nataraja bronzes are the anchors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Uttaramerur inscriptions on elected village self-government are the most-examined Chola fact — cite the committees-and-ballot; add the Srivijaya naval expedition (India's rare sea-power projection) and the Brihadeeswara-Nataraja art summit."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Imperial Cholas** — **Rajaraja I** (Brihadeeswara/Rajarajeswaram Temple, Thanjavur; conquered Sri Lanka-Maldives).",
+      "**Rajendra I** — 'Gangaikonda Chola' (marched to the Ganga); **naval expedition to Srivijaya (Southeast Asia)**.",
+      "**Uttaramerur inscriptions** — detailed **ur/sabha village assemblies**, elected committees (variyam), **kudavolai (ballot)**.",
+      "**Chola 'living temples' (UNESCO)**: Brihadeeswara Thanjavur, Gangaikondacholapuram, Airavatesvara Darasuram.",
+      "**Chola bronzes** — Nataraja (cosmic dancer), lost-wax; the summit of Indian metal sculpture.",
+      "Merchant guilds: **Ayyavole, Manigramam** — Indian Ocean trade with China-SE Asia.",
+      "Cholas conquered **Vengi (coastal Andhra)**; contested it with Chalukyas and Kakatiyas."
+    ],
+    "mainsAngles": [
+      "The Uttaramerur inscriptions record ancient India's finest village democracy — evaluate Chola local self-government.",
+      "The Cholas were India's greatest naval power — assess the maritime empire and the Srivijaya expedition.",
+      "Brihadeeswara and Nataraja mark Dravidian art's summit — analyse Chola temple and bronze achievement.",
+      "The temple was a total institution under the Cholas — connect land, credit, culture and society.",
+      "Vengi was the prize of the southern powers — trace the Chola-Chalukya-Kakatiya contest over Andhra."
+    ],
+    "glossary": [
+      { "term": "Uttaramerur inscriptions", "definition": "Chola epigraphs detailing elected village-assembly committees and ballot procedure — the village-democracy record." },
+      { "term": "Sabha / Ur", "definition": "The Brahmadeya (sabha) and general (ur) village assemblies of the Chola local self-government system." },
+      { "term": "Kudavolai", "definition": "The pot-ticket ballot method of electing Chola village-committee members." },
+      { "term": "Brihadeeswara Temple", "definition": "Rajaraja I's great Thanjavur temple — the towering apex of Dravidian architecture (UNESCO)." },
+      { "term": "Chola bronze", "definition": "Lost-wax metal sculpture (Nataraja) representing the summit of Indian bronze art." },
+      { "term": "Srivijaya expedition", "definition": "Rajendra I's naval campaign into Southeast Asia — India's rare projection of maritime power." }
+    ]
+  }
+]
