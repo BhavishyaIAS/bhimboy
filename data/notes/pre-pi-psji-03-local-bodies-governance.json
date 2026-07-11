@@ -1,0 +1,339 @@
+[
+  {
+    "code": "PRE-PI-PSJI-061",
+    "sections": [
+      {
+        "heading": "Devolution of power & finances to local levels",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **73rd and 74th Amendments (1992)** gave constitutional status to **rural (Panchayati Raj) and urban local bodies**, mandating **devolution of functions, funds and functionaries (3 Fs)** to enable grassroots self-government — though fiscal devolution remains weak."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**73rd Amendment (1992)**", "**Panchayati Raj**; added **Part IX & 11th Schedule (29 subjects)**; 3-tier system."],
+              ["**74th Amendment (1992)**", "**Municipalities (urban)**; **Part IXA & 12th Schedule (18 subjects)**."],
+              ["**Devolution (3 Fs)**", "**Functions, Funds, Functionaries** — states must devolve; uneven in practice."],
+              ["**Reservations**", "**SC/ST (proportional) & women (⅓, many states now ½)**; State Election Commission & State Finance Commission (Art. 243-I)."],
+              ["**Mandatory**", "Elections every **5 years**; **Gram Sabha**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "73rd = rural (11th Schedule, 29 subjects); 74th = urban (12th Schedule, 18 subjects).",
+              "3 Fs; women's reservation ⅓ (½ in many states incl. AP); State Finance Commission."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**73rd Amendment (1992)** — Panchayati Raj; **Part IX & 11th Schedule (29 subjects)**.",
+      "**74th Amendment (1992)** — Municipalities; **Part IXA & 12th Schedule (18 subjects)**.",
+      "Three tiers of PRI — **Gram Panchayat, Panchayat Samiti (block), Zilla Parishad (district)**.",
+      "**Gram Sabha** — the foundational body of direct village democracy.",
+      "Reservation — **SC/ST proportional; women one-third** (½ in many states including AP).",
+      "**State Election Commission** conducts local elections; **State Finance Commission** (every 5 yrs) recommends devolution.",
+      "Devolution of **3 Fs — Functions, Funds, Functionaries** remains uneven."
+    ],
+    "mainsAngles": [
+      "Assess the devolution of powers and finances to local bodies since the 73rd/74th Amendments."
+    ],
+    "glossary": [
+      {"term": "73rd Amendment", "definition": "The 1992 amendment giving constitutional status to Panchayati Raj institutions."},
+      {"term": "Gram Sabha", "definition": "The assembly of all voters in a village, the base of Panchayati Raj democracy."},
+      {"term": "State Finance Commission", "definition": "A body constituted every five years to recommend devolution of finances to local bodies."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-062",
+    "sections": [
+      {
+        "heading": "Constitutional bodies — powers, functions & responsibilities",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Constitutional bodies** are those **established directly by the Constitution**, giving them independence and permanence — the **Election Commission, UPSC, CAG, Finance Commission, Attorney-General** and others — the guardians of the democratic and financial system."
+          },
+          {
+            "type": "table",
+            "headers": ["Body", "Article & role"],
+            "rows": [
+              ["**Election Commission**", "**Art. 324**; conducts elections; CEC + ECs; independent."],
+              ["**UPSC**", "**Art. 315**; recruits to All-India & central services."],
+              ["**CAG**", "**Art. 148**; audits govt accounts; 'guardian of the public purse'."],
+              ["**Finance Commission**", "**Art. 280**; every 5 yrs; recommends Centre-State tax devolution."],
+              ["**Attorney-General**", "**Art. 76**; chief legal adviser to the Union."],
+              ["**Others**", "**Special Officer for Linguistic Minorities (350B), National Commissions for SC (338)/ST (338A)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Constitutional (in Constitution) vs statutory (by law): EC-324, UPSC-315, CAG-148, FC-280.",
+              "CAG = guardian of public purse; NCSC (338), NCST (338A) are constitutional."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Election Commission — Article 324**; **UPSC — Article 315**; **CAG — Article 148**.",
+      "**Finance Commission — Article 280**; constituted every **5 years** by the President.",
+      "**Attorney-General of India — Article 76**; **Advocate-General of a State — Article 165**.",
+      "**CAG** — 'guardian of the public purse'; audits and reports to legislatures (via PAC).",
+      "**National Commissions for SCs (338) & STs (338A)** are constitutional bodies.",
+      "**Special Officer for Linguistic Minorities — Article 350B**.",
+      "Constitutional bodies derive authority **directly from the Constitution** (vs statutory bodies from law)."
+    ],
+    "mainsAngles": [
+      "Distinguish constitutional from statutory bodies with examples."
+    ],
+    "glossary": [
+      {"term": "Constitutional body", "definition": "A body established directly by the Constitution (e.g. EC, UPSC, CAG, Finance Commission)."},
+      {"term": "CAG", "definition": "The Comptroller and Auditor-General (Art. 148), auditor of government accounts."},
+      {"term": "Finance Commission", "definition": "A constitutional body (Art. 280) recommending Centre-State revenue sharing every five years."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-063",
+    "sections": [
+      {
+        "heading": "Panchayati Raj & local governance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Panchayati Raj Institutions (PRIs)** are the **three-tier system of rural self-government** constitutionalised by the 73rd Amendment, tracing back to the **Balwant Rai Mehta Committee (1957)**, and are the primary vehicle of **grassroots democracy and rural development**."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Balwant Rai Mehta (1957)**", "Recommended the **3-tier PRI**; first launched in **Rajasthan (1959, Nagaur)** then Andhra Pradesh."],
+              ["**Ashok Mehta (1978)**", "Recommended a **2-tier** system; PRIs as political institutions."],
+              ["**Three tiers**", "**Gram Panchayat → Panchayat Samiti (Mandal in AP) → Zilla Parishad**."],
+              ["**PESA (1996)**", "Extends Panchayati Raj to **Scheduled (tribal) areas** — Gram Sabha empowerment."],
+              ["**AP feature**", "AP uses the **Mandal Praja Parishad** (mandal) as the middle tier."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Balwant Rai Mehta (1957) = 3-tier; Rajasthan first (1959), AP second; Ashok Mehta = 2-tier.",
+              "PESA (1996) extends PRI to Scheduled areas; AP uses Mandal tier."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Balwant Rai Mehta Committee (1957)** recommended the **three-tier Panchayati Raj**.",
+      "PRI first inaugurated in **Rajasthan (Nagaur, 2 Oct 1959)**, then **Andhra Pradesh**.",
+      "**Ashok Mehta Committee (1978)** recommended a **two-tier** system.",
+      "Three tiers — **Gram Panchayat, Panchayat Samiti/Mandal, Zilla Parishad**.",
+      "**PESA Act (1996)** extends Panchayati Raj to **Fifth Schedule (tribal) areas**.",
+      "**Andhra Pradesh** uses the **Mandal Praja Parishad** as the intermediate tier.",
+      "PRIs deliver the **11th Schedule (29 subjects)** functions."
+    ],
+    "mainsAngles": [
+      "Trace the evolution of Panchayati Raj and its role in rural governance."
+    ],
+    "glossary": [
+      {"term": "Panchayati Raj", "definition": "The three-tier system of rural local self-government constitutionalised in 1992."},
+      {"term": "Balwant Rai Mehta Committee", "definition": "The 1957 committee that recommended the three-tier Panchayati Raj system."},
+      {"term": "PESA", "definition": "The 1996 Act extending Panchayati Raj to Scheduled (tribal) areas with empowered Gram Sabhas."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-064",
+    "sections": [
+      {
+        "heading": "Public policy & governance basics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Governance** is the exercise of authority to manage a country's affairs; **good governance** adds **participation, transparency, accountability, rule of law and responsiveness**. **Public policy** is the government's course of action on public problems — increasingly delivered through **e-governance and citizen-centric reforms**."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Good governance (8 attributes)**", "**Participatory, consensus-oriented, accountable, transparent, responsive, effective/efficient, equitable/inclusive, rule of law** (UN)."],
+              ["**Policy cycle**", "**Agenda-setting → formulation → adoption → implementation → evaluation**."],
+              ["**Transparency tools**", "**RTI Act (2005), Citizen's Charters, Social Audit, e-governance**."],
+              ["**e-governance types**", "**G2C, G2B, G2G, G2E**; **DBT, Digital India, UMANG, CSCs**."],
+              ["**Reforms**", "**2nd ARC recommendations**; grievance redressal (CPGRAMS)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Good governance = 8 UN attributes; RTI/Citizen's Charter/social audit = accountability tools.",
+              "e-governance: G2C/G2B/G2G/G2E; DBT & Digital India are flagship."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Good governance** — 8 UN attributes (participatory, transparent, accountable, rule of law, responsive, equitable, effective, consensus-oriented).",
+      "**RTI Act (2005)** — empowers citizens to seek information; promotes transparency.",
+      "**Citizen's Charter** — a public commitment to service standards.",
+      "**Social audit** — public scrutiny of schemes (mandatory in MGNREGA).",
+      "**e-governance interactions — G2C, G2B, G2G, G2E**.",
+      "**Direct Benefit Transfer (DBT), Digital India, Aadhaar, UMANG, Common Service Centres** — key initiatives.",
+      "**2nd Administrative Reforms Commission (ARC)** made major governance recommendations."
+    ],
+    "mainsAngles": [
+      "Discuss the attributes of good governance and tools of accountability."
+    ],
+    "glossary": [
+      {"term": "Good governance", "definition": "Governance marked by transparency, accountability, participation, rule of law and responsiveness."},
+      {"term": "RTI Act", "definition": "The 2005 law giving citizens the right to access government information."},
+      {"term": "e-governance", "definition": "Use of ICT to deliver public services (G2C, G2B, G2G, G2E)."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-065",
+    "sections": [
+      {
+        "heading": "Impact of LPG on governance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **1991 Liberalisation, Privatisation and Globalisation (LPG) reforms** transformed governance — shrinking the state's direct economic role and shifting it towards **regulation, facilitation and enabling** — spawning new **regulatory bodies** and a more **market-oriented, accountable** administrative style."
+          },
+          {
+            "type": "table",
+            "headers": ["Change", "Detail"],
+            "rows": [
+              ["**From controller to regulator**", "State withdrew from production; rose as **regulator/facilitator** (SEBI, TRAI, CCI, etc.)."],
+              ["**Rise of regulatory bodies**", "**SEBI (1992), TRAI (1997), IRDAI, CCI, PFRDA, RERA** — independent regulators."],
+              ["**Reforms in governance**", "Disinvestment, PPPs, ease-of-doing-business, single-window, digital services."],
+              ["**Accountability**", "Greater transparency demands (RTI), citizen-as-consumer, service delivery focus."],
+              ["**Challenges**", "**Regulatory capture, inequality, jobless growth, weakened public sector** concerns."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "LPG shifted the state from 'controller/producer' to 'regulator/facilitator'.",
+              "New regulators (SEBI, TRAI, CCI, RERA); PPPs, disinvestment, ease of doing business."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**LPG reforms (1991)** — **Liberalisation, Privatisation, Globalisation** (under P.V. Narasimha Rao & Manmohan Singh).",
+      "Governance shifted from a **'controller/producer' to a 'regulator/facilitator'** state.",
+      "New **regulatory bodies** — **SEBI (1992), TRAI (1997), CCI, IRDAI, PFRDA, RERA**.",
+      "Growth of **Public-Private Partnerships (PPPs)** and **disinvestment**.",
+      "Emphasis on **ease of doing business, single-window clearances, minimum government-maximum governance**.",
+      "Concerns — **regulatory capture, rising inequality, jobless growth**.",
+      "The state increasingly acts as an **enabler and referee** of the market."
+    ],
+    "mainsAngles": [
+      "Examine how the LPG reforms of 1991 reshaped governance in India."
+    ],
+    "glossary": [
+      {"term": "LPG reforms", "definition": "The 1991 Liberalisation, Privatisation and Globalisation policy shift in the Indian economy."},
+      {"term": "Regulatory body", "definition": "An independent authority (e.g. SEBI, TRAI) overseeing a liberalised sector."},
+      {"term": "Regulatory capture", "definition": "When a regulator serves the interests of the industry it regulates rather than the public."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-066",
+    "sections": [
+      {
+        "heading": "Statutory, regulatory & quasi-judicial bodies",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Beyond constitutional bodies, governance relies on **statutory bodies (created by an Act of Parliament), regulatory bodies (overseeing sectors), and quasi-judicial bodies (tribunals/commissions with adjudicatory powers)** — the specialised machinery of the modern state."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "Examples"],
+            "rows": [
+              ["**Statutory bodies**", "**NHRC, CIC, NCW, NGT, Lokpal, NITI Aayog (executive), UGC, SEBI** — created by law."],
+              ["**Regulatory bodies**", "**SEBI (securities), RBI (banking), TRAI (telecom), IRDAI (insurance), CCI (competition), RERA (real estate)**."],
+              ["**Quasi-judicial bodies**", "**NGT, CAT, tribunals, NHRC, Lokpal, Election Commission (partly)** — adjudicate disputes."],
+              ["**Constitutional vs statutory**", "Constitutional = in Constitution (EC, UPSC, CAG); statutory = by Act (NHRC, CIC)."],
+              ["**Executive body**", "**NITI Aayog** — by executive resolution (not statutory)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Statutory (by Act: NHRC, CIC, Lokpal) vs constitutional (EC, CAG) vs executive (NITI Aayog).",
+              "Quasi-judicial = adjudicatory (NGT, CAT, tribunals)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Statutory bodies** are created by an **Act of Parliament** — **NHRC, CIC, NCW, NGT, Lokpal, UGC, SEBI**.",
+      "**Regulatory bodies** — **RBI, SEBI, TRAI, IRDAI, CCI, PFRDA, RERA**.",
+      "**Quasi-judicial bodies** exercise **adjudicatory** powers — **NGT, CAT (Central Administrative Tribunal), NHRC, tribunals**.",
+      "**NITI Aayog** is an **executive body** (resolution, 2015), not statutory.",
+      "**NHRC (1993)** — statutory; headed by a former CJI/SC judge.",
+      "**Lokpal (2013)** — anti-corruption ombudsman at the centre; **Lokayuktas** in states.",
+      "Constitutional bodies (EC, UPSC, CAG) differ from statutory ones in their **source of authority**."
+    ],
+    "mainsAngles": [
+      "Classify statutory, regulatory and quasi-judicial bodies with examples."
+    ],
+    "glossary": [
+      {"term": "Statutory body", "definition": "A body created by an Act of Parliament (e.g. NHRC, CIC, Lokpal)."},
+      {"term": "Quasi-judicial body", "definition": "A body with powers to adjudicate disputes, like a tribunal (e.g. NGT, CAT)."},
+      {"term": "Regulatory body", "definition": "An authority overseeing and regulating a specific sector (e.g. SEBI, TRAI)."}
+    ]
+  }
+]
