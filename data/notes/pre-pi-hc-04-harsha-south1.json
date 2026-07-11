@@ -1,0 +1,222 @@
+[
+  {
+    "code": "PRE-PI-HC-022",
+    "sections": [
+      {
+        "heading": "Kanauj & Harsha — polity and contributions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Harshavardhana (606–647 CE)** of the **Pushyabhuti dynasty** made **Kanauj** the political centre of north India and was the **last great ancient Hindu emperor of the north**. His reign is richly documented by **Banabhatta's Harshacharita and the Chinese pilgrim Xuanzang (Hiuen Tsang)**."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Dynasty & capital**", "**Pushyabhuti (Vardhana)**; shifted capital from Thanesar to **Kanauj**."],
+              ["**Check in the south**", "Defeated by the **Chalukya Pulakeshin II on the Narmada (c. 618-19 CE)** — could not expand into the Deccan."],
+              ["**Sources**", "**Harshacharita & Kadambari (Banabhatta)**; **Xuanzang's** account (Si-Yu-Ki)."],
+              ["**Religion**", "A Shaiva who turned **Buddhist (Mahayana)**; held grand assemblies at **Kanauj & Prayag (every 5 years)**."],
+              ["**Scholar-king**", "Wrote Sanskrit plays — **Nagananda, Ratnavali, Priyadarshika**; patronised Nalanda."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Harsha stopped by Pulakeshin II at the Narmada; Banabhatta + Xuanzang are the sources; Kanauj & Prayag assemblies.",
+              "Harsha authored Nagananda, Ratnavali, Priyadarshika — a scholar-king."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Harshavardhana** — **Pushyabhuti/Vardhana** dynasty; capital moved to **Kanauj**.",
+      "Defeated by **Chalukya Pulakeshin II** on the **Narmada** (~618-19 CE).",
+      "**Banabhatta** (court poet) wrote **Harshacharita** & **Kadambari**.",
+      "**Xuanzang (Hiuen Tsang)** visited; wrote **Si-Yu-Ki**; attended the Kanauj assembly.",
+      "Harsha held a grand assembly at **Prayag every 5 years** (charity/Kumbh-like).",
+      "Harsha authored the Sanskrit plays **Nagananda, Ratnavali, Priyadarshika**.",
+      "He patronised **Nalanda University** and Mahayana Buddhism."
+    ],
+    "mainsAngles": [
+      "Assess Harsha's achievements and the sources for his reign."
+    ],
+    "glossary": [
+      {"term": "Harshacharita", "definition": "Banabhatta's Sanskrit biography of Harsha, a key source for his reign."},
+      {"term": "Xuanzang", "definition": "The Chinese Buddhist pilgrim (Hiuen Tsang) who visited Harsha's India and recorded it in Si-Yu-Ki."},
+      {"term": "Pushyabhuti", "definition": "The Vardhana dynasty of Thanesar/Kanauj to which Harsha belonged."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-023",
+    "sections": [
+      {
+        "heading": "Badami Chalukyas — polity, art & architecture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Chalukyas of Badami (Vatapi) (6th–8th CE)** dominated the Deccan, most famously under **Pulakeshin II**, who checked Harsha. They pioneered the **Vesara temple style and rock-cut/structural temples at Badami, Aihole and Pattadakal** — 'the cradle of Indian temple architecture'."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Founder / capital**", "Founder **Pulakeshin I**; capital **Badami (Vatapi)**."],
+              ["**Pulakeshin II**", "Greatest; defeated **Harsha** (Narmada); **Aihole inscription** by **Ravikirti**; received Persian embassy; defeated by Pallava **Narasimhavarman I** (Vatapi sacked)."],
+              ["**Architecture**", "**Vesara** style; **Aihole** ('cradle of Indian architecture'), **Pattadakal** (UNESCO), **Badami** cave temples."],
+              ["**Religion**", "Patronised **Hinduism, Jainism & Buddhism**; Vaishnava & Shaiva temples."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Pulakeshin II beat Harsha but was defeated by Pallava Narasimhavarman I (Vatapikonda).",
+              "Aihole = cradle of Indian temple architecture; Pattadakal = UNESCO; Vesara style."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Badami Chalukya capital — **Badami (Vatapi)**; founder **Pulakeshin I**.",
+      "**Pulakeshin II** — greatest; defeated **Harsha** on the Narmada.",
+      "**Aihole inscription** — by court poet **Ravikirti** (Jain), in Sanskrit.",
+      "Pallava **Narasimhavarman I ('Vatapikonda')** sacked Badami and killed Pulakeshin II.",
+      "Temple sites — **Aihole ('cradle of Indian temple architecture'), Pattadakal (UNESCO), Badami caves**.",
+      "Developed the **Vesara** (Deccan) temple style.",
+      "Chinese pilgrim **Xuanzang** visited the Chalukya kingdom."
+    ],
+    "mainsAngles": [
+      "Discuss the contribution of the Badami Chalukyas to temple architecture."
+    ],
+    "glossary": [
+      {"term": "Vesara", "definition": "The Deccan temple style blending Nagara and Dravida features, developed by the Chalukyas."},
+      {"term": "Aihole inscription", "definition": "Ravikirti's eulogy of Pulakeshin II, a key source recording his victory over Harsha."},
+      {"term": "Vatapi", "definition": "The Badami Chalukya capital, sacked by the Pallava Narasimhavarman I."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-024",
+    "sections": [
+      {
+        "heading": "Eastern Chalukyas of Vengi",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Eastern Chalukyas of Vengi (c. 624–1075 CE)**, founded by **Kubja Vishnuvardhana** (brother of Pulakeshin II), ruled **coastal Andhra for ~four centuries** and were pivotal for **Telugu literature** — patronising **Nannaya**, the Adikavi — before merging with the imperial Cholas."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Founder**", "**Kubja Vishnuvardhana**, brother of Badami Chalukya **Pulakeshin II**; capital **Vengi**."],
+              ["**Duration**", "~400 years — the longest-ruling dynasty of coastal Andhra."],
+              ["**Telugu literature**", "**Rajaraja Narendra** patronised **Nannaya (Adikavi)**, who began the **Telugu Mahabharatam**."],
+              ["**Chola link**", "Merged with the **Cholas** via **Kulottunga I** (Chalukya-Chola line)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Kubja Vishnuvardhana (Pulakeshin II's brother) founded the Vengi line; capital Vengi.",
+              "Rajaraja Narendra → Nannaya → Telugu Mahabharatam is the key Telugu-literature fact."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Eastern Chalukyas of Vengi** — founded by **Kubja Vishnuvardhana** (~624 CE), brother of Pulakeshin II.",
+      "Capital **Vengi**; ruled **coastal Andhra ~400 years**.",
+      "**Rajaraja Narendra** patronised **Nannaya**, the **Adikavi** (first Telugu poet).",
+      "Nannaya began the **Telugu Mahabharatam** (Andhra Mahabharatam).",
+      "The line later merged with the **Cholas** through **Kulottunga I**.",
+      "Bridged Deccan (Chalukya) and coastal-Andhra (Telugu) culture."
+    ],
+    "mainsAngles": [
+      "Assess the Eastern Chalukyas' role in the growth of Telugu literature."
+    ],
+    "glossary": [
+      {"term": "Vengi", "definition": "The coastal-Andhra capital of the Eastern Chalukyas for some four centuries."},
+      {"term": "Nannaya", "definition": "The 'Adikavi' (first poet) of Telugu, patronised by the Eastern Chalukya Rajaraja Narendra."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-025",
+    "sections": [
+      {
+        "heading": "Rashtrakutas — administration & culture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Rashtrakutas (753–982 CE)**, founded by **Dantidurga** with capital **Manyakheta**, were a great **western-Deccan imperial power** engaged in the **'tripartite struggle' for Kanauj**. They are immortalised by the **Kailasa temple at Ellora** and were patrons of **Kannada, Sanskrit and Jainism**."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Founder / capital**", "**Dantidurga**; capital **Manyakheta (Malkhed)**."],
+              ["**Greatest rulers**", "**Govinda III, Amoghavarsha I** (wrote **Kavirajamarga** in Kannada; **Ratnamalika**; Jain)."],
+              ["**Tripartite struggle**", "Rashtrakutas vs **Pratiharas vs Palas** for **Kanauj**."],
+              ["**Architecture**", "**Kailasa temple, Ellora** (rock-cut, Krishna I) — monolithic marvel; Elephanta caves influence."],
+              ["**Foreign notice**", "Arab traveller **Al-Masudi**; praised as one of the four great empires of the world (Sulaiman)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Dantidurga founder; Amoghavarsha (Kavirajamarga, Kannada); Kailasa temple Ellora (Krishna I).",
+              "Tripartite struggle for Kanauj = Rashtrakuta–Pratihara–Pala."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Rashtrakuta founder **Dantidurga**; capital **Manyakheta (Malkhed)**.",
+      "**Amoghavarsha I** — wrote **Kavirajamarga** (earliest Kannada poetics) & **Prashnottara Ratnamalika**; a Jain; called 'Ashoka of the South'.",
+      "**Kailasa temple at Ellora** — monolithic rock-cut, built by **Krishna I**.",
+      "**Tripartite struggle** for **Kanauj** — Rashtrakutas, Pratiharas, Palas.",
+      "**Govinda III** — greatest military conqueror.",
+      "Arab traveller **Al-Masudi** visited; Sulaiman ranked them among the world's great empires.",
+      "Patronised **Kannada & Sanskrit** literature and **Jainism**."
+    ],
+    "mainsAngles": [
+      "Evaluate the Rashtrakutas' contribution to art and the tripartite struggle."
+    ],
+    "glossary": [
+      {"term": "Manyakheta", "definition": "The Rashtrakuta capital (modern Malkhed) in the western Deccan."},
+      {"term": "Kavirajamarga", "definition": "The earliest work on Kannada poetics, attributed to Amoghavarsha I."},
+      {"term": "Tripartite struggle", "definition": "The three-way contest among Rashtrakutas, Pratiharas and Palas for control of Kanauj."}
+    ]
+  }
+]
