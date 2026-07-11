@@ -1,0 +1,282 @@
+[
+  {
+    "code": "PRE-PI-PSJI-067",
+    "sections": [
+      {
+        "heading": "Human rights & mechanisms",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Human rights** are the inherent, universal rights of all persons, protected in India through the **Constitution (Fundamental Rights), the Protection of Human Rights Act (1993), and the NHRC/SHRCs**, and globally through the **UDHR and UN mechanisms**."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Global charter**", "**Universal Declaration of Human Rights (UDHR, 1948)**; ICCPR & ICESCR covenants."],
+              ["**Indian framework**", "**Fundamental Rights (Part III)**; **Protection of Human Rights Act (1993)**."],
+              ["**NHRC (1993)**", "Statutory; chaired by a former **CJI or SC judge**; recommendatory powers; investigates violations."],
+              ["**SHRC**", "State Human Rights Commissions (state level)."],
+              ["**Concerns**", "**Custodial violence, recommendatory (not binding) powers, delays, armed-forces exemption**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "UDHR (1948); NHRC (1993, statutory) — recommendatory powers only; headed by ex-CJI/SC judge.",
+              "Protection of Human Rights Act 1993 = the enabling law."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**UDHR** adopted by the UN on **10 Dec 1948** (Human Rights Day).",
+      "Two covenants — **ICCPR (civil-political) & ICESCR (economic-social-cultural)**.",
+      "**Protection of Human Rights Act, 1993** created the **NHRC & SHRCs**.",
+      "**NHRC** — chaired by a former **Chief Justice/Judge of the Supreme Court**; **recommendatory** powers.",
+      "NHRC's recommendations are **not binding**; a key limitation.",
+      "**Human Rights Day — 10 December**.",
+      "India is a party to major UN human-rights conventions."
+    ],
+    "mainsAngles": [
+      "Assess the role and limitations of the NHRC in protecting human rights."
+    ],
+    "glossary": [
+      {"term": "UDHR", "definition": "The Universal Declaration of Human Rights (1948), the foundational global human-rights document."},
+      {"term": "NHRC", "definition": "The National Human Rights Commission, a statutory body (1993) with recommendatory powers."},
+      {"term": "ICCPR", "definition": "The International Covenant on Civil and Political Rights, a binding UN human-rights treaty."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-068",
+    "sections": [
+      {
+        "heading": "Women's rights & protections",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Women's rights in India are protected by **constitutional guarantees, a body of protective legislation, and institutions like the National Commission for Women** — reinforced by **reservation in local bodies** and recent measures against violence and for empowerment."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Detail"],
+            "rows": [
+              ["**Constitutional**", "**Equality (14-15), no discrimination, Art. 15(3) special provisions, Art. 39(d) equal pay, 42 maternity relief, 243D/T (⅓ reservation in local bodies)**."],
+              ["**Key laws**", "**Dowry Prohibition (1961), PCPNDT (1994), Domestic Violence Act (2005), Sexual Harassment at Workplace/POSH (2013), Maternity Benefit (Amend. 2017)**."],
+              ["**NCW (1992)**", "Statutory body safeguarding women's rights."],
+              ["**Women's reservation**", "**Nari Shakti Vandan Adhiniyam (106th Amendment, 2023)** — ⅓ seats in Lok Sabha & assemblies (on delimitation)."],
+              ["**Schemes**", "**Beti Bachao Beti Padhao, PM Matru Vandana, Ujjwala, One Stop Centres**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "106th Amendment (2023, Nari Shakti Vandan) = ⅓ women's reservation in Lok Sabha/assemblies.",
+              "Key laws: Domestic Violence 2005, POSH 2013, PCPNDT; NCW 1992."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Article 15(3)** allows the state to make **special provisions for women & children**.",
+      "**106th Amendment (2023) — Nari Shakti Vandan Adhiniyam** — reserves **⅓ seats** for women in the Lok Sabha & state assemblies.",
+      "**National Commission for Women (NCW)** — statutory body, **1992**.",
+      "**Protection of Women from Domestic Violence Act, 2005**; **POSH Act, 2013** (Vishaka guidelines).",
+      "**PCPNDT Act (1994)** — bans sex-selective abortion; **Dowry Prohibition Act (1961)**.",
+      "**Sabarimala, triple talaq (2019 Act)** — recent gender-justice developments.",
+      "Schemes — **Beti Bachao Beti Padhao, PM Matru Vandana Yojana, Ujjwala, One Stop Centres**."
+    ],
+    "mainsAngles": [
+      "Discuss the constitutional and legislative framework for women's empowerment in India."
+    ],
+    "glossary": [
+      {"term": "Nari Shakti Vandan Adhiniyam", "definition": "The 106th Amendment (2023) reserving one-third of legislative seats for women."},
+      {"term": "NCW", "definition": "The National Commission for Women, a statutory body (1992) safeguarding women's rights."},
+      {"term": "POSH Act", "definition": "The 2013 law against sexual harassment of women at the workplace."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-069",
+    "sections": [
+      {
+        "heading": "SC/ST rights & safeguards",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Scheduled Castes and Scheduled Tribes enjoy a comprehensive framework of **constitutional safeguards — social, economic, political, educational and service** — plus special protective laws and national commissions, aimed at ending historic discrimination and ensuring social justice."
+          },
+          {
+            "type": "table",
+            "headers": ["Safeguard", "Detail"],
+            "rows": [
+              ["**Social**", "**Art. 17 (abolition of untouchability), 15(2), 23-24**; **PoA Act (1989)** against atrocities."],
+              ["**Political**", "**Reservation of seats (Arts. 330, 332)** in Lok Sabha & assemblies; local bodies."],
+              ["**Educational/economic**", "**Art. 15(4), 46** — reservations in education & jobs (Arts. 16(4), 335)."],
+              ["**Tribal-specific**", "**Fifth & Sixth Schedules, PESA (1996), Forest Rights Act (2006)**."],
+              ["**Commissions**", "**NCSC (Art. 338), NCST (Art. 338A)**; National Commission for BCs (Art. 338B)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Art 17 (untouchability), 330/332 (seat reservation), PoA Act 1989, FRA 2006, PESA 1996.",
+              "NCSC (338), NCST (338A) constitutional; 5th/6th Schedules for tribal areas."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Article 17** — abolishes **untouchability**; **Art. 15(2)** bans discrimination in public places.",
+      "**Reservation of seats — Articles 330 (Lok Sabha) & 332 (Assemblies)** for SC/ST.",
+      "**SC/ST (Prevention of Atrocities) Act, 1989** — against caste atrocities.",
+      "**NCSC (Article 338), NCST (Article 338A), NCBC (Article 338B)**.",
+      "**Fifth Schedule** (mainland tribal areas) & **Sixth Schedule** (NE autonomous districts).",
+      "**PESA (1996)** & **Forest Rights Act (2006)** empower tribal communities.",
+      "**Article 335** — SC/ST claims in services consistent with efficiency of administration."
+    ],
+    "mainsAngles": [
+      "Examine the constitutional safeguards for Scheduled Castes and Scheduled Tribes."
+    ],
+    "glossary": [
+      {"term": "PoA Act", "definition": "The SC/ST (Prevention of Atrocities) Act, 1989, penalising caste-based atrocities."},
+      {"term": "Forest Rights Act", "definition": "The 2006 law recognising forest-dwelling tribes' rights over land and forest produce."},
+      {"term": "Sixth Schedule", "definition": "The constitutional provision for autonomous tribal district councils in the North-East."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-070",
+    "sections": [
+      {
+        "heading": "Child rights & related laws",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Child rights** in India are protected by **constitutional provisions, a set of dedicated laws (POCSO, RTE, Juvenile Justice, child-labour ban), and the NCPCR** — aligned with the **UN Convention on the Rights of the Child (UNCRC)**."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Detail"],
+            "rows": [
+              ["**Constitutional**", "**Art. 21A (RTE), 24 (no child labour <14 in hazardous), 39(e-f), 45, 51A(k)**."],
+              ["**Key laws**", "**RTE Act (2009), POCSO (2012), Juvenile Justice Act (2015), Child Labour (Prohibition) Act, Prohibition of Child Marriage Act (2006)**."],
+              ["**NCPCR (2007)**", "Statutory body protecting child rights; monitors RTE/POCSO."],
+              ["**Global**", "**UN Convention on the Rights of the Child (UNCRC, 1989)** — India ratified 1992."],
+              ["**Schemes**", "**ICDS/Anganwadi, Mid-Day Meal (PM POSHAN), Beti Bachao**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Art 21A (RTE), 24 (child labour); POCSO 2012, RTE 2009, JJ Act 2015; NCPCR 2007.",
+              "UNCRC 1989 (India ratified 1992); ICDS/Mid-Day Meal schemes."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Article 21A** — Right to Education (6-14) via the **86th Amendment (2002)**; **RTE Act (2009)**.",
+      "**Article 24** — prohibits child labour below 14 in hazardous work.",
+      "**POCSO Act (2012)** — protection of children from sexual offences.",
+      "**Juvenile Justice (Care & Protection) Act, 2015**; **Prohibition of Child Marriage Act, 2006**.",
+      "**NCPCR (2007)** — statutory child-rights commission.",
+      "**UN Convention on the Rights of the Child (1989)** — India ratified in **1992**.",
+      "Schemes — **ICDS/Anganwadi, Mid-Day Meal (PM POSHAN), Beti Bachao Beti Padhao**."
+    ],
+    "mainsAngles": [
+      "Discuss the legal framework for the protection of child rights in India."
+    ],
+    "glossary": [
+      {"term": "POCSO Act", "definition": "The 2012 law protecting children from sexual offences."},
+      {"term": "RTE Act", "definition": "The Right to Education Act (2009) implementing Article 21A for children aged 6-14."},
+      {"term": "NCPCR", "definition": "The National Commission for Protection of Child Rights, a statutory body (2007)."}
+    ]
+  },
+  {
+    "code": "PRE-PI-PSJI-073",
+    "sections": [
+      {
+        "heading": "Important central & state policies/programmes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Government delivers development and welfare through a wide array of **flagship central schemes and state (AP) programmes** spanning **financial inclusion, health, housing, employment, sanitation and direct benefit transfers** — a high-yield current-affairs area."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "Flagship schemes"],
+            "rows": [
+              ["**Financial inclusion**", "**Jan Dhan Yojana, DBT, Mudra, Stand-Up India**."],
+              ["**Health**", "**Ayushman Bharat (PM-JAY), National Health Mission, Mission Indradhanush**."],
+              ["**Housing/sanitation**", "**PM Awas Yojana, Swachh Bharat, Jal Jeevan Mission**."],
+              ["**Employment/rural**", "**MGNREGA, PM-KISAN, DAY-NRLM, PMGSY**."],
+              ["**AP (state)**", "**Rythu Bharosa, Amma Vodi, YSR/NTR welfare schemes, AP Fibre Grid**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Map schemes to domains (Jan Dhan-finance, Ayushman-health, PMAY-housing, MGNREGA-employment).",
+              "AP schemes (Rythu Bharosa, Amma Vodi) add state-specific value."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Pradhan Mantri Jan Dhan Yojana (2014)** — financial inclusion (zero-balance accounts).",
+      "**Ayushman Bharat (PM-JAY)** — world's largest health-assurance scheme (₹5 lakh cover).",
+      "**PM Awas Yojana** (housing), **Swachh Bharat** (sanitation), **Jal Jeevan Mission** (tap water).",
+      "**MGNREGA** — 100 days' guaranteed wage employment; **PM-KISAN** — ₹6000/yr to farmers.",
+      "**Mudra, Stand-Up India, Start-Up India** — enterprise/credit.",
+      "**DBT (Direct Benefit Transfer)** uses the **JAM trinity (Jan Dhan-Aadhaar-Mobile)**.",
+      "AP schemes — **Rythu Bharosa (farmers), Amma Vodi (education), YSR/NTR welfare, AP Fibre Grid**."
+    ],
+    "mainsAngles": [
+      "Assess the impact of flagship welfare schemes on inclusive development."
+    ],
+    "glossary": [
+      {"term": "DBT", "definition": "Direct Benefit Transfer — routing subsidies straight to beneficiaries' bank accounts."},
+      {"term": "JAM trinity", "definition": "The Jan Dhan-Aadhaar-Mobile combination enabling targeted benefit delivery."},
+      {"term": "Ayushman Bharat", "definition": "The national health-assurance scheme (PM-JAY) offering ₹5 lakh hospitalisation cover."}
+    ]
+  }
+]
