@@ -1,0 +1,332 @@
+[
+  {
+    "code": "MN-PIV-ADI-031",
+    "sections": [
+      {
+        "heading": "Agriculture's role in development — the five functions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Development economics assigns agriculture **five classical functions (Kuznets-Johnston-Mellor)**: **product** (food & raw materials — wage-goods stability), **factor** (releasing labour & capital to industry), **market** (rural demand for industrial goods — the tractor-to-FMCG demand base), **foreign exchange** (agri-exports ~$48-50 bn peak; rice-spices-marine-sugar), and the modern additions — **ecosystem & employment shock-absorber** (COVID's reverse migration absorbed by farms; agriculture the only sector growing in FY21). India's numbers: **~16-18% of GVA, ~45% of employment, ~57% of rural households cultivating** — the arithmetic making agriculture's productivity THE inclusive-growth variable (IEC-001's mismatch)."
+          },
+          {
+            "type": "table",
+            "headers": ["Contribution lens", "Content"],
+            "rows": [
+              ["GDP/GVA arc", "~55% (1950s) → ~30% (1990) → **~16-18% now** — the structural-transformation share decline that is DEVELOPMENT, provided workers move too (they haven't proportionately: the incomplete transformation)"],
+              ["Growth contribution", "Trend agri growth ~3-3.5%; in shock years its stability lifts overall GDP (FY21's +4% farm growth); allied's rising share (livestock+fisheries > crops within, at the margin)"],
+              ["Linkage economics", "Backward (fertiliser-machinery-credit demand) + forward (agro-processing ~monthly FMCG inputs) — agriculture's multiplier runs through both"],
+              ["Poverty leverage", "Farm-income growth is 2-3x as poverty-reducing as equivalent non-farm growth in agrarian economies (World Bank consensus) — the reason 'agriculture first' remains inclusive strategy"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — and the AP echo",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The paradox to resolve**: share falls, importance doesn't — food security, employment mass, demand base and price stability keep agriculture macro-critical at 16% of GVA; write the 'declining share, abiding centrality' thesis.",
+              "**The productivity imperative**: with land fixed and workers exiting slowly, income growth must come from **yield + diversification + value-addition + non-farm linkage** — the four levers each later note details (ADI-032-034).",
+              "**AP echo**: the state's ~one-third GSVA farm share makes it India's agrarian-role exhibit — growth-leading (aqua-horti), employment-anchoring, export-earning (marine) — the national arguments localised (ADA-035's file)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Agriculture in development] --> B[Product: food and raw materials]\n  A --> C[Factor: labour and savings release]\n  A --> D[Market: rural demand base]\n  A --> E[Forex: 48 bn exports]\n  A --> F[Shock absorber: FY21 proof]\n  B --> G[16-18 percent GVA yet macro-critical]\n  C --> H[Incomplete transformation - 45 percent still farming]\n  G --> I[Productivity as the inclusive-growth lever]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Five-functions frame + the share-arc + linkage-poverty economics + 'declining share, abiding centrality'.",
+              "Numbers: 16-18/45/57%, exports $48-50 bn, FY21's +4%, poverty-leverage 2-3x."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Name Kuznets-Johnston-Mellor once — the five-functions vocabulary converts a descriptive question into development economics."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Agriculture & allied: **~16-18% of GVA, ~45-46% of workforce** (PLFS); ~57% of rural households are agricultural.",
+      "Agri-exports peaked ~**$50 bn (FY22)**; marine, rice, spices, sugar the leaders.",
+      "**FY21 (COVID year): agriculture grew ~+4%** while GDP contracted — the shock-absorber proof.",
+      "Allied activities (livestock ~30%+, fisheries ~7% of agri-GVA) outgrow crops — the composition shift.",
+      "**Johnston-Mellor (1961)** codified agriculture's five development functions.",
+      "Farm growth's poverty-elasticity ~2-3x non-farm growth's in agrarian settings (World Development Report 2008).",
+      "Structural share: ~55% (1950-51) → ~29% (1990-91) → ~17% now — the transformation arc."
+    ],
+    "mainsAngles": [
+      "Declining share, abiding centrality — resolve agriculture's paradox with the five-functions framework.",
+      "The transformation is incomplete by half — workers stayed while output share fell: diagnose and prescribe.",
+      "Agriculture is macro policy — argue through wage-goods, inflation and the FY21 stabiliser evidence.",
+      "Farm growth buys more poverty reduction per point — evaluate the agriculture-first inclusive strategy.",
+      "AP is the agrarian-role exhibit — apply the national framework to a one-third-GSVA state."
+    ],
+    "glossary": [
+      { "term": "Wage goods", "definition": "Basic consumption items (food) whose price stability underwrites industrial wages — agriculture's macro function." },
+      { "term": "Structural transformation", "definition": "The economy's shift of output and workers from farm to factory to services — development's core process." },
+      { "term": "Backward/forward linkage", "definition": "A sector's demand for inputs and supply to processors — agriculture's two-way multiplier." },
+      { "term": "Shock absorber (agrarian)", "definition": "Agriculture's employment-of-last-resort role in downturns — FY21's reverse-migration proof." },
+      { "term": "Allied sector", "definition": "Livestock, fisheries, forestry within agriculture — the growth-leading margin of Indian farming." }
+    ]
+  },
+  {
+    "code": "MN-PIV-ADI-032",
+    "sections": [
+      {
+        "heading": "Finance, production, marketing — the three chokepoints",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Chokepoint", "The problem set", "The instrument set"],
+            "rows": [
+              ["**Finance**", "Smallholder credit access (tenants worst — CCRC's AP answer), moneylender residual (~20-30% of farm debt informal), collateral gaps, insurance thinness, investment-credit's short share", "**KCC (~7.4 crore active; fisheries-dairy included)**, priority-sector 18% agri target, **agri-credit flow ~₹25+ lakh crore/yr targets**, interest subvention (short-term crop loans ~4% effective), **PMFBY** (area-yield insurance; state-exit-re-entry saga), **AIF (₹1 lakh crore agri-infra fund)**, FPO financing, DIGITAL — AgriStack's lending rails"],
+              ["**Production**", "Yield gaps (rice ~half of China's), input inefficiency (urea bias), smallholding scale (1.08 ha), water misallocation, tech adoption lags, labour exit", "Seeds (ICAR's 2,000+ varieties; hybrid-GM debates — Bt cotton the only GM crop), **SHC-based nutrition, micro-irrigation (PDMC)**, mechanisation (custom-hiring centres), extension's revival (KVKs, digital advisories), **natural farming mission (NMNF)**"],
+              ["**Marketing**", "**APMC's monopsony legacy** (licensed-cartel yards, fee cascades), fragmentation (~7,000 mandis needed vs ~2,500 regulated), price discovery opacity, post-harvest loss (~₹90,000+ cr/yr estimates), the repealed farm laws' vacuum", "**e-NAM (~1,400 mandis integrated)**, model APMC/contract-farming acts (state adoption patchy), **FPOs (10,000 target)** as aggregation, warehouse-receipt finance (WDRA), ODOP-processing (PMFME), National Cooperation Policy & multi-state co-ops, private markets where states allowed"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Analysis — the reform stalemate and the way through",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The 2020-21 lesson**: the three farm laws (trade-area freedom, contract framework, stocking liberalisation) died of **process, not only content** — consultation-federalism deficits; the substantive questions they addressed (APMC monopoly, price risk, storage) REMAIN: state that honestly, both ways.",
+              "**The state-route consensus**: agriculture is a State subject — reform now runs through **state amendments + central incentives** (the ranking-nudge model), e-NAM's interoperability, and FPO-led private channels — evolution where revolution failed.",
+              "**Credit's deep fix is tenancy and records**: land-records digitisation (AP's resurvey), tenancy recognition (CCRC), and account-aggregator underwriting — collateral-free lending needs data-collateral.",
+              "**AP applications**: RBK-linked procurement + e-crop (ADA-037), aqua's private marketing efficiency vs chilli-yard price crashes (Guntur cold-storage seasons), CCRC tenants' credit — the state supplies both success and gap exhibits."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Farm income] --> B[Finance chokepoint]\n  A --> C[Production chokepoint]\n  A --> D[Marketing chokepoint]\n  B --> E[KCC, subvention, PMFBY, AIF, tenant records]\n  C --> F[Seeds, SHC, drip, extension, mechanisation]\n  D --> G[e-NAM, FPOs, warehousing, processing]\n  E --> H[Credit with data-collateral]\n  G --> I[Competition for the farmer's produce]\n  F --> J[Yield with sustainability]\n  H --> K[Income growth]\n  I --> K\n  J --> K"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Three-chokepoint table (problem-instrument pairing) + the farm-laws honest paragraph + the state-route consensus + AP exhibits.",
+              "Numbers: KCC 7.4 cr, credit ₹25 lakh cr, e-NAM 1,400, FPO 10,000, AIF ₹1 lakh cr, post-harvest loss ₹90k cr."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The farmer is financed short, yielded low and marketed captive — fix the three together or none' — the integration thesis; the farm-laws paragraph must carry both the content case and the process critique."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**KCC**: ~7.4 crore operative cards; extended to **animal husbandry & fisheries (2019)**; interest subvention makes short-term credit ~4%.",
+      "Institutional agri-credit flow targets ~**₹25+ lakh crore/yr**; agri = **18-point** of the 40% PSL.",
+      "**PMFBY (2016)**: actuarial premiums with farmer share capped (2/1.5/5%); several states exited-re-entered (AP re-joined era).",
+      "**e-NAM (2016)**: ~1,400 mandis integrated; unified licence-fee-quality assaying vision.",
+      "**Agriculture Infrastructure Fund: ₹1 lakh crore** (post-harvest infra loans with subvention).",
+      "**10,000-FPO scheme (2020)** — equity-grant plus credit-guarantee ecosystem.",
+      "The three **farm laws (2020) repealed November 2021**; committee promised on MSP.",
+      "**WDRA** warehouse receipts make stored produce collateral — the marketing-finance bridge."
+    ],
+    "mainsAngles": [
+      "Financed short, yielded low, marketed captive — integrate agriculture's three chokepoints and their fixes.",
+      "Insurance that farmers trust — evaluate PMFBY's design journey and state exits.",
+      "The farm laws failed process while naming real problems — argue the content-process double verdict.",
+      "e-NAM and FPOs attack the mandi monopoly from two ends — assess the evolutionary marketing reform.",
+      "Data is the new collateral — connect land records, tenancy cards and account aggregators to farm credit."
+    ],
+    "glossary": [
+      { "term": "APMC", "definition": "Agricultural Produce Market Committee — the state-regulated mandi system whose licensing created monopsony critiques." },
+      { "term": "Monopsony", "definition": "A single/few-buyer market — the farmer's structural bargaining weakness at the yard." },
+      { "term": "FPO", "definition": "Farmer Producer Organisation — collective input purchase, aggregation and sale for smallholder scale." },
+      { "term": "Warehouse receipt", "definition": "Negotiable proof of stored produce enabling pledge finance — selling when prices serve, not when cash forces." },
+      { "term": "Interest subvention", "definition": "Government-paid interest share cutting crop-loan cost to ~4% for prompt payers." },
+      { "term": "AgriStack", "definition": "Farmer-registry + geo-referenced land + crop-sown digital core for targeted credit-benefit delivery." }
+    ]
+  },
+  {
+    "code": "MN-PIV-ADI-033",
+    "sections": [
+      {
+        "heading": "Green Revolution — the account (India-wide)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Green Revolution** (from 1966-67) = **HYV seeds (Borlaug's dwarf wheat; IRRI rice) + assured irrigation + fertilisers + credit + procurement-MSP + extension** — the package that took foodgrains from ~72 MT (1965-66, the ship-to-mouth PL-480 years) to **330+ MT**, made India surplus, and built the FCI-PDS state. Its geography concentrated (Punjab-Haryana-west UP first; the eastern extension 1980s; **AP's deltas the rice wing**), its crops narrowed (wheat-rice), and its bills accumulated — **aquifer mining, soil fatigue, agrochemical load, GHGs, regional-inter-crop inequality** (the ED-018/IG-028 files). The **evaluation grammar**: production triumph + distribution-ecology critique + the **Evergreen corrective (Swaminathan)** — productivity with permanence."
+          },
+          {
+            "type": "table",
+            "headers": ["Beyond irrigated wheat-rice — the three correctives", "Content"],
+            "rows": [
+              ["**Dryland agriculture (~55% of net sown area; ~40% of food)**", "The rainfed majority the GR bypassed: coarse cereals-pulses-oilseeds-cotton belts (Rayalaseema's world); science — watershed development (ED-046), moisture conservation, drought-tolerant varieties, **millets' revival (Shree Anna)**, agro-forestry; institutions — CRIDA (Hyderabad) & ICRISAT (the semi-arid CGIAR anchor on Telugu soil), NRAA; the equity point — dryland's farmer is the median farmer"],
+              ["**Organic agriculture**", "Certified-organic ~2-3% of farmland but India = most organic FARMERS globally; schemes — **PKVY, MOVCDNER (the NE mission; Sikkim 2016 the first organic state)**; markets — premium exports (basmati-spices-tea), certification (NPOP/PGS); the caution — yield-transition dips and certification costs: organic as premium-segment strategy, not blanket policy"],
+              ["**Sustainable agriculture (the umbrella)**", "NMSA's pillars — soil health (SHC), water (PDMC drip), climate-resilient varieties (ICAR's stress-tolerant lines), **natural farming (NMNF 2023-24; APCNF the world-scale state model)**, conservation agriculture (zero-till's Punjab stubble answer), integrated farming systems; the frame — **'produce more from less, forever'**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Synthesis and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The staged verdict**: GR-1 fed the nation and tired its heartland; the next revolution must be **rainfed, diversified and regenerative** — dryland science + organic-natural niches + sustainable mainstreaming: three lanes, one direction.",
+              "**AP's triple presence**: delta GR (rice bowl), Rayalaseema dryland (ICRISAT-CRIDA's home region science), APCNF (the natural-farming flagship) — the state hosts the whole argument.",
+              "**Craft**: GR account (package-outcomes-bills) → the three correctives table → the staged verdict; quote Swaminathan's evergreen line once (PL-031)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Green Revolution package] --> B[Foodgrain triumph - 330 MT]\n  A --> C[Bills: water, soil, chemicals, inequality]\n  C --> D[Corrective 1: dryland science - watersheds, millets]\n  C --> E[Corrective 2: organic niches - PKVY, Sikkim]\n  C --> F[Corrective 3: sustainable mainstream - NMSA, natural farming]\n  D --> G[Next revolution: rainfed, diversified, regenerative]\n  E --> G\n  F --> G"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Dryland's 55%-area/40%-food arithmetic is this theme's power fact; ICRISAT-CRIDA give it institutional names on Telugu soil.",
+              "Organic's honest framing (premium-segment, not blanket) and natural farming's evidence caveat keep the answer credible."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The first revolution was irrigated; the next must be rainfed' — dryland's median-farmer equity claim is the sentence that reframes the whole GR debate."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "GR launch: **1966-67 kharif (HYVP)**; architects — **Borlaug, M.S. Swaminathan, C. Subramaniam**; foodgrains 72→**330+ MT**.",
+      "**Rainfed/dryland ≈ 51-55% of net sown area**, producing ~40% of food & most pulses-oilseeds-cotton.",
+      "**ICRISAT (Patancheru, 1972)** — the semi-arid tropics CGIAR centre; **CRIDA (Hyderabad)** — ICAR's dryland institute; **NRAA (2006)**.",
+      "**Sikkim — India's first fully organic state (2016)**; PKVY (cluster organic) & MOVCDNER (NE value chains).",
+      "Certified organic area ~2-3%; India has the **world's largest number of organic producers**.",
+      "**NMSA** pillars: rainfed development, SHC, water efficiency, climate resilience; **NMNF (2023-24)** the natural-farming mission.",
+      "**Zero tillage + Happy Seeder** — conservation agriculture's stubble answer in the GR heartland."
+    ],
+    "mainsAngles": [
+      "Account for the Green Revolution — package, triumph, bills — and state the Evergreen corrective.",
+      "The median farmer is a dryland farmer — argue the rainfed-first case for the next revolution.",
+      "Organic is a segment, natural farming a system, sustainability the mainstream — differentiate the three correctives.",
+      "From Punjab's stubble to zero-till — evaluate conservation agriculture as the heartland's repair.",
+      "AP hosts the whole argument — delta GR, Rayalaseema dryland science, APCNF: write the state synthesis."
+    ],
+    "glossary": [
+      { "term": "HYVP", "definition": "The High-Yielding Varieties Programme (1966-67) — the Green Revolution's seed-package vehicle." },
+      { "term": "Dryland agriculture", "definition": "Farming on rainfed lands (<750-1150 mm zones) — moisture-conserving, risk-managing systems for the unirrigated majority." },
+      { "term": "PGS certification", "definition": "Participatory Guarantee System — peer-verified organic certification cutting costs for smallholders." },
+      { "term": "Conservation agriculture", "definition": "Minimal tillage, residue cover, rotations — soil-structure-preserving production (zero-till wheat the exemplar)." },
+      { "term": "Evergreen Revolution", "definition": "Swaminathan's productivity-with-permanence ideal — output growth without ecological harm." },
+      { "term": "Integrated Farming System", "definition": "Crop-livestock-fish-tree combinations recycling nutrients and spreading risk on one smallholding." }
+    ]
+  },
+  {
+    "code": "MN-PIV-ADI-034",
+    "sections": [
+      {
+        "heading": "MSP and price policy — the machinery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**MSP** — announced for **22 crops + FRP sugarcane** on **CACP's** recommendation — is a price floor made real ONLY where procurement operates (rice-wheat's ~40-50% procurement vs pulses-oilseeds' thin operations: the effectiveness gradient). Cost concepts the exam tests: **A2 (paid-out) < A2+FL (+family labour) < C2 (+imputed land rent & capital)**; the **2018 policy fixed MSP at ≥1.5× A2+FL**, while the **Swaminathan (NCF) recommendation was C2+50%** — the gap IS the farmer-movement's demand. Instruments beside MSP: **PSS-PSF-PDPS (the PM-AASHA umbrella — price support, stabilisation, deficiency payments)**, tariffs-trade calibration, and the buffer-PDS chain (IG-028)."
+          },
+          {
+            "type": "table",
+            "headers": ["Policy layer", "Content"],
+            "rows": [
+              ["**Swaminathan Commission (NCF 2004-06)**", "Five reports; beyond C2+50: land reform (ceilings-surplus distribution, tenancy), water (irrigation rights), credit-insurance universalisation, **knowledge (KVK revival)**, quality-trade protection, the **'net take-home income' focus** — read it as a farmer-welfare charter, not one formula; Swaminathan's Bharat Ratna (2024) renewed its salience"],
+              ["**Agriculture policy architecture**", "NPF 2007 (the standing national policy), doubling-farmers'-income framework (Dalwai committee's seven sources), state agri-budgets' rise, **the federal question — agriculture as State subject with central scheme-weight**"],
+              ["**Rainbow Revolution**", "The umbrella of colour-coded revolutions: **Green (foodgrain), White (milk), Blue (fish), Yellow (oilseeds — TMO 1986's success-then-import-slide; NMEO's retry), Golden (horticulture/honey), Silver (eggs), Pink (prawns/meat-onion), Red (tomato-meat), Grey (fertiliser), Brown (cocoa/non-conventional)** — the integrated vision: **balanced growth across sub-sectors** rather than cereal monoculture; India's actuals — White & Blue delivered (No.1 milk; No.2-3 fish), Yellow's import dependence (~55-60% edible oil) the standing failure"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Evaluation — the MSP debate matured",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**For legal MSP**: floor certainty enabling diversification (if extended to pulses-millets), monopsony correction, the C2 equity claim; **against**: fiscal-market distortions (cereal lock-in's water bill), WTO amber-box limits, implementation impossibility across 23 crops' full marketed surplus; **the synthesis positions** — deficiency payments (PDPS), assured procurement for DIVERSIFICATION crops, income support (PM-KISAN-style) as the transfer-efficient floor: state all three lanes.",
+              "**Rainbow's strategic reading**: the revolutions succeeded where **value chains + institutions** existed (dairy's Anand; aqua's hatchery-feed-export chain — AP's blue wing) and failed where price policy fought agronomy (oilseeds vs cheap palm imports) — revolutions are systems, not slogans.",
+              "**AP register**: paddy procurement via RBK-linked centres (the MSP machine localised), chilli-tobacco outside MSP's comfort (price-crash exhibits), aqua as the Blue Revolution's engine room, oil-palm as Yellow's plantation answer (85% national share) — the state touches every colour."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Price policy] --> B[MSP 22 crops - CACP]\n  B --> C[Effective where procured - rice-wheat]\n  B --> D[A2+FL times 1.5 vs Swaminathan C2+50]\n  A --> E[PM-AASHA: PSS, PDPS, PSF]\n  F[Swaminathan NCF: income, land, water, credit charter] --> G[Farmer-welfare frame]\n  H[Rainbow Revolution: colour-coded balance] --> I[Delivered: White, Blue; failed: Yellow]\n  D --> J[Debate lanes: legal MSP, deficiency pay, income support]\n  I --> K[Systems, not slogans]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Cost-concept ladder (A2/A2+FL/C2) + the 1.5x-vs-C2+50 gap + PM-AASHA's three windows + NCF-as-charter + the colour table with delivered/failed verdicts.",
+              "The three-lane MSP synthesis (legal floor / deficiency payment / income transfer) is the mature-answer marker."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'MSP is a floor only where the government stands on it' — then the cost-concept ladder and the three reform lanes; for Rainbow, one delivered colour and one failed colour with reasons beats listing ten."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "MSP: **22 crops** (14 kharif, 6 rabi, 2 commercial) + **FRP for sugarcane**; recommender — **CACP**; sugarcane's FRP via CCEA.",
+      "Cost concepts: **A2, A2+FL, C2**; policy floor (2018): **MSP ≥ 1.5 × A2+FL**; **Swaminathan/NCF asked C2 + 50%**.",
+      "**PM-AASHA (2018)**: Price Support (procurement), **Price Deficiency Payment (MP's Bhavantar pilot)**, private-procurement pilot; Price Stabilisation Fund for horticulture.",
+      "**NCF (2004-06, five reports)** — 'Serving Farmers and Saving Farming'; net-income focus; **M.S. Swaminathan awarded Bharat Ratna 2024**.",
+      "Rainbow colours: **White-milk (No.1), Blue-fish (No.2-3), Yellow-oilseeds (import ~55-60%), Golden-horticulture, Silver-eggs, Pink-prawn/onion**.",
+      "**Technology Mission on Oilseeds (1986)** briefly neared self-sufficiency; palm-import cheapness undid it — NMEO-OP the retry (AP's 85% share).",
+      "Rice-wheat procurement ~40-50% of output; pulses-oilseeds procurement thin — MSP's effectiveness gradient."
+    ],
+    "mainsAngles": [
+      "A floor only where the state stands on it — audit MSP's design, coverage and effectiveness gradient.",
+      "C2 plus fifty — evaluate the Swaminathan formula debate and the three reform lanes beyond it.",
+      "Read the NCF as a welfare charter, not a price formula — its land-water-credit-knowledge agenda today.",
+      "Revolutions are systems, not slogans — explain Rainbow's delivered and failed colours through value-chain logic.",
+      "AP touches every colour — from RBK paddy procurement to the Blue engine and Yellow's oil-palm answer: synthesise."
+    ],
+    "glossary": [
+      { "term": "CACP", "definition": "Commission for Agricultural Costs & Prices — the MSP-recommending body (non-statutory)." },
+      { "term": "C2 cost", "definition": "Comprehensive cost including imputed family labour, land rent and capital interest — the Swaminathan formula's base." },
+      { "term": "Price Deficiency Payment", "definition": "Paying farmers the MSP-market gap without physical procurement — Bhavantar's model, PM-AASHA's window." },
+      { "term": "FRP", "definition": "Fair & Remunerative Price — sugarcane's statutory mill-payable floor (distinct from MSP mechanics)." },
+      { "term": "Amber box", "definition": "WTO's trade-distorting support category with de-minimis caps — the legal shadow over open-ended MSP procurement." },
+      { "term": "Rainbow Revolution", "definition": "The umbrella call for balanced revolutions across all farm sub-sectors — beyond cereal-centric growth." }
+    ]
+  }
+]
