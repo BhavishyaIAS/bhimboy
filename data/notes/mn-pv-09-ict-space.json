@@ -1,0 +1,598 @@
+[
+  {
+    "code": "MN-PV-I-006",
+    "sections": [
+      {
+        "heading": "ICT — importance, advantages, challenges",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**ICT** (Information & Communication Technology) is the convergence of computing, telecom and content into a **general-purpose technology** — one that, like electricity, reshapes every sector rather than forming one. Its importance: ICT is a **force multiplier for development** — compressing distance (telemedicine-tele-education), disintermediating rent-seekers (DBT-e-governance), and enabling scale at near-zero marginal cost (a billion on UPI). For India specifically, ICT is both an **export engine** (IT-BPM ~$250+ bn revenue, ~5 mn jobs, ~7-8% of GDP) and a **governance substrate** (Digital India-DPI)."
+          },
+          {
+            "type": "table",
+            "headers": ["Advantages", "Challenges"],
+            "rows": [
+              ["Access at scale — services in the pocket (banking, health, learning, markets)", "**Digital divide** — device/data/literacy gaps by income, gender (~30-40% rural gender gap), age, geography, language"],
+              ["Efficiency & transparency — audit trails, faceless delivery, ~₹3.5 lakh-cr DBT savings claim", "**Exclusion by authentication** — biometric failures denying entitlements (the IG-025 file)"],
+              ["Economic opportunity — IT exports, gig/platform work, startups, GCCs", "**Cyber risk** — fraud (~85% of cybercrime), ransomware, data breaches, deepfakes (LII-044)"],
+              ["Empowerment — RTI-portals, grievance redress, participation (MyGov)", "**Privacy-surveillance** — DPDP-2023's balance; state and platform data power"],
+              ["Innovation platform — DPI as public rails for private innovation", "**Concentration & dependence** — Big-Tech platform power; hardware/compute import reliance; e-waste"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The balanced reading — and AP hook",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The double-edge thesis**: every ICT advantage has a shadow — access creates divides, efficiency enables surveillance, opportunity concentrates power; policy's job is to **maximise inclusion while managing the shadows** (universal-service funds, digital literacy, data protection, competition, offline fallbacks).",
+              "**The bridging agenda**: BharatNet (rural fibre), affordable data (Jio-effect), vernacular interfaces (Bhashini), assisted-access (CSCs, secretariats, banking correspondents), and design-for-the-last-user (voice-first, offline-capable) — 'the last user must design the first interface'.",
+              "**AP hook**: the APSFL fibre grid, Mee-Seva/secretariat assisted-access model, Vizag's IT-data ambitions, and the DBT-fraud tension (inclusion's security tax) — AP as the ICT double-edge in one state."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[ICT - general-purpose technology] --> B[Advantages: access, efficiency, opportunity, empowerment]\n  A --> C[Challenges: divide, exclusion, cyber-risk, privacy, concentration]\n  B --> D{Policy's job}\n  C --> D\n  D --> E[Maximise inclusion]\n  D --> F[Manage the shadows]\n  E --> G[BharatNet, cheap data, vernacular, assisted access]\n  F --> H[Data protection, competition, offline fallback]\n  G --> I[ICT for development]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Define ICT as a general-purpose technology + the advantages-challenges table + the double-edge thesis + the bridging agenda.",
+              "The 'every advantage has a shadow' framing is what separates analysis from a benefits list."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'ICT is electricity for the information age — a general-purpose technology' — then argue the double edge; the last-user design principle is the memorable close."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**ICT as a general-purpose technology** — economy-wide enabler like electricity, not a single sector.",
+      "IT-BPM industry: ~**$250+ bn revenue, ~5.4 million direct jobs, ~7-8% of GDP**.",
+      "**Digital divide** dimensions: access, affordability, ability (literacy), and language/content.",
+      "Rural gender gap in mobile-internet use ~**30-40%** (varying estimates).",
+      "**Universal Service Obligation Fund (USOF)** — funds rural telecom/BharatNet from levy on operators.",
+      "**Common Service Centres (CSCs)** — assisted-digital-access points at village level.",
+      "DBT cumulative savings claimed ~**₹3.5 lakh crore**; cyber-fraud ~85% of reported cybercrime."
+    ],
+    "mainsAngles": [
+      "ICT is a general-purpose technology — establish its development importance and the double edge of every advantage.",
+      "The digital divide is the new inequality — dissect its dimensions and the bridging agenda.",
+      "Design for the last user — argue inclusion-first ICT with vernacular, voice and offline fallbacks.",
+      "Efficiency enables surveillance — balance ICT's transparency gains against privacy and concentration risks.",
+      "AP is the ICT double-edge in one state — evaluate its fibre grid, assisted access and DBT-fraud tension."
+    ],
+    "glossary": [
+      { "term": "General-purpose technology", "definition": "A technology that transforms all sectors (electricity, ICT) rather than constituting one — development's multiplier." },
+      { "term": "Digital divide", "definition": "Unequal access to and ability with ICT across income, gender, age, geography and language." },
+      { "term": "Universal Service Obligation Fund", "definition": "The operator-levy fund financing rural and remote telecom access (BharatNet)." },
+      { "term": "Assisted digital access", "definition": "Human-intermediated ICT services (CSCs, secretariats) for those who can't self-serve — inclusion's bridge." },
+      { "term": "Exclusion by authentication", "definition": "Denial of entitlements when biometric/digital verification fails — ICT's inclusion paradox." },
+      { "term": "Platform power", "definition": "The market and data dominance of large digital intermediaries — the concentration challenge of ICT." }
+    ]
+  },
+  {
+    "code": "MN-PV-I-007",
+    "sections": [
+      {
+        "heading": "E-governance in India — models and maturity",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "E-governance = using ICT to make government **SMART (Simple, Moral, Accountable, Responsive, Transparent)**. Interaction types: **G2C** (citizen services), **G2B** (business/regulatory), **G2G** (inter-agency), **G2E** (employees). Maturity ladder: **presence → interaction → transaction → transformation** (integrated, proactive service). India's journey (the GBI-021 file's ICT face): computerisation → **NeGP (2006, 31 Mission-Mode Projects)** → **Digital India (2015)** with the **India Stack (JAM + Aadhaar-UPI-DigiLocker-AA)** → the current transformation phase (proactive, DBT-saturated, DPI-based)."
+          },
+          {
+            "type": "table",
+            "headers": ["Flagship", "Function", "Reach"],
+            "rows": [
+              ["**DBT + PFMS**", "Leak-proof benefit transfer", "~₹3.5 lakh-cr cumulative savings; ~1,000+ schemes"],
+              ["**UMANG / e-Seva / Mee-Seva**", "Unified service delivery", "2,000+ services; AP's Mee-Seva a pioneer"],
+              ["**GeM**", "Transparent public procurement", "₹4+ lakh-cr GMV; MSE mandates"],
+              ["**e-Courts / e-Office / DigiLocker**", "Justice, workflow, documents", "Virtual hearings normalised; paperless secretariats"],
+              ["**CPGRAMS / Spandana**", "Grievance redress with timelines", "Centre's + AP's state platform"],
+              ["**API Setu / DIKSHA / eSanjeevani**", "Interoperability, education, health", "DPI as delivery rails"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The maturity gap — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Success factors (the 2nd ARC's e-gov report)**: process re-engineering BEFORE digitisation (digitise the reformed process, not the broken one), connectivity + capacity + change management, interoperability (API-based, not siloed portals), and citizen-centricity (design from the user in).",
+              "**The persistent gaps**: last-mile connectivity-literacy, exclusion-by-authentication, inter-departmental silos (integration the hardest mile), data protection (DPDP implementation), and the digital-divide-widens-inequality risk — e-governance can exclude the very poorest it means to serve unless assisted-access and offline fallbacks exist.",
+              "**The transformation frontier**: proactive/anticipatory governance (benefits without applications — 'presumptive eligibility'), whole-of-government single-view (the account-aggregator-for-government idea), AI-assisted delivery (Bhashini-voice, chatbots), and federated data with privacy — the next maturity rung.",
+              "**AP hook**: the state pioneered transactional e-governance (e-Seva 2001, CARD, Mee-Seva) and now runs assisted-access-at-scale via secretariats + volunteers — arguably India's most physically-intermediated digital-government model (the GBI-021 file)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[E-governance ladder] --> B[Presence]\n  B --> C[Interaction]\n  C --> D[Transaction - DBT, GeM, Mee-Seva]\n  D --> E[Transformation - proactive, integrated]\n  F[Success: reengineer, connect, capacity, interoperate] --> D\n  G[Gaps: last mile, exclusion, silos, privacy] --> E\n  E --> H[Frontier: anticipatory, AI-assisted, single-view]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "SMART + G2C/B/G/E + the four-rung maturity ladder + flagship table + success-gaps-frontier; cross-reference GBI-021 rather than repeat.",
+              "'Reengineer before you digitise' is the 2nd-ARC principle that anchors any e-governance answer."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Place every flagship on the maturity ladder (transaction vs transformation) — showing where India IS and where it's GOING beats listing schemes; AP's assisted-access model is the state differentiator."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**SMART governance**: Simple, Moral, Accountable, Responsive, Transparent.",
+      "Interaction types: **G2C, G2B, G2G, G2E**; maturity: presence → interaction → transaction → transformation.",
+      "**NeGP (2006)**: 27→31 Mission-Mode Projects; **Digital India (1 July 2015)**.",
+      "**India Stack**: identity (Aadhaar), payments (UPI), data (DigiLocker/Account Aggregator).",
+      "**AP firsts**: e-Seva (2001), CARD (registration, 1998), **Mee-Seva (2011)** — pioneering transactional e-governance.",
+      "**CPGRAMS** (centre) & **Spandana** (AP) — grievance-redress platforms.",
+      "**2nd ARC 11th Report ('Promoting e-Governance')** — reengineer-before-digitise principle."
+    ],
+    "mainsAngles": [
+      "Reengineer before you digitise — apply the 2nd ARC principle to India's e-governance journey.",
+      "Place India's flagships on the maturity ladder — from transaction to the transformation frontier.",
+      "E-governance can exclude the poorest it serves — confront the last-mile and authentication gaps.",
+      "Anticipatory governance is the next rung — argue for presumptive-eligibility, single-view delivery.",
+      "AP built the most intermediated digital government — evaluate the secretariat-volunteer assisted-access model."
+    ],
+    "glossary": [
+      { "term": "SMART governance", "definition": "Simple, Moral, Accountable, Responsive, Transparent — e-governance's objective set." },
+      { "term": "Mission-Mode Project", "definition": "An individually-monitored NeGP e-governance project with defined services and timelines." },
+      { "term": "Transformation (e-gov maturity)", "definition": "The highest rung — integrated, proactive, citizen-centric service, beyond mere online transactions." },
+      { "term": "Interoperability", "definition": "API-based data/service exchange across departments — the antidote to portal silos." },
+      { "term": "Anticipatory governance", "definition": "Delivering entitlements proactively on presumptive eligibility, without citizen application." },
+      { "term": "Assisted-access model", "definition": "Human-intermediated digital delivery (CSCs, AP secretariats) reaching those who can't self-serve." }
+    ]
+  },
+  {
+    "code": "MN-PV-I-008",
+    "sections": [
+      {
+        "heading": "Cybercrime and security policy — the S&T-paper framing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "(The legal side is LII-044; THIS note frames cyber as a **security-and-technology** question.) Cybercrime taxonomy: **against individuals** (fraud, identity theft, stalking, CSAM), **against property** (ransomware, IP theft, financial fraud — ~85% of India's cybercrime), **against organisations/state** (critical-infrastructure attacks, espionage, hacktivism), and the **AI-era escalation** (deepfakes, automated phishing, adversarial ML). The security stack must span **prevention (hygiene, zero-trust architecture), detection (SOCs, threat intel), response (CERT-In's 6-hour reporting), and resilience (backups, incident recovery)** — the NIST-style lifecycle."
+          },
+          {
+            "type": "table",
+            "headers": ["Institutional & policy architecture", "Role"],
+            "rows": [
+              ["**CERT-In**", "National incident response; 6-hour breach reporting (2022); advisories, drills (Cyber Suraksha)"],
+              ["**NCIIPC** (under NTRO)", "Protects Critical Information Infrastructure (power, banking, telecom, transport)"],
+              ["**I4C** (MHA)", "Cybercrime coordination; **1930 helpline, cybercrime.gov.in**, Cyber Commandos, Pratibimb/Samanvaya"],
+              ["**National Cyber Security Policy 2013**", "The foundational (now dated) policy; the **National Cyber Security Strategy** long-awaited (Lt Gen Pant panel)"],
+              ["**DPDP Act 2023 + IT Rules 2021**", "Data protection + intermediary due-diligence — the governance layer"],
+              ["**Defence Cyber Agency / CDS structures**", "Military cyber posture; offensive-defensive doctrine debates"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The strategic challenges — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The attribution-and-deterrence problem**: cyber-attacks are hard to attribute (proxies, false flags) and hard to deter (no clear red lines) — unlike nuclear deterrence; state-sponsored threats (grid-probing reports, espionage) blur crime and warfare; the answer — resilience over deterrence, plus norms (the UN GGE/OEWG processes, India's cyber-norms diplomacy).",
+              "**The capacity-and-talent gap**: SOC-analyst shortages, forensic capacity in districts, the digital-literacy floor (the human firewall), and public-private info-sharing (critical infra is ~mostly private) — capacity is the binding constraint, not policy.",
+              "**The sovereignty-liberty-openness trilemma**: data localisation vs open internet, surveillance (Sec 69) vs privacy (Puttaswamy), encryption vs traceability — every cyber-security measure trades against a value; frame each as a balance (the LII-044 file).",
+              "**AP hook**: cyber-fraud victimisation across the DBT-banked population, AP's cybercrime police stations + Disha-app, Vizag's data-centre stakes (NCIIPC-grade), and secretariat digital-literacy drives — inclusion's security tax localised."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Cyber threats: fraud, ransomware, espionage, deepfakes] --> B[Security lifecycle]\n  B --> C[Prevent: hygiene, zero-trust]\n  B --> D[Detect: SOC, CERT-In]\n  B --> E[Respond: I4C, 1930]\n  B --> F[Resilience: backups, recovery]\n  G[Challenges] --> H[Attribution and deterrence]\n  G --> I[Capacity and talent]\n  G --> J[Sovereignty-liberty-openness trilemma]\n  H --> K[Answer: resilience + norms + capacity]\n  I --> K\n  J --> K"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Cybercrime taxonomy + the security lifecycle + institutional table + the three strategic challenges (attribution, capacity, trilemma).",
+              "Frame cyber-security as resilience-over-deterrence — the strategic insight this S&T theme wants (vs LII-044's legal jurisdiction focus)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'You cannot deter what you cannot attribute — so build resilience, not just walls' — the strategic thesis; the National Cyber Security Strategy's long delay is the policy-gap fact to cite."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**CERT-In** — national incident-response; **6-hour breach-reporting mandate (2022)**.",
+      "**NCIIPC** (National Critical Information Infrastructure Protection Centre) — under NTRO; guards CII.",
+      "**I4C (2020)** — MHA cybercrime coordination; **helpline 1930**, national reporting portal; Cyber Commandos.",
+      "**National Cyber Security Policy 2013** — foundational; the **National Cyber Security Strategy** remains awaited.",
+      "Financial fraud ~**85%** of reported cybercrime; 'digital arrest' scams the 2024-25 surge.",
+      "**Zero-trust architecture** — 'never trust, always verify' security model.",
+      "UN cyber-norms processes: **GGE and OEWG**; India engages on responsible state behaviour in cyberspace."
+    ],
+    "mainsAngles": [
+      "You cannot deter what you cannot attribute — argue resilience-first cyber-security strategy for India.",
+      "Capacity, not policy, is the binding constraint — assess India's SOC-forensic-talent gaps.",
+      "Every cyber measure trades against a value — analyse the sovereignty-liberty-openness trilemma.",
+      "Critical infrastructure is mostly private — design the public-private cyber-defence compact.",
+      "Inclusion has a security tax — evaluate cyber-fraud against India's digital-inclusion gains."
+    ],
+    "glossary": [
+      { "term": "Critical Information Infrastructure", "definition": "Systems whose disruption debilitates national security-economy-health (power, banking, telecom) — NCIIPC's charge." },
+      { "term": "Zero-trust architecture", "definition": "A security model verifying every access request regardless of origin — 'never trust, always verify'." },
+      { "term": "Attribution problem", "definition": "The difficulty of reliably identifying a cyber-attacker — the reason deterrence works poorly in cyberspace." },
+      { "term": "SOC", "definition": "Security Operations Centre — the monitoring-detection hub of an organisation's cyber defence." },
+      { "term": "Cyber resilience", "definition": "The capacity to withstand, recover from and adapt to attacks — the strategy where deterrence fails." },
+      { "term": "Ransomware", "definition": "Malware encrypting victims' data for extortion — a dominant organisational cyber threat (AIIMS 2022)." }
+    ]
+  },
+  {
+    "code": "MN-PV-I-009",
+    "sections": [
+      {
+        "heading": "GoI IT policy and IT development — India and AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's IT-policy arc: **liberalisation (1991) → STPI scheme (1991, export-oriented software parks — the Y2K-and-services boom's launchpad) → IT Act 2000 (legal foundation) → the services-export superpower (~$200 bn IT exports; ~55% of the global sourcing market) → Digital India (2015) → the DPI-and-emerging-tech era (National Policy on Software Products 2019, National Policy on Electronics 2019, IndiaAI, Semicon, DPDP 2023, the Digital India Act successor to IT-2000 in the works)**. The shift: from **BODY-shopping to VALUE-shopping** — from labour-arbitrage services to products, platforms, GCCs, deep-tech and DPI-as-export."
+          },
+          {
+            "type": "table",
+            "headers": ["IT development in AP (the state focus)", "Content"],
+            "rows": [
+              ["Historical", "Undivided AP's Hyderabad = 'Cyberabad' (HITEC City, ISB, the second IT hub after Bengaluru) — **but Hyderabad went to Telangana in 2014**: the bifurcation IT-loss (RMA-013's file)"],
+              ["Residual-AP rebuild", "**Visakhapatnam as the IT-anchor** (fintech-valley pitch, data centres, Millennium towers, IT SEZ), **Tirupati-Sri City electronics** (Foxconn-era units, mobile assembly), Kopparthi electronics hub (Rayalaseema), IT investment regions"],
+              ["Digital-governance IT", "**APSFL fibre grid** (pioneering state FTTH), Real-Time Governance Centre, Mee-Seva, secretariat-DBT rails, e-crop/land-resurvey digital stack"],
+              ["Policy", "AP IT & electronics policies (data-centre incentives, IT-SEZ concessions), skilling missions, and the coast-plus-power pitch for data centres (firm-green-power advantage)"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Reading the arc — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The national maturation thesis**: India climbed the value chain from **maintenance → development → R&D/GCCs → products/DPI** — but the product-and-IP gap persists (services-heavy, product-light); the emerging-tech policies (electronics, software products, AI, semicon) are the attempt to move from **the world's back-office to a tech-product economy**.",
+              "**The AP-specific story**: bifurcation cost the state its IT crown (Hyderabad); the rebuild is genuinely harder (no metropolis) but leans on Vizag's coast-data advantage, Tirupati's electronics, and firm-green power as a data-centre pitch — a from-scratch IT strategy, honestly assessed.",
+              "**Craft**: national policy arc (STPI → IT Act → Digital India → emerging-tech policies) + the body-shop-to-value-shop shift + the AP rebuild-after-Hyderabad story."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[1991 liberalisation + STPI] --> B[IT Act 2000]\n  B --> C[Services superpower - 200 bn exports]\n  C --> D[Digital India 2015]\n  D --> E[Emerging-tech policies: electronics, software products, AI, semicon]\n  E --> F[Body-shop to value-shop shift]\n  G[AP: Cyberabad] --> H[Bifurcation - Hyderabad to Telangana]\n  H --> I[Rebuild: Vizag data, Tirupati electronics, APSFL]\n  I --> J[Coast + firm-green power pitch]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "National policy arc + the body-shop-to-value-shop maturation + the AP rebuild-after-bifurcation story (Vizag-Tirupati-APSFL).",
+              "The honest bifurcation IT-loss and coast-data-power rebuild is the state differentiator."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'India moved from the world's back-office toward a product economy; AP moved from Cyberabad's loss toward a coastal data-and-electronics rebuild' — the two-level thesis that pairs national and state cleanly."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**STPI (Software Technology Parks of India, 1991)** — export-oriented software-park scheme; the services-boom launchpad.",
+      "IT-BPM exports ~**$200 bn**; India ~**55% of the global outsourcing/sourcing market**.",
+      "**National Policy on Software Products 2019** & **National Policy on Electronics 2019** — the product-push policies.",
+      "**Digital India Act** — the proposed successor to the IT Act 2000.",
+      "**Hyderabad ('Cyberabad'/HITEC City)** — undivided AP's IT hub; went to **Telangana (2014)**.",
+      "Residual AP's IT anchors: **Visakhapatnam** (data centres, fintech), **Sri City-Tirupati** (electronics), **Kopparthi** (Rayalaseema electronics).",
+      "**APSFL** — Andhra Pradesh State FiberNet — pioneering state-owned FTTH."
+    ],
+    "mainsAngles": [
+      "From body-shop to value-shop — trace India's IT-policy maturation and the product-IP gap it still faces.",
+      "Emerging-tech policies aim to end the back-office identity — assess electronics, software-products, AI and semicon policy.",
+      "Bifurcation cost AP its IT crown — evaluate the Vizag-Tirupati rebuild's realism.",
+      "Firm-green power is a data-centre pitch — analyse AP's coast-plus-energy IT strategy.",
+      "STPI to Digital India — periodise the enablers of India's software superpower."
+    ],
+    "glossary": [
+      { "term": "STPI", "definition": "Software Technology Parks of India (1991) — the export-oriented scheme that launched India's software-services boom." },
+      { "term": "Body-shopping", "definition": "Supplying labour (programmers) for offshore/onsite work — the low-value-added base of early Indian IT." },
+      { "term": "Global Capability Centre", "definition": "An MNC's captive offshore tech/R&D hub — the value-chain climb from services to capability." },
+      { "term": "Digital India Act", "definition": "The proposed successor to the IT Act 2000, updating intermediary, AI and data rules." },
+      { "term": "Cyberabad", "definition": "Hyderabad's IT identity (HITEC City) — undivided AP's tech crown, lost to Telangana in 2014." },
+      { "term": "APSFL", "definition": "Andhra Pradesh State FiberNet Ltd — the pioneering state-owned fibre-to-home network." }
+    ]
+  },
+  {
+    "code": "MN-PV-SP-010",
+    "sections": [
+      {
+        "heading": "The Indian space programme — past, present, future",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Era", "Milestones"],
+            "rows": [
+              ["**Past (foundations)**", "**Vikram Sarabhai's vision (1962 INCOSPAR → ISRO 1969)**; Thumba sounding rockets; **Aryabhata (1975, first satellite)**; SLV-3 (1980, Kalam); INSAT & IRS operational series; PSLV's 1990s maturation"],
+              ["**Present (capability)**", "**PSLV** (the workhorse, 430+ foreign sats), **GSLV Mk II & LVM3** (heavy-lift, cryogenic mastery), **Chandrayaan-1 (2008, water on Moon), Mangalyaan (2014, Mars first-try), Chandrayaan-2/3 (2023 south-pole landing), Aditya-L1 (solar), NavIC, XPoSat**; commercialisation — **IN-SPACe (2020, private-sector enabler) + NSIL (commercial arm) + a booming private space startup ecosystem (Skyroot, Agnikul launched)**"],
+              ["**Future**", "**Gaganyaan (crewed), Bharatiya Antariksh Station (space station by 2035), crewed Moon landing (2040 goal), Chandrayaan-4 (sample return), Venus (Shukrayaan) & Mars orbiter-2, NISAR (with NASA), reusable launch vehicles, semi-cryogenic engines, space-economy target ~$44 bn by 2033**"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Sriharikota (SDSC-SHAR, AP)** is the launch heart of ALL of this — every ISRO orbital mission lifts off from AP soil: the state-paper anchor. The programme's **distinctive DNA**: application-first (Sarabhai — 'not fantasy but solving real problems'), frugal (Mangalyaan's ~$74 mn), and self-reliant (cryogenic denial → indigenous mastery)."
+          }
+        ]
+      },
+      {
+        "heading": "ISRO's activities — the application spine (and craft)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Launch services**: PSLV/LVM3/SSLV — domestic + commercial (NSIL's foreign launches earning forex); reusable-launch and semi-cryogenic under development.",
+              "**Applications** (the SP-011 file): communication (GSAT/INSAT), earth observation (Cartosat-Oceansat-RISAT-Resourcesat), navigation (NavIC), meteorology (INSAT-3D), disaster support — space serving governance-agriculture-fisheries-weather.",
+              "**Science**: Chandrayaan (lunar), Mangalyaan (Mars), Aditya-L1 (Sun), AstroSat/XPoSat (astronomy), upcoming planetary missions — curiosity riding the applications backbone.",
+              "**Reform-era**: **IN-SPACe** (single-window promoter for private space), **NSIL** (demand-driven commercial arm), the **2023 Space Policy** (private participation across the value chain), FDI liberalisation (2024) — from ISRO-does-everything to ISRO-enables-an-industry.",
+              "**Craft**: past-present-future table + the application-first-frugal-self-reliant DNA + the Sriharikota anchor + the privatisation reform."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[ISRO: Sarabhai vision 1969] --> B[Past: Aryabhata, SLV, PSLV]\n  B --> C[Present: Chandrayaan-3, Mangalyaan, Aditya-L1, NavIC]\n  C --> D[Future: Gaganyaan, space station 2035, Moon 2040]\n  A --> E[DNA: application-first, frugal, self-reliant]\n  F[Reform: IN-SPACe, NSIL, 2023 policy] --> G[Private space industry]\n  H[Sriharikota SDSC - AP] --> C\n  E --> C"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Past-present-future table + application-first DNA + IN-SPACe/NSIL privatisation + the Sriharikota anchor.",
+              "Numbers: ISRO 1969, Mangalyaan $74 mn, Chandrayaan-3 2023, space economy $44 bn by 2033, station 2035, Moon 2040."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Sarabhai's 'not fantasy but solving real problems' quote frames ISRO's application-first DNA; end on the IN-SPACe reform — the shift from monopoly agency to industry enabler is the current story."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**INCOSPAR (1962) → ISRO (15 Aug 1969)**; **Vikram Sarabhai** the founder; **Aryabhata (1975)** the first satellite.",
+      "**Chandrayaan-1 (2008)** found lunar water; **Mangalyaan (2014)** — Mars on the first attempt, ~$74 mn; **Chandrayaan-3 (2023)** — south-pole soft landing.",
+      "**Aditya-L1** — solar observatory at Lagrange-1; **NavIC** — regional navigation; **XPoSat** — X-ray polarimetry.",
+      "**IN-SPACe (2020)** — private-sector promoter; **NSIL** — ISRO's commercial arm; **Indian Space Policy 2023** opened the value chain.",
+      "**Gaganyaan** — maiden human spaceflight; **Bharatiya Antariksha Station by 2035; crewed Moon landing by 2040** (announced goals).",
+      "**SDSC-SHAR Sriharikota (AP)** — India's only orbital spaceport; **PSLV** has launched 430+ foreign satellites.",
+      "Space-economy target ~**$44 bn by 2033**; private startups Skyroot (Vikram-S) & Agnikul (Agnibaan) reached space."
+    ],
+    "mainsAngles": [
+      "Application-first, frugal, self-reliant — characterise the Indian space programme's distinctive DNA.",
+      "From ISRO-does-everything to ISRO-enables-an-industry — assess the IN-SPACe/NSIL privatisation reform.",
+      "Trace ISRO past-present-future from Aryabhata to the 2035 space station and 2040 Moon goal.",
+      "Cryogenic denial birthed cryogenic mastery — argue self-reliance as the programme's forcing function.",
+      "Every Indian mission launches from AP — evaluate Sriharikota's national and state significance."
+    ],
+    "glossary": [
+      { "term": "PSLV", "definition": "Polar Satellite Launch Vehicle — ISRO's reliable workhorse and commercial launcher." },
+      { "term": "LVM3 / GSLV Mk III", "definition": "India's heavy-lift launcher with indigenous cryogenic upper stage — Chandrayaan-3 and Gaganyaan's ride." },
+      { "term": "IN-SPACe", "definition": "The 2020 single-window body promoting and authorising private space activity — the industry enabler." },
+      { "term": "NSIL", "definition": "NewSpace India Limited — ISRO's commercial arm running demand-driven launches and satellites." },
+      { "term": "NavIC", "definition": "Navigation with Indian Constellation — the indigenous regional positioning system." },
+      { "term": "Bharatiya Antariksha Station", "definition": "India's planned space station (by 2035) — the crewed-programme's next horizon." }
+    ]
+  },
+  {
+    "code": "MN-PV-SP-011",
+    "sections": [
+      {
+        "heading": "Satellite applications — space in daily service",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Domain", "Satellite systems", "Applications"],
+            "rows": [
+              ["**Communication**", "**INSAT/GSAT series** (geostationary comsats)", "TV broadcasting, telephony/VSAT, rural connectivity, **tele-education (EDUSAT-era, DIKSHA backhaul), tele-medicine, emergency comms** during disasters"],
+              ["**Weather forecasting**", "**INSAT-3D/3DR** (imaging + sounding), **Oceansat, Meteosat data**, Scatsat", "Cyclone tracking (the zero-casualty backbone), monsoon monitoring, agro-met advisories, aviation-marine weather"],
+              ["**Earth observation**", "**Cartosat (mapping), Resourcesat (land-water), RISAT (radar, all-weather), Oceansat (ocean colour)**", "Crop assessment, forest/wetland mapping, urban planning, water resources, disaster damage, coastal-zone monitoring"],
+              ["**Navigation**", "**NavIC (IRNSS)** + GAGAN (GPS augmentation)", "Precision positioning, aviation (GAGAN certified), fisheries (fishermen alerts), transport, disaster relief"],
+              ["**Health & education**", "GSAT-backhaul + EO", "Telemedicine to remote areas, distance learning, epidemic mapping (vector-habitat), health-facility planning"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Development impact — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The Sarabhai logic realised**: satellites were justified from day one as **development tools** — SITE (1975-76, satellite instructional TV to 2,400 villages) was the world's largest sociological space experiment; today's descendants are DIKSHA, eSanjeevani-backhaul, agro-advisories, and the cyclone-warning that saves thousands.",
+              "**Sector-wise value**: agriculture (crop-insurance settlement via EO — the FASAL/KISAN programmes; **AP's e-crop uses satellite-verified sowing**), fisheries (Potential Fishing Zone advisories — INCOIS+satellite, directly serving AP's fishermen), water (reservoir-groundwater monitoring), forestry (fire alerts), disaster (damage assessment, communication restoration), governance (Bhuvan geoportal, asset-mapping under SVAMITVA).",
+              "**The frontier**: high-resolution + AI analytics (change detection at scale), NISAR (ecosystem-ice-deformation), communication constellations for universal broadband, and the private-EO ecosystem (IN-SPACe-enabled) — space applications democratising.",
+              "**AP hook**: PFZ advisories to AP's #1 fishing fleet, e-crop's satellite verification, cyclone-warning's coastal service, and Bhuvan-based governance — space serving AP daily; Sriharikota launches the very satellites that serve the state."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Satellites] --> B[Communication: INSAT-GSAT]\n  A --> C[Weather: INSAT-3D]\n  A --> D[Earth observation: Cartosat, RISAT]\n  A --> E[Navigation: NavIC, GAGAN]\n  B --> F[Tele-education, tele-medicine, emergency comms]\n  C --> G[Cyclone warning - zero casualty]\n  D --> H[Crop, water, forest, disaster mapping]\n  E --> I[Fishermen alerts, aviation, transport]\n  F --> J[Space for development - Sarabhai realised]\n  G --> J\n  H --> J\n  I --> J"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Domain-application table (five domains) + the SITE-to-today development lineage + sector-wise value + AP's fishermen-PFZ and e-crop examples.",
+              "SITE (1975-76) as the founding development-application fact; PFZ advisories are AP's daily space benefit."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Lead with SITE (1975) — satellites were development tools before they were prestige; then the domain table; AP's Potential Fishing Zone advisories to the nation's largest fleet is the perfect state application."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**INSAT/GSAT** — communication (geostationary); **INSAT-3D/3DR** — weather; **Cartosat/Resourcesat/RISAT/Oceansat** — earth observation.",
+      "**NavIC (IRNSS)** — regional navigation; **GAGAN** — GPS augmentation (aviation-certified) — India's satellite-navigation pair.",
+      "**SITE (1975-76)** — Satellite Instructional Television Experiment; ~2,400 villages; the world's largest such experiment.",
+      "**Potential Fishing Zone (PFZ)** advisories — INCOIS + satellite ocean-colour data, serving fishermen (AP's fleet the largest).",
+      "**Bhuvan** — ISRO's geoportal; **SVAMITVA** — drone+satellite village-property mapping.",
+      "**FASAL/KISAN** — satellite-based crop forecasting; **AP's e-crop** uses satellite sowing verification.",
+      "**NISAR (2025, NASA-ISRO)** — dual-band radar for ecosystems, ice and deformation."
+    ],
+    "mainsAngles": [
+      "Satellites were development tools before prestige objects — trace the SITE-to-DIKSHA application lineage.",
+      "Map satellite applications across communication, weather, earth-observation and navigation with development impact.",
+      "Space serves the farmer and the fisherman — evaluate EO-based crop and PFZ services with AP's examples.",
+      "Cyclone warning is a satellite achievement — connect meteorological satellites to the zero-casualty doctrine.",
+      "AI-plus-high-resolution is the EO frontier — assess NISAR and the democratising private-EO ecosystem."
+    ],
+    "glossary": [
+      { "term": "Geostationary satellite", "definition": "A satellite matching Earth's rotation to stay over one point — the basis of communication and continuous weather imaging." },
+      { "term": "Earth observation", "definition": "Satellite remote sensing of land, water and atmosphere — the data behind crop, forest, water and disaster mapping." },
+      { "term": "Potential Fishing Zone", "definition": "Satellite-derived advisories on fish-rich waters — a daily space service to India's (and AP's) fishermen." },
+      { "term": "GAGAN", "definition": "GPS-Aided Geo-Augmented Navigation — India's aviation-grade satellite navigation augmentation." },
+      { "term": "SITE", "definition": "The 1975-76 Satellite Instructional Television Experiment — space's founding development application in India." },
+      { "term": "Bhuvan", "definition": "ISRO's geoportal delivering earth-observation data for governance and planning." }
+    ]
+  },
+  {
+    "code": "MN-PV-SP-012",
+    "sections": [
+      {
+        "heading": "DRDO — India's defence-technology backbone",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Defence Research & Development Organisation (1958)** — ~50+ labs under the Department of Defence R&D — develops indigenous defence systems to reduce import dependence (India was long the world's largest arms importer; DRDO + DPSUs + private defence are the atmanirbhar answer). Its mandate: missiles, aircraft, armaments, electronics-radar, naval systems, life sciences, and strategic systems — 'design-to-deployment' for the armed forces."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "Flagship systems"],
+            "rows": [
+              ["**Missiles (IGMDP legacy)**", "**Agni series (Agni-V ICBM-class, MIRV-tested 2024 'Mission Divyastra'), Prithvi, Akash (SAM), Nag (anti-tank), BrahMos (with Russia), Astra (air-to-air), Pralay, ballistic-missile defence (2-tier)**"],
+              ["**Aeronautics**", "**Tejas LCA** (with HAL), UAVs (Rustom/TAPAS, Netra AEW&C), Kaveri engine (the long struggle)"],
+              ["**Armaments & land**", "**Arjun MBT**, Pinaka multi-barrel rocket, artillery (ATAGS), small arms"],
+              ["**Naval & strategic**", "Sonars, torpedoes, **the nuclear-submarine (Arihant) reactor lineage**, strategic systems"],
+              ["**Electronics-radar-cyber**", "Radars (Swordfish, Arudhra), EW systems, secure comms; **life sciences (DRDO's Covid contributions — 2-DG drug, hospitals)**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — achievements, criticism, reform",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Achievements**: strategic autonomy (missiles-nuclear delivery-BMD), successful platforms (Agni-BrahMos-Akash-Tejas-Pinaka), export enablement (**BrahMos to the Philippines** — the export landmark; India's defence exports crossed ~₹21,000 cr), and crisis R&D (Covid).",
+              "**Criticism (the honest ledger)**: time-cost overruns (Kaveri engine, Tejas's long gestation), the develop-vs-import tension (armed forces' GSQR churn), lab-to-production gaps, and the historically weak private-industry-DRDO-forces triangle — the 'valley of death' in defence.",
+              "**Reform-era**: **corporatisation of the Ordnance Factory Board (2021, into 7 DPSUs)**, positive-indigenisation lists (import bans phased on hundreds of items), **iDEX (startups-in-defence), Defence Industrial Corridors (UP & Tamil Nadu), Technology Development Fund, private-sector opening (DAP-2020's Buy-Indian priority)** — from DRDO-monopoly to a defence-industrial ecosystem.",
+              "**AP hook**: **missile-test ranges and naval assets on the AP coast (Wheeler-adjacent trajectory splashdowns, the Eastern Naval Command at Vizag), Hindustan Shipyard (Vizag — warship/submarine building), and defence-corridor-adjacent aspirations** — AP's defence-tech footprint."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[DRDO 1958 - 50+ labs] --> B[Missiles: Agni, BrahMos, Akash]\n  A --> C[Aeronautics: Tejas, UAVs]\n  A --> D[Land: Arjun, Pinaka]\n  A --> E[Naval-strategic: Arihant reactor, sonars]\n  B --> F[Strategic autonomy + exports]\n  G[Criticism: overruns, lab-to-production] --> H[Reform: OFB corporatisation, iDEX, corridors, indigenisation lists]\n  H --> I[Defence-industrial ecosystem]\n  F --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Domain-flagship table + achievements-criticism-reform triad; the export landmark (BrahMos-Philippines) and OFB-corporatisation are the currency facts.",
+              "AP hook: Eastern Naval Command (Vizag), Hindustan Shipyard, missile trajectories — the state's defence footprint."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Balance is everything on DRDO — pair strategic-autonomy achievements with the honest overrun-and-lab-to-production critique, then the ecosystem reform; Agni-V's MIRV (Mission Divyastra 2024) is the fresh capability fact."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**DRDO founded 1958**; ~50+ labs; under DD R&D, Ministry of Defence.",
+      "**IGMDP (Integrated Guided Missile Development Programme, 1983, A.P.J. Abdul Kalam)**: Prithvi, Agni, Akash, Trishul, Nag.",
+      "**Agni-V** — ICBM-class (~5,000+ km); **MIRV tested 2024 (Mission Divyastra)**; **BrahMos** — Indo-Russian supersonic cruise missile, **exported to the Philippines** (2022 deal, 2024 delivery).",
+      "**Tejas LCA** (DRDO-ADA + HAL); **Arjun MBT**; **Pinaka** MBRL; **Kaveri engine** — the unfinished jet-engine quest.",
+      "**Ordnance Factory Board corporatised (2021) into 7 defence PSUs**; **iDEX** — innovation-for-defence startups.",
+      "**Defence Industrial Corridors** — Uttar Pradesh & Tamil Nadu; defence exports crossed ~**₹21,000 crore**.",
+      "**Eastern Naval Command — Visakhapatnam (AP)**; **Hindustan Shipyard, Vizag** — warship/submarine building."
+    ],
+    "mainsAngles": [
+      "Strategic autonomy is DRDO's core deliverable — assess its missile and nuclear-delivery achievements.",
+      "The lab-to-production valley of death — confront DRDO's overrun-and-integration criticism honestly.",
+      "From monopoly agency to industrial ecosystem — evaluate OFB-corporatisation, iDEX and the corridors.",
+      "BrahMos to the Philippines marks a shift — analyse India's journey from arms importer to exporter.",
+      "AP hosts the Eastern fleet and a shipyard — evaluate the state's defence-technology footprint."
+    ],
+    "glossary": [
+      { "term": "IGMDP", "definition": "Integrated Guided Missile Development Programme (1983, Kalam) — the Prithvi-Agni-Akash-Trishul-Nag missile family." },
+      { "term": "MIRV", "definition": "Multiple Independently-targetable Re-entry Vehicle — a missile carrying several warheads; Agni-V's 2024 capability." },
+      { "term": "Positive indigenisation list", "definition": "Phased import-ban lists forcing domestic sourcing of defence items — atmanirbhar's demand-side tool." },
+      { "term": "iDEX", "definition": "Innovations for Defence Excellence — the startup-engagement scheme for defence technology." },
+      { "term": "Corporatisation (OFB)", "definition": "The 2021 conversion of the Ordnance Factory Board into seven defence PSUs — efficiency and accountability reform." },
+      { "term": "Defence Industrial Corridor", "definition": "Concentrated defence-manufacturing zones (UP, TN) building the private-defence ecosystem." }
+    ]
+  }
+]
