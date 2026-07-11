@@ -1,0 +1,506 @@
+[
+  {
+    "code": "MN-PII-G-083",
+    "sections": [
+      {
+        "heading": "Population movements, distribution & density",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Population geography studies **how people are spread and how they move**. Andhra Pradesh (post-2014, ~**4.9 crore**, ~5th-largest state) shows an **uneven distribution** — dense, fertile **coastal deltas** versus sparse, dry **Rayalaseema and Eastern-Ghat tracts** — shaped by **water, soil, urbanisation and migration**. Its **moderate density**, ageing profile and out-migration are the defining demographic-geographic facts."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "AP profile (Census 2011 basis)"],
+            "rows": [
+              ["**Total population**", "United AP ~8.46 cr; **residuary AP ~4.94 cr** (~5th largest); moderate growth (~9-11% decadal, falling)."],
+              ["**Density**", "~**308/km²** (residuary AP) — below the national average; densest in **coastal deltaic districts (Krishna, W. Godavari)**, sparse in **Rayalaseema & agency areas**."],
+              ["**Distribution**", "**Coastal Andhra** most populous; **Rayalaseema** least; a **river-and-fertility-driven** pattern."],
+              ["**Movements**", "**Rural→urban** migration to Hyderabad (pre-2014), Bengaluru, Chennai, Vizag; seasonal & Gulf (esp. from Rayalaseema/Godavari) migration."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Drivers of distribution and mobility",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Physical determinants of distribution**: **water availability and soil fertility** dominate — the **irrigated Godavari-Krishna deltas** carry the densest rural populations, while **arid Rayalaseema and forested Eastern-Ghat agency areas** are sparse; relief and rainfall (G-074) map directly onto density.",
+              "**Population movements**: AP is a **net out-migration** state — **rural-to-urban** flows to Visakhapatnam, Vijayawada-Guntur (the capital region) and (historically) Hyderabad; **inter-state** flows to Bengaluru/Chennai/Hyderabad; and notable **international (Gulf) migration** from Rayalaseema and coastal districts (remittances).",
+              "**Urbanisation pattern**: ~**30% urban**; a few large centres (Visakhapatnam the largest city, Vijayawada-Guntur conurbation, Tirupati, Nellore, Kurnool) with the **Amaravati capital region** planned as a new growth pole; bifurcation removed Hyderabad, reshaping urban geography.",
+              "**Demographic transition**: AP is **relatively advanced in the transition** — low fertility (below replacement), **an ageing population** and slowing growth — with policy implications (labour, elderly care) explored in G-084."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP population] --> B[Distribution - dense coastal deltas]\n  A --> C[Sparse Rayalaseema and agency areas]\n  B --> D[Driven by water and soil fertility]\n  A --> E[Density ~308 per sq km - below national avg]\n  A --> F[Movements]\n  F --> G[Rural to urban - Vizag, Vijayawada]\n  F --> H[Inter-state - Bengaluru, Chennai, Hyderabad]\n  F --> I[International - Gulf migration, remittances]\n  A --> J[Advanced demographic transition - ageing]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Explain the coastal-dense/Rayalaseema-sparse distribution via water & soil, give the density figure (~308), then classify movements (rural-urban, inter-state, Gulf).",
+              "Tie in AP's advanced demographic transition (ageing, below-replacement fertility) and the bifurcation's reshaping of urban geography."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: AP's population map is water-and-soil driven — dense Godavari-Krishna deltas vs sparse Rayalaseema/agency; density ~308/km² (below national). Classify movements (rural-urban, inter-state, Gulf) and note AP's advanced transition (ageing, below-replacement fertility)."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Residuary AP population ~**4.94 crore** (Census 2011); ~5th-largest Indian state.",
+      "Density ~**308/km²** — below the national average (~382).",
+      "Densest districts — **coastal deltaic (Krishna, West Godavari)**; sparsest — **Rayalaseema & Eastern-Ghat agency**.",
+      "AP is a **net out-migration** state — rural-urban, inter-state (Hyderabad/Bengaluru/Chennai) and **Gulf** migration.",
+      "Urbanisation ~**30%**; largest city **Visakhapatnam**; Vijayawada-Guntur conurbation; planned **Amaravati** capital.",
+      "AP has **below-replacement fertility** and an **ageing** population (advanced demographic transition).",
+      "Distribution is chiefly determined by **water availability and soil fertility**."
+    ],
+    "mainsAngles": [
+      "Analyse the factors governing the distribution and density of population in Andhra Pradesh.",
+      "Examine the patterns and causes of population movements from Andhra Pradesh.",
+      "Discuss the impact of the 2014 bifurcation on the urban and demographic geography of AP.",
+      "Assess AP's position in the demographic transition and its policy implications.",
+      "Evaluate the role of Gulf migration and remittances in the AP economy."
+    ],
+    "glossary": [
+      {"term": "Population density", "definition": "The number of persons per unit area (per km²); AP's ~308 is below the national average."},
+      {"term": "Demographic transition", "definition": "The shift from high to low birth and death rates as a society develops; AP is at an advanced (ageing) stage."},
+      {"term": "Out-migration", "definition": "The movement of people out of a region; AP sends migrants to other states and the Gulf."},
+      {"term": "Urbanisation", "definition": "The rising share of population living in towns and cities; ~30% in AP, led by Visakhapatnam and Vijayawada."},
+      {"term": "Agency areas", "definition": "The Scheduled/tribal tracts of the Eastern Ghats, characterised by sparse population and distinct governance (PESA)."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-084",
+    "sections": [
+      {
+        "heading": "Demographics — age, sex, rural & urban composition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **composition** of AP's population — its **age structure, sex ratio, and rural-urban split** — reveals a state in **advanced demographic transition**: a **favourable-but-narrowing working-age share, an ageing tendency, a broadly balanced (even female-surplus) sex ratio, and a still-majority-rural but urbanising society** — the human-resource profile that shapes AP's development choices."
+          },
+          {
+            "type": "table",
+            "headers": ["Indicator", "AP profile (Census 2011)"],
+            "rows": [
+              ["**Sex ratio**", "~**993–997** (favourable, near or above the national ~943) — coastal districts high; a relatively **women-balanced** state."],
+              ["**Age structure**", "Falling child (0-6) share; large working-age cohort (demographic dividend) but **rising elderly share** — AP ageing faster than most states."],
+              ["**Rural-urban**", "~**70% rural / 30% urban**; urbanising steadily; concentrated in a few cities."],
+              ["**Literacy**", "~**67%** (below national); male-female and rural-urban gaps persist."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Composition, dividend and the ageing challenge",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Sex composition (a bright spot)**: AP's **sex ratio (~996) is among India's better**, near/above unity, with a favourable child sex ratio relative to the north — reflecting the southern demographic pattern; but selective concerns persist in pockets.",
+              "**Age structure & the dividend**: a **large working-age population** offers a **demographic dividend**, but AP's **low fertility means the window is closing and the elderly share rising** — an **'ageing before rich' risk** demanding skilling, jobs and elderly-care policy now.",
+              "**Rural-urban composition**: still **~70% rural** (agriculture-dependent), yet **urbanising** around Visakhapatnam, Vijayawada-Guntur (capital region), Tirupati and Nellore; managing **balanced urbanisation** (avoiding one mega-city) is a planning goal, sharpened by the loss of Hyderabad.",
+              "**Human-capital dimension**: **literacy ~67%** (below national) with gender/rural gaps; improving **education, skilling and health** is essential to convert the demographic profile into a dividend — the core policy takeaway."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP demographic composition] --> B[Sex ratio ~996 - favourable]\n  A --> C[Age structure - working-age dividend]\n  C --> D[But ageing fast, elderly share rising]\n  A --> E[Rural 70 pct / Urban 30 pct]\n  E --> F[Urbanising - Vizag, Vijayawada]\n  A --> G[Literacy ~67 pct - below national]\n  D --> H[Policy - skilling, jobs, elderly care]\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Cover the three composition axes (sex ratio ~996, age structure/dividend-vs-ageing, 70:30 rural-urban) plus literacy, with figures.",
+              "Frame the analysis as 'closing demographic dividend + ageing' → skilling/jobs/elderly-care policy; note AP's favourable sex ratio as a positive."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Present AP's composition on three axes — favourable sex ratio (~996), a working-age dividend that is closing as the state ages, and a 70:30 rural-urban split — then argue the policy need to convert the profile into a dividend via skilling, jobs and elderly care."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP **sex ratio ~996** (Census 2011) — better than the national ~943; a women-balanced state.",
+      "**Rural ~70% / urban ~30%**; literacy ~**67%** (below national ~73%).",
+      "AP has a **large working-age population (demographic dividend)** but is **ageing** (rising elderly share).",
+      "**Below-replacement fertility** — advanced demographic transition.",
+      "Child (0-6) population share is **declining**.",
+      "Urban concentration in **Visakhapatnam, Vijayawada-Guntur, Tirupati, Nellore, Kurnool**.",
+      "Policy focus — skilling, jobs, health and elderly care to realise the dividend."
+    ],
+    "mainsAngles": [
+      "Analyse the age, sex and rural-urban composition of Andhra Pradesh's population.",
+      "Assess AP's demographic dividend and the risk of ageing before attaining prosperity.",
+      "Discuss the significance of AP's favourable sex ratio in the southern demographic context.",
+      "Examine the rural-urban transformation of Andhra Pradesh.",
+      "Evaluate the human-capital challenges (literacy, skilling) facing Andhra Pradesh."
+    ],
+    "glossary": [
+      {"term": "Sex ratio", "definition": "The number of females per 1000 males; AP's ~996 is more favourable than the national average."},
+      {"term": "Demographic dividend", "definition": "The growth potential from a large working-age share relative to dependents — a closing window in ageing AP."},
+      {"term": "Age structure", "definition": "The distribution of a population across age groups; AP's shows a shrinking child base and growing elderly share."},
+      {"term": "Child sex ratio", "definition": "Females per 1000 males in the 0-6 age group; a sensitive indicator of gender bias, relatively favourable in AP."},
+      {"term": "Literacy rate", "definition": "The share of population aged 7+ able to read and write; ~67% in AP, below the national average."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-085",
+    "sections": [
+      {
+        "heading": "Social groups — race, caste, tribe, religion & linguistic groups",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "AP's society is a **plural mosaic** of **castes, tribes, religions and linguistic communities**, overwhelmingly **Telugu-speaking and Hindu-majority**, with significant **SC, ST, OBC, Muslim and Christian** populations. Understanding this social composition — its **caste structure, tribal (agency) communities, and religio-linguistic makeup** — is essential to AP's politics, welfare policy and social geography."
+          },
+          {
+            "type": "table",
+            "headers": ["Social axis", "AP composition (Census 2011)"],
+            "rows": [
+              ["**Caste**", "**OBCs** the largest bloc; **SCs ~17%** (Malas, Madigas — the influential Mala-Madiga categorisation issue); dominant landed castes (Kamma, Reddy, Kapu) shape politics."],
+              ["**Tribe (ST)**", "**~5-6%**; Eastern-Ghat 'agency' tribes — **Koya, Konda Reddi, Savara, Chenchu, Yanadi, Yerukula, Sugalis/Lambadas**; PVTGs (Chenchu, Bondo-linked)."],
+              ["**Religion**", "**Hindu ~90%, Muslim ~9-10%, Christian ~1.3%**; strong syncretic/pilgrimage culture (Tirupati)."],
+              ["**Language**", "**Telugu** overwhelming majority; **Urdu** (largest minority language), Tamil/Kannada/Odia border-region minorities, tribal languages (Koya, Savara)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Structure, pluralism and policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**On 'race'**: modern anthropology rejects rigid racial typologies; India/AP populations are a **deep intermixture** — the older classification (Caucasoid/Australoid/etc.) is only of historical interest, with tribal groups often linked to **proto-Australoid** strands; present 'race' cautiously as an outdated frame.",
+              "**Caste structure & mobilisation**: **OBCs form the largest segment**; **SCs (~17%, chiefly Malas & Madigas)** — the **SC sub-categorisation (Madiga/MRPS) demand** is a live AP issue; **dominant peasant castes (Kamma, Reddy, Kapu, Velama)** and the **Kapu-reservation agitation** shape state politics.",
+              "**Tribal communities (agency areas)**: STs (~5-6%) inhabit the **Eastern-Ghat agency** — **Koya, Konda Reddi, Savara, Chenchu (PVTG), Yanadi, Yerukula, Sugalis/Lambadas** — governed under the **Fifth Schedule/PESA/FRA**, with distinct languages, podu cultivation and welfare needs.",
+              "**Religio-linguistic pluralism**: a **Hindu-majority, Telugu-speaking** society with a substantial **Muslim (Urdu) minority** (a Qutb-Shahi cultural legacy — HCOA-053) and a notable **Christian** presence (missionary legacy — HCOI-026); this plurality underpins AP's composite culture and its welfare/minority policy."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP social groups] --> B[Caste - OBC largest, SC ~17 pct]\n  B --> C[SC sub-categorisation - Mala, Madiga]\n  B --> D[Dominant castes - Kamma, Reddy, Kapu]\n  A --> E[Tribes ~5-6 pct - agency areas]\n  E --> F[Koya, Konda Reddi, Chenchu PVTG, Savara]\n  A --> G[Religion - Hindu 90, Muslim 10, Christian]\n  A --> H[Language - Telugu majority, Urdu minority]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Treat 'race' cautiously (outdated frame), then give caste (OBC largest, SC ~17% Mala/Madiga, dominant castes), tribe (agency communities, Chenchu PVTG), religion (Hindu-Muslim-Christian) and language (Telugu-Urdu).",
+              "Connect to live policy — SC sub-categorisation, Kapu reservation, PESA/FRA for tribes, minority welfare."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Handle 'race' as an outdated frame; substantively cover caste (OBC largest, SC ~17% Mala/Madiga, dominant Kamma-Reddy-Kapu), agency tribes (Chenchu PVTG etc.), and religio-linguistic plurality (Hindu-Telugu majority, Urdu/Christian minorities) — link each to a live policy issue."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP religion (2011) — **Hindu ~90%, Muslim ~9-10%, Christian ~1.3%**.",
+      "**Telugu** is the overwhelming majority language; **Urdu** the largest minority language.",
+      "**SCs ~17%** — chiefly **Malas & Madigas**; **SC sub-categorisation (MRPS/Madiga)** is a live demand.",
+      "**STs ~5-6%** — agency tribes: **Koya, Konda Reddi, Savara, Chenchu (PVTG), Yanadi, Yerukula, Sugalis/Lambadas**.",
+      "Dominant landed castes — **Kamma, Reddy, Kapu, Velama**; **Kapu reservation** agitation.",
+      "Tribal areas governed under **Fifth Schedule, PESA (1996), FRA (2006)**.",
+      "**Chenchu** — a Particularly Vulnerable Tribal Group (PVTG) of the Nallamala."
+    ],
+    "mainsAngles": [
+      "Describe the caste composition of Andhra Pradesh and its bearing on state politics.",
+      "Discuss the tribal communities of the Eastern-Ghat agency areas and their welfare framework.",
+      "Examine the religious and linguistic plurality of Andhra Pradesh.",
+      "Analyse the demand for SC sub-categorisation in AP.",
+      "Assess the applicability of the 'racial' classification of Indian/AP populations in modern anthropology."
+    ],
+    "glossary": [
+      {"term": "Scheduled Caste (SC)", "definition": "Constitutionally listed castes eligible for reservation; in AP, Malas and Madigas predominate (~17%)."},
+      {"term": "Scheduled Tribe (ST)", "definition": "Constitutionally listed tribal communities; AP's are chiefly Eastern-Ghat agency tribes."},
+      {"term": "PVTG", "definition": "Particularly Vulnerable Tribal Group — the most marginalised tribes (e.g. the Chenchu of the Nallamala)."},
+      {"term": "SC sub-categorisation", "definition": "The demand (Madiga/MRPS) to split SC reservation benefits among sub-castes by relative backwardness."},
+      {"term": "Fifth Schedule / PESA", "definition": "The constitutional and legal framework for self-governance and protection of Scheduled (tribal) areas."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-086",
+    "sections": [
+      {
+        "heading": "Urban migration & educational characteristics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Urban migration** — the movement of people from villages and small towns to cities — is reshaping AP's society, driven by **jobs, education and services**. Coupled with the state's **educational characteristics** (moderate literacy, a strong professional-education base but persistent gaps), migration and education together determine AP's **human-capital trajectory** and the success of its demographic dividend."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "AP profile"],
+            "rows": [
+              ["**Urban migration drivers**", "**Employment (industry/services), education, better amenities**; distress-push from drought (Rayalaseema) & farm stress; historic pull of Hyderabad, now Vizag/Vijayawada, Bengaluru, Chennai."],
+              ["**Migration streams**", "**Rural→urban, small-town→city, inter-state, and international (Gulf)**; also student migration for higher/professional education."],
+              ["**Educational base**", "Literacy ~**67%**; strong **engineering/medical private-college** sector; but rural-urban & gender gaps, quality & dropout concerns."],
+              ["**Consequences**", "Urban growth & slums, remittances & rural transformation, brain-drain of skilled youth, but also skill-upgrading and social mobility."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Migration-education linkage and policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Why they migrate**: **economic pull (jobs, higher wages, services) and push (agrarian distress, drought, landlessness — acute in Rayalaseema)**; **educational migration** (students to cities/other states for professional courses) is a distinct, growing stream.",
+              "**Educational characteristics**: AP has a **large private professional-education sector (engineering, medicine, pharmacy)** and schemes like **fee reimbursement**, but faces **moderate literacy (~67%), rural-urban and gender disparities, learning-outcome/quality gaps and dropout** — the education deficit that migration both reflects and reinforces.",
+              "**Consequences of urban migration**: **city growth and slum/informal-settlement pressures, strain on urban services, remittance-led rural change, and skilled-youth out-migration (brain drain)** to Bengaluru/Hyderabad/abroad — a two-edged process.",
+              "**Policy response**: **balanced urbanisation (avoiding one mega-city), skilling missions, improving school quality & retention, decentralised job creation (industrial corridors, capital region), and managing migrant welfare** — converting migration-plus-education into the demographic dividend (G-084)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Urban migration in AP] --> B[Pull - jobs, education, services]\n  A --> C[Push - drought, farm distress Rayalaseema]\n  A --> D[Streams - rural-urban, inter-state, Gulf, student]\n  E[Education] --> F[Literacy ~67 pct]\n  E --> G[Strong private professional colleges]\n  E --> H[Rural-urban and gender gaps]\n  A --> I[Consequences - urban growth, slums, brain drain, remittances]\n  I --> J[Policy - balanced urbanisation, skilling, retention]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Explain migration via push-pull (jobs/education pull; drought/farm-distress push), classify the streams (incl. student & Gulf), then AP's education profile (professional colleges strong, literacy/quality gaps).",
+              "Link the two: education drives migration and migration reshapes human capital; close with balanced-urbanisation and skilling policy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Frame urban migration by push-pull (education/jobs pull, Rayalaseema drought push) and classify streams (rural-urban, inter-state, Gulf, student); pair with AP's education profile (strong professional colleges but literacy/quality gaps), converging on skilling and balanced-urbanisation policy."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Urban migration drivers — **employment, education, services (pull)** and **drought/farm distress (push)**.",
+      "Migration streams — **rural-urban, small-town-city, inter-state, international (Gulf), and student migration**.",
+      "AP literacy ~**67%** (below national); persistent **rural-urban & gender gaps**.",
+      "AP has a large **private engineering/medical education** sector; **fee-reimbursement** scheme.",
+      "Major urban destinations — **Visakhapatnam, Vijayawada-Guntur**; out-state — **Hyderabad, Bengaluru, Chennai**.",
+      "Consequences — **urban slums, remittances, brain drain**.",
+      "Policy — **balanced urbanisation, skilling missions, dropout reduction, migrant welfare**."
+    ],
+    "mainsAngles": [
+      "Analyse the causes and consequences of urban migration in Andhra Pradesh.",
+      "Examine the educational characteristics of AP and their link to migration.",
+      "Discuss the phenomenon of student and skilled-youth migration from Andhra Pradesh.",
+      "Assess the role of agrarian distress in driving rural-urban migration in Rayalaseema.",
+      "Evaluate the policy measures needed to manage urbanisation and build human capital in AP."
+    ],
+    "glossary": [
+      {"term": "Push-pull factors", "definition": "The forces driving migration — 'push' from the origin (distress, drought) and 'pull' to the destination (jobs, education)."},
+      {"term": "Urban migration", "definition": "The movement of people from rural areas or small towns to cities in search of work, education or services."},
+      {"term": "Brain drain", "definition": "The out-migration of skilled or educated people from a region, as of AP youth to other states and abroad."},
+      {"term": "Fee reimbursement", "definition": "An AP welfare scheme reimbursing tuition fees for eligible students, expanding access to professional education."},
+      {"term": "Balanced urbanisation", "definition": "A planning goal of distributing urban growth across several centres rather than concentrating it in one mega-city."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-087",
+    "sections": [
+      {
+        "heading": "Fauna — wild animals, birds, reptiles & mammals of AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Andhra Pradesh's **fauna** is rich and varied — from **tigers and leopards of the Nallamala** to **the Godavari-Krishna estuarine crocodiles and Olive Ridley turtles**, and the vast **bird congregations of Kolleru and Pulicat**. Protected through a network of **tiger reserves, national parks and sanctuaries**, AP's wildlife is a key ecological asset of the Eastern Ghats and its coast."
+          },
+          {
+            "type": "table",
+            "headers": ["Group", "Notable AP fauna & habitat"],
+            "rows": [
+              ["**Mammals**", "**Tiger & leopard (Nagarjunasagar-Srisailam Tiger Reserve, Nallamala)**, sloth bear, Indian wolf, blackbuck, chital, sambar, **fishing cat (Coringa)**, Indian pangolin."],
+              ["**Birds**", "**Pelicans, painted storks, flamingos (Pulicat, Nelapattu, Kolleru)**; migratory waterfowl; the **Telineelapuram/Telukunchi Siberian-crane-and-pelican sites**."],
+              ["**Reptiles**", "**Mugger & estuarine crocodiles (Coringa, Godavari), Indian python, king cobra, monitor lizards; Olive Ridley sea turtles** nesting on the coast."],
+              ["**Endangered/flagship**", "**Tiger, Olive Ridley turtle, Indian pangolin, fishing cat, grey slender loris, Jerdon's courser (rediscovered in AP)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Protected areas and conservation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Flagship — the tiger**: the **Nagarjunasagar-Srisailam Tiger Reserve (India's largest)** in the Nallamala anchors AP's big-cat and prey conservation (tiger, leopard, sloth bear, the Chenchu tribe within).",
+              "**Coastal & wetland fauna**: **Coringa (mangrove — crocodiles, fishing cat, otters), Kolleru (freshwater — pelicans/storks), Pulicat & Nelapattu (flamingos, pelicans)** host spectacular birdlife; the **coast is an Olive Ridley turtle nesting ground** (arribada-linked conservation).",
+              "**The Jerdon's courser story**: this **critically endangered bird, thought extinct, was rediscovered in the Sri Lankamaleswara sanctuary (Cuddapah, 1986)** — a celebrated AP conservation landmark and a threatened-species emblem.",
+              "**Protected-area network & threats**: AP's **national parks (Papikonda, Sri Venkateswara, Rajiv Gandhi/ Rollapadu-blackbuck), sanctuaries (Coringa, Kolleru, Nelapattu, Pulicat, Rollapadu-great Indian bustard-linked)** protect this fauna against **habitat loss, poaching, red-sanders/mining pressure and wetland shrinkage**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP fauna] --> B[Mammals - tiger, leopard, blackbuck, fishing cat]\n  A --> C[Birds - pelicans, flamingos, painted storks]\n  A --> D[Reptiles - crocodiles, python, Olive Ridley turtle]\n  B --> E[Nagarjunasagar-Srisailam Tiger Reserve]\n  C --> F[Kolleru, Pulicat, Nelapattu]\n  D --> G[Coringa mangroves, coastal nesting]\n  A --> H[Jerdon's courser rediscovered - Cuddapah]\n  A --> I[Threats - habitat loss, poaching, wetland shrinkage]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Organise fauna by group (mammals, birds, reptiles) with signature species & habitats, then the protected-area network and threats.",
+              "Standout facts: Nagarjunasagar-Srisailam (largest tiger reserve), Jerdon's courser rediscovery, Coringa crocodiles/fishing cat, Pulicat-Nelapattu flamingos/pelicans, Rollapadu blackbuck/bustard."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Group AP fauna (mammals-birds-reptiles) with flagship species and their protected homes — Nagarjunasagar-Srisailam (largest tiger reserve), Coringa crocodiles/fishing cat, Pulicat-Nelapattu birds — and cite the Jerdon's courser rediscovery as AP's conservation showpiece."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Nagarjunasagar-Srisailam Tiger Reserve** — India's largest tiger reserve (Nallamala, AP-Telangana).",
+      "**Coringa** — Godavari mangrove sanctuary — crocodiles, **fishing cat**, otters.",
+      "**Kolleru** — major bird sanctuary (pelicans, painted storks); **Pulicat & Nelapattu** — flamingos & pelicans.",
+      "**Jerdon's courser** — critically endangered bird, rediscovered (1986) in **Sri Lankamaleswara sanctuary (Cuddapah)**.",
+      "**Rollapadu** sanctuary — blackbuck and great Indian bustard habitat.",
+      "**Olive Ridley turtles** nest along the AP coast.",
+      "Other flagships — **Indian pangolin, grey slender loris, blackbuck, sloth bear**."
+    ],
+    "mainsAngles": [
+      "Describe the faunal wealth of Andhra Pradesh across mammals, birds and reptiles.",
+      "Assess AP's protected-area network for wildlife conservation.",
+      "Discuss the significance of AP's wetlands (Kolleru, Pulicat, Coringa) for avian and aquatic fauna.",
+      "Examine the Jerdon's courser as a case study in threatened-species conservation.",
+      "Analyse the threats to wildlife in Andhra Pradesh and conservation responses."
+    ],
+    "glossary": [
+      {"term": "Tiger reserve", "definition": "A protected area under Project Tiger; the Nagarjunasagar-Srisailam reserve is India's largest, in AP's Nallamala."},
+      {"term": "Fishing cat", "definition": "A wetland-dwelling wild cat found in AP's Coringa mangroves, a conservation-priority species."},
+      {"term": "Olive Ridley turtle", "definition": "A sea turtle that nests on the AP coast, protected during its breeding season."},
+      {"term": "Jerdon's courser", "definition": "A critically endangered nocturnal bird endemic to AP, rediscovered in 1986 after being thought extinct."},
+      {"term": "Arribada", "definition": "The mass synchronised nesting of Olive Ridley turtles, a focus of coastal conservation."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-088",
+    "sections": [
+      {
+        "heading": "Flora — trees & plants of Andhra Pradesh",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "AP's **flora** mirrors its rainfall gradient (G-078) — from **mangroves and deltaic vegetation on the coast, through moist and dry deciduous forests of the Eastern Ghats, to thorn-scrub in arid Rayalaseema**. It is distinguished by **endemic and economically prized species — red sanders, sandalwood, teak and a rich medicinal-plant flora** — making the Eastern Ghats a notable centre of plant diversity."
+          },
+          {
+            "type": "table",
+            "headers": ["Vegetation belt", "Characteristic flora"],
+            "rows": [
+              ["**Coastal / mangrove**", "**Avicennia, Rhizophora (Coringa mangroves)**, casuarina plantations, palmyra, coconut."],
+              ["**Moist deciduous (Ghats)**", "**Teak, terminalia, rosewood, bamboo**; the richest forest belt (Araku, Nallamala)."],
+              ["**Dry deciduous / scrub**", "**Red sanders (endemic), sandalwood, hardwickia, acacia, neem**; degraded to thorn scrub in Rayalaseema."],
+              ["**Economic & medicinal**", "**Red sanders, sandalwood, bamboo, cashew, medicinal herbs (from the Tirumala/Seshachalam & Maredumilli forests)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Endemism, economic flora and conservation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Endemic flagship — red sanders**: **Pterocarpus santalinus**, endemic to the **Seshachalam-Palakonda hills** of Rayalaseema, is AP's most famous plant — prized for its wood, **CITES-protected**, and the target of notorious smuggling; its conservation is a signature AP issue.",
+              "**Economic flora**: **teak, rosewood, bamboo (paper/craft), sandalwood, cashew, casuarina** and vast **medicinal-plant** wealth support industry and tribal livelihoods (NTFPs — G-079); the Eastern Ghats are a reservoir of wild crop relatives and ethnobotanical species.",
+              "**Vegetation-rainfall link**: flora grades with rainfall — **mangroves & casuarina on the wet coast, teak-bamboo moist-deciduous forests in the Ghats, and red-sanders/sandal dry-deciduous-to-thorn scrub in arid Rayalaseema** — a textbook rainfall-controlled sequence.",
+              "**Conservation framework & threats**: **biosphere reserves (Seshachalam), sacred groves, sanctuaries and afforestation** protect AP flora against **podu cultivation, red-sanders smuggling, mining, fire and invasive species (Lantana, Prosopis)** — sustainable forest management and community stewardship are the response."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP flora] --> B[Coastal - mangroves, casuarina, palmyra]\n  A --> C[Moist deciduous - teak, rosewood, bamboo]\n  A --> D[Dry deciduous scrub - red sanders, sandalwood]\n  A --> E[Rainfall gradient controls belts]\n  D --> F[Red sanders - endemic, CITES, smuggled]\n  A --> G[Economic - bamboo, cashew, medicinal plants]\n  A --> H[Threats - podu, smuggling, invasives]\n  H --> I[Conservation - Seshachalam biosphere, afforestation]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Present flora as a rainfall-graded sequence (mangrove→moist deciduous→dry/scrub), then spotlight endemic/economic species (red sanders, sandalwood, teak, bamboo, medicinal plants).",
+              "Red sanders (endemic, CITES, smuggled) and the Seshachalam biosphere are the anchor facts; close on threats (podu, smuggling, invasives) & conservation."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Show AP flora as a rainfall-graded sequence (mangrove-coast → teak-bamboo Ghats → red-sanders/sandal scrub) and headline the endemic red sanders (CITES-protected, smuggled) and the Seshachalam biosphere, ending on podu/smuggling/invasive threats and conservation."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP flora grades with rainfall — **mangrove/coastal → moist deciduous (teak, bamboo) → dry deciduous/thorn scrub**.",
+      "**Red sanders (Pterocarpus santalinus)** — endemic to **Seshachalam-Palakonda** hills; **CITES-protected**; heavily smuggled.",
+      "**Coringa** mangroves — Avicennia, Rhizophora.",
+      "Economic species — **teak, rosewood, bamboo, sandalwood, cashew, casuarina**.",
+      "**Seshachalam Biosphere Reserve** — a centre of Eastern-Ghat plant diversity & medicinal plants.",
+      "Invasive threats — **Lantana, Prosopis juliflora**.",
+      "Forest flora supports tribal **NTFP** livelihoods (bamboo, beedi-leaf, medicinal herbs)."
+    ],
+    "mainsAngles": [
+      "Describe the floral diversity of Andhra Pradesh in relation to its rainfall gradient.",
+      "Assess the significance and conservation of red sanders as an endemic AP species.",
+      "Discuss the economic and medicinal plant wealth of the Eastern Ghats.",
+      "Examine the threats to AP's flora, including smuggling and invasive species.",
+      "Evaluate the role of biosphere reserves and sacred groves in AP plant conservation."
+    ],
+    "glossary": [
+      {"term": "Endemic species", "definition": "A species native to and found only in a particular area; red sanders is endemic to AP's Seshachalam hills."},
+      {"term": "Red sanders", "definition": "Pterocarpus santalinus — an endemic, CITES-protected AP tree prized for its wood and targeted by smugglers."},
+      {"term": "Deciduous forest", "definition": "Forest whose trees shed leaves in the dry season; AP's dominant type, graded moist to dry by rainfall."},
+      {"term": "Biosphere reserve", "definition": "A protected area conserving biodiversity with sustainable use; Seshachalam safeguards AP's Eastern-Ghat flora."},
+      {"term": "Invasive species", "definition": "Non-native plants (Lantana, Prosopis) that spread aggressively and threaten AP's native flora."}
+    ]
+  }
+]
