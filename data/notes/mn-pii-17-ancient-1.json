@@ -1,0 +1,343 @@
+[
+  {
+    "code": "MN-PII-HCOI-001",
+    "sections": [
+      {
+        "heading": "Prehistoric cultures — the stone-to-metal ladder",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Age", "Period & tools", "Key sites & features"],
+            "rows": [
+              ["**Palaeolithic (Old Stone)**", "~2 mya–10,000 BCE; hand-axes, cleavers, flakes; hunting-gathering, nomadic", "**Bhimbetka** (rock art, Madhya Pradesh — UNESCO), Soan valley, Hunsgi, Attirampakkam (TN); **Kurnool caves (AP — bone tools)**; sub-divided Lower-Middle-Upper"],
+              ["**Mesolithic (Middle Stone)**", "~10,000–6,000 BCE; **microliths** (tiny composite tools); transition to domestication; rock art", "Bagor, Adamgarh, Bhimbetka art; early animal domestication (dog); climate warming"],
+              ["**Neolithic (New Stone)**", "~6,000–1,000 BCE; polished tools, agriculture, pottery, settled villages", "**Mehrgarh (~7000 BCE — earliest farming, Baluchistan), Burzahom (Kashmir — pit dwellings), Chirand, Koldihwa (rice); South Indian ash-mounds — Utnur, Nagarjunakonda, Piklihal (AP-Karnataka)**"],
+              ["**Chalcolithic (Copper-Stone)**", "~2,500–700 BCE; copper + stone; painted pottery cultures", "Ahar-Banas, Malwa, Jorwe, Kayatha; overlaps with the Harappans"],
+              ["**Iron Age / Megalithic**", "~1,500–500 BCE; iron tools, megalithic burials", "**South India's megaliths (Brahmagiri, Adichanallur; AP's megalithic sites)**; iron enabled the second urbanisation"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Reading prehistory — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The three revolutions**: the **Neolithic (agricultural) revolution** — domestication of plants/animals → settled village life → surplus → craft-specialisation → the road to civilisation; the **metallurgical revolution** (copper then iron) — iron especially enabling forest-clearing, plough agriculture and the Gangetic urbanisation.",
+              "**Dating & method**: prehistory is reconstructed from **archaeology** (stratigraphy, typology, C-14 dating) not texts — the scientific-history point; **Robert Bruce Foote** ('father of Indian prehistory') found the first Palaeolithic tool (Pallavaram, 1863).",
+              "**AP in prehistory**: the **Kurnool caves (Billa Surgam) — bone tools and Palaeolithic evidence**; South Indian **Neolithic ash-mounds (Utnur, Nagarjunakonda, Piklihal)**; megalithic burials across the Deccan — AP is rich in prehistoric records, the state-paper anchor.",
+              "**Craft**: the age-ladder table + the two revolutions (agricultural, metallurgical) + the archaeology-not-texts method + AP's Kurnool-and-ash-mounds evidence."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Palaeolithic - hunting-gathering] --> B[Mesolithic - microliths, early domestication]\n  B --> C[Neolithic - agriculture, settled villages]\n  C --> D[Chalcolithic - copper plus stone]\n  D --> E[Iron Age - megaliths, second urbanisation]\n  C --> F[Agricultural revolution: surplus, craft, civilisation]\n  E --> G[Metallurgical revolution: iron clears forests, plough farming]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The five-age ladder + the agricultural and metallurgical revolutions + the archaeology method + AP's prehistoric wealth.",
+              "Bhimbetka, Mehrgarh, Kurnool caves, ash-mounds, Bruce Foote are the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Neolithic agricultural revolution is prehistory's turning point — surplus made civilisation possible; AP's Kurnool caves and South Indian ash-mounds give the state-paper its prehistoric anchors."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Bruce Foote** — 'father of Indian prehistory'; found the first Palaeolithic tool at **Pallavaram (1863)**.",
+      "**Bhimbetka (MP)** — Palaeolithic-to-historic rock art (UNESCO); **Mehrgarh (~7000 BCE)** — earliest farming (Baluchistan).",
+      "**Microliths** define the **Mesolithic**; **Burzahom (Kashmir)** — Neolithic pit-dwellings & dog burials.",
+      "South Indian Neolithic **ash-mounds**: Utnur, Nagarjunakonda, Piklihal, Kupgal (AP-Karnataka).",
+      "**Kurnool caves (Billa Surgam, AP)** — Palaeolithic bone tools; AP rich in megalithic sites.",
+      "Chalcolithic cultures: Ahar-Banas, Malwa, Jorwe, Kayatha; Iron Age brought **megalithic burials**.",
+      "Dating: **C-14 (radiocarbon)**, stratigraphy, tool-typology — archaeology, not texts."
+    ],
+    "mainsAngles": [
+      "The Neolithic revolution made civilisation possible — trace the stone-to-metal ladder and its turning points.",
+      "Iron cleared the forests and built the cities — argue the metallurgical revolution's role in the second urbanisation.",
+      "Prehistory is written in stone, not scripture — evaluate the archaeological method of reconstructing it.",
+      "AP is rich in prehistoric records — survey Kurnool caves, ash-mounds and Deccan megaliths.",
+      "Rock art is prehistory's autobiography — assess Bhimbetka as a window on early human life."
+    ],
+    "glossary": [
+      { "term": "Microlith", "definition": "A tiny stone tool hafted into composite implements — the defining technology of the Mesolithic." },
+      { "term": "Neolithic revolution", "definition": "The shift to agriculture and settled village life — surplus, specialisation and the foundation of civilisation." },
+      { "term": "Ash-mound", "definition": "Accumulated cattle-dung ash at South Indian Neolithic pastoral sites (Utnur, Piklihal)." },
+      { "term": "Megalith", "definition": "A large-stone burial monument of the Iron Age — abundant across the Deccan and South India." },
+      { "term": "Chalcolithic", "definition": "The Copper-Stone Age using both copper and stone tools, marked by painted-pottery cultures." },
+      { "term": "Stratigraphy", "definition": "The archaeological study of layered deposits to establish relative chronology — prehistory's dating backbone." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-002",
+    "sections": [
+      {
+        "heading": "The Indus Valley Civilization — India's first urbanism",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Harappan/Indus Valley Civilization (mature phase ~2600–1900 BCE; discovered 1921-22 — Dayaram Sahni at Harappa, R.D. Banerji at Mohenjodaro)** was the **Bronze Age's largest civilization by area** — ~1,500 sites across the northwest (Pakistan + NW India), on the Indus and the now-dry **Ghaggar-Hakra (Saraswati)**. Its signature: **planned cities** — grid streets, the **citadel-plus-lower-town** layout, standardised **baked-brick** construction, the world's first **urban sanitation** (covered drains, soak-pits), the **Great Bath (Mohenjodaro)**, granaries, and a **standardised weights-measures** system (binary-decimal)."
+          },
+          {
+            "type": "table",
+            "headers": ["Major sites", "Location", "Signature finds"],
+            "rows": [
+              ["**Harappa**", "Ravi (Punjab, Pak)", "First discovered; granaries, cemetery R-37"],
+              ["**Mohenjodaro** ('mound of the dead')", "Indus (Sindh)", "Great Bath, Great Granary, Pashupati seal, bronze Dancing Girl, Priest-King"],
+              ["**Dholavira**", "Gujarat (Kutch)", "Water-management genius (reservoirs), signboard, three-part city (UNESCO)"],
+              ["**Rakhigarhi**", "Haryana", "The largest known site; aDNA studies"],
+              ["**Lothal**", "Gujarat", "Dockyard (maritime trade), bead-making"],
+              ["**Kalibangan**", "Rajasthan", "Ploughed field, fire-altars"],
+              ["**Banawali, Surkotada, Chanhudaro**", "Haryana/Gujarat/Sindh", "Horse-bones debate (Surkotada), bead/seal industry"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Economy, society, decline — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Economy**: agriculture (wheat-barley, the first cotton — 'sindon'), craft (bead-shell-metal-seal), and **long-distance trade** — Mesopotamian records mention **'Meluhha'** (the Indus); seals found at Ur; the **dockyard at Lothal**; standardised weights enabling commerce.",
+              "**Society & religion**: no monumental temples/palaces (an egalitarian-or-mercantile debate), **Mother-Goddess** figurines, the **Pashupati (proto-Shiva?)** seal, phallic (linga) and pipal-tree worship, animal reverence (the humped bull); the **undeciphered Indus script** (~400 signs, boustrophedon, right-to-left) — the great unsolved puzzle.",
+              "**Decline (~1900 BCE)**: multi-causal — **climate change/monsoon weakening + Saraswati's drying + Indus flooding shifts + declining trade** (not the discredited 'Aryan invasion' theory); a gradual de-urbanisation, not destruction; continuity into later cultures.",
+              "**The AP/South link**: the Harappans didn't reach the Deccan, BUT the civilization's legacy (urban planning, craft, trade) frames India's first urbanisation before the second (Gangetic) one; note honestly that AP's ancient story begins later (megalithic-Satavahana)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Indus Valley Civilization 2600-1900 BCE] --> B[Planned cities: grid, drains, citadel]\n  A --> C[Economy: agriculture, craft, Meluhha trade]\n  A --> D[Society: Mother Goddess, Pashupati, undeciphered script]\n  B --> E[Sites: Harappa, Mohenjodaro, Dholavira, Lothal]\n  C --> E\n  A --> F[Decline ~1900 BCE]\n  F --> G[Multi-causal: climate, Saraswati drying, trade decline]\n  G --> H[De-urbanisation, not invasion]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Urban-planning signature + site table + economy-society-religion + the multi-causal decline (not invasion).",
+              "Great Bath, Meluhha, undeciphered script, Dholavira water-management, Lothal dockyard are the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Harappans' urban planning and sanitation were unmatched for millennia — lead with that; the decline is multi-causal (climate-Saraswati-trade), NOT the discredited Aryan invasion — state that correction explicitly."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Discovered **1921 (Harappa, Dayaram Sahni), 1922 (Mohenjodaro, R.D. Banerji)**; mature phase **~2600-1900 BCE**.",
+      "Largest site: **Rakhigarhi (Haryana)**; **Dholavira** — water management (UNESCO); **Lothal** — dockyard; **Kalibangan** — ploughed field & fire-altars.",
+      "**Great Bath, Great Granary, Pashupati seal, Dancing Girl (bronze), Priest-King** — Mohenjodaro.",
+      "Trade term for the Indus in Mesopotamian records: **Meluhha**; standardised **binary-decimal weights**.",
+      "**Indus script** — undeciphered (~400 signs, boustrophedon, generally right-to-left).",
+      "First to cultivate **cotton** ('sindon' to the Greeks); wheat-barley staples.",
+      "Decline **~1900 BCE** — climate/monsoon change, Saraswati drying, trade decline (NOT Aryan invasion)."
+    ],
+    "mainsAngles": [
+      "Urban planning millennia ahead of its time — evaluate the Harappan achievement in city-building and sanitation.",
+      "No temples, no palaces — what does the Harappan material record suggest about its society and polity?",
+      "Meluhha traded with Mesopotamia — reconstruct the Indus economy and its long-distance commerce.",
+      "The decline was gradual and multi-causal — dismantle the Aryan-invasion theory with the climate-trade explanation.",
+      "The undeciphered script is India's oldest puzzle — assess what we can and cannot know about Harappan religion."
+    ],
+    "glossary": [
+      { "term": "Citadel", "definition": "The raised, fortified western mound of a Harappan city housing public/ritual structures — the Great Bath, granary." },
+      { "term": "Meluhha", "definition": "The Mesopotamian name for the Indus region — evidence of Harappan long-distance trade." },
+      { "term": "Great Bath", "definition": "The large watertight tank at Mohenjodaro — likely for ritual bathing, a signature Harappan structure." },
+      { "term": "Pashupati seal", "definition": "A Mohenjodaro seal showing a horned figure surrounded by animals — debated as a proto-Shiva." },
+      { "term": "Boustrophedon", "definition": "Writing alternating direction line-by-line — a feature of the undeciphered Indus script." },
+      { "term": "De-urbanisation", "definition": "The gradual abandonment of cities (Harappan decline) — collapse of urban systems, not violent destruction." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-003",
+    "sections": [
+      {
+        "heading": "Vedic culture — the coming of the Aryas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Aspect", "**Early/Rig Vedic (~1500–1000 BCE)**", "**Later Vedic (~1000–600 BCE)**"],
+            "rows": [
+              ["Geography", "**Sapta-Sindhu** (Punjab-region seven rivers)", "Eastward to the **Ganga-Yamuna doab** (Kuru-Panchala)"],
+              ["Economy", "Pastoral (cattle = **gau** = wealth; *gavishti* = war for cattle); some agriculture", "**Agriculture** dominant (iron ploughs); land grows in importance; crafts, trade"],
+              ["Polity", "Tribal (**jana**); **rajan** with sabha-samiti assemblies; no territory-state", "Territorial kingdoms (**janapadas**); king's power grows; elaborate **rajasuya-ashvamedha** sacrifices"],
+              ["Society", "Fluid varna (occupation-based); women relatively respected (Gargi, Maitreyi; upanayana for girls)", "**Varna rigidifies** into birth-based hierarchy; four ashramas; women's status declines"],
+              ["Religion", "**Nature deities — Indra, Agni, Varuna, Surya**; yajna (sacrifice); no temples/idols", "**Prajapati, Vishnu, Rudra rise**; ritualism peaks (Brahmanas); the **Upanishadic reaction** (Atman-Brahman, karma, moksha)"]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**The texts**: the four **Vedas — Rig (hymns), Sama (melodies), Yajur (rituals), Atharva (spells)** — plus **Brahmanas** (ritual explanation), **Aranyakas** (forest treatises), and the **Upanishads/Vedanta** (philosophy — the shift from ritual to knowledge). This is **shruti** ('heard') literature — orally transmitted, the source for the whole period."
+          }
+        ]
+      },
+      {
+        "heading": "The transformations — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The big shifts (early→later)**: pastoral→agrarian, tribal→territorial, fluid→rigid varna, nature-worship→ritualism→Upanishadic philosophy, west→east (the Gangetic move iron made possible) — the transformation table IS the answer.",
+              "**The Aryan question (handle carefully)**: the modern scholarly view favours **migration/mobility of Indo-Aryan-speaking groups + cultural synthesis** with existing populations, NOT the old 'invasion' theory nor a purely-indigenous claim — present it as a debated linguistic-archaeological question, avoiding ideology.",
+              "**The Upanishadic revolution**: the shift from external sacrifice to internal knowledge (**Atman = Brahman**, karma, rebirth, moksha) — the philosophical foundation of later Hinduism and a spur to the heterodox reaction (Jainism-Buddhism, HCOI-005); 'Satyameva Jayate' (national motto) is from the Mundaka Upanishad.",
+              "**AP link**: the Vedic culture was northern; the Deccan-AP entered recorded history later (megalithic then Satavahana) — note honestly, and connect via the pan-Indian Sanskritic tradition that later shaped Andhra."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Rig Vedic ~1500 BCE] --> B[Pastoral, tribal, nature deities]\n  B --> C[Later Vedic ~1000 BCE]\n  C --> D[Agrarian, territorial kingdoms]\n  C --> E[Varna rigidifies, ritualism peaks]\n  E --> F[Upanishadic reaction: Atman-Brahman, karma, moksha]\n  F --> G[Foundation of Hindu philosophy + heterodox reaction]\n  A --> H[Vedas: shruti - Rig, Sama, Yajur, Atharva]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The early-vs-later comparison table (five aspects) + the Vedic corpus + the transformation thesis + the Upanishadic revolution.",
+              "Sapta-Sindhu→Ganga-doab, gavishti, varna-rigidification, Atman-Brahman are the anchor concepts; handle the Aryan question as a scholarly debate."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The early-to-later Vedic transformation (pastoral→agrarian, tribal→territorial, fluid→rigid varna) is the entire theme in one table; the Upanishadic turn from ritual to knowledge is the philosophical climax to close on."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Four Vedas**: Rig (hymns, oldest), Sama (melodies), Yajur (ritual formulae), Atharva (spells-magic).",
+      "**Rig Vedic geography: Sapta-Sindhu** (seven rivers, Punjab); Later Vedic: **Ganga-Yamuna doab (Kuru-Panchala)**.",
+      "Rig Vedic assemblies: **sabha and samiti**; cattle (**gau**) = wealth; *gavishti* = 'search for cattle' = war.",
+      "**Varna** was occupation-fluid in Rig Vedic, birth-rigid by Later Vedic; **Purusha Sukta** (Rig Veda 10th mandala) — the four-varna origin hymn.",
+      "**Upanishads (Vedanta)** — Atman-Brahman identity, karma, rebirth, moksha; **'Satyameva Jayate' — Mundaka Upanishad**.",
+      "Ritual texts: **Brahmanas**; forest texts: **Aranyakas**; the corpus is **shruti** (revealed/heard).",
+      "Later-Vedic royal sacrifices: **rajasuya (consecration), ashvamedha (horse), vajapeya**."
+    ],
+    "mainsAngles": [
+      "From pasture to plough, tribe to territory — analyse the early-to-later Vedic transformation.",
+      "Varna hardened as society settled — trace the social change from Rig Vedic fluidity to Later Vedic hierarchy.",
+      "The Upanishads turned from ritual to knowledge — assess this philosophical revolution's legacy.",
+      "The Aryan question is linguistic and archaeological, not ideological — present the migration-synthesis view judiciously.",
+      "Iron moved the Vedic world east — connect technology, agriculture and the shift to the Gangetic plains."
+    ],
+    "glossary": [
+      { "term": "Sapta-Sindhu", "definition": "The 'land of seven rivers' (Punjab region) — the Rig Vedic Aryans' geography." },
+      { "term": "Varna", "definition": "The fourfold social order (Brahmana-Kshatriya-Vaishya-Shudra) — occupation-fluid in Rig Vedic, birth-rigid by Later Vedic times." },
+      { "term": "Shruti", "definition": "'That which is heard' — the revealed Vedic corpus (Vedas, Brahmanas, Aranyakas, Upanishads), orally transmitted." },
+      { "term": "Yajna", "definition": "The Vedic sacrifice — central to Rig Vedic religion and elaborated to ritual excess in the Later Vedic Brahmanas." },
+      { "term": "Atman-Brahman", "definition": "The Upanishadic identity of the individual soul with universal reality — Vedanta's core insight." },
+      { "term": "Janapada", "definition": "A settled territorial realm emerging in Later Vedic times — the seed of the Mahajanapadas." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-004",
+    "sections": [
+      {
+        "heading": "The Mahajanapadas — the second urbanisation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "By **~600 BCE**, the Later-Vedic janapadas consolidated into **16 Mahajanapadas ('great realms')** — listed in Buddhist (Anguttara Nikaya) and Jain texts — spanning the Indo-Gangetic plain. This is the **second urbanisation** (the first being Harappan): iron tools + surplus agriculture + trade → cities (Rajagriha, Kashi, Champa, Ujjayini), coinage (**punch-marked silver-copper — the first Indian coins**), and states. Politically, two forms coexisted: **monarchies** (Magadha, Kosala, Vatsa, Avanti — the 'big four') and **gana-sanghas (oligarchic republics** — Vajji-Licchavi, Malla, Shakya (the Buddha's) — assembly-governed)."
+          },
+          {
+            "type": "table",
+            "headers": ["The 'big four' monarchies", "Capital & feature"],
+            "rows": [
+              ["**Magadha**", "Rajagriha→Pataliputra; the eventual winner (HCOI-006) — geography, iron, elephants"],
+              ["**Kosala**", "Shravasti; Prasenajit; absorbed the Shakyas"],
+              ["**Vatsa**", "Kaushambi; Udayana"],
+              ["**Avanti**", "Ujjayini; Pradyota; western trade node"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Why it mattered — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The enabling conditions**: iron (forest-clearing, plough, weapons), **paddy transplantation** (surplus), the Gangetic plain's fertility, trade routes (uttarapatha-dakshinapatha), coinage, and **guilds (shreni)** — the material base of urban states.",
+              "**The republics vs monarchies question**: the gana-sanghas (Vajji the strongest — its assembly praised by the Buddha) show India's early experiments with **collective/oligarchic governance** (not modern democracy — the vote was for the kshatriya elite), but monarchies with standing armies and taxation ultimately absorbed them (Magadha over Vajji) — the centralisation trend.",
+              "**The intellectual ferment**: this urbanising, trading, questioning society bred the **heterodox reaction (Jainism-Buddhism, HCOI-005)** and the Upanishadic philosophy — social change and spiritual revolution together; the mercantile classes (vaishyas) patronised the new faiths against Brahmanical ritual-cost.",
+              "**AP link**: the Mahajanapadas were northern, but **Assaka (Ashmaka) — on the Godavari, in/near the AP-Telangana region — is the one Deccan Mahajanapada** in the list (capital Potana/Paithan-area debated): AP's tenuous but citable connection to the sixteen."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Later Vedic janapadas] --> B[16 Mahajanapadas ~600 BCE]\n  B --> C[Monarchies: Magadha, Kosala, Vatsa, Avanti]\n  B --> D[Republics: Vajji, Malla, Shakya]\n  E[Iron + surplus + trade + coinage] --> B\n  C --> F[Standing armies, taxation - centralisation]\n  F --> G[Magadha absorbs the rest]\n  B --> H[Second urbanisation + heterodox ferment]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The 16-Mahajanapada frame + monarchy/republic distinction + the second-urbanisation enabling conditions + the centralisation-to-Magadha trend.",
+              "Punch-marked coins, gana-sangha (Vajji), the big-four, and Assaka (the Deccan one) are the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The republics-vs-monarchies distinction and the second-urbanisation material base (iron-surplus-trade-coinage) are this theme's analytical core; Assaka on the Godavari is AP's thread into the sixteen."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**16 Mahajanapadas** (~600 BCE) — listed in the **Anguttara Nikaya** (Buddhist) and Jain **Bhagavati Sutra**.",
+      "The 'big four' monarchies: **Magadha, Kosala, Vatsa, Avanti**; **Assaka (Ashmaka)** — the sole Deccan one, on the Godavari (AP-region).",
+      "**Gana-sanghas (republics)**: Vajji (Licchavi confederacy — the strongest), Malla, Shakya (Buddha's clan) — assembly-governed oligarchies.",
+      "**Second urbanisation** — cities, coinage, states in the Gangetic plain; **punch-marked coins** the first Indian currency.",
+      "Merchant guilds — **shreni**; trade routes — **uttarapatha (north), dakshinapatha (south)**.",
+      "Iron + paddy-transplantation + surplus = the material base; Magadha's geography-iron-elephants made it the winner.",
+      "The vaishya mercantile class patronised **Jainism-Buddhism** against Brahmanical ritualism."
+    ],
+    "mainsAngles": [
+      "The second urbanisation built states — analyse the material base of the Mahajanapadas.",
+      "Republics and monarchies coexisted — assess India's early gana-sangha experiments and why monarchies prevailed.",
+      "Coinage, guilds and cities transformed society — connect the economy to the rise of the Mahajanapadas.",
+      "Social change bred spiritual revolution — link the urbanising Mahajanapadas to the heterodox ferment.",
+      "Assaka was the Deccan's Mahajanapada — trace AP's connection to the age of the sixteen realms."
+    ],
+    "glossary": [
+      { "term": "Mahajanapada", "definition": "One of sixteen 'great realms' of ~600 BCE — the territorial states of the second urbanisation." },
+      { "term": "Gana-sangha", "definition": "An oligarchic republic governed by an assembly of clan elites (Vajji, Shakya) — India's early collective governance." },
+      { "term": "Second urbanisation", "definition": "The rise of Gangetic cities, coinage and states (~600 BCE) — the first being Harappan." },
+      { "term": "Punch-marked coins", "definition": "India's earliest coins (silver-copper, stamped with symbols) — the currency of the Mahajanapada economy." },
+      { "term": "Shreni", "definition": "A merchant or craft guild regulating trade and production in the urbanising economy." },
+      { "term": "Assaka (Ashmaka)", "definition": "The one Mahajanapada in the Deccan, on the Godavari — the AP region's link to the sixteen." }
+    ]
+  }
+]
