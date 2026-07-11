@@ -1,0 +1,281 @@
+[
+  {
+    "code": "PRE-PI-G-116",
+    "sections": [
+      {
+        "heading": "Major physical divisions — World, India & AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's relief comprises **four physiographic divisions — the Himalayas, the Northern Plains, the Peninsular Plateau, and the Coastal Plains & Islands**. Within this, **Andhra Pradesh** occupies the south-east peninsula — the **Eastern Ghats, Coastal Plains and Rayalaseema plateau**."
+          },
+          {
+            "type": "table",
+            "headers": ["Division", "Feature"],
+            "rows": [
+              ["**Himalayas**", "Young **fold mountains**; Himadri (Greater — Everest, Kanchenjunga), Himachal, Shiwalik; source of perennial rivers."],
+              ["**Northern Plains**", "**Alluvial** Indus-Ganga-Brahmaputra plains; bhabar-terai-bhangar-khadar."],
+              ["**Peninsular Plateau**", "Ancient Gondwana; **Deccan trap, Western & Eastern Ghats, Central Highlands**; mineral-rich."],
+              ["**Coastal Plains & Islands**", "East (deltaic, wide) & West (narrow) coasts; **Andaman-Nicobar (tectonic), Lakshadweep (coral)**."],
+              ["**AP zones**", "**Coastal Plains (Godavari-Krishna deltas), Eastern Ghats (Arma Konda highest), Rayalaseema plateau**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Four Indian divisions; AP = Eastern Ghats + Coastal Plains + Rayalaseema plateau.",
+              "Arma Konda (~1680 m) = highest peak in AP; Andaman = tectonic, Lakshadweep = coral."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "India's four divisions — **Himalayas, Northern Plains, Peninsular Plateau, Coastal Plains & Islands**.",
+      "Himalayan ranges (N→S) — **Himadri (Greater), Himachal (Lesser), Shiwalik (Outer)**.",
+      "**Peninsular Plateau** — oldest landmass (Gondwana); Deccan trap = black soil.",
+      "**Andaman & Nicobar** — of **tectonic/volcanic** origin (Barren Island — India's only active volcano); **Lakshadweep** — **coral**.",
+      "AP's three zones — **Coastal Plains, Eastern Ghats, Rayalaseema plateau**.",
+      "**Arma Konda (~1680 m)** — highest peak in AP (Eastern Ghats).",
+      "Western Ghats are continuous/higher; **Eastern Ghats are discontinuous** (cut by rivers)."
+    ],
+    "mainsAngles": [
+      "Describe the physical divisions of India and place Andhra Pradesh within them."
+    ],
+    "glossary": [
+      {"term": "Peninsular Plateau", "definition": "The ancient triangular plateau of southern India, part of the old Gondwana landmass."},
+      {"term": "Shiwalik", "definition": "The outermost, youngest Himalayan range bordering the northern plains."},
+      {"term": "Deccan Trap", "definition": "The vast basaltic lava plateau of the peninsula, source of black cotton soil."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-117",
+    "sections": [
+      {
+        "heading": "Earthquakes & landslides",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Earthquakes** (sudden crustal shaking from tectonic movement) and **landslides** (downslope mass movement) are major **geophysical hazards**. India's seismic risk is mapped in **four zones**, with the Himalayas most vulnerable; landslides threaten hilly and Ghat regions."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Earthquake basics**", "**Focus (hypocentre)** underground; **epicentre** above it; measured by **Richter (magnitude)** & **Mercalli (intensity)** scales; **seismograph**."],
+              ["**Causes**", "Mostly **plate tectonics (plate boundaries)**; also volcanic, reservoir-induced."],
+              ["**Seismic zones (India)**", "**Zones II–V**; **Zone V (highest risk)** — NE India, Himalayas, Kutch, A&N."],
+              ["**Landslides**", "Common in **Himalayas, Western Ghats, NE**; triggered by rain, quakes, deforestation, slope-cutting."],
+              ["**AP**", "AP is largely **Zone II-III** (relatively low seismicity); some Eastern-Ghat landslide risk."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Focus vs epicentre; Richter (magnitude) vs Mercalli (intensity); Zone V = highest risk (Himalaya/NE/Kutch).",
+              "AP mostly low-seismic (Zone II-III)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Focus/hypocentre** — origin underground; **epicentre** — point directly above on the surface.",
+      "**Richter scale** = magnitude (energy); **Mercalli scale** = intensity (damage); recorded by a **seismograph**.",
+      "Most earthquakes occur along **plate boundaries** (e.g. Himalayan collision zone).",
+      "India has **four seismic zones (II–V)**; **Zone V = highest risk** (NE India, Himalayas, Kutch, A&N).",
+      "**Landslides** — frequent in Himalayas, **Western Ghats**, NE; worsened by deforestation & road-cutting.",
+      "**Andhra Pradesh** lies mostly in **Zone II-III** (low-to-moderate seismicity).",
+      "**P, S and surface (L) waves** are generated; L-waves cause most damage."
+    ],
+    "mainsAngles": [
+      "Discuss earthquake and landslide hazards in India and their mitigation."
+    ],
+    "glossary": [
+      {"term": "Epicentre", "definition": "The point on the Earth's surface directly above an earthquake's focus."},
+      {"term": "Richter scale", "definition": "A logarithmic scale measuring the magnitude (energy) of an earthquake."},
+      {"term": "Seismic zone", "definition": "A region classified by earthquake risk; India uses Zones II (low) to V (highest)."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-118",
+    "sections": [
+      {
+        "heading": "Natural drainage, climatic regions & the monsoon",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **drainage** divides into **Himalayan (perennial) and Peninsular (seasonal) rivers**; its **climate** is the **tropical monsoon** type, dominated by the **south-west and retreating (north-east) monsoons** that give the subcontinent its rhythm of seasons."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Himalayan rivers**", "**Indus, Ganga, Brahmaputra** — perennial (snow+rain fed), antecedent, large deltas."],
+              ["**Peninsular rivers**", "**Godavari, Krishna, Kaveri, Mahanadi** (east-flowing, Bay of Bengal); **Narmada, Tapi** (west, rift, Arabian Sea)."],
+              ["**Monsoon mechanism**", "**Differential heating, ITCZ shift, jet streams, El Nino**; SW monsoon (Jun-Sep) — Arabian Sea & Bay branches."],
+              ["**Seasons**", "**Winter, Summer, SW Monsoon (rainy), Retreating (post-monsoon)**."],
+              ["**AP link**", "Godavari & Krishna are AP's great rivers; AP also gets **NE (retreating) monsoon** rain."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Himalayan (perennial) vs Peninsular (seasonal); Narmada/Tapi flow west (rift valleys).",
+              "SW monsoon = 75% of rain; AP depends on the NE (retreating) monsoon too."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Himalayan rivers** — Indus, Ganga, Brahmaputra (perennial, snow-fed).",
+      "**Peninsular rivers** — **Godavari (largest), Krishna, Kaveri, Mahanadi** (east-flowing); **Narmada & Tapi** flow **west** (rift valleys).",
+      "**SW monsoon (Jun-Sep)** brings ~**75%** of India's rain; two branches — **Arabian Sea & Bay of Bengal**.",
+      "**ITCZ (monsoon trough), jet streams, El Nino** modulate the monsoon.",
+      "**Mawsynram/Cherrapunji** (Meghalaya) — wettest places on Earth.",
+      "**Retreating (NE) monsoon (Oct-Dec)** gives rain to the **AP-Tamil Nadu coast**.",
+      "**Godavari & Krishna** are AP's main rivers (deltaic rice bowl)."
+    ],
+    "mainsAngles": [
+      "Explain the mechanism of the Indian monsoon and its regional variation."
+    ],
+    "glossary": [
+      {"term": "Monsoon", "definition": "The seasonal reversal of winds bringing India's rainfall, chiefly the SW monsoon (Jun-Sep)."},
+      {"term": "Peninsular river", "definition": "A seasonal, rain-fed river of the plateau (e.g. Godavari, Krishna)."},
+      {"term": "ITCZ", "definition": "The Inter-Tropical Convergence Zone whose seasonal shift drives the monsoon."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-119",
+    "sections": [
+      {
+        "heading": "Natural vegetation, parks & sanctuaries",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **natural vegetation** grades with rainfall from **tropical evergreen to thorn forests**, protected through a network of **national parks, wildlife sanctuaries, biosphere reserves and tiger/elephant reserves** — with important sites in **Andhra Pradesh**."
+          },
+          {
+            "type": "table",
+            "headers": ["Vegetation / PA", "Detail"],
+            "rows": [
+              ["**Vegetation types**", "**Tropical evergreen (heavy rain), deciduous (monsoon — most widespread), thorn/scrub (arid), montane, mangrove (Sundarbans)**."],
+              ["**Protected areas**", "**National Parks, Wildlife Sanctuaries, Biosphere Reserves, Conservation/Community Reserves**."],
+              ["**Project Tiger / Elephant**", "Tiger reserves (Corbett — first); India holds ~70% of wild tigers."],
+              ["**AP parks**", "**Nagarjunasagar-Srisailam Tiger Reserve (largest), Papikonda & Sri Venkateswara NP, Coringa & Kolleru sanctuaries, Seshachalam Biosphere**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Vegetation by rainfall: evergreen→deciduous(most common)→thorn; mangrove = Sundarbans/Coringa.",
+              "AP: Nagarjunasagar-Srisailam (largest tiger reserve), Coringa mangrove, Kolleru birds."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Tropical deciduous (monsoon) forest** — the most widespread type in India.",
+      "**Tropical evergreen** — Western Ghats, NE, A&N (heavy rain); **thorn/scrub** — arid NW & Rayalaseema.",
+      "**Mangroves** — Sundarbans (largest), **Coringa (AP)**.",
+      "**National Park > Wildlife Sanctuary** in protection level; **Biosphere Reserves** (18 in India).",
+      "**Nagarjunasagar-Srisailam** — India's **largest tiger reserve** (AP-Telangana).",
+      "AP protected areas — **Papikonda, Sri Venkateswara NP; Coringa, Kolleru, Nelapattu, Pulicat sanctuaries; Seshachalam Biosphere**.",
+      "**Corbett** — India's first national park; **Project Tiger (1973)**."
+    ],
+    "mainsAngles": [
+      "Classify India's natural vegetation and describe its protected-area network."
+    ],
+    "glossary": [
+      {"term": "Deciduous forest", "definition": "Monsoon forest that sheds leaves in the dry season — India's most widespread vegetation type."},
+      {"term": "Biosphere Reserve", "definition": "A large protected area conserving biodiversity with sustainable human use (e.g. Seshachalam)."},
+      {"term": "Tiger Reserve", "definition": "A protected area under Project Tiger; Nagarjunasagar-Srisailam is India's largest."}
+    ]
+  },
+  {
+    "code": "PRE-PI-G-120",
+    "sections": [
+      {
+        "heading": "Major soil types, rocks & minerals",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **soils** (eight major types), **rocks** (igneous, sedimentary, metamorphic) and **minerals** underpin agriculture and industry. **Alluvial and black soils** are the most fertile/extensive, and the peninsula (including **AP**) is a rich mineral storehouse."
+          },
+          {
+            "type": "table",
+            "headers": ["Soil", "Where & crop"],
+            "rows": [
+              ["**Alluvial**", "Northern plains & river deltas (incl. AP coast); most fertile — **rice, wheat, sugarcane**."],
+              ["**Black (regur)**", "Deccan trap; **cotton** ('black cotton soil'); moisture-retentive."],
+              ["**Red**", "Peninsula (much of AP); iron-rich; **millets, groundnut**."],
+              ["**Laterite**", "High-rainfall Ghats; leached; **cashew, plantation**."],
+              ["**Rocks/minerals**", "**Igneous, sedimentary, metamorphic**; AP — **barytes (Mangampet, world's largest), limestone, granite, mica, coal (Singareni)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Soil-crop pairs: alluvial-rice, black-cotton, red-groundnut, laterite-cashew.",
+              "AP minerals: Mangampet barytes (world's largest), Singareni coal, granite exports."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Alluvial soil** — most extensive & fertile; **black (regur)** — best for **cotton**.",
+      "**Red soil** — much of the peninsula/AP (iron oxide); **laterite** — leached, high-rainfall areas.",
+      "Three rock types — **igneous, sedimentary, metamorphic**.",
+      "**Mangampet (AP)** — world's largest **barytes** deposit.",
+      "**Singareni coalfields (Godavari valley)** — peninsular India's main coal.",
+      "AP also has **limestone (cement), granite, mica, bauxite, uranium (Tummalapalle)**.",
+      "**Black soil** is derived from the **Deccan lava (trap)**."
+    ],
+    "mainsAngles": [
+      "Describe the major soil types of India and their agricultural significance."
+    ],
+    "glossary": [
+      {"term": "Regur", "definition": "Black cotton soil formed on the Deccan trap, ideal for cotton."},
+      {"term": "Laterite soil", "definition": "A leached, iron-rich soil of high-rainfall regions, suited to cashew and plantations."},
+      {"term": "Barytes", "definition": "A barium mineral used in oil drilling; AP's Mangampet is the world's largest deposit."}
+    ]
+  }
+]
