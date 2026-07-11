@@ -1,0 +1,414 @@
+[
+  {
+    "code": "MN-PIV-IDI-038",
+    "sections": [
+      {
+        "heading": "Industry's role — and the policy evolution to 1991",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Industry (~**28-30% of GVA**; manufacturing ~17%) is development's **productivity escalator**: it absorbs farm labour at higher wages, generates innovation-linkage density (one manufacturing job ~2-3 indirect), earns tradables, and builds strategic capacity (defence-energy-pharma). India's policy evolution is a **five-act play**: (1) **IPR 1948** — mixed economy declared; (2) **IPR 1956** — the 'economic constitution': Schedule A (17 state-monopoly industries), B (state-led), C (private); the Mahalanobis heavy-industry alignment; (3) **the licence-permit raj's consolidation** — Industries Act 1951's licensing, MRTP 1969 (size policing), FERA 1973 (foreign-equity caps ~40%; IBM-Coca-Cola exits 1977), small-scale reservation (~800+ items); (4) **1980s creep-liberalisation** — 1980 IPR's pragmatism, broad-banding, MODVAT (1986), seeds of exit; (5) **1991** — the rupture (IDI-039)."
+          },
+          {
+            "type": "table",
+            "headers": ["Pre-1991 assessment", "Achievements", "Costs"],
+            "rows": [
+              ["Capability", "Heavy-industrial base (steel-machines-power), scientific establishment, entrepreneurial survival", "Diversified but inefficient — world-frontier gaps widened"],
+              ["Control regime", "Direction of scarce capital to plan priorities", "**Licensing = queueing + rent-seeking; MRTP punished scale; FERA repelled technology**"],
+              ["Protection", "Infant-industry space", "Infants never graduated — tariff walls bred high-cost habits; export pessimism self-fulfilled (~0.5% world-trade share by 1990)"],
+              ["Public-sector primacy", "Temples built (IDI-040's file)", "Soft budgets, administered prices, chronic under-returns"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Reading the evolution — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The design-vs-drift distinction**: 1956's logic (scarce capital, defence needs, equity aims) was coherent FOR ITS TIME; the failure was **non-adaptation** — controls built for scarcity persisting into rigidity: critique the drift, credit the design.",
+              "**The 1980s bridge**: growth rose to ~5.5% on creeping deregulation + fiscal expansion — proving controls were binding, while the borrowed-boom's BoP bill set up 1991: the decade as both proof and prelude.",
+              "**AP thread**: the pre-91 public-sector map placed **Visakhapatnam's shipyard (1941/nationalised 1961), HAL-adjacent units, BHEL(R&D)-Hyderabad-era**, and the port-steel dream (Vizag Steel's 1970s agitation — 'Visakha ukku, Andhrula hakku' — plant commissioned 1990-92): the state's industrial baseline was plan-era public investment."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[IPR 1948 - mixed economy] --> B[IPR 1956 - three schedules, heavy industry]\n  B --> C[Licence raj: 1951 Act, MRTP 1969, FERA 1973]\n  C --> D[High-cost, low-scale industrialisation]\n  D --> E[1980s creep: broad-banding, MODVAT]\n  E --> F[Growth up, BoP strain]\n  F --> G[1991 rupture]\n  B --> H[AP baseline: Vizag shipyard, steel movement]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Five-act periodisation + the achievements-costs table + design-vs-drift verdict; 'Visakha ukku' is the AP industrial-history flag.",
+              "Numbers: Schedule A-17, FERA-40%, SSI-800 items, world-trade share 0.5%."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'The controls were designed for scarcity and retained into sclerosis' — the one-line verdict on 1948-91 that shows judgment, not nostalgia or caricature."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**IPR 1956** — 'economic constitution': **Schedule A (17 exclusive-state), B (12 progressive-state), C (private)**.",
+      "**Industries (D&R) Act 1951** — the licensing statute; **MRTP 1969** (assets-threshold scrutiny) → replaced by **Competition Act 2002**.",
+      "**FERA 1973** capped foreign equity (~40%) — IBM & Coca-Cola exits (1977); replaced by **FEMA 1999**.",
+      "**MODVAT (1986)** — input-credit excise: GST's conceptual ancestor.",
+      "Small-scale reservation peaked ~**800+ items**; dismantled through the 2000s (ended 2015).",
+      "India's world-merchandise-export share fell to ~**0.5% (1990)** from ~2% (1950).",
+      "**Visakhapatnam Steel Plant** — sanctioned after the 1966 'Visakha ukku' agitation (32 lives); commissioned 1990-92; RINL's privatisation-revival debates current."
+    ],
+    "mainsAngles": [
+      "Industry is the productivity escalator — establish its development role and India's under-industrialisation puzzle.",
+      "From the 1956 constitution to the licence raj's sclerosis — periodise policy with the design-versus-drift verdict.",
+      "MRTP punished size and FERA repelled capital — evaluate the control regime's unintended architecture.",
+      "The 1980s proved the controls binding and the financing unsustainable — assess the bridge decade.",
+      "Write AP's plan-era industrial baseline — shipyard to steel movement — as the regional face of national policy."
+    ],
+    "glossary": [
+      { "term": "Licence raj", "definition": "The permission-based industrial regime (capacity, location, expansion licences) of 1951-91 — queueing as allocation." },
+      { "term": "Schedule A industries", "definition": "IPR 1956's seventeen state-monopoly sectors (arms, atomic energy, rail, steel…) — the commanding heights." },
+      { "term": "Broad-banding", "definition": "1980s flexibility letting licensed firms switch between related products — deregulation by stealth." },
+      { "term": "Export pessimism", "definition": "The plan-era belief that world markets couldn't absorb Indian exports — protection's self-fulfilling premise." },
+      { "term": "Infant-industry argument", "definition": "Temporary protection for learning industries — valid in design, corrupted by permanence." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IDI-039",
+    "sections": [
+      {
+        "heading": "1991 — the New Industrial Policy and its impact",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **July 24, 1991 Statement on Industrial Policy** — born of the BoP crisis (reserves ~2 weeks' imports; gold pledged; IMF programme) — dismantled four walls in one stroke: **(1) De-licensing** — industrial licensing abolished except a security-environment shortlist (now ~4-5 sectors); **(2) Public-sector pruning** — reservation cut from 17 to 8 (now ~2-3: atomic energy, rail operations' core), sick-PSU review to BIFR, disinvestment begun; **(3) MRTP defanged** — pre-entry size scrutiny abolished (competition policy re-founded 2002); **(4) Foreign walls lowered** — FDI to 51% automatic in 34 industries (then ever-upward), FERA→FEMA, technology-agreement freedom. Companion reforms: trade (tariffs ~150%→~10% average by 2007), exchange rate (devaluation→managed float), finance (SEBI, private banks)."
+          },
+          {
+            "type": "table",
+            "headers": ["Impact ledger", "Evidence", "Caveat"],
+            "rows": [
+              ["Growth & efficiency", "GDP trend up (~6-7% post-91 vs ~4-5%); TFP gains in de-licensed industries; corporate deepening (the Infosys-to-Bharti class)", "Manufacturing SHARE stagnated (~16-17%) — reform freed industry without igniting industrialisation: the central puzzle"],
+              ["Competition & consumers", "Choice-quality revolutions (autos-telecom-aviation); prices of tradables disciplined", "Import competition + China shock (2001-) hit labour-intensive segments (toys-electronics's hollowing)"],
+              ["Employment", "Services absorbed the educated; organised-manufacturing jobs grew slowly", "**Jobless-industrialisation critique**; informality persisted ~90%"],
+              ["Regions & firms", "Agglomeration winners (west-south corridors — TN-Gujarat-Maharashtra-Karnataka; **AP's post-91 rise via Hyderabad-then-coast**)", "Laggard-state divergence; the missing-middle firm distribution survived reform"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Verdict and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The mature verdict**: 1991 removed the state's VETO but not industry's BINDING CONSTRAINTS (land-labour-logistics-credit-skills) — hence liberation without transformation; the post-2014 stack (GST, IBC, PLI, Gati Shakti, codes) is best read as **1991's unfinished second half**.",
+              "**AP's 1991 story**: liberalisation + a reformist-state posture made undivided AP an early adopter (power reforms, IT-Hyderabad, the first EoDB-style single windows) — residual AP inherited the posture and re-aimed it at the coast (IDA-043).",
+              "**Craft**: four-walls dismantled + companion reforms + the two-column impact ledger + the unfinished-second-half thesis."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[1991 crisis] --> B[NIP: de-licensing, PSU pruning, MRTP defanged, FDI opened]\n  B --> C[Growth and consumer revolutions]\n  B --> D[Manufacturing share flat - the puzzle]\n  D --> E[Binding constraints untouched: land, labour, logistics, credit]\n  E --> F[Second-half reforms: GST, IBC, PLI, codes, Gati Shakti]\n  C --> G[1991 as liberation]\n  F --> H[Transformation still in progress]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Date-precision (24 July 1991), the 17→8→~2 reservation arc, 51%-automatic, tariff collapse — the factual spine.",
+              "'Liberation without transformation' + 'the unfinished second half' — the two theses that organise any impact question."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The examiner's favourite twist — 'why didn't manufacturing take off after 1991?' — answer with the binding-constraints list and the second-half framing, not with blame on the reform itself."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Statement on Industrial Policy: 24 July 1991** (alongside the Rao-Manmohan budget).",
+      "Public-sector reservation: **17 (1956) → 8 (1991) → effectively 2-3 today** (atomic energy, specified rail).",
+      "Industrial licensing survives only for a **security-hazard shortlist** (explosives, hazardous chemicals, tobacco, defence-adjacent).",
+      "**FDI 51% automatic in 34 industries (1991)**; FERA replaced by **FEMA (1999)**; MRTP → **Competition Act 2002 (CCI from 2009)**.",
+      "Peak tariffs ~**150% (1991) → ~10% average (2007-08)**; rupee devalued ~18-19% (July 1991, two steps).",
+      "Reserves at crisis trough ≈ **$1.1-1.2 bn (~2 weeks' imports)**; **47 tonnes gold pledged** (Bank of England/UBS).",
+      "Manufacturing's GVA share has stayed ~**16-17%** through three post-reform decades — the stagnation fact."
+    ],
+    "mainsAngles": [
+      "Four walls fell on one July day — anatomise the 1991 industrial-policy rupture and its companions.",
+      "Liberation without transformation — explain manufacturing's flat share despite de-licensing.",
+      "The consumer won 1991 first — evaluate competition's welfare gains against the China-shock casualties.",
+      "GST-IBC-PLI as 1991's second half — argue the continuity thesis of Indian reform.",
+      "Undivided AP was liberalisation's eager student — trace the state posture from 1991 to the coastal strategy."
+    ],
+    "glossary": [
+      { "term": "De-licensing", "definition": "Abolition of capacity-entry permissions (1991) — the state's veto withdrawn from private industry." },
+      { "term": "Structural adjustment", "definition": "The crisis-conditioned macro-plus-trade reform package of 1991 — stabilisation now, liberalisation forward." },
+      { "term": "China shock", "definition": "Post-2001 import surge displacing labour-intensive segments — reform-era industry's external stress test." },
+      { "term": "Total factor productivity", "definition": "Output growth beyond input growth — the efficiency dividend de-licensing measurably raised." },
+      { "term": "Missing middle", "definition": "India's firm-size gap between micro and large — the distribution 1991 freed but didn't fix." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IDI-040",
+    "sections": [
+      {
+        "heading": "The public sector — contribution and reckoning",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Ledger", "Content"],
+            "rows": [
+              ["**Contribution**", "Built the base no private balance-sheet could (steel-power-machines-oil), infrastructure & backward-region industrialisation (**Vizag Steel's coastal-AP anchor role**), employment-training academies (the PSU-trained manager class), strategic autonomy (ISRO-DRDO-BHEL-HAL's ecosystems), market-failure services (rail-post-rural banking after 1969 nationalisation)"],
+              ["**The reckoning**", "Under-returns on ~₹17-lakh-crore+ invested capital (CPSE survey era), soft-budget losses (BSNL-Air-India's fiscal drains pre-exit), administered-price distortions, over-manning, board politicisation — 'temples' becoming 'trusts of last resort'"],
+              ["**LPG's impact on PSUs**", "Competition ended monopolies (telecom's lesson: BSNL vs private), MoU-Ratna autonomy ladders (**Maharatna-11, Navratna-26, Miniratna-scale**), listing's discipline (LIC 2022 the giant), and the sorting — profitable strategics (NTPC-PowerGrid-ONGC) vs chronic patients"],
+              ["**Disinvestment & privatisation arc**", "Minority sales (1991-98) → **strategic sales (1999-2004: BALCO, Hindustan Zinc, VSNL, IPCL)** → the ETF-listing decade (receipts without control transfer) → **the 2021 turn: Air India's Tata sale + the New PSE Policy (strategic sectors' bare-minimum presence; non-strategic exit)** — with **NINL (2022)** done, RINL-Vizag's on-off saga (2024-25 revival package instead of sale — the AP-political economy exhibit), IDBI's sale in motion"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The debate matured — and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Privatisation's case**: allocative efficiency, fiscal release (subsidy-to-capex), Air India's turnaround signs, Hindustan-Zinc-BALCO's post-sale growth; **the counter-case**: strategic-sector prudence, monopoly-transfer risk (sell into competition, not into monopoly), employment-region shocks (the Vizag-plant emotion — 'Visakha ukku' round two), family-silver timing critiques.",
+              "**The synthesis policy**: the **2021 PSE policy's** four strategic sectors (atomic-space-defence; transport-telecom; power-petroleum-minerals; banking-insurance-financial) with 'bare minimum' presence + non-strategic privatisation-closure — ownership as portfolio choice, not theology; execution (beyond Air India-NINL) remains the test.",
+              "**AP register**: RINL (the state's industrial totem — package-revival 2025 over privatisation), HSL shipyard, NTPC-Simhadri, the port-PSU interface — public capital's coastal footprint and its political economy."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Public sector] --> B[Built the base: steel, power, strategic]\n  A --> C[Reckoning: under-returns, soft budgets]\n  D[LPG competition] --> E[Sorting: strong strategics vs chronic patients]\n  E --> F[Disinvestment ladder: minority - strategic - listing]\n  F --> G[2021 policy: four sectors, bare minimum]\n  G --> H[Air India sold; RINL revived not sold]\n  H --> I[Ownership as portfolio, execution as test]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Contribution-reckoning ledger + the disinvestment arc's four phases + the 2021 policy + sell-into-competition principle; RINL as the living AP case.",
+              "Numbers: Maharatna-11, Air India-2021, LIC-2022, four strategic sectors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Judge each PSU as portfolio, not ideology — strategic keep, competitive sell, chronic close' — with RINL's revival-over-sale as the political-economy footnote every AP answer should carry."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**New PSE Policy (2021)**: four strategic sectors with 'bare minimum' CPSEs; non-strategic — privatise or close.",
+      "**Air India → Tata (talks closed Oct 2021, handover Jan 2022)** — the strategic-sale landmark; **NINL → Tata Steel (2022)**.",
+      "Ratna ladder: **Maharatna (11), Navratna (26 era), Miniratna I/II** — graded autonomy.",
+      "**LIC IPO (May 2022)** — India's largest listing.",
+      "Strategic-sale first wave (1999-2004): **BALCO, Hindustan Zinc, VSNL, IPCL, hotels**.",
+      "**RINL (Vizag Steel)**: 100% strategic-sale approval (2021) met sustained agitation; **2025 revival package (~₹11,440 crore)** chose restructuring over sale.",
+      "Bank nationalisation: **1969 (14 banks), 1980 (6)** — the financial-PSU layer's origin."
+    ],
+    "mainsAngles": [
+      "Temples, then trusts of last resort — audit the public sector's contribution and reckoning across seven decades.",
+      "Sell into competition, never into monopoly — derive privatisation's design principles from BALCO to Air India.",
+      "The 2021 PSE policy made ownership a portfolio question — assess its logic and execution gap.",
+      "Vizag Steel is a balance sheet and a sentiment — analyse the RINL saga's political economy.",
+      "Listing disciplines what sale cannot touch — evaluate the middle path of minority markets and Ratna autonomy."
+    ],
+    "glossary": [
+      { "term": "Soft budget constraint", "definition": "The expectation of state rescue that blunts a PSU's efficiency incentives — Kornai's diagnosis." },
+      { "term": "Strategic disinvestment", "definition": "Transfer of control (majority + management) — privatisation proper, versus minority stake sales." },
+      { "term": "Maharatna", "definition": "The top CPSE autonomy tier (investment powers up to ₹5,000 crore per project) — NTPC-ONGC class." },
+      { "term": "Golden share concerns", "definition": "Residual state vetoes post-sale — control questions that price and governance must settle." },
+      { "term": "Bare-minimum presence", "definition": "The 2021 policy's cap on CPSE count within strategic sectors — consolidation with retention." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IDI-041",
+    "sections": [
+      {
+        "heading": "Core industries — and the MSME universe",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **eight core industries** (ICI, ~40% weight in IIP): **coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, electricity** — infrastructure's input spine, each with its problem file: coal's logistics-quality, crude-gas's declining domestic output (import ~88%/50%), fertiliser's subsidy-urea distortion (~₹1.7-2 lakh cr subsidy), steel-cement's demand-cyclicality + carbon exposure (CBAM's shadow), electricity's DISCOM chain. **MSMEs** are the other pole: **~6+ crore units, ~11-12 crore jobs, ~30% of GDP, ~45% of exports** — classified (2020, composite): micro ≤₹1 cr investment & ≤₹5 cr turnover; small ≤10/50; medium ≤50/250 (2025 budget raised bands ~2.5x — investment ≤2.5/25/125 cr, turnover ≤10/100/500 cr)."
+          },
+          {
+            "type": "table",
+            "headers": ["MSME file", "Problem", "Support mechanism"],
+            "rows": [
+              ["Credit", "~₹25-30 lakh cr gap; collateral-information barriers", "**Mudra (~₹27 lakh cr cumulative), CGTMSE guarantees (limit ₹10 cr era), 59-minute loans, TReDS receivables, PSL sub-targets**"],
+              ["**Sickness & stress**", "Definition — SMA-NPA slide; causes: delayed payments (the #1 killer — buyers' float on MSME working capital), demand shocks, tech obsolescence", "**Samadhaan portal (delayed-payment MSEFC councils), 45-day payment rule (Sec 43B(h) IT Act — the 2024 enforcement lever)**, revival framework (RBI's restructuring windows; pre-pack insolvency for MSMEs 2021), ECLGS's ₹3.7-lakh-cr COVID guarantee"],
+              ["Formalisation & market", "Registration gaps, procurement access", "**Udyam (~5+ crore registrations), GeM's 25% MSE procurement mandate**, PMEGP, cluster development (SFURTI-MSE-CDP), **RAMP (World Bank $500 mn)**, ZED certification"],
+              ["Technology & scale", "The missing-middle graduation fear (losing benefits on growing)", "Graduated-benefit continuation (3-yr protection on upgradation), CHAMPIONS handholding"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Analysis and craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Core industries' common thread**: each is a **regulated-price network industry** where government IS the market-maker — their problems are policy problems (fertiliser's NBS-urea gap, coal's rail rakes, DISCOM dues) more than firm problems: the analytical key.",
+              "**MSME's deepest fix is payment discipline + data-credit**: the 45-day rule (43B(h)) attacks the float; Udyam-GST-AA data builds lendability — cash-flow lending replacing collateral lending is the structural answer.",
+              "**AP register**: core — Vizag refinery-steel-fertiliser (Coromandel), Krishnapatnam power; MSME — ~26 lakh registered units era, aqua-feed & food-processing clusters, Nellore-Prakasam's granite-subabul micro-economies, the constituency-MSME-park policy (IDA-043) — the state as both poles' host."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Eight core industries - 40 percent of IIP] --> B[Policy-made problems: subsidy, logistics, DISCOM dues]\n  C[MSMEs - 30 percent GDP, 45 percent exports] --> D[Credit gap and delayed payments]\n  D --> E[Fixes: guarantees, TReDS, 45-day rule 43Bh]\n  C --> F[Formalisation: Udyam, GeM, RAMP]\n  B --> G[Reform the regulated networks]\n  E --> H[Cash-flow lending era]\n  F --> H\n  G --> I[Industrial foundation stabilised]\n  H --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Core-eight list with one problem each + the regulated-network thesis; MSME four-row table + the payment-and-data fix.",
+              "Numbers: 40% IIP, 30% GDP/45% exports, Udyam 5 cr, Mudra ₹27 lakh cr, 43B(h)-45 days, 2025 classification bands."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'MSMEs die of receivables, not of markets' — the delayed-payment thesis with 43B(h) as its new tooth is the freshest scoring line; for core industries, name the eight in weight order once."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Eight core industries** (weight order): refinery products > electricity > steel > coal > crude > gas > cement > fertilisers — **~40% of IIP**.",
+      "MSME 2020 composite definition; **2025 revision**: investment caps ₹2.5/25/125 crore, turnover ₹10/100/500 crore (micro/small/medium).",
+      "MSMEs: **~30% of GDP, ~45% of exports, 11-12 crore employment; Udyam registrations 5+ crore**.",
+      "**Sec 43B(h), IT Act (from AY 2024-25)**: buyer's deduction only on paying MSEs within **45 days** — the delayed-payment tooth.",
+      "**CGTMSE** collateral-free guarantee limit raised (₹5→10 crore era); **ECLGS (COVID)**: ₹3.7 lakh crore more-or-less guaranteed.",
+      "**Pre-packaged insolvency (2021)** — MSME-specific IBC route; **Samadhaan** portal for delayed-payment cases.",
+      "**GeM mandates 25% procurement from MSEs** (incl. 4% SC/ST, 3% women sub-targets).",
+      "**RAMP** — World Bank-backed $500 mn MSME competitiveness programme."
+    ],
+    "mainsAngles": [
+      "The core eight are policy-made markets — connect each industry's problem to its regulatory design.",
+      "MSMEs die of receivables — evaluate the delayed-payment epidemic and the 43B(h)-Samadhaan-TReDS counterattack.",
+      "From collateral to cash-flow — assess the data-rail transformation of MSME credit.",
+      "Sickness needs revival lanes, not just recognition — examine restructuring windows and pre-pack insolvency.",
+      "Graduation fear keeps firms micro — analyse the threshold-benefit trap and the 2025 reclassification answer."
+    ],
+    "glossary": [
+      { "term": "Index of core industries", "definition": "The monthly output index of the eight infrastructure inputs — IIP's 40% anchor and the economy's pulse check." },
+      { "term": "Udyam registration", "definition": "The self-declared online MSME registry (2020) — formalisation's gateway to benefits." },
+      { "term": "TReDS", "definition": "Exchange platforms auctioning MSME receivables to financiers — liquidity against invoices." },
+      { "term": "Pre-pack insolvency", "definition": "Debtor-initiated, creditor-approved resolution for MSMEs within IBC — speed with continuity." },
+      { "term": "SMA classification", "definition": "Special Mention Accounts (0/1/2) flagging stress before NPA — sickness's early-warning grades." },
+      { "term": "ZED", "definition": "Zero-Defect-Zero-Effect certification — quality-plus-sustainability grading for MSME competitiveness." }
+    ]
+  },
+  {
+    "code": "MN-PIV-IDI-042",
+    "sections": [
+      {
+        "heading": "The manufacturing push — the policy stack since 2011",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": ["Instrument", "Design", "Scorecard"],
+            "rows": [
+              ["**National Manufacturing Policy 2011**", "25% GDP share + 100 mn jobs by 2022; **NIMZs** (giant self-governed zones with exit-flexibility)", "Targets missed wholesale; NIMZs largely paper (land-scale unrealism) — cite as the lesson in announcement-vs-plumbing"],
+              ["**Make in India (2014)**", "25 sectors, EoDB climb ((142→63 World Bank), FDI liberalisation, brand umbrella", "FDI & ease delivered; share-of-GDP didn't move — branding met binding constraints"],
+              ["**SEZs (Act 2005)**", "Duty-free export enclaves; ~270+ operational", "Exports concentrated (IT-pharma-petro); MAT-sunset blows (2011/2020) stalled the model; **DESH Bill** (development hubs, DTA flexibility) the pending redesign; AP's port-linked SEZs the better performers (IDA-044)"],
+              ["**Corridors & parks**", "11-corridor NICDC programme; plug-and-play (the AP chapter IDA-044); **PM MITRA textile parks (7), medical-devices & bulk-drug parks (AP's Kakinada-era bids)**", "Infrastructure-first logic sound; occupancy the test"],
+              ["**Startup India (2016)**", "DPIIT recognition (**~1.5-1.6 lakh startups; 110+ unicorns**), tax holidays, Fund-of-Funds (₹10,000 cr), self-certification", "The ecosystem win — world #3; concentration in services-metros the caveat"],
+              ["**PLI (2020-)**", "**14 sectors, ~₹1.97 lakh crore**, output-linked payouts", "Electronics the star (mobile exports ~$15→29 bn); pharma-drones good; some sectors slow-disbursing — 'PLI works where scale-economics needed a nudge, not a crutch'"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Synthesis — and the AP hook",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The strategy's evolution in one line**: from **zones (SEZ)** to **brands (MII)** to **subsidies (PLI)** to **plumbing (GST-IBC-codes-Gati Shakti)** — each layer learning the last's limit; the frontier is factor markets (land-labour-logistics-skills) + the China+1 window.",
+              "**Honest metrics**: manufacturing GVA share still ~17%; but **electronics' export transformation, GCC-services-manufacturing blur, and FDI's reorientation** show segment-level wins — write 'aggregate stagnation, segment breakthroughs'.",
+              "**AP hook**: Sri City's SEZ-plus model, Kopparthi-Orvakal's corridor bet, PLI landings (electronics-pharma), the constituency-MSME parks, and startup-coast ambitions (Vizag's fintech-valley pitch) — the national stack with a coastal address."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Manufacturing push] --> B[Zones: SEZ 2005 - enclave logic]\n  B --> C[Brand: Make in India 2014]\n  C --> D[Subsidy: PLI 2020 - 14 sectors]\n  D --> E[Plumbing: GST, IBC, codes, Gati Shakti]\n  E --> F[Factor markets - the frontier]\n  G[Startup India - 1.5 lakh firms, 110 unicorns] --> H[New-firm dynamism]\n  F --> I[China+1 window]\n  H --> I\n  I --> J[Aggregate flat, segments breaking through]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "The six-instrument table with scorecards + the zones→brands→subsidies→plumbing evolution + 'aggregate stagnation, segment breakthroughs'.",
+              "Numbers: 25%-target, EoDB 142→63, PLI 14/₹1.97 lakh cr, mobiles $29 bn, startups 1.5 lakh/110+ unicorns, MITRA-7."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Each policy learnt the last one's limit' — the evolution sentence that turns a scheme list into strategy analysis; close with the factor-market frontier, where every serious answer now ends."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**NMP 2011**: 25% manufacturing share + 100 mn jobs by 2022 — unmet; **NIMZs** the zone instrument.",
+      "**Make in India (25 Sept 2014)** — 25 sectors; India's EoDB rank **142 (2014) → 63 (2019)**.",
+      "**SEZ Act 2005**; ~270+ operational SEZs; **DESH Bill** the proposed successor framework.",
+      "**Startup India (16 Jan 2016)**: DPIIT-recognised ~**1.5-1.6 lakh startups; 110+ unicorns**; Fund-of-Funds ₹10,000 crore (SIDBI).",
+      "**PLI: 14 sectors, ₹1.97 lakh crore (2020-21)**; mobile exports ~$29 bn era — electronics the flagship.",
+      "**PM MITRA**: 7 mega textile parks (2023 sites); bulk-drug & medical-device parks scheme rounds.",
+      "**Semicon India (₹76,000 cr)** — fabs-ATMP incentives (Micron's Sanand ATMP the first big landing)."
+    ],
+    "mainsAngles": [
+      "Zones, brands, subsidies, plumbing — periodise the manufacturing push and what each layer learnt.",
+      "PLI works as nudge, fails as crutch — evaluate sector-wise with electronics as proof of concept.",
+      "SEZs enclaved success and stalled — assess the model and the DESH redesign's promises.",
+      "Aggregate flat, segments breaking through — reconcile manufacturing's share stagnation with its export transformations.",
+      "Startup India built the world's third ecosystem — audit its depth, concentration and industrial linkage."
+    ],
+    "glossary": [
+      { "term": "NIMZ", "definition": "National Investment & Manufacturing Zone — the 2011 policy's giant self-governed industrial townships, largely unrealised." },
+      { "term": "Production-Linked Incentive", "definition": "Output-conditional subsidies for scale manufacturing — paying for production, not promises." },
+      { "term": "Unicorn", "definition": "A private startup valued above $1 billion — the ecosystem-depth marker." },
+      { "term": "China+1", "definition": "Global buyers' supply-chain diversification beyond China — India's manufacturing window." },
+      { "term": "DESH Bill", "definition": "The proposed Development of Enterprise and Services Hubs law — SEZ 2.0 with domestic-market flexibility." },
+      { "term": "GCC", "definition": "Global Capability Centres — MNC tech-operations hubs; the services-manufacturing blur India dominates." }
+    ]
+  }
+]
