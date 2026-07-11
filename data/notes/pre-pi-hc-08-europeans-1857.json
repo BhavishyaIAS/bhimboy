@@ -1,0 +1,229 @@
+[
+  {
+    "code": "PRE-PI-HC-039",
+    "sections": [
+      {
+        "heading": "Advent of Europeans & the struggle for supremacy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "European trade with India began with **Vasco da Gama at Calicut (1498)** and became a **century-long contest** among the **Portuguese, Dutch, English, French and Danes**. The **Anglo-French Carnatic Wars** decided that the **English East India Company** would win the race — turning trade into territorial empire."
+          },
+          {
+            "type": "table",
+            "headers": ["Power (est.)", "Bases & fate"],
+            "rows": [
+              ["**Portuguese (1498)**", "First; **Goa (1510, Albuquerque), Daman, Diu**; blue-water/cartaz policy; held Goa till 1961."],
+              ["**Dutch (VOC, 1602)**", "Spice-island focus; ousted after **Bedara (1759)**."],
+              ["**English (EIC, 1600)**", "**Surat, Madras, Bombay, Calcutta**; won via naval-financial strength."],
+              ["**French (CIO, 1664)**", "**Pondicherry; Dupleix**; lost the Carnatic Wars."],
+              ["**Carnatic Wars (1746-63)**", "Anglo-French; **Wandiwash (1760)** decisive; **Treaty of Paris (1763)** ended French ambitions."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Order of arrival: Portuguese→Dutch→English→French→Danes; da Gama 1498; Goa 1510 (Albuquerque).",
+              "Three Carnatic Wars; Wandiwash (1760) sealed English supremacy over the French."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Vasco da Gama** reached **Calicut (1498)**; welcomed by the **Zamorin**.",
+      "**Portuguese** — **Alfonso de Albuquerque** captured **Goa (1510)**; Cartaz pass system; held Goa till **1961**.",
+      "**Dutch (VOC, 1602)**; **English EIC (1600)**; **French (CIO, 1664)**; **Danes (1616)**.",
+      "English factories — **Surat (1613), Madras (1639), Bombay (1668), Calcutta (1690)**.",
+      "**Carnatic Wars (three, 1746-63)** — Anglo-French; **Dupleix** (French) vs Clive.",
+      "**Battle of Wandiwash (1760)** — English decisively beat the French (Count de Lally).",
+      "**Treaty of Paris (1763)** ended French political ambitions in India."
+    ],
+    "mainsAngles": [
+      "Why did the English succeed over other European powers in India?"
+    ],
+    "glossary": [
+      {"term": "Cartaz", "definition": "The Portuguese naval pass system compelling Indian ships to pay for trading rights."},
+      {"term": "Carnatic Wars", "definition": "Three Anglo-French conflicts (1746-63) that established English supremacy in south India."},
+      {"term": "Wandiwash", "definition": "The 1760 battle where the English decisively defeated the French in the Carnatic."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-040",
+    "sections": [
+      {
+        "heading": "Regional focus — Bengal, Bombay, Madras, Mysore, Andhra, Nizam",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Company's rise was won region by region — **Bengal (Plassey, Buxar) gave the financial base; Mysore (four wars vs Hyder Ali & Tipu) and the Nizam of Hyderabad (Subsidiary Alliance)** anchored the south, with **coastal Andhra** (the Northern Circars) an early prize."
+          },
+          {
+            "type": "table",
+            "headers": ["Region", "Key facts"],
+            "rows": [
+              ["**Bengal**", "**Plassey (1757)** — Clive vs Siraj-ud-Daulah; **Buxar (1764)** → **Diwani (1765)**; the empire's financial base."],
+              ["**Mysore**", "**Four Anglo-Mysore Wars (1767-99)**; **Hyder Ali & Tipu Sultan**; Tipu died at **Seringapatam (1799)**."],
+              ["**Hyderabad (Nizam)**", "First to accept **Wellesley's Subsidiary Alliance (1798)**; a loyal ally."],
+              ["**Andhra (Northern Circars)**", "Ceded to the English (1765-66); coastal Andhra came under Company/Madras Presidency early."],
+              ["**Bombay/Marathas**", "**Three Anglo-Maratha Wars (1775-1818)** ended Maratha power."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Bengal (Plassey-Buxar-Diwani) = financial base; Mysore (Tipu, Seringapatam 1799); Nizam = first Subsidiary Alliance.",
+              "Northern Circars = coastal Andhra came under the English early (1760s)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Plassey (1757)** — Clive defeated **Siraj-ud-Daulah** (Mir Jafar's betrayal); **Buxar (1764)** → **Diwani (1765)**.",
+      "**Anglo-Mysore Wars** — **Hyder Ali & Tipu Sultan**; **Tipu killed at Seringapatam (1799)**; Tipu — 'Tiger of Mysore', rocketry.",
+      "**Nizam of Hyderabad** — first ruler to accept **Wellesley's Subsidiary Alliance (1798)**.",
+      "**Northern Circars** (coastal Andhra) ceded to the English (1765-66) — under Madras Presidency.",
+      "**Three Anglo-Maratha Wars (1775-1818)** ended Maratha power; **Three Anglo-Sikh** (later) annexed Punjab.",
+      "**Guntur Circar** was the last acquired (1788).",
+      "**Rani of Sivaganga, Velu Nachiyar** and Andhra poligars resisted early Company rule."
+    ],
+    "mainsAngles": [
+      "Trace the Company's territorial expansion across Bengal, Mysore and the Deccan."
+    ],
+    "glossary": [
+      {"term": "Northern Circars", "definition": "The coastal-Andhra districts ceded to the English East India Company in the 1760s."},
+      {"term": "Subsidiary Alliance", "definition": "Wellesley's system whereby Indian rulers hosted Company troops at their own cost; the Nizam was first to accept."},
+      {"term": "Seringapatam", "definition": "Tipu Sultan's capital, where he died in 1799 ending the Anglo-Mysore Wars."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-041",
+    "sections": [
+      {
+        "heading": "Governor-Generals & Viceroys — chronology & reforms",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "British India was administered by a line of **Governor-Generals (1773–1858)** and, after the Crown took over, **Viceroys (1858–1947)**, each associated with landmark **reforms, wars, annexations and movements** — a favourite exam matching set."
+          },
+          {
+            "type": "table",
+            "headers": ["Official", "Associated with"],
+            "rows": [
+              ["**Warren Hastings**", "First GG of Bengal; Regulating Act; Pitt's India Act; Asiatic Society (Jones)."],
+              ["**Cornwallis**", "**Permanent Settlement (1793)**; civil-service & judicial reforms ('father of civil service')."],
+              ["**Wellesley**", "**Subsidiary Alliance**; defeated Tipu & Marathas."],
+              ["**William Bentinck**", "**Abolition of Sati (1829)**; English education (Macaulay 1835); suppressed thugee."],
+              ["**Dalhousie**", "**Doctrine of Lapse**; **railways/telegraph/PWD (1853)**; annexed Awadh."],
+              ["**Canning**", "Last GG / first **Viceroy**; **Revolt of 1857**; Universities (1857)."],
+              ["**Ripon**", "**Local self-government (1882)**; Ilbert Bill; repealed Vernacular Press Act."],
+              ["**Curzon**", "**Partition of Bengal (1905)**; ASI; Universities Act."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Match reforms to officials: Cornwallis-Permanent Settlement, Bentinck-Sati, Dalhousie-railways/Lapse, Ripon-local self-govt, Curzon-Bengal partition.",
+              "Canning = last GG & first Viceroy (1858)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Warren Hastings** — first Governor-General of Bengal (Regulating Act 1773).",
+      "**Cornwallis** — **Permanent Settlement (1793)**; 'father of Indian Civil Service'.",
+      "**Bentinck** — abolished **Sati (1829)**; **Macaulay's Minute (1835)** English education.",
+      "**Dalhousie** — **Doctrine of Lapse**; started **railways & telegraph (1853)**; annexed Awadh (1856).",
+      "**Canning** — last GG, **first Viceroy** (post-1858); Revolt of 1857.",
+      "**Ripon** — **Local Self-Government (1882)**; Ilbert Bill; **Curzon** — **Partition of Bengal (1905)**, founded **ASI**.",
+      "**Minto II** (Morley-Minto 1909), **Chelmsford** (1919 Act), **Irwin** (Dandi/Gandhi-Irwin pact), **Mountbatten** (last Viceroy, Partition)."
+    ],
+    "mainsAngles": [
+      "Assess the reforms of the major Governor-Generals of British India."
+    ],
+    "glossary": [
+      {"term": "Governor-General", "definition": "The head of British Indian administration (1773-1858); after 1858 the same office was styled Viceroy."},
+      {"term": "Doctrine of Lapse", "definition": "Dalhousie's policy of annexing princely states lacking a natural heir."},
+      {"term": "Permanent Settlement", "definition": "Cornwallis's 1793 revenue settlement fixing zamindars' land tax in perpetuity."}
+    ]
+  },
+  {
+    "code": "PRE-PI-HC-042",
+    "sections": [
+      {
+        "heading": "The Revolt of 1857 — origin, nature, causes & significance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Revolt of 1857** — India's **'First War of Independence'** — began as a **sepoy mutiny at Meerut (10 May 1857)** over the **greased cartridges** and swelled into a broad **civil-military uprising** against a century of British rule. Though suppressed, it ended Company rule and reshaped British policy."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**Immediate cause**", "**Enfield rifle greased cartridges** (cow & pig fat); **Mangal Pandey** (Barrackpore, 29 March 1857)."],
+              ["**Causes**", "**Political (Lapse, annexations), economic (drain, ruin of artisans/peasants), military (discrimination, service conditions), socio-religious (reforms, conversion fears)**."],
+              ["**Leaders & centres**", "**Bahadur Shah II (Delhi), Nana Saheb & Tantia Tope (Kanpur), Rani Lakshmibai (Jhansi), Begum Hazrat Mahal (Lucknow), Kunwar Singh (Bihar)**."],
+              ["**Suppression**", "By 1858; British recaptured Delhi; Bahadur Shah exiled to Rangoon."],
+              ["**Consequence**", "**Government of India Act 1858** — Crown rule; end of the Company & Mughal line; Doctrine of Lapse dropped; army reorganised."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Immediate spark = greased cartridges; Mangal Pandey; Meerut 10 May 1857; centres & leaders.",
+              "Result = GoI Act 1858 (Crown rule). Nature debated: sepoy mutiny vs first war of independence (Savarkar)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Immediate cause — **greased cartridges** of the **Enfield rifle**; **Mangal Pandey** fired the first shot (Barrackpore).",
+      "Revolt broke out at **Meerut (10 May 1857)**; symbolic leader **Bahadur Shah II** (Delhi).",
+      "Leaders — **Nana Saheb, Tantia Tope (Kanpur); Rani Lakshmibai (Jhansi); Begum Hazrat Mahal (Lucknow); Kunwar Singh (Bihar)**.",
+      "Did NOT spread to the **south** & much of Bengal/Punjab; educated Indians & most princes stayed aloof.",
+      "**Government of India Act 1858** — abolished the Company; **Crown rule**; **Queen's Proclamation**.",
+      "**V.D. Savarkar** called it the **'First War of Independence'**; others term it a sepoy mutiny.",
+      "The **Doctrine of Lapse** was abandoned and the **army reorganised** (higher British ratio)."
+    ],
+    "mainsAngles": [
+      "Analyse the causes, nature and significance of the Revolt of 1857."
+    ],
+    "glossary": [
+      {"term": "Greased cartridges", "definition": "Enfield-rifle cartridges rumoured to be greased with cow and pig fat, the immediate trigger of 1857."},
+      {"term": "Government of India Act 1858", "definition": "The Act that ended Company rule and transferred India to direct Crown administration."},
+      {"term": "Mangal Pandey", "definition": "The sepoy at Barrackpore whose defiance in March 1857 presaged the revolt."}
+    ]
+  }
+]
