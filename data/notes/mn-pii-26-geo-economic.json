@@ -1,0 +1,338 @@
+[
+  {
+    "code": "MN-PII-G-079",
+    "sections": [
+      {
+        "heading": "The primary sector — agriculture, livestock, forestry & fishery",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **primary sector** is the backbone of Andhra Pradesh's economy and employment. AP is a national leader in **rice, and India's top producer of many horticultural and marine products** — the country's largest in **fish & shrimp, and eggs**, a major grower of **cotton, chillies, tobacco, groundnut and mango** — making agriculture-allied activities the state's defining economic geography and its 'rice bowl of India' identity."
+          },
+          {
+            "type": "table",
+            "headers": ["Sub-sector", "AP profile"],
+            "rows": [
+              ["**Agriculture (crops)**", "**Rice** the staple (Godavari-Krishna deltas); **cotton, chillies (Guntur — largest), tobacco (Virginia), groundnut (Rayalaseema), sugarcane, pulses, millets**."],
+              ["**Horticulture**", "India's leader in several — **mango, chillies, oil palm, papaya, tomato, sweet orange (Kadapa), banana**; a horticulture powerhouse."],
+              ["**Livestock**", "Large **poultry (No. 1 in eggs — 'egg bowl'), dairy (buffalo/Ongole cattle), sheep/goat**; Ongole breed world-famous."],
+              ["**Fishery**", "**No. 1 in India in fish & shrimp production**; long coastline + brackish aquaculture (West Godavari, Krishna, Nellore) — a top seafood-export state."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Structure, strengths and challenges",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Agriculture — the rice bowl + cash crops**: **canal-irrigated deltaic rice** plus **rainfed Rayalaseema (groundnut, millets) and cotton/chillies/tobacco cash crops** define AP's dual agriculture; **Guntur is the world's chilli hub**, and AP leads in **tobacco (Virginia)** and horticulture.",
+              "**The Blue Revolution (a signature strength)**: AP is **India's largest producer of fish, shrimp and aquaculture** — the coastal brackish-water belt (Bhimavaram, Nellore) drives a huge **seafood-export economy** (shrimp to the US/EU); fisheries are AP's standout primary-sector success.",
+              "**Livestock & the 'egg bowl'**: AP (with the Godavari districts) is **India's poultry/egg leader**, has strong **dairy** (buffalo, the famed **Ongole cattle**), and significant small-ruminant rearing — allied activities cushioning farm incomes.",
+              "**Forestry & the challenges**: **forestry** yields timber, bamboo, beedi-leaf, and NTFPs supporting tribes; but the sector faces **water stress/inter-state disputes, tenant-farmer distress, price volatility, aquaculture's environmental costs (salinisation), and climate risk (cyclones)** — the reform agenda."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP primary sector] --> B[Agriculture - rice, cotton, chillies, tobacco, groundnut]\n  A --> C[Horticulture - mango, oil palm, citrus]\n  A --> D[Livestock - poultry No.1 eggs, Ongole cattle, dairy]\n  A --> E[Fishery - No.1 fish and shrimp, aquaculture]\n  E --> F[Seafood exports]\n  A --> G[Forestry - timber, bamboo, NTFP]\n  A --> H[Challenges - water, tenant distress, climate risk]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Cover all four sub-sectors (crops, livestock, forestry, fishery) with AP's national rankings — rice bowl, No.1 fish/shrimp & eggs, Guntur chillies, Virginia tobacco.",
+              "Foreground the Blue Revolution (aquaculture/shrimp exports) and the 'egg bowl' as AP's distinctive primary-sector strengths; end with the reform/challenge list."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Lead with AP's national rankings — rice bowl, No.1 in fish/shrimp and eggs, Guntur chillies, Virginia tobacco — then structure the answer across crops-livestock-forestry-fishery, spotlighting the Blue Revolution and the egg bowl, closing on water/tenant/climate challenges."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP — the **'rice bowl of India'** (Godavari-Krishna deltas).",
+      "**No. 1 in India in fish & shrimp** production and in **egg** production ('egg bowl').",
+      "**Guntur** — India's chilli hub; AP leads in **Virginia tobacco** and several horticulture crops (mango, oil palm).",
+      "**Rayalaseema** — groundnut & millet belt (rainfed).",
+      "**Ongole cattle** — a world-famous AP draught/beef breed.",
+      "Aquaculture belt — **West Godavari (Bhimavaram), Krishna, Nellore** — drives seafood exports.",
+      "Forestry — timber, bamboo, beedi-leaf and NTFPs support tribal economies."
+    ],
+    "mainsAngles": [
+      "Analyse the structure of Andhra Pradesh's primary sector and its national significance.",
+      "Assess the Blue Revolution in Andhra Pradesh and its export economy.",
+      "Discuss the dual character of AP agriculture — deltaic irrigated versus rainfed Rayalaseema.",
+      "Examine the role of livestock and poultry in AP's rural economy.",
+      "Evaluate the challenges of water, tenancy and climate facing AP's primary sector."
+    ],
+    "glossary": [
+      {"term": "Primary sector", "definition": "The part of the economy that extracts/harvests natural products — agriculture, livestock, forestry and fishing."},
+      {"term": "Blue Revolution", "definition": "The rapid expansion of fisheries and aquaculture; AP leads India in fish and shrimp production."},
+      {"term": "Ongole cattle", "definition": "A renowned indigenous AP cattle breed valued for draught power and exported worldwide."},
+      {"term": "NTFP", "definition": "Non-timber forest produce (bamboo, beedi-leaf, gum, honey) supporting forest-dwelling communities."},
+      {"term": "Horticulture", "definition": "The cultivation of fruits, vegetables and spices; AP leads India in mango, chillies and oil palm among others."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-080",
+    "sections": [
+      {
+        "heading": "Quarrying & mining in Andhra Pradesh",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Building on AP's mineral geology (G-076), **mining & quarrying** form a significant part of the state's economy — AP is a national leader in **barytes, limestone, granite/dimension stone, and mica**, with important **coal (Singareni), bauxite, uranium and heavy-mineral beach sands**. The sector drives cement, construction and exports, but raises serious **environmental and illegal-mining concerns**."
+          },
+          {
+            "type": "table",
+            "headers": ["Mineral", "AP mining note"],
+            "rows": [
+              ["**Barytes**", "**Mangampet (Kadapa)** — world's largest deposit; AP dominates Indian barytes output (APMDC-run)."],
+              ["**Limestone**", "Widespread (Cuddapah basin) → feeds a **large cement industry** (Kadapa, Guntur, Krishna)."],
+              ["**Granite / dimension stone**", "Major **quarrying & export** ('Black Galaxy', Srikakulam/ Chimakurthy) — high foreign-exchange earner."],
+              ["**Coal, bauxite, beach sands**", "**Singareni coal (Godavari valley)**; **Eastern-Ghat bauxite**; **heavy-mineral beach sands (ilmenite, garnet, monazite)** along the coast."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Economic role and the environmental question",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Economic significance**: mining supplies raw material to **cement, steel, ceramics, refractories and construction**, earns **export revenue (granite, barytes, seafood-region sands)**, and provides rural employment; **APMDC** (state corporation) is a key player alongside Singareni (coal).",
+              "**Quarrying & construction materials**: a vast **quarrying economy** — granite, limestone, road-metal, and above all **river sand** — feeds AP's building boom; sand is a scarce, politically sensitive resource.",
+              "**The illegal-mining challenge (the key issue)**: **red-sanders smuggling (from Seshachalam), unregulated sand mining (river-bed damage), and beach-sand/quarry violations** are major governance problems — prompting state **sand policies, monitoring and enforcement drives**.",
+              "**Environmental & social costs**: mining causes **deforestation (Eastern-Ghat bauxite vs tribal/Fifth-Schedule areas — the Samata judgment context), land degradation, water pollution, and displacement**; sustainable, regulated mining with tribal consent (PESA/FRA) is the policy frontier."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP mining and quarrying] --> B[Barytes - Mangampet, APMDC]\n  A --> C[Limestone - cement industry]\n  A --> D[Granite - quarrying and exports]\n  A --> E[Coal - Singareni]\n  A --> F[Bauxite and beach sands]\n  A --> G[Sand quarrying - construction]\n  H[Concerns] --> I[Illegal sand and red-sanders]\n  H --> J[Tribal areas - Samata, PESA/FRA]\n  H --> K[Environmental degradation]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "List AP's mining leaders (barytes-Mangampet, limestone-cement, granite-exports, Singareni coal), note APMDC's role, then the quarrying/construction-material economy.",
+              "Give strong weight to the environmental-and-illegal-mining issue (sand, red sanders, bauxite-in-tribal-areas/Samata) — that is where the analytical marks lie."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Pair AP's mining strengths (Mangampet barytes, cement limestone, granite exports, Singareni coal) with the governance issue — illegal sand & red-sanders mining and bauxite in Fifth-Schedule tribal areas (the Samata judgment) — for a balanced, high-scoring answer."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mangampet (Kadapa)** — world's largest barytes deposit; AP dominates Indian barytes (**APMDC**).",
+      "**Limestone** (Cuddapah basin) feeds AP's large **cement industry**.",
+      "**Granite/dimension stone** ('Black Galaxy', Chimakurthy) — major quarrying & export earner.",
+      "**Singareni coal** (Godavari valley); **Eastern-Ghat bauxite**; **beach sands** (ilmenite, garnet, monazite).",
+      "**APMDC** — Andhra Pradesh Mineral Development Corporation.",
+      "**Samata judgment (1997)** — SC ruling restricting private mining in Scheduled (tribal) areas.",
+      "Governance issues — **illegal sand mining** and **red-sanders smuggling**."
+    ],
+    "mainsAngles": [
+      "Assess the economic significance of mining and quarrying in Andhra Pradesh.",
+      "Discuss the problem of illegal mining (sand and red sanders) in AP and its governance response.",
+      "Examine the tension between bauxite mining and tribal rights in the Eastern Ghats (Samata judgment).",
+      "Analyse the linkage between AP's mineral resources and its cement and granite industries.",
+      "Evaluate the environmental costs of quarrying and mining in Andhra Pradesh."
+    ],
+    "glossary": [
+      {"term": "APMDC", "definition": "Andhra Pradesh Mineral Development Corporation — the state body mining barytes and other minerals."},
+      {"term": "Dimension stone", "definition": "Rock (esp. granite) quarried in blocks for construction and export, a major AP industry."},
+      {"term": "Beach-sand minerals", "definition": "Heavy minerals (ilmenite, garnet, monazite) concentrated in coastal sands, mined along the AP coast."},
+      {"term": "Samata judgment", "definition": "A 1997 Supreme Court ruling barring the transfer of tribal (Scheduled) land to private miners, shaping Eastern-Ghat mining."},
+      {"term": "Sand mining", "definition": "The extraction of river-bed sand for construction — economically vital but environmentally damaging and prone to illegality."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-081",
+    "sections": [
+      {
+        "heading": "Household manufacturing & industries",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "AP's industrial economy spans **household/cottage crafts to large agro-, mineral-, forest- and fuel-based industries**, drawing on its **agricultural raw materials, minerals, coastline and manpower**. From world-famous **handlooms and Kondapalli toys** to **cement, pharma, food-processing, textiles and the Visakhapatnam heavy-industry cluster**, industry rests on the state's resource base and human capital."
+          },
+          {
+            "type": "table",
+            "headers": ["Industry type", "AP examples"],
+            "rows": [
+              ["**Agro-based**", "**Rice milling, sugar, cotton textiles/spinning, tobacco, edible oils, seafood processing, food processing** — leveraging the primary sector (G-079)."],
+              ["**Mineral-based**", "**Cement (limestone), steel (Visakhapatnam Steel Plant/RINL), granite processing, glass, ceramics**."],
+              ["**Forest-based**", "**Paper (Rajahmundry — AP Paper Mills), beedi, bamboo, plywood, furniture**."],
+              ["**Fuel/knowledge-based**", "**Power (thermal — Singareni/NTPC), petroleum (HPCL Vizag refinery), pharma & bulk drugs, IT (Visakhapatnam/Amaravati)**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Household crafts, factors and industrial geography",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Household & handicraft industries (the heritage)**: AP's famed cottage industries — **Pochampally & Venkatagiri handloom (ikat/silk), Kalamkari (Srikalahasti/Machilipatnam), Kondapalli & Etikoppaka toys, Budithi brassware, Mangalagiri cotton, Nirmal paintings** — many with **GI tags**; they sustain rural artisan livelihoods.",
+              "**Location factors (agro-mineral-forest-fuel-manpower)**: AP industry is sited by its **agricultural raw materials (agro belt), minerals (cement/steel), forests (paper), fuel/power (coast, coalfields), and manpower/skills (pharma, IT)** — the classic factor-endowment logic named in the syllabus.",
+              "**The Visakhapatnam heavy-industrial hub**: **Vizag Steel (RINL), HPCL refinery, the port, shipbuilding (HSL), pharma-city and IT** make Visakhapatnam AP's industrial capital — a coast-based, fuel-and-mineral cluster.",
+              "**Modern drivers & challenges**: **pharma & bulk drugs (a national leader), food processing, textiles, and industrial corridors (Vizag-Chennai, Vizag-Kakinada nodes, mega parks)**; challenges — **post-bifurcation loss of Hyderabad, need for a new capital/industrial base, MSME finance and infrastructure**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP industry] --> B[Household crafts - Pochampally, Kalamkari, Kondapalli]\n  A --> C[Agro-based - textiles, food, seafood, tobacco]\n  A --> D[Mineral-based - cement, Vizag Steel]\n  A --> E[Forest-based - paper Rajahmundry]\n  A --> F[Fuel-knowledge - refinery, pharma, IT]\n  F --> G[Visakhapatnam industrial hub]\n  A --> H[Industrial corridors - Vizag-Chennai]\n  A --> I[Challenge - post-bifurcation, new capital base]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use the syllabus's own four-fold classification (agro, mineral, forest, fuel/manpower), then the household-craft heritage (GI-tagged Pochampally/Kalamkari/Kondapalli), and the Vizag hub.",
+              "Add the location-factor logic and the post-bifurcation industrial-rebuilding challenge for analytical depth."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Classify AP industry the syllabus way — agro/mineral/forest/fuel/manpower-based — showcase GI-tagged household crafts (Pochampally, Kalamkari, Kondapalli) and the Visakhapatnam heavy cluster, then note the post-bifurcation challenge of rebuilding an industrial base."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Household crafts — **Pochampally & Venkatagiri handloom, Kalamkari, Kondapalli/Etikoppaka toys, Budithi brass, Mangalagiri cotton** (many **GI-tagged**).",
+      "**Visakhapatnam Steel Plant (RINL)** — 'Vizag Steel'; **HPCL Visakha refinery**; **Hindustan Shipyard**.",
+      "**AP Paper Mills, Rajahmundry** — forest/paper industry.",
+      "AP is a national leader in **pharma & bulk drugs**.",
+      "Industry classified by raw-material base — **agro, mineral, forest, fuel, manpower**.",
+      "Industrial corridors — **Visakhapatnam-Chennai (VCIC), Vizag-Kakinada** nodes.",
+      "Post-bifurcation (2014), AP lost Hyderabad's industrial base — building a new capital/industrial hub."
+    ],
+    "mainsAngles": [
+      "Classify the industries of Andhra Pradesh by their resource base and give examples.",
+      "Assess the significance of household and handicraft industries in AP's rural economy.",
+      "Analyse Visakhapatnam as the industrial hub of Andhra Pradesh.",
+      "Discuss the location factors shaping AP's industrial geography.",
+      "Examine the challenges of industrial development in AP after the 2014 bifurcation."
+    ],
+    "glossary": [
+      {"term": "Household industry", "definition": "Small-scale manufacturing carried on within the home by a family, such as AP's handloom and toy crafts."},
+      {"term": "GI tag", "definition": "Geographical Indication — legal protection of a product's regional origin (e.g. Pochampally ikat, Kalamkari)."},
+      {"term": "RINL / Vizag Steel", "definition": "Rashtriya Ispat Nigam Ltd — the Visakhapatnam Steel Plant, AP's flagship mineral-based industry."},
+      {"term": "Agro-based industry", "definition": "Manufacturing using agricultural raw materials — rice milling, sugar, textiles, seafood and food processing in AP."},
+      {"term": "VCIC", "definition": "The Visakhapatnam-Chennai Industrial Corridor, a key axis of AP's modern industrial development."}
+    ]
+  },
+  {
+    "code": "MN-PII-G-082",
+    "sections": [
+      {
+        "heading": "Trade, commerce, communication, transport & storage",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "AP's **tertiary infrastructure — trade, transport, communication and storage** — knits its economy together and links it to national and global markets. With the **second-longest coastline in India (~975 km)** and a chain of **ports (Visakhapatnam, Krishnapatnam, Gangavaram, Kakinada, Machilipatnam)**, plus dense **road-rail networks and growing digital connectivity**, AP is a **logistics and export gateway** of peninsular India."
+          },
+          {
+            "type": "table",
+            "headers": ["Mode/Function", "AP profile"],
+            "rows": [
+              ["**Ports & sea trade**", "**Visakhapatnam** (major port, largest cargo on east coast), **Gangavaram, Krishnapatnam, Kakinada, Machilipatnam** — seafood, minerals, petroleum, container exports; ~975 km coast."],
+              ["**Roads**", "Extensive **NH network** (NH-16/Golden-Quadrilateral east corridor), state highways; road carries most freight/passengers."],
+              ["**Rail**", "**South Central & East Coast Railways**; Vijayawada a major junction; freight for coal, cement, minerals."],
+              ["**Air & digital**", "Airports — **Visakhapatnam (intl), Vijayawada (Gannavaram), Tirupati, Rajahmundry, Kurnool**; expanding IT/broadband, 'Fibre Grid'."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Commerce, storage and the logistics economy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Ports as the trade engine (the signature)**: AP's **long coastline and multiple ports** make it a **maritime-trade and export hub** — **Visakhapatnam** handles the highest cargo on the east coast; **Gangavaram (deepest), Krishnapatnam, Kakinada** serve minerals, petroleum, seafood and containers; port-led industrial corridors follow.",
+              "**Road & rail integration**: the **NH-16 (Chennai-Kolkata, Golden Quadrilateral) coastal corridor** and rail junctions (**Vijayawada**) move coal, cement, agri-produce and people; **Vijayawada** is a premier commercial-logistics node.",
+              "**Communication & digital commerce**: expanding **mobile, broadband and the AP Fibre Grid**, plus IT growth (Visakhapatnam), underpin e-commerce, e-governance and services — the modern face of 'commerce'.",
+              "**Storage & the food-supply chain**: **warehousing (CWC/APSWC), cold chains for aquaculture/horticulture, godowns and the PDS network** are vital for AP's perishable primary produce (shrimp, mango, chillies) — cold-chain gaps and post-harvest loss are the key challenge; Guntur hosts Asia's largest chilli market yard."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[AP trade and infrastructure] --> B[Ports - Visakhapatnam, Gangavaram, Krishnapatnam]\n  B --> C[Exports - seafood, minerals, petroleum]\n  A --> D[Roads - NH-16 Golden Quadrilateral]\n  A --> E[Rail - South Central, Vijayawada junction]\n  A --> F[Air - Vizag intl, Gannavaram, Tirupati]\n  A --> G[Digital - Fibre Grid, IT]\n  A --> H[Storage - warehousing, cold chains, market yards]\n  H --> I[Guntur chilli market - Asia's largest]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Lead with the port network (coastline + Vizag/Gangavaram/Krishnapatnam) as AP's trade engine, then road (NH-16), rail (Vijayawada), air and digital (Fibre Grid).",
+              "Don't forget storage — cold chains/warehousing for perishable primary produce and Guntur's chilli market yard; end on post-harvest/cold-chain gaps."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: AP's trade geography = a port-led export economy (Vizag, Gangavaram, Krishnapatnam on ~975 km coast) plus the NH-16 corridor and Vijayawada rail node; add storage/cold-chains for perishable produce (Guntur chilli yard) and the digital Fibre Grid for completeness."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "AP has the **second-longest coastline in India (~975 km)**.",
+      "**Visakhapatnam** — major port, highest cargo on the east coast; **Gangavaram** — deepest; **Krishnapatnam, Kakinada, Machilipatnam** — key ports.",
+      "**NH-16** (Chennai-Kolkata, part of the Golden Quadrilateral) is AP's main coastal highway.",
+      "**Vijayawada** — major rail junction & commercial hub; **South Central / East Coast Railways**.",
+      "Airports — **Visakhapatnam (international), Vijayawada (Gannavaram), Tirupati, Rajahmundry, Kurnool**.",
+      "**AP Fibre Grid** — state broadband/digital-connectivity initiative.",
+      "**Guntur** hosts one of Asia's largest **chilli market yards**; warehousing via **CWC/APSWC**."
+    ],
+    "mainsAngles": [
+      "Assess the role of ports in the trade and industrial economy of Andhra Pradesh.",
+      "Analyse the transport infrastructure of AP and its contribution to economic integration.",
+      "Discuss the importance of storage and cold-chain infrastructure for AP's perishable produce.",
+      "Examine the role of digital communication (Fibre Grid) in AP's commerce and governance.",
+      "Evaluate AP's potential as a logistics and export gateway of peninsular India."
+    ],
+    "glossary": [
+      {"term": "Major port", "definition": "A centrally-administered port of national importance; Visakhapatnam is AP's major port and the east coast's largest by cargo."},
+      {"term": "Golden Quadrilateral", "definition": "The national highway network linking metros; its east corridor (NH-16) runs the length of coastal AP."},
+      {"term": "AP Fibre Grid", "definition": "Andhra Pradesh's initiative to provide broadband/fibre connectivity to homes and offices statewide."},
+      {"term": "Cold chain", "definition": "Temperature-controlled storage and transport essential for AP's perishable seafood and horticultural exports."},
+      {"term": "Market yard", "definition": "A regulated agricultural market (mandi); Guntur's is among Asia's largest chilli-trading yards."}
+    ]
+  }
+]
