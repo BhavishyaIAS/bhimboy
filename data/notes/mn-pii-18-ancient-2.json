@@ -1,0 +1,258 @@
+[
+  {
+    "code": "MN-PII-HCOI-005",
+    "sections": [
+      {
+        "heading": "Jainism and Buddhism — the heterodox reaction",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The 6th century BCE saw a wave of **shramana (renouncer) movements** reacting against Vedic ritualism, Brahmanical dominance, sacrificial expense (cattle-killing hurt the agrarian economy) and caste rigidity — riding the urbanising, mercantile Mahajanapada society (the vaishya trading class patronised faiths that dignified their status). The two that endured: **Jainism** (**Vardhamana Mahavira**, the 24th and last **Tirthankara** — Parshvanatha the 23rd was historical) and **Buddhism** (**Siddhartha Gautama, the Buddha — 'the enlightened one'**)."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "**Jainism**", "**Buddhism**"],
+            "rows": [
+              ["Founder & core", "Mahavira; **extreme ahimsa, asceticism**; the world is eternal (no creator god)", "Buddha; the **Middle Path** (avoid extremes); moderate"],
+              ["Core teaching", "**Triratna** (right faith-knowledge-conduct); **anekantavada** (many-sidedness), **syadvada**; **5 vows** (ahimsa, satya, asteya, aparigraha, brahmacharya)", "**Four Noble Truths** (suffering, its cause-desire, cessation, path), **Eightfold Path**, anatta (no-soul), anicca (impermanence), nirvana"],
+              ["Path & goal", "Liberation (kaivalya) via severe austerity, even **sallekhana** (fasting to death)", "Nirvana via ethical-mental discipline; the Middle Way"],
+              ["Language & spread", "Prakrit (Ardhamagadhi); mainly western/southern India", "Pali; spread across Asia (the first world religion from India)"],
+              ["Sects", "**Digambara (sky-clad) vs Svetambara (white-clad)** — split over nudity/possessions", "**Hinayana/Theravada, Mahayana (Bodhisattva ideal, Buddha-worship), Vajrayana (tantric)**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Impact — and the AP/South thread",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Councils & canon**: Buddhist councils — 1st (Rajagriha), 2nd (Vaishali — the schism), **3rd (Pataliputra, Ashoka — Tripitaka finalised), 4th (Kashmir, Kanishka — Mahayana emerges)**; the **Tripitaka (Sutta-Vinaya-Abhidhamma)**; Jain council at **Pataliputra then Vallabhi (Agamas canonised)**.",
+              "**Historical impact**: challenged caste and ritual, dignified non-violence (ahimsa's deep imprint on Indian civilisation → Gandhi), advanced **Prakrit-Pali vernaculars and trade** (merchants funded viharas along routes), and produced **art (stupas-Sanchi-Bharhut, cave-Ajanta-Ellora) and universities (Nalanda-Vikramshila)**; Buddhism became a world religion, Jainism a resilient Indian minority.",
+              "**AP as a Buddhist heartland (the crucial state point)**: Andhra was one of India's **greatest Buddhist regions** — **Amaravati** (the Mahachaitya/Great Stupa, Satavahana-era, the 'Amaravati school' of art), **Nagarjunakonda** (Ikshvaku-era; named for **Acharya Nagarjuna**, the Madhyamaka philosopher), **Bhattiprolu** (relic casket, early Brahmi), Salihundam, Guntupalli, Ghantasala — a dense Buddhist landscape; Nagarjuna's **Madhyamaka (Shunyavada)** philosophy was born here.",
+              "**Craft**: the Jain-Buddhist comparison table + the councils/canon + the impact + AP's Amaravati-Nagarjunakonda Buddhist eminence."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[6th century BCE ferment] --> B[Causes: ritualism, caste, sacrifice cost, urban mercantile society]\n  B --> C[Jainism - Mahavira - extreme ahimsa]\n  B --> D[Buddhism - Buddha - Middle Path]\n  C --> E[Triratna, anekantavada, Digambara-Svetambara]\n  D --> F[Four Noble Truths, Eightfold Path, Hinayana-Mahayana-Vajrayana]\n  D --> G[Councils and Tripitaka]\n  E --> H[Impact: ahimsa, vernaculars, art, universities]\n  F --> H\n  H --> I[AP: Amaravati, Nagarjunakonda - Buddhist heartland]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Causes of the reaction + the Jain-Buddhist comparison table + councils/canon + the civilisational impact + AP's Buddhist eminence.",
+              "Four Noble Truths, Triratna, Digambara/Svetambara, the four councils, and Amaravati-Nagarjunakonda-Nagarjuna are the anchor facts."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: For the AP paper, Andhra's status as a Buddhist heartland (Amaravati school of art, Nagarjunakonda, Acharya Nagarjuna's Madhyamaka philosophy born here) is a compulsory, high-value connection — never omit it."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mahavira** — 24th Tirthankara (Parshvanatha the 23rd, historical); **Jain Triratna**: right faith, knowledge, conduct; **anekantavada/syadvada**.",
+      "Jain sects: **Digambara (sky-clad), Svetambara (white-clad)**; canon — **Agamas** (Vallabhi council).",
+      "**Buddha's Four Noble Truths + Eightfold Path**; **anatta (no-soul), anicca (impermanence)**; goal — **nirvana**.",
+      "Buddhist councils: 1st Rajagriha, 2nd Vaishali, **3rd Pataliputra (Ashoka), 4th Kashmir (Kanishka — Mahayana)**; canon — **Tripitaka (Pali)**.",
+      "Buddhist schools: **Hinayana/Theravada, Mahayana (Bodhisattva), Vajrayana (tantric)**.",
+      "**Amaravati (Mahachaitya, Satavahana), Nagarjunakonda (Ikshvaku), Bhattiprolu** — AP's great Buddhist sites; **Amaravati school of art**.",
+      "**Acharya Nagarjuna** — Madhyamaka (Shunyavada) philosophy, associated with the Andhra region."
+    ],
+    "mainsAngles": [
+      "Urban society bred spiritual revolution — analyse the causes of the sixth-century-BCE heterodox reaction.",
+      "Compare Jainism and Buddhism on doctrine, path and spread.",
+      "Ahimsa is Buddhism-Jainism's deepest imprint on Indian civilisation — trace it to Gandhi.",
+      "Buddhism became a world religion, Jainism a resilient minority — explain the divergence.",
+      "Andhra was a Buddhist heartland — evaluate Amaravati, Nagarjunakonda and Nagarjuna's philosophy."
+    ],
+    "glossary": [
+      { "term": "Shramana", "definition": "A wandering renouncer of the sixth-century-BCE movements (Jain, Buddhist, Ajivika) rejecting Vedic ritual authority." },
+      { "term": "Tirthankara", "definition": "A Jain 'ford-maker' teacher; Mahavira was the 24th and last of the age." },
+      { "term": "Four Noble Truths", "definition": "Buddhism's core: suffering exists, arises from desire, can cease, via the Eightfold Path." },
+      { "term": "Anekantavada", "definition": "The Jain doctrine of many-sidedness — reality has multiple aspects, none absolutely true alone." },
+      { "term": "Bodhisattva", "definition": "In Mahayana, an enlightened being who delays nirvana to help others — the compassion ideal." },
+      { "term": "Madhyamaka", "definition": "Nagarjuna's 'middle-way' philosophy of emptiness (shunyata), developed in the Andhra region." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-006",
+    "sections": [
+      {
+        "heading": "The rise of Magadha and the Mauryan Empire",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Magadha** rose from Mahajanapada to empire through geography and ambition: fertile Gangetic soil, **iron mines (Rajgir), elephants, riverine trade (Ganga), and strong capitals (Rajagriha→Pataliputra)**. Its dynasties: **Haryanka (Bimbisara, Ajatashatru), Shishunaga, Nanda (Mahapadma Nanda — the vast wealth-and-army that even Alexander's troops feared)** → overthrown by **Chandragupta Maurya (c. 321 BCE)** with **Chanakya (Kautilya)**, founding the **Mauryan Empire — India's first pan-subcontinental state**."
+          },
+          {
+            "type": "table",
+            "headers": ["Mauryan ruler", "Achievement"],
+            "rows": [
+              ["**Chandragupta Maurya (321-297 BCE)**", "Founded the empire; defeated Seleucus (treaty — 500 elephants, marriage alliance, **Megasthenes** as envoy); unified most of the subcontinent; late-life Jain ascetic (Shravanabelagola)"],
+              ["**Bindusara (297-273 BCE)**", "'Amitraghata' (slayer of foes); extended into the Deccan; contact with the Hellenistic world"],
+              ["**Ashoka (268-232 BCE)**", "The zenith (HCOI-007); Kalinga war → Dhamma; the edicts"],
+              ["Decline (post-Ashoka)", "Weak successors, over-centralisation, financial strain, Brahmanical reaction; **Brihadratha killed by Pushyamitra Shunga (185 BCE)** — the Shunga takeover"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The Mauryan state — administration & sources",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Administration (the Arthashastra + Megasthenes' Indica)**: a **centralised bureaucratic state** — king at apex with a council (mantriparishad), **provinces (under princes-kumaras) → districts → villages**, an elaborate official hierarchy (**samaharta-revenue, sannidhata-treasury, adhyakshas-superintendents**), **espionage network**, standing army, and land-revenue (~1/4 to 1/6) as the fiscal base — the PA-notes' Kautilyan machinery (PIII-PAG-014) in its historical setting.",
+              "**Sources**: **Kautilya's Arthashastra** (statecraft), **Megasthenes' Indica** (the Greek ambassador's account — the seven-caste description, Pataliputra's grandeur, though partly garbled), **Ashokan edicts** (the contemporary royal voice), Buddhist-Jain texts, Visakhadatta's Mudrarakshasa, and archaeology (Northern Black Polished Ware, punch-marked coins).",
+              "**Assessment**: the Mauryas achieved unprecedented **political unification, economic integration (currency, trade routes, state farms), and cultural patronage (Buddhism's spread)** — but the over-centralised, tax-heavy, personality-dependent state fragmented after Ashoka; still, it set the template of the pan-Indian empire.",
+              "**AP link**: Mauryan authority reached the Andhra region — **Ashokan minor rock edicts at Erragudi/Yerragudi (Kurnool district), Rajula-Mandagiri** — AP was within the empire; the Satavahanas rose from its Deccan feudatories."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Magadha's rise: geography, iron, elephants] --> B[Haryanka-Shishunaga-Nanda]\n  B --> C[Chandragupta + Chanakya - 321 BCE]\n  C --> D[Mauryan Empire - first pan-Indian state]\n  D --> E[Bindusara - Deccan expansion]\n  E --> F[Ashoka - zenith]\n  D --> G[Centralised bureaucracy - Arthashastra + Indica]\n  F --> H[Decline post-Ashoka]\n  H --> I[Pushyamitra Shunga 185 BCE]\n  D --> J[AP: Erragudi Ashokan edicts]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Magadha's rise-factors + the dynasty-to-Maurya sequence + the ruler table + the centralised administration (Arthashastra-Indica) + decline + AP's Erragudi edicts.",
+              "Chandragupta-Chanakya-321 BCE, Megasthenes, Arthashastra, Pushyamitra-185 BCE, Erragudi are the anchors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Mauryas were India's first pan-subcontinental empire built on a centralised bureaucratic state — the Arthashastra-plus-Indica administration is the analytical core; Erragudi's Ashokan edicts put AP inside the empire."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Magadha dynasties: **Haryanka (Bimbisara-Ajatashatru), Shishunaga, Nanda (Mahapadma)** → **Maurya**.",
+      "**Chandragupta Maurya (c. 321 BCE)** + **Chanakya (Kautilya)**; defeated **Seleucus**; envoy **Megasthenes** (**Indica**).",
+      "**Bindusara** ('Amitraghata'); **Ashoka (268-232 BCE)**; last Maurya **Brihadratha** killed by **Pushyamitra Shunga (185 BCE)**.",
+      "Sources: **Arthashastra (Kautilya), Indica (Megasthenes), Ashokan edicts, Mudrarakshasa (Visakhadatta)**.",
+      "Officials: **samaharta (revenue), sannidhata (treasury), adhyakshas (superintendents)**; capital **Pataliputra**.",
+      "Chandragupta ended life as a **Jain ascetic at Shravanabelagola** (Bhadrabahu tradition).",
+      "**Ashokan minor rock edicts at Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool, AP)** — Mauryan reach into Andhra."
+    ],
+    "mainsAngles": [
+      "Geography and iron made Magadha — analyse its rise from Mahajanapada to empire.",
+      "The Mauryas built India's first centralised bureaucratic state — reconstruct it from the Arthashastra and Indica.",
+      "The Mauryan empire fragmented after Ashoka — diagnose the over-centralised state's fragility.",
+      "Sources shape the story — evaluate the Arthashastra, Indica and edicts as evidence for the Mauryas.",
+      "Erragudi's edicts put Andhra in the empire — trace Mauryan authority in the Deccan and the Satavahana succession."
+    ],
+    "glossary": [
+      { "term": "Mauryan Empire", "definition": "India's first pan-subcontinental state (c. 321-185 BCE), founded by Chandragupta with Chanakya's guidance." },
+      { "term": "Arthashastra", "definition": "Kautilya's treatise on statecraft — the theoretical blueprint of the Mauryan bureaucratic state." },
+      { "term": "Indica", "definition": "Megasthenes' Greek account of Mauryan India — a key external source, partly garbled." },
+      { "term": "Samaharta", "definition": "The Mauryan collector-general of revenue — the fiscal machinery's head." },
+      { "term": "Northern Black Polished Ware", "definition": "The fine luxury pottery marking the mature second-urbanisation and Mauryan-era prosperity." },
+      { "term": "Erragudi edicts", "definition": "Ashokan minor rock edicts in Kurnool district — evidence of Mauryan authority in the Andhra region." }
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-007",
+    "sections": [
+      {
+        "heading": "Ashoka and Dhamma — conquest to conscience",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Ashoka (r. 268-232 BCE)**, the Mauryan zenith, is history's rare king who **renounced war after victory**. The **Kalinga War (c. 261 BCE — ~1 lakh killed, 1.5 lakh deported, by his own edict's count)** so anguished him that he embraced **Buddhism** and replaced **bherighosha (drum of war) with dhammaghosha (drum of dharma)**. His governing philosophy — **Dhamma** — was NOT Buddhism-as-state-religion but a **universal ethical-social code**: non-violence, tolerance of all sects, respect for elders-teachers-Brahmanas-shramanas, care for servants-animals, truthfulness, and welfare — a moral cement for a diverse empire, propagated through **edicts** and officials (**Dhamma Mahamatras**)."
+          },
+          {
+            "type": "table",
+            "headers": ["The edicts", "Content"],
+            "rows": [
+              ["**Major Rock Edicts (14)**", "Dhamma principles, welfare, sect-tolerance, animal-welfare; on rocks along the empire's edges"],
+              ["**Pillar Edicts (7)** & pillars", "On polished sandstone pillars (the **Sarnath lion capital — India's national emblem**); Dhamma & administration"],
+              ["**Minor Rock Edicts**", "Personal faith declarations; **Maski & Gujarra name 'Ashoka' explicitly** (confirming identity with 'Devanampiya Piyadasi')"],
+              ["Scripts & languages", "**Brahmi (mostly), Kharosthi (NW), Greek & Aramaic (Afghan edicts — Kandahar)** — Prakrit dialects; deciphered by **James Prinsep (1837)**"]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessing Dhamma — and the AP thread",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**What Dhamma was and wasn't**: NOT a sectarian imposition (Ashoka explicitly urged respect for ALL sects) but a **civic-moral ethic** aimed at social harmony in a vast, plural empire; scholars debate whether it was genuine spiritual conviction, a pragmatic unifying ideology, or both — present it as ethical-political statecraft, sincerely held.",
+              "**Ashoka's contributions**: propagation of Buddhism across Asia (missions — his son **Mahinda & daughter Sanghamitta to Sri Lanka**), the **3rd Buddhist Council**, monumental art (pillars, stupas — enlarged Sanchi), welfare-state measures (hospitals for humans-animals, roads-wells-rest houses, the first 'welfare' governance), and the **edicts as India's first written historical records** in the subcontinent.",
+              "**Critical view**: some argue Dhamma's pacifism weakened Mauryan military vigour (contributing to decline) — a debated point; but Ashoka's stature as a moral exemplar of governance is near-universal (H.G. Wells' famous praise; the national emblem-and-Chakra legacy).",
+              "**AP thread**: Ashoka's **minor rock edicts at Erragudi/Yerragudi and Rajula-Mandagiri (Kurnool)** proclaimed Dhamma on Andhra soil — 'all men are my children' (savve munisse paja mama) was inscribed here; AP was part of the Dhamma empire."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Ashoka - Mauryan zenith] --> B[Kalinga War 261 BCE]\n  B --> C[Remorse - embraces Buddhism]\n  C --> D[Dhamma - universal ethical code]\n  D --> E[Non-violence, tolerance, welfare, respect]\n  D --> F[Propagated via edicts + Dhamma Mahamatras]\n  F --> G[Rock, pillar, minor edicts - Brahmi]\n  D --> H[Buddhism spreads to Asia - Mahinda-Sanghamitta]\n  A --> I[AP: Erragudi edicts - all men are my children]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Kalinga-turning-point + Dhamma-defined (civic ethic, not state religion) + the edicts + the assessment (conviction-vs-pragmatism) + AP's Erragudi.",
+              "Kalinga-261 BCE, Dhamma-not-Buddhism-as-religion, Sarnath capital, Prinsep-1837, Erragudi are the anchors."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The key distinction — Dhamma was a universal civic-moral code, NOT Buddhism imposed as state religion — separates a top answer; 'all men are my children' inscribed at Erragudi is AP's Dhamma connection."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Kalinga War c. 261 BCE** — the turning point; Ashoka embraced Buddhism; **bherighosha → dhammaghosha**.",
+      "**Dhamma** — a universal ethical code (non-violence, tolerance, welfare), NOT sectarian Buddhism; officials — **Dhamma Mahamatras**.",
+      "Edicts: **14 Major Rock, 7 Pillar, Minor Rock**; scripts — **Brahmi, Kharosthi, Greek, Aramaic**; deciphered by **James Prinsep (1837)**.",
+      "Ashoka's titles in edicts: **'Devanampiya Piyadasi'**; **Maski & Gujarra edicts name 'Ashoka'** directly.",
+      "**Sarnath Lion Capital** — India's national emblem; the Ashokan Chakra on the national flag.",
+      "Missions: son **Mahinda** & daughter **Sanghamitta** to **Sri Lanka**; convened the **3rd Buddhist Council**.",
+      "**AP edicts: Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool)** — 'savve munisse paja mama' (all men are my children)."
+    ],
+    "mainsAngles": [
+      "A king who renounced war after winning — analyse Kalinga as the turning point of Ashoka's reign.",
+      "Dhamma was civic ethic, not state religion — establish the distinction and its purpose in a plural empire.",
+      "The edicts are India's first written history — evaluate them as sources and as governance.",
+      "Did Dhamma's pacifism weaken the empire? Assess the debated link to Mauryan decline.",
+      "'All men are my children' was proclaimed on Andhra soil — trace Ashokan Dhamma in the AP region."
+    ],
+    "glossary": [
+      { "term": "Dhamma", "definition": "Ashoka's universal ethical-social code (non-violence, tolerance, welfare) — civic morality, not sectarian Buddhism." },
+      { "term": "Dhamma Mahamatra", "definition": "Ashoka's officials charged with propagating and overseeing Dhamma across the empire." },
+      { "term": "Devanampiya Piyadasi", "definition": "'Beloved of the Gods, of gracious countenance' — Ashoka's title in the edicts." },
+      { "term": "Kalinga War", "definition": "Ashoka's bloody conquest of Kalinga (c. 261 BCE) whose carnage triggered his moral transformation." },
+      { "term": "Sarnath Lion Capital", "definition": "The Ashokan pillar capital adopted as India's national emblem." },
+      { "term": "Erragudi edicts", "definition": "Ashokan minor rock edicts in Kurnool proclaiming Dhamma in the Andhra region." }
+    ]
+  }
+]
