@@ -1,0 +1,422 @@
+[
+  {
+    "code": "MN-PII-HCOA-044",
+    "sections": [
+      {
+        "heading": "The early dynasties of Andhra — the foundations",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Ancient Andhra's political history opens with the **Satavahanas (c. 2nd cent. BCE – 3rd cent. CE)** — the first great Deccan empire — followed by the **Ikshvakus, Salankayanas, Pallavas (early phase) and Vishnukundins**. Together they made the **Krishna-Godavari deltas** a hub of **trade, Buddhism, Sanskrit-Prakrit-Telugu culture and monumental art (Amaravati)** — the bedrock on which later Andhra civilisation was built."
+          },
+          {
+            "type": "table",
+            "headers": ["Dynasty", "Period & significance"],
+            "rows": [
+              ["**Satavahanas**", "c. 2nd BCE–3rd CE; capital **Pratishthana (Paithan) / Dhanyakataka**; **Gautamiputra Satakarni** the greatest; **Hala** (Gathasaptashati); Roman trade, Amaravati Buddhism, first Deccan empire."],
+              ["**Ikshvakus**", "3rd–4th CE; capital **Vijayapuri (Nagarjunakonda)**; great **Buddhist** patrons (esp. royal women); Nagarjunakonda stupas & university."],
+              ["**Salankayanas**", "4th–5th CE; capital **Vengi**; feudatories-turned-independent; Vengi becomes a lasting political centre."],
+              ["**Pallavas (early)** & **Vishnukundins**", "Early Pallavas held parts of coastal Andhra; **Vishnukundins (5th–6th CE)** — capital Vengi/Denduluru; **Madhavavarman** greatest; bridge to the Eastern Chalukyas."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The Satavahana keystone",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Political**: the Satavahanas unified the Deccan after the Mauryas, resisting the **Western Kshatrapas (Sakas)**; **Gautamiputra Satakarni** (Nasik prashasti of his mother **Gautami Balasri**) is celebrated as the destroyer of the Sakas and restorer of Brahmanical order.",
+              "**Economy & trade**: a flourishing **Indo-Roman maritime trade** (ports, Roman coins), guilds (shrenis), and a monetised economy; the deltas were the granary and the coast the emporium.",
+              "**Religion & society**: **Brahmanism revived (Vedic sacrifices) alongside strong Buddhist patronage** — the great stupa at **Amaravati** and the caves of the western Deccan; a notable role for **royal women** and the matronymic naming (Gautamiputra, Vasishthiputra).",
+              "**Culture**: **Prakrit** the court language (Hala's Gathasaptashati), early Telugu presence, and the beginnings of the distinctive **Amaravati school of art** (HCOA-046)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Satavahanas 2c BCE-3c CE] --> B[Gautamiputra Satakarni - defeats Sakas]\n  A --> C[Amaravati Buddhism, Roman trade]\n  A --> D[Ikshvakus - Nagarjunakonda]\n  D --> E[Salankayanas - Vengi]\n  E --> F[Vishnukundins - Madhavavarman]\n  F --> G[Eastern Chalukyas of Vengi]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Sequence the five dynasties with capitals & one signature fact each; give the Satavahanas the most weight (Gautamiputra, Amaravati, Roman trade).",
+              "Show the continuity: Satavahana → Ikshvaku → Salankayana → Vishnukundin → Eastern Chalukya of Vengi as an unbroken Andhra political thread."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Satavahanas are the keystone — Gautamiputra Satakarni, Amaravati Buddhism and Indo-Roman trade; then trace the Vengi thread (Salankayana → Vishnukundin → Eastern Chalukya) as ancient Andhra's political spine."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Satavahanas** — first Deccan empire; capital **Pratishthana (Paithan)**; **Gautamiputra Satakarni** the greatest; **Hala** wrote **Gathasaptashati** in Prakrit.",
+      "**Gautami Balasri's Nasik prashasti** praises Gautamiputra as destroyer of the Sakas.",
+      "**Ikshvakus** — capital **Vijayapuri (Nagarjunakonda)**; great Buddhist patrons.",
+      "**Salankayanas** — capital **Vengi**; **Vishnukundins** — greatest ruler **Madhavavarman**.",
+      "Satavahana matronymics — Gautamiputra, Vasishthiputra — indicate the status of royal women.",
+      "**Amaravati** — great Buddhist stupa & art school under the Satavahanas-Ikshvakus.",
+      "Indo-Roman trade — Roman coins and ports along the Andhra coast."
+    ],
+    "mainsAngles": [
+      "Assess the Satavahanas as the founders of Deccan imperial tradition and their contribution to trade, religion and art.",
+      "Trace the political continuity from the Satavahanas to the Vishnukundins in ancient Andhra.",
+      "Examine the role of Indo-Roman trade in the prosperity of the Satavahana economy.",
+      "Discuss the patronage of Buddhism by the early Andhra dynasties.",
+      "Evaluate the significance of Nagarjunakonda under the Ikshvakus."
+    ],
+    "glossary": [
+      {"term": "Satavahanas", "definition": "The first great Deccan dynasty (c. 2nd BCE-3rd CE), based on the Krishna-Godavari region, patrons of trade and Buddhism."},
+      {"term": "Prashasti", "definition": "A eulogistic royal inscription; the Nasik prashasti of Gautami Balasri glorifies Gautamiputra Satakarni."},
+      {"term": "Matronymic", "definition": "A name derived from the mother (e.g. Gautamiputra = son of Gautami), reflecting the high status of Satavahana royal women."},
+      {"term": "Vijayapuri", "definition": "The Ikshvaku capital at Nagarjunakonda, a major Buddhist centre with stupas and a monastic university."},
+      {"term": "Vengi", "definition": "A durable political-cultural centre in coastal Andhra, capital of the Salankayanas, Vishnukundins and Eastern Chalukyas."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-045",
+    "sections": [
+      {
+        "heading": "Social, economic & religious life; language in ancient Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Under the early Andhra dynasties (Satavahana–Vishnukundin) emerged a **prosperous, trade-based, religiously plural society** in which **Brahmanism and Buddhism flourished together**, guilds organised production, and the **Telugu language began its documented journey** amid a Prakrit-Sanskrit court culture — the social bedrock of Andhra civilisation."
+          },
+          {
+            "type": "table",
+            "headers": ["Dimension", "Ancient-Andhra life"],
+            "rows": [
+              ["**Society**", "**Varna order with regional flexibility**; prominent **guilds (shrenis)** of artisans/merchants; notable **status of women** (matronymics, women donors at stupas); a cosmopolitan coast."],
+              ["**Economy**", "**Agrarian delta base + brisk trade** (Roman, Southeast Asian); ports, coinage, craft guilds; irrigation tanks; a monetised, urbanising economy."],
+              ["**Religion**", "**Brahmanism** (Vedic sacrifices — the Satavahanas performed asvamedha) coexisting with **vigorous Buddhism** (Amaravati, Nagarjunakonda) and early **Jainism**; genuine pluralism."],
+              ["**Language**", "**Prakrit** the early court/inscriptional language, **Sanskrit** rising (Vishnukundins), and the **earliest traces of Telugu** in place-names and words within inscriptions."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The rise of Telugu and religious balance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Religious balance (the key theme)**: royal patronage was **plural** — the same dynasties endowed Vedic sacrifices AND Buddhist stupas; present this as **coexistence**, the hallmark of ancient-Andhra religious life, not competition.",
+              "**Buddhism's Andhra golden age**: **Amaravati, Nagarjunakonda, Ghantasala, Bhattiprolu** made coastal Andhra a **Buddhist heartland**; the philosopher **Nagarjuna (Madhyamaka/Sunyavada)** is associated with Nagarjunakonda — Andhra's greatest gift to Buddhist thought.",
+              "**Economic sinews**: **guilds** regulated crafts and even acted as bankers; **Indo-Roman and Southeast-Asian trade** (Andhra merchants reached Suvarnabhumi) underwrote the donative Buddhism carved in stone.",
+              "**Language journey**: from **Prakrit inscriptions** (Satavahana) to **Sanskrit** (Vishnukundin charters), with **Telugu words/place-names surfacing** — the documented pre-history of Telugu that flowers later (HCOA-050)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Ancient Andhra society] --> B[Guilds - crafts, trade, banking]\n  A --> C[Women donors, matronymics]\n  A --> D[Religious pluralism]\n  D --> E[Brahmanism - Vedic sacrifices]\n  D --> F[Buddhism - Amaravati, Nagarjunakonda]\n  F --> G[Nagarjuna - Madhyamaka]\n  A --> H[Language - Prakrit to Sanskrit, early Telugu]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use the four-dimension frame (society, economy, religion, language) and foreground RELIGIOUS PLURALISM and the guild economy.",
+              "Nagarjuna + the Amaravati-Nagarjunakonda Buddhist heartland is the highest-value cultural point; the Prakrit→Sanskrit→early-Telugu arc answers the language part."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Argue ancient-Andhra life through pluralism — Vedic Brahmanism and donative Buddhism side by side — plus a guild-and-trade economy; cite Nagarjuna and Amaravati, and the Prakrit-to-early-Telugu language journey."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Guilds (shrenis)** organised crafts, trade and banking in ancient Andhra.",
+      "Religious pluralism — **Vedic Brahmanism (asvamedha) + Buddhism + early Jainism** under royal patronage.",
+      "**Nagarjuna** — Buddhist philosopher of **Madhyamaka/Sunyavada**, associated with Nagarjunakonda.",
+      "Buddhist heartland sites — **Amaravati, Nagarjunakonda, Ghantasala, Bhattiprolu**.",
+      "Language sequence — **Prakrit (Satavahana inscriptions) → Sanskrit (Vishnukundin charters) → early Telugu** traces.",
+      "Trade reached **Rome and Suvarnabhumi (Southeast Asia)**; women were notable stupa donors.",
+      "The **matronymic** naming reflects the status of Satavahana royal women."
+    ],
+    "mainsAngles": [
+      "Examine the religious pluralism of ancient Andhra under the Satavahanas and their successors.",
+      "Analyse the role of guilds and trade in the ancient-Andhra economy.",
+      "Assess the contribution of Andhra to Buddhist philosophy, with reference to Nagarjuna.",
+      "Trace the early evolution of the Telugu language within the Prakrit-Sanskrit court culture.",
+      "Discuss the social status of women in ancient-Andhra society."
+    ],
+    "glossary": [
+      {"term": "Shreni", "definition": "A guild of artisans or merchants in ancient India that regulated its craft and often functioned as a banker."},
+      {"term": "Madhyamaka", "definition": "The 'middle way' Buddhist philosophy of emptiness (sunyavada) founded by Nagarjuna, associated with Andhra."},
+      {"term": "Asvamedha", "definition": "The Vedic horse sacrifice performed by Satavahana kings to assert sovereignty and Brahmanical legitimacy."},
+      {"term": "Suvarnabhumi", "definition": "The 'land of gold' — Southeast Asia — with which Andhra merchants carried on a flourishing maritime trade."},
+      {"term": "Donative inscription", "definition": "An inscribed record of a gift (often to a stupa), a key source revealing guilds, women donors and society."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-046",
+    "sections": [
+      {
+        "heading": "Literature, art & architecture; Jainism & Buddhism in Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Ancient Andhra produced a **distinctive artistic-religious civilisation** — the **Amaravati school of sculpture**, the great **Buddhist stupas and monastic universities** of the Krishna valley, early **Prakrit literature (Hala)**, and a strong presence of **Jainism** — making the region one of **India's foremost early centres of Buddhist art and thought**."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "Andhra achievement"],
+            "rows": [
+              ["**Art — Amaravati school**", "A distinct sculptural style (2nd BCE–3rd CE) — **white-marble (Palnad limestone) reliefs, narrative panels, graceful slender figures, crowded compositions**; influenced Southeast-Asian & Sri Lankan art."],
+              ["**Architecture — stupas**", "**Amaravati, Nagarjunakonda, Bhattiprolu, Ghantasala** — great **stupas, chaityas, viharas** and a monastic **university at Nagarjunakonda**."],
+              ["**Literature**", "**Hala's Gathasaptashati** (Prakrit lyric anthology); **Gunadhya's Brihatkatha** (in Paisachi, tradition); a rich Prakrit-Sanskrit base preceding Telugu literature."],
+              ["**Jainism & Buddhism**", "**Buddhism** dominant on the coast (Hinayana → Mahayana; Nagarjuna); **Jainism** present (Bhattiprolu, later Kadamba-Ganga links) — a plural religious landscape."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The Amaravati legacy and religious currents",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The Amaravati school (the signature)**: one of **India's three great early art schools** (with Gandhara & Mathura) — but purely **Indian in idiom**, marked by dynamic narrative reliefs and slender, sinuous figures; the **Amaravati Mahastupa** was its masterpiece; its influence travelled to **Sri Lanka and Southeast Asia**.",
+              "**Buddhism's evolution in Andhra**: from **Hinayana to Mahayana**, with Andhra a cradle of **Mahayana thought (Nagarjuna's Madhyamaka)** and later Vajrayana currents; the coast was studded with monasteries sustained by trade wealth.",
+              "**Jainism's presence**: attested at **Bhattiprolu** and in later Andhra (Rashtrakuta/Ganga contacts, Kadambas); it contributed to early literature and left cave/relic sites, part of the plural fabric.",
+              "**Literary bedrock**: **Prakrit (Hala) and Sanskrit** literature under the early dynasties laid the linguistic-cultural ground from which **Telugu literature would later rise (HCOA-050)** — continuity across the ancient-medieval divide."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Ancient Andhra culture] --> B[Amaravati art school]\n  B --> C[Marble narrative reliefs, slender figures]\n  B --> D[Influence on Sri Lanka and SE Asia]\n  A --> E[Stupas - Amaravati, Nagarjunakonda, Bhattiprolu]\n  A --> F[Buddhism - Hinayana to Mahayana, Nagarjuna]\n  A --> G[Jainism - Bhattiprolu]\n  A --> H[Literature - Hala Gathasaptashati, Gunadhya]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Lead with the Amaravati school (place it beside Gandhara & Mathura, but stress its Indian idiom and SE-Asian influence), then stupas, then literature and the Buddhism-Jainism plurality.",
+              "Emphasise Andhra as a Mahayana cradle (Nagarjuna) and the Prakrit-Sanskrit literary base feeding later Telugu."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Amaravati school is the headline — one of India's three great early art traditions, purely Indian in style, with reach to Sri Lanka and SE Asia; frame Andhra as a Mahayana Buddhist cradle (Nagarjuna) with a Prakrit-Sanskrit literary base."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Amaravati school of art** — one of India's three great early schools (with Gandhara & Mathura); **white/marble (Palnad) narrative reliefs**, slender figures.",
+      "**Amaravati Mahastupa** — the school's masterpiece; influence reached **Sri Lanka & Southeast Asia**.",
+      "Stupa/monastic sites — **Amaravati, Nagarjunakonda, Bhattiprolu, Ghantasala**.",
+      "**Hala's Gathasaptashati** — Prakrit lyric anthology; **Gunadhya's Brihatkatha** (Paisachi tradition).",
+      "Andhra a cradle of **Mahayana** Buddhism — **Nagarjuna's Madhyamaka**.",
+      "**Jainism** present at **Bhattiprolu** and later Andhra.",
+      "Buddhism evolved **Hinayana → Mahayana → Vajrayana** in the region."
+    ],
+    "mainsAngles": [
+      "Assess the Amaravati school as a distinct and influential tradition in Indian art.",
+      "Examine Andhra's role as a cradle of Mahayana Buddhism and Buddhist philosophy.",
+      "Discuss the Buddhist architecture of the Krishna valley — stupas, chaityas and viharas.",
+      "Analyse the Prakrit and Sanskrit literary heritage of ancient Andhra as the base for later Telugu literature.",
+      "Evaluate the place of Jainism in the plural religious landscape of ancient Andhra."
+    ],
+    "glossary": [
+      {"term": "Amaravati school", "definition": "A distinctive early Indian art tradition of the Krishna valley, known for marble narrative reliefs and graceful slender figures."},
+      {"term": "Stupa", "definition": "A hemispherical Buddhist monument enshrining relics; the Amaravati Mahastupa was ancient Andhra's masterpiece."},
+      {"term": "Mahayana", "definition": "The 'Great Vehicle' branch of Buddhism, for which Andhra (Nagarjuna) was a major philosophical cradle."},
+      {"term": "Gathasaptashati", "definition": "A Prakrit anthology of ~700 lyric verses attributed to the Satavahana king Hala."},
+      {"term": "Chaitya / Vihara", "definition": "A Buddhist prayer hall (chaitya) and monastery/residence (vihara); both dotted the ancient-Andhra coast."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-047",
+    "sections": [
+      {
+        "heading": "The later dynasties — Eastern Chalukyas, Rashtrakutas, Renati Cholas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The early-medieval centuries (**7th–12th CE**) saw Andhra shaped by the **Eastern Chalukyas of Vengi** — the longest-ruling and most consequential dynasty — in interplay with the **Rashtrakutas** of the western Deccan and the **Renati Cholas** of Rayalaseema. This era **consolidated Telugu identity**: the first Telugu inscriptions, the first Telugu literary work, and a synthesis of Deccan cultures that defined medieval Andhra."
+          },
+          {
+            "type": "table",
+            "headers": ["Dynasty", "Role in Andhra history"],
+            "rows": [
+              ["**Eastern Chalukyas of Vengi**", "c. 624–1075 CE; founded by **Kubja Vishnuvardhana** (brother of Pulakeshin II); ruled coastal Andhra ~400 yrs from **Vengi**; patronised **Telugu** — **Nannaya** (Adikavi) under **Rajaraja Narendra**; merged with the Cholas."],
+              ["**Rashtrakutas**", "8th–10th CE; western-Deccan imperial power (**Manyakheta**); overlords/rivals of the Eastern Chalukyas; great patrons of art (**Ellora Kailasa**) and Kannada/Sanskrit-Jain culture, influencing Andhra."],
+              ["**Renati Cholas**", "Ruled **Renadu (Rayalaseema — Cuddapah region)**; significant for the **earliest Telugu inscriptions (Erragudipadu / Kalamalla, ~575 CE)** — a landmark for the Telugu language."],
+              ["**Others**", "**Telugu Cholas, Vaidumbas, Banas** — minor Rayalaseema/border dynasties feeding the same cultural stream."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Socio-cultural life and the making of Telugu identity",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The Eastern Chalukya keystone**: their **four-century Vengi rule** gave coastal Andhra political continuity and, crucially, **royal patronage to Telugu** — the reign of **Rajaraja Narendra** saw **Nannaya** begin the **Telugu Mahabharatam**, the fountainhead of Telugu literature (HCOA-050).",
+              "**The earliest Telugu (the milestone)**: the **Renati Chola inscriptions of Rayalaseema (Kalamalla, c. 575 CE)** are among the **first Telugu-language inscriptions** — evidence that Telugu had become a written language of administration in the border regions.",
+              "**Deccan synthesis**: the tussle between the **Rashtrakutas (west) and Eastern Chalukyas (east)** made Andhra a meeting ground of **Kannada, Sanskrit, Jain and Telugu** currents; society was agrarian-feudal (nayaka/samanta chiefs), religiously plural (Shaivism, Vaishnavism, Jainism, declining Buddhism).",
+              "**Religion's shift**: **Buddhism declined** and **Brahmanical Hinduism (Shaiva-Vaishnava) with temple-centred society rose**, alongside strong **Jainism** under Rashtrakuta influence — the temple economy that Kakatiya/Reddi Andhra would inherit."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Early-medieval Andhra 7c-12c] --> B[Eastern Chalukyas of Vengi]\n  B --> C[Kubja Vishnuvardhana founds line]\n  B --> D[Rajaraja Narendra patronises Nannaya]\n  A --> E[Rashtrakutas - western Deccan overlords]\n  A --> F[Renati Cholas - Rayalaseema]\n  F --> G[Earliest Telugu inscriptions ~575 CE]\n  A --> H[Buddhism declines, Shaiva-Vaishnava temples rise]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Centre the Eastern Chalukyas of Vengi (400 years, Kubja Vishnuvardhana, Rajaraja Narendra & Nannaya); position Rashtrakutas as overlords and Renati Cholas for the earliest Telugu inscriptions.",
+              "The two milestones — earliest Telugu inscription (Renati Cholas) and first Telugu poet Nannaya (Eastern Chalukyas) — make this the era that CONSOLIDATED Telugu identity."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: This is the era that CONSOLIDATED Telugu identity — Renati Chola inscriptions give the earliest written Telugu, and the Eastern Chalukyas' patronage of Nannaya begins Telugu literature; the Rashtrakuta-Chalukya rivalry sets the Deccan-synthesis backdrop."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Eastern Chalukyas of Vengi** — founded by **Kubja Vishnuvardhana** (brother of Pulakeshin II, ~624 CE); ruled coastal Andhra ~400 years.",
+      "**Rajaraja Narendra** patronised **Nannaya**, who began the **Telugu Mahabharatam** — Adikavi.",
+      "**Rashtrakutas** — western-Deccan power; capital **Manyakheta**; built **Ellora Kailasa temple**.",
+      "**Renati Cholas** — ruled **Renadu (Rayalaseema)**; **Kalamalla/Erragudipadu inscription (~575 CE)** among the earliest Telugu inscriptions.",
+      "Minor lines — **Telugu Cholas, Vaidumbas, Banas** in Rayalaseema/border areas.",
+      "Religion shifted — **Buddhism declined; Shaiva-Vaishnava temple Hinduism & Jainism rose**.",
+      "Eastern Chalukya line eventually merged with the **Imperial Cholas** (Kulottunga)."
+    ],
+    "mainsAngles": [
+      "Assess the Eastern Chalukyas of Vengi as the makers of medieval Andhra's political and linguistic identity.",
+      "Examine the significance of the Renati Chola inscriptions for the history of the Telugu language.",
+      "Analyse the interaction of Rashtrakuta and Eastern Chalukya power in shaping early-medieval Deccan culture.",
+      "Trace the religious transition from Buddhism to temple-centred Hinduism in early-medieval Andhra.",
+      "Discuss the socio-cultural synthesis of the early-medieval Andhra dynasties."
+    ],
+    "glossary": [
+      {"term": "Eastern Chalukyas", "definition": "The dynasty of Vengi (c. 624-1075) that ruled coastal Andhra for ~400 years and patronised the first Telugu poet, Nannaya."},
+      {"term": "Kubja Vishnuvardhana", "definition": "Brother of the Badami Chalukya Pulakeshin II; founder of the Eastern Chalukya line of Vengi."},
+      {"term": "Renati Cholas", "definition": "A dynasty of the Renadu region (Rayalaseema) associated with the earliest Telugu-language inscriptions (~575 CE)."},
+      {"term": "Rashtrakutas", "definition": "A powerful western-Deccan dynasty (Manyakheta) that acted as overlords and rivals of the Eastern Chalukyas."},
+      {"term": "Samanta", "definition": "A subordinate feudatory chief within the early-medieval Deccan polity, holding land for military service."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOA-048",
+    "sections": [
+      {
+        "heading": "Telugu script & language; literature, art & architecture (early medieval)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The early-medieval centuries **crystallised the Telugu script and literary tradition**: evolving from the **Brahmi → Kadamba/Chalukya** scripts, Telugu became a full literary language with **Nannaya's Mahabharatam (11th cent.)**, while temple architecture and sculpture flowered under Chalukya-Rashtrakuta-Kakatiya patronage — the artistic idiom that culminates in the Kakatiya masterpieces."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "Development"],
+            "rows": [
+              ["**Script**", "**Brahmi → Bhattiprolu/Kadamba → Telugu-Kannada script → distinct Telugu script**; the shared Telugu-Kannada parent split into separate scripts in the early-medieval era."],
+              ["**Language & literature**", "Telugu matured from inscriptional to literary; **Nannaya (11th c.)** — Adikavi — began the **Andhra Mahabharatam** in the **champu** (prose-verse) style, fixing literary Telugu grammar & diction."],
+              ["**Architecture**", "The **Vesara (Deccan) temple style** — a Nagara-Dravida blend under the Chalukyas-Rashtrakutas; leading to **Kakatiya** temples (Thousand-Pillar temple, Ramappa) and their signature toranas."],
+              ["**Sculpture & fine arts**", "Rich temple sculpture, the **Kakatiya kirti-torana (Warangal gateway)**, dance-music traditions (the Nritta Ratnavali), and continued Jain art in Rayalaseema."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The literary dawn and architectural idiom",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Nannaya's dawn (the milestone)**: **Nannaya Bhattaraka**, patronised by **Rajaraja Narendra (Eastern Chalukya)**, began the **Telugu Mahabharatam** — earning the title **Adikavi (first poet)** and setting the **champu** template; completed later by **Tikkana & Errapragada** (the **Kavitraya — trinity of poets**).",
+              "**Script evolution**: the **Telugu script** descends via **Brahmi and the Telugu-Kannada common script**, separating into its rounded modern form in the early-medieval centuries — inscriptions trace the whole journey.",
+              "**The Vesara temple tradition**: Andhra-Deccan temple architecture blended **Nagara (north) and Dravida (south)** into the **Vesara** style — refined by the **Kakatiyas** (Hanamkonda Thousand-Pillar temple, the **Ramappa temple — a UNESCO site**, star-shaped platforms, floating bricks, black-basalt polish).",
+              "**Fine arts**: Kakatiya-era **kirti-toranas (Warangal Fort gateways)**, temple sculpture, and treatises like **Jayapa Senani's Nritta Ratnavali** on dance — an integrated art-architecture culture that HCOA-051 develops."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Brahmi script] --> B[Bhattiprolu-Kadamba]\n  B --> C[Telugu-Kannada common script]\n  C --> D[Distinct Telugu script]\n  E[Nannaya - Adikavi 11c] --> F[Telugu Mahabharatam - champu]\n  F --> G[Kavitraya - Nannaya, Tikkana, Errapragada]\n  H[Vesara temple style] --> I[Kakatiya temples - Ramappa, Thousand Pillar]\n  I --> J[Kirti-torana, Nritta Ratnavali]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Two pillars: the LITERARY dawn (Nannaya/Adikavi → Kavitraya, champu style, script evolution Brahmi→Telugu) and the ARCHITECTURAL idiom (Vesara → Kakatiya Ramappa/Thousand-Pillar temples, kirti-toranas).",
+              "Ramappa (UNESCO), floating bricks and the kirti-torana are the memorable, high-value specifics."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Pair the literary dawn (Nannaya the Adikavi, the champu style, Brahmi-to-Telugu script) with the architectural idiom (Vesara → Kakatiya Ramappa & Thousand-Pillar temples, kirti-toranas) — the twin foundations of medieval Telugu high culture."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Telugu script** evolved: **Brahmi → Bhattiprolu/Kadamba → Telugu-Kannada common script → distinct Telugu script**.",
+      "**Nannaya (11th c.)** — **Adikavi**; began the **Andhra Mahabharatam** in **champu** style under **Rajaraja Narendra**.",
+      "**Kavitraya (trinity)** — **Nannaya, Tikkana, Errapragada** — completed the Telugu Mahabharatam.",
+      "**Vesara style** — a Nagara-Dravida blend of Deccan temple architecture.",
+      "**Ramappa (Rudreswara) temple** — Kakatiya, **UNESCO World Heritage**; famed 'floating bricks' & black-basalt sculpture.",
+      "**Thousand-Pillar temple (Hanamkonda)** and **Warangal kirti-toranas** — Kakatiya masterpieces.",
+      "**Jayapa Senani's Nritta Ratnavali** — a Kakatiya-era treatise on dance."
+    ],
+    "mainsAngles": [
+      "Trace the evolution of the Telugu script and the birth of Telugu literature under the Eastern Chalukyas.",
+      "Assess Nannaya's contribution as the Adikavi and founder of the champu literary tradition.",
+      "Analyse the Vesara style and its culmination in Kakatiya temple architecture.",
+      "Discuss the Ramappa temple as a masterpiece of medieval Andhra architecture and engineering.",
+      "Examine the integration of literature, architecture and performing arts in early-medieval Andhra."
+    ],
+    "glossary": [
+      {"term": "Adikavi", "definition": "The 'first poet' — the title of Nannaya, who began the Telugu Mahabharatam in the 11th century."},
+      {"term": "Champu", "definition": "A literary style mixing prose (gadya) and verse (padya), used by Nannaya for the Telugu Mahabharatam."},
+      {"term": "Kavitraya", "definition": "The 'trinity of poets' — Nannaya, Tikkana and Errapragada — who together rendered the Mahabharatam into Telugu."},
+      {"term": "Vesara", "definition": "The Deccan temple style blending northern (Nagara) and southern (Dravida) features, developed under Chalukya-Rashtrakuta-Kakatiya rule."},
+      {"term": "Kirti-torana", "definition": "An ornamental free-standing gateway/arch; the Warangal Fort kirti-toranas are Kakatiya emblems (part of Telangana's state emblem)."}
+    ]
+  }
+]
