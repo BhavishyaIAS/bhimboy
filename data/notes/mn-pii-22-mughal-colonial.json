@@ -1,0 +1,508 @@
+[
+  {
+    "code": "MN-PII-HCOI-021",
+    "sections": [
+      {
+        "heading": "The Mughal Empire — India's grand imperial state",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Mughal Empire (1526–1857)** — founded by **Babur** (Panipat 1526) — became **medieval India's most integrated, prosperous and culturally luminous state**. The **Great Mughals** — **Babur, Humayun, Akbar (1556–1605, the architect of the system), Jahangir, Shah Jahan (the golden age of art), Aurangzeb (greatest extent, then decline)** — built an administration so durable that even the British inherited its vocabulary (mansab, jagir, subah, diwan)."
+          },
+          {
+            "type": "table",
+            "headers": ["Pillar", "The Mughal system"],
+            "rows": [
+              ["**Central administration**", "The **Emperor** at apex; four ministries — **Diwan (finance), Mir Bakhshi (military/mansab), Sadr (religion/charity), Mir Saman (household)**; a centralised, Persianised bureaucracy."],
+              ["**Mansabdari system**", "**Akbar's** ranking of nobles by **zat (personal rank) & sawar (cavalry)** — a graded, transferable, salaried service nobility; the empire's steel frame; paid via **jagir** (revenue assignments)."],
+              ["**Land revenue — Zabti/Dahsala**", "**Todar Mal's** settlement — measured land, classified soil, fixed a cash demand (~1/3 produce) on a ten-year average; the fiscal engine that funded everything."],
+              ["**Provincial**", "**Subah (province) → Sarkar → Pargana → village**; **Subedar (governor), Diwan (revenue), Faujdar (law-order)** — a replicable pyramid."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Socio-religious life & culture — the Ganga-Jamuni synthesis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Religious policy — the great arc**: **Akbar's** liberal synthesis — abolition of jizya (1564), **Sulh-i-kul (universal peace), Din-i-Ilahi, Ibadat Khana debates, Rajput alliances** — versus **Aurangzeb's** orthodoxy (jizya re-imposed 1679, temple friction) — the swing of policy is the empire's central socio-religious debate; present both with balance.",
+              "**Art & architecture — the golden age**: **Indo-Islamic-Persian fusion** at its zenith — **Fatehpur Sikri, Humayun's Tomb, the Taj Mahal, Red Fort, Jama Masjid**; **charbagh gardens, pietra dura, the bulbous dome & pishtaq**; Mughal **miniature painting** (Persian + Indian schools).",
+              "**Literature & language**: **Persian** the court language (Abul Fazl's Ain-i-Akbari & Akbarnama); **Urdu's flowering**; translations of Sanskrit epics; the **Bhakti-Sufi** currents (HCOI-018) continuing beneath.",
+              "**Economy & society**: a **monetised, trade-rich economy** (textiles, the silver influx, karkhanas, flourishing towns — Ibn-era travellers marvel); a hierarchical society of nobility, zamindars, artisans and peasantry; women's seclusion alongside powerful figures (Nur Jahan)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Mughal Empire 1526-1857] --> B[Great Mughals: Babur to Aurangzeb]\n  A --> C[Mansabdari - zat and sawar]\n  A --> D[Zabti revenue - Todar Mal]\n  A --> E[Subah-Sarkar-Pargana pyramid]\n  A --> F[Akbar - Sulh-i-kul, jizya abolished]\n  F --> G[Aurangzeb - orthodoxy, jizya restored]\n  A --> H[Golden age - Taj, miniatures, Persian-Urdu]\n  G --> I[Decline - Deccan wars, succession, invasions]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Lead with the four administrative pillars (central, mansabdari, revenue, provincial), then the socio-religious swing (Akbar's synthesis vs Aurangzeb's orthodoxy), then the cultural golden age.",
+              "The mansabdari + Todar Mal revenue system is the highest-yield factual core; the Akbar-Aurangzeb contrast is the analytical spine."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Present Mughal religious policy as an ARC — Akbar's liberal synthesis to Aurangzeb's orthodoxy — not a verdict; pair it with mansabdari and Todar Mal's revenue settlement as the durable administrative achievement the British later inherited."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Mughal Empire (1526-1857)** — Babur (Panipat 1526) to Bahadur Shah Zafar; **Great Mughals**: Babur, Humayun, Akbar, Jahangir, Shah Jahan, Aurangzeb.",
+      "**Mansabdari system** — Akbar's; ranks measured by **zat (status) & sawar (cavalry)**; nobles paid via **jagir**.",
+      "**Zabti/Dahsala revenue** — **Todar Mal's** settlement; cash demand on a ten-year average.",
+      "**Akbar**: abolished **jizya (1564)**, **Sulh-i-kul, Din-i-Ilahi, Ibadat Khana**; Rajput alliances; **Abul Fazl** (Ain-i-Akbari, Akbarnama).",
+      "**Aurangzeb**: re-imposed **jizya (1679)**; greatest territorial extent; Deccan wars drained the empire.",
+      "**Provincial hierarchy**: Subah → Sarkar → Pargana → village; **Subedar, Diwan, Faujdar**.",
+      "**Monuments**: Fatehpur Sikri, Humayun's Tomb, Taj Mahal, Red Fort, Jama Masjid; **charbagh, pietra dura**."
+    ],
+    "mainsAngles": [
+      "Analyse the mansabdari system as the steel frame of the Mughal empire — and how its decline (jagirdari crisis) mirrored the empire's.",
+      "Contrast Akbar's Sulh-i-kul with Aurangzeb's orthodoxy — evaluate the role of religious policy in imperial stability.",
+      "Examine Todar Mal's revenue settlement as the fiscal foundation later inherited by the British Permanent/Ryotwari systems.",
+      "Assess Mughal art and architecture as the high point of Indo-Islamic synthesis.",
+      "Discuss the causes of Mughal decline — administrative, economic (jagir crisis), military and the Deccan drain."
+    ],
+    "glossary": [
+      {"term": "Mansab", "definition": "A numerical rank in the Mughal service, fixing a noble's status (zat) and cavalry obligation (sawar)."},
+      {"term": "Jagir", "definition": "A revenue assignment granted to a mansabdar in lieu of salary; its holder was a jagirdar."},
+      {"term": "Sulh-i-kul", "definition": "Akbar's principle of 'universal peace' / tolerance towards all faiths — the ideological basis of his liberal policy."},
+      {"term": "Zabti / Dahsala", "definition": "Todar Mal's land-revenue system fixing a cash demand based on measured land and a ten-year average of prices and yields."},
+      {"term": "Subah", "definition": "A Mughal province, headed by a Subedar; subdivided into sarkars and parganas."},
+      {"term": "Din-i-Ilahi", "definition": "Akbar's syncretic ethical order (1582) drawing on multiple faiths; a small court following, not a mass religion."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-022",
+    "sections": [
+      {
+        "heading": "Shivaji and the rise of the Marathas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Shivaji (1630–1680)** carved a **sovereign Maratha state** out of the Deccan against both the **Bijapur Sultanate and Mughal power**, crowning himself **Chhatrapati at Raigad (1674)**. He fused **guerrilla warfare (ganimi kava), a hill-fort network, naval power and an efficient revenue-military administration** into the **first durable indigenous challenge to Mughal supremacy** — the seed of the 18th-century Maratha confederacy that would dominate India."
+          },
+          {
+            "type": "table",
+            "headers": ["Instrument", "How Shivaji built the state"],
+            "rows": [
+              ["**Ashta Pradhan**", "A council of **eight ministers** — Peshwa (PM), Amatya, Mantri, Sachiv, Sumant, Senapati, Panditrao, Nyayadhish; a merit bureaucracy, offices non-hereditary."],
+              ["**Revenue**", "**Chauth (1/4) & Sardeshmukhi (1/10)** — levies on neighbouring territories; land assessed on measurement; cash salaries curbed jagir-style feudalism."],
+              ["**Military & forts**", "**Guerrilla warfare (ganimi kava)**, a light mobile cavalry, and a chain of **hill forts** (Raigad, Pratapgarh, Sinhagad); a paid standing army over feudal levies."],
+              ["**Navy**", "A pioneering **Maratha navy** guarding the Konkan coast — forts at Sindhudurg, Vijaydurg — earning Shivaji the 'father of the Indian navy' epithet."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "From Shivaji to empire — the confederacy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Shivaji's method**: religious tolerance (protected mosques, employed Muslims), a Marathi-Sanskrit cultural revival, and a state resting on **Deccan peasant support** rather than a narrow nobility — a genuinely **regional, popular kingship**.",
+              "**Sambhaji, Rajaram, Tarabai**: the state survived a **27-year war with Aurangzeb (1681–1707)** — Aurangzeb died in the Deccan, the war that drained and doomed the Mughals; Maratha resilience is the story of Mughal decline (HCOI-021).",
+              "**The Peshwa era**: under the **Peshwas (Balaji Vishwanath, Baji Rao I, Balaji Baji Rao)** the state became a **confederacy** — Scindias (Gwalior), Holkars (Indore), Gaekwads (Baroda), Bhonsles (Nagpur) — expanding to Delhi and Attock.",
+              "**The check — Panipat 1761**: the crushing defeat by **Ahmad Shah Abdali** halted Maratha northward expansion; recovery under Madhav Rao followed, but the confederacy's decentralisation left it vulnerable to the **British (Anglo-Maratha Wars, 1775–1818)**."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Shivaji 1630-1680] --> B[Chhatrapati at Raigad 1674]\n  A --> C[Ashta Pradhan - eight ministers]\n  A --> D[Chauth and Sardeshmukhi revenue]\n  A --> E[Ganimi kava - guerrilla war, hill forts]\n  A --> F[Maratha navy - Konkan coast]\n  B --> G[27-year war with Aurangzeb]\n  G --> H[Mughal decline]\n  B --> I[Peshwa era - confederacy]\n  I --> J[Scindia-Holkar-Gaekwad-Bhonsle]\n  I --> K[Panipat 1761 - Abdali halts expansion]\n  K --> L[Anglo-Maratha Wars - British ascendancy]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Build Shivaji as a STATE-BUILDER: Ashta Pradhan + Chauth/Sardeshmukhi + guerrilla-fort-navy system, not merely a warrior.",
+              "Link the 27-year war to Mughal decline, and the confederacy → Panipat 1761 → Anglo-Maratha Wars as the bridge to British paramountcy."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Frame Shivaji as the founder of a durable, popular Deccan STATE (administration + revenue + navy), and the Marathas as the pivot between Mughal decline and British rise — the 27-year war and Panipat 1761 are the two hinge events."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Shivaji (1630-1680)** — crowned **Chhatrapati at Raigad (1674)**; founder of the Maratha state.",
+      "**Ashta Pradhan** — council of eight ministers; head was the **Peshwa**.",
+      "**Chauth (1/4) & Sardeshmukhi (1/10)** — Maratha revenue levies on neighbouring lands.",
+      "**Ganimi kava** — guerrilla warfare; a hill-fort network (Raigad, Pratapgarh, Sinhagad).",
+      "**Maratha navy** — Konkan forts (Sindhudurg, Vijaydurg); Shivaji called 'father of the Indian navy'.",
+      "**27-year war (1681-1707)** — Marathas vs Aurangzeb in the Deccan; drained the Mughals.",
+      "**Peshwas** (Balaji Vishwanath, Baji Rao I) built the **confederacy** — Scindia, Holkar, Gaekwad, Bhonsle; **Third Battle of Panipat (1761)** — defeat by Abdali."
+    ],
+    "mainsAngles": [
+      "Assess Shivaji as a nation/state-builder rather than a mere military adventurer — administration, revenue and navy.",
+      "Examine how the 27-year Maratha war of resistance contributed to the decline of the Mughal empire.",
+      "Analyse the transformation of the Maratha kingdom into a decentralised confederacy under the Peshwas — strengths and structural weaknesses.",
+      "Evaluate the significance of the Third Battle of Panipat (1761) for the trajectory of 18th-century Indian politics.",
+      "Discuss Shivaji's policy of religious tolerance and its place in his statecraft."
+    ],
+    "glossary": [
+      {"term": "Chhatrapati", "definition": "The sovereign title ('paramount ruler') Shivaji assumed at his coronation in 1674, asserting independent Maratha kingship."},
+      {"term": "Ashta Pradhan", "definition": "Shivaji's eight-minister council of state, headed by the Peshwa; offices were merit-based and non-hereditary."},
+      {"term": "Chauth", "definition": "A Maratha tax of one-fourth of the revenue levied on neighbouring or conquered territories."},
+      {"term": "Sardeshmukhi", "definition": "An additional Maratha levy of one-tenth, claimed as the hereditary right of the Chhatrapati as 'chief headman'."},
+      {"term": "Ganimi kava", "definition": "The Maratha guerrilla-warfare doctrine — mobility, surprise, forts and terrain — used against larger armies."},
+      {"term": "Peshwa", "definition": "The prime minister of the Maratha state; from the early 18th century the effective hereditary head of the confederacy."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-023",
+    "sections": [
+      {
+        "heading": "The advent of the Europeans — the race for Indian trade",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **European arrival (1498–1757)** began with **Vasco da Gama reaching Calicut (1498)** and unfolded as a **century-long commercial contest** among the **Portuguese, Dutch, English, French and Danes** for India's fabled trade — spices, textiles, indigo, saltpetre. What began as **seaborne commerce ended as territorial empire**: the trading companies, drawn into Indian politics amid Mughal decline, became rulers."
+          },
+          {
+            "type": "table",
+            "headers": ["Power", "Arrival, bases & fate"],
+            "rows": [
+              ["**Portuguese (1498)**", "First and last to leave; **Goa (1510, Albuquerque), Daman, Diu**; monopoly via the **cartaz** pass system & Estado da India; declined by 1600s but held Goa till 1961."],
+              ["**Dutch (1602, VOC)**", "Focused on the **spice islands** (Indonesia); Indian bases at Pulicat, Nagapattinam; ousted from India after **Bedara (1759)**; dominant in textiles briefly."],
+              ["**English (1600, EIC)**", "**Surat (1613), Madras (1639), Bombay (1668), Calcutta (1690)**; won the long game via naval-financial strength and Plassey (1757)."],
+              ["**French (1664, CIO)**", "**Pondicherry, Chandernagore, Mahe**; **Dupleix** nearly won the Carnatic; lost the Anglo-French **Carnatic Wars (1746-63)**, sealed at Wandiwash (1760)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Trade practices — how commerce became conquest",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The commodity draw**: Europe craved **Indian textiles (calico, muslin), spices (pepper), indigo, saltpetre and silk**, paying largely in **bullion (silver)** — India ran a huge trade surplus; the 'drain' would reverse only under British rule (HCOI-024).",
+              "**The company form**: **joint-stock chartered companies** (EIC 1600, VOC 1602) with **royal monopolies, private armies and the right to make war/peace** — a novel fusion of commerce and sovereignty that let them act as states.",
+              "**Fortified factories**: walled trading posts (factories) at coastal sites, evolving into **garrisoned forts** (Fort St. George, Fort William) — the nuclei of later territorial power.",
+              "**The Carnatic Wars (the turning point)**: Anglo-French rivalry, fought through **subsidiary alliances with Indian rulers**, showed that **European-trained sepoy armies could decide Indian successions** — the template Clive would use at Plassey; the AP/Coromandel coast was the crucible (Dupleix at Pondicherry)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Vasco da Gama - Calicut 1498] --> B[Portuguese - Goa, cartaz monopoly]\n  A --> C[Dutch VOC 1602 - spice focus]\n  A --> D[English EIC 1600 - Surat, Madras, Bombay, Calcutta]\n  A --> E[French CIO 1664 - Pondicherry, Dupleix]\n  D --> F[Joint-stock company + private army]\n  E --> G[Carnatic Wars 1746-63]\n  G --> H[Sepoy armies decide successions]\n  H --> I[Plassey 1757 - EIC turns ruler]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Sequence the five powers with dates/bases (Portuguese→Dutch→English→French), then explain the company form and how the Carnatic Wars converted trade into territorial ambition.",
+              "The AP link: the Coromandel/Carnatic coast (Pondicherry, Madras) was the theatre where Dupleix and Clive proved sepoy armies could make kings."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The European advent is a story of COMMERCE becoming CONQUEST — the joint-stock company with a private army plus the Carnatic Wars is the mechanism; da Gama 1498 to Plassey 1757 is the arc."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Vasco da Gama** reached **Calicut in 1498**; the Portuguese were the first Europeans by sea.",
+      "**Portuguese**: Goa (1510, **Albuquerque**), Daman, Diu; **cartaz** pass system; held Goa till 1961.",
+      "**Dutch (VOC, 1602)** — spice focus; ousted after **Battle of Bedara (1759)**.",
+      "**English EIC (1600)** — Surat (1613), Madras (1639), Bombay (1668), Calcutta (1690).",
+      "**French (CIO, 1664)** — Pondicherry, Chandernagore, Mahe; **Dupleix**.",
+      "**Carnatic Wars (1746-63)** — Anglo-French rivalry; **Battle of Wandiwash (1760)** decisive for the English.",
+      "Europe paid for Indian goods largely in **bullion (silver)**; key exports — textiles, spices, indigo, saltpetre."
+    ],
+    "mainsAngles": [
+      "Trace how European trading companies transformed from commercial bodies into territorial powers in 18th-century India.",
+      "Analyse the significance of the Carnatic Wars in establishing English over French supremacy in India.",
+      "Examine the joint-stock chartered company as an instrument that fused commerce with sovereignty.",
+      "Discuss the impact of European entry on the Indian coastal economy and indigenous trading networks.",
+      "Assess the role of Mughal decline in enabling European territorial ambitions."
+    ],
+    "glossary": [
+      {"term": "Factory", "definition": "A fortified European trading post where goods were stored and traded; the nucleus of later territorial forts."},
+      {"term": "Cartaz", "definition": "The Portuguese naval pass system compelling Indian ships to pay for permission to trade, enforcing their maritime monopoly."},
+      {"term": "Joint-stock company", "definition": "A firm owned by shareholders; the EIC and VOC combined this form with royal charters granting monopoly and war-making powers."},
+      {"term": "Subsidiary force", "definition": "European-trained sepoy troops lent to Indian rulers in exchange for money or territory — a lever of political control."},
+      {"term": "Carnatic Wars", "definition": "Three Anglo-French conflicts (1746-63) fought in south India that established English supremacy over the French."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-024",
+    "sections": [
+      {
+        "heading": "The rise of the East India Company's hegemony",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Between **Plassey (1757) and the Charter Act of 1833**, a **trading company became the sovereign of India**. Exploiting **Mughal decline and regional rivalries**, the **English East India Company** converted commercial dominance into **territorial paramountcy** through **decisive battles, the Diwani, subsidiary alliances and outright annexation** — an empire acquired, in Seeley's phrase, almost 'in a fit of absence of mind', but in truth by systematic method."
+          },
+          {
+            "type": "table",
+            "headers": ["Stage", "How hegemony was built"],
+            "rows": [
+              ["**Plassey (1757)**", "**Clive** defeated **Siraj-ud-Daulah** of Bengal via conspiracy (Mir Jafar); the Company gained control of the richest province — the financial base of empire."],
+              ["**Buxar (1764)**", "Defeat of the combined **Mughal-Awadh-Bengal** forces; **1765 Diwani** of Bengal-Bihar-Orissa gave the Company revenue rights — legal sovereignty over Bengal."],
+              ["**Subsidiary Alliance (Wellesley)**", "Indian rulers hosted (and paid for) Company troops, surrendered foreign relations — **Hyderabad, Awadh, Marathas** drawn in; expansion without direct war."],
+              ["**Doctrine of Lapse (Dalhousie)**", "States without a natural heir 'lapsed' to the Company — **Satara, Jhansi, Nagpur, Awadh (misgovernance)** annexed; a grievance feeding 1857."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Mechanisms and consequences",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Military-fiscal engine**: the **Diwani** let the Company fund its army from Bengal's revenues and buy Indian goods with Indian taxes — the beginning of the **'drain of wealth'** (Dadabhai Naoroji) that reversed India's old trade surplus.",
+              "**Political method — three tools**: **outright war/annexation** (Mysore against Tipu 1799, the Anglo-Maratha & Anglo-Sikh Wars), **Subsidiary Alliances** (Wellesley), and the **Doctrine of Lapse** (Dalhousie) — war, diplomacy and legal fiction combined.",
+              "**Administrative consolidation**: Parliament's growing control via the **Regulating Act (1773), Pitt's India Act (1784), and the Charter Acts (1813 ended trade monopoly, 1833 made the Governor-General of India supreme)** — the Company governed as an agent of the Crown.",
+              "**Economic transformation**: **deindustrialisation** of Indian textiles, commercialisation of agriculture, new land-revenue systems (Permanent Settlement 1793, Ryotwari, Mahalwari — HCOI-025), and the drain — the material roots of the freedom struggle."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Plassey 1757 - Clive vs Siraj-ud-Daulah] --> B[Bengal - financial base]\n  B --> C[Buxar 1764]\n  C --> D[Diwani 1765 - revenue rights]\n  D --> E[Drain of wealth begins]\n  A --> F[Subsidiary Alliance - Wellesley]\n  A --> G[Doctrine of Lapse - Dalhousie]\n  F --> H[Annexations without war]\n  G --> H\n  H --> I[Company paramountcy by 1850s]\n  I --> J[Grievances feed Revolt of 1857]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Anchor on the two battles (Plassey 1757, Buxar 1764 → Diwani 1765) as the financial-legal foundation, then the three expansion tools (war, Subsidiary Alliance, Lapse).",
+              "Close with the economic consequence — drain, deindustrialisation, revenue systems — as the bridge to colonial change (HCOI-025) and to 1857."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: The Company's rise = Bengal's revenue (Plassey-Buxar-Diwani) funding an army that conquered the rest via Subsidiary Alliance and Doctrine of Lapse; the Diwani is the hinge that turns trade into a wealth-draining empire."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Battle of Plassey (1757)** — Clive defeated **Siraj-ud-Daulah** with Mir Jafar's treachery; Company control of Bengal.",
+      "**Battle of Buxar (1764)** — defeat of combined Mughal-Awadh-Bengal forces; led to the **Diwani (1765)** of Bengal-Bihar-Orissa.",
+      "**Subsidiary Alliance** — **Lord Wellesley's** system; **Doctrine of Lapse** — **Lord Dalhousie's** (Satara, Jhansi, Nagpur, Awadh).",
+      "**Regulating Act (1773), Pitt's India Act (1784), Charter Act 1813 (ended trade monopoly), Charter Act 1833 (GG of India)**.",
+      "**Drain of wealth** — theorised by **Dadabhai Naoroji** ('Poverty and Un-British Rule in India').",
+      "**Anglo-Mysore Wars** — Tipu Sultan killed at Seringapatam (1799); **Anglo-Maratha & Anglo-Sikh Wars**.",
+      "Land revenue: **Permanent Settlement (1793, Cornwallis), Ryotwari (Munro), Mahalwari**."
+    ],
+    "mainsAngles": [
+      "Analyse how the East India Company transformed from a trading body into the paramount power in India between 1757 and 1857.",
+      "Evaluate the Diwani of 1765 as the turning point that made colonial exploitation systematic.",
+      "Examine the Subsidiary Alliance and Doctrine of Lapse as instruments of Company expansion.",
+      "Discuss the drain of wealth thesis and its significance for the nationalist economic critique.",
+      "Assess the progressive parliamentary control over the Company through the Regulating, Pitt's and Charter Acts."
+    ],
+    "glossary": [
+      {"term": "Diwani", "definition": "The right to collect revenue, granted to the EIC over Bengal, Bihar and Orissa in 1765 — the legal basis of Company sovereignty."},
+      {"term": "Subsidiary Alliance", "definition": "Wellesley's system whereby Indian rulers maintained Company troops at their own cost and ceded control of external affairs."},
+      {"term": "Doctrine of Lapse", "definition": "Dalhousie's policy annexing princely states lacking a natural male heir, disallowing adopted successors."},
+      {"term": "Drain of wealth", "definition": "The nationalist thesis (Naoroji, R.C. Dutt) that Britain systematically transferred India's resources home without equivalent return."},
+      {"term": "Permanent Settlement", "definition": "Cornwallis's 1793 revenue system fixing zamindars' land tax in perpetuity, making them proprietors."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-025",
+    "sections": [
+      {
+        "heading": "Colonial change — administration, society and culture remade",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "British rule did not merely change India's rulers — it **restructured the state, the economy and social life**. A **centralised bureaucratic administration, Western education, new law, the railway-telegraph, and a reformed revenue order** together produced a **modern colonial state** — simultaneously **exploitative and, unintentionally, modernising** — whose contradictions bred the very nationalism that would end it."
+          },
+          {
+            "type": "table",
+            "headers": ["Sphere", "Colonial transformation"],
+            "rows": [
+              ["**Administration**", "A **centralised, hierarchical bureaucracy** — the **covenanted Civil Service (ICS)**, rule of law, codified law (Macaulay's **Penal Code 1860**), a professional police (1861) and army; **post-1858 Crown rule** (Government of India Act 1858, Viceroy)."],
+              ["**Revenue & economy**", "**Permanent (1793), Ryotwari & Mahalwari** settlements; commercialisation of agriculture; **deindustrialisation** of handicrafts; railways, telegraph, ports built for **extraction & administration** — the drain (HCOI-024)."],
+              ["**Education**", "**Macaulay's Minute (1835)** & English education; **Wood's Despatch (1854)** — the education 'magna carta' (universities 1857); a Western-educated middle class emerged — the nationalist vanguard."],
+              ["**Society & culture**", "**Social reform** (abolition of **Sati 1829** — Bentinck/Roy; **Widow Remarriage Act 1856** — Vidyasagar), a modern press, and a colonial 'civilising mission' rhetoric masking economic exploitation."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The double-edged legacy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The modernising instruments (unintended)**: railways, telegraph, English education, a unified legal-administrative framework and the printing press **knit India together** and gave nationalism its language, network and educated leadership — colonial tools turned against the colonisers.",
+              "**The exploitative core**: **deindustrialisation** (Indian weavers ruined by machine-made cloth), **recurrent famines** (Bengal 1770, the 1876 & 1896–1900 famines under laissez-faire policy), the **drain**, and racial subordination — the material grievance base.",
+              "**The social-reform ferment**: colonial modernity plus indigenous reformers (**Raja Ram Mohan Roy, Vidyasagar, Jyotiba Phule**) produced **legal social reform** (Sati, widow remarriage, age of consent) and a debate on tradition vs modernity — the 19th-century **Renaissance**.",
+              "**The AP dimension**: the **Madras Presidency's Ryotwari system (Thomas Munro)**, the coastal-Andhra irrigation works (**Sir Arthur Cotton's Godavari-Krishna anicuts, 1850s**) that transformed deltaic agriculture, and the rise of a Telugu educated class — colonial change had a distinct regional face."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Colonial rule] --> B[Centralised bureaucracy - ICS, rule of law]\n  A --> C[Revenue systems - Permanent, Ryotwari, Mahalwari]\n  A --> D[English education - Macaulay 1835, Wood 1854]\n  A --> E[Railways, telegraph, press]\n  A --> F[Social reform - Sati 1829, Widow Remarriage 1856]\n  C --> G[Deindustrialisation, famines, drain]\n  D --> H[Western-educated middle class]\n  E --> H\n  H --> I[Nationalism]\n  G --> I"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use a four-sphere frame (administration, economy/revenue, education, society) and present the DOUBLE-EDGED thesis: exploitative yet unintentionally modernising.",
+              "The AP hook — Munro's Ryotwari and Cotton's Godavari-Krishna anicuts — gives a state-specific, high-value illustration."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Colonial change is best argued as DOUBLE-EDGED — the same instruments (railways, English education, unified law) that extracted wealth also forged the nation and its nationalist leadership; localise with Munro's Ryotwari and Cotton's anicuts for AP."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Government of India Act 1858** — Crown rule; office of **Viceroy** (first, Canning).",
+      "**Macaulay's Minute (1835)** — English education; **Wood's Despatch (1854)** — 'magna carta of English education'; universities (Calcutta, Bombay, Madras) 1857.",
+      "**Indian Penal Code (1860, Macaulay)**; police organised under the **Police Act 1861**.",
+      "**Sati abolished (1829)** — Bentinck & **Raja Ram Mohan Roy**; **Widow Remarriage Act (1856)** — **Ishwar Chandra Vidyasagar**.",
+      "Revenue systems: **Permanent (1793), Ryotwari (Munro, Madras), Mahalwari**.",
+      "**Sir Arthur Cotton** — Godavari & Krishna anicuts (Dowleswaram, 1850s) transforming coastal-Andhra agriculture.",
+      "Famines under laissez-faire — **Great Bengal Famine 1770**, famines of **1876-78 & 1896-1900**."
+    ],
+    "mainsAngles": [
+      "Evaluate the double-edged character of colonial rule — exploitative yet unintentionally modernising.",
+      "Analyse how Western education and English created the social base of Indian nationalism.",
+      "Examine the impact of colonial land-revenue systems on Indian agrarian society.",
+      "Discuss the 19th-century social-reform movements as a product of the interaction of colonial modernity and indigenous reform.",
+      "Assess the regional impact of colonial administration and irrigation works on coastal Andhra."
+    ],
+    "glossary": [
+      {"term": "Ryotwari system", "definition": "A revenue settlement (Munro, Madras & Bombay) made directly with individual cultivators (ryots) rather than intermediaries."},
+      {"term": "ICS", "definition": "The Indian Civil Service — the elite covenanted bureaucracy, the 'steel frame' of British administration in India."},
+      {"term": "Wood's Despatch (1854)", "definition": "The blueprint for a graded English-education system in India, called the 'magna carta of English education'."},
+      {"term": "Deindustrialisation", "definition": "The decline of Indian handicrafts (especially textiles) under competition from machine-made British goods and colonial policy."},
+      {"term": "Anicut", "definition": "A masonry weir across a river for irrigation; Sir Arthur Cotton's Godavari-Krishna anicuts transformed deltaic Andhra."}
+    ]
+  },
+  {
+    "code": "MN-PII-HCOI-026",
+    "sections": [
+      {
+        "heading": "The role of Christian missionaries in colonial India",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Christian missionaries** — enabled after the **Charter Act of 1813** opened India to them — became a **major agent of colonial social and cultural change**. Through **modern schools, colleges, printing presses, hospitals and vernacular scholarship**, they advanced **Western education, social reform and press culture** — even as their **proselytisation provoked reform, revivalism and resistance** among Indians. Their impact, like colonial change itself (HCOI-025), was **double-edged**."
+          },
+          {
+            "type": "table",
+            "headers": ["Field", "Missionary contribution & its two-sidedness"],
+            "rows": [
+              ["**Education**", "Pioneered **modern English & vernacular schools and colleges** (Serampore, Christian colleges); opened education to **lower castes, tribals & women** — but with a conversion aim that spurred Hindu/Muslim educational responses."],
+              ["**Printing & language**", "The **Serampore Press (Carey, Marshman, Ward)** printed Bibles and, crucially, **grammars, dictionaries and vernacular literature** — advancing Bengali, Tamil, **Telugu** and tribal languages."],
+              ["**Social reform**", "Campaigned against **Sati, caste discrimination, female infanticide**; ran **hospitals, orphanages, leprosy & tribal welfare** — real humanitarian work entwined with evangelism."],
+              ["**Reaction it provoked**", "**Socio-religious reform & revival** (Brahmo Samaj, Arya Samaj) partly answered the missionary critique; conversions among tribals/Dalits and cultural anxiety also fed **resentment and 1857 rumours**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Assessment — and the AP dimension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**The enabling shift (1813)**: before 1813 the Company **barred missionaries** (fearing unrest); the **Charter Act of 1813 legalised their entry** — thereafter missionary schools and presses multiplied, especially in south India and tribal belts.",
+              "**Genuine social contributions**: **female education (the first girls' schools), Dalit & tribal uplift, medical service, and vernacular print** were real and lasting — several modern Indian languages owe early grammars and dictionaries to missionary scholars.",
+              "**The provocation-and-response dynamic**: missionary attacks on 'idolatry' and caste **galvanised Hindu reform and revival** (Roy, Dayananda) and sharpened religious identity; fear of forced conversion was among the **rumours behind the 1857 Revolt**.",
+              "**The AP dimension**: missionaries were especially active in the **Telugu country and among tribal & Dalit communities** — early **Telugu grammars, dictionaries and printing**, girls' schools and mass education among marginalised groups gave colonial-era Andhra a distinctive missionary imprint (and later a Dalit-Christian social movement)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Charter Act 1813 - missionaries allowed] --> B[Modern schools and colleges]\n  A --> C[Serampore Press - vernacular print]\n  A --> D[Hospitals, orphanages, tribal welfare]\n  B --> E[Education for women, lower castes, tribals]\n  C --> F[Grammars and dictionaries - Bengali, Tamil, Telugu]\n  A --> G[Proselytisation]\n  G --> H[Hindu-Muslim reform and revival]\n  G --> I[Cultural anxiety - 1857 rumours]"
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Frame the 1813 Charter Act as the enabling event, then a four-field contribution (education, print/language, social reform, medical) with the provocation-and-response counterpoint.",
+              "Localise with the Telugu-country missionary imprint (vernacular print, girls'/Dalit/tribal education) for an AP-specific edge."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Present missionaries as a DOUBLE-EDGED agent — real advances in female/Dalit/tribal education, medicine and vernacular print, but proselytisation that provoked reform, revival and 1857 anxieties; the Charter Act of 1813 is the enabling hinge."
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Charter Act of 1813** — legalised Christian missionary entry into India (earlier barred by the Company).",
+      "**Serampore Trio** — **William Carey, Joshua Marshman, William Ward** — the Serampore Press & vernacular printing/scholarship.",
+      "Missionaries pioneered **female education, Dalit & tribal schooling, hospitals and orphanages**.",
+      "Missionary critique of caste/idolatry helped spur reform bodies — **Brahmo Samaj, Arya Samaj**.",
+      "Fear of forced conversion was among the **rumours contributing to the Revolt of 1857**.",
+      "Active in the **Telugu country** — early Telugu grammars/dictionaries, mass education among marginalised groups.",
+      "Contributed to abolition campaigns — **Sati, female infanticide** — alongside Indian reformers."
+    ],
+    "mainsAngles": [
+      "Assess the double-edged role of Christian missionaries in the social and cultural transformation of colonial India.",
+      "Examine the missionary contribution to modern education, especially for women and marginalised communities.",
+      "Analyse how missionary activity stimulated Hindu and Muslim socio-religious reform and revival.",
+      "Discuss the missionary contribution to vernacular language, print and literature in south India.",
+      "Evaluate the missionary imprint on colonial Andhra's educational and social landscape."
+    ],
+    "glossary": [
+      {"term": "Charter Act of 1813", "definition": "The Act that renewed the EIC charter, ended its trade monopoly (except tea/China) and legally opened India to Christian missionaries."},
+      {"term": "Serampore Trio", "definition": "Carey, Marshman and Ward — Baptist missionaries whose Serampore press pioneered Indian vernacular printing and scholarship."},
+      {"term": "Proselytisation", "definition": "The active seeking of religious conversions — the missionary aim that provoked Indian reform, revival and resistance."},
+      {"term": "Vernacular print", "definition": "Printing in Indian languages; missionary presses produced early grammars, dictionaries and literature in Bengali, Tamil and Telugu."},
+      {"term": "Socio-religious reform", "definition": "19th-century movements (Brahmo, Arya Samaj) to reform Indian religion and society, partly in response to missionary critique."}
+    ]
+  }
+]
