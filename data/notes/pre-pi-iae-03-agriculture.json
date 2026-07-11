@@ -1,0 +1,226 @@
+[
+  {
+    "code": "PRE-PI-IAE-085",
+    "sections": [
+      {
+        "heading": "Irrigation, water & inputs of agriculture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Agricultural productivity depends on **irrigation and modern inputs** — **HYV seeds, fertilizers, pesticides, credit and mechanisation** — that powered the **Green Revolution**. India has diverse irrigation sources but faces **water stress and over-reliance on groundwater**."
+          },
+          {
+            "type": "table",
+            "headers": ["Input/Source", "Detail"],
+            "rows": [
+              ["**Irrigation sources**", "**Wells & tube-wells (largest, ~groundwater), canals, tanks**; net irrigated area rising."],
+              ["**Green Revolution inputs**", "**HYV seeds, chemical fertilizers, pesticides, assured irrigation, mechanisation**."],
+              ["**Micro-irrigation**", "**Drip & sprinkler** — 'Per Drop More Crop' (PMKSY)."],
+              ["**Concerns**", "**Groundwater depletion, waterlogging/salinity, soil degradation, input subsidy burden**."],
+              ["**Schemes**", "**PM Krishi Sinchayee Yojana (PMKSY), Soil Health Card, Neem-coated urea**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Wells/tube-wells = largest irrigation source (groundwater); Green Revolution inputs = HYV+fertilizer+irrigation.",
+              "Micro-irrigation (drip/sprinkler) via PMKSY 'Per Drop More Crop'."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Wells & tube-wells** are India's **largest source of irrigation** (groundwater-based).",
+      "**Green Revolution** inputs — **HYV seeds, chemical fertilizers, pesticides, assured irrigation, mechanisation**.",
+      "**M.S. Swaminathan** — 'Father of the Indian Green Revolution'; **Norman Borlaug** (global).",
+      "**Micro-irrigation** — drip & sprinkler ('Per Drop More Crop').",
+      "**PM Krishi Sinchayee Yojana (PMKSY)** — irrigation umbrella scheme.",
+      "**Soil Health Card** scheme promotes balanced fertilizer use.",
+      "Concerns — **groundwater depletion, waterlogging, salinity, fertilizer subsidy burden**."
+    ],
+    "mainsAngles": [
+      "Discuss the role of irrigation and inputs in Indian agriculture."
+    ],
+    "glossary": [
+      {"term": "Green Revolution", "definition": "The late-1960s leap in food-grain output via HYV seeds, fertilizers and irrigation."},
+      {"term": "HYV seeds", "definition": "High-Yielding Variety seeds central to the Green Revolution."},
+      {"term": "PMKSY", "definition": "The Pradhan Mantri Krishi Sinchayee Yojana, India's umbrella irrigation programme."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-086",
+    "sections": [
+      {
+        "heading": "Agricultural strategy, policy & agrarian crisis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's **agricultural strategy** evolved from the **Green Revolution's productivity focus to diversification, allied activities and doubling farmers' income**. Yet an **agrarian crisis** — low incomes, indebtedness, price volatility and farmer distress — persists, driving policy reform."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**Strategy evolution**", "**Green Revolution → diversification (horticulture, dairy, fisheries) → income focus (doubling farmers' income by 2022 target)**."],
+              ["**Revolutions**", "**Green (foodgrains), White/Operation Flood (milk — Kurien), Blue (fish), Yellow (oilseeds), others**."],
+              ["**Agrarian crisis**", "**Low & volatile incomes, indebtedness, fragmented holdings, farmer suicides, climate risk**."],
+              ["**Policy responses**", "**MSP, PM-KISAN, PMFBY (crop insurance), e-NAM, FPOs**."],
+              ["**Swaminathan Commission**", "Recommended **MSP = C2 + 50%** (cost-plus)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Revolutions: Green (grain), White (milk-Kurien), Blue (fish), Yellow (oilseeds).",
+              "Agrarian crisis drivers; Swaminathan Commission MSP = C2 + 50%."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**White Revolution / Operation Flood** — milk (**Verghese Kurien**, Amul/NDDB).",
+      "**Blue (fish), Yellow (oilseeds), Golden (horticulture/honey), Silver (eggs/poultry)** revolutions.",
+      "**M.S. Swaminathan Commission (NCF)** — recommended **MSP = C2 cost + 50%**.",
+      "Agrarian distress — **indebtedness, fragmented holdings, price volatility, farmer suicides**.",
+      "**e-NAM** — electronic National Agriculture Market (unified mandi platform).",
+      "**FPOs (Farmer Producer Organisations)** aggregate small farmers.",
+      "Goal of **doubling farmers' income** (Dalwai Committee)."
+    ],
+    "mainsAngles": [
+      "Examine the causes of the agrarian crisis and policy responses."
+    ],
+    "glossary": [
+      {"term": "White Revolution", "definition": "Operation Flood — India's dairy revolution led by Verghese Kurien."},
+      {"term": "Swaminathan Commission", "definition": "The National Commission on Farmers that recommended MSP at C2 cost plus 50%."},
+      {"term": "e-NAM", "definition": "The electronic National Agriculture Market linking mandis into one online platform."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-087",
+    "sections": [
+      {
+        "heading": "Land reforms, agricultural credit & MSP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Land reforms** (abolition of intermediaries, tenancy reform, ceilings, consolidation), **institutional agricultural credit**, and **Minimum Support Price (MSP)** are the three pillars of India's effort to make farming equitable and remunerative."
+          },
+          {
+            "type": "table",
+            "headers": ["Pillar", "Detail"],
+            "rows": [
+              ["**Land reforms**", "**Abolition of zamindari/intermediaries, tenancy reform, land ceilings, consolidation of holdings, cooperative farming**."],
+              ["**Agricultural credit**", "**Cooperatives, RRBs, commercial banks, NABARD (apex), Kisan Credit Card**; priority-sector lending."],
+              ["**MSP**", "Price floor announced by govt (on **CACP** advice) for ~**23 crops**; procurement by FCI."],
+              ["**Buffer stock/PDS**", "**FCI** procures & maintains buffer; distributed via **PDS/NFSA**."],
+              ["**Institutions**", "**NABARD (1982), CACP, FCI**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Land reform components (intermediary abolition, tenancy, ceiling, consolidation).",
+              "MSP recommended by CACP for ~23 crops; NABARD = apex agri-credit; KCC."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Land-reform measures — **abolition of intermediaries (zamindari), tenancy reform, land ceilings, consolidation of holdings**.",
+      "**MSP** is recommended by the **Commission for Agricultural Costs & Prices (CACP)** for ~**23 crops**.",
+      "**FCI (Food Corporation of India)** procures and maintains **buffer stocks**.",
+      "**NABARD (1982)** — apex institution for agricultural & rural credit.",
+      "**Kisan Credit Card (KCC)** provides timely crop credit.",
+      "**Priority Sector Lending** requires banks to lend to agriculture.",
+      "**Bhoodan/Gramdan (Vinoba Bhave)** were voluntary land-reform movements."
+    ],
+    "mainsAngles": [
+      "Assess land reforms and the role of MSP in Indian agriculture."
+    ],
+    "glossary": [
+      {"term": "MSP", "definition": "Minimum Support Price — a government-guaranteed price floor for select crops."},
+      {"term": "NABARD", "definition": "The National Bank for Agriculture and Rural Development, apex agri-credit institution (1982)."},
+      {"term": "CACP", "definition": "The Commission for Agricultural Costs and Prices that recommends MSPs."}
+    ]
+  },
+  {
+    "code": "PRE-PI-IAE-088",
+    "sections": [
+      {
+        "heading": "Malnutrition & food security",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Despite food-grain self-sufficiency, India faces **persistent malnutrition** (stunting, wasting, anaemia). **Food security** — ensured through the **National Food Security Act (2013), PDS and nutrition schemes** — remains a central welfare goal."
+          },
+          {
+            "type": "table",
+            "headers": ["Point", "Detail"],
+            "rows": [
+              ["**NFSA (2013)**", "Legal right to subsidised foodgrains to **~two-thirds of the population** (75% rural, 50% urban)."],
+              ["**PDS/TPDS**", "Public Distribution System; **One Nation One Ration Card** for portability."],
+              ["**Malnutrition forms**", "**Stunting (chronic), wasting (acute), underweight, anaemia, hidden hunger (micronutrients)**."],
+              ["**Nutrition schemes**", "**POSHAN Abhiyaan, ICDS/Anganwadi, Mid-Day Meal (PM POSHAN), fortification**."],
+              ["**Indicators**", "**NFHS data; Global Hunger Index**."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Answer craft",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "NFSA 2013 = legal food-grain right to ~2/3 population; ONORC portability.",
+              "Malnutrition = stunting/wasting/anaemia; POSHAN Abhiyaan; NFHS data."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**National Food Security Act (2013)** covers **~67%** of the population (75% rural, 50% urban).",
+      "**PDS/TPDS** delivers subsidised grain; **One Nation One Ration Card (ONORC)** enables portability.",
+      "Malnutrition forms — **stunting (chronic), wasting (acute), underweight, anaemia, hidden hunger**.",
+      "**POSHAN Abhiyaan** — flagship nutrition mission; **ICDS/Anganwadi, Mid-Day Meal (PM POSHAN)**.",
+      "**NFHS (National Family Health Survey)** provides nutrition/health data.",
+      "**Food fortification** (rice, salt, oil) tackles micronutrient deficiency.",
+      "**Eat Right India, Poshan Vatika** are supporting initiatives."
+    ],
+    "mainsAngles": [
+      "Discuss the challenge of malnutrition and India's food-security framework."
+    ],
+    "glossary": [
+      {"term": "NFSA", "definition": "The National Food Security Act (2013) giving ~two-thirds of Indians a legal right to subsidised grain."},
+      {"term": "Stunting", "definition": "Low height-for-age, indicating chronic malnutrition in children."},
+      {"term": "ONORC", "definition": "One Nation One Ration Card — nationwide portability of PDS food entitlements."}
+    ]
+  }
+]
