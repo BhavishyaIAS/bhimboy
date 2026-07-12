@@ -1,0 +1,299 @@
+[
+  {
+    "code": "PRE-PII-CE-056",
+    "sections": [
+      {
+        "heading": "Current events of regional (AP) importance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Regional current affairs cover **major developments in Andhra Pradesh** — government schemes, projects, appointments, awards, sports, disasters and socio-economic news. Since specifics change constantly, focus on **what to track and where** rather than memorising a fixed list."
+          },
+          {
+            "type": "table",
+            "headers": ["Track", "Examples of what to note"],
+            "rows": [
+              ["**Govt schemes/policies**", "New AP welfare, agriculture, industry & IT initiatives; budget highlights."],
+              ["**Projects & infrastructure**", "Polavaram, ports, capital (Amaravati), corridors, metro."],
+              ["**Appointments & institutions**", "Governor, CM, key state officials; new institutions."],
+              ["**Awards, sports, culture**", "AP achievers, GI tags, festivals, sportspersons."],
+              ["**Disasters & environment**", "Cyclones, floods, conservation news (Coringa, Nallamala)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Revision strategy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Read a **state daily** (e.g. Eenadu/The Hindu-AP edition) & the **AP state PIB/CMO** updates.",
+              "Maintain **monthly notes**; revise the last **12-18 months** before the exam.",
+              "Link AP news to **static syllabus** (geography, economy, polity) for depth."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Track AP **government schemes, budgets, projects (Polavaram, Amaravati, ports)**.",
+      "Note **new appointments, institutions, GI tags, awards, sportspersons**.",
+      "Follow **disaster/environment** news (cyclones, Coringa, Nallamala tiger reserve).",
+      "Best sources — **state dailies, AP CMO/PIB, state economic survey**.",
+      "Revise the last **12-18 months** systematically before the exam.",
+      "Connect current AP events to **static topics** (geo/economy/polity)."
+    ],
+    "glossary": [
+      {"term": "GI tag", "definition": "Geographical Indication — legal recognition of a product's regional origin (many in AP)."},
+      {"term": "State Economic Survey", "definition": "An annual AP government report summarising the state's economic performance."}
+    ]
+  },
+  {
+    "code": "PRE-PII-CE-057",
+    "sections": [
+      {
+        "heading": "Current events of national importance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "National current affairs span **polity & governance, economy, schemes, science, environment, awards and sports** across India. The exam rewards **conceptual linkage** of news to the static syllabus, not rote memorisation of headlines."
+          },
+          {
+            "type": "table",
+            "headers": ["Domain", "What to track"],
+            "rows": [
+              ["**Polity/governance**", "Bills, Acts, amendments, key judgments, new bodies, elections."],
+              ["**Economy**", "Budget, RBI policy, GST, indices, major reforms & schemes."],
+              ["**Science & tech**", "ISRO/DRDO missions, health, digital & AI developments."],
+              ["**Environment**", "Protected areas, climate summits, conservation news."],
+              ["**Awards/sports/culture**", "National awards, tournaments, heritage listings."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Revision strategy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Read **one standard newspaper** (The Hindu/Indian Express) + **PIB** daily.",
+              "Use **monthly current-affairs compilations** for consolidation.",
+              "Always **link news to the static syllabus** for retention."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Track **new Acts/bills, amendments, landmark SC judgments, new bodies**.",
+      "Economy — **Union Budget, RBI monetary policy, key schemes & reforms**.",
+      "S&T — **ISRO/DRDO missions, health, digital/AI news**.",
+      "Sources — **The Hindu/Indian Express + PIB + Yojana/Kurukshetra**.",
+      "Consolidate with **monthly current-affairs magazines**.",
+      "Revise the last **~12-18 months** before the exam."
+    ],
+    "glossary": [
+      {"term": "PIB", "definition": "The Press Information Bureau — the government's official source of policy news."},
+      {"term": "Current-affairs linkage", "definition": "Connecting news events to static syllabus concepts for deeper understanding."}
+    ]
+  },
+  {
+    "code": "PRE-PII-CE-058",
+    "sections": [
+      {
+        "heading": "Current events of international importance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "International current affairs cover **India's foreign relations, global summits, international organisations, conflicts and treaties**. Focus on developments with an **India angle** and the mandates of key global bodies."
+          },
+          {
+            "type": "table",
+            "headers": ["Track", "Examples"],
+            "rows": [
+              ["**India's diplomacy**", "Bilateral visits, agreements, Neighbourhood First/Act East."],
+              ["**Summits & groupings**", "**G20, BRICS, SCO, QUAD, UN, SAARC, ASEAN, BIMSTEC**."],
+              ["**Global institutions**", "UN, IMF, World Bank, WTO, WHO, ICJ — mandates & news."],
+              ["**Conflicts & treaties**", "Major geopolitical events, climate/trade agreements."],
+              ["**Global indices**", "Track publisher + India's rank (see CE-060)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Revision strategy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Prioritise news with an **India angle** and **host/venue of summits**.",
+              "Know the **HQ, head & mandate** of major international bodies.",
+              "Track which grouping India **hosted/chaired** recently."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Groupings — **G20, BRICS, SCO, QUAD, SAARC, ASEAN, BIMSTEC, IBSA**.",
+      "Global bodies — **UN, IMF, World Bank, WTO, WHO, ICJ** (know HQ & mandate).",
+      "**India hosted the G20 Summit in 2023 (New Delhi)**.",
+      "Track **summit venues/hosts** and **bilateral agreements**.",
+      "Focus on developments with an **India angle**.",
+      "Note **new member states, treaties and climate/trade deals**."
+    ],
+    "glossary": [
+      {"term": "QUAD", "definition": "The Quadrilateral grouping of India, US, Japan and Australia."},
+      {"term": "BIMSTEC", "definition": "The Bay of Bengal regional grouping of seven South/Southeast Asian nations."}
+    ]
+  },
+  {
+    "code": "PRE-PII-CE-059",
+    "sections": [
+      {
+        "heading": "Government schemes & policies in news (India & AP) — rolling revision",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Schemes are a **high-yield, recurring** current-affairs area. For each scheme in news, capture a **standard fact-set** — ministry, launch year, objective, beneficiaries and key features — for both **central and AP** schemes."
+          },
+          {
+            "type": "table",
+            "headers": ["Capture for each scheme", "Detail"],
+            "rows": [
+              ["**Name & ministry**", "Which department runs it."],
+              ["**Launch year & objective**", "Why it exists."],
+              ["**Target group**", "Farmers, women, youth, poor, etc."],
+              ["**Key features/benefits**", "Amount, mode (DBT), coverage."],
+              ["**Type**", "Central Sector vs Centrally Sponsored vs State (AP)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Distinguish **Central Sector** (100% central) vs **Centrally Sponsored** (cost-shared) schemes.",
+              "For AP, track **Rythu Bharosa, Amma Vodi, YSR/NTR** welfare schemes and successors.",
+              "Maintain a **running scheme table**; revise monthly."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "For every scheme note — **ministry, year, objective, beneficiaries, key features**.",
+      "**Central Sector** = 100% central funding; **Centrally Sponsored** = cost-shared with states.",
+      "Flagship central — **Jan Dhan, Ayushman Bharat, PM-KISAN, PMAY, MGNREGA, Ujjwala**.",
+      "AP schemes — **Rythu Bharosa, Amma Vodi, YSR/NTR welfare, Fibre Grid**.",
+      "Most benefits now flow via **Direct Benefit Transfer (DBT)**.",
+      "Maintain a **rolling scheme tracker** and revise monthly."
+    ],
+    "glossary": [
+      {"term": "Central Sector Scheme", "definition": "A scheme fully funded and implemented by the central government."},
+      {"term": "Centrally Sponsored Scheme", "definition": "A scheme whose cost is shared between the centre and states."}
+    ]
+  },
+  {
+    "code": "PRE-PII-CE-060",
+    "sections": [
+      {
+        "heading": "Reports, indices & rankings in news — rolling revision",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Indices and reports** are a favourite prelims area. The evergreen skill is knowing **who publishes each index** and roughly **where India stands** — details refresh yearly, but the publisher rarely changes."
+          },
+          {
+            "type": "table",
+            "headers": ["Index / Report", "Published by"],
+            "rows": [
+              ["**Human Development Index**", "**UNDP**."],
+              ["**Global Hunger Index**", "Concern Worldwide & Welthungerhilfe."],
+              ["**World Happiness Report**", "UN SDSN."],
+              ["**Ease of Doing Business (retired) / Logistics**", "World Bank."],
+              ["**Global Innovation Index**", "**WIPO**."],
+              ["**Corruption Perceptions Index**", "Transparency International."],
+              ["**Global Gender Gap**", "World Economic Forum (WEF)."],
+              ["**Press Freedom Index**", "Reporters Without Borders (RSF)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Learn the **publisher first**, then update **India's rank** each year.",
+              "Note **India-specific indices** (NITI Aayog SDG Index, etc.)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**HDI — UNDP**; **Global Innovation Index — WIPO**; **Gender Gap — WEF**.",
+      "**Corruption Perceptions Index — Transparency International**; **Press Freedom — RSF**.",
+      "**Global Hunger Index — Concern Worldwide/Welthungerhilfe**; **World Happiness — UN SDSN**.",
+      "**Logistics Performance / Human Capital — World Bank**.",
+      "India-specific — **NITI Aayog SDG India Index, Multidimensional Poverty Index**.",
+      "Memorise **publisher first**; refresh **India's rank** annually."
+    ],
+    "glossary": [
+      {"term": "Global Innovation Index", "definition": "An annual innovation ranking published by WIPO."},
+      {"term": "Human Development Index", "definition": "The UNDP's composite index of health, education and income."}
+    ]
+  },
+  {
+    "code": "PRE-PII-CE-061",
+    "sections": [
+      {
+        "heading": "Awards, persons, places & defence exercises in news — rolling revision",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This cluster covers **awards & honours, persons in news, places in news, and defence exercises** — recurring prelims fodder. Track the **standing categories** (which persist) and update the **recipients/venues** each year."
+          },
+          {
+            "type": "table",
+            "headers": ["Category", "Evergreen reference"],
+            "rows": [
+              ["**Civilian awards**", "**Bharat Ratna, Padma (Vibhushan/Bhushan/Shri)** — announced on Republic Day."],
+              ["**Gallantry awards**", "**Param Vir Chakra, Ashoka Chakra** etc."],
+              ["**Global prizes**", "**Nobel, Booker, Oscar, Ramon Magsaysay, Abel/Fields (maths)**."],
+              ["**Defence exercises**", "Track **partner country + name** (e.g. Malabar, Yudh Abhyas, Varuna, Garuda, Hand-in-Hand)."],
+              ["**Persons/places**", "New appointees; places for summits, disasters, discoveries, GI tags."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "For **defence exercises**, remember the **partner nation** paired with each exercise name.",
+              "Civilian awards are announced on **Republic Day**; note the year's notable recipients.",
+              "Track **new constitutional/office appointments** (CJI, CEC, Governors, etc.)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Civilian awards — **Bharat Ratna (highest), Padma Vibhushan > Bhushan > Shri** (Republic Day).",
+      "Gallantry — **Param Vir Chakra (highest wartime), Ashoka Chakra (highest peacetime)**.",
+      "Global — **Nobel, Booker, Ramon Magsaysay, Abel & Fields (mathematics)**.",
+      "**Defence exercises** — learn the **partner country** (Malabar-QUAD naval, Varuna-France, Garuda-France air, Yudh Abhyas-USA, Hand-in-Hand-China).",
+      "Track **persons in news** (new CJI, CEC, Governors, CDS, RBI Governor).",
+      "Note **places in news** — summit venues, disasters, new GI tags, discoveries."
+    ],
+    "glossary": [
+      {"term": "Bharat Ratna", "definition": "India's highest civilian award."},
+      {"term": "Param Vir Chakra", "definition": "India's highest wartime military gallantry award."},
+      {"term": "Bilateral exercise", "definition": "A joint military drill between India and a partner nation (e.g. Malabar, Varuna)."}
+    ]
+  }
+]
