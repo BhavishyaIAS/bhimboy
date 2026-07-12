@@ -1,0 +1,228 @@
+[
+  {
+    "code": "MN-PI-ES-001",
+    "sections": [
+      {
+        "heading": "Essay structure — intro-body-conclusion & the 800-word discipline",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A high-scoring essay is not a collection of facts but a **structured, flowing argument**. The classic **introduction–body–conclusion** architecture — held to a disciplined **~800-word (or prescribed) length** — ensures coherence, balance and a clear line of thought that examiners reward."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Role & proportion"],
+            "rows": [
+              ["**Introduction (~10-15%)**", "Hook (anecdote/quote/data/question) → define/frame the topic → state the **thesis/roadmap**."],
+              ["**Body (~70-75%)**", "3-5 **thematic paragraphs**, each with one idea, evidence and a link; multi-dimensional (social, economic, political, ethical…)."],
+              ["**Conclusion (~10-15%)**", "Synthesise (not repeat) → balanced, forward-looking, hopeful close (quote/vision)."],
+              ["**Word discipline**", "Stay within the limit; **quality over quantity**; every paragraph must earn its place."]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Introduction - hook, frame, thesis] --> B[Body para 1 - dimension one]\n  B --> C[Body para 2 - dimension two]\n  C --> D[Body para 3 - counter-view / challenges]\n  D --> E[Body para 4 - way forward]\n  E --> F[Conclusion - synthesis and vision]"
+          }
+        ]
+      },
+      {
+        "heading": "Craft tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Plan before you write** — spend 5-8 minutes on a rough outline of dimensions.",
+              "One **idea per paragraph**; use **connectives** to ensure flow between them.",
+              "Keep an **even hand** — balance multiple viewpoints; avoid one-sided rants.",
+              "The **introduction and conclusion** leave the strongest impression — craft them carefully."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Structure = marks. A planned intro-body-conclusion with multi-dimensional body paragraphs and a synthesising conclusion beats a fact-dump every time; respect the word limit."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice outlining any topic into 4-5 dimensions (social, economic, political, ethical, environmental, technological) before writing.",
+      "Draft strong introductions using the hook → frame → thesis pattern.",
+      "Write conclusions that synthesise and end on a forward-looking, hopeful note."
+    ],
+    "glossary": [
+      {"term": "Thesis statement", "definition": "The central argument or stance of the essay, usually stated at the end of the introduction."},
+      {"term": "Multi-dimensional approach", "definition": "Examining a topic from several angles (social, economic, political, ethical, etc.) for balance and depth."},
+      {"term": "Synthesis", "definition": "Drawing the threads of an essay together in the conclusion rather than merely repeating them."}
+    ]
+  },
+  {
+    "code": "MN-PI-ES-002",
+    "sections": [
+      {
+        "heading": "Building a well-argued, coherent, sequential essay",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A good essay **argues** — it advances a reasoned position supported by evidence, addresses counter-views, and moves in a **logical sequence** where each paragraph builds on the last. Coherence and cohesion are what separate a first-class essay from a mediocre one."
+          },
+          {
+            "type": "table",
+            "headers": ["Principle", "How to achieve it"],
+            "rows": [
+              ["**Argumentation**", "Claim → evidence (data, example, quote, history) → reasoning → link back to thesis."],
+              ["**Coherence**", "All paragraphs serve the **central thesis**; no digressions."],
+              ["**Cohesion**", "Use **connectives** (however, therefore, moreover, consequently) between & within paragraphs."],
+              ["**Sequence/flow**", "Logical order — chronological, cause-effect, problem-solution, or thematic."],
+              ["**Balance**", "Present **counter-arguments** and resolve them — shows maturity."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Craft tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use the **PEEL** paragraph model — Point, Evidence, Explanation, Link.",
+              "**Signpost** transitions so the reader never loses the thread.",
+              "Anchor claims in **evidence** — data, examples, committee reports, history, quotes.",
+              "Engage the **counter-view** honestly, then show why your position holds."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Marks come from a coherent ARGUMENT, not scattered facts. Each paragraph should be a PEEL unit that advances the thesis, connected by clear transitions."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice the PEEL paragraph structure (Point-Evidence-Explanation-Link).",
+      "Build essays with a clear logical order — problem-solution, cause-effect or thematic.",
+      "Always include and address a counter-argument to demonstrate balanced reasoning."
+    ],
+    "glossary": [
+      {"term": "PEEL", "definition": "A paragraph model: Point, Evidence, Explanation, Link — for well-argued writing."},
+      {"term": "Coherence", "definition": "The quality of all parts of an essay serving one central argument."},
+      {"term": "Cohesion", "definition": "The smooth connection of sentences and paragraphs using linking devices."}
+    ]
+  },
+  {
+    "code": "MN-PI-ES-003",
+    "sections": [
+      {
+        "heading": "Originality of thought & expression; grammatical correctness",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Beyond structure and argument, examiners reward **originality** — fresh insight, apt examples and a personal voice — expressed in **clear, correct, dignified language**. Grammar, vocabulary and tone are the vehicle; original thought is the cargo."
+          },
+          {
+            "type": "table",
+            "headers": ["Quality", "How to build it"],
+            "rows": [
+              ["**Originality of thought**", "Fresh angles, inter-disciplinary links, apt anecdotes/case studies, your own reasoned view."],
+              ["**Originality of expression**", "Varied sentence structure, precise words, memorable phrasing; avoid clichés."],
+              ["**Grammatical correctness**", "Correct tense, agreement, punctuation; short clear sentences over convoluted ones."],
+              ["**Tone**", "Balanced, mature, dignified, optimistic; avoid sloganeering or extremism."],
+              ["**Enrichment**", "Quotes (used sparingly & correctly), data, real examples, thinkers' ideas."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Craft tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Prefer **clarity over complexity** — simple correct sentences beat ornate wrong ones.",
+              "Build a **repertoire** of versatile quotes, examples and data across themes.",
+              "**Proofread** the last 2-3 minutes for grammar and spelling slips.",
+              "Develop a **calm, balanced, hopeful voice** — the hallmark of a mature writer."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Originality + correctness = the top band. Fresh insight and apt examples in clear, grammatically sound, dignified prose distinguish a memorable essay."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Maintain a personal bank of versatile quotes, anecdotes and data for essays.",
+      "Practice writing in clear, correct, varied sentences; proofread for grammar.",
+      "Cultivate a balanced, mature and optimistic authorial voice."
+    ],
+    "glossary": [
+      {"term": "Originality", "definition": "Fresh, independent thought and expression that distinguishes an essay from generic writing."},
+      {"term": "Register/Tone", "definition": "The level of formality and attitude of the writing — for essays, balanced and dignified."},
+      {"term": "Cliché", "definition": "An overused phrase that weakens expression; to be avoided for originality."}
+    ]
+  },
+  {
+    "code": "MN-PI-ES-004",
+    "sections": [
+      {
+        "heading": "Descriptive / analytical / philosophical / reflective modes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Essay topics call for different **modes of treatment**. Recognising whether a topic is **descriptive, analytical, philosophical or reflective** — and adapting structure and style accordingly — is a key skill, as many topics blend modes."
+          },
+          {
+            "type": "table",
+            "headers": ["Mode", "Nature & approach"],
+            "rows": [
+              ["**Descriptive**", "Presents facts/features of a topic (e.g. 'India's demographic dividend'); factual, organised, informative."],
+              ["**Analytical**", "Examines causes, effects, pros-cons, dimensions (e.g. 'Is technology a boon or bane?'); argument-driven."],
+              ["**Philosophical/Abstract**", "Explores an idea/value (e.g. 'Truth', 'Happiness'); needs concepts, thinkers, dialectics, examples to ground abstraction."],
+              ["**Reflective**", "Personal, contemplative (e.g. 'The road not taken'); uses narrative, introspection, universal insight."]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Read the topic] --> B{Which mode?}\n  B --> C[Descriptive - inform and organise]\n  B --> D[Analytical - argue dimensions]\n  B --> E[Philosophical - concepts and thinkers]\n  B --> F[Reflective - narrative and introspection]\n  C --> G[Adapt structure and tone accordingly]\n  D --> G\n  E --> G\n  F --> G"
+          }
+        ]
+      },
+      {
+        "heading": "Craft tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Identify the mode first**, then choose structure and tone; abstract topics still need concrete examples.",
+              "**Philosophical** essays gain from thinkers (Gandhi, Kant, Tagore) and dialectical treatment.",
+              "**Reflective** essays allow a personal voice and storytelling, ending in a universal insight.",
+              "Most real topics are **hybrids** — analytical with a reflective conclusion, etc."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Diagnose the mode (descriptive/analytical/philosophical/reflective) before writing, then adapt. Ground even abstract or reflective essays in concrete examples and thinkers."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice identifying a topic's dominant mode and adapting structure to it.",
+      "Ground philosophical topics with thinkers, values and a dialectical (thesis-antithesis-synthesis) approach.",
+      "Attempt reflective topics with narrative openings and universal, insightful conclusions."
+    ],
+    "glossary": [
+      {"term": "Analytical essay", "definition": "An essay that examines causes, effects and dimensions to build an argument."},
+      {"term": "Philosophical essay", "definition": "An essay exploring an abstract idea or value using concepts, thinkers and examples."},
+      {"term": "Reflective essay", "definition": "A contemplative, often personal essay that draws a universal insight from experience."}
+    ]
+  }
+]
