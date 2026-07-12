@@ -1,0 +1,166 @@
+[
+  {
+    "code": "MN-PI-ECB-005",
+    "sections": [
+      {
+        "heading": "Current-affairs essay themes & framing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Current-affairs essays** demand that you connect a topical development to **deeper structural themes** and to India's/AP's context — not merely narrate the news. The skill is **framing**: turning a headline into a multi-dimensional, forward-looking argument."
+          },
+          {
+            "type": "table",
+            "headers": ["Likely topic cluster", "Framing dimensions"],
+            "rows": [
+              ["**Technology & society**", "AI, digital divide, data privacy — opportunity vs disruption, ethics, governance."],
+              ["**Governance & reform**", "Transparency, welfare delivery, federalism, electoral reform."],
+              ["**Global order**", "Multipolarity, India's rise, climate diplomacy, Global South."],
+              ["**Development debates**", "Growth vs equity/sustainability, jobless growth, demographic dividend."],
+              ["**Crises & resilience**", "Pandemics, disasters, food/energy security — preparedness & cooperation."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Framing toolkit",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Move from **event → theme → significance → way forward** (don't just report).",
+              "Add a **multi-dimensional lens** — social, economic, political, ethical, environmental, technological, global.",
+              "Anchor with **data, reports, examples, and an AP/India angle**.",
+              "Close with a **balanced, solution-oriented, hopeful** vision."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: A current-affairs essay is not a news report — frame the event within a larger structural theme, analyse multiple dimensions, and end with a constructive way forward."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice converting a recent headline into a themed, multi-dimensional essay outline.",
+      "Build a current-affairs bank organised by theme (tech, governance, global, development, crises).",
+      "Always localise a national/global issue with an AP or India-specific example."
+    ],
+    "glossary": [
+      {"term": "Framing", "definition": "Presenting a topical event within a larger structural theme rather than merely narrating it."},
+      {"term": "Way forward", "definition": "A constructive, solution-oriented section that strengthens the essay's conclusion."}
+    ]
+  },
+  {
+    "code": "MN-PI-ECB-006",
+    "sections": [
+      {
+        "heading": "Socio-political issues — essay bank",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Socio-political essays** address the interplay of society and politics — **democracy, social justice, identity, governance and rights**. A strong essay balances constitutional values with ground realities and offers a reformist, inclusive vision."
+          },
+          {
+            "type": "table",
+            "headers": ["Theme", "Key dimensions & anchors"],
+            "rows": [
+              ["**Democracy & governance**", "Participation, accountability, decentralisation; Ambedkar, Preamble values."],
+              ["**Social justice & equality**", "Caste, reservation, affirmative action; Art. 14-17, 46; Phule-Ambedkar."],
+              ["**Women & gender**", "Empowerment, representation (106th Amendment), safety; 'Beti Bachao'."],
+              ["**Identity & unity**", "Federalism, language, regionalism, 'unity in diversity'."],
+              ["**Rights & liberty**", "Freedom of speech, dissent, privacy (Puttaswamy); balancing rights & security."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Approach & anchors",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Ground arguments in **constitutional values** (justice, liberty, equality, fraternity).",
+              "Use **thinkers** — Gandhi, Ambedkar, Tagore, Nehru — and landmark judgments.",
+              "Balance **ideal vs reality**; acknowledge challenges honestly, then propose reform.",
+              "AP hooks — linguistic-state movement, social reform (Veeresalingam), welfare delivery."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Anchor socio-political essays in constitutional morality and key thinkers, present the gap between ideal and reality, and conclude with an inclusive, reformist vision."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice essays on democracy, social justice, gender, identity and rights with constitutional anchoring.",
+      "Build a quote/thinker bank (Gandhi, Ambedkar, Tagore, Nehru) for socio-political themes.",
+      "Localise with AP examples — linguistic reorganisation, social-reform legacy, welfare schemes."
+    ],
+    "glossary": [
+      {"term": "Constitutional morality", "definition": "Adherence to the values and spirit of the Constitution, a key anchor for socio-political essays."},
+      {"term": "Affirmative action", "definition": "Measures like reservation to remedy historical social disadvantage."},
+      {"term": "Unity in diversity", "definition": "The idea of national cohesion amid India's social, linguistic and religious plurality."}
+    ]
+  },
+  {
+    "code": "MN-PI-ECB-007",
+    "sections": [
+      {
+        "heading": "Socio-economic issues — essay bank",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Socio-economic essays** examine the link between the economy and society — **growth, poverty, inequality, employment, development models and welfare**. The best essays weigh **growth against equity and sustainability** and argue for inclusive development."
+          },
+          {
+            "type": "table",
+            "headers": ["Theme", "Key dimensions & anchors"],
+            "rows": [
+              ["**Growth vs equity**", "GDP vs HDI; inclusive growth; Amartya Sen's capability approach."],
+              ["**Poverty & inequality**", "MPI, Gini; 'growth is not enough'; welfare vs handouts debate."],
+              ["**Employment & dividend**", "Demographic dividend, jobless growth, skilling, informal sector."],
+              ["**Agrarian & rural**", "Farm distress, MSP, doubling incomes, rural-urban divide."],
+              ["**Development models**", "Market vs state, sustainability, Gandhian trusteeship, AP welfare model."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Approach & anchors",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Frame the central tension: **growth must translate into human development & equity**.",
+              "Use **data/indices** (HDI, MPI, Gini) and thinkers (Sen, Gandhi's Antyodaya).",
+              "Balance **efficiency (market) with justice (welfare)**; avoid ideological extremes.",
+              "AP hooks — aquaculture/agri strengths, welfare (DBT) model, post-bifurcation development."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Socio-economic essays hinge on the growth-versus-equity debate — argue for inclusive, sustainable development using indices and thinkers, and localise with AP's economy."
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practice essays on growth vs equity, poverty, employment and development models.",
+      "Anchor with HDI/MPI/Gini data and thinkers (Amartya Sen, Gandhi's Antyodaya).",
+      "Use AP examples — agrarian strengths, welfare-DBT model, post-bifurcation growth."
+    ],
+    "glossary": [
+      {"term": "Inclusive growth", "definition": "Economic growth whose benefits reach all sections, especially the disadvantaged."},
+      {"term": "Capability approach", "definition": "Amartya Sen's framework defining development as the expansion of real freedoms."},
+      {"term": "Antyodaya", "definition": "Gandhi's principle of prioritising the upliftment of the poorest person."}
+    ]
+  }
+]
