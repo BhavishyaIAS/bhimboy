@@ -10,7 +10,12 @@
 //     "year": 2020,
 //     "paper_label": "Paper-II: History, Culture & Geography",
 //     "no": 1, "part": "a",              // question number + OR-part (a/b)
-//     "microtheme": "MN-PII-HCOI-002",   // micro-theme CODE to attach to
+//     "microtheme": "MN-PII-HCOI-002",   // primary micro-theme CODE
+//     // ...or, when a question genuinely straddles two themes:
+//     "microthemes": ["MN-PIII-PAG-014", "MN-PIII-PAG-015"],
+//       // first = primary (microtheme_id); the rest are stored as secondary
+//       // placements in `keywords` so the question also surfaces on those
+//       // micro-theme pages, without duplicating it in the PYQ vault.
 //     "marks": 10,
 //     "directive_word": "critically explain",
 //     "text": "Critically explain the salient features of urban planning ..."
@@ -23,16 +28,13 @@
 // Requires NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY.
 
 import { readFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, join, isAbsolute } from "node:path";
+import { join, isAbsolute } from "node:path";
 import { createClient } from "@supabase/supabase-js";
 
 if (process.env.HTTPS_PROXY || process.env.HTTP_PROXY) {
   const { setGlobalDispatcher, EnvHttpProxyAgent } = await import("undici");
   setGlobalDispatcher(new EnvHttpProxyAgent());
 }
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function argValue(flag) {
   const i = process.argv.indexOf(flag);
@@ -60,8 +62,15 @@ async function main() {
   const items = JSON.parse(readFileSync(DATA, "utf8"));
   if (!Array.isArray(items)) throw new Error("data file must be a JSON array");
 
+  // Each item may carry a single `microtheme` or a `microthemes` array
+  // (first = primary, rest = secondary). Normalise to an array.
+  const codesFor = (it) =>
+    Array.isArray(it.microthemes) && it.microthemes.length
+      ? it.microthemes
+      : [it.microtheme];
+
   // Resolve every referenced micro-theme code -> id in one shot.
-  const codes = [...new Set(items.map((it) => it.microtheme))];
+  const codes = [...new Set(items.flatMap(codesFor))];
   const { data: mts, error: mtErr } = await supabase
     .from("microthemes")
     .select("id, code")
@@ -81,8 +90,13 @@ async function main() {
   let failed = 0;
 
   for (const it of items) {
-    const microtheme_id = idByCode.get(it.microtheme);
-    const keywords = Array.isArray(it.keywords) ? it.keywords : [];
+    const [primaryCode, ...secondaryCodes] = codesFor(it);
+    const microtheme_id = idByCode.get(primaryCode);
+    // Secondary micro-theme codes are stored in `keywords` so the question
+    // also appears on those micro-theme pages (queried via keyword-contains),
+    // while staying a single row in the vault.
+    const extraKeywords = Array.isArray(it.keywords) ? it.keywords : [];
+    const keywords = [...new Set([...secondaryCodes, ...extraKeywords])];
     // Stable natural key so re-runs update rather than duplicate.
     const naturalKey = `${it.year}|${it.paper_label}|Q${it.no}${it.part ?? ""}`;
 
@@ -126,7 +140,11 @@ async function main() {
         console.error(`✗ ${naturalKey}: ${error.message}`);
       } else {
         inserted++;
-        console.log(`✓ ${naturalKey} → ${it.microtheme}`);
+        const shown =
+          secondaryCodes.length > 0
+            ? `${primaryCode} (+${secondaryCodes.join(", ")})`
+            : primaryCode;
+        console.log(`✓ ${naturalKey} → ${shown}`);
       }
     }
   }
