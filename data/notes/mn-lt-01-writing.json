@@ -1,0 +1,347 @@
+[
+  {
+    "code": "MN-LT-T-001",
+    "sections": [
+      {
+        "heading": "Telugu essay writing (200–250 words)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Telugu short essay (**vyasam**, 200–250 words) tests clear, correct expression on a given topic. Like any essay it needs a tight **introduction (prastavana) – body (vishaya vivarana) – conclusion (mukthayimpu)**, in grammatically correct, idiomatic Telugu."
+          },
+          {
+            "type": "table",
+            "headers": ["Part (Telugu)", "Role"],
+            "rows": [
+              ["**Prastavana (intro)**", "Frame the topic + state the central idea."],
+              ["**Vishaya vivarana (body)**", "2-3 short paragraphs, one idea each, with an example."],
+              ["**Mukthayimpu (conclusion)**", "Sum up / forward-looking close."],
+              ["**Bhasha (language)**", "Correct grammar, apt vocabulary, natural idiom."],
+              ["**Length**", "Respect 200-250 words; clarity over padding."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Outline 2-3 points before writing; keep paragraphs short.",
+              "Use **correct sandhi, vibhakti and grammar**; avoid spelling errors.",
+              "Enrich with an apt **proverb (sametha) or quotation** where natural.",
+              "Stay within the word limit and conclude crisply."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise 200-250-word Telugu essays across descriptive, analytical and reflective topics.",
+      "Focus on grammatical correctness (sandhi, vibhakti) and idiomatic expression."
+    ],
+    "glossary": [
+      {"term": "Vyasam", "definition": "The Telugu term for an essay."},
+      {"term": "Prastavana", "definition": "The introduction of a Telugu essay/composition."},
+      {"term": "Sametha", "definition": "A Telugu proverb, useful for enriching essays."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-002",
+    "sections": [
+      {
+        "heading": "Elaborating poetic / verse thought (padya bhava vistarana)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Bhava vistarana** asks you to **expand and explain the idea of a verse or poetic line** (padyam) in prose — bringing out its **meaning, moral and relevance** in clear Telugu, without merely translating it."
+          },
+          {
+            "type": "table",
+            "headers": ["Step", "Guidance"],
+            "rows": [
+              ["**Grasp the verse**", "Read the padyam; identify its central thought/moral."],
+              ["**State the idea**", "Express the core meaning in your own prose."],
+              ["**Elaborate**", "Explain with reasoning and an example/illustration."],
+              ["**Relevance**", "Connect the moral to life/society/present."],
+              ["**Conclude**", "Restate the essence memorably."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Explain the **bhava (idea)**, don't just translate the words.",
+              "Use an **example or analogy** to illustrate the moral.",
+              "Draw on the rich **Telugu didactic verse** tradition (Vemana, Sumati satakam).",
+              "Keep the language clear and the moral relevant to life."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise expanding satakam/padyam verses into clear prose explanations.",
+      "Bring out the moral and its life-relevance, not a literal translation."
+    ],
+    "glossary": [
+      {"term": "Bhava vistarana", "definition": "The elaboration/expansion of the idea of a verse into prose."},
+      {"term": "Padyam", "definition": "A Telugu verse or poem."},
+      {"term": "Satakam", "definition": "A Telugu genre of 100 didactic verses (e.g. Vemana, Sumati)."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-003",
+    "sections": [
+      {
+        "heading": "Precis writing (1/3 summary) — samgraha lekhanam",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Samgraha lekhanam** is a Telugu precis — a concise summary of about **one-third** the original length, capturing the **central idea and main points** in your own words, omitting examples and repetition."
+          },
+          {
+            "type": "table",
+            "headers": ["Rule", "Guidance"],
+            "rows": [
+              ["**Length**", "About **one-third** of the passage."],
+              ["**Content**", "Main ideas only; omit examples, repetition, digressions."],
+              ["**Own words**", "Paraphrase in your own Telugu; don't copy sentences."],
+              ["**Coherence**", "The precis must read smoothly on its own."],
+              ["**Title**", "Give a short, apt title (sheershika)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Read twice, underline key points, find the theme.",
+              "Draft, then **cut to ~1/3** and count words.",
+              "Use **your own words**; keep grammar correct.",
+              "Ensure the summary is self-contained and coherent."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise reducing Telugu passages to one-third with only the main ideas.",
+      "Master coherent paraphrasing and word-counting under time limits."
+    ],
+    "glossary": [
+      {"term": "Samgraha lekhanam", "definition": "Telugu precis/summary writing (about one-third of the original)."},
+      {"term": "Sheershika", "definition": "The title/heading given to a precis or composition."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-004",
+    "sections": [
+      {
+        "heading": "Reading comprehension (avagahana)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Avagahana** (reading comprehension) tests understanding of a Telugu passage — its **main idea, details, inference and vocabulary** — with answers drawn **only from the passage**, in clear, correct Telugu."
+          },
+          {
+            "type": "table",
+            "headers": ["Question type", "Approach"],
+            "rows": [
+              ["**Main idea**", "Central theme — usually opening/closing lines."],
+              ["**Factual detail**", "Locate the exact statement in the text."],
+              ["**Inference**", "What is implied — reason from the passage."],
+              ["**Vocabulary**", "Meaning of a word as used in context."],
+              ["**Answer style**", "Brief, in your own words, from the passage."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Skim for gist, then scan for specific answers.",
+              "Answer **only from the passage** — no outside knowledge.",
+              "Keep answers **brief, relevant and grammatically correct**.",
+              "For inference, stay within what the text supports."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise skim-and-scan on Telugu passages and answer strictly from the text.",
+      "Handle main-idea, detail and inference questions concisely."
+    ],
+    "glossary": [
+      {"term": "Avagahana", "definition": "Reading comprehension in Telugu."},
+      {"term": "Inference", "definition": "A conclusion drawn from what a passage implies rather than states."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-005",
+    "sections": [
+      {
+        "heading": "Formal speech / press-conference speech (upanyasam)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A Telugu **formal speech (upanyasam)** — including a press-conference address — needs a courteous **salutation, engaging opening, structured body and rousing close**, in persuasive, audience-aware Telugu."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Salutation**", "Respectful address to the chief guest, dignitaries & audience."],
+              ["**Opening**", "Greeting + hook (proverb, question) + topic."],
+              ["**Body**", "2-3 clear points with examples; logical flow."],
+              ["**Close**", "Memorable ending — call to action / vision; thanks."],
+              ["**Press-conference note**", "State facts clearly; anticipate and answer likely questions."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Open with a **greeting and hook**; name the occasion.",
+              "Use **direct address** and rhetorical devices.",
+              "Keep points few and clear; **end memorably** with thanks.",
+              "For a press conference, be **factual, clear and composed**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise Telugu speeches with salutation, hook, structured body and rousing close.",
+      "Prepare press-conference-style factual, composed addresses."
+    ],
+    "glossary": [
+      {"term": "Upanyasam", "definition": "A formal speech or address in Telugu."},
+      {"term": "Salutation", "definition": "The courteous opening address to dignitaries and audience."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-006",
+    "sections": [
+      {
+        "heading": "Preparing statements for publicity media",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This task is writing **statements/releases for publicity media** in Telugu — official announcements, awareness messages or press notes — in a **clear, factual, public-friendly** style suited to newspapers, radio or social media."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Guidance"],
+            "rows": [
+              ["**Headline**", "Clear, informative title of the message."],
+              ["**Key facts first**", "What, when, where, why (inverted pyramid)."],
+              ["**Public-friendly tone**", "Simple, direct Telugu; avoid jargon."],
+              ["**Call to action / awareness**", "State what the public should know or do."],
+              ["**Attribution**", "Issued by — authority/department."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Put the **most important information first**.",
+              "Use **simple, clear Telugu** accessible to the general public.",
+              "Keep it **factual and concise**; include the source.",
+              "For awareness messages, make the **call to action clear**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise clear, public-friendly Telugu media statements and awareness notes.",
+      "Use the inverted-pyramid structure with a clear message and attribution."
+    ],
+    "glossary": [
+      {"term": "Publicity media statement", "definition": "An official message written for newspapers, radio or social media."},
+      {"term": "Inverted pyramid", "definition": "A structure placing the most important information first."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-007",
+    "sections": [
+      {
+        "heading": "Letter writing (lekha rachana)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Telugu **letter writing (lekha)** covers both **formal (official) and informal (personal)** letters, each with its own format and tone — formal letters being polite, precise and purposeful; personal ones warm and natural."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Address & date**", "Sender's address and date at the top."],
+              ["**Salutation**", "Formal ('Ganyulaina…/Sir') or personal ('Priyamaina…')."],
+              ["**Subject (formal)**", "One line stating the purpose."],
+              ["**Body**", "Purpose → details → request; clear paragraphs."],
+              ["**Closing**", "Formal ('Ittarni…/Yours faithfully') or personal ('Mee priyamaina…')."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Match **format and tone** to formal vs personal.",
+              "State the **purpose early**; keep formal letters concise & polite.",
+              "Personal letters can be warm and natural.",
+              "Keep grammar and spelling correct."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise both formal (official) and personal Telugu letters with correct format.",
+      "Match tone to purpose; keep formal letters concise and courteous."
+    ],
+    "glossary": [
+      {"term": "Lekha", "definition": "A letter in Telugu."},
+      {"term": "Formal vs personal letter", "definition": "Official correspondence (precise, polite) versus personal letters (warm, natural)."}
+    ]
+  }
+]
