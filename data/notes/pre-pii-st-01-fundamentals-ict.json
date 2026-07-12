@@ -1,0 +1,264 @@
+[
+  {
+    "code": "PRE-PII-ST-034",
+    "sections": [
+      {
+        "heading": "Nature, scope & relevance of S&T to daily life",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Science** is systematic knowledge of the natural world; **technology** is its application to solve problems. Together they pervade **daily life** — health, communication, transport, agriculture, energy — and drive national development, making S&T literacy essential."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**Science**", "Systematic, evidence-based knowledge (observation, hypothesis, experiment)."],
+              ["**Technology**", "Application of scientific knowledge for practical use."],
+              ["**Scope**", "Health, ICT, agriculture, energy, transport, space, defence, environment."],
+              ["**Daily relevance**", "Mobile/UPI, vaccines, GPS, hybrid seeds, LED, weather forecasts."],
+              ["**Scientific temper**", "A Fundamental Duty (Art. 51A(h)) — rational, questioning outlook."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Science** = systematic knowledge; **Technology** = its practical application.",
+      "**Scientific temper** is a **Fundamental Duty (Article 51A(h))**.",
+      "S&T pervades **health, ICT, agriculture, energy, transport, defence, space**.",
+      "Everyday S&T — **UPI/mobile, vaccines, GPS, HYV seeds, LED, forecasting**.",
+      "S&T is central to **national development & self-reliance (Atmanirbhar Bharat)**.",
+      "The **scientific method** — observation, hypothesis, experiment, conclusion."
+    ],
+    "glossary": [
+      {"term": "Technology", "definition": "The application of scientific knowledge to practical problems."},
+      {"term": "Scientific temper", "definition": "A rational, evidence-based outlook, enshrined as a Fundamental Duty (Art. 51A(h))."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-035",
+    "sections": [
+      {
+        "heading": "National Policy on S&T & Innovation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India has evolved a series of **science, technology and innovation policies** — from the **Scientific Policy Resolution (1958)** to the latest **STIP** — to build scientific capacity, promote innovation, and link research to development goals."
+          },
+          {
+            "type": "table",
+            "headers": ["Policy", "Focus"],
+            "rows": [
+              ["**Scientific Policy Resolution (1958)**", "Nehru; building a scientific base & temper."],
+              ["**Technology Policy Statement (1983)**", "Technological self-reliance."],
+              ["**S&T Policy 2003**", "Investment in R&D, integrating science & technology."],
+              ["**STI Policy 2013**", "**'Science, Technology & Innovation'** — innovation-led growth; declared 'Decade of Innovation'."],
+              ["**STIP (draft, 2020)**", "Latest; decentralised, inclusive, self-reliance & Atmanirbhar focus."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Bodies",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Apex advisory — **PM-STIAC**; nodal ministry — **Department of Science & Technology (DST)**.",
+              "**NITI Aayog's Atal Innovation Mission** promotes innovation & incubation."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Scientific Policy Resolution (1958)** — first; under Nehru.",
+      "**Technology Policy Statement (1983)**; **S&T Policy 2003**; **STI Policy 2013**.",
+      "**STI Policy 2013** introduced 'Innovation'; declared 2010-20 the **'Decade of Innovation'**.",
+      "**STIP (2020, draft)** — latest, self-reliance & inclusivity focus.",
+      "Nodal ministry — **Department of Science & Technology (DST)**.",
+      "**PM-STIAC** — PM's Science, Technology & Innovation Advisory Council.",
+      "**Atal Innovation Mission (NITI Aayog)** — innovation & incubation (Atal Tinkering Labs)."
+    ],
+    "glossary": [
+      {"term": "STIP", "definition": "The Science, Technology and Innovation Policy (2020 draft), India's latest S&T policy framework."},
+      {"term": "DST", "definition": "The Department of Science & Technology, the nodal body for S&T policy."},
+      {"term": "Atal Innovation Mission", "definition": "A NITI Aayog programme promoting innovation and entrepreneurship."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-036",
+    "sections": [
+      {
+        "heading": "S&T institutes/organisations in India & prominent scientists",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India's S&T is driven by a network of premier **research organisations** — ISRO, DRDO, CSIR, ICAR, ICMR, DAE, BARC — and a legacy of **eminent scientists** whose work underpins the nation's scientific standing."
+          },
+          {
+            "type": "table",
+            "headers": ["Organisation", "Domain"],
+            "rows": [
+              ["**ISRO**", "Space (est. 1969; HQ Bengaluru; founder Vikram Sarabhai)."],
+              ["**DRDO**", "Defence R&D (1958)."],
+              ["**CSIR**", "Industrial/scientific research (38 labs)."],
+              ["**ICAR / ICMR**", "Agriculture / medical research."],
+              ["**DAE / BARC**", "Atomic energy (Homi Bhabha — 'father of Indian nuclear programme')."]
+            ]
+          },
+          {
+            "type": "table",
+            "headers": ["Scientist", "Contribution"],
+            "rows": [
+              ["**C.V. Raman**", "Raman Effect (Nobel 1930, Physics)."],
+              ["**Homi Bhabha**", "Father of India's nuclear programme."],
+              ["**Vikram Sarabhai**", "Father of India's space programme."],
+              ["**S. Chandrasekhar / H.G. Khorana**", "Nobel laureates (Physics / Medicine)."],
+              ["**A.P.J. Abdul Kalam**", "'Missile Man'; led DRDO/ISRO missile & SLV programmes."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**ISRO (1969)** — founder **Vikram Sarabhai** ('father of Indian space programme'); HQ Bengaluru.",
+      "**DRDO (1958)** — defence R&D; **DAE/BARC** — atomic energy (**Homi Bhabha**).",
+      "**CSIR** (industrial research, 38 labs), **ICAR** (agriculture), **ICMR** (medical).",
+      "**C.V. Raman** — Raman Effect, **Nobel Physics 1930** (National Science Day, 28 Feb).",
+      "**S. Chandrasekhar** (Nobel Physics 1983), **H.G. Khorana** (Nobel Medicine 1968).",
+      "**A.P.J. Abdul Kalam** — 'Missile Man'; **J.C. Bose, S.N. Bose (boson), M. Swaminathan** (Green Revolution).",
+      "**National Science Day — 28 February** (Raman Effect)."
+    ],
+    "glossary": [
+      {"term": "ISRO", "definition": "The Indian Space Research Organisation, founded 1969 by Vikram Sarabhai."},
+      {"term": "Raman Effect", "definition": "The scattering of light discovered by C.V. Raman, earning the 1930 Nobel Prize."},
+      {"term": "BARC", "definition": "The Bhabha Atomic Research Centre, India's premier nuclear research facility."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-037",
+    "sections": [
+      {
+        "heading": "Nature, scope & daily-life use of ICT",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Information and Communication Technology (ICT)** covers the tools that create, store, process and transmit information — **computers, the internet, mobile and networks**. It underpins modern life: communication, banking, education, commerce and governance."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**ICT scope**", "Computing + telecom + internet + digital media."],
+              ["**Hardware/software**", "Devices (CPU, memory) + programs (OS, apps)."],
+              ["**Internet**", "Global network; WWW, email, cloud; protocols (TCP/IP)."],
+              ["**Daily life**", "UPI/digital payments, e-commerce, online education, telemedicine, social media."],
+              ["**Emerging**", "AI, IoT, cloud, big data, 5G, blockchain."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**ICT** = Information & Communication Technology (computing + telecom + internet).",
+      "**Internet** works on **TCP/IP**; the **WWW** is a service on it.",
+      "**Hardware** (physical) vs **software** (programs); OS manages resources.",
+      "Daily ICT — **UPI, e-commerce, online education, telemedicine, e-governance**.",
+      "**Memory units** — bit < byte < KB < MB < GB < TB.",
+      "Emerging tech — **AI, IoT, cloud, big data, 5G, blockchain**.",
+      "**Digital India** promotes ICT access & digital literacy."
+    ],
+    "glossary": [
+      {"term": "ICT", "definition": "Information and Communication Technology — tools to process and transmit information."},
+      {"term": "TCP/IP", "definition": "The core protocol suite governing data transmission over the internet."},
+      {"term": "IoT", "definition": "The Internet of Things — networked everyday devices that collect and exchange data."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-038",
+    "sections": [
+      {
+        "heading": "ICT & industry; ICT & governance; e-governance schemes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "ICT transforms **industry** (IT/ITeS, automation, Industry 4.0) and **governance** — enabling **e-governance** that makes public services faster, transparent and citizen-centric through flagship initiatives like **Digital India**."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Detail"],
+            "rows": [
+              ["**ICT & industry**", "**IT/ITeS/BPO** (India a global hub); automation, Industry 4.0, fintech."],
+              ["**e-governance types**", "**G2C, G2B, G2G, G2E**."],
+              ["**Digital India (2015)**", "Digital infrastructure, services on demand, digital empowerment."],
+              ["**Key platforms**", "**Aadhaar, UPI, DigiLocker, UMANG, CoWIN, e-NAM, CSCs, DBT**."],
+              ["**Benefits**", "Transparency, speed, reduced corruption, last-mile delivery."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "e-governance interactions — **G2C, G2B, G2G, G2E**.",
+      "**Digital India (2015)** — 3 pillars: **digital infrastructure, services on demand, digital empowerment**.",
+      "Key platforms — **Aadhaar, UPI, DigiLocker, UMANG, CoWIN, e-NAM**.",
+      "**Common Service Centres (CSCs)** deliver e-services in rural areas.",
+      "**DBT (Direct Benefit Transfer)** uses the **JAM trinity**.",
+      "India is a global hub for **IT/ITeS/BPO** services.",
+      "**Industry 4.0** — automation, IoT, AI, cyber-physical systems."
+    ],
+    "glossary": [
+      {"term": "e-governance", "definition": "Delivery of government services using ICT (G2C, G2B, G2G, G2E)."},
+      {"term": "Digital India", "definition": "The 2015 programme to transform India into a digitally empowered society."},
+      {"term": "UPI", "definition": "Unified Payments Interface — India's real-time mobile payment system."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-039",
+    "sections": [
+      {
+        "heading": "Netiquettes; cyber security; National Cyber Crime Policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "As life goes online, **netiquette (online etiquette), cyber security (protecting systems and data) and cyber-crime law** become vital. India's framework rests on the **IT Act (2000)**, **CERT-In**, and the **National Cyber Security Policy (2013)**."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Netiquette**", "Courteous, responsible online behaviour; privacy & respect."],
+              ["**Cyber threats**", "**Phishing, malware, ransomware, hacking, identity theft, DDoS**."],
+              ["**IT Act 2000**", "India's cyber law; amended 2008; addresses cyber-crime & e-commerce."],
+              ["**CERT-In**", "Computer Emergency Response Team — India's nodal cyber-incident agency."],
+              ["**Policies**", "**National Cyber Security Policy (2013)**; **I4C** (cyber-crime coordination); cybercrime portal."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**IT Act 2000** (amended 2008) — India's primary cyber law.",
+      "**CERT-In** — the national nodal agency for cyber-security incidents.",
+      "**National Cyber Security Policy 2013** — protects cyberspace/critical infrastructure.",
+      "Cyber threats — **phishing, malware, ransomware, DDoS, identity theft**.",
+      "**Indian Cyber Crime Coordination Centre (I4C)** & the **National Cyber Crime Reporting Portal**.",
+      "**NCIIPC** protects **critical information infrastructure**.",
+      "**Netiquette** = responsible, respectful online conduct."
+    ],
+    "glossary": [
+      {"term": "Cyber security", "definition": "The protection of computer systems, networks and data from digital attacks."},
+      {"term": "CERT-In", "definition": "India's Computer Emergency Response Team, the nodal cyber-incident agency."},
+      {"term": "Phishing", "definition": "A fraud that tricks users into revealing sensitive data via fake messages/sites."}
+    ]
+  }
+]
