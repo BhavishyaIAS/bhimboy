@@ -120,7 +120,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[Green-biotech inputs] --> B[Biofertilisers - microbial nutrients]\n  A --> C[Biopesticides - biological pest control]\n  A --> D[Biofuels - biomass energy]\n  A --> E[GM crops - engineered traits]\n  B --> F[Sustainable agriculture - APCNF, organic]\n  C --> F\n  D --> G[Energy security + farm income - E20]\n  E --> H[Bt cotton only; caution dominates]\n  F --> I[Input-cost reduction]\n  H --> J[Precaution vs promotion debate]"
+            "code": "flowchart TD\n  A[Green-biotech inputs] --> B[Biofertilisers - microbial nutrients]\n  A --> C[Biopesticides - biological pest control]\n  A --> D[Biofuels - biomass energy]\n  A --> E[GM crops - engineered traits]\n  B --> F[Sustainable agriculture - APCNF, organic]\n  C --> F\n  D --> G[Energy security + farm income - E20]\n  E --> H[Bt cotton only - caution dominates]\n  F --> I[Input-cost reduction]\n  H --> J[Precaution vs promotion debate]"
           }
         ]
       },
@@ -379,7 +379,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[IPR - incentive vs access balance] --> B[Patents - inventions, 20 years]\n  A --> C[GI - origin products]\n  A --> D[Copyright, trademark, design, trade secret]\n  A --> E[Traditional knowledge - TKDL]\n  B --> F[India: Sec 3(d), compulsory licensing - public health]\n  C --> G[AP's GI treasure - artisan-farmer livelihoods]\n  E --> H[Neem-turmeric biopiracy defeated]\n  F --> I[TRIPS-compliant but access-protective]"
+            "code": "flowchart TD\n  A[IPR - incentive vs access balance] --> B[Patents - inventions, 20 years]\n  A --> C[GI - origin products]\n  A --> D[Copyright, trademark, design, trade secret]\n  A --> E[Traditional knowledge - TKDL]\n  B --> F[India Sec 3d, compulsory licensing - public health]\n  C --> G[AP's GI treasure - artisan-farmer livelihoods]\n  E --> H[Neem-turmeric biopiracy defeated]\n  F --> I[TRIPS-compliant but access-protective]"
           }
         ]
       },

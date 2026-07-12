@@ -198,7 +198,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[Public sector] --> B[Built the base: steel, power, strategic]\n  A --> C[Reckoning: under-returns, soft budgets]\n  D[LPG competition] --> E[Sorting: strong strategics vs chronic patients]\n  E --> F[Disinvestment ladder: minority - strategic - listing]\n  F --> G[2021 policy: four sectors, bare minimum]\n  G --> H[Air India sold; RINL revived not sold]\n  H --> I[Ownership as portfolio, execution as test]"
+            "code": "flowchart TD\n  A[Public sector] --> B[Built the base: steel, power, strategic]\n  A --> C[Reckoning: under-returns, soft budgets]\n  D[LPG competition] --> E[Sorting: strong strategics vs chronic patients]\n  E --> F[Disinvestment ladder: minority - strategic - listing]\n  F --> G[2021 policy: four sectors, bare minimum]\n  G --> H[Air India sold - RINL revived not sold]\n  H --> I[Ownership as portfolio, execution as test]"
           }
         ]
       },

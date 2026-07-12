@@ -37,7 +37,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[Civil adjudication] --> B[Judgment - the reasons]\n  B --> C[Decree - conclusive rights determination]\n  B --> D[Orders - interlocutory decisions]\n  C --> E[Appeal as of right - Secs 96, 100]\n  D --> F[Appealable only if listed - Sec 104, Order 43]\n  C --> G[Execution - Order 21]\n  H[Nirbhaya 2012] --> I[Verma Committee 29 days]\n  I --> J[2013 Act: new offences, consent, police duties]\n  J --> K[2018: child-rape death; POCSO; Disha - AP's layer]"
+            "code": "flowchart TD\n  A[Civil adjudication] --> B[Judgment - the reasons]\n  B --> C[Decree - conclusive rights determination]\n  B --> D[Orders - interlocutory decisions]\n  C --> E[Appeal as of right - Secs 96, 100]\n  D --> F[Appealable only if listed - Sec 104, Order 43]\n  C --> G[Execution - Order 21]\n  H[Nirbhaya 2012] --> I[Verma Committee 29 days]\n  I --> J[2013 Act: new offences, consent, police duties]\n  J --> K[2018 - child-rape death, POCSO, Disha - AP's layer]"
           }
         ]
       },

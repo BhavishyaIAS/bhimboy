@@ -282,7 +282,7 @@
           },
           {
             "type": "mermaid",
-            "code": "flowchart TD\n  A[Price policy] --> B[MSP 22 crops - CACP]\n  B --> C[Effective where procured - rice-wheat]\n  B --> D[A2+FL times 1.5 vs Swaminathan C2+50]\n  A --> E[PM-AASHA: PSS, PDPS, PSF]\n  F[Swaminathan NCF: income, land, water, credit charter] --> G[Farmer-welfare frame]\n  H[Rainbow Revolution: colour-coded balance] --> I[Delivered: White, Blue; failed: Yellow]\n  D --> J[Debate lanes: legal MSP, deficiency pay, income support]\n  I --> K[Systems, not slogans]"
+            "code": "flowchart TD\n  A[Price policy] --> B[MSP 22 crops - CACP]\n  B --> C[Effective where procured - rice-wheat]\n  B --> D[A2+FL times 1.5 vs Swaminathan C2+50]\n  A --> E[PM-AASHA: PSS, PDPS, PSF]\n  F[Swaminathan NCF: income, land, water, credit charter] --> G[Farmer-welfare frame]\n  H[Rainbow Revolution: colour-coded balance] --> I[Delivered White and Blue - failed Yellow]\n  D --> J[Debate lanes: legal MSP, deficiency pay, income support]\n  I --> K[Systems, not slogans]"
           }
         ]
       },
