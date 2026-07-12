@@ -1,0 +1,297 @@
+[
+  {
+    "code": "MN-LT-T-008",
+    "sections": [
+      {
+        "heading": "Debate writing (current / editorial issues)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Debate writing (vaadopavaadam)** presents a **reasoned argument for or against a proposition** on a current or editorial issue in Telugu — with a clear stance, supporting points, rebuttal of the opposing view, and a persuasive conclusion."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Address & motion**", "Greeting + state the topic and your stance (for/against)."],
+              ["**Arguments**", "2-3 strong points with evidence/examples."],
+              ["**Rebuttal**", "Anticipate and counter the opposing view."],
+              ["**Conclusion**", "Reaffirm the stance persuasively."],
+              ["**Tone**", "Assertive but respectful; logical, not emotional."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Take a **clear stance** and stick to it throughout.",
+              "Support each point with **evidence or example**.",
+              "**Address the counter-view** and refute it.",
+              "Stay **logical, respectful and persuasive**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise for/against debates on current and editorial issues with clear stance and rebuttal.",
+      "Support arguments with evidence and maintain a respectful, persuasive tone."
+    ],
+    "glossary": [
+      {"term": "Vaadopavaadam", "definition": "Debate/argumentation in Telugu."},
+      {"term": "Rebuttal", "definition": "The counter to an opposing argument in a debate."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-009",
+    "sections": [
+      {
+        "heading": "Application writing (vinnapam)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Application writing (vinnapam / arji)** is a formal request in Telugu — for leave, a job, a certificate, or redressal — following the **formal-letter format** with a polite, precise statement of the request and its grounds."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**To (addressee)**", "The authority addressed (designation & office)."],
+              ["**Subject**", "One line stating the request."],
+              ["**Salutation**", "Formal ('Ganyulaina…/Sir')."],
+              ["**Body**", "Purpose → grounds/justification → specific request."],
+              ["**Closing**", "Respectful close + name, designation/address, date."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Follow the **formal-letter format**; be concise and polite.",
+              "State the **request clearly** and give a brief justification.",
+              "Include necessary details (dates, references).",
+              "Keep grammar and spelling correct."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise leave/job/certificate applications in correct formal Telugu format.",
+      "State the request and its grounds clearly and politely."
+    ],
+    "glossary": [
+      {"term": "Vinnapam / Arji", "definition": "A formal application or request in Telugu."},
+      {"term": "Subject line", "definition": "A one-line statement of the application's purpose."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-010",
+    "sections": [
+      {
+        "heading": "Report writing (nivedika)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A Telugu **report (nivedika)** gives a factual, structured account of an **event, function or survey** in the **past tense and objective third person**, with a clear title, sequential body and a concluding outcome."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Title**", "Names the event/subject."],
+              ["**Opening**", "What, when, where, who."],
+              ["**Body**", "Sequence of events / findings in logical order."],
+              ["**Conclusion**", "Outcome, significance or recommendations."],
+              ["**Style**", "Past tense, third person, objective, factual Telugu."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Write in the **past tense, third person, objective** voice.",
+              "Lead with the **essentials (what/when/where/who)**.",
+              "Keep chronological or thematic order; stay factual.",
+              "For a **survey report**, present findings clearly with figures."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise event/function/survey reports in objective, past-tense Telugu.",
+      "Present findings and outcomes clearly and factually."
+    ],
+    "glossary": [
+      {"term": "Nivedika", "definition": "A report in Telugu."},
+      {"term": "Objective style", "definition": "Impersonal, factual writing without personal opinion."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-011",
+    "sections": [
+      {
+        "heading": "Dialogue writing / dialogue skills (samvadam)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Dialogue writing (samvadam)** presents a **natural conversation between two or more people** in Telugu on a given situation or theme — testing colloquial fluency, turn-taking and the ability to convey ideas through exchange."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Guidance"],
+            "rows": [
+              ["**Context**", "Set the situation/speakers briefly."],
+              ["**Natural turns**", "Alternate speakers; realistic, colloquial Telugu."],
+              ["**Purpose**", "The dialogue should develop the theme/reach a point."],
+              ["**Register**", "Match tone to speakers (formal/informal)."],
+              ["**Format**", "Speaker name : dialogue line (each on a new line)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Keep exchanges **natural and colloquial**, not bookish.",
+              "Ensure **clear turn-taking** with speaker labels.",
+              "Let the dialogue **progress** toward a point or resolution.",
+              "Match **tone/register** to the speakers and situation."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise natural two-person Telugu dialogues on given situations.",
+      "Develop the theme through realistic, well-turned exchanges."
+    ],
+    "glossary": [
+      {"term": "Samvadam", "definition": "A dialogue or conversation in Telugu."},
+      {"term": "Register", "definition": "The level of formality matched to the speakers and situation."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-012",
+    "sections": [
+      {
+        "heading": "English → Telugu translation (anuvadam)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Translation from English to Telugu (anuvadam)** tests conveying **meaning faithfully and idiomatically** in Telugu — capturing sense, tone and register rather than translating word-for-word, in grammatically correct Telugu."
+          },
+          {
+            "type": "table",
+            "headers": ["Principle", "Guidance"],
+            "rows": [
+              ["**Sense over words**", "Translate the meaning, not literally word-by-word."],
+              ["**Natural Telugu idiom**", "Use idiomatic Telugu; recast to fit Telugu syntax."],
+              ["**Register/tone**", "Match the formality/tone of the source."],
+              ["**Technical terms**", "Use standard Telugu equivalents or explain."],
+              ["**Fidelity**", "No addition/omission; correct grammar (sandhi, vibhakti)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Read the whole passage to grasp **overall sense** first.",
+              "Translate **meaning and tone**, recasting into natural Telugu.",
+              "Use **standard Telugu terms** for technical/administrative words.",
+              "Keep **fidelity** and correct grammar; proofread."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise sense-for-sense English-to-Telugu translation in natural idiom.",
+      "Preserve tone, register and meaning with correct Telugu grammar."
+    ],
+    "glossary": [
+      {"term": "Anuvadam", "definition": "Translation in Telugu."},
+      {"term": "Sense-for-sense translation", "definition": "Translating meaning and effect rather than word-for-word."}
+    ]
+  },
+  {
+    "code": "MN-LT-T-013",
+    "sections": [
+      {
+        "heading": "Grammar of Telugu (vyakaranam)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Telugu **grammar (vyakaranam)** underlies correct writing — the rules of **sandhi (junction), samasam (compounds), vibhakti (case), and alankaram/chandas (figures & prosody)**. Accuracy in these is essential across all writing tasks and directly tested."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept (Telugu)", "Meaning"],
+            "rows": [
+              ["**Sandhi**", "Rules for the junction/combination of sounds/words."],
+              ["**Samasam**", "Compound words formed by joining words."],
+              ["**Vibhakti**", "Case markers/postpositions indicating grammatical role."],
+              ["**Alankaram**", "Figures of speech (shabda & artha alankaras)."],
+              ["**Chandas**", "Prosody — metre of verse (padya lakshanam)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Master the common **sandhi** and **samasam** types with examples.",
+              "Know the **vibhaktis (cases)** and their correct usage.",
+              "Learn key **alankaras** (upama, rupaka, etc.) with examples.",
+              "Apply grammar correctly in **all writing tasks**, not just grammar questions."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Master sandhi, samasam, vibhakti, alankaram and chandas with examples.",
+      "Apply Telugu grammar accurately across all composition tasks."
+    ],
+    "glossary": [
+      {"term": "Sandhi", "definition": "The rules governing the combination/junction of sounds and words in Telugu."},
+      {"term": "Vibhakti", "definition": "Case markers/postpositions showing a word's grammatical function."},
+      {"term": "Alankaram", "definition": "A figure of speech in Telugu poetics (word or meaning based)."}
+    ]
+  }
+]
