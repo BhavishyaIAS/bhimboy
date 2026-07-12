@@ -348,7 +348,13 @@ function EditableCode({
 
 // ---------- the manager ----------
 
-export function SyllabusManager({ tree }: { tree: SyllabusTree }) {
+export function SyllabusManager({
+  tree,
+  exam = "appsc",
+}: {
+  tree: SyllabusTree;
+  exam?: "appsc" | "upsc";
+}) {
   const router = useRouter();
   const [papers, setPapers] = useState(tree.papers);
   const [prevPapers, setPrevPapers] = useState(tree.papers);
@@ -715,7 +721,7 @@ export function SyllabusManager({ tree }: { tree: SyllabusTree }) {
 
       <AddPaperForm
         onAdd={async (name, stage) => {
-          await run(() => createPaper({ name, stage }));
+          await run(() => createPaper({ name, stage, exam }));
         }}
       />
     </div>

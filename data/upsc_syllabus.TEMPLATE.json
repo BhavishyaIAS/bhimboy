@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "source": "UPSC Civil Services syllabus detailer (uploaded by admin)",
+  "node_grain": "micro_theme",
+  "hierarchy": "stage → paper → section → unit → theme → micro_theme",
+  "count": 2,
+  "_README": [
+    "Template for the UPSC syllabus detailer. Replace `micro_themes` with the",
+    "real list and save as data/upsc_syllabus.json, then import with:",
+    "  node --env-file=.env.local scripts/import-syllabus.mjs --exam upsc --file data/upsc_syllabus.json",
+    "Required fields per item: id, stage, paper, section, unit, theme, micro_theme.",
+    "The other fields are optional metadata (ignored by the importer).",
+    "IMPORTANT: `id` becomes the micro-theme code and must be globally unique",
+    "across BOTH exams — prefix UPSC ids (e.g. UPSC-PRE-GS-001) so they never",
+    "collide with APPSC codes."
+  ],
+  "micro_themes": [
+    {
+      "id": "UPSC-PRE-GS-001",
+      "stage": "Prelims",
+      "paper": "Paper-I: General Studies",
+      "section": "History of India & Indian National Movement",
+      "unit": "Ancient India",
+      "theme": "Indus Valley Civilization",
+      "micro_theme": "IVC origin, extent & chronology"
+    },
+    {
+      "id": "UPSC-MN-GS1-001",
+      "stage": "Mains",
+      "paper": "GS Paper-I",
+      "section": "Indian Heritage & Culture",
+      "unit": "Art & Culture",
+      "theme": "Architecture",
+      "micro_theme": "Temple architecture: Nagara, Dravida, Vesara"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 // Hand-maintained database types matching supabase/migrations.
 // If the schema changes, update these types alongside the migration.
 
+import type { ExamId } from "@/lib/exams";
+
 export type ContentStatus = "draft" | "published";
 export type ExamStage = "prelims" | "mains";
 export type Role = "admin" | "student";
@@ -17,6 +19,7 @@ export interface Paper {
   id: string;
   name: string;
   stage: ExamStage;
+  exam: ExamId;
   sort_order: number;
   created_at: string;
   updated_at: string;

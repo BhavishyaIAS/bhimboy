@@ -10,8 +10,12 @@
 // Everything is loaded as `draft` so the admin publishes as content is added.
 //
 // Usage:
-//   node scripts/import-syllabus.mjs           # insert (skips existing codes)
-//   node scripts/import-syllabus.mjs --wipe    # delete all papers first
+//   node scripts/import-syllabus.mjs                       # APPSC (default source)
+//   node scripts/import-syllabus.mjs --wipe                # re-import: wipe THIS exam's papers first
+//   node scripts/import-syllabus.mjs --exam upsc --file data/upsc_syllabus.json
+//
+// --exam appsc|upsc  which exam vertical the papers belong to (default appsc)
+// --file <path>      source JSON (default data/appsc_syllabus.json)
 //
 // Requires NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY in the
 // environment (loaded from .env.local when run via npm run import:syllabus).
@@ -28,7 +32,19 @@ if (process.env.HTTPS_PROXY || process.env.HTTP_PROXY) {
 }
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATA = join(__dirname, "..", "data", "appsc_syllabus.json");
+
+function argValue(flag) {
+  const i = process.argv.indexOf(flag);
+  return i !== -1 && process.argv[i + 1] ? process.argv[i + 1] : null;
+}
+
+const EXAM = argValue("--exam") ?? "appsc";
+if (!["appsc", "upsc"].includes(EXAM)) {
+  console.error(`--exam must be 'appsc' or 'upsc' (got '${EXAM}')`);
+  process.exit(1);
+}
+const DATA =
+  argValue("--file") ?? join(__dirname, "..", "data", "appsc_syllabus.json");
 
 const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
 const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -75,12 +91,10 @@ async function main() {
 
   if (WIPE) {
     // Deleting papers cascades to subjects → topics → microthemes → content.
-    const { error } = await supabase
-      .from("papers")
-      .delete()
-      .neq("id", "00000000-0000-0000-0000-000000000000");
+    // Scoped to this exam so wiping UPSC never touches APPSC (and vice-versa).
+    const { error } = await supabase.from("papers").delete().eq("exam", EXAM);
     if (error) throw new Error(`wipe: ${error.message}`);
-    console.log("Wiped existing papers (cascaded to all syllabus content).");
+    console.log(`Wiped existing '${EXAM}' papers (cascaded to their content).`);
   }
 
   // ---- Build the ordered hierarchy in memory ----
@@ -140,6 +154,7 @@ async function main() {
   const paperRows = paperOrder.map((name) => ({
     name: papers.get(name).name,
     stage: papers.get(name).stage,
+    exam: EXAM,
     sort_order: papers.get(name).sort_order,
   }));
   const insertedPapers = await insertReturning("papers", paperRows);

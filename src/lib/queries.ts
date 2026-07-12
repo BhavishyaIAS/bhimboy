@@ -1,6 +1,7 @@
 import "server-only";
 
 import { createClient } from "@/lib/supabase/server";
+import type { ExamId } from "@/lib/exams";
 import type {
   GlossaryTerm,
   MainsQuestion,
@@ -16,15 +17,16 @@ import type {
 
 // RLS already restricts students to published rows; `publishedOnly` applies
 // the same filter explicitly so admins previewing the student area see
-// exactly what students see.
+// exactly what students see. `exam` scopes the tree to one exam vertical
+// (APPSC / UPSC); omit it to fetch everything.
 export async function getSyllabusTree(
-  options: { publishedOnly?: boolean } = {}
+  options: { publishedOnly?: boolean; exam?: ExamId } = {}
 ): Promise<SyllabusTree> {
   const supabase = await createClient();
   let query = supabase
     .from("papers")
     .select(
-      `id, name, stage, sort_order, created_at, updated_at,
+      `id, name, stage, exam, sort_order, created_at, updated_at,
        subjects (
          id, paper_id, name, sort_order, status, created_at, updated_at,
          topics (
@@ -37,6 +39,10 @@ export async function getSyllabusTree(
     .order("sort_order", { referencedTable: "subjects" })
     .order("sort_order", { referencedTable: "subjects.topics" })
     .order("sort_order", { referencedTable: "subjects.topics.microthemes" });
+
+  if (options.exam) {
+    query = query.eq("exam", options.exam);
+  }
 
   if (options.publishedOnly) {
     query = query

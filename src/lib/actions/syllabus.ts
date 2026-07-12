@@ -28,6 +28,8 @@ const levelSchema = z.enum(LEVELS);
 function revalidateSyllabus() {
   revalidatePath("/admin/syllabus");
   revalidatePath("/app/syllabus");
+  revalidatePath("/app/syllabus/appsc");
+  revalidatePath("/app/syllabus/upsc");
   revalidatePath("/app", "layout");
 }
 
@@ -50,15 +52,17 @@ async function nextSortOrder(
 export async function createPaper(input: {
   name: string;
   stage: "prelims" | "mains";
+  exam?: "appsc" | "upsc";
 }): Promise<ActionResult<{ id: string }>> {
   try {
     const { supabase } = await getAdminClient();
     const name = nameSchema.parse(input.name);
     const stage = z.enum(["prelims", "mains"]).parse(input.stage);
+    const exam = z.enum(["appsc", "upsc"]).parse(input.exam ?? "appsc");
     const sort_order = await nextSortOrder(supabase, "papers", null, null);
     const { data, error } = await supabase
       .from("papers")
-      .insert({ name, stage, sort_order })
+      .insert({ name, stage, exam, sort_order })
       .select("id")
       .single();
     if (error) throw new Error(error.message);
