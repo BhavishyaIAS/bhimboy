@@ -1,0 +1,271 @@
+[
+  {
+    "code": "PRE-PII-MPA-020",
+    "sections": [
+      {
+        "heading": "Area & perimeter of geometrical shapes (2D mensuration)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**2D mensuration** computes the **area** (space enclosed) and **perimeter** (boundary length) of plane figures — squares, rectangles, triangles, circles and their combinations."
+          },
+          {
+            "type": "table",
+            "headers": ["Shape", "Area / Perimeter"],
+            "rows": [
+              ["**Square**", "Area = a²; Perimeter = 4a; diagonal = a√2."],
+              ["**Rectangle**", "Area = l×b; Perimeter = 2(l+b)."],
+              ["**Triangle**", "Area = ½ × base × height; **Heron: √(s(s−a)(s−b)(s−c))**, s = (a+b+c)/2."],
+              ["**Circle**", "Area = πr²; Circumference = 2πr."],
+              ["**Parallelogram / Trapezium**", "base×height; **½(a+b)×h**."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Equilateral triangle** area = (√3/4)a².",
+              "Use **π = 22/7** (or 3.14); diagonal of square = side × √2."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Square**: area a², diagonal a√2; **Rectangle**: area l×b, diagonal √(l²+b²).",
+      "**Triangle**: ½·base·height; **Heron's formula** √(s(s−a)(s−b)(s−c)).",
+      "**Equilateral triangle**: area (√3/4)a², height (√3/2)a.",
+      "**Circle**: area πr², circumference 2πr; use **π = 22/7**.",
+      "**Trapezium** area = ½(sum of parallel sides)×height.",
+      "Area of a rhombus = ½ × product of diagonals."
+    ],
+    "glossary": [
+      {"term": "Perimeter", "definition": "The total length of the boundary of a plane figure."},
+      {"term": "Heron's formula", "definition": "A formula giving a triangle's area from its three sides via the semi-perimeter."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-021",
+    "sections": [
+      {
+        "heading": "Volume & surface area (3D mensuration)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**3D mensuration** computes the **volume** (space occupied) and **surface area** of solids — cube, cuboid, cylinder, cone and sphere — frequently combined in composite-solid problems."
+          },
+          {
+            "type": "table",
+            "headers": ["Solid", "Volume / Surface Area"],
+            "rows": [
+              ["**Cube**", "V = a³; TSA = 6a²; diagonal = a√3."],
+              ["**Cuboid**", "V = l×b×h; TSA = 2(lb+bh+hl)."],
+              ["**Cylinder**", "V = πr²h; CSA = 2πrh; TSA = 2πr(r+h)."],
+              ["**Cone**", "V = ⅓πr²h; CSA = πrl (l = slant); TSA = πr(r+l)."],
+              ["**Sphere**", "V = (4/3)πr³; Surface = 4πr²."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Sphere**: volume (4/3)πr³, surface 4πr²; **hemisphere** = half + base circle.",
+              "Cone slant height **l = √(r² + h²)**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Cube**: V = a³, TSA = 6a², diagonal a√3.",
+      "**Cuboid**: V = lbh, TSA = 2(lb+bh+hl), diagonal √(l²+b²+h²).",
+      "**Cylinder**: V = πr²h, CSA = 2πrh.",
+      "**Cone**: V = ⅓πr²h, CSA = πrl, slant l = √(r²+h²).",
+      "**Sphere**: V = (4/3)πr³, surface 4πr²; **hemisphere** TSA = 3πr².",
+      "Cone volume = **⅓ × cylinder** of same base & height."
+    ],
+    "glossary": [
+      {"term": "Total surface area", "definition": "The sum of all outer surface areas of a solid."},
+      {"term": "Slant height", "definition": "The distance from a cone's apex to the edge of its base, l = √(r²+h²)."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-022",
+    "sections": [
+      {
+        "heading": "Properties of transverse & parallel lines",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "When a **transversal** crosses two **parallel lines**, it creates equal and supplementary angle pairs — the foundation of geometry problems on angles."
+          },
+          {
+            "type": "table",
+            "headers": ["Angle pair", "Relation (parallel lines)"],
+            "rows": [
+              ["**Corresponding angles**", "Equal."],
+              ["**Alternate interior angles**", "Equal."],
+              ["**Alternate exterior angles**", "Equal."],
+              ["**Co-interior (allied)**", "Supplementary (sum = 180°)."],
+              ["**Vertically opposite**", "Equal (always, at any intersection)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Angles on a straight line sum to **180°**; around a point **360°**.",
+              "Corresponding & alternate angles equal **only if lines are parallel**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Corresponding & alternate angles are equal** for parallel lines cut by a transversal.",
+      "**Co-interior (allied) angles are supplementary** (sum 180°).",
+      "**Vertically opposite angles are always equal**.",
+      "Angles on a **straight line = 180°**; around a **point = 360°**.",
+      "Two lines are parallel **iff** corresponding/alternate angles are equal.",
+      "**Complementary** angles sum to 90°; **supplementary** to 180°."
+    ],
+    "glossary": [
+      {"term": "Transversal", "definition": "A line crossing two or more other lines."},
+      {"term": "Alternate angles", "definition": "Equal angle pairs on opposite sides of a transversal between parallel lines."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-023",
+    "sections": [
+      {
+        "heading": "Properties of triangles & quadrilaterals",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Triangles and quadrilaterals** have defining angle-sum and side properties used across geometry problems. A triangle's angles sum to 180°; a quadrilateral's to 360°."
+          },
+          {
+            "type": "table",
+            "headers": ["Figure", "Key property"],
+            "rows": [
+              ["**Triangle**", "Angle sum = 180°; exterior angle = sum of two opposite interior; **Pythagoras** for right triangle."],
+              ["**Types**", "Equilateral (all equal), isosceles (two equal), scalene; acute/right/obtuse."],
+              ["**Rectangle**", "Opposite sides equal; all angles 90°; diagonals equal & bisect."],
+              ["**Parallelogram**", "Opposite sides & angles equal; diagonals bisect each other."],
+              ["**Rhombus**", "All sides equal; diagonals bisect at right angles."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Triangle **angle sum = 180°**; quadrilateral **= 360°**.",
+              "**Pythagoras**: hypotenuse² = base² + height² (right triangle)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Triangle angle sum = 180°**; **exterior angle = sum of two remote interior angles**.",
+      "**Pythagoras theorem**: c² = a² + b² (right-angled triangle).",
+      "**Quadrilateral angle sum = 360°**.",
+      "**Rhombus**: all sides equal, diagonals bisect at 90°.",
+      "**Square** = rectangle + rhombus properties combined.",
+      "Sum of any two sides of a triangle **> the third side**."
+    ],
+    "glossary": [
+      {"term": "Pythagoras theorem", "definition": "In a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides."},
+      {"term": "Parallelogram", "definition": "A quadrilateral with both pairs of opposite sides parallel and equal."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-024",
+    "sections": [
+      {
+        "heading": "Introduction to algebra & BODMAS",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Algebra** uses symbols for numbers to form expressions and equations. **BODMAS** fixes the order of operations, ensuring expressions are simplified consistently."
+          },
+          {
+            "type": "table",
+            "headers": ["BODMAS order", "Meaning"],
+            "rows": [
+              ["**B**", "Brackets ( ), { }, [ ]."],
+              ["**O**", "Orders (powers & roots)."],
+              ["**D / M**", "Division & Multiplication (left to right)."],
+              ["**A / S**", "Addition & Subtraction (left to right)."],
+              ["**Identities**", "(a+b)² = a²+2ab+b²; (a−b)² = a²−2ab+b²; a²−b² = (a+b)(a−b)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Apply **BODMAS** strictly: brackets first, add/subtract last.",
+              "Memorise the **algebraic identities** for quick simplification."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**BODMAS** — Brackets, Orders, Division/Multiplication, Addition/Subtraction.",
+      "Division & multiplication have **equal priority** (left to right); same for addition & subtraction.",
+      "**(a+b)² = a²+2ab+b²**, **(a−b)² = a²−2ab+b²**, **a²−b² = (a+b)(a−b)**.",
+      "**(a+b)³ = a³+3a²b+3ab²+b³**; a³+b³ = (a+b)(a²−ab+b²).",
+      "A **linear equation** has degree 1; a **quadratic** degree 2 (two roots).",
+      "Quadratic roots: **x = [−b ± √(b²−4ac)]/2a**."
+    ],
+    "glossary": [
+      {"term": "BODMAS", "definition": "The order-of-operations rule: Brackets, Orders, Division/Multiplication, Addition/Subtraction."},
+      {"term": "Algebraic identity", "definition": "An equation true for all values of its variables (e.g. a²−b² = (a+b)(a−b))."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-025",
+    "sections": [
+      {
+        "heading": "Simplification of weird symbols",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**'Weird symbol' problems** define a **custom operator** (e.g. a★b = a²+b) and ask you to evaluate expressions using it. The trick is to **substitute the definition exactly** and then apply normal BODMAS."
+          },
+          {
+            "type": "table",
+            "headers": ["Step", "Approach"],
+            "rows": [
+              ["**Read the definition**", "Note precisely what the symbol does (e.g. a@b = 2a − b)."],
+              ["**Substitute**", "Replace the operator with its definition for the given values."],
+              ["**Apply BODMAS**", "Simplify the resulting normal expression."],
+              ["**Nested symbols**", "Work from the **innermost** operation outward."],
+              ["**Symbol-swap type**", "Replace given symbols (+ means ×, etc.) then compute."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Substitute the **exact definition**; don't assume conventional meaning.",
+              "For **symbol-substitution** ('if + means ÷…'), swap first, then BODMAS."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Apply the **custom operator's definition literally**.",
+      "Solve **nested/inner operations first**, then outer.",
+      "In **'if + means ×'** questions, **replace symbols first**, then apply BODMAS.",
+      "Keep track of **order** — custom operators may not be commutative.",
+      "Recheck by substituting the final values back."
+    ],
+    "glossary": [
+      {"term": "Custom operator", "definition": "A specially defined symbol (e.g. a★b) whose meaning is given in the question."},
+      {"term": "Symbol substitution", "definition": "A problem type where standard symbols are reassigned new meanings before evaluation."}
+    ]
+  }
+]
