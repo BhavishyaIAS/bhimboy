@@ -1,0 +1,283 @@
+[
+  {
+    "code": "PRE-PII-MPA-001",
+    "sections": [
+      {
+        "heading": "Logical reasoning & analytical ability",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Logical reasoning** tests the ability to analyse information, spot patterns and draw valid conclusions. It spans **syllogisms, statements-and-conclusions/assumptions, cause-and-effect, seating arrangements and analogies** — the analytical backbone of the CSAT paper."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "What it tests / method"],
+            "rows": [
+              ["**Syllogisms**", "Validity of conclusions from premises; use **Venn diagrams** (all/some/no)."],
+              ["**Statement & assumptions**", "What is taken for granted; an assumption must be **implicit**, not stated."],
+              ["**Statement & conclusions**", "Only what **definitely follows** from the statement."],
+              ["**Seating/arrangement**", "Linear/circular puzzles; draw a diagram, fix definite clues first."],
+              ["**Analogy & classification**", "Find the relationship (A:B :: C:?) or the **odd one out**."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Read carefully** — note words like 'all', 'some', 'none', 'only', 'unless'.",
+              "**Diagram it** — Venn for syllogisms, sketches for arrangements.",
+              "**Test each option** by elimination; beware of assuming facts not given.",
+              "**Conclusion must follow strictly** — do not use outside knowledge."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Syllogism** — use **Venn diagrams**; 'some A are B' does not mean 'some B are not A'.",
+      "**Assumption** = something **implicit/taken for granted** (not stated).",
+      "**Conclusion** = must **definitely follow** from the statement alone.",
+      "For **arrangement puzzles**, fix the most definite clue first, then build.",
+      "**Analogy** — identify the exact relationship before choosing.",
+      "Avoid bringing in **real-world knowledge** — judge only from given data."
+    ],
+    "glossary": [
+      {"term": "Syllogism", "definition": "A logic problem deducing a conclusion from two or more given premises."},
+      {"term": "Assumption", "definition": "Something implicitly taken for granted in a statement, not explicitly stated."},
+      {"term": "Analogy", "definition": "A reasoning task requiring you to find a relationship of the form A:B :: C:?"}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-002",
+    "sections": [
+      {
+        "heading": "Number series",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **number series** follows a hidden rule; the task is to find the **next term or the missing/wrong term**. Common patterns are **arithmetic, geometric, squares/cubes, alternating and mixed** progressions."
+          },
+          {
+            "type": "table",
+            "headers": ["Pattern", "Example"],
+            "rows": [
+              ["**Arithmetic (constant +)**", "2, 5, 8, 11, … (+3)"],
+              ["**Geometric (constant ×)**", "3, 6, 12, 24, … (×2)"],
+              ["**Squares/Cubes**", "1, 4, 9, 16, … (n²); 1, 8, 27, 64 (n³)"],
+              ["**Difference of differences**", "2, 3, 5, 8, 12 (diffs 1,2,3,4)"],
+              ["**Alternating**", "1, 2, 4, 3, 9, 4, … (two interleaved series)"]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Check the differences** between consecutive terms first.",
+              "If differences aren't constant, **check ratios** (×) or second differences.",
+              "Look for **squares, cubes, primes** or **±alternating** operations.",
+              "For a wrong-term question, find the rule that fits **most** terms."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "First check the **common difference** (arithmetic), then the **common ratio** (geometric).",
+      "Watch for **n², n³, prime numbers, factorials**.",
+      "**Alternating series** interleave two patterns — separate the odd & even positions.",
+      "'Difference of differences' constant → a **second-order** (quadratic) series.",
+      "For **odd-one-out**, find the single term breaking the dominant rule.",
+      "Memorise **squares to 30** and **cubes to 15** for speed."
+    ],
+    "glossary": [
+      {"term": "Arithmetic progression", "definition": "A sequence with a constant difference between consecutive terms."},
+      {"term": "Geometric progression", "definition": "A sequence with a constant ratio between consecutive terms."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-003",
+    "sections": [
+      {
+        "heading": "Coding-decoding",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Coding-decoding** disguises words/numbers by a rule; you must decode the logic to encode a new word. Common types are **letter-shifting, positional, substitution and number coding**."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "Example / rule"],
+            "rows": [
+              ["**Letter-shift**", "CAT → DBU (each letter +1)."],
+              ["**Positional (A=1…Z=26)**", "Reverse: A=26, Z=1 (opposite position, sum = 27)."],
+              ["**Substitution**", "'sky' means 'blue', etc. — track word-to-word mapping."],
+              ["**Number coding**", "Assign numbers to letters by a pattern (e.g. sum of positions)."],
+              ["**Symbol coding**", "Letters ↔ symbols in a fixed key."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "Write the **alphabet with positions (A=1…Z=26)** for reference.",
+              "Compare each coded letter with the original to find the **shift**.",
+              "Remember **opposite letters** sum to 27 (A↔Z, B↔Y…).",
+              "For substitution, **build the mapping table** from the given sentences."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**A=1 … Z=26**; opposite letters (A↔Z) sum to **27** (EJOTY trick: E=5, J=10, O=15, T=20, Y=25).",
+      "Find the **constant shift** by comparing coded and original letters.",
+      "For **substitution coding**, cross-map words across the given statements.",
+      "Number-coding often uses **position sums** or place values.",
+      "Note whether the shift is **forward (+)** or **backward (–)**.",
+      "Watch for **reversal** of the word plus a shift."
+    ],
+    "glossary": [
+      {"term": "Letter-shift coding", "definition": "Encoding by moving each letter a fixed number of places in the alphabet."},
+      {"term": "EJOTY", "definition": "A memory aid marking letter positions E=5, J=10, O=15, T=20, Y=25 for quick reference."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-004",
+    "sections": [
+      {
+        "heading": "Blood relations & problems on relations",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Blood-relation** problems test the ability to trace family relationships from clues (including coded relations and 'pointing-at-a-photo' puzzles). The key is to **draw a family tree** using clear symbols."
+          },
+          {
+            "type": "table",
+            "headers": ["Symbol convention", "Meaning"],
+            "rows": [
+              ["**+ / – or □ / ○**", "Male / Female."],
+              ["**Horizontal line (—)**", "Spouse / same generation (siblings)."],
+              ["**Vertical/slanted line**", "Parent-child (different generations)."],
+              ["**'Only son/daughter of'**", "Points to the parent."],
+              ["**Maternal vs paternal**", "Mother's side vs father's side."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Draw a tree**: put elder generation on top, younger below.",
+              "Mark **gender** and **generation** for every person.",
+              "For 'pointing' puzzles, resolve from the **speaker outward**.",
+              "Break coded relations (A+B, A×B) using the **given key** step by step."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Always **draw a family tree** with gender and generation marked.",
+      "**Paternal** = father's side; **maternal** = mother's side.",
+      "In 'photo' puzzles, start from the speaker: 'my father's only son' = **himself** (if male).",
+      "**Generation gaps** — grandparent, parent, self, child, grandchild.",
+      "Solve **coded relations** strictly using the given symbol key.",
+      "Beware of gender-neutral clues (cousin, in-law, sibling)."
+    ],
+    "glossary": [
+      {"term": "Family tree", "definition": "A diagram mapping family members by generation and gender to solve relation problems."},
+      {"term": "Paternal / Maternal", "definition": "Relations on the father's side (paternal) versus the mother's side (maternal)."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-005",
+    "sections": [
+      {
+        "heading": "Shapes & sub-sections",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Shapes & sub-sections** problems test **spatial/visual reasoning** — counting figures (triangles, squares) within a complex figure, identifying embedded shapes, completing figures, or counting how a figure is divided into parts."
+          },
+          {
+            "type": "table",
+            "headers": ["Task", "Approach"],
+            "rows": [
+              ["**Counting triangles/squares**", "Count **smallest** units first, then combinations of 2, 3, 4… systematically."],
+              ["**Embedded figures**", "Locate the given simple shape inside the complex one."],
+              ["**Figure completion**", "Choose the piece that completes the pattern/symmetry."],
+              ["**Dividing a figure**", "Count regions formed by intersecting lines."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Label** each line/vertex to avoid missing or double-counting.",
+              "Count **smallest components first**, then progressively larger composites.",
+              "Use **symmetry** to speed counting.",
+              "Recount methodically — spatial questions reward care over speed."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Count the **smallest figures first**, then combinations — be systematic.",
+      "**Label vertices/lines** to avoid double-counting.",
+      "Exploit **symmetry** to multiply counts.",
+      "For completion/analogy figures, look for **rotation, reflection, addition/deletion**.",
+      "Practise standard figures (a triangle divided into rows gives a known count)."
+    ],
+    "glossary": [
+      {"term": "Spatial reasoning", "definition": "The ability to visualise and manipulate shapes and their arrangements mentally."},
+      {"term": "Embedded figure", "definition": "A simple shape hidden within a larger, more complex figure."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-006",
+    "sections": [
+      {
+        "heading": "Venn diagrams",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Venn diagrams** represent relationships among sets using overlapping circles. They are used both for **logical relationships between groups** (e.g. doctors, women, players) and for **set-based counting** problems."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Union (A∪B)**", "All elements in A or B (or both)."],
+              ["**Intersection (A∩B)**", "Elements common to A and B."],
+              ["**Two-set formula**", "**n(A∪B) = n(A) + n(B) – n(A∩B)**."],
+              ["**Three-set formula**", "**n(A∪B∪C) = n(A)+n(B)+n(C) – n(A∩B) – n(B∩C) – n(C∩A) + n(A∩B∩C)**."],
+              ["**Relationship type**", "Choose the diagram matching the group relation (e.g. all X are Y = circle inside circle)."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "For **relationship questions**, decide how the categories overlap (subset, disjoint, partial).",
+              "For **counting**, fill the **innermost region first**, then work outward.",
+              "Apply the **inclusion-exclusion formula** for unions.",
+              "'Only A' = n(A) minus all its overlaps."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**n(A∪B) = n(A) + n(B) – n(A∩B)** (two sets).",
+      "Three-set: **add singles, subtract pairs, add the triple**.",
+      "For counting, **start from the centre (all three)** and work outward.",
+      "'Exactly one', 'exactly two', 'at least one' need careful region-wise counting.",
+      "For relationship diagrams, match to 'all/some/no' logic (subset, overlap, disjoint)."
+    ],
+    "glossary": [
+      {"term": "Union", "definition": "The set of all elements in either set (A∪B)."},
+      {"term": "Intersection", "definition": "The set of elements common to both sets (A∩B)."},
+      {"term": "Inclusion-exclusion", "definition": "The principle for counting union sizes by adding singles and adjusting for overlaps."}
+    ]
+  }
+]
