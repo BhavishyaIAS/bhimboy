@@ -1,0 +1,300 @@
+[
+  {
+    "code": "MN-LE-E-001",
+    "sections": [
+      {
+        "heading": "Essay writing (200–250 words) across modes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The qualifying-paper **short essay (200–250 words)** tests clear, correct expression on a given topic in **descriptive, analytical or reflective** mode. Unlike the Mains essay, brevity and correctness matter most — a tight **intro–body–conclusion** in a few paragraphs."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Guidance"],
+            "rows": [
+              ["**Introduction**", "1-2 sentences framing the topic + a thesis."],
+              ["**Body**", "2-3 short paragraphs, one idea each, with an example."],
+              ["**Conclusion**", "1-2 sentences summing up / a forward look."],
+              ["**Language**", "Simple, correct, varied sentences; avoid errors."],
+              ["**Length**", "Respect 200-250 words; quality over padding."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Spend a minute outlining 2-3 points before writing.",
+              "Keep paragraphs short; use linking words for flow.",
+              "Prioritise **grammatical correctness** — it is a qualifying paper.",
+              "Stay within the word limit; conclude crisply."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise 200-250-word essays across descriptive, analytical and reflective modes.",
+      "Focus on error-free, simple, well-linked prose within the word limit."
+    ],
+    "glossary": [
+      {"term": "Thesis", "definition": "The central point of the essay stated in the introduction."},
+      {"term": "Linking words", "definition": "Connectives (however, therefore, moreover) that give the essay flow."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-002",
+    "sections": [
+      {
+        "heading": "Formal letter writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **formal (official/business) letter** follows a fixed format and a **polite, precise, purposeful tone**. It is used for applications, complaints, requests and official correspondence — accuracy of format and clarity of purpose are marked."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Sender's address & date**", "Top-left (or as prescribed)."],
+              ["**Receiver's designation & address**", "Below sender's."],
+              ["**Subject line**", "One line stating the purpose."],
+              ["**Salutation**", "'Sir/Madam,' (formal)."],
+              ["**Body**", "3 paras — purpose, details, request/action; polite & concise."],
+              ["**Closing**", "'Yours faithfully,' + name & designation."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Follow the **exact format**; keep it formal and impersonal.",
+              "State the **purpose in the first line** of the body.",
+              "'Yours faithfully' with 'Sir/Madam'; 'Yours sincerely' if the name is used.",
+              "Be **concise, courteous and error-free**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Memorise the formal-letter format (addresses, subject, salutation, 3-para body, closing).",
+      "Practise application, complaint and request letters concisely and politely."
+    ],
+    "glossary": [
+      {"term": "Subject line", "definition": "A one-line statement of the letter's purpose placed before the salutation."},
+      {"term": "Yours faithfully", "definition": "The formal closing used with 'Sir/Madam' when the recipient's name is not used."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-003",
+    "sections": [
+      {
+        "heading": "Press release / appeal writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **press release** communicates official information to the media, while an **appeal** urges public action. Both need a **clear headline, factual body and formal source attribution** — written in an objective, third-person, information-first style."
+          },
+          {
+            "type": "table",
+            "headers": ["Element", "Guidance"],
+            "rows": [
+              ["**Headline**", "Concise, informative title of the news."],
+              ["**Dateline**", "Place & date of issue."],
+              ["**Body (inverted pyramid)**", "Most important info first (who, what, when, where, why, how)."],
+              ["**Quote**", "A statement from the issuing authority (optional)."],
+              ["**Attribution**", "Issued by — name, designation, department."],
+              ["**Appeal tone**", "Persuasive but dignified; clear call to action."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use the **inverted-pyramid** structure — key facts first.",
+              "Keep it **objective and third-person** (press release); persuasive yet measured (appeal).",
+              "Cover the **5 Ws and H**; end with source attribution.",
+              "For an appeal, state a clear, actionable request."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise press releases using the inverted-pyramid (5W-1H) structure.",
+      "Write appeals with a dignified, persuasive tone and a clear call to action."
+    ],
+    "glossary": [
+      {"term": "Inverted pyramid", "definition": "A news-writing structure placing the most important information first."},
+      {"term": "Dateline", "definition": "The place and date of a press release, given at the start."},
+      {"term": "5W-1H", "definition": "Who, What, When, Where, Why and How — the key questions a news item answers."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-004",
+    "sections": [
+      {
+        "heading": "Report writing (event/function/survey)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **report** gives a factual, structured account of an **event, function or survey** for official record. It is written in the **past tense, third person and passive/objective voice**, with a clear title, body and conclusion."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Title/Heading**", "Names the event/subject of the report."],
+              ["**By-line**", "Reporter's name/designation (if required)."],
+              ["**Opening**", "What, when, where, who (the essentials)."],
+              ["**Body**", "Sequence of events / findings, in logical order."],
+              ["**Conclusion**", "Outcome, significance or recommendations."],
+              ["**Style**", "Past tense, third person, objective, factual."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Write in the **past tense, third person, objective** voice.",
+              "Lead with **what/when/where/who**; keep chronological or thematic order.",
+              "For a **survey report**, present findings clearly (with figures if given).",
+              "End with an outcome or recommendation; stay factual."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise event/function reports in past-tense, third-person objective style.",
+      "Write survey reports that present findings and recommendations clearly."
+    ],
+    "glossary": [
+      {"term": "By-line", "definition": "The line naming the reporter/author of a report."},
+      {"term": "Objective style", "definition": "Impersonal, factual writing without personal opinion, used in reports."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-005",
+    "sections": [
+      {
+        "heading": "Writing on visual information (graph/table/chart)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "This task requires **describing and interpreting data** given in a graph, table or chart in prose — identifying **trends, comparisons and key figures** objectively, without adding outside information."
+          },
+          {
+            "type": "table",
+            "headers": ["Step", "Guidance"],
+            "rows": [
+              ["**Introduce**", "State what the visual shows (title, variables, units, period)."],
+              ["**Highlight trends**", "Overall pattern — rise, fall, fluctuation, peak, trough."],
+              ["**Compare**", "Key comparisons (highest/lowest, ratios, differences)."],
+              ["**Support with data**", "Cite specific figures to back statements."],
+              ["**Conclude**", "Summarise the main insight; no personal opinion."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Read axes, units and legend first**; note the time period.",
+              "Describe **trends and comparisons**, quoting key figures.",
+              "Stay **objective** — describe only what the data shows.",
+              "Organise logically: overview → details → key insight."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise converting graphs/tables/charts into clear descriptive prose.",
+      "Focus on trends, comparisons and data support, staying objective."
+    ],
+    "glossary": [
+      {"term": "Trend", "definition": "The overall direction of data over time (rising, falling, fluctuating)."},
+      {"term": "Data support", "definition": "Citing specific figures from a visual to back a statement."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-006",
+    "sections": [
+      {
+        "heading": "Formal speech writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **formal speech** is written to be **spoken to an audience** — it needs a courteous **address, an engaging opening, a structured body and a rousing close**, in a persuasive, audience-aware tone."
+          },
+          {
+            "type": "table",
+            "headers": ["Part", "Content"],
+            "rows": [
+              ["**Salutation/Address**", "'Respected chief guest, teachers and friends…'"],
+              ["**Opening**", "Greeting + hook (quote, question, statement) + topic."],
+              ["**Body**", "2-3 clear points with examples; logical flow; rhetorical devices."],
+              ["**Close**", "Memorable ending — a call to action, quote or vision; thanks."],
+              ["**Tone**", "Direct address ('you', 'we'), persuasive, dignified."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Open with a **greeting and a hook**; name the occasion/topic.",
+              "Use **direct address and rhetorical devices** (questions, repetition).",
+              "Keep points few and clear; **end memorably** and thank the audience.",
+              "Write for the **ear** — shorter, rhythmic sentences."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise formal speeches with address, hook, structured body and rousing close.",
+      "Use audience-aware, persuasive language and end with a call to action."
+    ],
+    "glossary": [
+      {"term": "Salutation (speech)", "definition": "The courteous opening address to dignitaries and the audience."},
+      {"term": "Rhetorical device", "definition": "A technique (question, repetition, contrast) to persuade and engage listeners."}
+    ]
+  }
+]
