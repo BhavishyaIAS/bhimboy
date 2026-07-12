@@ -1,0 +1,142 @@
+[
+  {
+    "code": "PRE-PII-MPA-026",
+    "sections": [
+      {
+        "heading": "Data interpretation & analysis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Data Interpretation (DI)** tests the ability to read and analyse data presented in **tables, bar/line graphs, pie charts and caselets**, then compute values, ratios, percentages and trends — a core, high-weight CSAT skill."
+          },
+          {
+            "type": "table",
+            "headers": ["Format", "Best for"],
+            "rows": [
+              ["**Table**", "Exact values; multi-variable comparison."],
+              ["**Bar graph**", "Comparing quantities across categories."],
+              ["**Line graph**", "Trends over time."],
+              ["**Pie chart**", "Parts of a whole (each 1% = 3.6°)."],
+              ["**Caselet**", "Data embedded in a paragraph — extract into a table."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Read the title, axes, units and legend** before the questions.",
+              "For pie charts, **1% = 3.6°** of the circle.",
+              "Use **approximation** and percentage shortcuts to save time.",
+              "Watch **units** (lakh vs crore, % vs absolute)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "In a **pie chart, the whole = 360°; 1% = 3.6°**.",
+      "Read **axes, units, legend and footnotes** first.",
+      "Use **percentage & ratio shortcuts**; approximate where options are far apart.",
+      "Distinguish **absolute values vs percentages/growth rates**.",
+      "**Average, %-change and ratio** questions dominate DI.",
+      "Cross-check units (thousands/lakhs/crores)."
+    ],
+    "glossary": [
+      {"term": "Data interpretation", "definition": "Analysing data given in tables or graphs to answer quantitative questions."},
+      {"term": "Pie chart", "definition": "A circular chart showing parts of a whole, where 1% equals 3.6 degrees."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-027",
+    "sections": [
+      {
+        "heading": "Data sufficiency",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Data-sufficiency** questions ask not for the answer but whether the **given statements provide enough information** to answer. The skill is judging sufficiency **without fully solving**."
+          },
+          {
+            "type": "table",
+            "headers": ["Option (standard)", "Meaning"],
+            "rows": [
+              ["**A**", "Statement I alone is sufficient, II alone is not."],
+              ["**B**", "Statement II alone is sufficient, I alone is not."],
+              ["**C**", "Both together are sufficient, neither alone."],
+              ["**D**", "Each alone is sufficient."],
+              ["**E**", "Both together are still insufficient."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Evaluate each statement independently** first.",
+              "Decide sufficiency **without computing the final value**.",
+              "Only if neither alone suffices, **combine** them.",
+              "A statement is sufficient if it yields a **unique** answer."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Judge **sufficiency, not the actual value**.",
+      "Test **Statement I alone**, then **II alone**, then **both together**.",
+      "A statement is sufficient only if it gives a **unique** answer.",
+      "Don't carry assumptions from one statement into the other when testing 'alone'.",
+      "Combine statements **only if** neither is individually sufficient.",
+      "Avoid unnecessary full calculation — save time."
+    ],
+    "glossary": [
+      {"term": "Data sufficiency", "definition": "A question type asking whether the given statements are enough to answer, not the answer itself."},
+      {"term": "Unique answer", "definition": "A single definite value/outcome, the test of a statement's sufficiency."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-028",
+    "sections": [
+      {
+        "heading": "Concepts of probability",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Probability** measures the likelihood of an event, ranging from **0 (impossible) to 1 (certain)**. It is computed as favourable outcomes over total outcomes, with rules for combined events."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Formula"],
+            "rows": [
+              ["**Basic**", "**P(E) = favourable / total outcomes**; 0 ≤ P ≤ 1."],
+              ["**Complement**", "P(not E) = 1 − P(E)."],
+              ["**Addition (OR)**", "P(A∪B) = P(A) + P(B) − P(A∩B)."],
+              ["**Mutually exclusive**", "P(A∩B)=0 → P(A∪B) = P(A)+P(B)."],
+              ["**Independent (AND)**", "P(A∩B) = P(A)×P(B)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Coin: 2 outcomes; die: 6; **deck of cards: 52** (4 suits, 13 each, 26 red/26 black).",
+              "**P(certain)=1, P(impossible)=0**; probabilities sum to 1."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**P(E) = favourable outcomes / total outcomes**; **0 ≤ P(E) ≤ 1**.",
+      "**P(not E) = 1 − P(E)**.",
+      "**Mutually exclusive**: P(A∪B) = P(A)+P(B); **independent**: P(A∩B)=P(A)·P(B).",
+      "A **deck has 52 cards** (26 red, 26 black; 4 suits; 12 face cards).",
+      "A **die** has 6 faces; a **coin** two.",
+      "Sum of probabilities of all outcomes = **1**."
+    ],
+    "glossary": [
+      {"term": "Probability", "definition": "A measure (0 to 1) of the likelihood of an event occurring."},
+      {"term": "Mutually exclusive events", "definition": "Events that cannot occur together, so P(A∩B)=0."},
+      {"term": "Independent events", "definition": "Events where one's occurrence does not affect the other's, so P(A∩B)=P(A)·P(B)."}
+    ]
+  }
+]
