@@ -1,0 +1,227 @@
+[
+  {
+    "code": "PRE-PII-MPA-015",
+    "sections": [
+      {
+        "heading": "Percentage",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **percentage** expresses a number as a fraction of 100. It is the basis of profit-loss, interest, data interpretation and much of commercial arithmetic — so quick percentage-fraction conversions save time."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Formula"],
+            "rows": [
+              ["**x% of N**", "(x/100) × N."],
+              ["**Percentage change**", "(change / original) × 100."],
+              ["**Increase then decrease by x%**", "Net = **−x²/100 %** (always a net loss)."],
+              ["**Fraction ↔ %**", "1/2=50%, 1/4=25%, 1/5=20%, 1/8=12.5%, 1/3≈33.3%."],
+              ["**Successive % (a, b)**", "Net = a + b + (ab/100)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A rise of x% then a fall of x% gives a **net loss of x²/100 %**.",
+              "Memorise **fraction-to-percentage** conversions for speed."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**x% of N = (x/100) × N**; **% change = (change/original) × 100**.",
+      "Successive changes a% then b% → net = **a + b + ab/100** (signs matter).",
+      "Increase then decrease by same x% → **net loss = x²/100 %**.",
+      "Common fractions: **1/2=50, 1/3=33.3, 1/4=25, 1/5=20, 1/6=16.6, 1/8=12.5, 1/11≈9.09%**.",
+      "If A is x% more than B, B is **less than A by x/(100+x)×100 %**.",
+      "Population/CI-type growth over n years uses **(1 ± r/100)ⁿ**."
+    ],
+    "glossary": [
+      {"term": "Percentage", "definition": "A ratio expressed as a fraction of 100."},
+      {"term": "Successive percentage change", "definition": "Two or more percentage changes applied one after another, combined by a+b+ab/100."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-016",
+    "sections": [
+      {
+        "heading": "Simple & compound interest",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Interest** is the cost of borrowing. **Simple interest (SI)** is computed only on the principal, while **compound interest (CI)** is computed on principal plus accumulated interest — hence CI grows faster."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "Formula"],
+            "rows": [
+              ["**Simple Interest**", "**SI = P·R·T / 100**; Amount = P + SI."],
+              ["**Compound Interest**", "**A = P(1 + R/100)ᵀ**; CI = A − P."],
+              ["**CI (n times/yr)**", "A = P(1 + R/(100n))^(nT)."],
+              ["**Difference (2 yrs)**", "**CI − SI = P(R/100)²**."],
+              ["**Doubling (rule of 72)**", "Years to double ≈ 72 / R."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "For 2 years, **CI − SI = P·(R/100)²** — a fast formula.",
+              "CI ≥ SI always (equal only for 1 year, annual compounding)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**SI = PRT/100**; **A = P(1 + R/100)ᵀ** (compound, annual).",
+      "**CI − SI for 2 years = P(R/100)²**.",
+      "CI and SI are **equal for the first year** (annual compounding).",
+      "Half-yearly compounding: **rate halves, time doubles**.",
+      "**Rule of 72**: money doubles in ~**72/R** years.",
+      "Compound interest reflects 'interest on interest'."
+    ],
+    "glossary": [
+      {"term": "Simple interest", "definition": "Interest calculated only on the original principal (SI = PRT/100)."},
+      {"term": "Compound interest", "definition": "Interest calculated on principal plus previously accrued interest."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-017",
+    "sections": [
+      {
+        "heading": "Profit & loss",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Profit and loss** problems compare **cost price (CP)** and **selling price (SP)**. Profit or loss is always calculated **as a percentage of the cost price** (unless stated otherwise), and discounts apply to the **marked price**."
+          },
+          {
+            "type": "table",
+            "headers": ["Term", "Formula"],
+            "rows": [
+              ["**Profit**", "SP − CP (when SP > CP); **Profit% = (Profit/CP) × 100**."],
+              ["**Loss**", "CP − SP; **Loss% = (Loss/CP) × 100**."],
+              ["**SP from CP**", "SP = CP × (100 ± profit/loss%)/100."],
+              ["**Discount**", "On **Marked Price**: SP = MP × (100 − d%)/100."],
+              ["**Two articles, same SP, ±x%**", "Net **loss = x²/100 %**."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Profit/loss % is **always on the cost price** unless stated.",
+              "Selling two items at the same price with equal +x% and −x% → **net loss x²/100 %**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Profit% = (SP − CP)/CP × 100**; **Loss% = (CP − SP)/CP × 100**.",
+      "Profit/loss is reckoned on **CP** unless otherwise stated.",
+      "**Discount is on the Marked Price**, not the cost price.",
+      "Two articles at same SP, one +x% one −x% → **net loss = x²/100 %**.",
+      "Successive discounts a% and b% → net = **a + b − ab/100**.",
+      "Dishonest dealer using false weight: gain% = (error/(true−error))×100."
+    ],
+    "glossary": [
+      {"term": "Cost price (CP)", "definition": "The price at which an article is bought."},
+      {"term": "Marked price (MP)", "definition": "The listed price before discount, on which discount is calculated."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-018",
+    "sections": [
+      {
+        "heading": "Time & work",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Time-and-work** problems relate the **rate of work** to the time taken. If a person completes a job in n days, their one-day work is **1/n**; combined rates add up."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Formula"],
+            "rows": [
+              ["**One-day work**", "If A does a job in n days, rate = **1/n**."],
+              ["**Combined**", "A & B together: **1/a + 1/b = (a+b)/ab** per day."],
+              ["**Time together**", "**ab/(a+b)** days."],
+              ["**Efficiency ratio**", "More efficient = less time (inverse)."],
+              ["**Work-wage**", "Wages split in **ratio of work done** (or efficiency)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "A in a days, B in b days → together in **ab/(a+b)** days.",
+              "**Efficiency ∝ 1/time**; use the LCM (total work) method for multi-worker sums."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "One-day work of A (does job in n days) = **1/n**.",
+      "A & B together finish in **ab/(a+b)** days.",
+      "**Efficiency is inversely proportional to time**.",
+      "**LCM method**: take total work = LCM of days, find each rate as units/day.",
+      "Pipes & cisterns: inlet = +work, **outlet/leak = −work**.",
+      "Wages are divided in the **ratio of work done**."
+    ],
+    "glossary": [
+      {"term": "Rate of work", "definition": "The fraction of a job completed in unit time (1/n per day if the job takes n days)."},
+      {"term": "LCM method", "definition": "Taking total work as the LCM of the given times to simplify time-and-work sums."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-019",
+    "sections": [
+      {
+        "heading": "Time & distance; speed & distance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Speed, time and distance** are linked by **Distance = Speed × Time**. Problems cover average speed, relative speed (trains, boats), and unit conversions — a high-frequency CSAT area."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Formula"],
+            "rows": [
+              ["**Basic**", "**Distance = Speed × Time**."],
+              ["**Unit conversion**", "km/h → m/s: **× 5/18**; m/s → km/h: **× 18/5**."],
+              ["**Average speed**", "Total distance / total time; for equal distances = **2xy/(x+y)**."],
+              ["**Relative speed**", "Same direction: **|a−b|**; opposite: **a+b**."],
+              ["**Boats & streams**", "Downstream = **b+s**; upstream = **b−s**."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**km/h to m/s: multiply by 5/18** (and reverse by 18/5).",
+              "Average speed for equal distances = **harmonic mean 2xy/(x+y)**, NOT the simple average."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Distance = Speed × Time**.",
+      "**km/h → m/s: × 5/18**; **m/s → km/h: × 18/5**.",
+      "Average speed (equal distances at x, y) = **2xy/(x+y)**.",
+      "**Relative speed** — same direction |a−b|, opposite a+b.",
+      "**Boats**: downstream = boat + stream; upstream = boat − stream.",
+      "Train crossing a pole: distance = **train length**; crossing a platform: **train + platform length**."
+    ],
+    "glossary": [
+      {"term": "Relative speed", "definition": "The speed of one moving object with respect to another (sum if opposite, difference if same direction)."},
+      {"term": "Average speed", "definition": "Total distance divided by total time; for equal distances it is the harmonic mean of the speeds."}
+    ]
+  }
+]
