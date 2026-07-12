@@ -1,0 +1,162 @@
+[
+  {
+    "code": "PRE-PII-ST-049",
+    "sections": [
+      {
+        "heading": "Climate change, international protocols & India's commitment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Climate change** — long-term shifts in temperature and weather driven by **greenhouse-gas emissions** — is the defining environmental challenge. It is addressed globally through **UNFCCC protocols** and India's own ambitious **net-zero and NDC commitments**."
+          },
+          {
+            "type": "table",
+            "headers": ["Milestone", "Detail"],
+            "rows": [
+              ["**UNFCCC (1992)**", "Rio; parent framework; annual **CoP** meetings; principle of **CBDR**."],
+              ["**Kyoto Protocol (1997)**", "Binding emission cuts for developed nations."],
+              ["**Paris Agreement (2015)**", "Limit warming **well below 2°C (aim 1.5°C)**; **NDCs** (nationally determined)."],
+              ["**IPCC**", "UN scientific body; assessment reports."],
+              ["**India's commitment**", "**Net-zero by 2070; Panchamrit (Glasgow CoP26); Mission LiFE; updated NDCs**."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**UNFCCC (1992, Rio)** — parent treaty; principle of **Common But Differentiated Responsibilities (CBDR)**.",
+      "**Kyoto Protocol (1997)** — binding cuts for developed nations; **Paris Agreement (2015)** — NDC-based.",
+      "**Paris goal** — limit warming **well below 2°C, aim 1.5°C**.",
+      "**IPCC** — UN's scientific body (Assessment Reports).",
+      "India — **net-zero by 2070**; **Panchamrit** (5 targets, Glasgow CoP26, 2021).",
+      "**Mission LiFE** (Lifestyle for Environment) — India's behavioural-change initiative.",
+      "**CoP** = Conference of Parties (annual UNFCCC summit)."
+    ],
+    "glossary": [
+      {"term": "UNFCCC", "definition": "The UN Framework Convention on Climate Change (1992), the parent climate treaty."},
+      {"term": "Paris Agreement", "definition": "The 2015 accord to limit warming below 2°C via nationally determined contributions."},
+      {"term": "Net-zero", "definition": "Balancing greenhouse gases emitted and removed; India's target year is 2070."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-050",
+    "sections": [
+      {
+        "heading": "Forest & wildlife — legal framework & conservation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India protects its **forests and wildlife** through dedicated laws and a network of **protected areas and species-conservation projects** — vital for biodiversity, climate and tribal livelihoods."
+          },
+          {
+            "type": "table",
+            "headers": ["Instrument", "Detail"],
+            "rows": [
+              ["**Wildlife Protection Act 1972**", "Protects species; creates national parks & sanctuaries; schedules by protection level."],
+              ["**Forest Conservation Act 1980**", "Restricts diversion of forest land."],
+              ["**Forest Rights Act 2006**", "Recognises forest-dwellers' & tribes' rights."],
+              ["**Protected areas**", "**National Parks, Wildlife Sanctuaries, Biosphere Reserves, Conservation/Community Reserves, Tiger Reserves**."],
+              ["**Species projects**", "**Project Tiger (1973), Project Elephant, Project Lion, Cheetah reintroduction**."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Wildlife (Protection) Act, 1972** — species protection; national parks/sanctuaries.",
+      "**Forest Conservation Act, 1980** — checks forest-land diversion.",
+      "**Forest Rights Act, 2006** — rights of forest-dwelling tribes.",
+      "**Project Tiger (1973)** — India holds ~**70% of the world's wild tigers**; **NTCA** manages tiger reserves.",
+      "**Project Elephant, Project Lion (Gir), Cheetah reintroduction (Kuno, 2022)**.",
+      "Protection hierarchy — **National Park > Wildlife Sanctuary**.",
+      "**IUCN Red List** & **CITES** guide species conservation."
+    ],
+    "glossary": [
+      {"term": "Wildlife Protection Act 1972", "definition": "India's principal law protecting wild species and creating protected areas."},
+      {"term": "Project Tiger", "definition": "The 1973 conservation programme that recovered India's tiger population."},
+      {"term": "Forest Rights Act", "definition": "The 2006 law recognising forest-dwelling communities' rights."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-051",
+    "sections": [
+      {
+        "heading": "Environmental hazards, pollution, carbon emission & global warming",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Pollution** — the contamination of air, water, soil and noise — and rising **carbon emissions** drive **global warming and health hazards**. Understanding pollutants, their sources and controls is central to environmental science."
+          },
+          {
+            "type": "table",
+            "headers": ["Type", "Detail"],
+            "rows": [
+              ["**Air pollution**", "**PM2.5/PM10, SO₂, NOₓ, CO, O₃**; measured by **AQI**; sources — vehicles, industry, stubble."],
+              ["**Water pollution**", "Sewage, industrial effluent, agrochemicals; indicators **BOD, COD**."],
+              ["**Greenhouse gases**", "**CO₂, methane (CH₄), N₂O, CFCs** → global warming."],
+              ["**Global warming**", "Rise in Earth's temperature from GHG-driven greenhouse effect."],
+              ["**Effects**", "Sea-level rise, extreme weather, glacial melt, health impacts."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Air pollutants — **PM2.5, PM10, SO₂, NOₓ, CO, ground-level ozone**; measured by the **Air Quality Index (AQI)**.",
+      "Water-quality indicators — **BOD (Biochemical Oxygen Demand), COD**.",
+      "Greenhouse gases — **CO₂, methane (CH₄), nitrous oxide, CFCs**; **CO₂** the largest contributor.",
+      "**Global warming** = temperature rise from an enhanced greenhouse effect.",
+      "**CFCs** deplete the **ozone layer** (Montreal Protocol).",
+      "**National Clean Air Programme (NCAP)** targets PM reduction.",
+      "**Methane** has a far higher warming potential than CO₂ per unit."
+    ],
+    "glossary": [
+      {"term": "AQI", "definition": "The Air Quality Index reporting daily air-pollution levels."},
+      {"term": "Greenhouse effect", "definition": "Warming from atmospheric gases trapping outgoing heat."},
+      {"term": "BOD", "definition": "Biochemical Oxygen Demand — a measure of organic water pollution."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-052",
+    "sections": [
+      {
+        "heading": "National action plans on climate change & disaster management",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "India tackles climate and disaster risk through the **National Action Plan on Climate Change (NAPCC, 2008)** with its eight missions, and a **disaster-management framework** under the **DM Act (2005) and NDMA** aligned with the global Sendai Framework."
+          },
+          {
+            "type": "table",
+            "headers": ["Framework", "Detail"],
+            "rows": [
+              ["**NAPCC (2008)**", "**8 national missions** — Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Himalayan Ecosystem, Green India, Sustainable Agriculture, Strategic Knowledge."],
+              ["**State plans**", "**SAPCC** — state action plans on climate change."],
+              ["**DM Act 2005**", "Created **NDMA (PM chairs), SDMA, DDMA**; NDRF."],
+              ["**Sendai Framework (2015-30)**", "Global disaster-risk-reduction blueprint."],
+              ["**Disaster types**", "Natural (cyclone, flood, earthquake, drought) & man-made."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**NAPCC (2008)** has **8 national missions** (Solar, Energy Efficiency, Water, Green India, Himalayan, Sustainable Habitat/Agriculture, Strategic Knowledge).",
+      "States prepare **SAPCC (State Action Plans on Climate Change)**.",
+      "**Disaster Management Act, 2005** created **NDMA (chaired by the PM)**, SDMA & DDMA.",
+      "**NDRF** — National Disaster Response Force; **NIDM** — training/research.",
+      "**Sendai Framework (2015-2030)** — global disaster-risk-reduction agreement.",
+      "AP is **cyclone-prone** — coastal disaster management is critical.",
+      "Disaster phases — **mitigation, preparedness, response, recovery**."
+    ],
+    "glossary": [
+      {"term": "NAPCC", "definition": "The National Action Plan on Climate Change (2008) with its eight national missions."},
+      {"term": "NDMA", "definition": "The National Disaster Management Authority, chaired by the Prime Minister."},
+      {"term": "Sendai Framework", "definition": "The 2015-2030 global framework for disaster-risk reduction."}
+    ]
+  }
+]
