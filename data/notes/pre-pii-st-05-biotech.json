@@ -1,0 +1,122 @@
+[
+  {
+    "code": "PRE-PII-ST-053",
+    "sections": [
+      {
+        "heading": "Biotechnology & nanotechnology — nature, scope & applications",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Biotechnology** uses living organisms/systems to make products and processes, while **nanotechnology** manipulates matter at the **atomic/molecular (nano) scale**. Both are transformative across health, agriculture, industry and the environment."
+          },
+          {
+            "type": "table",
+            "headers": ["Field", "Applications"],
+            "rows": [
+              ["**Medical biotech (red)**", "Vaccines, insulin, gene therapy, diagnostics, monoclonal antibodies."],
+              ["**Agricultural biotech (green)**", "**GM crops (Bt cotton), tissue culture, biofertilizers**."],
+              ["**Industrial (white) & environmental**", "Enzymes, biofuels, bioremediation."],
+              ["**Nanotechnology**", "1–100 nm scale; drug delivery, nano-materials, electronics, water purification."],
+              ["**Institutions**", "**DBT (Dept of Biotechnology); BIRAC; nano — Nano Mission**."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Biotechnology** — use of living systems to make products (colour codes: red-medical, green-agriculture, white-industrial, blue-marine).",
+      "**Bt cotton** — India's only approved commercial GM crop (uses Bacillus thuringiensis gene).",
+      "**Nanotechnology** works at the **1–100 nanometre** scale.",
+      "Applications — **vaccines, insulin, gene therapy, GM crops, drug delivery, water purification**.",
+      "**Department of Biotechnology (DBT)** & **BIRAC** promote biotech; **Nano Mission** for nanotech.",
+      "**PCR, recombinant DNA, CRISPR** are key biotech tools.",
+      "**Tissue culture** enables mass plant propagation."
+    ],
+    "glossary": [
+      {"term": "Biotechnology", "definition": "The use of living organisms or systems to develop products and processes."},
+      {"term": "Nanotechnology", "definition": "The manipulation of matter at the 1-100 nanometre scale."},
+      {"term": "Bt cotton", "definition": "A genetically modified cotton carrying a bacterial gene for pest resistance."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-054",
+    "sections": [
+      {
+        "heading": "Ethical, social & legal issues & government policies",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Biotechnology raises **ethical, social and legal (ELSI)** concerns — over GM foods, biosafety, gene editing, data privacy and equity — regulated in India by a framework of **biosafety rules and regulatory bodies**."
+          },
+          {
+            "type": "table",
+            "headers": ["Issue/Body", "Detail"],
+            "rows": [
+              ["**Ethical concerns**", "GM-food safety, gene editing of humans, cloning, designer babies, consent."],
+              ["**Social/legal**", "Biopiracy, farmers' rights, IPR/patents on life, biosafety."],
+              ["**GEAC**", "**Genetic Engineering Appraisal Committee** — approves GMO release (under MoEFCC)."],
+              ["**Regulation**", "**Biosafety rules (1989); proposed biotech regulator; Cartagena Protocol** (biosafety)."],
+              ["**Farmers' rights**", "**PPV&FR Act 2001** (plant variety & farmers' rights)."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**GEAC (Genetic Engineering Appraisal Committee)** — apex GMO regulator (under MoEFCC).",
+      "**Bt brinjal** — approval put under moratorium (2010) over safety concerns.",
+      "**Cartagena Protocol** — biosafety (safe transfer/handling of GMOs).",
+      "**PPV&FR Act, 2001** — protects plant varieties & **farmers' rights**.",
+      "Ethical issues — **GM safety, human gene editing, cloning, biopiracy**.",
+      "**Nagoya Protocol** — access & benefit-sharing of genetic resources.",
+      "**Biological Diversity Act 2002** guards against biopiracy."
+    ],
+    "glossary": [
+      {"term": "GEAC", "definition": "The Genetic Engineering Appraisal Committee, India's apex regulator for GMO release."},
+      {"term": "Biopiracy", "definition": "The unauthorised commercial exploitation of biological resources or traditional knowledge."},
+      {"term": "Cartagena Protocol", "definition": "The international agreement on the safe handling and transfer of GMOs."}
+    ]
+  },
+  {
+    "code": "PRE-PII-ST-055",
+    "sections": [
+      {
+        "heading": "Genetic engineering — issues & impact on human life, health & environment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Genetic engineering** directly modifies an organism's **DNA** to achieve desired traits. It powers advances in **medicine, agriculture and industry** — but its impact on **human health, the environment and ethics** is closely debated."
+          },
+          {
+            "type": "table",
+            "headers": ["Aspect", "Detail"],
+            "rows": [
+              ["**Techniques**", "**Recombinant DNA, PCR, gene cloning, CRISPR-Cas9 (gene editing)**."],
+              ["**Medical impact**", "**Gene therapy, insulin/vaccines, genetic diagnosis, personalised medicine**."],
+              ["**Agriculture**", "**GM crops** (pest/drought resistance, higher yield, biofortification — Golden Rice)."],
+              ["**Concerns — health**", "Allergenicity, antibiotic-resistance markers, long-term safety."],
+              ["**Concerns — environment**", "Gene flow to wild species, loss of biodiversity, superweeds/pests."]
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Recombinant DNA technology** = combining DNA from different sources (genetic engineering).",
+      "**CRISPR-Cas9** — precise gene-editing tool (Nobel Chemistry 2020).",
+      "**Gene therapy** treats disease by correcting faulty genes.",
+      "**Golden Rice** — genetically biofortified with **Vitamin A**.",
+      "Health concerns — **allergenicity, antibiotic-resistance markers**; environmental — **gene flow, biodiversity loss**.",
+      "**GM crops** in India — only **Bt cotton** is commercially approved.",
+      "**Human germline editing** is ethically restricted worldwide."
+    ],
+    "glossary": [
+      {"term": "Genetic engineering", "definition": "The direct modification of an organism's DNA to introduce desired traits."},
+      {"term": "CRISPR-Cas9", "definition": "A precise gene-editing technology (Nobel Prize 2020)."},
+      {"term": "Gene therapy", "definition": "Treating disease by correcting or replacing defective genes."}
+    ]
+  }
+]
