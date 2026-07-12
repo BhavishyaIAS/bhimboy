@@ -1,0 +1,142 @@
+[
+  {
+    "code": "PRE-PII-MPA-007",
+    "sections": [
+      {
+        "heading": "Clocks",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Clock problems** deal with the **angle between the hour and minute hands** and the **times they coincide, are opposite, or at right angles**. The minute hand moves 360° per hour; the hour hand 30° per hour — a relative speed of **5.5° per minute**."
+          },
+          {
+            "type": "table",
+            "headers": ["Fact", "Value"],
+            "rows": [
+              ["**Minute hand speed**", "6° per minute (360°/60)."],
+              ["**Hour hand speed**", "0.5° per minute (30°/60)."],
+              ["**Relative speed**", "**5.5° per minute** (minute gains on hour)."],
+              ["**Angle formula**", "**|30H – 5.5M|** degrees (H = hour, M = minutes)."],
+              ["**Hands coincide**", "**11 times in 12 hours** (every ~65 5⁄11 min)."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "**Angle = |30H − 5.5M|**; if >180°, subtract from 360°.",
+              "Hands **coincide (0°)**: 11 times/12 hrs; **opposite (180°)**: 11 times/12 hrs.",
+              "Hands are at **right angles (90°)**: 22 times/12 hrs.",
+              "A clock gaining/losing time: track **error per 12/24 hrs**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Angle between hands = **|30H − 5.5M|** degrees.",
+      "Minute hand = **6°/min**, hour hand = **0.5°/min**, relative = **5.5°/min**.",
+      "Hands **coincide 11 times / 12 hours** (22 times a day).",
+      "Hands at **90° → 22 times / 12 hours**; opposite (180°) → 11 times.",
+      "In **65 5⁄11 minutes** the hands coincide once.",
+      "A 'faulty' clock problem = compare gained/lost minutes over a period."
+    ],
+    "glossary": [
+      {"term": "Relative speed of hands", "definition": "The minute hand gains 5.5° per minute over the hour hand."},
+      {"term": "Coincidence of hands", "definition": "When both hands overlap (0° apart) — 11 times every 12 hours."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-008",
+    "sections": [
+      {
+        "heading": "Calendars",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Calendar problems** find the **day of the week** for a given date using **odd days** — the remainder days over complete weeks. Leap-year rules and month codes are the key tools."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Odd days**", "Remainder when total days ÷ 7."],
+              ["**Ordinary year**", "365 days = **1 odd day**."],
+              ["**Leap year**", "366 days = **2 odd days** (divisible by 4; century ÷ 400)."],
+              ["**100 years**", "**5 odd days**; 200 → 3; 300 → 1; 400 → 0."],
+              ["**Day count**", "Sun=0, Mon=1 … Sat=6 (from odd days)."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "A **leap year** is divisible by 4; centuries must be divisible by **400** (2000 is leap, 1900 is not).",
+              "Count total **odd days** up to the date, then map to a weekday.",
+              "**Same calendar** repeats after a cycle (e.g. usually 28, 6, 11 or 5 years apart).",
+              "A leap year adds **2 odd days**, an ordinary year **1**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Ordinary year = 1 odd day; leap year = 2 odd days**.",
+      "**Leap year** = divisible by 4; a **century** must be divisible by **400** (2000 leap; 1900 not).",
+      "Odd days in **100 yrs = 5, 200 = 3, 300 = 1, 400 = 0**.",
+      "Map odd days: **0=Sunday, 1=Monday … 6=Saturday**.",
+      "**Doomsday/reference-day** methods speed up day-finding.",
+      "A given calendar repeats after a fixed cycle of years."
+    ],
+    "glossary": [
+      {"term": "Odd days", "definition": "The days left over beyond complete weeks, used to find the weekday of a date."},
+      {"term": "Leap year", "definition": "A 366-day year (divisible by 4, centuries by 400) adding 2 odd days."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-009",
+    "sections": [
+      {
+        "heading": "Problems on ages",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Age problems** translate verbal statements about people's ages into **linear equations**. The key is defining a variable for the present age and expressing past/future ages by adding or subtracting years."
+          },
+          {
+            "type": "table",
+            "headers": ["Phrase", "Translation"],
+            "rows": [
+              ["**'x years ago'**", "Present age − x."],
+              ["**'x years hence/later'**", "Present age + x."],
+              ["**'A is twice B'**", "A = 2B."],
+              ["**Ratio of ages**", "Use a common multiplier (e.g. 3k and 5k)."],
+              ["**'Sum/difference of ages'**", "Age difference stays constant over time."]
+            ]
+          },
+          {
+            "type": "numbered",
+            "items": [
+              "Let the **present age = x** (or use ratio multiples).",
+              "Write **past = x − t** and **future = x + t**.",
+              "Form and solve the **linear equation(s)**.",
+              "Remember: the **difference between two ages never changes**."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "'**years ago**' → subtract; '**years hence**' → add.",
+      "The **difference between two people's ages is constant** over time.",
+      "For **ratio** ages, use a common multiplier (3k, 5k) and solve.",
+      "Translate each clause into an **equation**, then solve simultaneously.",
+      "Check the answer against **all** conditions in the problem."
+    ],
+    "glossary": [
+      {"term": "Linear equation", "definition": "An equation of the first degree used to model age relationships."},
+      {"term": "Age difference invariance", "definition": "The fact that the gap between two ages remains the same at all times."}
+    ]
+  }
+]
