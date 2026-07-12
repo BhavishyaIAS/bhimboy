@@ -1,0 +1,232 @@
+[
+  {
+    "code": "PRE-PII-MPA-029",
+    "sections": [
+      {
+        "heading": "Understanding & analysing emotions; dimensions of EI",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Emotional Intelligence (EI/EQ)** is the ability to **perceive, understand, manage and use emotions** — one's own and others'. Popularised by **Daniel Goleman**, it comprises five core dimensions and strongly predicts personal and professional success."
+          },
+          {
+            "type": "table",
+            "headers": ["Goleman's dimension", "Meaning"],
+            "rows": [
+              ["**Self-awareness**", "Recognising one's own emotions and their effects."],
+              ["**Self-regulation**", "Managing/controlling one's emotions and impulses."],
+              ["**Motivation**", "Inner drive to achieve beyond external rewards."],
+              ["**Empathy**", "Understanding others' emotions."],
+              ["**Social skills**", "Managing relationships, influence and teamwork."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**EI = self-awareness + self-regulation + motivation + empathy + social skills** (Goleman).",
+              "High EI aids leadership, decision-making and administrative service."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Emotional Intelligence (EI/EQ)** — perceiving, understanding, managing & using emotions.",
+      "**Daniel Goleman's 5 dimensions** — self-awareness, self-regulation, motivation, empathy, social skills.",
+      "**Salovey & Mayer** originated the EI concept; Goleman popularised it.",
+      "The **first two** dimensions are personal competencies; the **last two** are social.",
+      "High EI correlates with better leadership & interpersonal effectiveness.",
+      "EI is **learnable**, unlike IQ which is relatively fixed."
+    ],
+    "glossary": [
+      {"term": "Emotional Intelligence", "definition": "The ability to perceive, understand, manage and use emotions effectively."},
+      {"term": "Self-awareness", "definition": "Recognising one's own emotions and their impact — the first EI dimension."},
+      {"term": "Empathy", "definition": "The capacity to understand and share the feelings of others."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-030",
+    "sections": [
+      {
+        "heading": "Coping with emotions; empathy; coping with stress",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Coping** is managing emotional and stressful situations constructively. Building **empathy** and adopting healthy **stress-coping strategies** (problem-focused and emotion-focused) are core life skills — vital for administrators dealing with pressure and people."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Coping with emotions**", "Recognise → accept → regulate (not suppress) emotions."],
+              ["**Empathy**", "Cognitive (understanding) + affective (feeling with) + compassionate (helping)."],
+              ["**Problem-focused coping**", "Act on the stressor's cause (planning, problem-solving)."],
+              ["**Emotion-focused coping**", "Manage the emotional response (relaxation, reframing, support)."],
+              ["**Stress management**", "Exercise, mindfulness, time management, social support."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Problem-focused** = tackle the cause; **emotion-focused** = manage the feeling.",
+              "Empathy has cognitive, affective and compassionate components."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Two coping styles — **problem-focused** (change the situation) & **emotion-focused** (change the response).",
+      "**Empathy** = cognitive + affective + compassionate.",
+      "Healthy emotion regulation means **managing, not suppressing** feelings.",
+      "**Eustress** (positive) vs **distress** (negative) stress.",
+      "Stress-coping tools — **exercise, mindfulness, time management, social support**.",
+      "Emotional coping is a **learnable life skill** (WHO life-skills framework)."
+    ],
+    "glossary": [
+      {"term": "Problem-focused coping", "definition": "Managing stress by acting on its underlying cause."},
+      {"term": "Emotion-focused coping", "definition": "Managing stress by regulating the emotional response to it."},
+      {"term": "Eustress", "definition": "Positive, motivating stress, as opposed to harmful distress."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-031",
+    "sections": [
+      {
+        "heading": "Social intelligence & interpersonal skills",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Social intelligence** is the capacity to **understand and navigate social situations and relationships effectively**. It underlies **communication, teamwork, negotiation and leadership** — essential interpersonal skills for public service."
+          },
+          {
+            "type": "table",
+            "headers": ["Component", "Detail"],
+            "rows": [
+              ["**Social awareness**", "Reading social cues, situations and others' feelings."],
+              ["**Social facility**", "Interacting smoothly — presence, influence, concern."],
+              ["**Interpersonal skills**", "Communication, active listening, conflict resolution, teamwork."],
+              ["**Communication**", "Verbal + non-verbal (body language, tone); two-way."],
+              ["**Related**", "Complements EI; key for leadership & administration."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Social intelligence = **social awareness + social facility** (Goleman).",
+              "**Active listening** and empathy underpin good interpersonal skills."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Social intelligence** — ability to understand & manage social relationships (E.L. Thorndike coined the term).",
+      "Goleman splits it into **social awareness** & **social facility**.",
+      "Key interpersonal skills — **communication, active listening, empathy, conflict resolution, teamwork**.",
+      "Communication is **verbal + non-verbal (body language, tone)**.",
+      "Social intelligence **complements** emotional intelligence.",
+      "Vital for **leadership, negotiation and public administration**."
+    ],
+    "glossary": [
+      {"term": "Social intelligence", "definition": "The ability to understand and manage social situations and relationships."},
+      {"term": "Active listening", "definition": "Fully concentrating on, understanding and responding to a speaker."},
+      {"term": "Non-verbal communication", "definition": "Conveying meaning through body language, tone and expression rather than words."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-032",
+    "sections": [
+      {
+        "heading": "Decision making, critical thinking & problem solving",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Decision-making, critical thinking and problem-solving** are interlinked cognitive skills for choosing the best course of action. They follow a rational process of **defining the problem, generating and evaluating options, and choosing/implementing a solution**."
+          },
+          {
+            "type": "table",
+            "headers": ["Concept", "Detail"],
+            "rows": [
+              ["**Decision-making steps**", "Define problem → gather info → list alternatives → evaluate → decide → implement → review."],
+              ["**Critical thinking**", "Objective analysis, questioning assumptions, avoiding bias/fallacies."],
+              ["**Problem-solving**", "Systematic approach to overcome an obstacle to a goal."],
+              ["**Decision types**", "Rational, intuitive, ethical; individual vs group."],
+              ["**Biases to avoid**", "Confirmation bias, anchoring, groupthink, sunk-cost."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Follow the **rational decision cycle**: define → options → evaluate → decide → review.",
+              "**Critical thinking** guards against cognitive biases and logical fallacies."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "Rational decision cycle — **define → gather info → alternatives → evaluate → decide → implement → review**.",
+      "**Critical thinking** = objective, reasoned analysis free of bias.",
+      "Common biases — **confirmation, anchoring, groupthink, sunk-cost**.",
+      "Decision types — **rational, intuitive, ethical; individual vs group**.",
+      "**SWOT** (strengths, weaknesses, opportunities, threats) aids decisions.",
+      "Problem-solving and decision-making are core administrative competencies."
+    ],
+    "glossary": [
+      {"term": "Critical thinking", "definition": "Objective, reasoned analysis of information to form a judgement, free of bias."},
+      {"term": "Confirmation bias", "definition": "The tendency to favour information confirming one's existing beliefs."},
+      {"term": "Decision-making", "definition": "The process of selecting the best course of action among alternatives."}
+    ]
+  },
+  {
+    "code": "PRE-PII-MPA-033",
+    "sections": [
+      {
+        "heading": "Assessment of personality",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Personality** is the characteristic pattern of thoughts, feelings and behaviours that makes a person unique. It is assessed through **trait theories (Big Five), type theories, and psychometric tests** — relevant to self-awareness and administrative aptitude."
+          },
+          {
+            "type": "table",
+            "headers": ["Framework", "Detail"],
+            "rows": [
+              ["**Big Five (OCEAN)**", "**Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism** — the leading trait model."],
+              ["**Type theories**", "Jung's introvert/extrovert; **MBTI** (16 types)."],
+              ["**Assessment tools**", "Self-report inventories, projective tests (Rorschach, TAT), interviews."],
+              ["**Trait vs type**", "Traits = continuous dimensions; types = categories."],
+              ["**Determinants**", "Heredity + environment (nature & nurture)."]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Big Five = OCEAN** — the most validated personality model.",
+              "**Projective tests** (Rorschach inkblot, TAT) tap unconscious traits."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Big Five (OCEAN)** — Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.",
+      "**MBTI (Myers-Briggs)** — 16 personality types (based on Jung).",
+      "**Projective tests** — **Rorschach (inkblot), TAT (Thematic Apperception Test)**.",
+      "**Trait theories** treat personality as continuous dimensions; **type theories** as categories.",
+      "Personality is shaped by **heredity + environment**.",
+      "Self-report **inventories** are common psychometric tools."
+    ],
+    "glossary": [
+      {"term": "Big Five (OCEAN)", "definition": "The five-factor personality model: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism."},
+      {"term": "Projective test", "definition": "A personality assessment (e.g. Rorschach) revealing unconscious traits via ambiguous stimuli."},
+      {"term": "Trait theory", "definition": "The view that personality consists of measurable continuous dimensions (traits)."}
+    ]
+  }
+]
