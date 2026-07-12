@@ -1,0 +1,348 @@
+[
+  {
+    "code": "MN-LE-E-007",
+    "sections": [
+      {
+        "heading": "Precis writing (300 → 100 words)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "A **precis** is a concise summary — usually **one-third** of the original — capturing the **central idea and essential points** in your own words, without examples, repetition or personal opinion."
+          },
+          {
+            "type": "table",
+            "headers": ["Rule", "Guidance"],
+            "rows": [
+              ["**Length**", "About **one-third** of the original (e.g. 300→100 words)."],
+              ["**Content**", "Only the **main ideas**; omit examples, illustrations, repetition."],
+              ["**Own words**", "Paraphrase; don't copy sentences."],
+              ["**Tense/person**", "Usually **past tense, third person, indirect speech**."],
+              ["**Title**", "Give a short apt title."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Read twice**, underline key points, find the central theme.",
+              "Write a rough draft, then **cut to ~1/3** and count words.",
+              "Use **your own words**, third person, past tense; no new ideas.",
+              "Retain **coherence** — the precis must read smoothly on its own."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise reducing passages to one-third with only the main ideas, in your own words.",
+      "Master word-counting and coherent paraphrasing under time pressure."
+    ],
+    "glossary": [
+      {"term": "Precis", "definition": "A concise summary (about one-third) of a passage capturing its essential points."},
+      {"term": "Paraphrase", "definition": "Restating ideas in one's own words rather than copying."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-008",
+    "sections": [
+      {
+        "heading": "Reading comprehension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Reading comprehension** tests understanding of a passage — its **main idea, details, inference, vocabulary and tone**. Answers must be based **only on the passage**, in clear, correct language."
+          },
+          {
+            "type": "table",
+            "headers": ["Question type", "Approach"],
+            "rows": [
+              ["**Main idea**", "The central theme — usually in the first/last lines."],
+              ["**Factual/detail**", "Locate the exact statement in the passage."],
+              ["**Inference**", "What is implied (not stated) — reason from the text."],
+              ["**Vocabulary in context**", "Meaning as used in the passage."],
+              ["**Tone/purpose**", "Author's attitude (critical, neutral, persuasive)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Skim** for gist, then **scan** for specific answers.",
+              "Answer **only from the passage** — no outside knowledge.",
+              "For inference, stay close to what the text supports.",
+              "Answer in **your own words, briefly and correctly**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise skimming for gist and scanning for detail under time limits.",
+      "Answer main-idea, inference and vocabulary questions strictly from the passage."
+    ],
+    "glossary": [
+      {"term": "Inference", "definition": "A conclusion drawn from what a passage implies rather than states directly."},
+      {"term": "Skimming and scanning", "definition": "Reading quickly for gist (skim) then locating specific details (scan)."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-009",
+    "sections": [
+      {
+        "heading": "Tenses, voice, narration & sentence transformation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Core grammar for transformation questions covers **tenses, active/passive voice, direct/indirect narration and sentence conversion** (simple-compound-complex, degrees of comparison, etc.) — tested for accuracy."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Key rule"],
+            "rows": [
+              ["**Tenses**", "12 tenses; match time & aspect; sequence of tenses in complex sentences."],
+              ["**Voice**", "Active↔Passive: object becomes subject; verb → be + past participle; 'by' agent."],
+              ["**Narration**", "Direct↔Indirect: change pronouns, tense (back-shift), time/place words."],
+              ["**Transformation**", "Simple↔compound↔complex; affirmative↔negative; degrees of comparison."],
+              ["**Agreement**", "Subject-verb & pronoun agreement."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "In **passive voice**, the object becomes subject; verb = be + past participle.",
+              "In **indirect speech**, back-shift the tense and change pronouns/time words (now→then, today→that day).",
+              "Keep **subject-verb agreement** correct.",
+              "For transformation, preserve the **original meaning**."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Drill active↔passive and direct↔indirect transformations accurately.",
+      "Practise tense usage and sentence-type conversions preserving meaning."
+    ],
+    "glossary": [
+      {"term": "Passive voice", "definition": "A construction where the subject receives the action (object of the active becomes subject)."},
+      {"term": "Indirect narration", "definition": "Reporting speech without quotation, with back-shifted tense and changed pronouns."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-010",
+    "sections": [
+      {
+        "heading": "Articles, determiners, prepositions & phrasal verbs",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "These are high-frequency **usage** areas: correct use of **articles (a/an/the), determiners, prepositions and phrasal verbs** — often the difference between correct and incorrect sentences in fill-in and error-spotting tasks."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Key points"],
+            "rows": [
+              ["**Articles**", "'a/an' (indefinite, first mention, singular countable); 'the' (definite, specific); zero article for generals/uncountables."],
+              ["**Determiners**", "some/any, much/many, few/little, this/that, each/every."],
+              ["**Prepositions**", "in/on/at (time & place), by/with/for; idiomatic usage."],
+              ["**Phrasal verbs**", "verb + particle with special meaning (give up, look after, put off)."],
+              ["**Collocations**", "Words that go together (make a decision, do homework)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "'a/an' by **sound** (an hour, a university); 'the' for the specific/unique.",
+              "Learn **prepositions & phrasal verbs as fixed usage** — memorise, don't reason.",
+              "Watch **countable vs uncountable** for many/much, few/little.",
+              "Build a list of common **collocations** and error patterns."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Master article and preposition usage through practice, not translation.",
+      "Memorise common phrasal verbs and collocations for error-spotting/fill-ins."
+    ],
+    "glossary": [
+      {"term": "Article", "definition": "A word (a, an, the) that signals a noun's definiteness."},
+      {"term": "Phrasal verb", "definition": "A verb combined with a particle (up, off, after) forming a new meaning."},
+      {"term": "Collocation", "definition": "A habitual pairing of words (e.g. 'make a decision')."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-011",
+    "sections": [
+      {
+        "heading": "Idioms, administrative glossary, synonyms/antonyms, one-word substitution",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Vocabulary tasks** test **idioms, synonyms/antonyms, one-word substitutions and administrative/official terms** — the working vocabulary of clear, formal English used in governance."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Detail"],
+            "rows": [
+              ["**Idioms & phrases**", "Fixed expressions with figurative meaning (e.g. 'at the eleventh hour')."],
+              ["**Synonyms/Antonyms**", "Words of similar / opposite meaning."],
+              ["**One-word substitution**", "A single word for a phrase (e.g. 'that which cannot be avoided' = inevitable)."],
+              ["**Administrative glossary**", "Official terms — quorum, ex-officio, ad hoc, memorandum, gazette."],
+              ["**Register**", "Formal, precise word choice for official writing."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Build vocabulary by **reading and noting** words in context.",
+              "Learn **idioms and one-word substitutions in themed lists**.",
+              "Know common **administrative/legal terms** used in governance.",
+              "For synonyms/antonyms, mind the **exact shade** of meaning."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Build themed lists of idioms, one-word substitutions and administrative terms.",
+      "Practise synonym/antonym discrimination by exact meaning."
+    ],
+    "glossary": [
+      {"term": "One-word substitution", "definition": "A single word expressing the meaning of a phrase (e.g. inevitable)."},
+      {"term": "Administrative glossary", "definition": "The set of official/governance terms (quorum, ex-officio, gazette, etc.)."},
+      {"term": "Idiom", "definition": "A fixed expression whose meaning is figurative, not literal."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-012",
+    "sections": [
+      {
+        "heading": "Cohesive devices, affixes & confusable words",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Good writing uses **cohesive devices** (connectives) to link ideas, **affixes** (prefixes/suffixes) to form words, and correct use of **confusable words** (homonyms/homophones) to avoid error."
+          },
+          {
+            "type": "table",
+            "headers": ["Area", "Detail"],
+            "rows": [
+              ["**Cohesive devices**", "Linkers — however, therefore, moreover, in contrast, consequently, similarly."],
+              ["**Prefixes**", "un-, dis-, re-, pre-, mis-, over- (change meaning)."],
+              ["**Suffixes**", "-tion, -ness, -able, -ly (change word class)."],
+              ["**Homophones**", "Same sound, different spelling/meaning (their/there/they're; principal/principle)."],
+              ["**Homonyms**", "Same spelling, different meaning (bank, bark, spring)."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Use **connectives** to give writing coherence and flow.",
+              "Learn common **prefixes/suffixes** to decode and build words.",
+              "Master frequently confused pairs — **their/there, its/it's, affect/effect, principal/principle**.",
+              "Proofread for homophone slips."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Use cohesive devices to link paragraphs and ideas smoothly.",
+      "Master confusable words (homophones/homonyms) and common affixes."
+    ],
+    "glossary": [
+      {"term": "Cohesive device", "definition": "A connective word/phrase linking ideas for smooth, coherent writing."},
+      {"term": "Homophone", "definition": "A word pronounced like another but different in spelling/meaning (their/there)."},
+      {"term": "Affix", "definition": "A prefix or suffix added to a word to change its meaning or class."}
+    ]
+  },
+  {
+    "code": "MN-LE-E-013",
+    "sections": [
+      {
+        "heading": "Regional language → English translation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "**Translation from Telugu (regional language) to English** tests the ability to convey **meaning faithfully and idiomatically** — not word-for-word, but capturing sense, tone and register in correct English."
+          },
+          {
+            "type": "table",
+            "headers": ["Principle", "Guidance"],
+            "rows": [
+              ["**Sense over words**", "Translate the **meaning**, not literally word-by-word."],
+              ["**Idiom & register**", "Use natural English idiom; match the tone (formal/informal)."],
+              ["**Structure**", "Recast sentences to fit English syntax."],
+              ["**Culture-specific terms**", "Explain or find the nearest English equivalent."],
+              ["**Accuracy**", "No addition or omission of meaning; correct grammar."]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Tips",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Read the whole passage first to grasp **overall sense**.",
+              "Translate **meaning and tone**, not word-for-word.",
+              "Use **natural, correct English** with proper idiom.",
+              "Keep **fidelity** — don't add, omit or distort meaning."
+            ]
+          }
+        ]
+      }
+    ],
+    "mainsAngles": [
+      "Practise sense-for-sense (not literal) Telugu-to-English translation.",
+      "Convey tone, register and culture-specific terms accurately in natural English."
+    ],
+    "glossary": [
+      {"term": "Sense-for-sense translation", "definition": "Translating meaning and effect rather than word-for-word."},
+      {"term": "Register", "definition": "The level of formality/tone that a translation must preserve."}
+    ]
+  }
+]
