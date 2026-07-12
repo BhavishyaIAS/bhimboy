@@ -26,10 +26,7 @@ export default async function StudentLayout({
           </Link>
           <nav className="hidden items-center gap-1 sm:flex">
             <Button asChild variant="ghost" size="sm" className="rounded-full">
-              <Link href="/app/syllabus/appsc">APPSC</Link>
-            </Button>
-            <Button asChild variant="ghost" size="sm" className="rounded-full">
-              <Link href="/app/syllabus/upsc">UPSC</Link>
+              <Link href="/app/syllabus">Syllabus</Link>
             </Button>
             <Button asChild variant="ghost" size="sm" className="rounded-full">
               <Link href="/app/pyqs">PYQ Vault</Link>
@@ -64,10 +61,9 @@ export default async function StudentLayout({
 
       {/* Mobile bottom navigation */}
       <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-border/70 bg-background/92 backdrop-blur-md sm:hidden">
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-3">
           {[
-            { href: "/app/syllabus/appsc", label: "APPSC", icon: ListTree },
-            { href: "/app/syllabus/upsc", label: "UPSC", icon: ListTree },
+            { href: "/app/syllabus", label: "Syllabus", icon: ListTree },
             { href: "/app/pyqs", label: "PYQs", icon: FileQuestion },
             { href: "/app/search", label: "Search", icon: Search },
           ].map((item) => (
