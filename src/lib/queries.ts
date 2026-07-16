@@ -97,14 +97,14 @@ export async function getMicrothemeBySlug(
         .select("*")
         .eq("microtheme_id", mt.id)
         .order("sort_order"),
-      supabase
-        .from("prelims_questions")
-        .select("*")
-        .eq("microtheme_id", mt.id)
-        .order("year", { ascending: false }),
       // A question belongs here if this is its primary micro-theme
       // (microtheme_id) OR it lists this micro-theme's code as a secondary
       // placement in `keywords` (a question that straddles two themes).
+      supabase
+        .from("prelims_questions")
+        .select("*")
+        .or(`microtheme_id.eq.${mt.id},keywords.cs.{${mt.code}}`)
+        .order("year", { ascending: false }),
       supabase
         .from("mains_questions")
         .select("*")

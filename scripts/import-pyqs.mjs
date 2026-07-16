@@ -21,8 +21,16 @@
 //     "text": "Critically explain the salient features of urban planning ..."
 //   }
 //
+// Prelims (--type prelims) reads the same shape plus `answer` (and optional
+// `explanation`). APPSC releases prelims papers as FINAL KEY documents that
+// print only the correct answer under each question — the distractor options
+// are not published, and we never invent them. Such rows store the official
+// answer in option_a with option_b/c/d empty; the UI renders them as a
+// think-then-reveal card instead of a four-option MCQ.
+//
 // Usage:
 //   node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/2020-mains.json
+//   node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/2022-prelims.json --type prelims
 //   node --env-file=.env.local scripts/import-pyqs.mjs --file <path> --draft
 //
 // Requires NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY.
@@ -41,6 +49,12 @@ function argValue(flag) {
   return i !== -1 && process.argv[i + 1] ? process.argv[i + 1] : null;
 }
 const DRAFT = process.argv.includes("--draft");
+const TYPE = argValue("--type") ?? "mains";
+if (!["mains", "prelims"].includes(TYPE)) {
+  console.error(`Unknown --type "${TYPE}" (expected mains or prelims)`);
+  process.exit(1);
+}
+const TABLE = TYPE === "prelims" ? "prelims_questions" : "mains_questions";
 const fileArg = argValue("--file");
 if (!fileArg) {
   console.error("Missing --file <path to pyq json>");
@@ -100,21 +114,44 @@ async function main() {
     // Stable natural key so re-runs update rather than duplicate.
     const naturalKey = `${it.year}|${it.paper_label}|Q${it.no}${it.part ?? ""}`;
 
-    const row = {
-      microtheme_id,
-      year: it.year,
-      paper_label: it.paper_label,
-      question_text: it.text.trim(),
-      directive_word: it.directive_word ?? null,
-      marks: it.marks ?? null,
-      model_answer_text: it.model_answer_text ?? "",
-      keywords,
-      status,
-    };
+    if (TYPE === "prelims" && !(it.answer ?? "").trim() && !it.option_a) {
+      failed++;
+      console.error(`✗ ${naturalKey}: prelims item missing \`answer\``);
+      continue;
+    }
+
+    const row =
+      TYPE === "prelims"
+        ? {
+            microtheme_id,
+            year: it.year,
+            paper_label: it.paper_label,
+            question_text: it.text.trim(),
+            // Key-only source: official answer in option_a, no distractors.
+            option_a: (it.answer ?? "").trim(),
+            option_b: it.option_b ?? "",
+            option_c: it.option_c ?? "",
+            option_d: it.option_d ?? "",
+            correct_option: it.correct_option ?? "A",
+            explanation: it.explanation ?? null,
+            keywords,
+            status,
+          }
+        : {
+            microtheme_id,
+            year: it.year,
+            paper_label: it.paper_label,
+            question_text: it.text.trim(),
+            directive_word: it.directive_word ?? null,
+            marks: it.marks ?? null,
+            model_answer_text: it.model_answer_text ?? "",
+            keywords,
+            status,
+          };
 
     // Find an existing row with this natural key (same micro-theme + text head).
     const { data: existing } = await supabase
-      .from("mains_questions")
+      .from(TABLE)
       .select("id")
       .eq("year", it.year)
       .eq("paper_label", it.paper_label)
@@ -124,7 +161,7 @@ async function main() {
 
     if (existing) {
       const { error } = await supabase
-        .from("mains_questions")
+        .from(TABLE)
         .update(row)
         .eq("id", existing.id);
       if (error) {
@@ -134,7 +171,7 @@ async function main() {
         updated++;
       }
     } else {
-      const { error } = await supabase.from("mains_questions").insert(row);
+      const { error } = await supabase.from(TABLE).insert(row);
       if (error) {
         failed++;
         console.error(`✗ ${naturalKey}: ${error.message}`);

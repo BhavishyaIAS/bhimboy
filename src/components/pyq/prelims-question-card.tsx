@@ -3,9 +3,14 @@
 // Prelims PYQ with the answer-reveal interaction: options are shown,
 // the student picks one, then the correct answer + explanation appear.
 // Purely client-side; nothing is persisted (V1).
+//
+// Key-only mode: official APPSC "final key" papers publish each question
+// with only its correct answer (the distractor options are not released).
+// Those rows store the answer in option_a and leave b/c/d empty — the card
+// then renders a think-then-reveal flow instead of a four-option MCQ.
 import { useState } from "react";
 import Link from "next/link";
-import { Check, RotateCcw, X } from "lucide-react";
+import { Check, Eye, RotateCcw, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -43,6 +48,11 @@ export function PrelimsQuestionCard({
   showMicrothemeLink?: boolean;
 }) {
   const [selected, setSelected] = useState<CorrectOption | null>(null);
+  // Final-key papers publish only the correct answer; b/c/d stay empty.
+  const keyOnly =
+    !question.option_b.trim() &&
+    !question.option_c.trim() &&
+    !question.option_d.trim();
   const revealed = selected !== null;
 
   return (
@@ -62,6 +72,41 @@ export function PrelimsQuestionCard({
         {question.question_text}
       </p>
 
+      {keyOnly ? (
+        <div className="mt-3">
+          {!revealed ? (
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setSelected("A")}
+            >
+              <Eye className="mr-1.5 h-3.5 w-3.5" /> Reveal answer
+            </Button>
+          ) : (
+            <div className="rounded-lg border border-emerald-500 bg-emerald-50 p-3 text-sm dark:bg-emerald-950">
+              <p className="font-medium text-emerald-700 dark:text-emerald-400">
+                Answer
+              </p>
+              <p className="mt-1 whitespace-pre-wrap leading-6">
+                {question.option_a}
+              </p>
+              {question.explanation && (
+                <p className="mt-1.5 whitespace-pre-wrap leading-6 text-muted-foreground">
+                  {question.explanation}
+                </p>
+              )}
+              <Button
+                variant="ghost"
+                size="sm"
+                className="mt-2 h-7 px-2 text-xs"
+                onClick={() => setSelected(null)}
+              >
+                <RotateCcw className="mr-1 h-3 w-3" /> Hide
+              </Button>
+            </div>
+          )}
+        </div>
+      ) : (
       <div className="mt-3 space-y-2">
         {OPTION_KEYS.map(({ key, field }) => {
           const isCorrect = key === question.correct_option;
@@ -100,8 +145,9 @@ export function PrelimsQuestionCard({
           );
         })}
       </div>
+      )}
 
-      {revealed && (
+      {!keyOnly && revealed && (
         <div className="mt-3 rounded-lg bg-muted/60 p-3 text-sm">
           <p className="font-medium">
             {selected === question.correct_option ? (
