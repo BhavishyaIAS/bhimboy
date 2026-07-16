@@ -86,13 +86,29 @@ mapping and re-importing never creates duplicates.
 
 ### Mains
 
-| Year | File | Questions |
-|------|------|-----------|
-| 2020 | `2020-mains.json` | 129 (Essay + Papers II–V) |
-| 2023 | `2023-mains.json` | 129 (Essay + Papers II–V) |
-| 2025 | `2025-mains.json` | 129 (Essay + Papers II–V) |
-| 2016 | _pending upload_ | — |
-| 2017 | _pending upload_ | — |
+| Year | File | Questions | Model answers |
+|------|------|-----------|---------------|
+| 2020 | `2020-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2020-mains-answers.json` |
+| 2023 | `2023-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2023-mains-answers.json` |
+| 2025 | `2025-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2025-mains-answers.json` |
+| 2016 | _pending upload_ | — | — |
+| 2017 | _pending upload_ | — | — |
+
+## Model answers (Mains)
+
+Authored model answers live in `data/pyq/answers/<year>-mains-answers.json` as a
+map keyed by a **paper-qualified** question number (`P1-Q1a` … `P5-Q15b`, since
+question numbers repeat across the five papers). Each value is a Markdown-subset
+answer (`##` headings, `-`/`1.` lists, `**bold**`). They are attached to the
+existing `mains_questions` rows by `scripts/update-model-answers.mjs`, which
+converts the Markdown to a TipTap document (`model_answer`, rendered on the
+cards) and a plain-text mirror (`model_answer_text`, fed to search). It matches
+on (year, paper_label, question_text) and is idempotent — blanks are skipped, so
+files can be filled in incrementally.
+
+```bash
+node --env-file=.env.local scripts/update-model-answers.mjs --year 2020
+```
 
 ### Prelims (Paper-I, key-only)
 
