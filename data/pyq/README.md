@@ -64,5 +64,5 @@ mapping and re-importing never creates duplicates.
 | 2020 | `2020-mains.json` | 129 (Essay + Papers II–V) |
 | 2016 | _pending upload_ | — |
 | 2017 | _pending upload_ | — |
-| 2023 | _pending upload_ | — |
+| 2023 | `2023-mains.json` | 129 (Essay + Papers II–V) |
 | 2025 | _pending upload_ | — |
