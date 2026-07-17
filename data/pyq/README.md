@@ -110,11 +110,20 @@ files can be filled in incrementally.
 node --env-file=.env.local scripts/update-model-answers.mjs --year 2020
 ```
 
-### Prelims (Paper-I, key-only)
+### Prelims (Paper-I)
 
-| Year | File | Questions |
-|------|------|-----------|
-| 2018 | `2018-prelims.json` | 115 (5 deleted skipped) |
-| 2022 | `2022-prelims.json` | 114 (6 deleted skipped) |
-| 2016 | _pending — scanned image, OCR_ | — |
-| 2024 | _pending — scanned image, OCR_ | — |
+Two source shapes are supported:
+- **Key-only** (2018, 2022): the official FINAL KEY prints only the correct
+  answer. Stored with the answer in `option_a`, `option_b/c/d` empty; rendered
+  as a think-then-reveal card.
+- **Full MCQ** (2024): a full question paper with all four options and the
+  official correct answer (2024's answers were circled on the scan; transcribed
+  via vision as OCR was unusable). Stored as option_a..d + correct_option;
+  rendered as an interactive four-option MCQ.
+
+| Year | File | Questions | Format |
+|------|------|-----------|--------|
+| 2018 | `2018-prelims.json` | 115 (5 deleted skipped) | key-only |
+| 2022 | `2022-prelims.json` | 114 (6 deleted skipped) | key-only |
+| 2024 | `2024-prelims.json` | 118 (Q58, Q101 deleted) | full MCQ, official answers |
+| 2016 | _in progress — scanned, OCR'd; booklet has no answer key_ | — | full MCQ |
