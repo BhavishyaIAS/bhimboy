@@ -120,23 +120,44 @@ async function main() {
       continue;
     }
 
+    // Two prelims source shapes:
+    //  - Full MCQ (question paper): option_a..d + correct_option (A/B/C/D).
+    //  - Key-only (final-key paper): only `answer` (the correct option text);
+    //    stored in option_a with b/c/d empty so the card renders a reveal.
+    const fullMcq = it.option_a != null && it.option_b != null;
+    const prelimsRow = fullMcq
+      ? {
+          microtheme_id,
+          year: it.year,
+          paper_label: it.paper_label,
+          question_text: it.text.trim(),
+          option_a: (it.option_a ?? "").trim(),
+          option_b: (it.option_b ?? "").trim(),
+          option_c: (it.option_c ?? "").trim(),
+          option_d: (it.option_d ?? "").trim(),
+          correct_option: it.correct_option ?? "A",
+          explanation: it.explanation ?? null,
+          keywords,
+          status,
+        }
+      : {
+          microtheme_id,
+          year: it.year,
+          paper_label: it.paper_label,
+          question_text: it.text.trim(),
+          option_a: (it.answer ?? "").trim(),
+          option_b: it.option_b ?? "",
+          option_c: it.option_c ?? "",
+          option_d: it.option_d ?? "",
+          correct_option: it.correct_option ?? "A",
+          explanation: it.explanation ?? null,
+          keywords,
+          status,
+        };
+
     const row =
       TYPE === "prelims"
-        ? {
-            microtheme_id,
-            year: it.year,
-            paper_label: it.paper_label,
-            question_text: it.text.trim(),
-            // Key-only source: official answer in option_a, no distractors.
-            option_a: (it.answer ?? "").trim(),
-            option_b: it.option_b ?? "",
-            option_c: it.option_c ?? "",
-            option_d: it.option_d ?? "",
-            correct_option: it.correct_option ?? "A",
-            explanation: it.explanation ?? null,
-            keywords,
-            status,
-          }
+        ? prelimsRow
         : {
             microtheme_id,
             year: it.year,
