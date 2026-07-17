@@ -16,7 +16,6 @@ import { YouTubeEmbed } from "@/components/content/youtube-embed";
 import { PrelimsQuestionCard } from "@/components/pyq/prelims-question-card";
 import { MainsQuestionCard } from "@/components/pyq/mains-question-card";
 import { LeafDivider } from "@/components/decor/ornaments";
-import { AutumnScene } from "@/components/living/autumn-scene";
 import { CoverageChips } from "@/components/app/coverage-chips";
 import type { CorrectOption } from "@/lib/database.types";
 
@@ -50,10 +49,6 @@ export default async function MicrothemePage({
 
   return (
     <>
-      {/* The sparrow builds her nest while you build yours. Kept outside the
-          animated wrapper: a transformed ancestor would re-anchor the fixed
-          canvas away from the viewport. */}
-      <AutumnScene />
       <div className="mx-auto max-w-3xl animate-rise-in">
       {/* Breadcrumbs */}
       <nav className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground">
