@@ -116,14 +116,23 @@ Two source shapes are supported:
 - **Key-only** (2018, 2022): the official FINAL KEY prints only the correct
   answer. Stored with the answer in `option_a`, `option_b/c/d` empty; rendered
   as a think-then-reveal card.
-- **Full MCQ** (2024): a full question paper with all four options and the
-  official correct answer (2024's answers were circled on the scan; transcribed
-  via vision as OCR was unusable). Stored as option_a..d + correct_option;
-  rendered as an interactive four-option MCQ.
+- **Full MCQ** (2024, 2016): a full question paper with all four options.
+  - 2024's answers were circled on the scan (transcribed via vision, as OCR was
+    unusable).
+  - 2016's booklet carries no answer key, so the correct option for each
+    question was **determined from subject knowledge** and each row carries a
+    short `explanation` documenting the reasoning (admin can edit any of these
+    via the model-answer / question editor). Questions were transcribed
+    verbatim from a 300-dpi tesseract OCR, with diagram/match/chart-based items
+    (Q51 water-harvesting match, Q79-82 team puzzle, Q113 cube-fold, Q114
+    number-grid, Q117-120 bar chart) read directly from the page images.
+
+  Both are stored as option_a..d + correct_option and rendered as an
+  interactive four-option MCQ.
 
 | Year | File | Questions | Format |
 |------|------|-----------|--------|
 | 2018 | `2018-prelims.json` | 115 (5 deleted skipped) | key-only |
 | 2022 | `2022-prelims.json` | 114 (6 deleted skipped) | key-only |
 | 2024 | `2024-prelims.json` | 118 (Q58, Q101 deleted) | full MCQ, official answers |
-| 2016 | _in progress — scanned, OCR'd; booklet has no answer key_ | — | full MCQ |
+| 2016 | `2016-prelims.json` | 150 (Q1-150, full paper) | full MCQ, knowledge-determined answers |
