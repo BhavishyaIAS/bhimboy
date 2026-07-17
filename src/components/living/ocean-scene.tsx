@@ -49,16 +49,16 @@ interface OceanState {
   nextRainRipple: number;
 }
 
-// Sky palettes across the day — deep, never saturated.
-// [zenith, mid, horizon]
+// Sky palettes across the day — black to charcoal, with a red horizon
+// glow at dawn and dusk. [zenith, mid, horizon]
 const SKY: [number, string, string, string][] = [
-  [0.0, "#040b18", "#081527", "#0d2135"], // deep night
-  [0.23, "#0a1930", "#14304a", "#2c5568"], // pre-dawn
-  [0.32, "#123852", "#205970", "#3f7d88"], // dawn
-  [0.5, "#0e3350", "#1d5e73", "#2f7d84"], // day (kept oceanic, not bright)
-  [0.72, "#132a4a", "#274763", "#54626e"], // dusk
-  [0.85, "#081226", "#0e1e35", "#16293e"], // nightfall
-  [1.0, "#040b18", "#081527", "#0d2135"],
+  [0.0, "#0a0a0b", "#141215", "#1c1518"], // deep night
+  [0.23, "#121013", "#1e181c", "#331f26"], // pre-dawn
+  [0.32, "#1a1518", "#3a2228", "#7e2f38"], // dawn — red horizon
+  [0.5, "#1c1a1c", "#2a2226", "#582931"], // day (kept dark, red-tinted)
+  [0.72, "#181316", "#331f26", "#6e2b34"], // dusk — red
+  [0.85, "#0f0d10", "#181318", "#241820"], // nightfall
+  [1.0, "#0a0a0b", "#141215", "#1c1518"],
 ];
 
 function skyAt(phase: number): [string, string, string] {
@@ -70,7 +70,7 @@ function skyAt(phase: number): [string, string, string] {
       return [mixHex(a1, a2, t), mixHex(b1, b2, t), mixHex(c1, c2, t)];
     }
   }
-  return ["#040b18", "#081527", "#0d2135"];
+  return ["#0a0a0b", "#141215", "#1c1518"];
 }
 
 function nightness(phase: number): number {
@@ -148,7 +148,7 @@ function draw(f: SceneFrame, s: OceanState) {
       const tw =
         0.35 + 0.65 * s.noise.noise2(st.x * 0.05 + t * 0.35, st.phase);
       ctx.globalAlpha = night * 0.75 * tw;
-      ctx.fillStyle = "#dbe7f4";
+      ctx.fillStyle = "#ededed";
       ctx.fillRect(st.x, st.y, st.size, st.size);
     }
     ctx.globalAlpha = 1;
@@ -161,14 +161,14 @@ function draw(f: SceneFrame, s: OceanState) {
     const halo = ctx.createRadialGradient(
       moonX, moonY, 4, moonX, moonY, 90
     );
-    halo.addColorStop(0, `rgba(226,236,244,${0.5 * night})`);
-    halo.addColorStop(0.25, `rgba(210,225,238,${0.12 * night})`);
-    halo.addColorStop(1, "rgba(210,225,238,0)");
+    halo.addColorStop(0, `rgba(240,240,240,${0.5 * night})`);
+    halo.addColorStop(0.25, `rgba(224,224,224,${0.12 * night})`);
+    halo.addColorStop(1, "rgba(224,224,224,0)");
     ctx.fillStyle = halo;
     ctx.fillRect(moonX - 90, moonY - 90, 180, 180);
     ctx.beginPath();
     ctx.arc(moonX, moonY, 13, 0, Math.PI * 2);
-    ctx.fillStyle = `rgba(235,242,248,${0.85 * night + 0.1})`;
+    ctx.fillStyle = `rgba(246,246,246,${0.85 * night + 0.1})`;
     ctx.fill();
   }
 
@@ -186,9 +186,9 @@ function draw(f: SceneFrame, s: OceanState) {
   ctx.lineTo(0, h);
   ctx.closePath();
   const water = ctx.createLinearGradient(0, baseY - 10, 0, h);
-  water.addColorStop(0, mixHex("#12455a", "#0b2b40", night * 0.6));
-  water.addColorStop(0.5, mixHex("#0d3348", "#071e30", night * 0.6));
-  water.addColorStop(1, "#04121f");
+  water.addColorStop(0, mixHex("#241619", "#140d0f", night * 0.6));
+  water.addColorStop(0.5, mixHex("#180f11", "#0b0708", night * 0.6));
+  water.addColorStop(1, "#050405");
   ctx.fillStyle = water;
   ctx.fill();
 
@@ -198,7 +198,7 @@ function draw(f: SceneFrame, s: OceanState) {
   for (let x = step; x <= w + step; x += step) {
     ctx.lineTo(x, waterlineAt(x, t, wind, baseY, s.noise));
   }
-  ctx.strokeStyle = "rgba(214,236,240,0.28)";
+  ctx.strokeStyle = "rgba(236,236,236,0.26)";
   ctx.lineWidth = 1;
   ctx.stroke();
 
@@ -211,7 +211,7 @@ function draw(f: SceneFrame, s: OceanState) {
     const off = s.noise.snoise(i * 9.1, t * 0.32) * (8 + i * 1.4);
     ctx.globalAlpha =
       (night > 0.3 ? night : 0.35) * 0.16 * (1 - i / 18) * (0.4 + n);
-    ctx.strokeStyle = "#dfeef2";
+    ctx.strokeStyle = "#ececec";
     ctx.lineWidth = 1.3;
     ctx.beginPath();
     ctx.moveTo(lightX + off - len / 2, y);
@@ -225,7 +225,7 @@ function draw(f: SceneFrame, s: OceanState) {
     const gx = ((s.noise.noise2(i * 13.3, t * 0.05) * 1.3) % 1) * w;
     const gy = baseY + 4 + s.noise.noise2(i * 7.7, t * 0.11) * (h - baseY) * 0.5;
     ctx.globalAlpha = 0.1 + 0.12 * s.noise.noise2(i * 3.1, t * 0.9);
-    ctx.strokeStyle = "#cfe6ea";
+    ctx.strokeStyle = "#d94a50";
     ctx.beginPath();
     ctx.moveTo(gx - 7, gy);
     ctx.lineTo(gx + 7, gy);
@@ -265,7 +265,7 @@ function draw(f: SceneFrame, s: OceanState) {
     rp.life -= dt * 0.55;
     if (rp.life <= 0) continue;
     ctx.globalAlpha = rp.life * 0.35;
-    ctx.strokeStyle = "#d8ecef";
+    ctx.strokeStyle = "#e8e8e8";
     ctx.lineWidth = 1;
     ctx.beginPath();
     ctx.ellipse(rp.x, rp.y, rp.r, rp.r * 0.32, 0, 0, Math.PI * 2);
@@ -308,9 +308,9 @@ function draw(f: SceneFrame, s: OceanState) {
     const g = ctx.createRadialGradient(
       d.x - d.r * 0.3, d.y - d.r * 0.3, 0.2, d.x, d.y, d.r * 2.2
     );
-    g.addColorStop(0, "rgba(230,244,246,0.5)");
-    g.addColorStop(0.5, "rgba(190,220,228,0.16)");
-    g.addColorStop(1, "rgba(190,220,228,0)");
+    g.addColorStop(0, "rgba(242,242,242,0.5)");
+    g.addColorStop(0.5, "rgba(214,214,214,0.16)");
+    g.addColorStop(1, "rgba(214,214,214,0)");
     ctx.fillStyle = g;
     ctx.beginPath();
     ctx.arc(d.x, d.y, d.r * 2.2, 0, Math.PI * 2);
@@ -329,7 +329,7 @@ function draw(f: SceneFrame, s: OceanState) {
     const a =
       (0.05 + 0.16 * s.noise.noise2(m.phase * 3, t * 0.4)) * (1 + moteBoost);
     ctx.globalAlpha = a;
-    ctx.fillStyle = "#cfe8ec";
+    ctx.fillStyle = "#d98f93";
     ctx.beginPath();
     ctx.arc(m.x, m.y, m.size, 0, Math.PI * 2);
     ctx.fill();

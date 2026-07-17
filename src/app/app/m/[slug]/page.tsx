@@ -158,7 +158,7 @@ export default async function MicrothemePage({
         {prev ? (
           <Link
             href={`/app/m/${prev.slug}`}
-            className="group rounded-2xl border bg-card/80 p-4 transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.46_0.12_36/0.4)]"
+            className="group rounded-2xl border bg-card/80 p-4 transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.55_0.223_27/0.4)]"
           >
             <span className="flex items-center gap-1 text-xs text-muted-foreground">
               <ArrowLeft className="h-3 w-3 transition-transform group-hover:-translate-x-0.5" />{" "}
@@ -174,7 +174,7 @@ export default async function MicrothemePage({
         {next ? (
           <Link
             href={`/app/m/${next.slug}`}
-            className="group rounded-2xl border bg-card/80 p-4 text-right transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.46_0.12_36/0.4)]"
+            className="group rounded-2xl border bg-card/80 p-4 text-right transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_36px_-18px_oklch(0.55_0.223_27/0.4)]"
           >
             <span className="flex items-center justify-end gap-1 text-xs text-muted-foreground">
               The path continues{" "}

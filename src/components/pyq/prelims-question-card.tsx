@@ -83,8 +83,8 @@ export function PrelimsQuestionCard({
               <Eye className="mr-1.5 h-3.5 w-3.5" /> Reveal answer
             </Button>
           ) : (
-            <div className="rounded-lg border border-emerald-500 bg-emerald-50 p-3 text-sm dark:bg-emerald-950">
-              <p className="font-medium text-emerald-700 dark:text-emerald-400">
+            <div className="rounded-lg border border-foreground/30 bg-muted p-3 text-sm">
+              <p className="font-medium text-foreground">
                 Answer
               </p>
               <p className="mt-1 whitespace-pre-wrap leading-6">
@@ -120,16 +120,16 @@ export function PrelimsQuestionCard({
               className={cn(
                 "flex w-full items-start gap-2.5 rounded-lg border px-3 py-2.5 text-left text-sm transition-colors",
                 !revealed && "hover:border-primary/50 hover:bg-accent",
-                revealed && isCorrect && "border-emerald-500 bg-emerald-50 dark:bg-emerald-950",
-                revealed && isSelected && !isCorrect && "border-red-500 bg-red-50 dark:bg-red-950",
+                revealed && isCorrect && "border-foreground bg-muted",
+                revealed && isSelected && !isCorrect && "border-primary bg-accent",
                 revealed && !isSelected && !isCorrect && "opacity-60"
               )}
             >
               <span
                 className={cn(
                   "mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full border text-xs font-semibold",
-                  revealed && isCorrect && "border-emerald-600 bg-emerald-600 text-white",
-                  revealed && isSelected && !isCorrect && "border-red-600 bg-red-600 text-white"
+                  revealed && isCorrect && "border-foreground bg-foreground text-background",
+                  revealed && isSelected && !isCorrect && "border-primary bg-primary text-primary-foreground"
                 )}
               >
                 {revealed && isCorrect ? (
@@ -151,11 +151,11 @@ export function PrelimsQuestionCard({
         <div className="mt-3 rounded-lg bg-muted/60 p-3 text-sm">
           <p className="font-medium">
             {selected === question.correct_option ? (
-              <span className="text-emerald-700 dark:text-emerald-400">
+              <span className="font-semibold text-foreground">
                 Correct!
               </span>
             ) : (
-              <span className="text-red-700 dark:text-red-400">
+              <span className="text-primary">
                 Not quite — the answer is {question.correct_option}.
               </span>
             )}

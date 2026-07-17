@@ -101,7 +101,7 @@ export function NotesTab({
 
   const indicator: Record<SaveState, React.ReactNode> = {
     saved: (
-      <span className="flex items-center gap-1 text-emerald-600 dark:text-emerald-400">
+      <span className="flex items-center gap-1 text-foreground">
         <Check className="h-3.5 w-3.5" /> Saved
       </span>
     ),

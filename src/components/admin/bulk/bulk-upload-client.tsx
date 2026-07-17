@@ -247,7 +247,7 @@ export function BulkUploadClient() {
                     </TableCell>
                     <TableCell>
                       {r.errors.length === 0 ? (
-                        <CheckCircle2 className="h-4 w-4 text-emerald-600" />
+                        <CheckCircle2 className="h-4 w-4 text-foreground" />
                       ) : (
                         <XCircle className="h-4 w-4 text-destructive" />
                       )}
@@ -304,11 +304,11 @@ export function BulkUploadClient() {
       )}
 
       {committed && (
-        <div className="rounded-xl border border-emerald-300 bg-emerald-50 p-4 dark:border-emerald-800 dark:bg-emerald-950">
-          <p className="flex items-center gap-2 font-medium text-emerald-800 dark:text-emerald-200">
+        <div className="rounded-xl border border-border bg-muted p-4">
+          <p className="flex items-center gap-2 font-medium text-foreground">
             <CheckCircle2 className="h-5 w-5" /> Import finished
           </p>
-          <p className="mt-1 text-sm text-emerald-800/80 dark:text-emerald-200/80">
+          <p className="mt-1 text-sm text-muted-foreground">
             {committed.inserted} question{committed.inserted === 1 ? "" : "s"}{" "}
             imported{committed.failed > 0 && `, ${committed.failed} skipped`}.
           </p>

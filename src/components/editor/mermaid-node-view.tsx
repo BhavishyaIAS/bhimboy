@@ -29,7 +29,7 @@ export function MermaidNodeView({
     <NodeViewWrapper
       className={cn(
         "my-4 rounded-lg border",
-        selected && "ring-2 ring-blue-500/60"
+        selected && "ring-2 ring-primary/60"
       )}
       data-mermaid-node
     >
