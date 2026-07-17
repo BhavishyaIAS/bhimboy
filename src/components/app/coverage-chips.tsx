@@ -34,7 +34,7 @@ export function CoverageChips({
       {exam_overlap && (
         <Badge
           variant="outline"
-          className={`${cls} border-foreground/30 text-foreground`}
+          className={`${cls} border-emerald-300/60 text-emerald-700 dark:text-emerald-400`}
           title="Counts for both Prelims and Mains — study once, use twice"
         >
           P+M

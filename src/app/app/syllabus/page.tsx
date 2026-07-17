@@ -39,7 +39,7 @@ export default async function SyllabusExplorerPage() {
       </p>
       <p className="relative mt-2 text-xs text-muted-foreground">
         <span className="font-medium text-ember">core</span> = start here
-        (highest yield) · <span className="font-medium text-foreground">P+M</span>{" "}
+        (highest yield) · <span className="font-medium text-emerald-700">P+M</span>{" "}
         = counts for Prelims and Mains — study once, use twice · the clock is
         one honest sitting.
       </p>

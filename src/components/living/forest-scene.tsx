@@ -188,12 +188,12 @@ function drawButterfly(ctx: CanvasRenderingContext2D, x: number, y: number, flap
   ctx.translate(x, y);
   ctx.globalAlpha = alpha;
   const wing = Math.abs(Math.sin(flap)) * 0.85 + 0.15;
-  ctx.fillStyle = "#d81f26";
+  ctx.fillStyle = "#a16207";
   ctx.beginPath();
   ctx.ellipse(-3.4 * wing, 0, 4.4 * wing, 3.1, -0.5, 0, Math.PI * 2);
   ctx.ellipse(3.4 * wing, 0, 4.4 * wing, 3.1, 0.5, 0, Math.PI * 2);
   ctx.fill();
-  ctx.fillStyle = "#161616";
+  ctx.fillStyle = "#5b3a1e";
   ctx.fillRect(-0.7, -2.6, 1.4, 5.2);
   ctx.restore();
 }
@@ -240,11 +240,11 @@ function draw(f: SceneFrame, s: ForestState) {
   const { ctx, w, h, t, dt, wind, idle, events } = f;
   const noise = s.noise;
 
-  // a soft red-into-charcoal breath melting into the page
+  // morning-forest wash: a light emerald breath melting into the page
   const sky = ctx.createLinearGradient(0, 0, 0, h);
-  sky.addColorStop(0, "rgba(40,12,14,0.18)");
-  sky.addColorStop(0.26, "rgba(60,20,22,0.07)");
-  sky.addColorStop(0.5, "rgba(120,60,60,0.02)");
+  sky.addColorStop(0, "rgba(24,52,38,0.22)");
+  sky.addColorStop(0.26, "rgba(52,84,58,0.08)");
+  sky.addColorStop(0.5, "rgba(120,140,96,0.025)");
   sky.addColorStop(1, "rgba(0,0,0,0)");
   ctx.fillStyle = sky;
   ctx.fillRect(0, 0, w, h);
@@ -256,7 +256,7 @@ function draw(f: SceneFrame, s: ForestState) {
       (4 + wind * 10) *
       (c.layer + 1);
     ctx.globalAlpha = c.layer === 0 ? 0.09 : 0.055;
-    ctx.fillStyle = "#141414";
+    ctx.fillStyle = "#14301f";
     ctx.beginPath();
     ctx.ellipse(c.x + sway, c.y, c.r, c.r * 0.72, 0, 0, Math.PI * 2);
     ctx.fill();
@@ -268,8 +268,8 @@ function draw(f: SceneFrame, s: ForestState) {
     const baseX = w * (0.15 + i * 0.24);
     const drift = noise.snoise(i * 7.1, t * 0.02) * 40;
     const grad = ctx.createLinearGradient(baseX, 0, baseX + 90, h * 0.8);
-    grad.addColorStop(0, "rgba(245,245,245,0.07)");
-    grad.addColorStop(1, "rgba(245,245,245,0)");
+    grad.addColorStop(0, "rgba(240,224,170,0.07)");
+    grad.addColorStop(1, "rgba(240,224,170,0)");
     ctx.fillStyle = grad;
     ctx.beginPath();
     ctx.moveTo(baseX + drift - 12, 0);
@@ -282,9 +282,9 @@ function draw(f: SceneFrame, s: ForestState) {
 
   // mist band
   const mist = ctx.createLinearGradient(0, h * 0.2, 0, h * 0.5);
-  mist.addColorStop(0, "rgba(240,240,240,0)");
-  mist.addColorStop(0.5, `rgba(240,240,240,${0.07 + wind * 0.03})`);
-  mist.addColorStop(1, "rgba(240,240,240,0)");
+  mist.addColorStop(0, "rgba(228,232,218,0)");
+  mist.addColorStop(0.5, `rgba(228,232,218,${0.07 + wind * 0.03})`);
+  mist.addColorStop(1, "rgba(228,232,218,0)");
   ctx.fillStyle = mist;
   ctx.fillRect(0, h * 0.2, w, h * 0.3);
 
@@ -299,7 +299,7 @@ function draw(f: SceneFrame, s: ForestState) {
     }
     ctx.globalAlpha =
       (0.08 + 0.2 * noise.noise2(p.phase * 2, t * 0.5)) * richness;
-    ctx.fillStyle = "#e6e6e6";
+    ctx.fillStyle = "#e7d9a8";
     ctx.beginPath();
     ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
     ctx.fill();
@@ -308,8 +308,8 @@ function draw(f: SceneFrame, s: ForestState) {
 
   // ---- creatures: quiet silhouettes on the forest floor ----
   const floorY = h - 14;
-  ctx.fillStyle = "#161616";
-  ctx.strokeStyle = "#161616";
+  ctx.fillStyle = "#2b2a20";
+  ctx.strokeStyle = "#2b2a20";
 
   // deer — walks, stops, listens, moves again
   stepWalker(s.deer, dt, w, 90, s.rand, 0.12, [18, 50]);
@@ -360,7 +360,7 @@ function draw(f: SceneFrame, s: ForestState) {
   }
 
   // birds — some glide across, some vanish into the trees
-  ctx.strokeStyle = "#1a1a1a";
+  ctx.strokeStyle = "#2f3b2c";
   ctx.lineWidth = 1.6;
   for (const bd of s.birds) {
     if (!bd.active) {

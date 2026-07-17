@@ -21,7 +21,7 @@ export function SignupForm() {
   );
 
   return (
-    <Card className="w-full max-w-sm border-border/70 bg-card/85 shadow-[0_20px_60px_-24px_oklch(0.55_0.223_27/0.35)] backdrop-blur">
+    <Card className="w-full max-w-sm border-border/70 bg-card/85 shadow-[0_20px_60px_-24px_oklch(0.46_0.12_36/0.35)] backdrop-blur">
       <CardHeader>
         <CardTitle className="font-display text-2xl font-medium">
           Begin your journey

@@ -5,12 +5,12 @@
 import { cn } from "@/lib/utils";
 
 const COLORS = [
-  "#d81f26", // logo red
-  "#b81a20", // deep red
-  "#e0555b", // light red
-  "#8f1418", // dark red
-  "#1a1a1a", // near-black
-  "#5a5a5a", // grey
+  "#c2571b", // burnt saffron
+  "#d97706", // amber
+  "#a16207", // turmeric gold
+  "#9a3412", // ember
+  "#b45309", // ochre
+  "#7c2d12", // deep maroon
 ];
 
 // mulberry32 — tiny deterministic PRNG
