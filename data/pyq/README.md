@@ -91,8 +91,27 @@ mapping and re-importing never creates duplicates.
 | 2020 | `2020-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2020-mains-answers.json` |
 | 2023 | `2023-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2023-mains-answers.json` |
 | 2025 | `2025-mains.json` | 129 (Essay + Papers II–V) | ✅ `answers/2025-mains-answers.json` |
-| 2016 | _pending upload_ | — | — |
-| 2017 | _pending upload_ | — | — |
+| 2016 | _pending upload_ (full paper) | — | — |
+| 2017 | _pending upload_ (full paper) | — | — |
+
+### General Essay archive (2008–2024, APPSC + TGPSC)
+
+`essays-archive.json` holds General Essay topics from years whose **full mains
+papers are not ingested** — currently 52 questions across APPSC 2008 / 2011 /
+2012 / 2016 / 2017 and TGPSC 2016 / 2024 (TGPSC rows use the paper label
+`Paper-I: General Essay (TGPSC)` so the two boards' same-year papers stay
+distinct). All are mapped to the `MN-PI-ECB-*` essay banks. Model answers are
+authored fresh (never copied from compilations) in
+`answers/essays-archive-answers.json`, keyed `Q<no>` by the archive numbering,
+and attached by:
+
+```bash
+node --env-file=.env.local scripts/update-essay-answers.mjs
+```
+
+Topics 75–90 of the source compilation are pending (screenshots not yet
+received); add them to the archive + answers files and re-run the two
+importers when they arrive.
 
 ## Model answers (Mains)
 
