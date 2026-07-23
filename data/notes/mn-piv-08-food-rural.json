@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["PDS chain link", "Function & reform", "Issue"],
+            "headers": [
+              "PDS chain link",
+              "Function & reform",
+              "Issue"
+            ],
             "rows": [
-              ["Procurement (FCI + states)", "MSP-based, open-ended in surplus states", "Cereal-centric (rice-wheat), regionally skewed; fiscal cost (food subsidy ~₹2 lakh crore)"],
-              ["Storage & movement", "FCI depots, silo modernisation, OMSS releases", "Buffer norms vs actual stocks; wastage down but real"],
-              ["Distribution (FPS)", "**ePoS + Aadhaar authentication (~100% electronic)**, **ONORC portability (all states)**", "Authentication exclusions; ghost-card elimination (~4.7 crore deleted) cut leakage sharply from the ~40%+ era"],
-              ["Beneficiary base", "SECC-based identification; NFSA coverage frozen on 2011 census", "**Census delay excludes ~10 crore+ by updated population estimates** — the live equity critique"]
+              [
+                "Procurement (FCI + states)",
+                "MSP-based, open-ended in surplus states",
+                "Cereal-centric (rice-wheat), regionally skewed; fiscal cost (food subsidy ~₹2 lakh crore)"
+              ],
+              [
+                "Storage & movement",
+                "FCI depots, silo modernisation, OMSS releases",
+                "Buffer norms vs actual stocks; wastage down but real"
+              ],
+              [
+                "Distribution (FPS)",
+                "**ePoS + Aadhaar authentication (~100% electronic)**, **ONORC portability (all states)**",
+                "Authentication exclusions; ghost-card elimination (~4.7 crore deleted) cut leakage sharply from the ~40%+ era"
+              ],
+              [
+                "Beneficiary base",
+                "SECC-based identification; NFSA coverage frozen on 2011 census",
+                "**Census delay excludes ~10 crore+ by updated population estimates** — the live equity critique"
+              ]
             ]
           },
           {
@@ -61,6 +81,26 @@
             "text": "Exam tip: Sen's entitlement line + the census-freeze exclusion critique + APCNF as the AP showcase are the three highest-yield points. Always close sustainability answers on incentive design — pay for diversification, don't preach it."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — food security & sustainable agriculture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Three pillars (FAO):** **availability, access, absorption/utilisation** (plus stability). India's system: **MSP + FCI procurement + buffer stock + PDS/TPDS** delivered via the **NFSA 2013** (covers ~two-thirds of the population), **One Nation One Ration Card**, and **PMGKAY**.",
+              "**Nutrition security:** the shift from calorie to nutrition — **POSHAN Abhiyaan, fortification, PM POSHAN, anaemia-mukt Bharat**; India's rank on the Global Hunger Index and NFHS-5 stunting/wasting data are the critique anchors.",
+              "**Sustainable agriculture:** natural/organic farming (**AP's Andhra Pradesh Community-managed Natural Farming — APCNF/ZBNF — the world's largest agroecology programme**), micro-irrigation, PM-PRANAM (fertiliser rationalisation), millets ('Shree Anna', 2023 International Year of Millets), and climate-resilient crops.",
+              "**Way forward:** crop diversification away from water-guzzling paddy/sugarcane, soil-health cards, and balancing procurement-driven food security with ecological sustainability."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**NFSA, 2013** — legal right to subsidised foodgrains for ~67% of the population (75% rural, 50% urban).",
+          "**APCNF (Andhra Pradesh Community-managed Natural Farming)** — the world's largest natural-farming programme.",
+          "**2023** was the **International Year of Millets** ('Shree Anna')."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -81,12 +121,30 @@
       "Food security now fails at absorption, not availability — discuss the nutrition agenda from fortification to Poshan."
     ],
     "glossary": [
-      { "term": "Entitlement (Sen)", "definition": "The bundle of goods a person can command through production, exchange or transfer — famine strikes when entitlements collapse, even amid food abundance." },
-      { "term": "Buffer stock", "definition": "Government-held grain reserves for price stability and NFSA supply — managed by FCI against quarterly norms." },
-      { "term": "Open Market Sale Scheme", "definition": "FCI's release of surplus stocks into the market to moderate cereal prices." },
-      { "term": "Fortification", "definition": "Adding micronutrients (iron, folic acid, B12) to staples — rice fortification universalised across government schemes." },
-      { "term": "Natural farming", "definition": "Chemical-free agriculture using on-farm bio-inputs, mulching and diverse cropping — APCNF's community-extension version is India's flagship." },
-      { "term": "Crop diversification", "definition": "Shifting area from water-intensive cereals to pulses, millets, oilseeds and horticulture — the sustainability and nutrition pivot." }
+      {
+        "term": "Entitlement (Sen)",
+        "definition": "The bundle of goods a person can command through production, exchange or transfer — famine strikes when entitlements collapse, even amid food abundance."
+      },
+      {
+        "term": "Buffer stock",
+        "definition": "Government-held grain reserves for price stability and NFSA supply — managed by FCI against quarterly norms."
+      },
+      {
+        "term": "Open Market Sale Scheme",
+        "definition": "FCI's release of surplus stocks into the market to moderate cereal prices."
+      },
+      {
+        "term": "Fortification",
+        "definition": "Adding micronutrients (iron, folic acid, B12) to staples — rice fortification universalised across government schemes."
+      },
+      {
+        "term": "Natural farming",
+        "definition": "Chemical-free agriculture using on-farm bio-inputs, mulching and diverse cropping — APCNF's community-extension version is India's flagship."
+      },
+      {
+        "term": "Crop diversification",
+        "definition": "Shifting area from water-intensive cereals to pulses, millets, oilseeds and horticulture — the sustainability and nutrition pivot."
+      }
     ]
   },
   {
@@ -102,13 +160,37 @@
           },
           {
             "type": "table",
-            "headers": ["Rural transformation lever", "Programme", "Evidence note"],
+            "headers": [
+              "Rural transformation lever",
+              "Programme",
+              "Evidence note"
+            ],
             "rows": [
-              ["Connectivity", "**PMGSY**", "Roads raise non-farm employment, school continuation, prices realised — the multiplier champion"],
-              ["Livelihood diversification", "NRLM SHGs, DDU-GKY skilling, agri-allied value chains", "Rural non-farm income share now ~ half — 'rural' no longer equals 'agricultural'"],
-              ["Basic services", "JJM tap water, PMAY-G, SBM-G (ODF+), electrification", "Time-poverty and health channels to productivity"],
-              ["Digital & financial", "BharatNet, CSCs, IPPB, DBT rails", "Service delivery + market access at village point"],
-              ["Convergence governance", "Mission Antyodaya, GPDP planning, Aspirational Blocks (500)", "Data-ranked, gap-funded local planning — the design frontier"]
+              [
+                "Connectivity",
+                "**PMGSY**",
+                "Roads raise non-farm employment, school continuation, prices realised — the multiplier champion"
+              ],
+              [
+                "Livelihood diversification",
+                "NRLM SHGs, DDU-GKY skilling, agri-allied value chains",
+                "Rural non-farm income share now ~ half — 'rural' no longer equals 'agricultural'"
+              ],
+              [
+                "Basic services",
+                "JJM tap water, PMAY-G, SBM-G (ODF+), electrification",
+                "Time-poverty and health channels to productivity"
+              ],
+              [
+                "Digital & financial",
+                "BharatNet, CSCs, IPPB, DBT rails",
+                "Service delivery + market access at village point"
+              ],
+              [
+                "Convergence governance",
+                "Mission Antyodaya, GPDP planning, Aspirational Blocks (500)",
+                "Data-ranked, gap-funded local planning — the design frontier"
+              ]
             ]
           },
           {
@@ -152,6 +234,25 @@
             "text": "Exam tip: The rails-and-reasons formulation and the IRDP dead-cow lesson are memorable one-liners examiners reward. For AP, claim the SHG-linkage birthright (NABARD 1992) explicitly — it is the state's signature contribution to Indian development policy."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — rural development & financial inclusion",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Evolution of rural development:** **CDP (1952) → IRDP → SGSY → NRLM/DAY-NRLM**, plus **PMAY-G (housing), PMGSY (roads), Jal Jeevan Mission (tap water), SBM-G (sanitation), Mission Antyodaya (gap-filling convergence)**.",
+              "**Financial inclusion — the third leg:** **PMJDY** (crore-scale zero-balance accounts), **JAM trinity**, **BC/BF model**, **RRBs, cooperatives, SFBs, MUDRA loans, Stand-Up India**, and the **RBI Financial Inclusion Index**; **UPI** made India a global digital-payments leader.",
+              "**The credit gap:** small & marginal farmers and MSMEs still face a formal-credit shortfall; priority-sector lending, Kisan Credit Cards and account-aggregator rails are the responses.",
+              "**AP dimension:** dense SHG-bank linkage, Rythu Bharosa Kendras (farm service hubs), and near-universal Jan Dhan penetration."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**PMJDY (2014)** — financial-inclusion mission; opened the world's largest number of bank accounts.",
+          "**Jal Jeevan Mission** — 'Har Ghar Jal', functional tap-water connection to every rural household."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -172,12 +273,30 @@
       "Andhra Pradesh wrote the SHG chapter of Indian development — assess its financial-inclusion leadership and current frontiers."
     ],
     "glossary": [
-      { "term": "Convergence", "definition": "Aligning multiple schemes on one geography or household so investments complement rather than fragment — the integration principle." },
-      { "term": "Business Correspondent", "definition": "Agent-based branchless banking (kirana/CSC/SHG member with a micro-ATM) — the human last mile of financial access." },
-      { "term": "SHG-Bank Linkage", "definition": "NABARD's model of lending to self-help groups against group savings and joint liability — born in AP (1992), now nationwide." },
-      { "term": "Dormancy", "definition": "Opened but unused accounts — the gap between access and usage that DBT and UPI activation closed substantially." },
-      { "term": "One District One Product", "definition": "Cluster strategy branding and developing one signature product per district for scale, GI value and exports." },
-      { "term": "GPDP", "definition": "Gram Panchayat Development Plan — the village's own convergent plan, informed by Mission Antyodaya gap data." }
+      {
+        "term": "Convergence",
+        "definition": "Aligning multiple schemes on one geography or household so investments complement rather than fragment — the integration principle."
+      },
+      {
+        "term": "Business Correspondent",
+        "definition": "Agent-based branchless banking (kirana/CSC/SHG member with a micro-ATM) — the human last mile of financial access."
+      },
+      {
+        "term": "SHG-Bank Linkage",
+        "definition": "NABARD's model of lending to self-help groups against group savings and joint liability — born in AP (1992), now nationwide."
+      },
+      {
+        "term": "Dormancy",
+        "definition": "Opened but unused accounts — the gap between access and usage that DBT and UPI activation closed substantially."
+      },
+      {
+        "term": "One District One Product",
+        "definition": "Cluster strategy branding and developing one signature product per district for scale, GI value and exports."
+      },
+      {
+        "term": "GPDP",
+        "definition": "Gram Panchayat Development Plan — the village's own convergent plan, informed by Mission Antyodaya gap data."
+      }
     ]
   },
   {
@@ -193,14 +312,42 @@
           },
           {
             "type": "table",
-            "headers": ["Function", "Instrument (regime-neutral)", "Inclusion logic"],
+            "headers": [
+              "Function",
+              "Instrument (regime-neutral)",
+              "Inclusion logic"
+            ],
             "rows": [
-              ["Farm income floor", "Investment support ~₹20,000/yr (state top-up on PM-KISAN); free agri power; input subsidy via e-crop", "Cash + input security for small/tenant farmers (tenancy inclusion via crop-cultivator cards — the design differentiator)"],
-              ["Education demand-side", "Mother-linked school incentive; full fee reimbursement; infrastructure upgrades (Nadu-Nedu lineage)", "Cuts dropout via the mother's account; first-generation access to professional education"],
-              ["Health protection", "Aarogyasri network + family-doctor visits + free dialysis/transport (108/104)", "Catastrophic-cost shield + primary-care reach"],
-              ["Old-age/vulnerable floor", "~₹4,000/month pensions delivered at the door", "Adequacy + dignity-in-delivery benchmark for India"],
-              ["**PDS**", "Rice card near-universalism, **doorstep MDU delivery**, fortified rice, Anna canteens", "The NTR-₹2/kg tradition modernised"],
-              ["**DWCRA/SHG legacy**", "**DWCRA (1980s-90s undivided AP) → Velugu/SERP → 9+ lakh SHGs, ~1 crore women**; interest-free SHG loans (Sunna Vaddi), asset grants (Cheyutha-type)", "The women's-collective spine that delivers, monitors and politically anchors the whole model"]
+              [
+                "Farm income floor",
+                "Investment support ~₹20,000/yr (state top-up on PM-KISAN); free agri power; input subsidy via e-crop",
+                "Cash + input security for small/tenant farmers (tenancy inclusion via crop-cultivator cards — the design differentiator)"
+              ],
+              [
+                "Education demand-side",
+                "Mother-linked school incentive; full fee reimbursement; infrastructure upgrades (Nadu-Nedu lineage)",
+                "Cuts dropout via the mother's account; first-generation access to professional education"
+              ],
+              [
+                "Health protection",
+                "Aarogyasri network + family-doctor visits + free dialysis/transport (108/104)",
+                "Catastrophic-cost shield + primary-care reach"
+              ],
+              [
+                "Old-age/vulnerable floor",
+                "~₹4,000/month pensions delivered at the door",
+                "Adequacy + dignity-in-delivery benchmark for India"
+              ],
+              [
+                "**PDS**",
+                "Rice card near-universalism, **doorstep MDU delivery**, fortified rice, Anna canteens",
+                "The NTR-₹2/kg tradition modernised"
+              ],
+              [
+                "**DWCRA/SHG legacy**",
+                "**DWCRA (1980s-90s undivided AP) → Velugu/SERP → 9+ lakh SHGs, ~1 crore women**; interest-free SHG loans (Sunna Vaddi), asset grants (Cheyutha-type)",
+                "The women's-collective spine that delivers, monitors and politically anchors the whole model"
+              ]
             ]
           }
         ]
@@ -241,6 +388,24 @@
             "text": "Exam tip: The examiner asks 'AP schemes' but rewards the MODEL — four pillars, DWCRA lineage, saturation logic, and the honest bills. One paragraph of achievements, one of costs, one line of verdict: that's the top-band shape."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — AP's saturation-DBT model, weighed",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The model:** universal/near-universal **saturation** of welfare via **DBT** — education support, farmer income support, pensions, women- and child-focused transfers — delivered through the **Village/Ward Secretariat + Volunteer** last-mile grid (one volunteer per ~50 households).",
+              "**Its power:** minimal leakage (Aadhaar-DBT), speed, transparency, strong human-development and grievance-redress outcomes, and deep last-mile penetration — a nationally studied delivery innovation.",
+              "**Its bills:** heavy **revenue-expenditure and borrowing** load, crowding out capital investment; sustainability depends on own-revenue growth and expenditure quality.",
+              "**Balanced verdict:** an outstanding delivery architecture whose fiscal sustainability is the open question — welfare depth vs capex and debt is AP's defining economic trade-off."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "'Andhra Pradesh's saturation-DBT model is a delivery triumph and a fiscal test' — critically evaluate."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -260,12 +425,30 @@
       "Transfers stabilise, jobs transform — what must accompany AP's welfare model for genuine inclusive growth?"
     ],
     "glossary": [
-      { "term": "DWCRA", "definition": "1980s IRDP sub-scheme organising rural women's income groups — the seed of AP's SHG movement and cultural shorthand for women's collectives in the state." },
-      { "term": "Saturation DBT", "definition": "Calendarised direct transfers to every eligible beneficiary without phased targeting — AP welfare's operating system." },
-      { "term": "Crop Cultivator Rights card", "definition": "AP's 2019 instrument recognising tenant cultivators for benefits and credit without affecting owner title — tenancy-inclusion by design." },
-      { "term": "Mobile Dispensing Unit", "definition": "Vehicle-based doorstep delivery of PDS rations — AP's 2021 innovation in distribution dignity." },
-      { "term": "Graduation problem", "definition": "The challenge of moving households from transfer-supported floors to self-sustaining incomes — welfare's unfinished half." },
-      { "term": "Function-first analysis", "definition": "Describing schemes by what they do rather than their (changing) names — the regime-proof way to study state welfare." }
+      {
+        "term": "DWCRA",
+        "definition": "1980s IRDP sub-scheme organising rural women's income groups — the seed of AP's SHG movement and cultural shorthand for women's collectives in the state."
+      },
+      {
+        "term": "Saturation DBT",
+        "definition": "Calendarised direct transfers to every eligible beneficiary without phased targeting — AP welfare's operating system."
+      },
+      {
+        "term": "Crop Cultivator Rights card",
+        "definition": "AP's 2019 instrument recognising tenant cultivators for benefits and credit without affecting owner title — tenancy-inclusion by design."
+      },
+      {
+        "term": "Mobile Dispensing Unit",
+        "definition": "Vehicle-based doorstep delivery of PDS rations — AP's 2021 innovation in distribution dignity."
+      },
+      {
+        "term": "Graduation problem",
+        "definition": "The challenge of moving households from transfer-supported floors to self-sustaining incomes — welfare's unfinished half."
+      },
+      {
+        "term": "Function-first analysis",
+        "definition": "Describing schemes by what they do rather than their (changing) names — the regime-proof way to study state welfare."
+      }
     ]
   }
 ]

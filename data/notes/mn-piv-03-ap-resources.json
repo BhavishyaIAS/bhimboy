@@ -12,14 +12,42 @@
           },
           {
             "type": "table",
-            "headers": ["Promise", "Source", "Status — the honest scorecard"],
+            "headers": [
+              "Promise",
+              "Source",
+              "Status — the honest scorecard"
+            ],
             "rows": [
-              ["**Special Category Status**", "PM's assurance on the **Rajya Sabha floor (20 Feb 2014)** — not in the Act itself", "**Not granted**; Centre offered a 'special package' (2016) of equivalent assistance instead; 14th FC's dropping of the SCS category cited — the running political-fiscal dispute"],
-              ["**Revenue-deficit compensation**", "**Sec 46**: standardised support for the first year's resource gap", "Partially paid; AP claims a large unpaid balance (thousands of crores) based on CAG-audited gap vs Centre's assessed figure — a live Centre-state accounting dispute"],
-              ["**Polavaram national project**", "**Sec 90**: declared national project; Centre to execute & fund", "Centre funds via PPA; cost-revision disputes (2013-14 price level vs revised estimates), R&R funding gaps, diaphragm-wall damage; commissioning repeatedly rescheduled — partially fulfilled, heavily delayed"],
-              ["**Institutions (Schedule 13)**", "IIT Tirupati, IIM Visakhapatnam, NIT (Tadepalligudem), IIIT Kurnool, Central University (Anantapur), IISER Tirupati, AIIMS Mangalagiri, agri & petroleum universities, tribal university", "Largely **delivered** — most established and functioning (some on transit campuses for years); Vizag railway zone (**South Coast Railway**) sanctioned 2019, operationalisation dragged"],
-              ["**Industrial incentives & backward-area grants**", "Sec 94: tax incentives; special development package for **7 backward districts of Rayalaseema + north-coastal AP** (₹50 cr/district/year pattern)", "Partially paid; AP claims arrears; incentives modest relative to the Hyderabad-loss scale"],
-              ["**Infrastructure list**", "Sec 93/Schedule: metro rail examinations, ports (Duggirajupatnam), refinery/petrochemicals (Kakinada zone), airports", "Mixed: some examined and dropped as unviable, others (petro corridor) slow — the weakest basket"]
+              [
+                "**Special Category Status**",
+                "PM's assurance on the **Rajya Sabha floor (20 Feb 2014)** — not in the Act itself",
+                "**Not granted**; Centre offered a 'special package' (2016) of equivalent assistance instead; 14th FC's dropping of the SCS category cited — the running political-fiscal dispute"
+              ],
+              [
+                "**Revenue-deficit compensation**",
+                "**Sec 46**: standardised support for the first year's resource gap",
+                "Partially paid; AP claims a large unpaid balance (thousands of crores) based on CAG-audited gap vs Centre's assessed figure — a live Centre-state accounting dispute"
+              ],
+              [
+                "**Polavaram national project**",
+                "**Sec 90**: declared national project; Centre to execute & fund",
+                "Centre funds via PPA; cost-revision disputes (2013-14 price level vs revised estimates), R&R funding gaps, diaphragm-wall damage; commissioning repeatedly rescheduled — partially fulfilled, heavily delayed"
+              ],
+              [
+                "**Institutions (Schedule 13)**",
+                "IIT Tirupati, IIM Visakhapatnam, NIT (Tadepalligudem), IIIT Kurnool, Central University (Anantapur), IISER Tirupati, AIIMS Mangalagiri, agri & petroleum universities, tribal university",
+                "Largely **delivered** — most established and functioning (some on transit campuses for years); Vizag railway zone (**South Coast Railway**) sanctioned 2019, operationalisation dragged"
+              ],
+              [
+                "**Industrial incentives & backward-area grants**",
+                "Sec 94: tax incentives; special development package for **7 backward districts of Rayalaseema + north-coastal AP** (₹50 cr/district/year pattern)",
+                "Partially paid; AP claims arrears; incentives modest relative to the Hyderabad-loss scale"
+              ],
+              [
+                "**Infrastructure list**",
+                "Sec 93/Schedule: metro rail examinations, ports (Duggirajupatnam), refinery/petrochemicals (Kakinada zone), airports",
+                "Mixed: some examined and dropped as unviable, others (petro corridor) slow — the weakest basket"
+              ]
             ]
           }
         ]
@@ -59,6 +87,25 @@
             "text": "Exam tip: Date-stamp the SCS assurance (Rajya Sabha, 20 Feb 2014) and cite Sections 46, 90, 93-94 & Schedule 13 — statutory precision is what separates an APPSC topper's answer on this, the most predictable AP question of all."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the Reorganisation Act promises, tracked",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The 13th Schedule commitments:** national institutions — **IIT Tirupati, IIM Visakhapatnam, NIT AP (Tadepalligudem), Central University (Anantapur), IIIT, AIIMS Mangalagiri, IISER Tirupati, NIDM, Central Institute** — largely established, though with funding and campus delays.",
+              "**Big-ticket promises & the conflict:** **Special Category Status** (assured on the RS floor, 2014; denied after the 14th FC, offered a 'special package' instead), **revenue-deficit grant**, **Polavaram** (declared a national project — reimbursement disputes over the ₹ component and irrigation vs drinking-water cost split), and backward-district support for **Rayalaseema & north-coastal AP**.",
+              "**The capital question:** the Act left AP without a capital; the Amaravati greenfield-capital effort and central support for a new capital remain contested and under-resourced.",
+              "**Verdict:** partial fulfilment; the SCS and Polavaram funding gaps are the sharpest Union–State grievances — the model 'trust-deficit' case study for Paper-III federalism too."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Polavaram Project** declared a **national project** under the AP Reorganisation Act, 2014.",
+          "13th Schedule institutions include **IIT Tirupati, IIM Visakhapatnam, AIIMS Mangalagiri, Central University of AP (Anantapur)**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -78,11 +125,26 @@
       "Suggest an institutional mechanism to arbitrate Centre-state financial disputes arising from state reorganisations."
     ],
     "glossary": [
-      { "term": "Special Category Status", "definition": "Erstwhile classification entitling states to higher central-assistance grants (90:10 CSS sharing); discontinued as a general category after the 14th FC — AP's central demand since 2014." },
-      { "term": "Section 46 support", "definition": "The Reorganisation Act's provision for the Centre to bridge residual AP's first-year revenue gap — the disputed 'revenue deficit funding'." },
-      { "term": "Polavaram Project Authority", "definition": "Central authority created under the Act to oversee the national-project execution of the Polavaram multipurpose dam." },
-      { "term": "Externally Aided Project route", "definition": "Channel by which the 2016 special package promised SCS-equivalent benefits through multilateral loan-financed projects with central repayment." },
-      { "term": "Schedule 13", "definition": "The Act's list of national institutions and infrastructure to be established in the successor states — the best-delivered basket." }
+      {
+        "term": "Special Category Status",
+        "definition": "Erstwhile classification entitling states to higher central-assistance grants (90:10 CSS sharing); discontinued as a general category after the 14th FC — AP's central demand since 2014."
+      },
+      {
+        "term": "Section 46 support",
+        "definition": "The Reorganisation Act's provision for the Centre to bridge residual AP's first-year revenue gap — the disputed 'revenue deficit funding'."
+      },
+      {
+        "term": "Polavaram Project Authority",
+        "definition": "Central authority created under the Act to oversee the national-project execution of the Polavaram multipurpose dam."
+      },
+      {
+        "term": "Externally Aided Project route",
+        "definition": "Channel by which the 2016 special package promised SCS-equivalent benefits through multilateral loan-financed projects with central repayment."
+      },
+      {
+        "term": "Schedule 13",
+        "definition": "The Act's list of national institutions and infrastructure to be established in the successor states — the best-delivered basket."
+      }
     ]
   },
   {
@@ -98,14 +160,42 @@
           },
           {
             "type": "table",
-            "headers": ["External-assistance projects (illustrative)", "Financier", "Purpose"],
+            "headers": [
+              "External-assistance projects (illustrative)",
+              "Financier",
+              "Purpose"
+            ],
             "rows": [
-              ["**Amaravati capital city development** (revived 2024)", "**World Bank + ADB (~$800 mn each, ~₹15,000 cr programme)**", "Trunk infrastructure of the capital — the flagship EAP"],
-              ["Polavaram (national project)", "Centre (PPA); earlier NABARD-LTIF window", "Irrigation-power-drinking water multipurpose"],
-              ["AP roads & bridges reconstruction", "World Bank/ADB/NDB lines", "Core network upgrades, disaster-resilient roads"],
-              ["Health-systems strengthening; urban water", "World Bank/AIIB windows", "PHC networks, 24x7 water supply pilots"],
-              ["Energy efficiency & solar parks", "KfW/GCF/ISA-linked finance", "Kurnool/NP Kunta ultra-mega solar parks ecosystem"],
-              ["JICA lines (horticulture, forestry)", "JICA", "Value chains and eco-restoration"]
+              [
+                "**Amaravati capital city development** (revived 2024)",
+                "**World Bank + ADB (~$800 mn each, ~₹15,000 cr programme)**",
+                "Trunk infrastructure of the capital — the flagship EAP"
+              ],
+              [
+                "Polavaram (national project)",
+                "Centre (PPA); earlier NABARD-LTIF window",
+                "Irrigation-power-drinking water multipurpose"
+              ],
+              [
+                "AP roads & bridges reconstruction",
+                "World Bank/ADB/NDB lines",
+                "Core network upgrades, disaster-resilient roads"
+              ],
+              [
+                "Health-systems strengthening; urban water",
+                "World Bank/AIIB windows",
+                "PHC networks, 24x7 water supply pilots"
+              ],
+              [
+                "Energy efficiency & solar parks",
+                "KfW/GCF/ISA-linked finance",
+                "Kurnool/NP Kunta ultra-mega solar parks ecosystem"
+              ],
+              [
+                "JICA lines (horticulture, forestry)",
+                "JICA",
+                "Value chains and eco-restoration"
+              ]
             ]
           },
           {
@@ -149,6 +239,26 @@
             "text": "Exam tip: This theme is three mini-essays (debt, EAPs, natural resources) — prepare each as a 150-word module with one table-fact and one critique, and you can assemble any 10/15-marker the paper throws."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — debt sustainability & the resource endowment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Debt sustainability test (Domar):** debt is sustainable if the nominal growth rate exceeds the effective interest rate (**g > r**); AP's rising **debt-to-GSDP** ratio and off-budget liabilities have drawn CAG and RBI-State-Finances scrutiny.",
+              "**The mineral ledger:** AP is rich in **limestone, barytes (Mangampet — among the world's largest deposits), heavy mineral beach sands (ilmenite, garnet, monazite), mica, dolomite, and granite/quartz**; coastal AP hosts oil & gas (KG basin).",
+              "**Forest & bio-resources:** Eastern Ghats forests, the Nallamala and agency areas — biodiversity and NTFP wealth, but also the tension of mining vs Fifth-Schedule tribal rights (FRA 2006).",
+              "**Way forward:** monetise mineral wealth transparently (District Mineral Foundation funds for local development), control off-budget borrowing, and improve capital-expenditure quality to grow out of the debt trap."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Mangampet (Kadapa/YSR district)** — one of the world's largest **barytes** deposits.",
+          "**KG (Krishna–Godavari) basin** — major offshore oil & natural gas reserves off AP's coast.",
+          "**District Mineral Foundation (DMF)** — funded by mining royalties for the welfare of mining-affected areas."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -170,12 +280,30 @@
       "Design a responsible resource-mobilisation strategy for AP that balances extraction, tribal rights and ecology."
     ],
     "glossary": [
-      { "term": "State Development Loans", "definition": "Market securities through which states borrow — the dominant component of state debt, auctioned by the RBI." },
-      { "term": "District Mineral Foundation", "definition": "Statutory trust in mining districts funded by royalty-linked contributions for affected communities (PMKKKY works)." },
-      { "term": "Samatha judgment", "definition": "1997 SC ruling barring transfer/lease of government land in Scheduled Areas to non-tribals or private companies for mining — 'government' includes its instrumentalities narrowly." },
-      { "term": "Non-Timber Forest Produce", "definition": "Forest goods other than timber (tendu, bamboo, gum, honey) — the livelihood backbone of tribal households; GCC's monopoly domain in AP's agency." },
-      { "term": "Externally Aided Project", "definition": "State project financed by multilateral/bilateral loans routed back-to-back through the Centre — long tenor, low cost, tied to project milestones." },
-      { "term": "Guarantee (fiscal)", "definition": "State's promise to service a corporation's debt on default — a contingent liability that CAG insists be counted in true debt burden." }
+      {
+        "term": "State Development Loans",
+        "definition": "Market securities through which states borrow — the dominant component of state debt, auctioned by the RBI."
+      },
+      {
+        "term": "District Mineral Foundation",
+        "definition": "Statutory trust in mining districts funded by royalty-linked contributions for affected communities (PMKKKY works)."
+      },
+      {
+        "term": "Samatha judgment",
+        "definition": "1997 SC ruling barring transfer/lease of government land in Scheduled Areas to non-tribals or private companies for mining — 'government' includes its instrumentalities narrowly."
+      },
+      {
+        "term": "Non-Timber Forest Produce",
+        "definition": "Forest goods other than timber (tendu, bamboo, gum, honey) — the livelihood backbone of tribal households; GCC's monopoly domain in AP's agency."
+      },
+      {
+        "term": "Externally Aided Project",
+        "definition": "State project financed by multilateral/bilateral loans routed back-to-back through the Centre — long tenor, low cost, tied to project milestones."
+      },
+      {
+        "term": "Guarantee (fiscal)",
+        "definition": "State's promise to service a corporation's debt on default — a contingent liability that CAG insists be counted in true debt burden."
+      }
     ]
   },
   {
@@ -191,12 +319,32 @@
           },
           {
             "type": "table",
-            "headers": ["Dispute", "Parties & tribunal", "Core issue & status"],
+            "headers": [
+              "Dispute",
+              "Parties & tribunal",
+              "Core issue & status"
+            ],
             "rows": [
-              ["**Krishna** (the central one)", "Maharashtra, Karnataka, (undivided) AP → now AP & Telangana; **KWDT-I (Bachawat, 1976)**: 811 TMC to undivided AP at 75% dependability; **KWDT-II (Brijesh Kumar, 2010/13)** allocations **not yet notified** (SC stay)", "Post-2014: **AP-Telangana sharing** of the undivided 811 TMC (operating ad-hoc ~66:34); Telangana seeks fresh allocation; **Sec 89** reference to KWDT-II for project-wise allocation between the two; escalations over Srisailam-Nagarjunasagar operations"],
-              ["**Godavari**", "**GWDT (Bachawat, 1980)** — largely consent-based awards", "Less conflictual (surplus river); issues: Polavaram backwater objections (Odisha, Chhattisgarh, Telangana), Telangana's upstream projects (Kaleshwaram) and AP's counter-claims on surplus-water diversions (Banakacherla proposal controversy)"],
-              ["**Management boards**", "**KRMB & GRMB** created by the **Reorganisation Act (Secs 85–87)**; jurisdiction over notified projects gazetted **2021**", "Implementation friction: handing over projects, telemetry, unapproved projects lists — the institutional battleground"],
-              ["**Pennar & minor rivers**", "AP-Karnataka-Tamil Nadu issues (Pennar flows, Palar)", "Lower-intensity; drought-belt significance for Rayalaseema"]
+              [
+                "**Krishna** (the central one)",
+                "Maharashtra, Karnataka, (undivided) AP → now AP & Telangana; **KWDT-I (Bachawat, 1976)**: 811 TMC to undivided AP at 75% dependability; **KWDT-II (Brijesh Kumar, 2010/13)** allocations **not yet notified** (SC stay)",
+                "Post-2014: **AP-Telangana sharing** of the undivided 811 TMC (operating ad-hoc ~66:34); Telangana seeks fresh allocation; **Sec 89** reference to KWDT-II for project-wise allocation between the two; escalations over Srisailam-Nagarjunasagar operations"
+              ],
+              [
+                "**Godavari**",
+                "**GWDT (Bachawat, 1980)** — largely consent-based awards",
+                "Less conflictual (surplus river); issues: Polavaram backwater objections (Odisha, Chhattisgarh, Telangana), Telangana's upstream projects (Kaleshwaram) and AP's counter-claims on surplus-water diversions (Banakacherla proposal controversy)"
+              ],
+              [
+                "**Management boards**",
+                "**KRMB & GRMB** created by the **Reorganisation Act (Secs 85–87)**; jurisdiction over notified projects gazetted **2021**",
+                "Implementation friction: handing over projects, telemetry, unapproved projects lists — the institutional battleground"
+              ],
+              [
+                "**Pennar & minor rivers**",
+                "AP-Karnataka-Tamil Nadu issues (Pennar flows, Palar)",
+                "Lower-intensity; drought-belt significance for Rayalaseema"
+              ]
             ]
           }
         ]
@@ -236,6 +384,28 @@
             "text": "Exam tip: The 811 TMC figure with its 75% dependability caveat, the un-notified KWDT-II, and the Polavaram-for-Krishna 80 TMC bargain are the three facts that instantly signal mastery. Always end on institutions + demand management, not on grievance."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — water as AP's binding constraint",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The two lifelines:** the **Godavari** (surplus, less contested) and the **Krishna** (deficit, fiercely contested) — AP is a lower-riparian, so **KWDT-I (Bachawat, 1976)** and **KWDT-II (Brijesh Kumar)** allocations are existential.",
+              "**The AP–Telangana dispute:** post-2014 sharing of Krishna waters, the roles of the **Krishna & Godavari River Management Boards** (jurisdiction notified 2021), and projects like **Rayalaseema Lift, Pothireddypadu, Kaleshwaram (TS)** keep the dispute live before the tribunal and courts.",
+              "**Irrigation & drought:** Rayalaseema's chronic drought vs the deltaic surplus; **Polavaram** (Godavari) to divert water to the Krishna delta and Rayalaseema is the keystone project; micro-irrigation (drip/sprinkler) and the **Godavari–Cauvery interlinking** proposal are the demand-side answers.",
+              "**Way forward:** finish Polavaram, honour tribunal awards, invest in watershed/rainwater harvesting and drip irrigation, and depoliticise inter-state water governance."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**KWDT-I (Bachawat, 1976)** and **KWDT-II (Brijesh Kumar)** govern Krishna water allocation.",
+          "**Krishna & Godavari River Management Boards** — statutory boards under the AP Reorganisation Act, 2014."
+        ],
+        "mainsAngles": [
+          "'Water is the axis of Andhra Pradesh's development and its disputes' — examine the inter-state and intra-state dimensions."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -255,12 +425,30 @@
       "Beyond litigation: outline a demand-side and institutional strategy for water security in AP's delta and Rayalaseema."
     ],
     "glossary": [
-      { "term": "Lower riparian", "definition": "A downstream state on an inter-state river, dependent on upstream releases — AP's position on both Krishna and Godavari." },
-      { "term": "Dependability (75%)", "definition": "Flow available in 3 of 4 years — the hydrological basis of tribunal allocations like KWDT-I's 811 TMC." },
-      { "term": "TMC", "definition": "Thousand million cubic feet — the standard unit of Indian water allocations (1 TMC ≈ 28.3 billion litres)." },
-      { "term": "River Management Board", "definition": "Statutory body (KRMB/GRMB) under the 2014 Act to administer notified projects on shared rivers between AP and Telangana." },
-      { "term": "Inter-basin transfer", "definition": "Moving water from a surplus basin to a deficit one (Godavari→Krishna via Polavaram) — augmentation that eases allocation conflict." },
-      { "term": "Telemetry", "definition": "Real-time automated measurement of flows and releases — the transparency technology that de-politicises water data." }
+      {
+        "term": "Lower riparian",
+        "definition": "A downstream state on an inter-state river, dependent on upstream releases — AP's position on both Krishna and Godavari."
+      },
+      {
+        "term": "Dependability (75%)",
+        "definition": "Flow available in 3 of 4 years — the hydrological basis of tribunal allocations like KWDT-I's 811 TMC."
+      },
+      {
+        "term": "TMC",
+        "definition": "Thousand million cubic feet — the standard unit of Indian water allocations (1 TMC ≈ 28.3 billion litres)."
+      },
+      {
+        "term": "River Management Board",
+        "definition": "Statutory body (KRMB/GRMB) under the 2014 Act to administer notified projects on shared rivers between AP and Telangana."
+      },
+      {
+        "term": "Inter-basin transfer",
+        "definition": "Moving water from a surplus basin to a deficit one (Godavari→Krishna via Polavaram) — augmentation that eases allocation conflict."
+      },
+      {
+        "term": "Telemetry",
+        "definition": "Real-time automated measurement of flows and releases — the transparency technology that de-politicises water data."
+      }
     ]
   }
 ]

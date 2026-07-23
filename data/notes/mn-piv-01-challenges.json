@@ -12,11 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "Share of GVA", "Share of employment", "The mismatch"],
+            "headers": [
+              "Sector",
+              "Share of GVA",
+              "Share of employment",
+              "The mismatch"
+            ],
             "rows": [
-              ["Agriculture & allied", "~16–18%", "~45%", "Half the workforce produces a sixth of output — chronic **disguised unemployment**, low productivity"],
-              ["Industry (incl. mfg)", "~28–30% (mfg ~17%)", "~25%", "Manufacturing has not absorbed labour leaving farms — the **'missing middle'** of mid-size firms"],
-              ["Services", "~53–55%", "~30%", "High-skill enclave growth; limited mass employment — **'jobless growth'** critique"]
+              [
+                "Agriculture & allied",
+                "~16–18%",
+                "~45%",
+                "Half the workforce produces a sixth of output — chronic **disguised unemployment**, low productivity"
+              ],
+              [
+                "Industry (incl. mfg)",
+                "~28–30% (mfg ~17%)",
+                "~25%",
+                "Manufacturing has not absorbed labour leaving farms — the **'missing middle'** of mid-size firms"
+              ],
+              [
+                "Services",
+                "~53–55%",
+                "~30%",
+                "High-skill enclave growth; limited mass employment — **'jobless growth'** critique"
+              ]
             ]
           },
           {
@@ -60,6 +80,28 @@
             "text": "Exam tip: Anchor with the GVA-vs-employment mismatch table — it is the single most reusable economy visual. Then one paragraph each on agriculture's and manufacturing's five causes + fixes, closing with the demographic-window urgency and the AP aqua/horticulture counterpoint."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the growth diagnostics & structural puzzle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Where India stands:** ~**$3.9 trillion** GDP (4th–5th largest economy, targeting $5 trillion), real growth ~**6.5–7%** — the fastest-growing major economy, yet **per-capita income (~$2,700)** keeps it a lower-middle-income country.",
+              "**The structural anomaly:** India leapt from agriculture to **services** (~55% of GVA) without a manufacturing-led transition — services ~55%, industry ~27% (manufacturing stuck near **15–17%**, well below the **25% Make-in-India target**), agriculture ~18% of GVA but ~**45% of employment** — the core of the 'jobless growth' and disguised-unemployment debate.",
+              "**Demographic dividend vs deficit:** a median age of ~28 is an asset only if jobs and skills keep pace; the **Periodic Labour Force Survey (PLFS)** and the debate on the quality of employment (informality ~90%) are essential to cite.",
+              "**Middle-income trap risk:** without raising manufacturing, exports, TFP and female labour-force participation, India risks stalling — the Economic Survey's emphasis on **deregulation, investment and 'Viksit Bharat @2047'**."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**PLFS** (Periodic Labour Force Survey) — NSO's employment-unemployment data source since 2017-18.",
+          "Manufacturing share of GDP targeted at **25%** under Make in India (currently ~15-17%)."
+        ],
+        "mainsAngles": [
+          "'India has grown without industrialising' — examine the structural anomaly of India's services-led growth and its employment consequences."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -79,12 +121,30 @@
       "Andhra Pradesh grew on the primary sector — analyse the possibilities and the limits of agri-led growth using AP's experience."
     ],
     "glossary": [
-      { "term": "Gross Value Added (GVA)", "definition": "Output minus intermediate consumption — sectoral GDP at basic prices; GDP = GVA + product taxes – subsidies." },
-      { "term": "Disguised unemployment", "definition": "More workers engaged than needed with near-zero marginal productivity — endemic on small family farms." },
-      { "term": "Missing middle", "definition": "India's firm-size gap: many micro firms, few mid-size ones, caused partly by size-threshold regulations that penalise growing." },
-      { "term": "Premature deindustrialisation", "definition": "Rodrik's finding that late developers peak in manufacturing at lower income/employment shares than early industrialisers did." },
-      { "term": "Demographic dividend", "definition": "Growth potential from a bulge of working-age population — realisable only with jobs, health and skills; India's window runs to about 2045." },
-      { "term": "Structural transformation", "definition": "The shift of workers from low- to high-productivity sectors (farm → factory → services) — the core mechanism of development." }
+      {
+        "term": "Gross Value Added (GVA)",
+        "definition": "Output minus intermediate consumption — sectoral GDP at basic prices; GDP = GVA + product taxes – subsidies."
+      },
+      {
+        "term": "Disguised unemployment",
+        "definition": "More workers engaged than needed with near-zero marginal productivity — endemic on small family farms."
+      },
+      {
+        "term": "Missing middle",
+        "definition": "India's firm-size gap: many micro firms, few mid-size ones, caused partly by size-threshold regulations that penalise growing."
+      },
+      {
+        "term": "Premature deindustrialisation",
+        "definition": "Rodrik's finding that late developers peak in manufacturing at lower income/employment shares than early industrialisers did."
+      },
+      {
+        "term": "Demographic dividend",
+        "definition": "Growth potential from a bulge of working-age population — realisable only with jobs, health and skills; India's window runs to about 2045."
+      },
+      {
+        "term": "Structural transformation",
+        "definition": "The shift of workers from low- to high-productivity sectors (farm → factory → services) — the core mechanism of development."
+      }
     ]
   },
   {
@@ -100,12 +160,32 @@
           },
           {
             "type": "table",
-            "headers": ["Variable", "Framework & recent anchor", "Policy instruments"],
+            "headers": [
+              "Variable",
+              "Framework & recent anchor",
+              "Policy instruments"
+            ],
             "rows": [
-              ["**Inflation**", "CPI targeting: **4% ± 2%** (MPC, 2016); food weight ~46% of CPI makes monsoons monetary events; CPI has generally hovered within band lately with food-price spikes (vegetables, pulses)", "Repo rate & stance; supply-side: buffer stocks (OMSS), import-duty tweaks, export bans (rice/onion episodes)"],
-              ["**Oil prices**", "Brent shocks (2022 Ukraine spike >$120) vs discounted Russian crude (now India's top supplier ~35–40% of imports)", "Diversified sourcing, strategic petroleum reserves, **ethanol blending (E20 target)**, windfall levies (2022–23), EV push"],
-              ["**CAD / BoP**", "CAD comfortable recently (~1–1.5% of GDP; occasional quarterly surpluses) — services exports (~$340 bn+) and **remittances (~$120+ bn, world's largest)** offset the merchandise deficit (electronics, oil, gold)", "Export promotion (FTAs with UAE/Australia/EFTA/UK), import substitution (PLI), gold monetisation, stable FDI policy"],
-              ["**Rupee**", "Slid past **₹83–86/$** range; RBI intervenes to curb volatility, not defend levels — forex reserves ~**$650–700 bn** (top-4 globally) as the buffer", "Reserve accumulation/sales, rupee trade settlement (18+ countries), offshore NDF monitoring"]
+              [
+                "**Inflation**",
+                "CPI targeting: **4% ± 2%** (MPC, 2016); food weight ~46% of CPI makes monsoons monetary events; CPI has generally hovered within band lately with food-price spikes (vegetables, pulses)",
+                "Repo rate & stance; supply-side: buffer stocks (OMSS), import-duty tweaks, export bans (rice/onion episodes)"
+              ],
+              [
+                "**Oil prices**",
+                "Brent shocks (2022 Ukraine spike >$120) vs discounted Russian crude (now India's top supplier ~35–40% of imports)",
+                "Diversified sourcing, strategic petroleum reserves, **ethanol blending (E20 target)**, windfall levies (2022–23), EV push"
+              ],
+              [
+                "**CAD / BoP**",
+                "CAD comfortable recently (~1–1.5% of GDP; occasional quarterly surpluses) — services exports (~$340 bn+) and **remittances (~$120+ bn, world's largest)** offset the merchandise deficit (electronics, oil, gold)",
+                "Export promotion (FTAs with UAE/Australia/EFTA/UK), import substitution (PLI), gold monetisation, stable FDI policy"
+              ],
+              [
+                "**Rupee**",
+                "Slid past **₹83–86/$** range; RBI intervenes to curb volatility, not defend levels — forex reserves ~**$650–700 bn** (top-4 globally) as the buffer",
+                "Reserve accumulation/sales, rupee trade settlement (18+ countries), offshore NDF monitoring"
+              ]
             ]
           }
         ]
@@ -146,6 +226,26 @@
             "text": "Exam tip: Learn bands, not points — CPI target 4±2, oil import share ~85%+, reserves ~$650–700 bn, CAD ~1–1.5% — figures examiners accept across years. The oil→CAD→rupee→inflation loop with the MPC response closes 80% of macro questions."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the macro-stability toolkit",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Inflation targeting:** the **RBI–Government MPC framework (2016)** targets **CPI inflation at 4% (±2%)**; the **Monetary Policy Committee** (6 members) sets the repo rate; tools — repo/reverse-repo, CRR, SLR, OMOs, LAF.",
+              "**External sector:** the **Current Account Deficit (CAD)** is 'sustainable' below ~2.5% of GDP; financed by FDI (stable) + FPI (volatile); **forex reserves (~$650–700 bn)** cushion the rupee; the **rupee** is managed-float.",
+              "**Twin deficits & crowding-out:** fiscal deficit target under the **FRBM Act** (glide-path to ~4.5% of GDP by 2025-26); high government borrowing can crowd out private investment and stoke inflation.",
+              "**Impossible trinity (Mundell-Fleming):** a country cannot simultaneously have a fixed exchange rate, free capital flows and independent monetary policy — India opts for managed flexibility."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Monetary Policy Committee** — 6 members (3 RBI + 3 government-nominated); CPI target **4% ±2%**.",
+          "**FRBM Act, 2003** — fiscal-deficit glide path; medium-term target ~4.5% of GDP.",
+          "**Impossible Trinity** — fixed exchange rate, free capital mobility and independent monetary policy cannot coexist."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -166,12 +266,30 @@
       "Examine how national macro shocks transmit to Andhra Pradesh's aqua, pharma and remittance economy."
     ],
     "glossary": [
-      { "term": "Current Account Deficit", "definition": "Excess of a country's payments over receipts on trade, services, income and transfers — financed by capital inflows; sustainable roughly below 2.5–3% of GDP for India." },
-      { "term": "Managed float", "definition": "Exchange-rate regime where the market sets the rate but the central bank intervenes to smooth volatility — India's practice." },
-      { "term": "Imported inflation", "definition": "Domestic price rise caused by costlier imports (oil, edible oil, gold, electronics), amplified by currency depreciation." },
-      { "term": "Core inflation", "definition": "CPI excluding volatile food and fuel — the measure of underlying, demand-driven price pressure." },
-      { "term": "Twin deficits", "definition": "Simultaneous fiscal and current account deficits, the first often feeding the second through excess aggregate demand." },
-      { "term": "Rupee trade settlement", "definition": "RBI's 2022 mechanism allowing invoicing and settling trade in rupees via special vostro accounts — de-dollarisation at the margin." }
+      {
+        "term": "Current Account Deficit",
+        "definition": "Excess of a country's payments over receipts on trade, services, income and transfers — financed by capital inflows; sustainable roughly below 2.5–3% of GDP for India."
+      },
+      {
+        "term": "Managed float",
+        "definition": "Exchange-rate regime where the market sets the rate but the central bank intervenes to smooth volatility — India's practice."
+      },
+      {
+        "term": "Imported inflation",
+        "definition": "Domestic price rise caused by costlier imports (oil, edible oil, gold, electronics), amplified by currency depreciation."
+      },
+      {
+        "term": "Core inflation",
+        "definition": "CPI excluding volatile food and fuel — the measure of underlying, demand-driven price pressure."
+      },
+      {
+        "term": "Twin deficits",
+        "definition": "Simultaneous fiscal and current account deficits, the first often feeding the second through excess aggregate demand."
+      },
+      {
+        "term": "Rupee trade settlement",
+        "definition": "RBI's 2022 mechanism allowing invoicing and settling trade in rupees via special vostro accounts — de-dollarisation at the margin."
+      }
     ]
   },
   {
@@ -187,12 +305,32 @@
           },
           {
             "type": "table",
-            "headers": ["Response pillar (the 4R framework)", "Content", "Assessment"],
+            "headers": [
+              "Response pillar (the 4R framework)",
+              "Content",
+              "Assessment"
+            ],
             "rows": [
-              ["**Recognition**", "AQR 2015; ending forbearance; **June 7, 2019 RBI circular** (after SC struck the Feb 12, 2018 one) for time-bound resolution", "Honest books restored — precondition for everything else"],
-              ["**Resolution**", "**IBC 2016**: creditor-in-control, 330-day outer limit, NCLT; landmark recoveries (Essar Steel ~₹42,000 cr); **behavioural deterrence** — promoters settle to avoid losing firms; but recovery rates ~30–32% and delays well beyond timelines", "Game-changer with implementation fatigue; **NARCL/'bad bank' (2021)** + IDRCL for legacy accounts"],
-              ["**Recapitalisation**", "**~₹3.1+ lakh crore infused into PSBs (2017–22)**, incl. recap bonds (fiscal cost off-stage)", "Necessary but moral-hazard-laden — taxpayers funded past misallocation"],
-              ["**Reform**", "PSB mega-mergers (27→12), EASE governance agenda, stricter large-exposure norms, **PCA framework** for weak banks, privatisation announced (two PSBs) but pending", "Governance root cause — political lending & weak boards — only partly addressed (P.J. Nayak Committee's agenda incomplete)"]
+              [
+                "**Recognition**",
+                "AQR 2015; ending forbearance; **June 7, 2019 RBI circular** (after SC struck the Feb 12, 2018 one) for time-bound resolution",
+                "Honest books restored — precondition for everything else"
+              ],
+              [
+                "**Resolution**",
+                "**IBC 2016**: creditor-in-control, 330-day outer limit, NCLT; landmark recoveries (Essar Steel ~₹42,000 cr); **behavioural deterrence** — promoters settle to avoid losing firms; but recovery rates ~30–32% and delays well beyond timelines",
+                "Game-changer with implementation fatigue; **NARCL/'bad bank' (2021)** + IDRCL for legacy accounts"
+              ],
+              [
+                "**Recapitalisation**",
+                "**~₹3.1+ lakh crore infused into PSBs (2017–22)**, incl. recap bonds (fiscal cost off-stage)",
+                "Necessary but moral-hazard-laden — taxpayers funded past misallocation"
+              ],
+              [
+                "**Reform**",
+                "PSB mega-mergers (27→12), EASE governance agenda, stricter large-exposure norms, **PCA framework** for weak banks, privatisation announced (two PSBs) but pending",
+                "Governance root cause — political lending & weak boards — only partly addressed (P.J. Nayak Committee's agenda incomplete)"
+              ]
             ]
           }
         ]
@@ -232,6 +370,26 @@
             "text": "Exam tip: The 4R framework IS the answer structure. Pair every R with one fact and one critique. End with the pivot: yesterday's problem was corporate NPAs; tomorrow's watch-list is unsecured retail and NBFC contagion — showing currency of understanding earns the top band."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — banking health after the clean-up",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**From twin-balance-sheet crisis to recovery:** **Gross NPAs fell from a peak of ~11.2% (2018) to multi-decade lows (~2.5–3%)** — the cleanest bank books in over a decade, aided by the **IBC (2016)**, PCA framework, recapitalisation and mergers (PSB consolidation to 12 banks).",
+              "**The toolkit:** **AQR (2015)**, **SARFAESI Act**, **DRTs**, the **Insolvency & Bankruptcy Code (2016)** with the NCLT/NCLAT, the **Bad Bank (NARCL, 2021)**, and Basel-III capital norms.",
+              "**New frontiers:** the **National Asset Reconstruction Company**, expected credit-loss (ECL) provisioning norms, and the rise of **NBFCs/fintech** (with their own stress after the IL&FS/2018 shock).",
+              "**Watch-list risks:** unsecured retail lending growth, MFI stress, and the need for credit to flow to MSMEs and manufacturing to sustain the capex cycle."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**IBC, 2016** — resolution through NCLT; adjudicating authority for corporate insolvency.",
+          "**NARCL ('Bad Bank')** set up 2021 to acquire stressed assets.",
+          "**SARFAESI Act, 2002** — lets banks enforce security without court intervention."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -252,13 +410,34 @@
       "From twin balance sheet problem to twin balance sheet advantage — trace the decade and flag the new fragilities."
     ],
     "glossary": [
-      { "term": "Non-Performing Asset", "definition": "A loan whose interest or principal remains overdue beyond 90 days, requiring classification and provisioning by the bank." },
-      { "term": "Asset Quality Review", "definition": "RBI's 2015 inspection forcing honest recognition of stressed loans, ending the era of masked restructuring." },
-      { "term": "Evergreening", "definition": "Extending fresh loans so a borrower can service old ones, concealing default — cosmetic asset quality." },
-      { "term": "Insolvency and Bankruptcy Code", "definition": "2016 law shifting distressed firms to creditor control via NCLT within statutory timelines — India's resolution architecture." },
-      { "term": "Prompt Corrective Action", "definition": "RBI's graded restrictions (lending, dividends, expansion) on banks breaching capital or asset-quality thresholds." },
-      { "term": "Wilful defaulter", "definition": "Borrower who can pay but does not, or diverts funds — barred from institutional credit and capital markets." },
-      { "term": "Recapitalisation bonds", "definition": "Government bonds subscribed by banks whose proceeds return as equity capital — recap without immediate cash outgo." }
+      {
+        "term": "Non-Performing Asset",
+        "definition": "A loan whose interest or principal remains overdue beyond 90 days, requiring classification and provisioning by the bank."
+      },
+      {
+        "term": "Asset Quality Review",
+        "definition": "RBI's 2015 inspection forcing honest recognition of stressed loans, ending the era of masked restructuring."
+      },
+      {
+        "term": "Evergreening",
+        "definition": "Extending fresh loans so a borrower can service old ones, concealing default — cosmetic asset quality."
+      },
+      {
+        "term": "Insolvency and Bankruptcy Code",
+        "definition": "2016 law shifting distressed firms to creditor control via NCLT within statutory timelines — India's resolution architecture."
+      },
+      {
+        "term": "Prompt Corrective Action",
+        "definition": "RBI's graded restrictions (lending, dividends, expansion) on banks breaching capital or asset-quality thresholds."
+      },
+      {
+        "term": "Wilful defaulter",
+        "definition": "Borrower who can pay but does not, or diverts funds — barred from institutional credit and capital markets."
+      },
+      {
+        "term": "Recapitalisation bonds",
+        "definition": "Government bonds subscribed by banks whose proceeds return as equity capital — recap without immediate cash outgo."
+      }
     ]
   }
 ]

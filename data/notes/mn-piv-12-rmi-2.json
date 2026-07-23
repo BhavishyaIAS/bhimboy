@@ -8,12 +8,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Attribute", "**FDI**", "**FPI (FII the older label)**"],
+            "headers": [
+              "Attribute",
+              "**FDI**",
+              "**FPI (FII the older label)**"
+            ],
             "rows": [
-              ["Definition", "Investment with **lasting interest & control** — ≥10% equity (IMF norm); greenfield plants, M&A, reinvested earnings", "Financial-asset purchases **without control** — listed equity (<10%), bonds; SEBI-registered"],
-              ["Character", "**Patient**: brings technology, management, market access, jobs; hard to exit (plant ≠ portfolio)", "**Mobile**: deepens markets, funds the CAD cheaply; can exit in a day ('hot money')"],
-              ["Scale (India)", "Gross ~**$70-85 bn/yr band** (net lower as repatriation rose); cumulative ~$1 trillion since 2000", "Swings between +$40 bn and −$20 bn years — the volatility signature; bond-index era adds stable debt FPI"],
-              ["Regulation", "FEMA + sectoral caps: **automatic route dominant**; prohibited (lottery, chit funds); capped-approval pockets (defence beyond 74%, insurance 100% (2025 move), multi-brand retail 51%-conditional); **Press Note 3 (2020)** — land-border-country approvals (the China screen)", "SEBI FPI regulations; NRI-adjacent routes; **participatory notes** curbed for opacity"]
+              [
+                "Definition",
+                "Investment with **lasting interest & control** — ≥10% equity (IMF norm); greenfield plants, M&A, reinvested earnings",
+                "Financial-asset purchases **without control** — listed equity (<10%), bonds; SEBI-registered"
+              ],
+              [
+                "Character",
+                "**Patient**: brings technology, management, market access, jobs; hard to exit (plant ≠ portfolio)",
+                "**Mobile**: deepens markets, funds the CAD cheaply; can exit in a day ('hot money')"
+              ],
+              [
+                "Scale (India)",
+                "Gross ~**$70-85 bn/yr band** (net lower as repatriation rose); cumulative ~$1 trillion since 2000",
+                "Swings between +$40 bn and −$20 bn years — the volatility signature; bond-index era adds stable debt FPI"
+              ],
+              [
+                "Regulation",
+                "FEMA + sectoral caps: **automatic route dominant**; prohibited (lottery, chit funds); capped-approval pockets (defence beyond 74%, insurance 100% (2025 move), multi-brand retail 51%-conditional); **Press Note 3 (2020)** — land-border-country approvals (the China screen)",
+                "SEBI FPI regulations; NRI-adjacent routes; **participatory notes** curbed for opacity"
+              ]
             ]
           }
         ]
@@ -53,6 +73,49 @@
             "text": "Exam tip: 'FDI builds factories, FPI builds order books' — open with it, then argue both ledgers honestly; the desirability hierarchy is the conclusion examiners expect stated, not implied."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — FDI vs FPI and the flows debate",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Feature",
+              "FDI",
+              "FPI/FII"
+            ],
+            "rows": [
+              [
+                "Nature",
+                "Lasting interest, management control (≥10% typical)",
+                "Portfolio, no control; equity/debt"
+              ],
+              [
+                "Stability",
+                "Stable, long-term ('cold money')",
+                "Volatile ('hot money'), sudden reversals"
+              ],
+              [
+                "Impact",
+                "Technology, jobs, capacity",
+                "Market liquidity, valuation"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Routes & policy:** automatic vs government route; sectoral caps liberalised widely (defence, insurance to 74%, etc.); **Press Note 3 (2020)** requires prior approval for FDI from land-bordering countries.",
+              "**Desirability ledger:** FDI brings capital + technology + exports but risks profit repatriation and crowding out; FPI deepens markets but transmits global risk-off shocks (taper tantrums).",
+              "**India's pull:** large market, demographic dividend, DPI, PLI incentives, 'China+1' supply-chain diversification — but land, labour and logistics costs are the friction."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**FDI** implies lasting interest/control (typically ≥10% equity); **FPI** is portfolio investment without control.",
+          "**Press Note 3 (2020)** — prior government approval for FDI from countries sharing a land border with India."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -73,12 +136,30 @@
       "Kia's ecosystem is the spillover thesis proven — analyse FDI's regional development role with AP's evidence."
     ],
     "glossary": [
-      { "term": "Lasting interest", "definition": "The control-and-permanence test (≥10% with influence) separating FDI from portfolio flows." },
-      { "term": "Greenfield vs brownfield", "definition": "New-facility investment versus acquisition of existing assets — capacity creation versus ownership transfer." },
-      { "term": "Sudden stop", "definition": "Abrupt reversal of portfolio inflows forcing currency-reserve adjustment — FPI's systemic risk." },
-      { "term": "Transfer pricing", "definition": "Intra-MNC pricing that can shift profits to low-tax jurisdictions — FDI's tax-leakage channel." },
-      { "term": "Press Note 3", "definition": "The 2020 rule requiring approval for FDI from land-border countries — investment screening's Indian debut." },
-      { "term": "Round-tripping (FDI)", "definition": "Domestic money returning as 'foreign' investment via treaty havens — the Mauritius-route history." }
+      {
+        "term": "Lasting interest",
+        "definition": "The control-and-permanence test (≥10% with influence) separating FDI from portfolio flows."
+      },
+      {
+        "term": "Greenfield vs brownfield",
+        "definition": "New-facility investment versus acquisition of existing assets — capacity creation versus ownership transfer."
+      },
+      {
+        "term": "Sudden stop",
+        "definition": "Abrupt reversal of portfolio inflows forcing currency-reserve adjustment — FPI's systemic risk."
+      },
+      {
+        "term": "Transfer pricing",
+        "definition": "Intra-MNC pricing that can shift profits to low-tax jurisdictions — FDI's tax-leakage channel."
+      },
+      {
+        "term": "Press Note 3",
+        "definition": "The 2020 rule requiring approval for FDI from land-border countries — investment screening's Indian debut."
+      },
+      {
+        "term": "Round-tripping (FDI)",
+        "definition": "Domestic money returning as 'foreign' investment via treaty havens — the Mauritius-route history."
+      }
     ]
   },
   {
@@ -90,13 +171,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Dimension", "**Monetary (RBI/MPC)**", "**Fiscal (Government)**"],
+            "headers": [
+              "Dimension",
+              "**Monetary (RBI/MPC)**",
+              "**Fiscal (Government)**"
+            ],
             "rows": [
-              ["Objective", "**Price stability (CPI 4±2%) while supporting growth** — the statutory mandate (2016)", "Growth, distribution, stabilisation — the budget's triple function (Musgrave)"],
-              ["Instruments", "**Repo rate** (the price of money), stance; **LAF corridor (SDF-MSF)**, OMOs & twists, **CRR (4-4.5% band)-SLR (18%)**, forex ops; regulation & macroprudential (risk weights — the 2023 unsecured-credit action)", "Taxes-expenditure-borrowing mix; capex composition; deficits (GBI-018); counter-cyclical stance (COVID's ~9% deficit)"],
-              ["Transmission", "Repo → bank MCLR/**EBLR (external benchmarks, 2019 — transmission's fix)** → credit-deposit rates → demand; lags 2-4 quarters", "Multipliers: capex ~2.5-4x > revenue ~<1; immediate demand injection"],
-              ["Limits", "Blunt against supply-shock inflation (vegetables don't read repo); ELB rarely binding in India", "FRBM ceilings; crowding-out risk; political downward-rigidity of spending"],
-              ["Coordination", "**Debt-management overlap** (RBI as government's banker) — the deficit-monetisation firewall (FRBM bar; WMA the liquidity valve); the growth-inflation assignment debate", "Fiscal dominance risk when deficits force monetary accommodation — the independence question"]
+              [
+                "Objective",
+                "**Price stability (CPI 4±2%) while supporting growth** — the statutory mandate (2016)",
+                "Growth, distribution, stabilisation — the budget's triple function (Musgrave)"
+              ],
+              [
+                "Instruments",
+                "**Repo rate** (the price of money), stance; **LAF corridor (SDF-MSF)**, OMOs & twists, **CRR (4-4.5% band)-SLR (18%)**, forex ops; regulation & macroprudential (risk weights — the 2023 unsecured-credit action)",
+                "Taxes-expenditure-borrowing mix; capex composition; deficits (GBI-018); counter-cyclical stance (COVID's ~9% deficit)"
+              ],
+              [
+                "Transmission",
+                "Repo → bank MCLR/**EBLR (external benchmarks, 2019 — transmission's fix)** → credit-deposit rates → demand; lags 2-4 quarters",
+                "Multipliers: capex ~2.5-4x > revenue ~<1; immediate demand injection"
+              ],
+              [
+                "Limits",
+                "Blunt against supply-shock inflation (vegetables don't read repo); ELB rarely binding in India",
+                "FRBM ceilings; crowding-out risk; political downward-rigidity of spending"
+              ],
+              [
+                "Coordination",
+                "**Debt-management overlap** (RBI as government's banker) — the deficit-monetisation firewall (FRBM bar; WMA the liquidity valve); the growth-inflation assignment debate",
+                "Fiscal dominance risk when deficits force monetary accommodation — the independence question"
+              ]
             ]
           }
         ]
@@ -136,6 +241,25 @@
             "text": "Exam tip: 'Monetary policy sets the price of money, fiscal policy its direction' — then the coordination paragraph (fiscal dominance vs assignment) shows macro maturity; the DFI-death-and-revival arc is development finance's whole story in one line."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the two engines & the financial plumbing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Monetary policy (RBI):** MPC targets **CPI 4% ±2%**; tools — repo/reverse-repo, MSF, CRR, SLR, OMOs, LAF; transmission via banks; the trade-off between inflation control and growth.",
+              "**Fiscal policy (Govt):** taxation + expenditure to manage demand; **automatic stabilisers**, counter-cyclical capex; constrained by FRBM.",
+              "**Policy mix & coordination:** the monetary-fiscal balance (crowding-out, fiscal dominance risks); the RBI's inflation-targeting independence.",
+              "**Financial markets/plumbing:** **SEBI**-regulated capital markets, corporate-bond-market deepening (a perennial weakness), **development finance (NaBFID)**, IBC-driven credit discipline, and the **payments revolution (UPI)**; **Account Aggregator & ONDC** as new rails."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**MSF (Marginal Standing Facility)** rate is above the repo rate; the **LAF corridor** is bounded by MSF (ceiling) and reverse-repo/SDF (floor).",
+          "**SDF (Standing Deposit Facility)** — RBI tool to absorb liquidity without collateral (2022)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -156,12 +280,30 @@
       "Deep equity, shallow debt, new rails — audit India's financial markets and the deepening agenda."
     ],
     "glossary": [
-      { "term": "LAF corridor", "definition": "The SDF-repo-MSF rate band within which overnight money-market rates are steered." },
-      { "term": "External benchmark lending rate", "definition": "Loan pricing tied to repo/T-bill benchmarks (2019) — transmission by construction." },
-      { "term": "Fiscal dominance", "definition": "Deficits compelling monetary accommodation — the independence risk the FRBM-monetisation bar guards against." },
-      { "term": "Development finance institution", "definition": "Long-tenor project lenders (NaBFID, NABARD, SIDBI) built for horizons commercial banks cannot hold." },
-      { "term": "CBDC (e₹)", "definition": "The RBI's digital rupee — sovereign digital cash piloted wholesale and retail." },
-      { "term": "Macroprudential policy", "definition": "System-stability tools (risk weights, buffers) targeting credit exuberance — the 2023 unsecured-loan action." }
+      {
+        "term": "LAF corridor",
+        "definition": "The SDF-repo-MSF rate band within which overnight money-market rates are steered."
+      },
+      {
+        "term": "External benchmark lending rate",
+        "definition": "Loan pricing tied to repo/T-bill benchmarks (2019) — transmission by construction."
+      },
+      {
+        "term": "Fiscal dominance",
+        "definition": "Deficits compelling monetary accommodation — the independence risk the FRBM-monetisation bar guards against."
+      },
+      {
+        "term": "Development finance institution",
+        "definition": "Long-tenor project lenders (NaBFID, NABARD, SIDBI) built for horizons commercial banks cannot hold."
+      },
+      {
+        "term": "CBDC (e₹)",
+        "definition": "The RBI's digital rupee — sovereign digital cash piloted wholesale and retail."
+      },
+      {
+        "term": "Macroprudential policy",
+        "definition": "System-stability tools (risk weights, buffers) targeting credit exuberance — the 2023 unsecured-loan action."
+      }
     ]
   },
   {
@@ -177,12 +319,32 @@
           },
           {
             "type": "table",
-            "headers": ["Physical & energy resource base", "Content", "Investment implication"],
+            "headers": [
+              "Physical & energy resource base",
+              "Content",
+              "Investment implication"
+            ],
             "rows": [
-              ["Land", "The fixed factor: acquisition law (**RFCTLARR 2013** — consent 70-80%, compensation 2-4x), pooling alternatives (Amaravati), land banks (APIIC-model)", "Land cost-certainty decides project math; digitised records (AP's resurvey) as investment infrastructure"],
-              ["Minerals & materials", "Iron ore-bauxite-limestone adequacy; **critical-minerals dependence** (Li-Co-REE); cement-steel capacity as capex's own demand", "MMDR auctions + criticals mission + recycling as the supply-side answer"],
-              ["**Energy**", "The E2-013/016 base: coal plateau + RE surge + storage gap", "Every industrial plan is an energy plan — power cost-reliability decides competitiveness (AP's firm-green pitch)"],
-              ["Water & logistics", "Industrial water allocations (coastal advantage), ports-rail-road (Gati Shakti's synchronisation)", "Coast + corridor = AP's structural pitch (IDA-044)"]
+              [
+                "Land",
+                "The fixed factor: acquisition law (**RFCTLARR 2013** — consent 70-80%, compensation 2-4x), pooling alternatives (Amaravati), land banks (APIIC-model)",
+                "Land cost-certainty decides project math; digitised records (AP's resurvey) as investment infrastructure"
+              ],
+              [
+                "Minerals & materials",
+                "Iron ore-bauxite-limestone adequacy; **critical-minerals dependence** (Li-Co-REE); cement-steel capacity as capex's own demand",
+                "MMDR auctions + criticals mission + recycling as the supply-side answer"
+              ],
+              [
+                "**Energy**",
+                "The E2-013/016 base: coal plateau + RE surge + storage gap",
+                "Every industrial plan is an energy plan — power cost-reliability decides competitiveness (AP's firm-green pitch)"
+              ],
+              [
+                "Water & logistics",
+                "Industrial water allocations (coastal advantage), ports-rail-road (Gati Shakti's synchronisation)",
+                "Coast + corridor = AP's structural pitch (IDA-044)"
+              ]
             ]
           }
         ]
@@ -222,6 +384,28 @@
             "text": "Exam tip: 'Capex needs cash, certainty and coordinates — money, contracts and sited resources' — the three-C line that organises industry-infrastructure investment questions."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the capex question & binding constraints",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Why investment matters:** capital formation drives growth (Harrod-Domar/Solow); India needs **GFCF ~35% of GDP** and a revived **private capex cycle** to sustain 7-8% growth.",
+              "**Public capex crowding-in:** the Budget's sharp rise in effective capital expenditure aims to 'crowd in' private investment via the multiplier and to build infrastructure (**National Infrastructure Pipeline, Gati Shakti, NMP**).",
+              "**Binding constraints (Hausmann-Rodrik 'growth diagnostics'):** land acquisition, logistics cost (~ high vs global norms — Gati Shakti/PM logistics policy targets a cut), power reliability, skilling, contract enforcement, and financing (thin bond market).",
+              "**Answers:** infrastructure push, factor-market reforms (land/labour), ease of doing business, DFI (NaBFID), and stable policy — the supply-side agenda of recent Economic Surveys."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**PM Gati Shakti** — National Master Plan for multimodal infrastructure connectivity (2021).",
+          "**National Infrastructure Pipeline (NIP)** — pipeline of infrastructure projects for investment."
+        ],
+        "mainsAngles": [
+          "'Public capex must crowd in, not crowd out, private investment' — examine India's investment strategy and its binding constraints."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -241,12 +425,30 @@
       "Audit AP's investment-attraction stack as a physical-resources strategy made policy."
     ],
     "glossary": [
-      { "term": "Capacity utilisation", "definition": "Actual output over installed capacity — the private-capex trigger gauge (RBI's OBICUS survey)." },
-      { "term": "Hybrid Annuity Model", "definition": "PPP blending construction-period grants with operation-period annuities — risk-sharing's road standard." },
-      { "term": "Credit enhancement", "definition": "Guarantees lifting project-bond ratings to pension-insurance investability — patient capital's bridge." },
-      { "term": "Land pooling", "definition": "Assembling land for returned developed plots instead of cash acquisition — consent-based assembly." },
-      { "term": "Model concession agreement", "definition": "Standardised PPP contracts allocating risks predictably — certainty as an investment good." },
-      { "term": "Offtake risk", "definition": "The buyer's payment reliability (DISCOMs in power) — the revenue-side risk that pricing must cover." }
+      {
+        "term": "Capacity utilisation",
+        "definition": "Actual output over installed capacity — the private-capex trigger gauge (RBI's OBICUS survey)."
+      },
+      {
+        "term": "Hybrid Annuity Model",
+        "definition": "PPP blending construction-period grants with operation-period annuities — risk-sharing's road standard."
+      },
+      {
+        "term": "Credit enhancement",
+        "definition": "Guarantees lifting project-bond ratings to pension-insurance investability — patient capital's bridge."
+      },
+      {
+        "term": "Land pooling",
+        "definition": "Assembling land for returned developed plots instead of cash acquisition — consent-based assembly."
+      },
+      {
+        "term": "Model concession agreement",
+        "definition": "Standardised PPP contracts allocating risks predictably — certainty as an investment good."
+      },
+      {
+        "term": "Offtake risk",
+        "definition": "The buyer's payment reliability (DISCOMs in power) — the revenue-side risk that pricing must cover."
+      }
     ]
   }
 ]

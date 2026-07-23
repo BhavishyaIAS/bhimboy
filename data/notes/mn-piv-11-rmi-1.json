@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Channel", "Instrument set", "Note for answers"],
+            "headers": [
+              "Channel",
+              "Instrument set",
+              "Note for answers"
+            ],
             "rows": [
-              ["Household savings → finance", "Deposits, insurance-pension (EPFO-NPS ~₹25+ lakh crore era), mutual funds (**SIP culture: ~₹25,000+ cr/month; AUM ~₹65+ lakh crore**), direct equity (11+ crore demat)", "The financialisation shift — households moving from gold-land to markets: the decade's structural story"],
-              ["Banking", "PSBs+private+SFBs; priority-sector (40%) directing credit", "Still the economy's credit spine; twin-balance-sheet history (IEC-003)"],
-              ["Capital markets", "NSE/BSE (among world's top by transactions); SEBI-regulated; **corporate-bond market's shallowness** the known gap", "Equity vibrant, debt narrow — the standard evaluation"],
-              ["Development finance", "**NaBFID, NABARD, SIDBI, NHB, EXIM** — the revived DFI layer", "Answer link to RMI-010/011"],
-              ["External", "FDI (stable) > FPI (volatile) > ECB (currency-risk) — the hierarchy of desirability (RMI-009)", "The pecking order every answer should state"]
+              [
+                "Household savings → finance",
+                "Deposits, insurance-pension (EPFO-NPS ~₹25+ lakh crore era), mutual funds (**SIP culture: ~₹25,000+ cr/month; AUM ~₹65+ lakh crore**), direct equity (11+ crore demat)",
+                "The financialisation shift — households moving from gold-land to markets: the decade's structural story"
+              ],
+              [
+                "Banking",
+                "PSBs+private+SFBs; priority-sector (40%) directing credit",
+                "Still the economy's credit spine; twin-balance-sheet history (IEC-003)"
+              ],
+              [
+                "Capital markets",
+                "NSE/BSE (among world's top by transactions); SEBI-regulated; **corporate-bond market's shallowness** the known gap",
+                "Equity vibrant, debt narrow — the standard evaluation"
+              ],
+              [
+                "Development finance",
+                "**NaBFID, NABARD, SIDBI, NHB, EXIM** — the revived DFI layer",
+                "Answer link to RMI-010/011"
+              ],
+              [
+                "External",
+                "FDI (stable) > FPI (volatile) > ECB (currency-risk) — the hierarchy of desirability (RMI-009)",
+                "The pecking order every answer should state"
+              ]
             ]
           }
         ]
@@ -57,6 +81,25 @@
             "text": "Exam tip: 'India's equity market is first-world, its bond market frontier, its bank system the bridge' — the one-line diagnosis that frames every gap and reform in this theme."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — where the money comes from",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Two-sector map:** **public resources** (tax + non-tax + borrowings + disinvestment) and **private resources** (household savings, corporate retained earnings, external — FDI/FPI/ECBs/remittances).",
+              "**Savings & investment:** India's **gross domestic savings ~30% of GDP** (households the biggest saver, increasingly financialising into equities/MF/insurance); **remittances (~$120 bn, the world's largest)** are a key external cushion.",
+              "**Public-sector resource mobilisation:** tax buoyancy, PSU dividends, spectrum/asset sales, and the **National Monetisation Pipeline**.",
+              "**Gaps & AP lens:** low tax-to-GDP, under-taxed farm & property incomes, and states' thin own-revenue — AP's dependence on transfers illustrates the vertical fiscal imbalance."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "India receives the **world's largest inward remittances** (~$120 billion).",
+          "**National Monetisation Pipeline (NMP)** — leasing brownfield public assets to raise resources."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,12 +119,30 @@
       "Financialisation of household savings is the decade's quiet revolution — assess its drivers and risks."
     ],
     "glossary": [
-      { "term": "Internal accruals", "definition": "Retained profits ploughed back — the private sector's largest and cheapest financing source." },
-      { "term": "Financialisation (household)", "definition": "The shift of savings from physical assets to deposits, funds and equities — deepening the economy's capital pool." },
-      { "term": "Crowding out/in", "definition": "Government borrowing raising private capital costs (out) or its capex stimulating private investment (in) — regime-dependent." },
-      { "term": "External Commercial Borrowing", "definition": "Foreign-currency corporate debt under RBI's framework — cheap until the rupee moves." },
-      { "term": "Alternative Investment Fund", "definition": "SEBI-regulated pooled vehicles (VC, PE, hedge categories) — the risk-capital rail." },
-      { "term": "OCEN", "definition": "Open Credit Enablement Network — API standards embedding lending into platforms; MSME credit's DPI answer." }
+      {
+        "term": "Internal accruals",
+        "definition": "Retained profits ploughed back — the private sector's largest and cheapest financing source."
+      },
+      {
+        "term": "Financialisation (household)",
+        "definition": "The shift of savings from physical assets to deposits, funds and equities — deepening the economy's capital pool."
+      },
+      {
+        "term": "Crowding out/in",
+        "definition": "Government borrowing raising private capital costs (out) or its capex stimulating private investment (in) — regime-dependent."
+      },
+      {
+        "term": "External Commercial Borrowing",
+        "definition": "Foreign-currency corporate debt under RBI's framework — cheap until the rupee moves."
+      },
+      {
+        "term": "Alternative Investment Fund",
+        "definition": "SEBI-regulated pooled vehicles (VC, PE, hedge categories) — the risk-capital rail."
+      },
+      {
+        "term": "OCEN",
+        "definition": "Open Credit Enablement Network — API standards embedding lending into platforms; MSME credit's DPI answer."
+      }
     ]
   },
   {
@@ -93,13 +154,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Stream", "Components", "Scale & trend"],
+            "headers": [
+              "Stream",
+              "Components",
+              "Scale & trend"
+            ],
             "rows": [
-              ["**Direct taxes**", "Income tax (personal ~₹12+ lakh crore) + corporate (~₹10+ lakh crore); STT-capital gains within", "**~55-57% of gross taxes** — the progressivity share at two-decade highs; buoyancy >1 post-tech compliance"],
-              ["**Indirect taxes**", "**GST (~₹22+ lakh crore/yr gross; centre's CGST+IGST share)**, customs (~₹2+ lakh crore), central excise (petroleum's residual ~₹3 lakh crore)", "GST matured (e-invoicing's evasion squeeze); petroleum excise the un-GST'd cash cow"],
-              ["**Cesses & surcharges**", "Health-education cess (4%), infrastructure/agri cesses, income surcharges", "**~15-20% of gross taxes, OUTSIDE the divisible pool** — the federal grievance (GBI-020)"],
-              ["**Non-tax revenue**", "**RBI + PSB-PSU dividends (~₹3+ lakh crore combined era)**, spectrum-auction receipts, royalties (offshore), interest, fees; **~₹5.5+ lakh crore budgeted highs**", "The RBI-transfer dependence question — windfall vs structural"],
-              ["**Non-debt capital receipts**", "Disinvestment (~₹50,000 cr targets, chronic shortfalls; strategic sales — Air India 2021 the landmark), asset monetisation (NMP ₹6 lakh cr), loan recoveries", "Ambition-execution gap the standing critique"]
+              [
+                "**Direct taxes**",
+                "Income tax (personal ~₹12+ lakh crore) + corporate (~₹10+ lakh crore); STT-capital gains within",
+                "**~55-57% of gross taxes** — the progressivity share at two-decade highs; buoyancy >1 post-tech compliance"
+              ],
+              [
+                "**Indirect taxes**",
+                "**GST (~₹22+ lakh crore/yr gross; centre's CGST+IGST share)**, customs (~₹2+ lakh crore), central excise (petroleum's residual ~₹3 lakh crore)",
+                "GST matured (e-invoicing's evasion squeeze); petroleum excise the un-GST'd cash cow"
+              ],
+              [
+                "**Cesses & surcharges**",
+                "Health-education cess (4%), infrastructure/agri cesses, income surcharges",
+                "**~15-20% of gross taxes, OUTSIDE the divisible pool** — the federal grievance (GBI-020)"
+              ],
+              [
+                "**Non-tax revenue**",
+                "**RBI + PSB-PSU dividends (~₹3+ lakh crore combined era)**, spectrum-auction receipts, royalties (offshore), interest, fees; **~₹5.5+ lakh crore budgeted highs**",
+                "The RBI-transfer dependence question — windfall vs structural"
+              ],
+              [
+                "**Non-debt capital receipts**",
+                "Disinvestment (~₹50,000 cr targets, chronic shortfalls; strategic sales — Air India 2021 the landmark), asset monetisation (NMP ₹6 lakh cr), loan recoveries",
+                "Ambition-execution gap the standing critique"
+              ]
             ]
           }
         ]
@@ -139,6 +224,25 @@
             "text": "Exam tip: 'India's tax problem is a base problem, not a rate problem' — then prove it with tax-GDP comparisons, the exemption ledger and the compliance-technology arc."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the tax & non-tax anatomy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Direct vs indirect:** direct (income, corporate — progressive) vs indirect (**GST**, customs — broad-based, mildly regressive); post-GST the indirect base widened and formalised.",
+              "**Tax-to-GDP:** India's gross tax-to-GDP (~**11–12% Centre**, ~17–18% general govt) is low versus peers — the case for base-widening, not just higher rates; **cesses & surcharges** (outside the divisible pool) are a federal irritant.",
+              "**Non-tax revenue:** RBI/PSU dividends, spectrum, user charges, interest receipts.",
+              "**Evaluation grid:** **adequacy** (does it fund the state?), **equity** (progressivity, ability to pay), and **effort/buoyancy** (collection efficiency) — the three tests to judge any tax system, applied to the Centre and to AP."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "India's **gross tax-to-GDP** ratio (~11-12% for the Centre) is low by international standards.",
+          "**Tax buoyancy** — ratio of % change in tax revenue to % change in GDP."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -159,12 +263,30 @@
       "Litigation is the invisible tax arrear — examine dispute-reduction as revenue policy."
     ],
     "glossary": [
-      { "term": "Gross tax revenue", "definition": "Total central tax collections before states' share — the pool from which devolution is carved." },
-      { "term": "Tax expenditure (revenue foregone)", "definition": "Revenue lost to exemptions-deductions — the hidden subsidy budget published annually." },
-      { "term": "Buoyancy", "definition": "Tax growth per unit GDP growth — above one marks a strengthening system." },
-      { "term": "Strategic disinvestment", "definition": "Sale of control (not minority stakes) in PSUs — privatisation proper (Air India model)." },
-      { "term": "Divisible pool", "definition": "Shareable net central taxes under Art 270 — cesses' exclusion the federal flashpoint." },
-      { "term": "Non-debt capital receipt", "definition": "Capital inflows that create no liability — disinvestment, recoveries, monetisation." }
+      {
+        "term": "Gross tax revenue",
+        "definition": "Total central tax collections before states' share — the pool from which devolution is carved."
+      },
+      {
+        "term": "Tax expenditure (revenue foregone)",
+        "definition": "Revenue lost to exemptions-deductions — the hidden subsidy budget published annually."
+      },
+      {
+        "term": "Buoyancy",
+        "definition": "Tax growth per unit GDP growth — above one marks a strengthening system."
+      },
+      {
+        "term": "Strategic disinvestment",
+        "definition": "Sale of control (not minority stakes) in PSUs — privatisation proper (Air India model)."
+      },
+      {
+        "term": "Divisible pool",
+        "definition": "Shareable net central taxes under Art 270 — cesses' exclusion the federal flashpoint."
+      },
+      {
+        "term": "Non-debt capital receipt",
+        "definition": "Capital inflows that create no liability — disinvestment, recoveries, monetisation."
+      }
     ]
   },
   {
@@ -176,13 +298,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Component", "Content", "Scale"],
+            "headers": [
+              "Component",
+              "Content",
+              "Scale"
+            ],
             "rows": [
-              ["**Internal market debt**", "**Dated G-secs** (5-50 yr; auction-issued; the yield curve's spine) + **T-bills** (91/182/364-day cash management)", "The dominant chunk; gross borrowing ~₹14-15 lakh crore/yr"],
-              ["**Small savings (NSSF)**", "PPF-NSC-Sukanya-SCSS deposits lent onward to the centre (and once to states/FCI)", "The administered-rate parallel pool (~₹ multi-lakh-crore flow)"],
-              ["**External debt (sovereign)**", "**Multilateral (WB-ADB-AIIB) + bilateral — only ~2% of central debt, long-tenor, concessional**; no foreign-currency sovereign bonds (the 2019 proposal shelved)", "India's conservative signature — insulation from currency-crisis dynamics"],
-              ["**Liabilities beside debt**", "Provident-insurance funds (public account), guarantees (contingent), off-budget's cleaned residue", "The 'general government' view: **centre ~57%, states ~28-30% → combined ~82-84% of GDP** (peak COVID ~89%)"],
-              ["**States' layer**", "SDLs + NSSF legacy + central loans (capex window) + guarantees", "AP's file (RMA-014): ~33-35% of GSDP + guarantees"]
+              [
+                "**Internal market debt**",
+                "**Dated G-secs** (5-50 yr; auction-issued; the yield curve's spine) + **T-bills** (91/182/364-day cash management)",
+                "The dominant chunk; gross borrowing ~₹14-15 lakh crore/yr"
+              ],
+              [
+                "**Small savings (NSSF)**",
+                "PPF-NSC-Sukanya-SCSS deposits lent onward to the centre (and once to states/FCI)",
+                "The administered-rate parallel pool (~₹ multi-lakh-crore flow)"
+              ],
+              [
+                "**External debt (sovereign)**",
+                "**Multilateral (WB-ADB-AIIB) + bilateral — only ~2% of central debt, long-tenor, concessional**; no foreign-currency sovereign bonds (the 2019 proposal shelved)",
+                "India's conservative signature — insulation from currency-crisis dynamics"
+              ],
+              [
+                "**Liabilities beside debt**",
+                "Provident-insurance funds (public account), guarantees (contingent), off-budget's cleaned residue",
+                "The 'general government' view: **centre ~57%, states ~28-30% → combined ~82-84% of GDP** (peak COVID ~89%)"
+              ],
+              [
+                "**States' layer**",
+                "SDLs + NSSF legacy + central loans (capex window) + guarantees",
+                "AP's file (RMA-014): ~33-35% of GSDP + guarantees"
+              ]
             ]
           },
           {
@@ -226,6 +372,25 @@
             "text": "Exam tip: 'India borrowed in its own currency from its own savers for its own tenor — that's why 84% of GDP hasn't meant crisis' — then flag the expense side so the answer isn't complacent."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — public debt sustainability",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Composition:** internal (dominant — G-secs/dated securities, T-bills) + external (mostly multilateral/bilateral, low share) + other liabilities; **general-government debt ~80–85% of GDP** (Centre ~55–58%, states ~28–30%).",
+              "**Sustainability core (Domar):** debt/GDP stabilises when **nominal GDP growth (g) > effective interest rate (r)**; India's favourable g−r differential and long maturities keep debt sustainable despite high ratios.",
+              "**Risk factors:** rollover risk, rising interest burden (a large share of revenue receipts), and states' off-budget borrowings.",
+              "**FRBM anchor:** the **N.K. Singh committee's 60% general-govt debt target (40% Centre + 20% states)** is the medium-term compass; disinvestment & growth are the deleveraging levers."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Domar condition:** public debt is sustainable if nominal growth rate exceeds the effective interest rate (g > r).",
+          "Most of India's public debt is **internal** and **rupee-denominated**, limiting external-currency risk."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -246,12 +411,30 @@
       "Financial repression funds the state quietly — evaluate SLR-captive borrowing's costs and reform."
     ],
     "glossary": [
-      { "term": "Dated securities (G-secs)", "definition": "The government's long-tenor bonds forming the sovereign yield curve — public debt's core instrument." },
-      { "term": "Original sin", "definition": "EM borrowing in foreign currency — the crisis mechanics India avoided by rupee-denominated debt." },
-      { "term": "NSSF", "definition": "National Small Savings Fund — administered-rate household deposits on-lent to government." },
-      { "term": "Fully Accessible Route", "definition": "G-sec categories open to unlimited foreign investment — the index-inclusion vehicle." },
-      { "term": "Contingent liability", "definition": "Guarantees crystallising only on default — the ledger's invisible margin." },
-      { "term": "Debt anchor", "definition": "A declining debt-GDP target as the fiscal rule — the post-FY26 framework replacing annual deficit points." }
+      {
+        "term": "Dated securities (G-secs)",
+        "definition": "The government's long-tenor bonds forming the sovereign yield curve — public debt's core instrument."
+      },
+      {
+        "term": "Original sin",
+        "definition": "EM borrowing in foreign currency — the crisis mechanics India avoided by rupee-denominated debt."
+      },
+      {
+        "term": "NSSF",
+        "definition": "National Small Savings Fund — administered-rate household deposits on-lent to government."
+      },
+      {
+        "term": "Fully Accessible Route",
+        "definition": "G-sec categories open to unlimited foreign investment — the index-inclusion vehicle."
+      },
+      {
+        "term": "Contingent liability",
+        "definition": "Guarantees crystallising only on default — the ledger's invisible margin."
+      },
+      {
+        "term": "Debt anchor",
+        "definition": "A declining debt-GDP target as the fiscal rule — the post-FY26 framework replacing annual deficit points."
+      }
     ]
   }
 ]

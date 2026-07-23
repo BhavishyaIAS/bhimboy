@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Region", "Agro-profile", "Irrigation & disparity marker"],
+            "headers": [
+              "Region",
+              "Agro-profile",
+              "Irrigation & disparity marker"
+            ],
             "rows": [
-              ["**Coastal delta (Krishna-Godavari-Penna deltas)**", "Paddy bowl ('rice granary of the south'), aqua ponds (Kolleru belt), sugarcane, coconut", "Canal-irrigated (delta systems dating to **Sir Arthur Cotton's anicuts** — Dowleswaram 1852, Prakasam barrage); highest cropping intensity & yields"],
-              ["**North coastal (Srikakulam-Vizianagaram-Manyam)**", "Paddy, mesta, cashew; tribal shifting-cultivation pockets", "Moderate irrigation (Thotapalli, Vamsadhara disputes with Odisha); out-migration belt"],
-              ["**Rayalaseema (Kurnool-Anantapur-Kadapa-Chittoor+)**", "Groundnut (Anantapur — largest groundnut district), horticulture revolution (tomato-Madanapalle, banana, papaya, citrus), millets", "**Chronically drought-prone (~500-700 mm rain)**; groundwater-dependent; projects (HNSS, Galeru-Nagari, Veligonda) incomplete — the disparity core"],
-              ["**Uplands/agency (Eastern Ghats)**", "Coffee (Araku), pepper, minor millets, NTFP", "Rain-fed; PESA/FRA context; Araku coffee as the GI-branded success"]
+              [
+                "**Coastal delta (Krishna-Godavari-Penna deltas)**",
+                "Paddy bowl ('rice granary of the south'), aqua ponds (Kolleru belt), sugarcane, coconut",
+                "Canal-irrigated (delta systems dating to **Sir Arthur Cotton's anicuts** — Dowleswaram 1852, Prakasam barrage); highest cropping intensity & yields"
+              ],
+              [
+                "**North coastal (Srikakulam-Vizianagaram-Manyam)**",
+                "Paddy, mesta, cashew; tribal shifting-cultivation pockets",
+                "Moderate irrigation (Thotapalli, Vamsadhara disputes with Odisha); out-migration belt"
+              ],
+              [
+                "**Rayalaseema (Kurnool-Anantapur-Kadapa-Chittoor+)**",
+                "Groundnut (Anantapur — largest groundnut district), horticulture revolution (tomato-Madanapalle, banana, papaya, citrus), millets",
+                "**Chronically drought-prone (~500-700 mm rain)**; groundwater-dependent; projects (HNSS, Galeru-Nagari, Veligonda) incomplete — the disparity core"
+              ],
+              [
+                "**Uplands/agency (Eastern Ghats)**",
+                "Coffee (Araku), pepper, minor millets, NTFP",
+                "Rain-fed; PESA/FRA context; Araku coffee as the GI-branded success"
+              ]
             ]
           },
           {
@@ -61,6 +81,25 @@
             "text": "Exam tip: Every AP-agriculture answer should carry the two-AP contrast — Cotton's delta vs drought's Rayalaseema — and the aqua-allied surprise (allied > crops). That's the analytical skeleton; schemes hang off it."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — agriculture's weight in AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Weight & shape:** agriculture & allied sectors contribute a **large share of AP's GSVA (~35% incl. allied)** and employ the majority of the workforce; AP is a national leader in **rice, and among the top in horticulture, aquaculture (shrimp), poultry, and spices (chilli — Guntur)**.",
+              "**The allied surge:** **fisheries/aquaculture** (AP is India's largest fish & shrimp producer, dominating seafood exports), **dairy and poultry** now often outpace crop agriculture — the diversification story.",
+              "**Disparities:** deltaic Krishna–Godavari prosperity vs drought-prone **Rayalaseema** and tribal agency areas; irrigated vs rain-fed divide; tenant-farmer distress (the **AP Licensed Cultivators/Crop Cultivator Rights Act**).",
+              "**Responses:** Rythu Bharosa Kendras, input subsidy/insurance, micro-irrigation, and the natural-farming (APCNF) push."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "Andhra Pradesh is India's **largest producer of shrimp/fish** and a leading marine-products exporter.",
+          "**Guntur** is famous for chilli; AP leads in horticulture and aquaculture."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -80,12 +119,30 @@
       "Tenancy without title excludes the actual cultivator — evaluate AP's Crop Cultivator Rights framework."
     ],
     "glossary": [
-      { "term": "GSVA", "definition": "Gross State Value Added — the state-level output measure whose sectoral shares reveal economic structure." },
-      { "term": "Anicut", "definition": "A low diversion weir across a river feeding canal networks — Cotton's Godavari and Krishna anicuts created the delta economy." },
-      { "term": "Cropping intensity", "definition": "Gross cropped area over net sown area — multiple cropping enabled by assured irrigation, highest in the deltas." },
-      { "term": "Lift irrigation", "definition": "Pumping water to command areas above the source level — Rayalaseema's costly but necessary mode (HNSS, Galeru-Nagari)." },
-      { "term": "Informal tenancy", "definition": "Unrecorded lease cultivation — widespread in delta paddy and aqua, excluding actual cultivators from credit and relief until rights cards." },
-      { "term": "Allied sector", "definition": "Livestock, fisheries and forestry within agriculture — AP's growth engine, now rivalling crop output." }
+      {
+        "term": "GSVA",
+        "definition": "Gross State Value Added — the state-level output measure whose sectoral shares reveal economic structure."
+      },
+      {
+        "term": "Anicut",
+        "definition": "A low diversion weir across a river feeding canal networks — Cotton's Godavari and Krishna anicuts created the delta economy."
+      },
+      {
+        "term": "Cropping intensity",
+        "definition": "Gross cropped area over net sown area — multiple cropping enabled by assured irrigation, highest in the deltas."
+      },
+      {
+        "term": "Lift irrigation",
+        "definition": "Pumping water to command areas above the source level — Rayalaseema's costly but necessary mode (HNSS, Galeru-Nagari)."
+      },
+      {
+        "term": "Informal tenancy",
+        "definition": "Unrecorded lease cultivation — widespread in delta paddy and aqua, excluding actual cultivators from credit and relief until rights cards."
+      },
+      {
+        "term": "Allied sector",
+        "definition": "Livestock, fisheries and forestry within agriculture — AP's growth engine, now rivalling crop output."
+      }
     ]
   },
   {
@@ -101,12 +158,32 @@
           },
           {
             "type": "table",
-            "headers": ["Sub-sector", "AP's position & anchors", "Growth logic / caution"],
+            "headers": [
+              "Sub-sector",
+              "AP's position & anchors",
+              "Growth logic / caution"
+            ],
             "rows": [
-              ["**Horticulture**", "Top-tier: mango (Nuzvid, Banginapalli GI), banana (Pulivendula, Kadapa belt), citrus, tomato (Madanapalle), chillies (Guntur GI), turmeric (Duggirala)", "3-5x cereal income/ha; drip-suited to Rayalaseema; perishability → needs cold chains, processing"],
-              ["**Fisheries & aqua**", "No. 1 in fish + shrimp; Vannamei revolution post-2009; hatcheries-feed-processing cluster; **Fishing harbours under construction (Juvvaladinne, Machilipatnam, Uppada etc.)**", "Export dependence (US anti-dumping, disease shocks); Kolleru ecology & salinisation; **AP Fisheries University (Pulivendula)** for skills"],
-              ["**Dairy & livestock**", "Strong buffalo economy (Chittoor, Godavari belts); Amul-entry MoU era & cooperative revival attempts; Banaganapalle-area sheep/goat economy", "Smallholder income smoother; productivity below Punjab/Gujarat benchmarks"],
-              ["**Oil palm**", "~85% of India's crude palm oil; East-West Godavari core; NMEO-OP expansion", "Water-intensive perennial — siting discipline needed; price-assurance formula critical"]
+              [
+                "**Horticulture**",
+                "Top-tier: mango (Nuzvid, Banginapalli GI), banana (Pulivendula, Kadapa belt), citrus, tomato (Madanapalle), chillies (Guntur GI), turmeric (Duggirala)",
+                "3-5x cereal income/ha; drip-suited to Rayalaseema; perishability → needs cold chains, processing"
+              ],
+              [
+                "**Fisheries & aqua**",
+                "No. 1 in fish + shrimp; Vannamei revolution post-2009; hatcheries-feed-processing cluster; **Fishing harbours under construction (Juvvaladinne, Machilipatnam, Uppada etc.)**",
+                "Export dependence (US anti-dumping, disease shocks); Kolleru ecology & salinisation; **AP Fisheries University (Pulivendula)** for skills"
+              ],
+              [
+                "**Dairy & livestock**",
+                "Strong buffalo economy (Chittoor, Godavari belts); Amul-entry MoU era & cooperative revival attempts; Banaganapalle-area sheep/goat economy",
+                "Smallholder income smoother; productivity below Punjab/Gujarat benchmarks"
+              ],
+              [
+                "**Oil palm**",
+                "~85% of India's crude palm oil; East-West Godavari core; NMEO-OP expansion",
+                "Water-intensive perennial — siting discipline needed; price-assurance formula critical"
+              ]
             ]
           }
         ]
@@ -146,6 +223,28 @@
             "text": "Exam tip: 'Changing cropping pattern' questions want direction + drivers + friction, not a crop census. One table row per sub-sector, Bennett's law as the demand anchor, and the processing-gap critique as the close."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the diversification wave",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**What is changing:** a shift from cereals toward **high-value horticulture, aquaculture, dairy, poultry and floriculture**; rising agri-exports (seafood, chilli, mango, tobacco); and contract/agri-business linkages.",
+              "**Drivers:** rising incomes and demand for protein/high-value foods, coastal aquaculture advantage, cold-chain & processing investment, and export pull.",
+              "**Frictions:** price volatility, disease risk in aquaculture, water and effluent stress, feed/input costs, and market-access gaps for small growers.",
+              "**Policy scaffold:** food-processing parks/mega food parks, **PMKSY (irrigation), PM Formalisation of Micro Food Processing Enterprises (PMFME), FPOs (10,000-FPO scheme), e-NAM**, and AP's aqua-zoning and horticulture missions."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**e-NAM** — electronic National Agriculture Market linking mandis online.",
+          "**FPO** — Farmer Producer Organisation; the Centre's scheme targets 10,000 FPOs."
+        ],
+        "mainsAngles": [
+          "'Diversification into allied sectors is reshaping Andhra Pradesh's agriculture' — examine the drivers and the frictions."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -166,12 +265,30 @@
       "Oil palm self-sufficiency rides on AP — evaluate the opportunity and the water-siting caution."
     ],
     "glossary": [
-      { "term": "Crop diversification", "definition": "Shift of acreage from staple cereals to higher-value or risk-spreading crops — AP's structural trend toward horticulture, aqua and oil palm." },
-      { "term": "Bennett's law", "definition": "The empirical regularity that rising incomes shift diets from starchy staples toward proteins, fruits and vegetables — the demand engine of diversification." },
-      { "term": "Vannamei", "definition": "Pacific white-leg shrimp whose 2009 introduction transformed Indian (and AP's) aquaculture economics." },
-      { "term": "Geographical Indication", "definition": "IP protection tying a product's identity to its region (Banginapalle mango, Guntur Sannam chilli) — branding for farmer price premia." },
-      { "term": "FPO", "definition": "Farmer Producer Organisation — collectivised input purchase, aggregation and marketing; the institutional fix for smallholder scale." },
-      { "term": "Cold chain", "definition": "Temperature-controlled storage-transport network — the perishables infrastructure whose absence forces distress sales." }
+      {
+        "term": "Crop diversification",
+        "definition": "Shift of acreage from staple cereals to higher-value or risk-spreading crops — AP's structural trend toward horticulture, aqua and oil palm."
+      },
+      {
+        "term": "Bennett's law",
+        "definition": "The empirical regularity that rising incomes shift diets from starchy staples toward proteins, fruits and vegetables — the demand engine of diversification."
+      },
+      {
+        "term": "Vannamei",
+        "definition": "Pacific white-leg shrimp whose 2009 introduction transformed Indian (and AP's) aquaculture economics."
+      },
+      {
+        "term": "Geographical Indication",
+        "definition": "IP protection tying a product's identity to its region (Banginapalle mango, Guntur Sannam chilli) — branding for farmer price premia."
+      },
+      {
+        "term": "FPO",
+        "definition": "Farmer Producer Organisation — collectivised input purchase, aggregation and marketing; the institutional fix for smallholder scale."
+      },
+      {
+        "term": "Cold chain",
+        "definition": "Temperature-controlled storage-transport network — the perishables infrastructure whose absence forces distress sales."
+      }
     ]
   },
   {
@@ -187,14 +304,42 @@
           },
           {
             "type": "table",
-            "headers": ["Function", "Instrument (regime-neutral)", "Evaluation note"],
+            "headers": [
+              "Function",
+              "Instrument (regime-neutral)",
+              "Evaluation note"
+            ],
             "rows": [
-              ["Income floor", "₹20,000/yr investment support (incl. PM-KISAN)", "Predictable, DBT-clean; per-acre neutrality favours smallholders; tenant inclusion the differentiator"],
-              ["Last-mile services", "**RBK-model village agri-centres (~10,700)**", "Input quality + advisory + procurement in one node; risk — fiscal cost & political rebranding churn"],
-              ["Risk management", "Universal-enrolment crop cover + calamity input subsidy", "Enrolment friction removed (e-crop auto-base); payout adequacy/timeliness still contested"],
-              ["Water productivity", "**APMIP micro-irrigation** (2003–, first in India)", "Drip/sprinkler on ~14+ lakh ha; the Rayalaseema horticulture enabler"],
-              ["Sustainability", "**APCNF** (2016–)", "World's largest agro-ecology programme; input-cost reduction proven, yield-at-scale debated"],
-              ["Markets", "Procurement at RBKs, price-stabilisation, e-NAM integration (Guntur etc.)", "Paddy-centric procurement persists; horticulture price risk under-covered"]
+              [
+                "Income floor",
+                "₹20,000/yr investment support (incl. PM-KISAN)",
+                "Predictable, DBT-clean; per-acre neutrality favours smallholders; tenant inclusion the differentiator"
+              ],
+              [
+                "Last-mile services",
+                "**RBK-model village agri-centres (~10,700)**",
+                "Input quality + advisory + procurement in one node; risk — fiscal cost & political rebranding churn"
+              ],
+              [
+                "Risk management",
+                "Universal-enrolment crop cover + calamity input subsidy",
+                "Enrolment friction removed (e-crop auto-base); payout adequacy/timeliness still contested"
+              ],
+              [
+                "Water productivity",
+                "**APMIP micro-irrigation** (2003–, first in India)",
+                "Drip/sprinkler on ~14+ lakh ha; the Rayalaseema horticulture enabler"
+              ],
+              [
+                "Sustainability",
+                "**APCNF** (2016–)",
+                "World's largest agro-ecology programme; input-cost reduction proven, yield-at-scale debated"
+              ],
+              [
+                "Markets",
+                "Procurement at RBKs, price-stabilisation, e-NAM integration (Guntur etc.)",
+                "Paddy-centric procurement persists; horticulture price risk under-covered"
+              ]
             ]
           }
         ]
@@ -233,6 +378,25 @@
             "text": "Exam tip: The groundwater paradox (free power vs drip subsidy) is the single most analytical point available on AP farm policy — deploy it and resolve it (feeder metering + daytime supply + drip targeting) to show policy maturity."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — AP's agriculture-promotion stack",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**By function:** **inputs** (subsidised seed/fertiliser, soil-health cards), **credit** (KCC, interest-free/subvented crop loans, SHG linkage), **irrigation** (Polavaram, micro-irrigation), **insurance** (PMFBY/state crop insurance), **extension** (Rythu Bharosa Kendras as one-stop farm hubs), **income support** (farmer DBT), and **marketing** (e-NAM, procurement, MSP).",
+              "**Sustainability layer:** **APCNF natural farming** (world's largest), millet promotion, and climate-resilient practices.",
+              "**Evaluation:** strong last-mile extension (RBKs) and input access, but continuing challenges of tenant-farmer credit access, price realisation, water sustainability and fiscal cost of subsidies/DBT.",
+              "**Exam angle:** contrast AP's RBK-plus-DBT extension model with the all-India KVK/ATMA system as a decentralised delivery innovation."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Rythu Bharosa Kendras (RBKs)** — village-level integrated farm-service and extension centres in Andhra Pradesh.",
+          "**PMFBY** — Pradhan Mantri Fasal Bima Yojana (crop insurance)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -252,12 +416,30 @@
       "Cash, cover and centres: does AP's farm stack raise incomes or dependency? Argue with outcome evidence."
     ],
     "glossary": [
-      { "term": "Rythu Bharosa Kendra", "definition": "Village-level integrated agriculture service centre (certified inputs, e-crop, advisory, procurement) — AP's 2020 last-mile farm institution." },
-      { "term": "e-Crop booking", "definition": "Geo-tagged digital registration of every plot's actual crop each season — the single source of truth gating AP's farm benefits." },
-      { "term": "Interest subvention (Sunna Vaddi)", "definition": "State payment of interest on timely-repaid crop loans — rewarding credit discipline with effectively zero-interest borrowing." },
-      { "term": "Feeder segregation", "definition": "Separating agricultural power lines from rural domestic supply — enabling scheduled daytime farm power and honest subsidy accounting." },
-      { "term": "Community Resource Person", "definition": "Practising farmer trained to extend techniques peer-to-peer — APCNF's extension engine borrowed from the SHG playbook." },
-      { "term": "Price Stabilisation Fund", "definition": "Corpus for market intervention when a crop's price crashes below trigger levels — AP's horticulture-risk backstop." }
+      {
+        "term": "Rythu Bharosa Kendra",
+        "definition": "Village-level integrated agriculture service centre (certified inputs, e-crop, advisory, procurement) — AP's 2020 last-mile farm institution."
+      },
+      {
+        "term": "e-Crop booking",
+        "definition": "Geo-tagged digital registration of every plot's actual crop each season — the single source of truth gating AP's farm benefits."
+      },
+      {
+        "term": "Interest subvention (Sunna Vaddi)",
+        "definition": "State payment of interest on timely-repaid crop loans — rewarding credit discipline with effectively zero-interest borrowing."
+      },
+      {
+        "term": "Feeder segregation",
+        "definition": "Separating agricultural power lines from rural domestic supply — enabling scheduled daytime farm power and honest subsidy accounting."
+      },
+      {
+        "term": "Community Resource Person",
+        "definition": "Practising farmer trained to extend techniques peer-to-peer — APCNF's extension engine borrowed from the SHG playbook."
+      },
+      {
+        "term": "Price Stabilisation Fund",
+        "definition": "Corpus for market intervention when a crop's price crashes below trigger levels — AP's horticulture-risk backstop."
+      }
     ]
   }
 ]

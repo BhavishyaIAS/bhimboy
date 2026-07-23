@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Policy element", "Design", "Evaluation"],
+            "headers": [
+              "Policy element",
+              "Design",
+              "Evaluation"
+            ],
             "rows": [
-              ["Single window / Speed-of-business", "Statutory clearance timelines; deemed approvals; one portal", "Genuine national leadership (BRAP top ranks); the test is post-approval facilitation, not approval speed alone"],
-              ["Fiscal incentives", "Investment subsidy (15-45% graded), SGST reimbursement, power subsidy ₹1-1.5/unit era, interest subvention", "Standard across states — AP competes on speed+land, not uniqueness; arrears in reimbursement during fiscal stress hurt credibility"],
-              ["Land & parks", "APIIC land bank, sector parks (Sri City multi-product SEZ ecosystem, Kopparthi EMC, Naidupeta, Atchutapuram)", "Land is AP's real edge (coast + flat terrain + water); litigation-free allotment the differentiator"],
-              ["Inclusive entrepreneurship", "Enhanced subsidies for SC/ST/women; **YSR Jagananna Badugu Vikasam / MSME-caste-inclusion lineage**", "Distinctive social-industrial policy; scale modest"],
-              ["MSME ecosystem", "MSME parks per constituency plan, restructured MSME policy, RAMP participation", "MSMEs = ~97% of units; credit & marketing gaps persist"]
+              [
+                "Single window / Speed-of-business",
+                "Statutory clearance timelines; deemed approvals; one portal",
+                "Genuine national leadership (BRAP top ranks); the test is post-approval facilitation, not approval speed alone"
+              ],
+              [
+                "Fiscal incentives",
+                "Investment subsidy (15-45% graded), SGST reimbursement, power subsidy ₹1-1.5/unit era, interest subvention",
+                "Standard across states — AP competes on speed+land, not uniqueness; arrears in reimbursement during fiscal stress hurt credibility"
+              ],
+              [
+                "Land & parks",
+                "APIIC land bank, sector parks (Sri City multi-product SEZ ecosystem, Kopparthi EMC, Naidupeta, Atchutapuram)",
+                "Land is AP's real edge (coast + flat terrain + water); litigation-free allotment the differentiator"
+              ],
+              [
+                "Inclusive entrepreneurship",
+                "Enhanced subsidies for SC/ST/women; **YSR Jagananna Badugu Vikasam / MSME-caste-inclusion lineage**",
+                "Distinctive social-industrial policy; scale modest"
+              ],
+              [
+                "MSME ecosystem",
+                "MSME parks per constituency plan, restructured MSME policy, RAMP participation",
+                "MSMEs = ~97% of units; credit & marketing gaps persist"
+              ]
             ]
           }
         ]
@@ -41,6 +65,26 @@
             "code": "flowchart TD\n  A[AP industrial policy chassis] --> B[Speed: single desk, BRAP rank 1]\n  A --> C[Incentives: capital, SGST, power]\n  A --> D[Land: APIIC banks, plug-and-play parks]\n  B --> E[Anchor investments: Kia, Sri City, electronics]\n  C --> E\n  D --> E\n  E --> F{Conversion and continuity?}\n  F --> G[Manufacturing share still about 10 percent]\n  F --> H[Fix: arrears discipline, skills, logistics depth]"
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — AP's industrial-promotion playbook",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The toolkit:** state industrial policies with capital/interest/power subsidies, **single-window clearance (AP has ranked among the top states on Ease of Doing Business/Business Reform Action Plan)**, land banks via **APIIC**, sector policies (electronics, food processing, textiles, IT, pharma, aerospace & defence).",
+              "**Anchors:** Visakhapatnam (steel — RINL/Vizag Steel, port, petrochem, pharma, IT), the **Sri City** integrated business city, Kia Motors (Anantapur), and pharma clusters.",
+              "**Honest audit:** strong reform rankings and coastal advantage, but industrial output underweights the endowment — constraints of post-bifurcation capital scarcity, power-cost/quality, land and the loss of Hyderabad's ecosystem.",
+              "**Way forward:** leverage the long coastline & ports, plug-and-play parks, skilling, and corridor-anchored clustering."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**APIIC** — Andhra Pradesh Industrial Infrastructure Corporation (land & industrial parks).",
+          "**Sri City** (Chittoor/Tirupati region) — a large integrated multi-product business city near the Chennai border.",
+          "**Kia Motors** plant at **Anantapur**; **RINL/Vizag Steel** at Visakhapatnam."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -60,12 +104,30 @@
       "Design an industrial policy for AP that survives regime change — credibility as the first incentive."
     ],
     "glossary": [
-      { "term": "Single-window clearance", "definition": "One-portal, time-bound processing of all industrial approvals with deemed-approval defaults — AP's Single Desk/Speed-of-Doing-Business system." },
-      { "term": "BRAP", "definition": "DPIIT's Business Reform Action Plan ranking of states on implemented ease-of-doing-business reforms — AP's repeated No. 1 claim." },
-      { "term": "Plug-and-play park", "definition": "Industrial estate with pre-built sheds, utilities and clearances letting units start production immediately." },
-      { "term": "Anchor investor", "definition": "A large marquee firm (e.g., Kia) whose arrival validates a location and pulls its vendor ecosystem." },
-      { "term": "MoU conversion rate", "definition": "Share of investment intents signed at summits that become ground-broken projects — the honesty metric of investor summits." },
-      { "term": "Incentive arrears", "definition": "Promised-but-unpaid subsidy reimbursements — the credibility leak of fiscally stressed promotion regimes." }
+      {
+        "term": "Single-window clearance",
+        "definition": "One-portal, time-bound processing of all industrial approvals with deemed-approval defaults — AP's Single Desk/Speed-of-Doing-Business system."
+      },
+      {
+        "term": "BRAP",
+        "definition": "DPIIT's Business Reform Action Plan ranking of states on implemented ease-of-doing-business reforms — AP's repeated No. 1 claim."
+      },
+      {
+        "term": "Plug-and-play park",
+        "definition": "Industrial estate with pre-built sheds, utilities and clearances letting units start production immediately."
+      },
+      {
+        "term": "Anchor investor",
+        "definition": "A large marquee firm (e.g., Kia) whose arrival validates a location and pulls its vendor ecosystem."
+      },
+      {
+        "term": "MoU conversion rate",
+        "definition": "Share of investment intents signed at summits that become ground-broken projects — the honesty metric of investor summits."
+      },
+      {
+        "term": "Incentive arrears",
+        "definition": "Promised-but-unpaid subsidy reimbursements — the credibility leak of fiscally stressed promotion regimes."
+      }
     ]
   },
   {
@@ -81,13 +143,37 @@
           },
           {
             "type": "table",
-            "headers": ["Platform", "AP footprint", "Status note"],
+            "headers": [
+              "Platform",
+              "AP footprint",
+              "Status note"
+            ],
             "rows": [
-              ["**VCIC** (ECEC phase-1)", "Vizag, Kakinada, Krishnapatnam-Chittoor nodes; ADB loans since 2016", "Trunk infra + node development ongoing; anchor: petchem-pharma-electronics on the coast"],
-              ["**CBIC**", "**Krishnapatnam industrial node** (~2,500 acres phase-1 approved)", "NICDC greenfield city; port-adjacent"],
-              ["**HBIC/others**", "**Orvakal (Kurnool)** node & airport; Kadapa-Kopparthi linkage", "Rayalaseema's industrial entry ticket"],
-              ["**SEZs**", "AP hosts 25-30 notified/operational SEZs — **Sri City multi-product**, APSEZ Atchutapuram (multi-product), Kakinada SEZ, pharma SEZs (Parawada/JNPC), IT SEZs (Vizag)", "Post-2010s SEZ fatigue (MAT/sunset issues) nationally; AP's port-linked SEZs outperformed inland ones"],
-              ["**Port-industrial clusters**", "Vizag (steel, refinery, pharma city), Kakinada (fertiliser, edible oil, proposed petchem), Krishnapatnam (energy, logistics), Machilipatnam & Ramayapatnam (new ports + zones)", "The real corridor content — industry follows berths"]
+              [
+                "**VCIC** (ECEC phase-1)",
+                "Vizag, Kakinada, Krishnapatnam-Chittoor nodes; ADB loans since 2016",
+                "Trunk infra + node development ongoing; anchor: petchem-pharma-electronics on the coast"
+              ],
+              [
+                "**CBIC**",
+                "**Krishnapatnam industrial node** (~2,500 acres phase-1 approved)",
+                "NICDC greenfield city; port-adjacent"
+              ],
+              [
+                "**HBIC/others**",
+                "**Orvakal (Kurnool)** node & airport; Kadapa-Kopparthi linkage",
+                "Rayalaseema's industrial entry ticket"
+              ],
+              [
+                "**SEZs**",
+                "AP hosts 25-30 notified/operational SEZs — **Sri City multi-product**, APSEZ Atchutapuram (multi-product), Kakinada SEZ, pharma SEZs (Parawada/JNPC), IT SEZs (Vizag)",
+                "Post-2010s SEZ fatigue (MAT/sunset issues) nationally; AP's port-linked SEZs outperformed inland ones"
+              ],
+              [
+                "**Port-industrial clusters**",
+                "Vizag (steel, refinery, pharma city), Kakinada (fertiliser, edible oil, proposed petchem), Krishnapatnam (energy, logistics), Machilipatnam & Ramayapatnam (new ports + zones)",
+                "The real corridor content — industry follows berths"
+              ]
             ]
           }
         ]
@@ -110,6 +196,26 @@
             "code": "flowchart TD\n  A[AP's 974 km coast + flat plains] --> B[VCIC coastal corridor - ADB]\n  A --> C[CBIC - Krishnapatnam node]\n  A --> D[HBIC - Orvakal Rayalaseema node]\n  B --> E[Port-industrial clusters: Vizag, Kakinada, Krishnapatnam]\n  C --> E\n  D --> F[Regional balance for Rayalaseema]\n  E --> G{Occupancy follows infrastructure?}\n  G --> H[Anchors + skills + continuity needed]\n  F --> H"
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — corridors & SEZs, AP's spatial strategy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The corridor grid:** the **Visakhapatnam–Chennai Industrial Corridor (VCIC)** — India's first coastal economic corridor (ADB-backed, part of the East Coast Economic Corridor) — plus the **Chennai–Bengaluru** and **Hyderabad–Bengaluru** influence zones and designated **node cities** (Visakhapatnam, Machilipatnam, Kakinada, Chittoor/Sri City).",
+              "**SEZs & ports:** Visakhapatnam SEZ, port-led industrialisation (**Sagarmala**), and multiple non-major ports along the ~975 km coastline (the **second-longest coastline** among Indian states).",
+              "**Assessment — promise vs pavement:** strong spatial planning and connectivity vision, but execution lags on trunk infrastructure, anchor investors and capital; the corridors are enablers, not automatic outcomes.",
+              "**Exam angle:** use VCIC as the case study for coastal, cluster-based, corridor-led industrialisation."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**VCIC** — Visakhapatnam–Chennai Industrial Corridor, India's first coastal economic corridor (ADB-supported).",
+          "Andhra Pradesh has the **second-longest coastline** (~975 km) among Indian states after Gujarat.",
+          "**Sagarmala** — the Union port-led development programme."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -129,12 +235,30 @@
       "Compare the VCIC's coastal-corridor model with the DMIC's inland model for replicability."
     ],
     "glossary": [
-      { "term": "Industrial corridor", "definition": "A freight-spine-aligned band of planned industrial nodes with trunk infrastructure — India's NICDC programme of greenfield manufacturing geographies." },
-      { "term": "Node", "definition": "The anchor industrial city/cluster within a corridor (Krishnapatnam, Orvakal) where land, utilities and logistics concentrate." },
-      { "term": "SEZ", "definition": "Special Economic Zone — duty-free enclave treated as foreign territory for trade, with fiscal incentives; governed by the SEZ Act, 2005." },
-      { "term": "CRZ", "definition": "Coastal Regulation Zone — environmental zoning that conditions industrial siting on AP's shoreline." },
-      { "term": "Land pooling", "definition": "Assembling land by giving owners developed reconstituted plots instead of cash acquisition — AP's Amaravati-tested alternative to eminent domain." },
-      { "term": "DTA", "definition": "Domestic Tariff Area — the non-SEZ economy; SEZ sales into DTA attract duties, shaping unit location choices." }
+      {
+        "term": "Industrial corridor",
+        "definition": "A freight-spine-aligned band of planned industrial nodes with trunk infrastructure — India's NICDC programme of greenfield manufacturing geographies."
+      },
+      {
+        "term": "Node",
+        "definition": "The anchor industrial city/cluster within a corridor (Krishnapatnam, Orvakal) where land, utilities and logistics concentrate."
+      },
+      {
+        "term": "SEZ",
+        "definition": "Special Economic Zone — duty-free enclave treated as foreign territory for trade, with fiscal incentives; governed by the SEZ Act, 2005."
+      },
+      {
+        "term": "CRZ",
+        "definition": "Coastal Regulation Zone — environmental zoning that conditions industrial siting on AP's shoreline."
+      },
+      {
+        "term": "Land pooling",
+        "definition": "Assembling land by giving owners developed reconstituted plots instead of cash acquisition — AP's Amaravati-tested alternative to eminent domain."
+      },
+      {
+        "term": "DTA",
+        "definition": "Domestic Tariff Area — the non-SEZ economy; SEZ sales into DTA attract duties, shaping unit location choices."
+      }
     ]
   },
   {
@@ -146,14 +270,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Bottleneck", "Content", "Severity signal"],
+            "headers": [
+              "Bottleneck",
+              "Content",
+              "Severity signal"
+            ],
             "rows": [
-              ["**Capital & credit**", "Low state capex (fiscal squeeze), incentive arrears, MSME credit gaps, thin local venture capital", "Manufacturing GSVA ~10-11%; investment announcements > ground-breaking"],
-              ["**Skills**", "ITI/polytechnic quality, English-technical mix, migration of trained youth to Chennai/Bengaluru/Hyderabad", "Anchor firms importing supervisory labour; skill universities & Kia-linked training as responses"],
-              ["**Logistics depth**", "Port capacity strong but hinterland rail/road last-mile, cold chains, warehousing lag; no major air-cargo hub", "Logistics Ease (LEADS) middling vs Gujarat/TN benchmarks"],
-              ["**Urban-industrial ecosystems**", "No Tier-1 metro post-Hyderabad loss: thin executive housing, schools, R&D, airports depth", "The 'where will the manager live' problem — Vizag's build-out is the answer in progress"],
-              ["**Policy continuity**", "Regime-change churn: renegotiated PPAs (2019 renewables episode), paused projects, renamed schemes", "Investor risk premium; arbitration cases"],
-              ["**Power economics**", "DISCOM stress: high AT&C-era legacies, subsidy dependence, dues to gencos", "Cross-subsidising industry tariffs vs free agri power tension"]
+              [
+                "**Capital & credit**",
+                "Low state capex (fiscal squeeze), incentive arrears, MSME credit gaps, thin local venture capital",
+                "Manufacturing GSVA ~10-11%; investment announcements > ground-breaking"
+              ],
+              [
+                "**Skills**",
+                "ITI/polytechnic quality, English-technical mix, migration of trained youth to Chennai/Bengaluru/Hyderabad",
+                "Anchor firms importing supervisory labour; skill universities & Kia-linked training as responses"
+              ],
+              [
+                "**Logistics depth**",
+                "Port capacity strong but hinterland rail/road last-mile, cold chains, warehousing lag; no major air-cargo hub",
+                "Logistics Ease (LEADS) middling vs Gujarat/TN benchmarks"
+              ],
+              [
+                "**Urban-industrial ecosystems**",
+                "No Tier-1 metro post-Hyderabad loss: thin executive housing, schools, R&D, airports depth",
+                "The 'where will the manager live' problem — Vizag's build-out is the answer in progress"
+              ],
+              [
+                "**Policy continuity**",
+                "Regime-change churn: renegotiated PPAs (2019 renewables episode), paused projects, renamed schemes",
+                "Investor risk premium; arbitration cases"
+              ],
+              [
+                "**Power economics**",
+                "DISCOM stress: high AT&C-era legacies, subsidy dependence, dues to gencos",
+                "Cross-subsidising industry tariffs vs free agri power tension"
+              ]
             ]
           }
         ]
@@ -176,6 +328,25 @@
             "code": "flowchart TD\n  A[Industrial bottlenecks] --> B[Capital: arrears, credit, capex squeeze]\n  A --> C[Skills and urban ecosystems]\n  A --> D[Logistics last mile]\n  A --> E[Power economics - DISCOM stress]\n  E --> F[Fix: PSP + solar + wind = firm green power]\n  F --> G[Green power as the new industrial incentive]\n  B --> H[Fix: credibility, arrears discipline]\n  C --> I[Fix: skill universities, Vizag build-out]\n  D --> J[Fix: rail last-mile, warehousing, air cargo]\n  G --> K[Industrial take-off]\n  H --> K\n  I --> K\n  J --> K"
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — bottlenecks & the power backbone",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Why industry underweights the endowment:** capital scarcity post-bifurcation, loss of the Hyderabad services/industrial ecosystem, power cost & DISCOM finances, land aggregation frictions, skilling gaps, and the absence of a large metro-scale urban market.",
+              "**Power projects — the energy file:** thermal (Vijayawada/VTPS, Krishnapatnam, Sri Damodaram Sanjeevaiah), hydel (Srisailam, Nagarjuna Sagar), and a fast-growing **renewables** base (solar in Rayalaseema, wind, and pumped-storage potential); AP targets a high RE share.",
+              "**DISCOM stress:** AT&C losses and subsidy burden (free/subsidised agricultural power) strain APEPDCL/APSPDCL/APCPDCL finances — the classic power-sector reform (UDAY/RDSS) challenge.",
+              "**Way forward:** reliable, competitively priced power; RE + storage; DISCOM reform; and industrial clustering around ports and corridors."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**VTPS** — Vijayawada Thermal Power Station; **Srisailam & Nagarjuna Sagar** — major hydel projects on the Krishna.",
+          "**RDSS** — Revamped Distribution Sector Scheme for DISCOM turnaround (successor to UDAY)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -196,12 +367,30 @@
       "DISCOM finances are the hidden industrial tax — connect power-sector reform to AP's manufacturing competitiveness."
     ],
     "glossary": [
-      { "term": "Pumped-storage project", "definition": "Twin-reservoir hydro that stores surplus (solar) power by pumping uphill and generates on demand — the grid's giant battery; AP's flagship energy bet." },
-      { "term": "Firm green power", "definition": "Round-the-clock renewable supply achieved by pairing solar/wind with storage — the industrial-quality clean energy product." },
-      { "term": "AT&C losses", "definition": "Aggregate technical & commercial losses of DISCOMs — the composite leak of theft, billing and collection inefficiency." },
-      { "term": "Cross-subsidy", "definition": "Charging industry above cost to fund below-cost farm/domestic power — a competitiveness tax on manufacturing." },
-      { "term": "Contract sanctity", "definition": "The assurance that signed state contracts survive regime change — priced directly into investor risk premia." },
-      { "term": "Green hydrogen", "definition": "Hydrogen electrolysed with renewable power — the decarbonisation feedstock AP courts at Vizag/Kakinada." }
+      {
+        "term": "Pumped-storage project",
+        "definition": "Twin-reservoir hydro that stores surplus (solar) power by pumping uphill and generates on demand — the grid's giant battery; AP's flagship energy bet."
+      },
+      {
+        "term": "Firm green power",
+        "definition": "Round-the-clock renewable supply achieved by pairing solar/wind with storage — the industrial-quality clean energy product."
+      },
+      {
+        "term": "AT&C losses",
+        "definition": "Aggregate technical & commercial losses of DISCOMs — the composite leak of theft, billing and collection inefficiency."
+      },
+      {
+        "term": "Cross-subsidy",
+        "definition": "Charging industry above cost to fund below-cost farm/domestic power — a competitiveness tax on manufacturing."
+      },
+      {
+        "term": "Contract sanctity",
+        "definition": "The assurance that signed state contracts survive regime change — priced directly into investor risk premia."
+      },
+      {
+        "term": "Green hydrogen",
+        "definition": "Hydrogen electrolysed with renewable power — the decarbonisation feedstock AP courts at Vizag/Kakinada."
+      }
     ]
   },
   {
@@ -217,12 +406,32 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "Assets & programmes", "Gap note"],
+            "headers": [
+              "Sector",
+              "Assets & programmes",
+              "Gap note"
+            ],
             "rows": [
-              ["Ports", "6 operating + 4 greenfield; Sagarmala alignment; Vizag cruise/fishing harbours", "Hinterland rail last-mile; cargo diversification beyond bulk"],
-              ["Roads", "NH-16 spine; state R&B upgrades; PMGSY saturation rural", "East-west (coast→Rayalaseema) connectivity thinner than the north-south spine"],
-              ["Rail", "SCoR zone; Vizag-Chennai third-line works; port links (Krishnapatnam-Obulavaripalle)", "Zone operationalisation pace; freight terminals"],
-              ["Air", "7+ commercial airports; Bhogapuram to relieve constrained Vizag", "No air-cargo hub; low regional connectivity utilisation"]
+              [
+                "Ports",
+                "6 operating + 4 greenfield; Sagarmala alignment; Vizag cruise/fishing harbours",
+                "Hinterland rail last-mile; cargo diversification beyond bulk"
+              ],
+              [
+                "Roads",
+                "NH-16 spine; state R&B upgrades; PMGSY saturation rural",
+                "East-west (coast→Rayalaseema) connectivity thinner than the north-south spine"
+              ],
+              [
+                "Rail",
+                "SCoR zone; Vizag-Chennai third-line works; port links (Krishnapatnam-Obulavaripalle)",
+                "Zone operationalisation pace; freight terminals"
+              ],
+              [
+                "Air",
+                "7+ commercial airports; Bhogapuram to relieve constrained Vizag",
+                "No air-cargo hub; low regional connectivity utilisation"
+              ]
             ]
           }
         ]
@@ -244,6 +453,25 @@
             "code": "flowchart TD\n  A[AP infrastructure triad] --> B[Transport: 10-port grid, NH-16, SCoR, 7 airports]\n  A --> C[Energy: thermal + RE + PSP + KG gas]\n  A --> D[ICT: Fibre Grid, submarine cable, data centres]\n  B --> E[Gateway economics - east coast logistics hub]\n  C --> E\n  D --> E\n  E --> F[Industrial corridors monetise the gateway]"
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — AP's transport-energy-ICT infrastructure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Coast-first transport:** the long coastline anchors a **port-led network** — **Visakhapatnam (major port)**, plus non-major ports (Krishnapatnam, Gangavaram, Kakinada, Machilipatnam, Ramayapatnam under development); NH grid, the Chennai–Kolkata (Golden Quadrilateral arm) corridor, dedicated freight linkages, and airports (Visakhapatnam, Vijayawada/Gannavaram, Tirupati, Kadapa, Kurnool).",
+              "**Energy leg:** thermal + hydel + a rising renewables share; inter-state grid connectivity; the pumped-storage and green-hydrogen ambition.",
+              "**ICT leg:** the **AP FiberNet/AP State FiberGrid** (a pioneering state-owned last-mile fibre network), data-centre push (Visakhapatnam), and IT/electronics parks.",
+              "**Exam angle:** AP's comparative advantage is **maritime logistics + renewables + digital connectivity** — the tripod for its next growth phase."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Visakhapatnam Port** — the only major (central) port of Andhra Pradesh; the rest are state/non-major ports.",
+          "**AP FiberNet** — state-owned optical-fibre last-mile broadband network."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -263,12 +491,30 @@
       "Map AP's energy-infrastructure transition from coal spine to storage-backed renewables and gas."
     ],
     "glossary": [
-      { "term": "Major port", "definition": "Port administered by the Union under the Major Port Authorities Act — Visakhapatnam is AP's; others are state/private 'non-major' ports." },
-      { "term": "MTPA", "definition": "Million tonnes per annum — port cargo-capacity unit; AP's combined capacity exceeds 400 MTPA on completion." },
-      { "term": "Landing station", "definition": "Shore facility where submarine internet cables terminate — Vizag's station anchors east-coast data-hub ambitions." },
-      { "term": "FTTH", "definition": "Fibre-to-the-home broadband; the AP Fibre Grid's household triple-play (internet, TV, phone) delivery." },
-      { "term": "Gateway economics", "definition": "Growth strategy monetising location as the entry-exit point for goods, energy and data flows of a larger hinterland." },
-      { "term": "RDSS", "definition": "Revamped Distribution Sector Scheme — smart metering and loss-reduction funding tied to DISCOM reform milestones." }
+      {
+        "term": "Major port",
+        "definition": "Port administered by the Union under the Major Port Authorities Act — Visakhapatnam is AP's; others are state/private 'non-major' ports."
+      },
+      {
+        "term": "MTPA",
+        "definition": "Million tonnes per annum — port cargo-capacity unit; AP's combined capacity exceeds 400 MTPA on completion."
+      },
+      {
+        "term": "Landing station",
+        "definition": "Shore facility where submarine internet cables terminate — Vizag's station anchors east-coast data-hub ambitions."
+      },
+      {
+        "term": "FTTH",
+        "definition": "Fibre-to-the-home broadband; the AP Fibre Grid's household triple-play (internet, TV, phone) delivery."
+      },
+      {
+        "term": "Gateway economics",
+        "definition": "Growth strategy monetising location as the entry-exit point for goods, energy and data flows of a larger hinterland."
+      },
+      {
+        "term": "RDSS",
+        "definition": "Revamped Distribution Sector Scheme — smart metering and loss-reduction funding tied to DISCOM reform milestones."
+      }
     ]
   },
   {
@@ -280,14 +526,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Bottleneck", "Specifics", "Consequence"],
+            "headers": [
+              "Bottleneck",
+              "Specifics",
+              "Consequence"
+            ],
             "rows": [
-              ["**Fiscal capex squeeze**", "Committed expenditure crowds capital outlay (~10-12% of budget); arrears to contractors stall works", "Projects stretch: time = cost (Polavaram the emblem)"],
-              ["**Project-execution churn**", "Regime-change reviews (Amaravati 2019-24 pause; PPA episode), litigation, land issues", "Credibility premium on every PPP bid"],
-              ["**Hinterland links**", "Port capacity > evacuation capacity: rail doubling, east-west roads to Rayalaseema, freight terminals lag", "Cargo leaks to Chennai; corridor nodes under-served"],
-              ["**Urban infrastructure deficit**", "No metro yet (Vizag metro DPRs pending), capital-city vacuum 2019-24, ULB finances weak", "The ecosystem gap behind industrial hesitancy"],
-              ["**DISCOM & water utilities stress**", "Legacy dues, subsidy dependence; irrigation O&M underfunded", "Reliability risk despite generation surplus"],
-              ["**Centre-state coordination**", "Reimbursement-model projects (Polavaram), zone operationalisation (SCoR), NH sanction sequencing", "Cash-flow burden lands on the strained state first"]
+              [
+                "**Fiscal capex squeeze**",
+                "Committed expenditure crowds capital outlay (~10-12% of budget); arrears to contractors stall works",
+                "Projects stretch: time = cost (Polavaram the emblem)"
+              ],
+              [
+                "**Project-execution churn**",
+                "Regime-change reviews (Amaravati 2019-24 pause; PPA episode), litigation, land issues",
+                "Credibility premium on every PPP bid"
+              ],
+              [
+                "**Hinterland links**",
+                "Port capacity > evacuation capacity: rail doubling, east-west roads to Rayalaseema, freight terminals lag",
+                "Cargo leaks to Chennai; corridor nodes under-served"
+              ],
+              [
+                "**Urban infrastructure deficit**",
+                "No metro yet (Vizag metro DPRs pending), capital-city vacuum 2019-24, ULB finances weak",
+                "The ecosystem gap behind industrial hesitancy"
+              ],
+              [
+                "**DISCOM & water utilities stress**",
+                "Legacy dues, subsidy dependence; irrigation O&M underfunded",
+                "Reliability risk despite generation surplus"
+              ],
+              [
+                "**Centre-state coordination**",
+                "Reimbursement-model projects (Polavaram), zone operationalisation (SCoR), NH sanction sequencing",
+                "Cash-flow burden lands on the strained state first"
+              ]
             ]
           }
         ]
@@ -310,6 +584,24 @@
             "code": "flowchart TD\n  A[Project board: Polavaram, Amaravati, ports, expressways, PSP] --> B{Constraints}\n  B --> C[Fiscal: capex residual, arrears]\n  B --> D[Continuity: regime churn]\n  B --> E[Coordination: reimbursement models]\n  C --> F[Fixes: capex floor, multilateral windows, PPP]\n  D --> G[Fixes: pipeline authority, contract sanctity]\n  E --> H[Fixes: upfront central funding, milestone escrow]\n  F --> I[Finished infrastructure - growth unlocked]\n  G --> I\n  H --> I"
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — infrastructure pinch-points & the project board",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Where it pinches:** the capital-city/urban-infrastructure gap (no legacy metro like Hyderabad), financing constraints for large projects, DISCOM finances, last-mile irrigation, and uneven regional connectivity (Rayalaseema, agency areas).",
+              "**Financing model:** central schemes (Sagarmala, Bharatmala, RDSS, Jal Jeevan), **PPP/HAM/VGF**, multilateral loans (ADB/World Bank for VCIC), and asset monetisation.",
+              "**Live project board:** **Polavaram** (multipurpose, national project), port and corridor works (VCIC), **Amaravati** capital infrastructure, RE & pumped-storage, and highway/rail upgrades.",
+              "**Way forward:** blended finance, project execution discipline, and leveraging the coast for logistics-led growth."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "Identify the key infrastructure bottlenecks constraining Andhra Pradesh's growth and suggest a financing and execution strategy."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -329,12 +621,30 @@
       "Prioritise AP's live project board with a growth-per-rupee logic — which five projects first, and why?"
     ],
     "glossary": [
-      { "term": "Capex floor", "definition": "A rule-bound minimum share of the budget for capital outlay — protecting investment from becoming the fiscal residual." },
-      { "term": "Viability-gap funding", "definition": "Capital grant (usually up to 20-40%) making marginally unviable PPP infrastructure bankable." },
-      { "term": "Diaphragm wall", "definition": "The underground cut-off wall beneath Polavaram's earth-cum-rockfill dam — its 2020 flood damage is the project's defining setback." },
-      { "term": "Landlord port model", "definition": "Public port authority owns land/water assets while private operators finance and run terminals — the dominant PPP structure." },
-      { "term": "O&M budgeting", "definition": "Dedicated maintenance funding for created assets — the discipline whose absence turns infrastructure into liability." },
-      { "term": "Project pipeline authority", "definition": "Proposed regime-neutral body to keep vetted projects funded and moving across governments — the continuity fix." }
+      {
+        "term": "Capex floor",
+        "definition": "A rule-bound minimum share of the budget for capital outlay — protecting investment from becoming the fiscal residual."
+      },
+      {
+        "term": "Viability-gap funding",
+        "definition": "Capital grant (usually up to 20-40%) making marginally unviable PPP infrastructure bankable."
+      },
+      {
+        "term": "Diaphragm wall",
+        "definition": "The underground cut-off wall beneath Polavaram's earth-cum-rockfill dam — its 2020 flood damage is the project's defining setback."
+      },
+      {
+        "term": "Landlord port model",
+        "definition": "Public port authority owns land/water assets while private operators finance and run terminals — the dominant PPP structure."
+      },
+      {
+        "term": "O&M budgeting",
+        "definition": "Dedicated maintenance funding for created assets — the discipline whose absence turns infrastructure into liability."
+      },
+      {
+        "term": "Project pipeline authority",
+        "definition": "Proposed regime-neutral body to keep vetted projects funded and moving across governments — the continuity fix."
+      }
     ]
   }
 ]

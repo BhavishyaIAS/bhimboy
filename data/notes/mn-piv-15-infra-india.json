@@ -8,12 +8,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Network", "Status & programmes", "Issues"],
+            "headers": [
+              "Network",
+              "Status & programmes",
+              "Issues"
+            ],
             "rows": [
-              ["**Roads**", "**NH ~1.46 lakh km** (doubled since 2014); construction ~30-34 km/day peaks; **Bharatmala** (economic-corridor logic) → **expressway era (Delhi-Mumbai 1,386 km; ~5,000+ km built/being built)**; PMGSY's rural 7.7+ lakh km", "Land-cost inflation, HAM concentration risks, maintenance under-budgeting, safety (~1.7 lakh deaths/yr — the silent epidemic)"],
-              ["**Railways**", "~68,000 route-km; **100% broad-gauge electrification (~2024)**; **DFCs — Eastern (1,337 km, done) & Western (1,506 km, near-complete)**; Vande Bharat (~130+ services), Amrit Bharat stations (1,300+), **Kavach** signalling rollout", "Freight-share slide (~27% vs road's dominance — DFC's reversal mission), cross-subsidy (freight overpricing funding passenger under-pricing), finances (operating ratio ~98%)"],
-              ["**Ports & shipping**", "12 major + 200+ non-major; capacity ~2,600 MTPA; **Sagarmala** (port-led development, 800+ projects); **turnaround time halved (~2 days — better than some advanced ports)**; **Vadhavan (₹76,000 cr) & Galathea Bay (Great Nicobar transshipment)** the mega-greenfields; **Maritime India Vision 2030/Amrit Kaal 2047**", "Transshipment dependence (Colombo's ~25-30% of India's containers — Galathea's target), coastal-shipping underuse, dredging-draft limits"],
-              ["**Aviation**", "**~160 operational airports (74 in 2014); UDAN's regional map (600+ routes)**; Delhi-Noida-Navi-Mumbai's new hubs; **world's 3rd-largest domestic market (~16-17 cr pax)**; record fleet orders (Air India-IndiGo ~1,000+ aircraft)", "ATF taxation, MRO leakage abroad, hub-bypass (Gulf's capture of long-haul), UDAN route mortality"]
+              [
+                "**Roads**",
+                "**NH ~1.46 lakh km** (doubled since 2014); construction ~30-34 km/day peaks; **Bharatmala** (economic-corridor logic) → **expressway era (Delhi-Mumbai 1,386 km; ~5,000+ km built/being built)**; PMGSY's rural 7.7+ lakh km",
+                "Land-cost inflation, HAM concentration risks, maintenance under-budgeting, safety (~1.7 lakh deaths/yr — the silent epidemic)"
+              ],
+              [
+                "**Railways**",
+                "~68,000 route-km; **100% broad-gauge electrification (~2024)**; **DFCs — Eastern (1,337 km, done) & Western (1,506 km, near-complete)**; Vande Bharat (~130+ services), Amrit Bharat stations (1,300+), **Kavach** signalling rollout",
+                "Freight-share slide (~27% vs road's dominance — DFC's reversal mission), cross-subsidy (freight overpricing funding passenger under-pricing), finances (operating ratio ~98%)"
+              ],
+              [
+                "**Ports & shipping**",
+                "12 major + 200+ non-major; capacity ~2,600 MTPA; **Sagarmala** (port-led development, 800+ projects); **turnaround time halved (~2 days — better than some advanced ports)**; **Vadhavan (₹76,000 cr) & Galathea Bay (Great Nicobar transshipment)** the mega-greenfields; **Maritime India Vision 2030/Amrit Kaal 2047**",
+                "Transshipment dependence (Colombo's ~25-30% of India's containers — Galathea's target), coastal-shipping underuse, dredging-draft limits"
+              ],
+              [
+                "**Aviation**",
+                "**~160 operational airports (74 in 2014); UDAN's regional map (600+ routes)**; Delhi-Noida-Navi-Mumbai's new hubs; **world's 3rd-largest domestic market (~16-17 cr pax)**; record fleet orders (Air India-IndiGo ~1,000+ aircraft)",
+                "ATF taxation, MRO leakage abroad, hub-bypass (Gulf's capture of long-haul), UDAN route mortality"
+              ]
             ]
           },
           {
@@ -56,6 +76,26 @@
             "text": "Exam tip: 'India's infrastructure problem graduated from concrete to coordination' — Gati Shakti's premise as your thesis; the freight modal-shift argument is where analysis marks live."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the four transport networks",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Roads:** the largest network by length; **Bharatmala** (economic corridors, expressways), NHAI monetisation (InvITs/TOT), and the goal of cutting logistics cost from ~13-14% toward global ~8%.",
+              "**Railways:** electrification drive, **Dedicated Freight Corridors (DFCs)**, **Vande Bharat/high-speed (Mumbai–Ahmedabad bullet)**, station redevelopment, and 100% broad-gauge electrification ambition.",
+              "**Ports & shipping:** **Sagarmala** (port-led development), major vs non-major ports, coastal shipping & inland waterways (**National Waterways**), and the Maritime India Vision.",
+              "**Aviation:** **UDAN (regional connectivity)**, privatisation of airports, and one of the world's fastest-growing markets; **PM Gati Shakti** integrates all four for multimodal planning. **AP hook:** the coast gives AP a maritime-logistics edge (Visakhapatnam + non-major ports)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Bharatmala** (roads) and **Sagarmala** (ports) are the flagship connectivity programmes.",
+          "**Dedicated Freight Corridors** — Eastern & Western DFCs for freight-only rail.",
+          "**UDAN** — Ude Desh ka Aam Naagrik, regional air-connectivity scheme."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,12 +116,30 @@
       "Roads built fast kill fast — confront the safety epidemic within the construction celebration."
     ],
     "glossary": [
-      { "term": "Dedicated Freight Corridor", "definition": "Freight-only rail spines (EDFC-WDFC) doubling speeds and freeing passenger lines — the modal-shift backbone." },
-      { "term": "Transshipment", "definition": "Container transfer via foreign hubs (Colombo) for lack of deep Indian hubs — Galathea Bay's target." },
-      { "term": "Asset recycling", "definition": "Monetising operating public assets (TOT/InvIT) to fund new builds — capital's second life." },
-      { "term": "UDAN", "definition": "Ude Desh ka Aam Nagrik — subsidised regional air routes democratising aviation." },
-      { "term": "Multimodal logistics park", "definition": "Integrated freight terminals uniting road-rail-warehouse — the NLP's nodes." },
-      { "term": "Operating ratio (railways)", "definition": "Working expenses per ₹100 earned (~98) — the finances' tightness gauge." }
+      {
+        "term": "Dedicated Freight Corridor",
+        "definition": "Freight-only rail spines (EDFC-WDFC) doubling speeds and freeing passenger lines — the modal-shift backbone."
+      },
+      {
+        "term": "Transshipment",
+        "definition": "Container transfer via foreign hubs (Colombo) for lack of deep Indian hubs — Galathea Bay's target."
+      },
+      {
+        "term": "Asset recycling",
+        "definition": "Monetising operating public assets (TOT/InvIT) to fund new builds — capital's second life."
+      },
+      {
+        "term": "UDAN",
+        "definition": "Ude Desh ka Aam Nagrik — subsidised regional air routes democratising aviation."
+      },
+      {
+        "term": "Multimodal logistics park",
+        "definition": "Integrated freight terminals uniting road-rail-warehouse — the NLP's nodes."
+      },
+      {
+        "term": "Operating ratio (railways)",
+        "definition": "Working expenses per ₹100 earned (~98) — the finances' tightness gauge."
+      }
     ]
   },
   {
@@ -93,12 +151,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Layer", "Status", "Note"],
+            "headers": [
+              "Layer",
+              "Status",
+              "Note"
+            ],
             "rows": [
-              ["Connectivity", "**Telecom subscribers ~117-120 crore; broadband ~95 crore; 5G's fastest global rollout (~4.5 lakh+ base stations covering ~all districts by 2024-25); BharatNet (~2.1+ lakh GPs connected, amended model rollout)**; 6G vision (Bharat 6G Alliance)", "Rural-urban and gender divides persist; fixed-line broadband thin (~4 crore) — the fibre-to-home gap"],
-              ["Data & compute", "**Data-centre boom (Mumbai-Chennai-Hyderabad-Vizag corridor); India AI Mission (₹10,372 cr — 38,000+ GPU commons)**; submarine-cable landings (Vizag's east-coast station)", "Power-water siting, sovereignty rules (localisation), the compute-import dependence"],
-              ["Platforms (DPI)", "**Aadhaar (140 cr) → UPI (~18-19 bn transactions/month, ~half of global RTP) → DigiLocker-ONDC-AA** — the India Stack; **CoWIN-eSanjeevani-DIKSHA** sector stacks", "The G-093/GBI-021 e-governance file's hardware — DPI as public-good infrastructure India exports (G20's endorsement)"],
-              ["Manufacturing & sovereignty", "Electronics production ~$115+ bn (mobiles ~$50 bn, exports ~$29 bn); **Semicon India (₹76,000 cr; Micron ATMP, Tata fabs announced)**", "Value-addition depth (~15-20%) the ladder still to climb"]
+              [
+                "Connectivity",
+                "**Telecom subscribers ~117-120 crore; broadband ~95 crore; 5G's fastest global rollout (~4.5 lakh+ base stations covering ~all districts by 2024-25); BharatNet (~2.1+ lakh GPs connected, amended model rollout)**; 6G vision (Bharat 6G Alliance)",
+                "Rural-urban and gender divides persist; fixed-line broadband thin (~4 crore) — the fibre-to-home gap"
+              ],
+              [
+                "Data & compute",
+                "**Data-centre boom (Mumbai-Chennai-Hyderabad-Vizag corridor); India AI Mission (₹10,372 cr — 38,000+ GPU commons)**; submarine-cable landings (Vizag's east-coast station)",
+                "Power-water siting, sovereignty rules (localisation), the compute-import dependence"
+              ],
+              [
+                "Platforms (DPI)",
+                "**Aadhaar (140 cr) → UPI (~18-19 bn transactions/month, ~half of global RTP) → DigiLocker-ONDC-AA** — the India Stack; **CoWIN-eSanjeevani-DIKSHA** sector stacks",
+                "The G-093/GBI-021 e-governance file's hardware — DPI as public-good infrastructure India exports (G20's endorsement)"
+              ],
+              [
+                "Manufacturing & sovereignty",
+                "Electronics production ~$115+ bn (mobiles ~$50 bn, exports ~$29 bn); **Semicon India (₹76,000 cr; Micron ATMP, Tata fabs announced)**",
+                "Value-addition depth (~15-20%) the ladder still to climb"
+              ]
             ]
           }
         ]
@@ -137,6 +215,26 @@
             "text": "Exam tip: 'India built the world's largest digital public square on the world's cheapest data' — then the justice audit paragraph keeps the answer honest; DPI-as-export (G20) is the closing flourish."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the digital spine & DPI",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Digital Public Infrastructure (India Stack):** **Aadhaar (identity), UPI (payments — billions of monthly transactions, world-leading), DigiLocker, e-KYC, CoWIN, ONDC (open commerce), Account Aggregator (consent-based data)** — a globally exported governance model.",
+              "**Connectivity backbone:** **BharatNet** (rural broadband to gram panchayats), **5G rollout**, National Broadband Mission, and submarine-cable landings.",
+              "**e-Governance outcomes:** **Digital India (2015)**, **UMANG**, DBT (leakage-plugging), **DIKSHA/education, telemedicine (eSanjeevani)** — service delivery at scale.",
+              "**Frontier & risks:** data protection (**DPDP Act 2023**), cybersecurity (**CERT-In, I4C**), AI (**IndiaAI Mission**), and the digital divide. **AP hook:** **AP FiberNet** as a state-led last-mile fibre pioneer."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**BharatNet** — optical-fibre broadband to all gram panchayats.",
+          "**India Stack** components: Aadhaar, UPI, DigiLocker, Account Aggregator, ONDC.",
+          "**IndiaAI Mission** — national programme for AI compute, datasets and applications."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -157,12 +255,30 @@
       "AP prototyped, India scaled — trace the e-Seva-to-India-Stack lineage and the state's next digital bets."
     ],
     "glossary": [
-      { "term": "Digital public infrastructure", "definition": "Open, interoperable population-scale platforms (identity, payments, data-sharing) on which services are built — India's model export." },
-      { "term": "BharatNet", "definition": "The public rural optical-fibre network to gram panchayats — connectivity's federal last mile." },
-      { "term": "ONDC", "definition": "Open Network for Digital Commerce — unbundling e-commerce into interoperable protocols against platform monopoly." },
-      { "term": "ATMP/OSAT", "definition": "Assembly-test-mark-package semiconductor plants — the chip ladder's first rung (Micron's Sanand)." },
-      { "term": "Account Aggregator", "definition": "Consent-managed financial-data sharing rail — DPI's credit layer." },
-      { "term": "Bhashini", "definition": "The national AI translation mission making services multilingual — inclusion's language layer." }
+      {
+        "term": "Digital public infrastructure",
+        "definition": "Open, interoperable population-scale platforms (identity, payments, data-sharing) on which services are built — India's model export."
+      },
+      {
+        "term": "BharatNet",
+        "definition": "The public rural optical-fibre network to gram panchayats — connectivity's federal last mile."
+      },
+      {
+        "term": "ONDC",
+        "definition": "Open Network for Digital Commerce — unbundling e-commerce into interoperable protocols against platform monopoly."
+      },
+      {
+        "term": "ATMP/OSAT",
+        "definition": "Assembly-test-mark-package semiconductor plants — the chip ladder's first rung (Micron's Sanand)."
+      },
+      {
+        "term": "Account Aggregator",
+        "definition": "Consent-managed financial-data sharing rail — DPI's credit layer."
+      },
+      {
+        "term": "Bhashini",
+        "definition": "The national AI translation mission making services multilingual — inclusion's language layer."
+      }
     ]
   },
   {
@@ -178,12 +294,27 @@
           },
           {
             "type": "table",
-            "headers": ["Milestone achievements", "Content"],
+            "headers": [
+              "Milestone achievements",
+              "Content"
+            ],
             "rows": [
-              ["Universal access", "**SAUBHAGYA (2017-19): ~2.9 crore households electrified — near-universal connection**; village electrification completed (2018)"],
-              ["Market institutions", "Power exchanges (IEX's price discovery), **real-time & green markets**, security-constrained despatch, the **Electricity (Amendment) debates** (carriage-content separation pending)"],
-              ["Payment discipline", "**LPS Rules 2022** — DISCOM dues to gencos crushed (~₹1.4 lakh cr → sharply lower); prepaid-smart meters (~1+ crore installed of 25 cr target)"],
-              ["Consumer-end", "**PM Surya Ghar (rooftops), KUSUM (farm solar)** — the prosumer turn"]
+              [
+                "Universal access",
+                "**SAUBHAGYA (2017-19): ~2.9 crore households electrified — near-universal connection**; village electrification completed (2018)"
+              ],
+              [
+                "Market institutions",
+                "Power exchanges (IEX's price discovery), **real-time & green markets**, security-constrained despatch, the **Electricity (Amendment) debates** (carriage-content separation pending)"
+              ],
+              [
+                "Payment discipline",
+                "**LPS Rules 2022** — DISCOM dues to gencos crushed (~₹1.4 lakh cr → sharply lower); prepaid-smart meters (~1+ crore installed of 25 cr target)"
+              ],
+              [
+                "Consumer-end",
+                "**PM Surya Ghar (rooftops), KUSUM (farm solar)** — the prosumer turn"
+              ]
             ]
           }
         ]
@@ -222,6 +353,25 @@
             "text": "Exam tip: 'India generates like a power, transmits like a federation, and distributes like a fiscal crisis' — the three-clause diagnosis that structures every power-infrastructure answer."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the energy & power grid",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Generation mix:** coal still dominant (~half), but a fast-rising **renewables** share; India targets **500 GW non-fossil capacity by 2030** and **Net-Zero by 2070**.",
+              "**One nation, one grid:** synchronous national grid; **Green Energy Corridors** to evacuate RE; **battery/pumped-storage** for balancing.",
+              "**The problem set — DISCOM finances:** AT&C losses, cross-subsidy, and unpaid dues; reform via **UDAY → RDSS**, smart metering, and tariff rationalisation; open access & the draft Electricity (Amendment) reforms.",
+              "**Energy transition:** **National Green Hydrogen Mission, PM-KUSUM (solar for farmers), PM Surya Ghar (rooftop solar), ethanol blending (E20)**, and nuclear expansion (SMRs on the horizon). **AP hook:** high RE potential (solar in Rayalaseema, pumped storage) and DISCOM-reform challenge."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "India's target: **500 GW non-fossil-fuel capacity by 2030**; **Net-Zero by 2070** (announced at COP26, Glasgow).",
+          "**RDSS** — Revamped Distribution Sector Scheme (DISCOM reform); **National Green Hydrogen Mission (2023)**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -242,12 +392,30 @@
       "Universal connection met leaking supply — reconcile SAUBHAGYA's triumph with DISCOM economics."
     ],
     "glossary": [
-      { "term": "AT&C losses", "definition": "The distribution leak combining technical loss, theft and billing-collection failure — the sector's fiscal haemorrhage metric." },
-      { "term": "ISTS", "definition": "Inter-State Transmission System — the national high-voltage highways RE evacuation rides on." },
-      { "term": "Late Payment Surcharge Rules", "definition": "The 2022 discipline regime forcing DISCOMs to clear genco dues or lose market access." },
-      { "term": "Prosumer", "definition": "A consumer who also produces (rooftop solar) — the grid's two-way future." },
-      { "term": "Carriage-content separation", "definition": "Splitting wires from supply retail for competition — the pending Electricity-Act reform." },
-      { "term": "HVDC", "definition": "High-voltage direct-current links moving bulk power across regions with low loss — the grid's arteries." }
+      {
+        "term": "AT&C losses",
+        "definition": "The distribution leak combining technical loss, theft and billing-collection failure — the sector's fiscal haemorrhage metric."
+      },
+      {
+        "term": "ISTS",
+        "definition": "Inter-State Transmission System — the national high-voltage highways RE evacuation rides on."
+      },
+      {
+        "term": "Late Payment Surcharge Rules",
+        "definition": "The 2022 discipline regime forcing DISCOMs to clear genco dues or lose market access."
+      },
+      {
+        "term": "Prosumer",
+        "definition": "A consumer who also produces (rooftop solar) — the grid's two-way future."
+      },
+      {
+        "term": "Carriage-content separation",
+        "definition": "Splitting wires from supply retail for competition — the pending Electricity-Act reform."
+      },
+      {
+        "term": "HVDC",
+        "definition": "High-voltage direct-current links moving bulk power across regions with low loss — the grid's arteries."
+      }
     ]
   },
   {
@@ -263,12 +431,27 @@
           },
           {
             "type": "table",
-            "headers": ["Urban environment & SWM (the theme's named focus)", "Content"],
+            "headers": [
+              "Urban environment & SWM (the theme's named focus)",
+              "Content"
+            ],
             "rows": [
-              ["Air", "Cities dominate NCAP's non-attainment list; construction-transport dust-exhaust the urban mix (G-093's file urbanised)"],
-              ["Water-sewage", "~72% sewage untreated legacy → AMRUT's STP build; **used-water reuse targets (20-40% city mandates emerging)**; urban flooding (Budameru's Vijayawada lesson — drains as the forgotten infrastructure)"],
-              ["**SWM (urban)**", "The PL-025 chain at city scale: **Indore's six-way model; GFC star ratings; legacy-dump bioremediation (~2,400+ acres reclaimed era)**; waste-to-compost-CBG the wet answer; EPR the dry driver"],
-              ["Heat & green", "UHI (+2-5°C city cores), heat-action plans (Ahmedabad's pioneer), **urban forests (Nagar Van), blue-green infrastructure (sponge-city logic — Amaravati's canal-park design language)**"]
+              [
+                "Air",
+                "Cities dominate NCAP's non-attainment list; construction-transport dust-exhaust the urban mix (G-093's file urbanised)"
+              ],
+              [
+                "Water-sewage",
+                "~72% sewage untreated legacy → AMRUT's STP build; **used-water reuse targets (20-40% city mandates emerging)**; urban flooding (Budameru's Vijayawada lesson — drains as the forgotten infrastructure)"
+              ],
+              [
+                "**SWM (urban)**",
+                "The PL-025 chain at city scale: **Indore's six-way model; GFC star ratings; legacy-dump bioremediation (~2,400+ acres reclaimed era)**; waste-to-compost-CBG the wet answer; EPR the dry driver"
+              ],
+              [
+                "Heat & green",
+                "UHI (+2-5°C city cores), heat-action plans (Ahmedabad's pioneer), **urban forests (Nagar Van), blue-green infrastructure (sponge-city logic — Amaravati's canal-park design language)**"
+              ]
             ]
           }
         ]
@@ -307,6 +490,28 @@
             "text": "Exam tip: 'Missions compensate for municipalities' — the six-word diagnosis of Indian urban governance; end every urban answer on empowerment-finance-staffing, not on another scheme."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — urban infrastructure & the governance deficit",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The mission stack:** **AMRUT 2.0 (water/sewerage), Smart Cities Mission, PMAY-U (housing), Swachh Bharat-Urban, metro-rail expansion, and the National Urban Transport Policy**.",
+              "**The demographic pressure:** India is urbanising fast (~35%+ urban, headed toward ~40%); cities generate the majority of GDP but face housing, water, sanitation, mobility and air-quality deficits.",
+              "**The governance deficit:** weak **74th-Amendment devolution** (functions/finances/functionaries to ULBs), reliance on parastatals, thin municipal own-revenue (property tax under-collection), and the need for **municipal bonds & value capture**.",
+              "**Way forward:** empowered, financially autonomous city governments, transit-oriented development, climate-resilient/sponge cities, and professional urban management. **AP hook:** the greenfield-capital (Amaravati) and coastal-city development challenge."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**AMRUT** (water & sanitation) and **Smart Cities Mission** launched 2015.",
+          "The **74th Amendment (1992)** constitutionalised urban local bodies; the **Twelfth Schedule** lists 18 functions."
+        ],
+        "mainsAngles": [
+          "'India's urban future is constrained less by finance than by a governance deficit' — examine urban infrastructure and municipal empowerment."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -327,12 +532,30 @@
       "Houses, pipes and rails need a treasurer — connect PMAY-AMRUT-metro ambitions to municipal-finance reform."
     ],
     "glossary": [
-      { "term": "ICCC", "definition": "Integrated Command & Control Centre — the smart-city nerve centre repurposed from traffic to pandemic to floods." },
-      { "term": "Area-based development", "definition": "The Smart Cities Mission's concentrated-redevelopment mode — capability demonstrator, enclave critique." },
-      { "term": "Urban heat island", "definition": "City-core warming from concrete-asphalt-waste heat — the design case for blue-green infrastructure." },
-      { "term": "Blue-green infrastructure", "definition": "Water bodies + vegetation engineered as urban systems (sponge-city logic) — drainage, cooling, recreation in one asset." },
-      { "term": "Garbage Free City stars", "definition": "SBM-U's certification ladder (1-7 stars) for SWM outcomes — Indore's 7-star benchmark." },
-      { "term": "Municipal bond", "definition": "ULB market borrowing against ring-fenced revenues — the discipline-plus-finance instrument (GVMC an early issuer)." }
+      {
+        "term": "ICCC",
+        "definition": "Integrated Command & Control Centre — the smart-city nerve centre repurposed from traffic to pandemic to floods."
+      },
+      {
+        "term": "Area-based development",
+        "definition": "The Smart Cities Mission's concentrated-redevelopment mode — capability demonstrator, enclave critique."
+      },
+      {
+        "term": "Urban heat island",
+        "definition": "City-core warming from concrete-asphalt-waste heat — the design case for blue-green infrastructure."
+      },
+      {
+        "term": "Blue-green infrastructure",
+        "definition": "Water bodies + vegetation engineered as urban systems (sponge-city logic) — drainage, cooling, recreation in one asset."
+      },
+      {
+        "term": "Garbage Free City stars",
+        "definition": "SBM-U's certification ladder (1-7 stars) for SWM outcomes — Indore's 7-star benchmark."
+      },
+      {
+        "term": "Municipal bond",
+        "definition": "ULB market borrowing against ring-fenced revenues — the discipline-plus-finance instrument (GVMC an early issuer)."
+      }
     ]
   },
   {
@@ -348,11 +571,23 @@
           },
           {
             "type": "table",
-            "headers": ["Finance-ownership-O&M file", "Content"],
+            "headers": [
+              "Finance-ownership-O&M file",
+              "Content"
+            ],
             "rows": [
-              ["Finance", "15th FC's mitigation-response funds (G-092); NCRMP's WB loans; Mission Mausam's capex; state SDRF shares — the shift from relief-spend to resilience-invest"],
-              ["Ownership clarity", "Assets built centrally, owned locally, used episodically — MoUs and handover protocols the weak paper; community ownership (shelter-management committees with women's quotas) the working fix"],
-              ["**O&M discipline**", "Shelter-maintenance funds (~₹1-2 lakh/shelter/yr needs), radar-technician cadres, drill calendars — 'disasters test maintenance, not construction'; **AP's practice — shelters doubling as schools-community halls (use keeps assets alive)** the model answer"]
+              [
+                "Finance",
+                "15th FC's mitigation-response funds (G-092); NCRMP's WB loans; Mission Mausam's capex; state SDRF shares — the shift from relief-spend to resilience-invest"
+              ],
+              [
+                "Ownership clarity",
+                "Assets built centrally, owned locally, used episodically — MoUs and handover protocols the weak paper; community ownership (shelter-management committees with women's quotas) the working fix"
+              ],
+              [
+                "**O&M discipline**",
+                "Shelter-maintenance funds (~₹1-2 lakh/shelter/yr needs), radar-technician cadres, drill calendars — 'disasters test maintenance, not construction'; **AP's practice — shelters doubling as schools-community halls (use keeps assets alive)** the model answer"
+              ]
             ]
           }
         ]
@@ -390,6 +625,26 @@
             "text": "Exam tip: 'Disasters test maintenance, not construction' — the O&M thesis is this theme's whole point; AP's school-cum-shelter dual-use is the one-line model solution."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — forecasting & disaster management as infrastructure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Institutional grid:** **IMD** (weather/cyclone forecasting — 'Mission Mausam' modernisation), **INCOIS** (Hyderabad — ocean/tsunami early warning), **NDMA/SDMA/DDMA** under the **Disaster Management Act, 2005**, and **NDRF/SDRF**.",
+              "**The paradigm shift:** from relief-centric to **prevention, mitigation and preparedness** — the **Sendai Framework (2015-30)** and PM's Ten-Point Agenda; risk-informed development.",
+              "**AP's stake:** a cyclone-prone coast (Bay of Bengal); AP's cyclone-preparedness and near-zero-casualty evacuations are internationally cited; the **Coalition for Disaster Resilient Infrastructure (CDRI)** is an India-led global initiative.",
+              "**Craft:** treat early-warning + resilient infrastructure as development infrastructure, not just emergency response."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Disaster Management Act, 2005** — created NDMA (chaired by the PM), SDMAs and DDMAs.",
+          "**INCOIS (Hyderabad)** runs the tsunami early-warning system; **Sendai Framework (2015-2030)** guides DRR.",
+          "**CDRI** — Coalition for Disaster Resilient Infrastructure, an India-led international coalition."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -409,11 +664,26 @@
       "AP's shelters teach between cyclones — evaluate dual-use as the sustainability answer."
     ],
     "glossary": [
-      { "term": "Mission Mausam", "definition": "The 2024 ₹2,000-crore upgrade of India's weather enterprise — radars, AI models, seeding research." },
-      { "term": "Multi-purpose cyclone shelter", "definition": "Elevated refuge buildings designed for daily community use — occupancy as maintenance." },
-      { "term": "O&M orphanhood", "definition": "Assets without owned maintenance budgets-staff — episodic infrastructure's chronic disease." },
-      { "term": "EOC", "definition": "Emergency Operations Centre — the district-state command node activated in disasters." },
-      { "term": "Mitigation fund", "definition": "Ex-ante resilience financing (NDMF/SDMF) — investing before the siren." }
+      {
+        "term": "Mission Mausam",
+        "definition": "The 2024 ₹2,000-crore upgrade of India's weather enterprise — radars, AI models, seeding research."
+      },
+      {
+        "term": "Multi-purpose cyclone shelter",
+        "definition": "Elevated refuge buildings designed for daily community use — occupancy as maintenance."
+      },
+      {
+        "term": "O&M orphanhood",
+        "definition": "Assets without owned maintenance budgets-staff — episodic infrastructure's chronic disease."
+      },
+      {
+        "term": "EOC",
+        "definition": "Emergency Operations Centre — the district-state command node activated in disasters."
+      },
+      {
+        "term": "Mitigation fund",
+        "definition": "Ex-ante resilience financing (NDMF/SDMF) — investing before the siren."
+      }
     ]
   },
   {
@@ -425,14 +695,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Model", "Risk allocation", "Use case"],
+            "headers": [
+              "Model",
+              "Risk allocation",
+              "Use case"
+            ],
             "rows": [
-              ["**BOT-Toll**", "Private bears traffic + construction risk", "High-traffic highways (the 2000s wave; stalled when traffic disappointed)"],
-              ["**BOT-Annuity / HAM**", "**HAM: 40% construction grant + inflation-indexed annuities** — traffic risk to the state", "The post-2016 road standard — the renegotiated equilibrium"],
-              ["**EPC**", "All demand-finance risk public; private builds", "Where private finance is inefficient — the pendulum's other end"],
-              ["**TOT/InvIT**", "Brownfield operation transferred for upfront value", "Monetisation of de-risked assets"],
-              ["**Landlord port / concession**", "Public owns, private operates terminals", "Ports-airports standard (Vizag's terminals; Bhogapuram's GMR concession)"],
-              ["**User-fee utilities**", "Metro (fare + TOD), water (the politically hardest), power distribution franchises", "Where pricing politics meets cost recovery — this theme's core"]
+              [
+                "**BOT-Toll**",
+                "Private bears traffic + construction risk",
+                "High-traffic highways (the 2000s wave; stalled when traffic disappointed)"
+              ],
+              [
+                "**BOT-Annuity / HAM**",
+                "**HAM: 40% construction grant + inflation-indexed annuities** — traffic risk to the state",
+                "The post-2016 road standard — the renegotiated equilibrium"
+              ],
+              [
+                "**EPC**",
+                "All demand-finance risk public; private builds",
+                "Where private finance is inefficient — the pendulum's other end"
+              ],
+              [
+                "**TOT/InvIT**",
+                "Brownfield operation transferred for upfront value",
+                "Monetisation of de-risked assets"
+              ],
+              [
+                "**Landlord port / concession**",
+                "Public owns, private operates terminals",
+                "Ports-airports standard (Vizag's terminals; Bhogapuram's GMR concession)"
+              ],
+              [
+                "**User-fee utilities**",
+                "Metro (fare + TOD), water (the politically hardest), power distribution franchises",
+                "Where pricing politics meets cost recovery — this theme's core"
+              ]
             ]
           },
           {
@@ -475,6 +773,26 @@
             "text": "Exam tip: 'Price the service, subsidise the person, publish the subsidy' — utility pricing's whole reform in nine words; and HAM as 'the renegotiated equilibrium' shows you understand PPP history, not just acronyms."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — PPPs, utility pricing & environment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**PPP models:** **BOT (toll/annuity), HAM (Hybrid Annuity — risk-sharing, now dominant in highways), DBFOT, and VGF (Viability Gap Funding)**; **InvITs/REITs** for asset recycling.",
+              "**Lessons & the Kelkar Committee (2015):** early PPPs over-bid and stalled (aggressive traffic forecasts); reforms — better risk allocation, dispute resolution, renegotiation frameworks, and an independent regulator.",
+              "**Pricing public utilities:** the tension between **cost-recovery vs affordability** (cross-subsidy, lifeline tariffs), the role of independent regulators (CERC/SERCs, TRAI), and targeted subsidies via DBT rather than blanket under-pricing.",
+              "**Environmental dimension:** EIA (2006 notification), forest & CRZ clearances, and the imperative of **green/sustainable infrastructure** — internalising environmental costs in project appraisal (social cost-benefit analysis)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**HAM (Hybrid Annuity Model)** — government funds ~40% during construction, rest via annuity; balances risk.",
+          "**Kelkar Committee (2015)** — recommendations to revitalise the PPP model in infrastructure.",
+          "**VGF** — Viability Gap Funding for economically justified but financially unviable projects."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -495,12 +813,30 @@
       "Risk, burden, externality — three allocations, one infrastructure policy: synthesise with AP's decade of exhibits."
     ],
     "glossary": [
-      { "term": "Concession agreement", "definition": "The long-term contract allocating build-operate-revenue risks between authority and private partner — PPP's constitution." },
-      { "term": "Winner's curse", "definition": "Over-optimistic bids winning and then failing — the renegotiation culture's seed." },
-      { "term": "Cross-subsidy", "definition": "One consumer class overpaying to fund another's under-payment — power pricing's embedded transfer." },
-      { "term": "Lifeline tariff", "definition": "Subsidised basic-consumption block ensuring affordability while pricing excess use." },
-      { "term": "Viability-gap funding", "definition": "Capital grants (up to 20-40%) making socially desirable but commercially marginal PPPs bankable." },
-      { "term": "Cumulative impact assessment", "definition": "Corridor-basin level environmental evaluation beyond single projects — infrastructure EIA's reform frontier." }
+      {
+        "term": "Concession agreement",
+        "definition": "The long-term contract allocating build-operate-revenue risks between authority and private partner — PPP's constitution."
+      },
+      {
+        "term": "Winner's curse",
+        "definition": "Over-optimistic bids winning and then failing — the renegotiation culture's seed."
+      },
+      {
+        "term": "Cross-subsidy",
+        "definition": "One consumer class overpaying to fund another's under-payment — power pricing's embedded transfer."
+      },
+      {
+        "term": "Lifeline tariff",
+        "definition": "Subsidised basic-consumption block ensuring affordability while pricing excess use."
+      },
+      {
+        "term": "Viability-gap funding",
+        "definition": "Capital grants (up to 20-40%) making socially desirable but commercially marginal PPPs bankable."
+      },
+      {
+        "term": "Cumulative impact assessment",
+        "definition": "Corridor-basin level environmental evaluation beyond single projects — infrastructure EIA's reform frontier."
+      }
     ]
   }
 ]

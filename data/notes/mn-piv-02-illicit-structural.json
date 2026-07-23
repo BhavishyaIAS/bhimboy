@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Generation channels", "Laundering channels"],
+            "headers": [
+              "Generation channels",
+              "Laundering channels"
+            ],
             "rows": [
-              ["Tax evasion (under-reporting by professionals/firms); cash-heavy sectors — **real estate, gold, elections**", "**Hawala** (informal value transfer without movement of money)"],
-              ["Corruption and rent-seeking; leakages from public spending", "**Shell companies** and layered corporate structures (~3.4 lakh struck off post-2017)"],
-              ["Crime proceeds: narcotics, smuggling, extortion", "**Trade-based laundering** — over/under-invoicing of exports & imports"],
-              ["Regulatory arbitrage: capitation fees, black-market premia", "**Round-tripping** via tax havens; participatory-note opacity (since tightened); crypto mixers (new frontier)"]
+              [
+                "Tax evasion (under-reporting by professionals/firms); cash-heavy sectors — **real estate, gold, elections**",
+                "**Hawala** (informal value transfer without movement of money)"
+              ],
+              [
+                "Corruption and rent-seeking; leakages from public spending",
+                "**Shell companies** and layered corporate structures (~3.4 lakh struck off post-2017)"
+              ],
+              [
+                "Crime proceeds: narcotics, smuggling, extortion",
+                "**Trade-based laundering** — over/under-invoicing of exports & imports"
+              ],
+              [
+                "Regulatory arbitrage: capitation fees, black-market premia",
+                "**Round-tripping** via tax havens; participatory-note opacity (since tightened); crypto mixers (new frontier)"
+              ]
             ]
           },
           {
@@ -62,6 +77,26 @@
             "text": "Exam tip: Define the two terms separately (generation vs cleaning), draw the three-stage laundering flow, then group counters as punitive (PMLA/Benami/FEOA), preventive (GST/PAN/digital) and global (FATF/AEOI). Demonetisation gets two balanced lines with the 99.3% fact. Close on election finance + agency even-handedness."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — the black-money counter-architecture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Concepts:** black money = income on which tax is evaded; **money laundering** = placement → layering → integration; **round-tripping** via tax havens; **hawala** as informal transfer.",
+              "**Legal arsenal:** **PMLA 2002 (ED enforces)**, **Black Money (Undisclosed Foreign Income & Assets) Act 2015**, **Benami Transactions (Prohibition) Amendment Act 2016**, **Fugitive Economic Offenders Act 2018**, and the **GST + DBT + demonetisation (2016)** digital-trail push.",
+              "**Global cooperation:** **FATF** standards, **automatic exchange of information (CRS/OECD)**, DTAAs, and India's **BEPS** (Base Erosion & Profit Shifting) commitments.",
+              "**Verdict:** enforcement has strengthened (record ED attachments) but conviction rates and speed remain weak; **formalisation via UPI/GST** is the structural cure more than raids."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**PMLA, 2002** — enforced by the **Enforcement Directorate (ED)**.",
+          "**FATF** — global anti-money-laundering standard-setter; India a member since 2010.",
+          "Money-laundering stages: **placement, layering, integration**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,12 +117,30 @@
       "Trace how global cooperation (FATF, AEOI, DTAA reform) closed the offshore routes of Indian black money."
     ],
     "glossary": [
-      { "term": "Money laundering", "definition": "Processing criminal or concealed income through placement, layering and integration so it appears legitimately earned." },
-      { "term": "Hawala", "definition": "Informal value-transfer system settling claims through trusted broker networks without actual movement of money across borders." },
-      { "term": "Round-tripping", "definition": "Domestic money sent abroad (often to tax havens) and returned disguised as foreign investment to claim legitimacy or treaty benefits." },
-      { "term": "Benami property", "definition": "Property held in another's name while the consideration flows from the real beneficiary — confiscable under the amended 1988 Act." },
-      { "term": "Trade-based laundering", "definition": "Shifting value across borders by misinvoicing trade — over-priced imports or under-priced exports masking transfers." },
-      { "term": "Beneficial ownership", "definition": "The natural person who ultimately owns or controls an asset or entity — the disclosure target of modern AML rules." }
+      {
+        "term": "Money laundering",
+        "definition": "Processing criminal or concealed income through placement, layering and integration so it appears legitimately earned."
+      },
+      {
+        "term": "Hawala",
+        "definition": "Informal value-transfer system settling claims through trusted broker networks without actual movement of money across borders."
+      },
+      {
+        "term": "Round-tripping",
+        "definition": "Domestic money sent abroad (often to tax havens) and returned disguised as foreign investment to claim legitimacy or treaty benefits."
+      },
+      {
+        "term": "Benami property",
+        "definition": "Property held in another's name while the consideration flows from the real beneficiary — confiscable under the amended 1988 Act."
+      },
+      {
+        "term": "Trade-based laundering",
+        "definition": "Shifting value across borders by misinvoicing trade — over-priced imports or under-priced exports masking transfers."
+      },
+      {
+        "term": "Beneficial ownership",
+        "definition": "The natural person who ultimately owns or controls an asset or entity — the disclosure target of modern AML rules."
+      }
     ]
   },
   {
@@ -103,13 +156,37 @@
           },
           {
             "type": "table",
-            "headers": ["Capital gap", "Symptoms", "Responses"],
+            "headers": [
+              "Capital gap",
+              "Symptoms",
+              "Responses"
+            ],
             "rows": [
-              ["Domestic savings → investment", "Falling net financial savings; gold/real-estate preference", "Financial inclusion (Jan Dhan ~53 crore accounts), pension/insurance deepening, sovereign gold bonds era, capital-market widening (11+ crore demat accounts)"],
-              ["Private corporate capex", "The post-NPA 'wait for demand' decade", "Twin-balance-sheet clean-up, PLI, corporate-tax cut (2019: 22%; new mfg 15%), Gati Shakti pipeline"],
-              ["Infrastructure finance", "ALM mismatch killed bank-led infra lending", "**NIP (₹111 lakh crore)**, **NaBFID**, InvITs/REITs, **National Monetisation Pipeline (₹6 lakh crore)**, municipal bonds"],
-              ["Foreign capital", "FDI plateaued (~$70–80 bn gross), FPI volatility", "Liberalised FDI (automatic-route dominance), FTAs, GIFT-IFSC, JPMorgan bond-index inclusion (2024) — stable debt flows"],
-              ["Human capital", "Public health ~1.9–2%, education ~2.9–3% of GDP vs 2.5%/6% goals", "NEP 2020, Ayushman Bharat, skilling missions — the slowest-moving gap"]
+              [
+                "Domestic savings → investment",
+                "Falling net financial savings; gold/real-estate preference",
+                "Financial inclusion (Jan Dhan ~53 crore accounts), pension/insurance deepening, sovereign gold bonds era, capital-market widening (11+ crore demat accounts)"
+              ],
+              [
+                "Private corporate capex",
+                "The post-NPA 'wait for demand' decade",
+                "Twin-balance-sheet clean-up, PLI, corporate-tax cut (2019: 22%; new mfg 15%), Gati Shakti pipeline"
+              ],
+              [
+                "Infrastructure finance",
+                "ALM mismatch killed bank-led infra lending",
+                "**NIP (₹111 lakh crore)**, **NaBFID**, InvITs/REITs, **National Monetisation Pipeline (₹6 lakh crore)**, municipal bonds"
+              ],
+              [
+                "Foreign capital",
+                "FDI plateaued (~$70–80 bn gross), FPI volatility",
+                "Liberalised FDI (automatic-route dominance), FTAs, GIFT-IFSC, JPMorgan bond-index inclusion (2024) — stable debt flows"
+              ],
+              [
+                "Human capital",
+                "Public health ~1.9–2%, education ~2.9–3% of GDP vs 2.5%/6% goals",
+                "NEP 2020, Ayushman Bharat, skilling missions — the slowest-moving gap"
+              ]
             ]
           }
         ]
@@ -150,6 +227,25 @@
             "text": "Exam tip: Treat this as the thesis note for the whole paper: growth's three qualifiers (capital, inclusion, sustainability). The five-gap capital table + the poverty-vs-inequality honest picture + Net Zero anchors serve essays and interviews alike. Always end with the one-sentence synthesis."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — capital formation & the inclusive-sustainable test",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Investment/GDP:** **Gross Fixed Capital Formation** needs to rise toward **~35% of GDP** to sustain 8%+ growth; India's savings rate (~30%) and the revival of the **private capex cycle** are the swing factors.",
+              "**Sources of capital:** domestic savings (household financialisation via mutual funds/SIPs), public capex (Budget's sharp rise in effective capital expenditure), FDI, and development finance (the new **NaBFID**).",
+              "**Inclusive-growth qualifier:** growth must cut poverty and inequality — cite the **MPI (Multidimensional Poverty Index)** decline (NITI Aayog/UNDP show a large fall in multidimensionally poor), yet high income inequality (top-10% share) persists.",
+              "**Sustainability qualifier:** growth must respect planetary limits — **Net-Zero by 2070**, LiFE, and green finance; the **Economic Survey**'s emphasis on climate-resilient, employment-rich growth."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**NaBFID** — National Bank for Financing Infrastructure and Development (2021); India's new DFI.",
+          "**MPI** — Multidimensional Poverty Index (health, education, living standards); NITI Aayog publishes India's national MPI."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -170,12 +266,30 @@
       "Outline the capital, inclusion and sustainability conditions for 'Viksit Bharat 2047'."
     ],
     "glossary": [
-      { "term": "Gross Fixed Capital Formation", "definition": "Investment in physical assets (construction, machinery, IP) — the economy's capacity-building expenditure; the investment rate is GFCF/GDP." },
-      { "term": "Crowding in", "definition": "Public investment stimulating (not displacing) private investment by creating demand, infrastructure and confidence." },
-      { "term": "Inclusive growth", "definition": "Growth whose processes and outcomes broadly benefit all sections — employment-intensive, regionally spread, poverty-reducing." },
-      { "term": "Multidimensional Poverty Index", "definition": "Deprivation-based poverty measure across health, education and living standards (10–12 indicators) — beyond income lines." },
-      { "term": "Natural capital", "definition": "The stock of environmental assets (water, soil, forests, clean air) whose depletion conventional GDP ignores." },
-      { "term": "Asset monetisation", "definition": "Leasing operating public assets (roads, stations, transmission) to private players for upfront value while retaining ownership." }
+      {
+        "term": "Gross Fixed Capital Formation",
+        "definition": "Investment in physical assets (construction, machinery, IP) — the economy's capacity-building expenditure; the investment rate is GFCF/GDP."
+      },
+      {
+        "term": "Crowding in",
+        "definition": "Public investment stimulating (not displacing) private investment by creating demand, infrastructure and confidence."
+      },
+      {
+        "term": "Inclusive growth",
+        "definition": "Growth whose processes and outcomes broadly benefit all sections — employment-intensive, regionally spread, poverty-reducing."
+      },
+      {
+        "term": "Multidimensional Poverty Index",
+        "definition": "Deprivation-based poverty measure across health, education and living standards (10–12 indicators) — beyond income lines."
+      },
+      {
+        "term": "Natural capital",
+        "definition": "The stock of environmental assets (water, soil, forests, clean air) whose depletion conventional GDP ignores."
+      },
+      {
+        "term": "Asset monetisation",
+        "definition": "Leasing operating public assets (roads, stations, transmission) to private players for upfront value while retaining ownership."
+      }
     ]
   },
   {
@@ -191,13 +305,37 @@
           },
           {
             "type": "table",
-            "headers": ["Constraint", "Content", "Exam evidence"],
+            "headers": [
+              "Constraint",
+              "Content",
+              "Exam evidence"
+            ],
             "rows": [
-              ["**Bifurcation wound**", "Lost Hyderabad — ~**45% of undivided AP's revenue** came from the capital region; AP kept ~58% population with a farm-heavy base", "The founding fiscal grievance; basis of Special Category Status demand"],
-              ["**Revenue deficit persistence**", "Committed expenditure (salaries, pensions, interest) + large DBT welfare absorb revenue receipts", "15th FC gave AP among the larger **revenue-deficit grants** (~₹30,000+ crore over the award)"],
-              ["**High debt**", "Outstanding liabilities around **one-third of GSDP** (with off-budget borrowings via corporations/guarantees flagged by **CAG** additionally)", "Interest payments eat a large slice of revenue; FRBM ceilings bind capex"],
-              ["**Narrow own-revenue base**", "No metropolitan services/IT hub of Hyderabad's scale; SOTR/GSDP moderate; liquor-policy swings destabilised excise", "GST compensation ended (June 2022) removing a cushion"],
-              ["**Vertical dependence**", "Central transfers ~40%+ of receipts in many years — exposure to FC formulas & CSS matching burdens", "Cess/surcharge growth shrinks the divisible pool AP shares"]
+              [
+                "**Bifurcation wound**",
+                "Lost Hyderabad — ~**45% of undivided AP's revenue** came from the capital region; AP kept ~58% population with a farm-heavy base",
+                "The founding fiscal grievance; basis of Special Category Status demand"
+              ],
+              [
+                "**Revenue deficit persistence**",
+                "Committed expenditure (salaries, pensions, interest) + large DBT welfare absorb revenue receipts",
+                "15th FC gave AP among the larger **revenue-deficit grants** (~₹30,000+ crore over the award)"
+              ],
+              [
+                "**High debt**",
+                "Outstanding liabilities around **one-third of GSDP** (with off-budget borrowings via corporations/guarantees flagged by **CAG** additionally)",
+                "Interest payments eat a large slice of revenue; FRBM ceilings bind capex"
+              ],
+              [
+                "**Narrow own-revenue base**",
+                "No metropolitan services/IT hub of Hyderabad's scale; SOTR/GSDP moderate; liquor-policy swings destabilised excise",
+                "GST compensation ended (June 2022) removing a cushion"
+              ],
+              [
+                "**Vertical dependence**",
+                "Central transfers ~40%+ of receipts in many years — exposure to FC formulas & CSS matching burdens",
+                "Cess/surcharge growth shrinks the divisible pool AP shares"
+              ]
             ]
           }
         ]
@@ -238,6 +376,24 @@
             "text": "Exam tip: The examiner wants the STRUCTURE of AP's fiscal stress (bifurcation base-loss → revenue deficit → debt-financed welfare → capex squeeze), not a recital of scheme names. The 45%-revenue-from-Hyderabad fact is the single most powerful line in any AP-finance answer."
           }
         ]
+      },
+      {
+        "heading": "💰 Deep mastery — AP's fiscal resource envelope",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The four taps:** (1) **State's Own Tax Revenue** — SGST, stamps & registration, state excise, motor-vehicle tax, sales tax on petroleum; (2) **Own Non-Tax** — mining royalties, user charges; (3) **Central tax devolution** (Finance Commission share); (4) **grants-in-aid** (FC + CSS).",
+              "**The post-bifurcation squeeze:** loss of Hyderabad's revenue base, a **revenue-deficit legacy**, high committed expenditure (salaries, pensions, interest) and welfare-DBT outgo — leaving thin fiscal space for capex.",
+              "**Coping strategies & their evaluation:** market borrowings (SDLs), off-budget borrowings via corporations (flagged by the CAG), asset monetisation, and reliance on central assistance — sustainable only if own-revenue buoyancy and expenditure quality improve.",
+              "**FRBM-state discipline:** AP's fiscal-deficit and debt-GSDP ratios against the **15th FC's** state ceilings are the standard evaluation grid."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "Analyse the structural weaknesses in Andhra Pradesh's resource base after the 2014 bifurcation and evaluate its coping strategies."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -257,12 +413,30 @@
       "Off-budget borrowings hide the true deficit — discuss with the CAG's observations on state finances."
     ],
     "glossary": [
-      { "term": "State's Own Tax Revenue", "definition": "Taxes a state levies and collects itself — SGST, excise, stamps, vehicle and fuel taxes — the measure of fiscal self-reliance." },
-      { "term": "Revenue deficit", "definition": "Excess of revenue expenditure over revenue receipts — borrowing to pay for current consumption rather than assets." },
-      { "term": "Committed expenditure", "definition": "Obligations that cannot be pruned in the short run — salaries, pensions and interest — which pre-empt fiscal space." },
-      { "term": "Off-budget borrowing", "definition": "Debt raised by state corporations/SPVs serviced from the budget but historically outside deficit numbers — now netted against ceilings." },
-      { "term": "Revenue-deficit grant", "definition": "Finance Commission grant (Art 275) to states whose assessed revenue needs exceed capacity after devolution." },
-      { "term": "Guarantees", "definition": "State's contingent liabilities backing corporation loans — invisible until invoked, hence the CAG's disclosure insistence." }
+      {
+        "term": "State's Own Tax Revenue",
+        "definition": "Taxes a state levies and collects itself — SGST, excise, stamps, vehicle and fuel taxes — the measure of fiscal self-reliance."
+      },
+      {
+        "term": "Revenue deficit",
+        "definition": "Excess of revenue expenditure over revenue receipts — borrowing to pay for current consumption rather than assets."
+      },
+      {
+        "term": "Committed expenditure",
+        "definition": "Obligations that cannot be pruned in the short run — salaries, pensions and interest — which pre-empt fiscal space."
+      },
+      {
+        "term": "Off-budget borrowing",
+        "definition": "Debt raised by state corporations/SPVs serviced from the budget but historically outside deficit numbers — now netted against ceilings."
+      },
+      {
+        "term": "Revenue-deficit grant",
+        "definition": "Finance Commission grant (Art 275) to states whose assessed revenue needs exceed capacity after devolution."
+      },
+      {
+        "term": "Guarantees",
+        "definition": "State's contingent liabilities backing corporation loans — invisible until invoked, hence the CAG's disclosure insistence."
+      }
     ]
   }
 ]
