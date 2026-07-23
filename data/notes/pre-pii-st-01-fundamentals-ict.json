@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Science**", "Systematic, evidence-based knowledge (observation, hypothesis, experiment)."],
-              ["**Technology**", "Application of scientific knowledge for practical use."],
-              ["**Scope**", "Health, ICT, agriculture, energy, transport, space, defence, environment."],
-              ["**Daily relevance**", "Mobile/UPI, vaccines, GPS, hybrid seeds, LED, weather forecasts."],
-              ["**Scientific temper**", "A Fundamental Duty (Art. 51A(h)) — rational, questioning outlook."]
+              [
+                "**Science**",
+                "Systematic, evidence-based knowledge (observation, hypothesis, experiment)."
+              ],
+              [
+                "**Technology**",
+                "Application of scientific knowledge for practical use."
+              ],
+              [
+                "**Scope**",
+                "Health, ICT, agriculture, energy, transport, space, defence, environment."
+              ],
+              [
+                "**Daily relevance**",
+                "Mobile/UPI, vaccines, GPS, hybrid seeds, LED, weather forecasts."
+              ],
+              [
+                "**Scientific temper**",
+                "A Fundamental Duty (Art. 51A(h)) — rational, questioning outlook."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: S&T in daily life",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**S&T in everyday life**: health (vaccines, diagnostics, telemedicine), agriculture (HYV, GM, precision farming), communication (mobile, internet, UPI), transport (GPS, EVs), household (microwave, LED, RO), digital finance (Aadhaar, DBT).",
+              "**Recent frontiers**: **AI/ML, 5G, semiconductors, quantum computing, drones, EVs, green hydrogen, gene editing (CRISPR), space-tech**.",
+              "**Government thrust**: Digital India, Make in India, Startup India, National missions (Quantum, Semiconductor, Green Hydrogen, Supercomputing-PARAM).",
+              "**Why it matters for governance**: evidence-based policy, service delivery (JAM, e-gov), disaster warning, defence self-reliance."
             ]
           }
         ]
@@ -30,11 +63,21 @@
       "S&T pervades **health, ICT, agriculture, energy, transport, defence, space**.",
       "Everyday S&T — **UPI/mobile, vaccines, GPS, HYV seeds, LED, forecasting**.",
       "S&T is central to **national development & self-reliance (Atmanirbhar Bharat)**.",
-      "The **scientific method** — observation, hypothesis, experiment, conclusion."
+      "The **scientific method** — observation, hypothesis, experiment, conclusion.",
+      "Daily-life S&T: **UPI/Aadhaar (fintech), GPS, vaccines, LED, EVs**.",
+      "Frontier tech: **AI, 5G, semiconductors, quantum, CRISPR, green hydrogen, drones**.",
+      "Missions: **National Quantum, Semiconductor, Green Hydrogen, Supercomputing (PARAM)**.",
+      "Enables governance via **JAM trinity, e-gov, disaster early-warning**."
     ],
     "glossary": [
-      {"term": "Technology", "definition": "The application of scientific knowledge to practical problems."},
-      {"term": "Scientific temper", "definition": "A rational, evidence-based outlook, enshrined as a Fundamental Duty (Art. 51A(h))."}
+      {
+        "term": "Technology",
+        "definition": "The application of scientific knowledge to practical problems."
+      },
+      {
+        "term": "Scientific temper",
+        "definition": "A rational, evidence-based outlook, enshrined as a Fundamental Duty (Art. 51A(h))."
+      }
     ]
   },
   {
@@ -50,13 +93,31 @@
           },
           {
             "type": "table",
-            "headers": ["Policy", "Focus"],
+            "headers": [
+              "Policy",
+              "Focus"
+            ],
             "rows": [
-              ["**Scientific Policy Resolution (1958)**", "Nehru; building a scientific base & temper."],
-              ["**Technology Policy Statement (1983)**", "Technological self-reliance."],
-              ["**S&T Policy 2003**", "Investment in R&D, integrating science & technology."],
-              ["**STI Policy 2013**", "**'Science, Technology & Innovation'** — innovation-led growth; declared 'Decade of Innovation'."],
-              ["**STIP (draft, 2020)**", "Latest; decentralised, inclusive, self-reliance & Atmanirbhar focus."]
+              [
+                "**Scientific Policy Resolution (1958)**",
+                "Nehru; building a scientific base & temper."
+              ],
+              [
+                "**Technology Policy Statement (1983)**",
+                "Technological self-reliance."
+              ],
+              [
+                "**S&T Policy 2003**",
+                "Investment in R&D, integrating science & technology."
+              ],
+              [
+                "**STI Policy 2013**",
+                "**'Science, Technology & Innovation'** — innovation-led growth; declared 'Decade of Innovation'."
+              ],
+              [
+                "**STIP (draft, 2020)**",
+                "Latest; decentralised, inclusive, self-reliance & Atmanirbhar focus."
+              ]
             ]
           }
         ]
@@ -73,6 +134,21 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: S&T and innovation policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Science policy evolution**: Scientific Policy Resolution 1958 → Technology Policy 1983 → Science & Technology Policy 2003 → **Science, Technology & Innovation Policy (STIP) 2013** → new **STIP (draft 2020)**.",
+              "**STIP 2013 goal**: put India among the **top 5 global scientific powers**; raise **GERD (R&D spend)** — India's is ~0.65% of GDP, low vs global.",
+              "**Institutions**: **DST, DSIR, DBT, CSIR, PSA (Principal Scientific Adviser)**; **ANRF (Anusandhan National Research Foundation, 2023)** to fund research; Atal Innovation Mission (NITI).",
+              "**Indices**: **Global Innovation Index (India ~40th, rising)**; patent & publication growth."
+            ]
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,12 +158,25 @@
       "**STIP (2020, draft)** — latest, self-reliance & inclusivity focus.",
       "Nodal ministry — **Department of Science & Technology (DST)**.",
       "**PM-STIAC** — PM's Science, Technology & Innovation Advisory Council.",
-      "**Atal Innovation Mission (NITI Aayog)** — innovation & incubation (Atal Tinkering Labs)."
+      "**Atal Innovation Mission (NITI Aayog)** — innovation & incubation (Atal Tinkering Labs).",
+      "Policy path: **SPR 1958 → 1983 → 2003 → STIP 2013 → draft STIP 2020**.",
+      "India's **R&D spend (GERD) ~0.65% of GDP** — a key weakness.",
+      "**ANRF (2023)** = national research-funding body; **Atal Innovation Mission** (NITI).",
+      "**Global Innovation Index** — India rising (~40th)."
     ],
     "glossary": [
-      {"term": "STIP", "definition": "The Science, Technology and Innovation Policy (2020 draft), India's latest S&T policy framework."},
-      {"term": "DST", "definition": "The Department of Science & Technology, the nodal body for S&T policy."},
-      {"term": "Atal Innovation Mission", "definition": "A NITI Aayog programme promoting innovation and entrepreneurship."}
+      {
+        "term": "STIP",
+        "definition": "The Science, Technology and Innovation Policy (2020 draft), India's latest S&T policy framework."
+      },
+      {
+        "term": "DST",
+        "definition": "The Department of Science & Technology, the nodal body for S&T policy."
+      },
+      {
+        "term": "Atal Innovation Mission",
+        "definition": "A NITI Aayog programme promoting innovation and entrepreneurship."
+      }
     ]
   },
   {
@@ -103,24 +192,113 @@
           },
           {
             "type": "table",
-            "headers": ["Organisation", "Domain"],
+            "headers": [
+              "Organisation",
+              "Domain"
+            ],
             "rows": [
-              ["**ISRO**", "Space (est. 1969; HQ Bengaluru; founder Vikram Sarabhai)."],
-              ["**DRDO**", "Defence R&D (1958)."],
-              ["**CSIR**", "Industrial/scientific research (38 labs)."],
-              ["**ICAR / ICMR**", "Agriculture / medical research."],
-              ["**DAE / BARC**", "Atomic energy (Homi Bhabha — 'father of Indian nuclear programme')."]
+              [
+                "**ISRO**",
+                "Space (est. 1969; HQ Bengaluru; founder Vikram Sarabhai)."
+              ],
+              [
+                "**DRDO**",
+                "Defence R&D (1958)."
+              ],
+              [
+                "**CSIR**",
+                "Industrial/scientific research (38 labs)."
+              ],
+              [
+                "**ICAR / ICMR**",
+                "Agriculture / medical research."
+              ],
+              [
+                "**DAE / BARC**",
+                "Atomic energy (Homi Bhabha — 'father of Indian nuclear programme')."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["Scientist", "Contribution"],
+            "headers": [
+              "Scientist",
+              "Contribution"
+            ],
             "rows": [
-              ["**C.V. Raman**", "Raman Effect (Nobel 1930, Physics)."],
-              ["**Homi Bhabha**", "Father of India's nuclear programme."],
-              ["**Vikram Sarabhai**", "Father of India's space programme."],
-              ["**S. Chandrasekhar / H.G. Khorana**", "Nobel laureates (Physics / Medicine)."],
-              ["**A.P.J. Abdul Kalam**", "'Missile Man'; led DRDO/ISRO missile & SLV programmes."]
+              [
+                "**C.V. Raman**",
+                "Raman Effect (Nobel 1930, Physics)."
+              ],
+              [
+                "**Homi Bhabha**",
+                "Father of India's nuclear programme."
+              ],
+              [
+                "**Vikram Sarabhai**",
+                "Father of India's space programme."
+              ],
+              [
+                "**S. Chandrasekhar / H.G. Khorana**",
+                "Nobel laureates (Physics / Medicine)."
+              ],
+              [
+                "**A.P.J. Abdul Kalam**",
+                "'Missile Man'; led DRDO/ISRO missile & SLV programmes."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: S&T institutions & scientists",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Institution",
+              "Domain"
+            ],
+            "rows": [
+              [
+                "**ISRO**",
+                "Space (Bengaluru HQ)"
+              ],
+              [
+                "**DRDO**",
+                "Defence R&D"
+              ],
+              [
+                "**CSIR**",
+                "38 labs, industrial research"
+              ],
+              [
+                "**ICAR**",
+                "Agriculture research"
+              ],
+              [
+                "**ICMR**",
+                "Medical research"
+              ],
+              [
+                "**BARC / DAE**",
+                "Atomic energy (Trombay)"
+              ],
+              [
+                "**DST / DBT**",
+                "Science & biotech promotion"
+              ],
+              [
+                "**CDAC**",
+                "Supercomputing (PARAM)"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Iconic Indian scientists**: **C.V. Raman** (Raman Effect, Nobel 1930), **Homi Bhabha** ('father of Indian nuclear programme'), **Vikram Sarabhai** ('father of Indian space programme'), **A.P.J. Abdul Kalam** ('Missile Man'), **S. Chandrasekhar** (Nobel), **Jagadish Chandra Bose** (plant/radio science), **Har Gobind Khorana** (Nobel, genetics), **M.S. Swaminathan** (Green Revolution), **Satyendra Nath Bose** (Boson)."
             ]
           }
         ]
@@ -133,12 +311,25 @@
       "**C.V. Raman** — Raman Effect, **Nobel Physics 1930** (National Science Day, 28 Feb).",
       "**S. Chandrasekhar** (Nobel Physics 1983), **H.G. Khorana** (Nobel Medicine 1968).",
       "**A.P.J. Abdul Kalam** — 'Missile Man'; **J.C. Bose, S.N. Bose (boson), M. Swaminathan** (Green Revolution).",
-      "**National Science Day — 28 February** (Raman Effect)."
+      "**National Science Day — 28 February** (Raman Effect).",
+      "**ISRO** (space), **DRDO** (defence), **BARC/DAE** (atomic), **CSIR** (industrial), **ICAR/ICMR** (agri/medical).",
+      "**C.V. Raman** — Raman Effect (Nobel 1930); **Bhabha** — nuclear; **Sarabhai** — space.",
+      "**Kalam** = 'Missile Man'; **S.N. Bose** → Boson; **Swaminathan** — Green Revolution.",
+      "**CDAC** builds **PARAM** supercomputers."
     ],
     "glossary": [
-      {"term": "ISRO", "definition": "The Indian Space Research Organisation, founded 1969 by Vikram Sarabhai."},
-      {"term": "Raman Effect", "definition": "The scattering of light discovered by C.V. Raman, earning the 1930 Nobel Prize."},
-      {"term": "BARC", "definition": "The Bhabha Atomic Research Centre, India's premier nuclear research facility."}
+      {
+        "term": "ISRO",
+        "definition": "The Indian Space Research Organisation, founded 1969 by Vikram Sarabhai."
+      },
+      {
+        "term": "Raman Effect",
+        "definition": "The scattering of light discovered by C.V. Raman, earning the 1930 Nobel Prize."
+      },
+      {
+        "term": "BARC",
+        "definition": "The Bhabha Atomic Research Centre, India's premier nuclear research facility."
+      }
     ]
   },
   {
@@ -154,13 +345,46 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**ICT scope**", "Computing + telecom + internet + digital media."],
-              ["**Hardware/software**", "Devices (CPU, memory) + programs (OS, apps)."],
-              ["**Internet**", "Global network; WWW, email, cloud; protocols (TCP/IP)."],
-              ["**Daily life**", "UPI/digital payments, e-commerce, online education, telemedicine, social media."],
-              ["**Emerging**", "AI, IoT, cloud, big data, 5G, blockchain."]
+              [
+                "**ICT scope**",
+                "Computing + telecom + internet + digital media."
+              ],
+              [
+                "**Hardware/software**",
+                "Devices (CPU, memory) + programs (OS, apps)."
+              ],
+              [
+                "**Internet**",
+                "Global network; WWW, email, cloud; protocols (TCP/IP)."
+              ],
+              [
+                "**Daily life**",
+                "UPI/digital payments, e-commerce, online education, telemedicine, social media."
+              ],
+              [
+                "**Emerging**",
+                "AI, IoT, cloud, big data, 5G, blockchain."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: ICT — nature & daily use",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**ICT** = Information & Communication Technology — computing + telecom + internet; hardware, software, networks, data.",
+              "**Key concepts**: internet & WWW, cloud computing, IoT (internet of things), big data, AI, 5G, blockchain, cybersecurity.",
+              "**Daily use**: e-commerce, digital payments (**UPI — world-leading**), social media, e-learning, telemedicine, GPS navigation, smart devices.",
+              "**India Stack**: **Aadhaar (digital identity) + UPI (payments) + DigiLocker + eKYC + eSign + CoWIN** — a public digital infrastructure model studied worldwide."
             ]
           }
         ]
@@ -173,12 +397,25 @@
       "Daily ICT — **UPI, e-commerce, online education, telemedicine, e-governance**.",
       "**Memory units** — bit < byte < KB < MB < GB < TB.",
       "Emerging tech — **AI, IoT, cloud, big data, 5G, blockchain**.",
-      "**Digital India** promotes ICT access & digital literacy."
+      "**Digital India** promotes ICT access & digital literacy.",
+      "**ICT** = computing + telecom + internet; enables e-commerce, e-learning, telemedicine.",
+      "**India Stack** = **Aadhaar + UPI + DigiLocker + eKYC/eSign** (digital public infrastructure).",
+      "Emerging: **IoT, cloud, big data, 5G, blockchain, AI**.",
+      "India's **UPI** = world-leading real-time payments system."
     ],
     "glossary": [
-      {"term": "ICT", "definition": "Information and Communication Technology — tools to process and transmit information."},
-      {"term": "TCP/IP", "definition": "The core protocol suite governing data transmission over the internet."},
-      {"term": "IoT", "definition": "The Internet of Things — networked everyday devices that collect and exchange data."}
+      {
+        "term": "ICT",
+        "definition": "Information and Communication Technology — tools to process and transmit information."
+      },
+      {
+        "term": "TCP/IP",
+        "definition": "The core protocol suite governing data transmission over the internet."
+      },
+      {
+        "term": "IoT",
+        "definition": "The Internet of Things — networked everyday devices that collect and exchange data."
+      }
     ]
   },
   {
@@ -194,13 +431,46 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Detail"],
+            "headers": [
+              "Area",
+              "Detail"
+            ],
             "rows": [
-              ["**ICT & industry**", "**IT/ITeS/BPO** (India a global hub); automation, Industry 4.0, fintech."],
-              ["**e-governance types**", "**G2C, G2B, G2G, G2E**."],
-              ["**Digital India (2015)**", "Digital infrastructure, services on demand, digital empowerment."],
-              ["**Key platforms**", "**Aadhaar, UPI, DigiLocker, UMANG, CoWIN, e-NAM, CSCs, DBT**."],
-              ["**Benefits**", "Transparency, speed, reduced corruption, last-mile delivery."]
+              [
+                "**ICT & industry**",
+                "**IT/ITeS/BPO** (India a global hub); automation, Industry 4.0, fintech."
+              ],
+              [
+                "**e-governance types**",
+                "**G2C, G2B, G2G, G2E**."
+              ],
+              [
+                "**Digital India (2015)**",
+                "Digital infrastructure, services on demand, digital empowerment."
+              ],
+              [
+                "**Key platforms**",
+                "**Aadhaar, UPI, DigiLocker, UMANG, CoWIN, e-NAM, CSCs, DBT**."
+              ],
+              [
+                "**Benefits**",
+                "Transparency, speed, reduced corruption, last-mile delivery."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: ICT in industry & governance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Industry 4.0**: automation, IoT, AI, robotics, cyber-physical systems; ICT in banking, retail, manufacturing, agriculture (agri-tech).",
+              "**e-Governance types**: **G2C (citizen), G2B (business), G2G (government), G2E (employee)**; evolution — computerisation → networking → online service → integrated.",
+              "**Flagship e-gov**: **Digital India (2015)**, MeghRaj (GI Cloud), **DBT**, **UMANG** (unified app), **DigiLocker**, e-Hospital, e-Courts, **CoWIN**, GeM (procurement), **CSCs (Common Service Centres)**, BharatNet (rural broadband).",
+              "**AP e-gov**: **Real-Time Governance Society (RTGS)**, Meebhoomi (land records), citizen service centres."
             ]
           }
         ]
@@ -213,12 +483,25 @@
       "**Common Service Centres (CSCs)** deliver e-services in rural areas.",
       "**DBT (Direct Benefit Transfer)** uses the **JAM trinity**.",
       "India is a global hub for **IT/ITeS/BPO** services.",
-      "**Industry 4.0** — automation, IoT, AI, cyber-physical systems."
+      "**Industry 4.0** — automation, IoT, AI, cyber-physical systems.",
+      "e-Gov categories: **G2C, G2B, G2G, G2E**.",
+      "Flagships: **Digital India, DBT, UMANG, DigiLocker, GeM, CSCs, BharatNet**.",
+      "**Industry 4.0** = IoT+AI+robotics+cyber-physical systems.",
+      "AP: **Real-Time Governance Society (RTGS)**, Meebhoomi land records."
     ],
     "glossary": [
-      {"term": "e-governance", "definition": "Delivery of government services using ICT (G2C, G2B, G2G, G2E)."},
-      {"term": "Digital India", "definition": "The 2015 programme to transform India into a digitally empowered society."},
-      {"term": "UPI", "definition": "Unified Payments Interface — India's real-time mobile payment system."}
+      {
+        "term": "e-governance",
+        "definition": "Delivery of government services using ICT (G2C, G2B, G2G, G2E)."
+      },
+      {
+        "term": "Digital India",
+        "definition": "The 2015 programme to transform India into a digitally empowered society."
+      },
+      {
+        "term": "UPI",
+        "definition": "Unified Payments Interface — India's real-time mobile payment system."
+      }
     ]
   },
   {
@@ -234,13 +517,46 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Netiquette**", "Courteous, responsible online behaviour; privacy & respect."],
-              ["**Cyber threats**", "**Phishing, malware, ransomware, hacking, identity theft, DDoS**."],
-              ["**IT Act 2000**", "India's cyber law; amended 2008; addresses cyber-crime & e-commerce."],
-              ["**CERT-In**", "Computer Emergency Response Team — India's nodal cyber-incident agency."],
-              ["**Policies**", "**National Cyber Security Policy (2013)**; **I4C** (cyber-crime coordination); cybercrime portal."]
+              [
+                "**Netiquette**",
+                "Courteous, responsible online behaviour; privacy & respect."
+              ],
+              [
+                "**Cyber threats**",
+                "**Phishing, malware, ransomware, hacking, identity theft, DDoS**."
+              ],
+              [
+                "**IT Act 2000**",
+                "India's cyber law; amended 2008; addresses cyber-crime & e-commerce."
+              ],
+              [
+                "**CERT-In**",
+                "Computer Emergency Response Team — India's nodal cyber-incident agency."
+              ],
+              [
+                "**Policies**",
+                "**National Cyber Security Policy (2013)**; **I4C** (cyber-crime coordination); cybercrime portal."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔬 Exam-ready deep coverage: cyber security & netiquette",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Cyber threats**: malware, phishing, ransomware, DDoS, identity theft, data breach, social engineering; **cyber warfare & critical-infrastructure attacks**.",
+              "**Legal framework**: **IT Act 2000 (amended 2008)** — cybercrime, digital signatures, Sec 66/67; **CERT-In** (incident response), **NCIIPC** (critical infrastructure), **I4C (Indian Cyber Crime Coordination Centre)**, **National Cyber Security Policy 2013**, cybercrime portal & helpline **1930**.",
+              "**Data protection**: **Digital Personal Data Protection Act 2023**; Puttaswamy privacy judgment (2017).",
+              "**Netiquette & safety**: strong passwords, 2FA, avoid oversharing, verify links, report cybercrime; digital hygiene."
             ]
           }
         ]
@@ -253,12 +569,25 @@
       "Cyber threats — **phishing, malware, ransomware, DDoS, identity theft**.",
       "**Indian Cyber Crime Coordination Centre (I4C)** & the **National Cyber Crime Reporting Portal**.",
       "**NCIIPC** protects **critical information infrastructure**.",
-      "**Netiquette** = responsible, respectful online conduct."
+      "**Netiquette** = responsible, respectful online conduct.",
+      "**IT Act 2000 (amended 2008)** governs cybercrime; **CERT-In** = incident response.",
+      "**National Cyber Security Policy 2013**; **I4C** + helpline **1930** for cybercrime.",
+      "**Digital Personal Data Protection Act 2023** = India's privacy law.",
+      "Threats: **phishing, ransomware, DDoS, social engineering**; **NCIIPC** guards critical infra."
     ],
     "glossary": [
-      {"term": "Cyber security", "definition": "The protection of computer systems, networks and data from digital attacks."},
-      {"term": "CERT-In", "definition": "India's Computer Emergency Response Team, the nodal cyber-incident agency."},
-      {"term": "Phishing", "definition": "A fraud that tricks users into revealing sensitive data via fake messages/sites."}
+      {
+        "term": "Cyber security",
+        "definition": "The protection of computer systems, networks and data from digital attacks."
+      },
+      {
+        "term": "CERT-In",
+        "definition": "India's Computer Emergency Response Team, the nodal cyber-incident agency."
+      },
+      {
+        "term": "Phishing",
+        "definition": "A fraud that tricks users into revealing sensitive data via fake messages/sites."
+      }
     ]
   }
 ]

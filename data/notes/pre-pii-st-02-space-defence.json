@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Milestone", "Detail"],
+            "headers": [
+              "Milestone",
+              "Detail"
+            ],
             "rows": [
-              ["**Founding**", "**INCOSPAR (1962) → ISRO (1969)**; founder **Vikram Sarabhai**; HQ Bengaluru."],
-              ["**First satellite**", "**Aryabhata (1975)**, launched by the USSR."],
-              ["**Launch vehicles**", "**SLV, ASLV, PSLV (workhorse), GSLV, GSLV Mk-III/LVM3, SSLV**."],
-              ["**Moon/Mars/Sun**", "**Chandrayaan-1 (2008, found water), Chandrayaan-3 (2023, south-pole landing), Mangalyaan/MOM (2013, Mars in first attempt), Aditya-L1 (Sun)**."],
-              ["**Records**", "**104 satellites in one PSLV launch (2017)**; low-cost missions."]
+              [
+                "**Founding**",
+                "**INCOSPAR (1962) → ISRO (1969)**; founder **Vikram Sarabhai**; HQ Bengaluru."
+              ],
+              [
+                "**First satellite**",
+                "**Aryabhata (1975)**, launched by the USSR."
+              ],
+              [
+                "**Launch vehicles**",
+                "**SLV, ASLV, PSLV (workhorse), GSLV, GSLV Mk-III/LVM3, SSLV**."
+              ],
+              [
+                "**Moon/Mars/Sun**",
+                "**Chandrayaan-1 (2008, found water), Chandrayaan-3 (2023, south-pole landing), Mangalyaan/MOM (2013, Mars in first attempt), Aditya-L1 (Sun)**."
+              ],
+              [
+                "**Records**",
+                "**104 satellites in one PSLV launch (2017)**; low-cost missions."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🚀 Exam-ready deep coverage: ISRO & the space programme",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Founded** by **Vikram Sarabhai (1969)**; DoS/ISRO HQ Bengaluru; first satellite **Aryabhata (1975)**; first launch vehicle **SLV-3 (1980, Rohini)**.",
+              "**Launch vehicles**: **PSLV** ('workhorse' — Sun-synchronous/polar orbits; the **104-satellite record, 2017**), **GSLV** (geostationary, cryogenic upper stage), **GSLV Mk-III/LVM3** (heavy-lift — Chandrayaan-3, Gaganyaan), **SSLV** (small satellites).",
+              "**Milestones**: **Chandrayaan-1 (2008 — found water on Moon)**, **Mangalyaan/MOM (2013 — Mars in first attempt, cheapest)**, **Chandrayaan-2 (2019)**, **Chandrayaan-3 (2023 — first soft-landing near the lunar south pole)**, **Aditya-L1 (2023 — Sun)**, upcoming **Gaganyaan (human spaceflight)** & NISAR.",
+              "**Applications**: communication, remote sensing, navigation, weather, disaster management, education, tele-medicine."
             ]
           }
         ]
@@ -31,12 +64,25 @@
       "**Chandrayaan-1 (2008)** discovered water on the Moon; **Chandrayaan-3 (2023)** — first to land near the **lunar south pole**.",
       "**Mangalyaan (MOM, 2013)** — India reached **Mars in its first attempt** (first Asian nation).",
       "**Aditya-L1** — India's first solar mission (L1 point).",
-      "ISRO set a record launching **104 satellites in one PSLV flight (2017)**."
+      "ISRO set a record launching **104 satellites in one PSLV flight (2017)**.",
+      "ISRO founded by **Vikram Sarabhai (1969)**; first satellite **Aryabhata (1975)**.",
+      "**PSLV** = polar workhorse (104-sat record 2017); **LVM3/GSLV Mk-III** = heavy-lift.",
+      "**Chandrayaan-3 (2023)** = first soft-landing near lunar **south pole**; **Mangalyaan (2013)** = Mars, first attempt.",
+      "**Aditya-L1** = Sun mission; **Gaganyaan** = human spaceflight (upcoming)."
     ],
     "glossary": [
-      {"term": "ISRO", "definition": "The Indian Space Research Organisation (1969), India's national space agency."},
-      {"term": "PSLV", "definition": "The Polar Satellite Launch Vehicle — ISRO's reliable 'workhorse' rocket."},
-      {"term": "Chandrayaan-3", "definition": "India's 2023 mission that soft-landed near the Moon's south pole."}
+      {
+        "term": "ISRO",
+        "definition": "The Indian Space Research Organisation (1969), India's national space agency."
+      },
+      {
+        "term": "PSLV",
+        "definition": "The Polar Satellite Launch Vehicle — ISRO's reliable 'workhorse' rocket."
+      },
+      {
+        "term": "Chandrayaan-3",
+        "definition": "India's 2023 mission that soft-landed near the Moon's south pole."
+      }
     ]
   },
   {
@@ -52,13 +98,47 @@
           },
           {
             "type": "table",
-            "headers": ["System", "Purpose"],
+            "headers": [
+              "System",
+              "Purpose"
+            ],
             "rows": [
-              ["**INSAT / GSAT**", "**Communication & broadcasting**; among Asia-Pacific's largest comsat systems; also meteorology."],
-              ["**IRS**", "**Indian Remote Sensing** — earth observation, resource/agriculture/disaster mapping; among the world's largest."],
-              ["**NavIC (IRNSS)**", "**Indian Regional Navigation Satellite System** — 7 satellites; regional GPS-like positioning."],
-              ["**Cartosat/Resourcesat/Oceansat**", "Specialised remote-sensing series."],
-              ["**Coverage**", "NavIC covers India + ~1500 km around."]
+              [
+                "**INSAT / GSAT**",
+                "**Communication & broadcasting**; among Asia-Pacific's largest comsat systems; also meteorology."
+              ],
+              [
+                "**IRS**",
+                "**Indian Remote Sensing** — earth observation, resource/agriculture/disaster mapping; among the world's largest."
+              ],
+              [
+                "**NavIC (IRNSS)**",
+                "**Indian Regional Navigation Satellite System** — 7 satellites; regional GPS-like positioning."
+              ],
+              [
+                "**Cartosat/Resourcesat/Oceansat**",
+                "Specialised remote-sensing series."
+              ],
+              [
+                "**Coverage**",
+                "NavIC covers India + ~1500 km around."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🚀 Exam-ready deep coverage: satellite programmes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Communication — INSAT/GSAT** series: telecom, TV broadcasting, weather, disaster warning, tele-education/medicine (geostationary).",
+              "**Remote sensing — IRS series** (one of the world's largest): resources, agriculture, forestry, urban planning, disaster mapping (polar/Sun-synchronous).",
+              "**Navigation — NavIC (IRNSS)**: India's regional navigation system (7 satellites), + **GAGAN** (GPS augmentation for aviation).",
+              "**Weather — INSAT-3D/3DR, Oceansat, Scatsat, Cartosat** (mapping), **RISAT** (radar).",
+              "Applications feed agriculture (crop forecasting), fisheries (INCOIS PFZ), disaster response, telemedicine, e-governance."
             ]
           }
         ]
@@ -71,12 +151,25 @@
       "Remote-sensing series — **Cartosat (mapping), Resourcesat, Oceansat, RISAT (radar)**.",
       "**GSAT** series handles communication/broadcasting.",
       "NavIC provides **Standard & Restricted** positioning services.",
-      "Applications — **weather, agriculture, disaster management, telecom, navigation**."
+      "Applications — **weather, agriculture, disaster management, telecom, navigation**.",
+      "**INSAT/GSAT** = communication/weather (geostationary); **IRS** = remote sensing (polar).",
+      "**NavIC (IRNSS)** = India's regional GPS (7 satellites); **GAGAN** = GPS augmentation for aviation.",
+      "**Cartosat** = mapping; **RISAT** = radar imaging; **Oceansat/Scatsat** = ocean/weather.",
+      "Uses: crop forecasting, fisheries (PFZ), disaster mapping, tele-education."
     ],
     "glossary": [
-      {"term": "NavIC / IRNSS", "definition": "India's regional satellite navigation system of seven satellites."},
-      {"term": "IRS", "definition": "The Indian Remote Sensing satellite series for earth observation."},
-      {"term": "INSAT/GSAT", "definition": "India's communication and meteorological satellite systems."}
+      {
+        "term": "NavIC / IRNSS",
+        "definition": "India's regional satellite navigation system of seven satellites."
+      },
+      {
+        "term": "IRS",
+        "definition": "The Indian Remote Sensing satellite series for earth observation."
+      },
+      {
+        "term": "INSAT/GSAT",
+        "definition": "India's communication and meteorological satellite systems."
+      }
     ]
   },
   {
@@ -92,13 +185,46 @@
           },
           {
             "type": "table",
-            "headers": ["Satellite type", "Detail"],
+            "headers": [
+              "Satellite type",
+              "Detail"
+            ],
             "rows": [
-              ["**EDUSAT (GSAT-3, 2004)**", "**First Indian satellite exclusively for education** (tele-education)."],
-              ["**Defence — GSAT-7 'Rukmini'**", "Navy communication satellite."],
-              ["**GSAT-7A 'Angry Bird'**", "Air Force communication."],
-              ["**EMISAT / RISAT / Microsat**", "Electronic intelligence / radar imaging / surveillance."],
-              ["**Defence Space Agency**", "Coordinates military space assets; **Mission Shakti (2019)** — ASAT test."]
+              [
+                "**EDUSAT (GSAT-3, 2004)**",
+                "**First Indian satellite exclusively for education** (tele-education)."
+              ],
+              [
+                "**Defence — GSAT-7 'Rukmini'**",
+                "Navy communication satellite."
+              ],
+              [
+                "**GSAT-7A 'Angry Bird'**",
+                "Air Force communication."
+              ],
+              [
+                "**EMISAT / RISAT / Microsat**",
+                "Electronic intelligence / radar imaging / surveillance."
+              ],
+              [
+                "**Defence Space Agency**",
+                "Coordinates military space assets; **Mission Shakti (2019)** — ASAT test."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🚀 Exam-ready deep coverage: defence & academic satellites",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Academic/education**: **EDUSAT (2004)** — India's first satellite dedicated to education (distance learning); GSAT-based tele-education.",
+              "**Defence/strategic**: **GSAT-7 'Rukmini' (Navy), GSAT-7A (Air Force)**; **RISAT & Cartosat** for surveillance; **Microsat/EMISAT** (electronic intelligence); **Mission Shakti (2019)** — anti-satellite (ASAT) test made India the **4th ASAT power**.",
+              "**Defence Space Agency (DSA)** & the private-sector opening via **IN-SPACe** and **NewSpace India Ltd (NSIL)** boost strategic & commercial space.",
+              "Student/academic small satellites (university-built) also launched by ISRO (e.g., APSAT / student satellites)."
             ]
           }
         ]
@@ -111,12 +237,25 @@
       "**Mission Shakti (2019)** — India's **anti-satellite (ASAT)** missile test (4th nation).",
       "**Defence Space Agency (DSA)** coordinates military space assets.",
       "Defence satellites provide **secure communication, surveillance, reconnaissance**.",
-      "**GSAT** = geostationary communication satellites."
+      "**GSAT** = geostationary communication satellites.",
+      "**EDUSAT (2004)** = first education-dedicated satellite.",
+      "Defence sats: **GSAT-7 (Navy), GSAT-7A (Air Force)**; **RISAT/Cartosat** for surveillance.",
+      "**Mission Shakti (2019)** = ASAT test → India **4th** ASAT nation.",
+      "**IN-SPACe & NSIL** open space to the private sector; **DSA** = Defence Space Agency."
     ],
     "glossary": [
-      {"term": "EDUSAT", "definition": "GSAT-3 (2004), India's first satellite dedicated entirely to education."},
-      {"term": "Mission Shakti", "definition": "India's 2019 anti-satellite (ASAT) weapon test."},
-      {"term": "RISAT", "definition": "The Radar Imaging Satellite series providing all-weather surveillance."}
+      {
+        "term": "EDUSAT",
+        "definition": "GSAT-3 (2004), India's first satellite dedicated entirely to education."
+      },
+      {
+        "term": "Mission Shakti",
+        "definition": "India's 2019 anti-satellite (ASAT) weapon test."
+      },
+      {
+        "term": "RISAT",
+        "definition": "The Radar Imaging Satellite series providing all-weather surveillance."
+      }
     ]
   },
   {
@@ -132,13 +271,46 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Detail"],
+            "headers": [
+              "Area",
+              "Detail"
+            ],
             "rows": [
-              ["**Founded**", "**1958**; under the **Ministry of Defence**; ~50+ labs."],
-              ["**Missiles (IGMDP)**", "**Prithvi, Agni, Akash, Trishul, Nag** (Integrated Guided Missile Development Programme — A.P.J. Abdul Kalam)."],
-              ["**Aircraft**", "**Tejas (LCA)**; UAVs."],
-              ["**Other tech**", "Radars, EW systems, torpedoes, missile defence (BMD), **BrahMos** (India-Russia)."],
-              ["**Mission**", "Self-reliance (Atmanirbhar) in defence technology."]
+              [
+                "**Founded**",
+                "**1958**; under the **Ministry of Defence**; ~50+ labs."
+              ],
+              [
+                "**Missiles (IGMDP)**",
+                "**Prithvi, Agni, Akash, Trishul, Nag** (Integrated Guided Missile Development Programme — A.P.J. Abdul Kalam)."
+              ],
+              [
+                "**Aircraft**",
+                "**Tejas (LCA)**; UAVs."
+              ],
+              [
+                "**Other tech**",
+                "Radars, EW systems, torpedoes, missile defence (BMD), **BrahMos** (India-Russia)."
+              ],
+              [
+                "**Mission**",
+                "Self-reliance (Atmanirbhar) in defence technology."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🚀 Exam-ready deep coverage: DRDO",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**DRDO (1958)** — premier defence R&D agency (Ministry of Defence); ~50 labs; mission = self-reliance (Atmanirbhar) in defence.",
+              "**Missiles — IGMDP (Kalam)**: **Prithvi (surface-surface), Agni (ballistic, Agni-V ICBM ~5000+ km, MIRV Agni-P), Akash (SAM), Nag (anti-tank), Trishul**; **BrahMos** (Indo-Russian supersonic cruise), **Astra** (air-air), hypersonic (HSTDV).",
+              "**Other systems**: **Tejas (LCA)**, **Arjun tank**, radars, EW, torpedoes, UAVs, **Pinaka** rocket, ballistic-missile defence, DRDO's role in **Covid** (ventilators, medicines).",
+              "**Strategic**: nuclear-capable delivery, **Agni-V**, submarine-launched (K-series), integrated with the nuclear triad."
             ]
           }
         ]
@@ -151,12 +323,25 @@
       "**Tejas (LCA)** — indigenous light combat aircraft.",
       "**BrahMos** — supersonic cruise missile (India-Russia joint venture).",
       "DRDO develops **radars, EW, torpedoes, ballistic-missile defence**.",
-      "Mission — **self-reliance (Atmanirbhar Bharat) in defence**."
+      "Mission — **self-reliance (Atmanirbhar Bharat) in defence**.",
+      "**DRDO (1958)** = defence R&D; ran **IGMDP** (Kalam): Prithvi, Agni, Akash, Nag, Trishul.",
+      "**Agni-V** = ICBM (~5000+ km); **BrahMos** = Indo-Russian supersonic cruise missile.",
+      "Platforms: **Tejas (LCA), Arjun tank, Pinaka, Astra**; hypersonic **HSTDV**.",
+      "Supports the **nuclear triad** (K-series SLBMs)."
     ],
     "glossary": [
-      {"term": "DRDO", "definition": "The Defence Research and Development Organisation (1958), India's military R&D agency."},
-      {"term": "IGMDP", "definition": "The Integrated Guided Missile Development Programme that produced Agni, Prithvi, Akash, etc."},
-      {"term": "BrahMos", "definition": "The India-Russia supersonic cruise missile."}
+      {
+        "term": "DRDO",
+        "definition": "The Defence Research and Development Organisation (1958), India's military R&D agency."
+      },
+      {
+        "term": "IGMDP",
+        "definition": "The Integrated Guided Missile Development Programme that produced Agni, Prithvi, Akash, etc."
+      },
+      {
+        "term": "BrahMos",
+        "definition": "The India-Russia supersonic cruise missile."
+      }
     ]
   }
 ]
