@@ -12,14 +12,77 @@
           },
           {
             "type": "table",
-            "headers": ["Dynasty (period)", "Key rulers & facts"],
+            "headers": [
+              "Dynasty (period)",
+              "Key rulers & facts"
+            ],
             "rows": [
-              ["**Slave/Mamluk (1206-90)**", "**Qutbuddin Aibak** (founder; Qutb Minar begun), **Iltutmish** (real consolidator; iqta; Qutb Minar completed), **Razia** (first woman ruler), **Balban** (kingship theory 'zill-i-ilahi')."],
-              ["**Khilji (1290-1320)**", "**Alauddin Khilji** — market/price control, revenue reforms, repelled Mongols; **Malik Kafur's Deccan raids**."],
-              ["**Tughlaq (1320-1414)**", "**Muhammad bin Tughlaq** (capital to Daulatabad, token currency — failed), **Firoz Shah** (canals, jizya)."],
-              ["**Sayyid (1414-51)**", "Founded by **Khizr Khan** (Timur's nominee); weak."],
-              ["**Lodi (1451-1526)**", "**Bahlul, Sikandar (founded Agra), Ibrahim Lodi** (lost at **Panipat 1526**)."]
+              [
+                "**Slave/Mamluk (1206-90)**",
+                "**Qutbuddin Aibak** (founder; Qutb Minar begun), **Iltutmish** (real consolidator; iqta; Qutb Minar completed), **Razia** (first woman ruler), **Balban** (kingship theory 'zill-i-ilahi')."
+              ],
+              [
+                "**Khilji (1290-1320)**",
+                "**Alauddin Khilji** — market/price control, revenue reforms, repelled Mongols; **Malik Kafur's Deccan raids**."
+              ],
+              [
+                "**Tughlaq (1320-1414)**",
+                "**Muhammad bin Tughlaq** (capital to Daulatabad, token currency — failed), **Firoz Shah** (canals, jizya)."
+              ],
+              [
+                "**Sayyid (1414-51)**",
+                "Founded by **Khizr Khan** (Timur's nominee); weak."
+              ],
+              [
+                "**Lodi (1451-1526)**",
+                "**Bahlul, Sikandar (founded Agra), Ibrahim Lodi** (lost at **Panipat 1526**)."
+              ]
             ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: the five Sultanate dynasties",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Dynasty",
+              "Dates",
+              "Key sultans & facts"
+            ],
+            "rows": [
+              [
+                "**Slave/Mamluk (Ilbari)**",
+                "1206–90",
+                "**Qutbuddin Aibak** (founder; Quwwat-ul-Islam, Qutb Minar begun; d. polo fall); **Iltutmish** (real consolidator; Iqta system; silver **tanka** & copper **jital**; Chihalgani/'Forty'); **Razia Sultana** (only woman ruler of Delhi); **Balban** (blood-and-iron; Sijda & Paibos; Persian court)."
+              ],
+              [
+                "**Khilji**",
+                "1290–1320",
+                "**Jalaluddin**; **Alauddin Khilji** — **market/price control (Diwan-i-Riyasat)**, first standing army with **dagh (branding) & chehra (descriptive roll)**, land measurement (biswa), 50% land tax; **Malik Kafur's Deccan raids**; Alai Darwaza & Siri fort."
+              ],
+              [
+                "**Tughlaq**",
+                "1320–1414",
+                "**Ghiyasuddin**; **Muhammad-bin-Tughlaq** — capital transfer **Delhi↔Daulatabad**, token **copper/bronze currency** (failed), Khorasan/Qarachil schemes; **Firoz Shah Tughlaq** — irrigation canals, Jizya on Brahmins, Diwan-i-Khairat, brought Ashokan pillars to Delhi."
+              ],
+              [
+                "**Sayyid**",
+                "1414–51",
+                "Khizr Khan (Timur's nominee); weak."
+              ],
+              [
+                "**Lodi (Afghan)**",
+                "1451–1526",
+                "Bahlul Lodi; **Sikandar Lodi** (founded **Agra**, 1504); **Ibrahim Lodi** — defeated & killed by **Babur at Panipat I (1526)**."
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Alauddin Khilji's **market reforms** and Muhammad-bin-Tughlaq's **two failed experiments (capital shift + token currency)** are the most-asked Sultanate facts."
           }
         ]
       },
@@ -44,15 +107,29 @@
       "**Balban** — theory of kingship: king as **'zill-i-ilahi' (shadow of God)**; sijda & paibos.",
       "**Sayyids** founded by **Khizr Khan** (Timur's deputy); **Lodis** — first Afghan dynasty (Bahlul Lodi).",
       "**Sikandar Lodi** founded **Agra**; **Ibrahim Lodi** defeated by **Babur at Panipat (1526)**.",
-      "The Sultanate was an **Islamic theocratic-military state** ruled by the Sultan aided by the **wazir**."
+      "The Sultanate was an **Islamic theocratic-military state** ruled by the Sultan aided by the **wazir**.",
+      "Five dynasties: **Slave → Khilji → Tughlaq → Sayyid → Lodi** (1206–1526).",
+      "**Iltutmish** — silver **tanka** & copper **jital**; completed **Qutb Minar**; **Razia** = only woman Sultan.",
+      "**Alauddin Khilji** — market control, **dagh & chehra**, Malik Kafur's south raids.",
+      "**Muhammad-bin-Tughlaq** — Delhi↔**Daulatabad** shift & **token currency** (both failed).",
+      "**Ibrahim Lodi** killed at **Panipat I (1526)** by **Babur**; **Sikandar Lodi** founded **Agra**."
     ],
     "mainsAngles": [
       "Trace the political evolution of the Delhi Sultanate across its five dynasties."
     ],
     "glossary": [
-      {"term": "Mamluk", "definition": "The 'Slave' dynasty of Turkish military slaves who founded the Delhi Sultanate."},
-      {"term": "Iqta", "definition": "A revenue assignment granted for military/administrative service, systematised by Iltutmish."},
-      {"term": "Zill-i-ilahi", "definition": "'Shadow of God' — Balban's exalted theory of divine kingship."}
+      {
+        "term": "Mamluk",
+        "definition": "The 'Slave' dynasty of Turkish military slaves who founded the Delhi Sultanate."
+      },
+      {
+        "term": "Iqta",
+        "definition": "A revenue assignment granted for military/administrative service, systematised by Iltutmish."
+      },
+      {
+        "term": "Zill-i-ilahi",
+        "definition": "'Shadow of God' — Balban's exalted theory of divine kingship."
+      }
     ]
   },
   {
@@ -68,13 +145,47 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Central govt**", "**Sultan** + ministries — **Diwan-i-Wizarat (finance), Diwan-i-Arz (military), Diwan-i-Insha (correspondence), Diwan-i-Risalat (religion)**."],
-              ["**Iqta system**", "Revenue assignment for service; **iqtadars/muqtis** collected revenue & maintained troops."],
-              ["**Alauddin's reforms**", "**Market/price control**, revenue at 50% (measurement), standing army, branding of horses (dagh) & muster roll (chehra)."],
-              ["**MBT experiments**", "**Capital shift (Delhi→Daulatabad)** & **token currency (copper/brass)** — both failed."],
-              ["**Economy/society**", "Urban growth (Delhi a world city — **Ibn Battuta**), new crafts (paper, spinning wheel), Persian bureaucracy, slave labour (Firoz)."]
+              [
+                "**Central govt**",
+                "**Sultan** + ministries — **Diwan-i-Wizarat (finance), Diwan-i-Arz (military), Diwan-i-Insha (correspondence), Diwan-i-Risalat (religion)**."
+              ],
+              [
+                "**Iqta system**",
+                "Revenue assignment for service; **iqtadars/muqtis** collected revenue & maintained troops."
+              ],
+              [
+                "**Alauddin's reforms**",
+                "**Market/price control**, revenue at 50% (measurement), standing army, branding of horses (dagh) & muster roll (chehra)."
+              ],
+              [
+                "**MBT experiments**",
+                "**Capital shift (Delhi→Daulatabad)** & **token currency (copper/brass)** — both failed."
+              ],
+              [
+                "**Economy/society**",
+                "Urban growth (Delhi a world city — **Ibn Battuta**), new crafts (paper, spinning wheel), Persian bureaucracy, slave labour (Firoz)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Sultanate administration, economy, society",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Theory of kingship**: Sultan as head; based on Islamic law (Shariat) tempered by Zawabit (state law); **Ulema** influence; **Balban** raised royal prestige (Zill-i-Ilahi).",
+              "**Central departments**: **Diwan-i-Wizarat** (finance — Wazir), **Diwan-i-Arz** (military — Ariz-i-Mumalik), **Diwan-i-Insha** (correspondence), **Diwan-i-Risalat** (religious/appeals); **Barid** (intelligence).",
+              "**Iqta system**: land-revenue assignments to nobles (**Iqtadars/Muqtis**) in lieu of salary & for maintaining troops — the fiscal backbone (systematised by **Iltutmish**).",
+              "**Revenue**: land tax (**Kharaj**, up to 50% under Alauddin), **Jizya** (non-Muslims), **Zakat, Khams** (1/5 war booty); measurement/**hasil**.",
+              "**Economy & society**: **urbanisation, market economy, new crafts** (paper, textiles), the **Persian wheel (rahat)** & **spinning wheel (charkha)** spread; Sufi khanqahs; slavery (Firoz's 1.8 lakh slaves); a composite **Indo-Islamic (Ganga-Jamuni)** culture emerged."
             ]
           }
         ]
@@ -100,15 +211,28 @@
       "**Muhammad bin Tughlaq** — capital shift to **Daulatabad** & **token (copper) currency**; both failed.",
       "**Firoz Shah Tughlaq** — dug canals, built towns (Firozabad, Hisar), imposed **jizya** on Brahmins, employed slaves (Diwan-i-Bandagan).",
       "**Ibn Battuta** (Morocco) visited under MBT; wrote **Rihla**.",
-      "New technologies — **paper, spinning wheel (charkha), Persian wheel** entered India."
+      "New technologies — **paper, spinning wheel (charkha), Persian wheel** entered India.",
+      "Departments: **Diwan-i-Wizarat (finance), Diwan-i-Arz (army), Diwan-i-Insha, Diwan-i-Risalat**.",
+      "**Iqta** = revenue-assignment to nobles (systematised by **Iltutmish**); holder = **Muqti/Iqtadar**.",
+      "Taxes: **Kharaj** (land), **Jizya** (non-Muslims), **Zakat, Khams**; Alauddin's land tax ~**50%**.",
+      "New tech spread: **Persian wheel, spinning wheel (charkha), paper**; composite Indo-Islamic culture."
     ],
     "mainsAngles": [
       "Examine Alauddin Khilji's administrative and market reforms."
     ],
     "glossary": [
-      {"term": "Iqtadar (muqti)", "definition": "The holder of an iqta, responsible for revenue collection and maintaining troops."},
-      {"term": "Dagh and Chehra", "definition": "Alauddin's system of branding horses (dagh) and keeping soldiers' descriptive rolls (chehra) to prevent fraud."},
-      {"term": "Token currency", "definition": "Muhammad bin Tughlaq's ill-fated copper/brass coinage meant to circulate at silver value."}
+      {
+        "term": "Iqtadar (muqti)",
+        "definition": "The holder of an iqta, responsible for revenue collection and maintaining troops."
+      },
+      {
+        "term": "Dagh and Chehra",
+        "definition": "Alauddin's system of branding horses (dagh) and keeping soldiers' descriptive rolls (chehra) to prevent fraud."
+      },
+      {
+        "term": "Token currency",
+        "definition": "Muhammad bin Tughlaq's ill-fated copper/brass coinage meant to circulate at silver value."
+      }
     ]
   },
   {
@@ -124,13 +248,46 @@
           },
           {
             "type": "table",
-            "headers": ["Field", "Detail"],
+            "headers": [
+              "Field",
+              "Detail"
+            ],
             "rows": [
-              ["**Architecture (Slave)**", "**Qutb Minar, Quwwat-ul-Islam mosque** (Aibak/Iltutmish); **arcuate** (true arch) style begins."],
-              ["**Khilji**", "**Alai Darwaza** (first true dome/arch), Siri fort — Seljuk influence."],
-              ["**Tughlaq**", "Austere, sloping-wall forts — **Tughlaqabad, Firozabad, Kotla**; batter walls."],
-              ["**Lodi**", "**Lodi Gardens** tombs; the octagonal & double-dome tomb form."],
-              ["**Literature/music**", "**Amir Khusrau** ('Tuti-i-Hind'/parrot of India) — Persian poetry, credited with **qawwali, sitar/tabla, Khari Boli** roots; **Ziauddin Barani** (Tarikh-i-Firozshahi)."]
+              [
+                "**Architecture (Slave)**",
+                "**Qutb Minar, Quwwat-ul-Islam mosque** (Aibak/Iltutmish); **arcuate** (true arch) style begins."
+              ],
+              [
+                "**Khilji**",
+                "**Alai Darwaza** (first true dome/arch), Siri fort — Seljuk influence."
+              ],
+              [
+                "**Tughlaq**",
+                "Austere, sloping-wall forts — **Tughlaqabad, Firozabad, Kotla**; batter walls."
+              ],
+              [
+                "**Lodi**",
+                "**Lodi Gardens** tombs; the octagonal & double-dome tomb form."
+              ],
+              [
+                "**Literature/music**",
+                "**Amir Khusrau** ('Tuti-i-Hind'/parrot of India) — Persian poetry, credited with **qawwali, sitar/tabla, Khari Boli** roots; **Ziauddin Barani** (Tarikh-i-Firozshahi)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Sultanate art, architecture & letters",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Architecture — the arcuate style** (true **arch & dome**, lime mortar) replacing trabeate; materials — red sandstone, later marble; motifs — geometric, arabesque, calligraphy (no figures).",
+              "**Monuments**: **Qutb Minar** (Aibak-Iltutmish), **Quwwat-ul-Islam mosque** (first, from temple spolia), **Alai Darwaza** (Alauddin — first true dome), **Siri** fort, **Tughlaqabad** & sloping-wall Tughlaq style, **Firoz Shah Kotla**, **Lodi tombs** (double-dome).",
+              "**Literature**: **Amir Khusrau** ('Tuti-i-Hind', father of **Qawwali** & Khari Boli/Urdu, invented the **sitar/tabla** by tradition; works — Tughlaq Nama, Khazain-ul-Futuh); **Ziauddin Barani** (Tarikh-i-Firozshahi), **Minhaj-us-Siraj** (Tabaqat-i-Nasiri), **Ibn Battuta** (Rihla — visited Muhammad-bin-Tughlaq).",
+              "**Music**: Indo-Persian synthesis — **qawwali, ghazal**; growth of **Hindustani** classical."
             ]
           }
         ]
@@ -156,15 +313,28 @@
       "**Lodi Gardens** — octagonal tombs, early **double dome**.",
       "**Amir Khusrau** — 'Parrot of India'; pioneered **qawwali, Khari Boli (Hindavi)**, credited with sitar/tabla legend.",
       "Historians — **Ziauddin Barani (Tarikh-i-Firozshahi), Minhaj-us-Siraj (Tabaqat-i-Nasiri)**.",
-      "Style = **Indo-Islamic** (arch-dome-minaret + Indian decorative craft)."
+      "Style = **Indo-Islamic** (arch-dome-minaret + Indian decorative craft).",
+      "Sultanate = **arcuate** (arch-dome) style; **Alai Darwaza** = first **true dome** (Alauddin).",
+      "**Amir Khusrau** — father of **Qawwali**, Khari Boli/Urdu; Tuti-i-Hind; **Ibn Battuta** wrote **Rihla**.",
+      "**Ziauddin Barani** — Tarikh-i-Firozshahi; **Minhaj-us-Siraj** — Tabaqat-i-Nasiri.",
+      "**Qutb Minar** (Aibak/Iltutmish); Tughlaqabad; **Lodi double-dome** tombs."
     ],
     "mainsAngles": [
       "Discuss the evolution of Indo-Islamic architecture under the Delhi Sultanate."
     ],
     "glossary": [
-      {"term": "Arcuate style", "definition": "Construction using arches and domes (as against the Indian trabeate/beam style), introduced by the Sultanate."},
-      {"term": "Alai Darwaza", "definition": "Alauddin Khilji's gateway at the Qutb complex, India's first true dome and arch."},
-      {"term": "Amir Khusrau", "definition": "The Sultanate's greatest Persian poet-musician, credited with qawwali and the roots of Khari Boli/Urdu."}
+      {
+        "term": "Arcuate style",
+        "definition": "Construction using arches and domes (as against the Indian trabeate/beam style), introduced by the Sultanate."
+      },
+      {
+        "term": "Alai Darwaza",
+        "definition": "Alauddin Khilji's gateway at the Qutb complex, India's first true dome and arch."
+      },
+      {
+        "term": "Amir Khusrau",
+        "definition": "The Sultanate's greatest Persian poet-musician, credited with qawwali and the roots of Khari Boli/Urdu."
+      }
     ]
   },
   {
@@ -180,13 +350,47 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founders/dynasties**", "**Harihara & Bukka (Sangama)**; then **Saluva, Tuluva, Aravidu**; capital **Vijayanagara (Hampi)** on the Tungabhadra."],
-              ["**Krishnadevaraya (1509-29)**", "Greatest (Tuluva); **Amuktamalyada**; court of **Ashtadiggajas** (Peddana); defeated the Gajapatis & Bahmanis."],
-              ["**Bahmani rival**", "**Bahmani Sultanate (1347, Alauddin Hasan Bangda Shah, capital Gulbarga→Bidar)**; **Mahmud Gawan** (great PM); split into 5 **Deccan Sultanates**."],
-              ["**Talikota (1565)**", "The **Deccan Sultanates' confederacy** defeated Vijayanagara — the empire declined."],
-              ["**Sources**", "Foreign travellers — **Nicolo Conti, Abdur Razzaq, Domingo Paes, Nuniz**."]
+              [
+                "**Founders/dynasties**",
+                "**Harihara & Bukka (Sangama)**; then **Saluva, Tuluva, Aravidu**; capital **Vijayanagara (Hampi)** on the Tungabhadra."
+              ],
+              [
+                "**Krishnadevaraya (1509-29)**",
+                "Greatest (Tuluva); **Amuktamalyada**; court of **Ashtadiggajas** (Peddana); defeated the Gajapatis & Bahmanis."
+              ],
+              [
+                "**Bahmani rival**",
+                "**Bahmani Sultanate (1347, Alauddin Hasan Bangda Shah, capital Gulbarga→Bidar)**; **Mahmud Gawan** (great PM); split into 5 **Deccan Sultanates**."
+              ],
+              [
+                "**Talikota (1565)**",
+                "The **Deccan Sultanates' confederacy** defeated Vijayanagara — the empire declined."
+              ],
+              [
+                "**Sources**",
+                "Foreign travellers — **Nicolo Conti, Abdur Razzaq, Domingo Paes, Nuniz**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Vijayanagara Empire",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Founded 1336** by **Harihara & Bukka (Sangama)** (guided by **Vidyaranya**), capital **Hampi (Vijayanagara)** on the Tungabhadra — a Hindu bulwark against the **Bahmani** Sultanate.",
+              "**Four dynasties**: Sangama → Saluva → **Tuluva** (**Krishnadevaraya** — greatest, 1509–29; author of **Amuktamalyada** in Telugu & Sanskrit; the **Ashtadiggajas** poets incl. **Allasani Peddana** 'Andhrakavita Pitamaha'; defeated Gajapatis & Bahmanis) → Aravidu; **Battle of Talikota/Rakshasa-Tangadi (1565)** — the Deccan Sultanates crushed Vijayanagara (Rama Raya killed) & sacked Hampi.",
+              "**Administration**: the **Nayankara** (military-feudal governors) & **Ayagar** (village-servant) systems; heavy standing army & cavalry (imported horses via **Portuguese**); land revenue **1/6**.",
+              "**Economy & accounts**: prosperous — foreign travellers **Nicolo Conti, Abdur Razzaq** ('no city like it'), **Domingo Paes, Fernao Nuniz** (Portuguese) describe wealth, markets, temples; irrigation tanks; the **Vittala (musical pillars, stone chariot) & Virupaksha & Hazara Rama temples**, Lotus Mahal, elephant stables — Hampi = **UNESCO** site.",
+              "**Culture**: **raya gopurams**, temple towns; patronage of Telugu/Kannada/Tamil/Sanskrit; Carnatic music codification."
             ]
           }
         ]
@@ -213,15 +417,29 @@
       "**Bahmani Sultanate (1347)** — founder **Alauddin Hasan (Bahman Shah)**; capital **Gulbarga → Bidar**; PM **Mahmud Gawan**.",
       "Bahmani split into **five Deccan Sultanates** — Bijapur (Adil Shahi), Golconda (Qutb Shahi), Ahmadnagar (Nizam Shahi), Bidar (Barid Shahi), Berar (Imad Shahi).",
       "**Battle of Talikota/Rakshasi-Tangadi (1565)** — Deccan confederacy defeated Vijayanagara.",
-      "Foreign visitors — **Abdur Razzaq (Persia), Nicolo Conti (Italy), Domingo Paes & Nuniz (Portugal)**."
+      "Foreign visitors — **Abdur Razzaq (Persia), Nicolo Conti (Italy), Domingo Paes & Nuniz (Portugal)**.",
+      "Vijayanagara founded **1336** by **Harihara & Bukka**, capital **Hampi**; guru **Vidyaranya**.",
+      "**Krishnadevaraya** (Tuluva) — **Amuktamalyada**; **Ashtadiggajas** (Allasani Peddana); Telugu golden age.",
+      "**Battle of Talikota (1565)** — Deccan Sultanates destroyed Vijayanagara/Hampi.",
+      "Systems: **Nayankara** (feudal governors) & **Ayagar** (village servants); land tax ~1/6.",
+      "Travellers: **Abdur Razzaq, Nicolo Conti, Domingo Paes, Fernao Nuniz**; Hampi = **UNESCO** (Vittala/Virupaksha temples)."
     ],
     "mainsAngles": [
       "Assess Vijayanagara as a bastion of south-Indian Hindu culture; and the causes of its decline at Talikota."
     ],
     "glossary": [
-      {"term": "Ashtadiggajas", "definition": "The 'eight elephants' — eight Telugu poets of Krishnadevaraya's court, led by Allasani Peddana."},
-      {"term": "Talikota", "definition": "The 1565 battle where the Deccan Sultanates' confederacy defeated Vijayanagara."},
-      {"term": "Mahmud Gawan", "definition": "The reforming prime minister of the Bahmani Sultanate at its height."}
+      {
+        "term": "Ashtadiggajas",
+        "definition": "The 'eight elephants' — eight Telugu poets of Krishnadevaraya's court, led by Allasani Peddana."
+      },
+      {
+        "term": "Talikota",
+        "definition": "The 1565 battle where the Deccan Sultanates' confederacy defeated Vijayanagara."
+      },
+      {
+        "term": "Mahmud Gawan",
+        "definition": "The reforming prime minister of the Bahmani Sultanate at its height."
+      }
     ]
   }
 ]
