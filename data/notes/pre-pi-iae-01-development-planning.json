@@ -12,13 +12,47 @@
           },
           {
             "type": "table",
-            "headers": ["Feature", "Detail"],
+            "headers": [
+              "Feature",
+              "Detail"
+            ],
             "rows": [
-              ["**Low per-capita income**", "Below the world average, though rising; a mark of a developing economy."],
-              ["**Occupational structure**", "**Large share in agriculture (~45% workers)** but low farm productivity."],
-              ["**Dualism**", "Coexistence of **modern & traditional; organised & unorganised** sectors."],
-              ["**Demography**", "Large, young population — **demographic dividend** with unemployment/underemployment."],
-              ["**Services-led growth**", "**Tertiary sector ~53% of GDP**; rapid but with poverty & inequality."]
+              [
+                "**Low per-capita income**",
+                "Below the world average, though rising; a mark of a developing economy."
+              ],
+              [
+                "**Occupational structure**",
+                "**Large share in agriculture (~45% workers)** but low farm productivity."
+              ],
+              [
+                "**Dualism**",
+                "Coexistence of **modern & traditional; organised & unorganised** sectors."
+              ],
+              [
+                "**Demography**",
+                "Large, young population — **demographic dividend** with unemployment/underemployment."
+              ],
+              [
+                "**Services-led growth**",
+                "**Tertiary sector ~53% of GDP**; rapid but with poverty & inequality."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: India as a developing economy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Features of underdevelopment/development**: low but rising **per-capita income**, dualism (traditional + modern), large **agriculture-dependent workforce (~45%)** vs its smaller GDP share (~18%), demographic pressure, poverty & inequality, informal sector (~90% of workers), capital deficiency, technological gap.",
+              "**Structural shift**: primary → **services-led** economy (services ~55% of GVA) — India skipped a full manufacturing phase; **jobless growth** concern.",
+              "**Sectoral classification**: **Primary** (agri, mining), **Secondary** (manufacturing, construction), **Tertiary/services** (trade, IT, finance).",
+              "**Economy types**: mixed economy (public + private + since-1991 market); India is now the **~5th largest economy (nominal GDP)** & 3rd by **PPP**.",
+              "**Human development gaps**: literacy, health, nutrition, gender — captured in HDI, MPI (multidimensional poverty)."
             ]
           }
         ]
@@ -44,15 +78,28 @@
       "Features of a developing economy — **low per-capita income, mass poverty, unemployment, economic dualism, income inequality**.",
       "India has a **mixed economy** (public + private sectors).",
       "**Demographic dividend** — a large working-age population is a growth opportunity.",
-      "Large **informal/unorganised sector** employs the majority of workers."
+      "Large **informal/unorganised sector** employs the majority of workers.",
+      "India = **mixed economy**; ~**5th largest** by nominal GDP, **3rd by PPP**.",
+      "Structure: **services ~55% of GVA**, agriculture ~18% GVA but ~45% of employment.",
+      "Sectors: **Primary / Secondary / Tertiary**; ~90% workforce is **informal**.",
+      "Key challenge: **jobless growth** — services-led, skipping mass manufacturing."
     ],
     "mainsAngles": [
       "Discuss the characteristics of India as a developing economy."
     ],
     "glossary": [
-      {"term": "Developing economy", "definition": "An economy with low per-capita income and structural features of underdevelopment, but with growth potential."},
-      {"term": "Economic dualism", "definition": "The coexistence of modern/organised and traditional/unorganised sectors in an economy."},
-      {"term": "Per-capita income", "definition": "National income divided by population — a basic measure of average prosperity."}
+      {
+        "term": "Developing economy",
+        "definition": "An economy with low per-capita income and structural features of underdevelopment, but with growth potential."
+      },
+      {
+        "term": "Economic dualism",
+        "definition": "The coexistence of modern/organised and traditional/unorganised sectors in an economy."
+      },
+      {
+        "term": "Per-capita income",
+        "definition": "National income divided by population — a basic measure of average prosperity."
+      }
     ]
   },
   {
@@ -68,13 +115,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Planning Commission (1950)**", "Set up by resolution; **12 Five-Year Plans (1951-2017)**; based on the **Mahalanobis model** (2nd plan)."],
-              ["**Objectives**", "**Growth, modernisation, self-reliance, social justice/equity, full employment, poverty reduction**."],
-              ["**Key plans**", "**1st (Harrod-Domar, agriculture), 2nd (Mahalanobis, heavy industry), 5th (Garibi Hatao)**."],
-              ["**Strategy shift**", "**1991 LPG reforms**; from state-led to market-led."],
-              ["**End of planning**", "**NITI Aayog replaced the Planning Commission (2015)**; plans ended 2017."]
+              [
+                "**Planning Commission (1950)**",
+                "Set up by resolution; **12 Five-Year Plans (1951-2017)**; based on the **Mahalanobis model** (2nd plan)."
+              ],
+              [
+                "**Objectives**",
+                "**Growth, modernisation, self-reliance, social justice/equity, full employment, poverty reduction**."
+              ],
+              [
+                "**Key plans**",
+                "**1st (Harrod-Domar, agriculture), 2nd (Mahalanobis, heavy industry), 5th (Garibi Hatao)**."
+              ],
+              [
+                "**Strategy shift**",
+                "**1991 LPG reforms**; from state-led to market-led."
+              ],
+              [
+                "**End of planning**",
+                "**NITI Aayog replaced the Planning Commission (2015)**; plans ended 2017."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: planning since independence",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Planning Commission (1950)** → **Five-Year Plans** (modelled on the USSR); the **Mahalanobis model** (2nd Plan, 1956) stressed heavy industry (Nehru-Mahalanobis strategy); **Harrod-Domar** in the 1st Plan (agriculture, after Partition).",
+              "**Landmark plans**: 1st (agri), 2nd (industry — IPR 1956, 'commanding heights'), 5th (Garibi Hatao), 6th (economic liberalisation begins), 8th (post-1991 reforms), 11th ('inclusive growth'), 12th (last, 2012-17, 'faster, sustainable, inclusive').",
+              "**Objectives of planning**: growth, modernisation, self-reliance, social justice/equity — the four pillars.",
+              "**Shift (2015)**: Planning Commission → **NITI Aayog** (think-tank, cooperative federalism, no plan-based fund allocation); Five-Year Plans discontinued → 3-year action agenda / 15-year vision."
             ]
           }
         ]
@@ -100,15 +180,28 @@
       "Long-term planning objectives — **growth, modernisation, self-reliance, equity/social justice**.",
       "**Fifth Plan** — 'Garibi Hatao' (poverty removal).",
       "India had **12 Five-Year Plans (1951-2017)**.",
-      "**NITI Aayog replaced the Planning Commission (1 Jan 2015)**."
+      "**NITI Aayog replaced the Planning Commission (1 Jan 2015)**.",
+      "**Planning Commission (1950)**; **Five-Year Plans** ended after the **12th Plan (2012-17)**.",
+      "**2nd Plan** = **Mahalanobis model** (heavy industry, IPR 1956); **1st Plan** = Harrod-Domar (agri).",
+      "Planning objectives: **growth, modernisation, self-reliance, equity**.",
+      "**NITI Aayog (2015)** replaced the Planning Commission."
     ],
     "mainsAngles": [
       "Evaluate the objectives and achievements of economic planning in India."
     ],
     "glossary": [
-      {"term": "Five-Year Plan", "definition": "A centralised medium-term economic plan; India had twelve (1951-2017)."},
-      {"term": "Mahalanobis model", "definition": "The heavy-industry-led strategy underpinning India's Second Five-Year Plan."},
-      {"term": "Planning Commission", "definition": "The 1950-2014 body that formulated India's Five-Year Plans, replaced by NITI Aayog."}
+      {
+        "term": "Five-Year Plan",
+        "definition": "A centralised medium-term economic plan; India had twelve (1951-2017)."
+      },
+      {
+        "term": "Mahalanobis model",
+        "definition": "The heavy-industry-led strategy underpinning India's Second Five-Year Plan."
+      },
+      {
+        "term": "Planning Commission",
+        "definition": "The 1950-2014 body that formulated India's Five-Year Plans, replaced by NITI Aayog."
+      }
     ]
   },
   {
@@ -124,13 +217,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Established**", "**1 January 2015** (by executive resolution); replaced Planning Commission."],
-              ["**Structure**", "**Chairperson (PM), Vice-Chairperson, CEO, Governing Council (all CMs & LG/Administrators)**."],
-              ["**Role**", "**Think-tank/advisory**; no fund allocation (unlike Planning Commission)."],
-              ["**Approach**", "**Cooperative & competitive federalism; team-India; bottom-up**."],
-              ["**Initiatives**", "**SDG India Index, Aspirational Districts Programme, Atal Innovation Mission, indices (Health, Water, Innovation)**."]
+              [
+                "**Established**",
+                "**1 January 2015** (by executive resolution); replaced Planning Commission."
+              ],
+              [
+                "**Structure**",
+                "**Chairperson (PM), Vice-Chairperson, CEO, Governing Council (all CMs & LG/Administrators)**."
+              ],
+              [
+                "**Role**",
+                "**Think-tank/advisory**; no fund allocation (unlike Planning Commission)."
+              ],
+              [
+                "**Approach**",
+                "**Cooperative & competitive federalism; team-India; bottom-up**."
+              ],
+              [
+                "**Initiatives**",
+                "**SDG India Index, Aspirational Districts Programme, Atal Innovation Mission, indices (Health, Water, Innovation)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: NITI Aayog",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**NITI Aayog** ('National Institution for Transforming India', 1 Jan 2015): a **think-tank & advisory** body — NOT a fund-allocating/statutory body (unlike the Planning Commission).",
+              "**Structure**: Chairperson = **PM**; **Governing Council** = all CMs + UT Lt-Govs (cooperative federalism); a full-time **Vice-Chairperson, CEO & experts**.",
+              "**Functions**: policy design, cooperative & competitive federalism (state rankings/indices — SDG India Index, Health, Water, School Education, Innovation, Aspirational Districts Programme), monitoring & evaluation, knowledge hub; **no plan transfers** (that role → Finance Ministry/Finance Commission).",
+              "**Approach**: bottom-up (vs top-down), 15-year vision + 7-year strategy + 3-year action agenda; flagship — **Aspirational Districts Programme, Atal Innovation Mission**."
             ]
           }
         ]
@@ -156,15 +282,28 @@
       "It is a **think-tank/advisory** body — **does not allocate funds** (unlike the Planning Commission).",
       "Promotes **cooperative & competitive federalism**.",
       "Flagship work — **SDG India Index, Aspirational Districts Programme, Atal Innovation Mission**.",
-      "Publishes indices — **Health, Water (Composite Water Management), Innovation, School Education**."
+      "Publishes indices — **Health, Water (Composite Water Management), Innovation, School Education**.",
+      "**NITI Aayog (2015)** = think-tank; **no fund allocation** (key difference from Planning Commission).",
+      "Chair = **PM**; **Governing Council** = all CMs + UT Lt-Govs (cooperative federalism).",
+      "Runs indices: **SDG India Index, Aspirational Districts, Health/Water/Innovation** rankings.",
+      "Houses the **Atal Innovation Mission**; bottom-up planning."
     ],
     "mainsAngles": [
       "Compare NITI Aayog with the erstwhile Planning Commission."
     ],
     "glossary": [
-      {"term": "NITI Aayog", "definition": "The government's think-tank (2015) that replaced the Planning Commission, promoting cooperative federalism."},
-      {"term": "Competitive federalism", "definition": "States competing on performance indicators, encouraged by NITI Aayog's ranking indices."},
-      {"term": "Aspirational Districts Programme", "definition": "A NITI Aayog initiative to rapidly transform India's most backward districts."}
+      {
+        "term": "NITI Aayog",
+        "definition": "The government's think-tank (2015) that replaced the Planning Commission, promoting cooperative federalism."
+      },
+      {
+        "term": "Competitive federalism",
+        "definition": "States competing on performance indicators, encouraged by NITI Aayog's ranking indices."
+      },
+      {
+        "term": "Aspirational Districts Programme",
+        "definition": "A NITI Aayog initiative to rapidly transform India's most backward districts."
+      }
     ]
   },
   {
@@ -180,13 +319,47 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Growth vs development**", "Growth = quantitative (GDP↑); development = qualitative (welfare, equity, capabilities — Amartya Sen)."],
-              ["**Distributive justice**", "Fair distribution of income/wealth/opportunity; inclusive growth."],
-              ["**HDI (UNDP)**", "Composite of **life expectancy, education (mean+expected schooling), GNI per-capita (PPP)**; 0-1 scale."],
-              ["**India's rank**", "India in the **'medium human development'** category (rank ~130s of 190+)."],
-              ["**Related indices**", "**MPI (multidimensional poverty), GII (gender inequality), IHDI (inequality-adjusted)**."]
+              [
+                "**Growth vs development**",
+                "Growth = quantitative (GDP↑); development = qualitative (welfare, equity, capabilities — Amartya Sen)."
+              ],
+              [
+                "**Distributive justice**",
+                "Fair distribution of income/wealth/opportunity; inclusive growth."
+              ],
+              [
+                "**HDI (UNDP)**",
+                "Composite of **life expectancy, education (mean+expected schooling), GNI per-capita (PPP)**; 0-1 scale."
+              ],
+              [
+                "**India's rank**",
+                "India in the **'medium human development'** category (rank ~130s of 190+)."
+              ],
+              [
+                "**Related indices**",
+                "**MPI (multidimensional poverty), GII (gender inequality), IHDI (inequality-adjusted)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: growth vs equity, HDI",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Growth vs distributive justice**: high GDP growth need not reduce inequality (**Kuznets curve**); India's growth has been unequal — top-decile wealth concentration, rural-urban & regional divides.",
+              "**Measures of inequality**: **Gini coefficient**, Lorenz curve; **poverty** — Tendulkar & Rangarajan lines, **NITI's National MPI** (based on Global MPI — health, education, living standards).",
+              "**Human Development Index (HDI, UNDP)**: composite of **life expectancy + education (mean & expected years of schooling) + GNI per capita (PPP)**; India ranks in the **'medium human development'** band (~130s of ~190 countries).",
+              "**Inclusive-growth tools**: DBT, MGNREGA, PDS, education/health spending, financial inclusion (Jan Dhan), reservation & welfare — 'growth with a human face'.",
+              "**SDGs (2030)**: 17 goals; NITI's SDG India Index tracks states."
             ]
           }
         ]
@@ -212,15 +385,28 @@
       "HDI dimensions — **health (life expectancy), education (schooling), income (GNI per-capita PPP)**.",
       "India is in the **'Medium Human Development'** category.",
       "Related UNDP indices — **IHDI, Gender Inequality Index (GII), Multidimensional Poverty Index (MPI)**.",
-      "**Inclusive growth** = growth with distributive justice (a key policy goal)."
+      "**Inclusive growth** = growth with distributive justice (a key policy goal).",
+      "**HDI (UNDP)** = life expectancy + education + GNI per capita (PPP); India in **'medium HD'** band.",
+      "Inequality measured by **Gini coefficient / Lorenz curve**; **Kuznets curve** (growth-inequality).",
+      "Poverty lines: **Tendulkar & Rangarajan**; **National MPI** (health/education/living standards).",
+      "Inclusive growth via **DBT, MGNREGA, PDS, Jan Dhan**; **SDGs (2030)** tracked by NITI Index."
     ],
     "mainsAngles": [
       "Distinguish economic growth from development and discuss the HDI."
     ],
     "glossary": [
-      {"term": "HDI", "definition": "The UNDP's Human Development Index combining health, education and income."},
-      {"term": "Capability approach", "definition": "Amartya Sen's view of development as expanding people's real freedoms and capabilities."},
-      {"term": "Distributive justice", "definition": "The fair allocation of income, wealth and opportunity across society."}
+      {
+        "term": "HDI",
+        "definition": "The UNDP's Human Development Index combining health, education and income."
+      },
+      {
+        "term": "Capability approach",
+        "definition": "Amartya Sen's view of development as expanding people's real freedoms and capabilities."
+      },
+      {
+        "term": "Distributive justice",
+        "definition": "The fair allocation of income, wealth and opportunity across society."
+      }
     ]
   },
   {
@@ -236,13 +422,47 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Definition**", "**Brundtland Report 'Our Common Future' (1987)** — development meeting present needs without harming the future."],
-              ["**Three pillars**", "**Economic, Social, Environmental** sustainability."],
-              ["**SDGs (2015)**", "**17 Sustainable Development Goals, 169 targets (2015-2030)** — UN Agenda 2030."],
-              ["**Global milestones**", "**Stockholm (1972), Rio Earth Summit (1992), Kyoto (1997), Paris Agreement (2015), CoP summits**."],
-              ["**India's stand**", "**Panchamrit (Glasgow), Net-Zero by 2070, LiFE (Lifestyle for Environment)**."]
+              [
+                "**Definition**",
+                "**Brundtland Report 'Our Common Future' (1987)** — development meeting present needs without harming the future."
+              ],
+              [
+                "**Three pillars**",
+                "**Economic, Social, Environmental** sustainability."
+              ],
+              [
+                "**SDGs (2015)**",
+                "**17 Sustainable Development Goals, 169 targets (2015-2030)** — UN Agenda 2030."
+              ],
+              [
+                "**Global milestones**",
+                "**Stockholm (1972), Rio Earth Summit (1992), Kyoto (1997), Paris Agreement (2015), CoP summits**."
+              ],
+              [
+                "**India's stand**",
+                "**Panchamrit (Glasgow), Net-Zero by 2070, LiFE (Lifestyle for Environment)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: environment & sustainable development",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Sustainable development (Brundtland, 1987)** = meeting present needs without compromising future generations; three pillars — **economic, social, environmental**.",
+              "**Key issues**: air/water pollution, deforestation, biodiversity loss, climate change, e-waste, land degradation; **environmental Kuznets curve**.",
+              "**India's framework**: **Environment (Protection) Act 1986, EIA, CPCB/SPCB, NGT (2010), Wildlife Protection Act 1972, Forest Conservation Act 1980, Biological Diversity Act 2002 (NBA)**; **CAMPA** (compensatory afforestation).",
+              "**Climate action**: **NAPCC (8 missions — Solar, Enhanced Energy Efficiency, etc.)**, SAPCCs, **International Solar Alliance (ISA)**, **LiFE (Lifestyle for Environment)**, **Net-Zero by 2070** (Panchamrit, COP26).",
+              "**Global**: **Stockholm (1972), Rio (1992 — UNFCCC, CBD, UNCCD), Paris (2015), CoP** meetings, **SDGs**; Montreal Protocol (ozone)."
             ]
           }
         ]
@@ -268,15 +488,28 @@
       "Milestones — **Stockholm Conference (1972), Rio Earth Summit (1992), Kyoto Protocol (1997), Paris Agreement (2015)**.",
       "**Paris Agreement** — limit warming to **well below 2°C (aim 1.5°C)**.",
       "India — **Net-Zero by 2070**; **Panchamrit** targets (Glasgow CoP26); **Mission LiFE**.",
-      "**NGT (National Green Tribunal, 2010)** adjudicates environmental disputes."
+      "**NGT (National Green Tribunal, 2010)** adjudicates environmental disputes.",
+      "**Sustainable development** = Brundtland (1987); 3 pillars economic/social/environmental.",
+      "Laws: **EP Act 1986, NGT (2010), Wildlife Act 1972, Biodiversity Act 2002 (NBA)**.",
+      "**NAPCC (8 missions)**; **ISA, LiFE, Net-Zero 2070** (Panchamrit, COP26).",
+      "Summits: **Stockholm 1972 → Rio 1992 → Paris 2015**; **SDGs (17 goals, 2030)**."
     ],
     "mainsAngles": [
       "Discuss sustainable development and India's climate commitments."
     ],
     "glossary": [
-      {"term": "Sustainable development", "definition": "Development meeting present needs without compromising future generations (Brundtland, 1987)."},
-      {"term": "SDGs", "definition": "The 17 UN Sustainable Development Goals (2015-2030) under Agenda 2030."},
-      {"term": "Net-Zero", "definition": "Balancing emitted and removed greenhouse gases; India targets net-zero by 2070."}
+      {
+        "term": "Sustainable development",
+        "definition": "Development meeting present needs without compromising future generations (Brundtland, 1987)."
+      },
+      {
+        "term": "SDGs",
+        "definition": "The 17 UN Sustainable Development Goals (2015-2030) under Agenda 2030."
+      },
+      {
+        "term": "Net-Zero",
+        "definition": "Balancing emitted and removed greenhouse gases; India targets net-zero by 2070."
+      }
     ]
   }
 ]
