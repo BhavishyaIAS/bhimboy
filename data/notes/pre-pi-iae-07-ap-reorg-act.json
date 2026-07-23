@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Issue", "Detail / commitment"],
+            "headers": [
+              "Issue",
+              "Detail / commitment"
+            ],
             "rows": [
-              ["**Revenue deficit**", "Act provides central funding for the **resource-gap/revenue deficit** for the first year (& beyond)."],
-              ["**New capital**", "Central support pledged for building a **new capital (Amaravati)**."],
-              ["**Backward areas**", "**Special development package** for backward districts (Rayalaseema & North Coastal AP)."],
-              ["**Institutions**", "New central institutions (IIT, IIM, NIT, central university, AIIMS, etc.) promised."],
-              ["**Special assistance**", "Debate over **Special Category Status vs Special Assistance/Package**."]
+              [
+                "**Revenue deficit**",
+                "Act provides central funding for the **resource-gap/revenue deficit** for the first year (& beyond)."
+              ],
+              [
+                "**New capital**",
+                "Central support pledged for building a **new capital (Amaravati)**."
+              ],
+              [
+                "**Backward areas**",
+                "**Special development package** for backward districts (Rayalaseema & North Coastal AP)."
+              ],
+              [
+                "**Institutions**",
+                "New central institutions (IIT, IIM, NIT, central university, AIIMS, etc.) promised."
+              ],
+              [
+                "**Special assistance**",
+                "Debate over **Special Category Status vs Special Assistance/Package**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: bifurcation economics & central assistance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Fiscal shock**: loss of Hyderabad's revenue left AP with a **resource gap & revenue deficit**; the AP Reorganisation Act promised central support — a **special development package**, backward-region grants (Rayalaseema & North Coastal Andhra), tax incentives, and institutions.",
+              "**Central assistance actually given**: revenue-deficit grant (partial), a **special package** (later, in lieu of Special Category Status), assistance for the new capital & Polavaram (national project, largely centrally funded), backward-districts funds.",
+              "**Promised institutions**: national institutions for AP (IIT-Tirupati, IIM-Visakhapatnam, IISER, Central University, NIT, IIIT, AIIMS-Mangalagiri, tribal & petroleum universities) — most established.",
+              "**Ongoing disputes**: quantum of assistance, pending division of Schedule IX/X institutions, power dues, and the **Special Category Status** question."
             ]
           }
         ]
@@ -44,15 +77,28 @@
       "New central institutions promised — **IIT (Tirupati), IIM (Visakhapatnam), NIT, central university, AIIMS (Mangalagiri)**.",
       "Central support pledged for the **new capital (Amaravati)**.",
       "The **Polavaram project** was declared a **national project**.",
-      "The **Special Category Status** demand arose from these bifurcation commitments."
+      "The **Special Category Status** demand arose from these bifurcation commitments.",
+      "AP Reorganisation Act promised a **special development package** + backward-region grants (Rayalaseema, N. Coastal Andhra).",
+      "**Polavaram** funded largely by the **Centre** (national project).",
+      "New institutions: **IIT-Tirupati, IIM-Visakhapatnam, AIIMS-Mangalagiri, Central University** etc.",
+      "Disputes: assistance quantum, **Schedule IX/X** division, power dues, **SCS**."
     ],
     "mainsAngles": [
       "Discuss the economic issues arising from AP's bifurcation and the central-assistance framework."
     ],
     "glossary": [
-      {"term": "Revenue-deficit grant", "definition": "Central funding to bridge AP's fiscal gap after losing Hyderabad's revenue."},
-      {"term": "Special development package", "definition": "Central assistance promised for AP's backward Rayalaseema and North Coastal regions."},
-      {"term": "National project", "definition": "A centrally-funded status; the Polavaram irrigation project was so designated for AP."}
+      {
+        "term": "Revenue-deficit grant",
+        "definition": "Central funding to bridge AP's fiscal gap after losing Hyderabad's revenue."
+      },
+      {
+        "term": "Special development package",
+        "definition": "Central assistance promised for AP's backward Rayalaseema and North Coastal regions."
+      },
+      {
+        "term": "National project",
+        "definition": "A centrally-funded status; the Polavaram irrigation project was so designated for AP."
+      }
     ]
   },
   {
@@ -68,13 +114,72 @@
           },
           {
             "type": "table",
-            "headers": ["Project", "Detail"],
+            "headers": [
+              "Project",
+              "Detail"
+            ],
             "rows": [
-              ["**Visakhapatnam Railway Zone**", "A new **South Coast Railway Zone** headquartered at Visakhapatnam (announced 2019)."],
-              ["**Kadapa Steel Plant**", "An **integrated steel plant at Kadapa (YSR district)** — Rayalaseema industrialisation."],
-              ["**Dugarajapatnam Port/Airport**", "A **greenfield port/airport** promised near Nellore (Dugarajapatnam)."],
-              ["**Industrial corridors**", "**Visakhapatnam-Chennai (VCIC)** & Chennai-Bengaluru nodes through AP."],
-              ["**Others**", "Central institutions, Polavaram, backward-region packages."]
+              [
+                "**Visakhapatnam Railway Zone**",
+                "A new **South Coast Railway Zone** headquartered at Visakhapatnam (announced 2019)."
+              ],
+              [
+                "**Kadapa Steel Plant**",
+                "An **integrated steel plant at Kadapa (YSR district)** — Rayalaseema industrialisation."
+              ],
+              [
+                "**Dugarajapatnam Port/Airport**",
+                "A **greenfield port/airport** promised near Nellore (Dugarajapatnam)."
+              ],
+              [
+                "**Industrial corridors**",
+                "**Visakhapatnam-Chennai (VCIC)** & Chennai-Bengaluru nodes through AP."
+              ],
+              [
+                "**Others**",
+                "Central institutions, Polavaram, backward-region packages."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: specific bifurcation projects",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Project (Act promise)",
+              "Status/issue"
+            ],
+            "rows": [
+              [
+                "**Visakhapatnam Railway Zone**",
+                "Long-demanded 'South Coast Railway' zone (HQ Visakhapatnam) — announced; implementation pursued."
+              ],
+              [
+                "**Kadapa Steel Plant**",
+                "Integrated steel plant in Rayalaseema — feasibility/land issues; long-pending."
+              ],
+              [
+                "**Dugarajapatnam Port**",
+                "Proposed new port (Nellore) — feasibility concerns; alternatives pursued (Ramayapatnam)."
+              ],
+              [
+                "**Industrial corridors**",
+                "Vizag-Chennai (VCIC) & Chennai-Bengaluru — under implementation with ADB support."
+              ],
+              [
+                "**Polavaram**",
+                "National multipurpose project — irrigation/power/drinking water; central funding & execution disputes."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "These are **AP Reorganisation Act 'assurances'** whose delayed delivery is a recurring political & prelims theme. (Verify current status — some progress ongoing.)"
             ]
           }
         ]
@@ -100,15 +205,28 @@
       "**Visakhapatnam-Chennai Industrial Corridor (VCIC)** — a major industrial-corridor commitment.",
       "**Polavaram** — declared a national project under the Act.",
       "Several central educational institutions were promised (IIT, IIM, AIIMS, central university).",
-      "Implementation of these promises is a recurring **Centre-state accountability** issue."
+      "Implementation of these promises is a recurring **Centre-state accountability** issue.",
+      "Act assurances: **Vizag Railway Zone, Kadapa Steel Plant, Dugarajapatnam Port, VCIC corridor**.",
+      "**Polavaram** = national multipurpose project (Godavari).",
+      "**Ramayapatnam** pursued as an alternative/additional port to Dugarajapatnam.",
+      "Delayed delivery of these assurances = recurring AP political issue."
     ],
     "mainsAngles": [
       "Assess the implementation of specific bifurcation commitments to Andhra Pradesh."
     ],
     "glossary": [
-      {"term": "South Coast Railway", "definition": "The new railway zone headquartered at Visakhapatnam, promised in the AP bifurcation."},
-      {"term": "Kadapa steel plant", "definition": "An integrated steel plant promised for the Rayalaseema region of AP."},
-      {"term": "VCIC", "definition": "The Visakhapatnam-Chennai Industrial Corridor, a key AP development commitment."}
+      {
+        "term": "South Coast Railway",
+        "definition": "The new railway zone headquartered at Visakhapatnam, promised in the AP bifurcation."
+      },
+      {
+        "term": "Kadapa steel plant",
+        "definition": "An integrated steel plant promised for the Rayalaseema region of AP."
+      },
+      {
+        "term": "VCIC",
+        "definition": "The Visakhapatnam-Chennai Industrial Corridor, a key AP development commitment."
+      }
     ]
   },
   {
@@ -124,13 +242,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Special Category Status (SCS)**", "Historically granted to states with special disadvantages; gives higher central funding (90:10 grants)."],
-              ["**AP's claim**", "Based on **assurances given in Parliament during bifurcation (2014)**."],
-              ["**14th FC context**", "The **14th Finance Commission** effectively did away with the SCS category (except NE/hill states)."],
-              ["**Centre's offer**", "A **Special Assistance Package** (externally-aided-project funding, tax incentives) in lieu of SCS."],
-              ["**Controversy**", "A major AP political issue; SCS vs Special Package debate continues."]
+              [
+                "**Special Category Status (SCS)**",
+                "Historically granted to states with special disadvantages; gives higher central funding (90:10 grants)."
+              ],
+              [
+                "**AP's claim**",
+                "Based on **assurances given in Parliament during bifurcation (2014)**."
+              ],
+              [
+                "**14th FC context**",
+                "The **14th Finance Commission** effectively did away with the SCS category (except NE/hill states)."
+              ],
+              [
+                "**Centre's offer**",
+                "A **Special Assistance Package** (externally-aided-project funding, tax incentives) in lieu of SCS."
+              ],
+              [
+                "**Controversy**",
+                "A major AP political issue; SCS vs Special Package debate continues."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Special Category Status controversy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Special Category Status (SCS)**: a classification (originated with the **5th Finance Commission/Gadgil formula, 1969**) for states with hilly terrain, low density, strategic borders, tribal population, economic backwardness — giving higher central grants (90:10 funding), tax concessions. Original SCS states = NE + hilly (11).",
+              "**AP's demand**: the then-PM's assurance on the floor of the Rajya Sabha (Feb 2014) during bifurcation raised expectations of SCS for AP.",
+              "**Centre's stand**: the **14th Finance Commission** effectively **discontinued the SCS category** (folding it into higher tax devolution, 42%); the Centre offered a **Special Package/assistance in lieu of SCS** — a long-running political dispute in AP.",
+              "**Significance**: SCS is a live prelims/interview issue on **fiscal federalism, promises vs delivery, and centre-state relations**."
             ]
           }
         ]
@@ -156,15 +307,28 @@
       "The **14th Finance Commission** effectively **discontinued the SCS category** (except existing NE/hill states).",
       "The Centre offered a **Special Assistance Package** (EAP funding, tax breaks) instead of SCS.",
       "The **SCS vs Special Package** issue is a major AP political-economic controversy.",
-      "Only certain **NE & hill states** currently retain special-category benefits."
+      "Only certain **NE & hill states** currently retain special-category benefits.",
+      "**SCS** originated from the **Gadgil formula (1969, 5th FC)**; 90:10 central funding + concessions.",
+      "**14th Finance Commission** effectively ended the SCS category (higher **42%** devolution instead).",
+      "Centre offered AP a **Special Package 'in lieu of' SCS** — politically contested.",
+      "SCS debate = a fiscal-federalism & 'promise vs delivery' issue."
     ],
     "mainsAngles": [
       "Examine the Special Category Status controversy in the context of Andhra Pradesh's bifurcation."
     ],
     "glossary": [
-      {"term": "Special Category Status", "definition": "A former classification giving disadvantaged states higher central grants; sought by AP after bifurcation."},
-      {"term": "Special Assistance Package", "definition": "The Centre's alternative offer to AP in place of Special Category Status."},
-      {"term": "14th Finance Commission", "definition": "The commission that effectively ended the general Special Category Status category."}
+      {
+        "term": "Special Category Status",
+        "definition": "A former classification giving disadvantaged states higher central grants; sought by AP after bifurcation."
+      },
+      {
+        "term": "Special Assistance Package",
+        "definition": "The Centre's alternative offer to AP in place of Special Category Status."
+      },
+      {
+        "term": "14th Finance Commission",
+        "definition": "The commission that effectively ended the general Special Category Status category."
+      }
     ]
   }
 ]

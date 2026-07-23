@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Feature", "Detail"],
+            "headers": [
+              "Feature",
+              "Detail"
+            ],
             "rows": [
-              ["**Bifurcation (2 June 2014)**", "**AP Reorganisation Act 2014**; Telangana carved out; **Hyderabad** joint capital for up to 10 years."],
-              ["**Economic base**", "**Agriculture-dominant** (rice bowl, aquaculture), long coastline; lost Hyderabad's IT/services revenue."],
-              ["**Strengths**", "**Agriculture, horticulture, aquaculture (No.1 fish/shrimp), ports, minerals, pharma**."],
-              ["**Challenges**", "**Revenue deficit, no major capital city, need to build a new capital (Amaravati), resource-sharing disputes**."],
-              ["**Growth**", "Among the faster-growing state economies, led by primary sector & services."]
+              [
+                "**Bifurcation (2 June 2014)**",
+                "**AP Reorganisation Act 2014**; Telangana carved out; **Hyderabad** joint capital for up to 10 years."
+              ],
+              [
+                "**Economic base**",
+                "**Agriculture-dominant** (rice bowl, aquaculture), long coastline; lost Hyderabad's IT/services revenue."
+              ],
+              [
+                "**Strengths**",
+                "**Agriculture, horticulture, aquaculture (No.1 fish/shrimp), ports, minerals, pharma**."
+              ],
+              [
+                "**Challenges**",
+                "**Revenue deficit, no major capital city, need to build a new capital (Amaravati), resource-sharing disputes**."
+              ],
+              [
+                "**Growth**",
+                "Among the faster-growing state economies, led by primary sector & services."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: AP economy after bifurcation (2014)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Bifurcation (2 June 2014, AP Reorganisation Act 2014)**: Telangana carved out with **Hyderabad** (the revenue & IT engine, ~lion's share of the united state's revenue) as its capital; Hyderabad a **joint capital for up to 10 years**.",
+              "**Structural features of residuary AP**: predominantly **agrarian** (rice bowl — Krishna-Godavari deltas), long **~974 km coastline** (ports/fisheries strength — leads India in aquaculture), but **no large metro/IT hub** initially and a **revenue deficit** at birth.",
+              "**Sectoral profile**: agriculture & allied (large workforce, aquaculture, horticulture — chillies, tobacco, mango), industry (pharma-Visakhapatnam, cement, steel-RINL, ports), growing services; **13 districts → reorganised to 26 districts (2022)**.",
+              "**Economic strategy**: port-led & corridor-led growth (**Visakhapatnam-Chennai Industrial Corridor**), new greenfield capital **Amaravati**, welfare-heavy state budgets."
             ]
           }
         ]
@@ -44,15 +77,28 @@
       "AP's economy is **agriculture-dominant** — rice bowl, **No.1 in fish & shrimp** (aquaculture).",
       "Strengths — **agriculture, horticulture, aquaculture, ports, minerals, pharma**.",
       "Challenges — **revenue deficit, building a new capital, resource/river-water sharing**.",
-      "AP has been among the **faster-growing** Indian state economies post-bifurcation."
+      "AP has been among the **faster-growing** Indian state economies post-bifurcation.",
+      "AP bifurcated **2 June 2014** (AP Reorganisation Act 2014); **Hyderabad** = Telangana capital (joint for ≤10 yrs).",
+      "Residuary AP = agrarian 'rice bowl' + **~974 km coast**; leads India in **aquaculture**; started with a **revenue deficit**.",
+      "AP reorganised from **13 → 26 districts (2022)**.",
+      "Growth strategy: **Vizag-Chennai corridor**, ports, and the new capital **Amaravati**."
     ],
     "mainsAngles": [
       "Analyse the economic features and challenges of Andhra Pradesh after bifurcation."
     ],
     "glossary": [
-      {"term": "AP Reorganisation Act 2014", "definition": "The law that bifurcated Andhra Pradesh, creating Telangana on 2 June 2014."},
-      {"term": "Residuary Andhra Pradesh", "definition": "The successor state after Telangana's separation, without Hyderabad as permanent capital."},
-      {"term": "Joint capital", "definition": "Hyderabad's status as shared capital of AP and Telangana for up to ten years."}
+      {
+        "term": "AP Reorganisation Act 2014",
+        "definition": "The law that bifurcated Andhra Pradesh, creating Telangana on 2 June 2014."
+      },
+      {
+        "term": "Residuary Andhra Pradesh",
+        "definition": "The successor state after Telangana's separation, without Hyderabad as permanent capital."
+      },
+      {
+        "term": "Joint capital",
+        "definition": "Hyderabad's status as shared capital of AP and Telangana for up to ten years."
+      }
     ]
   },
   {
@@ -68,13 +114,46 @@
           },
           {
             "type": "table",
-            "headers": ["Issue", "Detail"],
+            "headers": [
+              "Issue",
+              "Detail"
+            ],
             "rows": [
-              ["**Revenue impact**", "Loss of Hyderabad's tax base → **revenue deficit**; central compensation promised."],
-              ["**Asset division**", "**Schedule IX & X institutions** (public-sector units, corporations) divided; disputes persist."],
-              ["**River water**", "**Krishna & Godavari** waters shared via **KRMB & GRMB (River Management Boards)**; recurring disputes."],
-              ["**Krishna allocation**", "Contentious between AP & Telangana (project-wise sharing)."],
-              ["**Central role**", "Centre to fund the **revenue-deficit gap** and special assistance."]
+              [
+                "**Revenue impact**",
+                "Loss of Hyderabad's tax base → **revenue deficit**; central compensation promised."
+              ],
+              [
+                "**Asset division**",
+                "**Schedule IX & X institutions** (public-sector units, corporations) divided; disputes persist."
+              ],
+              [
+                "**River water**",
+                "**Krishna & Godavari** waters shared via **KRMB & GRMB (River Management Boards)**; recurring disputes."
+              ],
+              [
+                "**Krishna allocation**",
+                "Contentious between AP & Telangana (project-wise sharing)."
+              ],
+              [
+                "**Central role**",
+                "Centre to fund the **revenue-deficit gap** and special assistance."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: bifurcation — resources, revenue & rivers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Asset/liability division**: the Act's Schedules **IX & X** listed institutions/companies for apportionment (population ratio ~**58:42** Andhra:Telangana for many); disputes over Hyderabad-headquartered institutions dragged on.",
+              "**Revenue loss**: Hyderabad generated a very large share of the united state's revenue — its loss left residuary AP fiscally strained, needing central assistance & Special Category Status (promised in Parliament, not granted).",
+              "**River-water sharing**: the shared **Krishna & Godavari** basins → the Act created the **Krishna River Management Board (KRMB) & Godavari River Management Board (GRMB)**, with **Schedule XI principles**, an **Apex Council** (Union Jal Shakti Minister + two CMs) to resolve disputes; contested projects (Polavaram — a **national project** for AP).",
+              "**Employees**: allocation of state employees between the two states (Kamalanathan Committee)."
             ]
           }
         ]
@@ -100,15 +179,28 @@
       "**Krishna water allocation** is a recurring dispute between AP & Telangana.",
       "The Centre committed to fund AP's **resource/revenue gap** for the first year and beyond.",
       "Disputes over asset division persist years after bifurcation.",
-      "**Polavaram** (Godavari) was declared a **national project** for AP."
+      "**Polavaram** (Godavari) was declared a **national project** for AP.",
+      "Assets/liabilities in **Schedules IX & X**; many split ~**58:42** (Andhra:Telangana).",
+      "River boards: **KRMB (Krishna) & GRMB (Godavari)** + **Apex Council** (Schedule XI).",
+      "**Polavaram** = declared a **national project** for AP.",
+      "**Special Category Status** promised in Parliament but not granted — key AP grievance."
     ],
     "mainsAngles": [
       "Examine the impact of bifurcation on AP's resources, revenue and river-water sharing."
     ],
     "glossary": [
-      {"term": "KRMB / GRMB", "definition": "The Krishna and Godavari River Management Boards overseeing water-sharing between AP and Telangana."},
-      {"term": "Schedule IX/X institutions", "definition": "The public enterprises and institutions listed for division between AP and Telangana."},
-      {"term": "Revenue deficit gap", "definition": "The shortfall AP faced after losing Hyderabad's revenues, to be met with central assistance."}
+      {
+        "term": "KRMB / GRMB",
+        "definition": "The Krishna and Godavari River Management Boards overseeing water-sharing between AP and Telangana."
+      },
+      {
+        "term": "Schedule IX/X institutions",
+        "definition": "The public enterprises and institutions listed for division between AP and Telangana."
+      },
+      {
+        "term": "Revenue deficit gap",
+        "definition": "The shortfall AP faced after losing Hyderabad's revenues, to be met with central assistance."
+      }
     ]
   },
   {
@@ -124,13 +216,46 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "Initiatives"],
+            "headers": [
+              "Sector",
+              "Initiatives"
+            ],
             "rows": [
-              ["**Capital & infra**", "**Amaravati** greenfield capital; industrial corridors (VCIC)."],
-              ["**Power**", "Focus on **thermal + renewables (solar, wind)**; 24x7 power aim."],
-              ["**Transport**", "**Ports (Vizag, Gangavaram, Krishnapatnam, Machilipatnam), airports, road-rail**; ~975 km coast."],
-              ["**IT & digital**", "**AP Fibre Grid** (broadband to homes); IT hubs at Visakhapatnam."],
-              ["**e-governance**", "**Real-Time Governance (RTGS Centre), citizen e-services, core dashboards**."]
+              [
+                "**Capital & infra**",
+                "**Amaravati** greenfield capital; industrial corridors (VCIC)."
+              ],
+              [
+                "**Power**",
+                "Focus on **thermal + renewables (solar, wind)**; 24x7 power aim."
+              ],
+              [
+                "**Transport**",
+                "**Ports (Vizag, Gangavaram, Krishnapatnam, Machilipatnam), airports, road-rail**; ~975 km coast."
+              ],
+              [
+                "**IT & digital**",
+                "**AP Fibre Grid** (broadband to homes); IT hubs at Visakhapatnam."
+              ],
+              [
+                "**e-governance**",
+                "**Real-Time Governance (RTGS Centre), citizen e-services, core dashboards**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: new initiatives — infra, power, IT",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Infrastructure**: greenfield capital **Amaravati** (Krishna riverfront, land-pooling model); **ports** (Visakhapatnam, Krishnapatnam, Gangavaram, Kakinada; new Machilipatnam/Ramayapatnam/Bhavanapadu); **Bharatmala & Sagarmala** projects; **National Waterway-4**.",
+              "**Power**: large **renewable capacity** (solar-Kurnool/Anantapur, wind-Rayalaseema); thermal (VTPS); AP among leaders in RE parks; grid/transmission upgrades.",
+              "**IT & e-governance**: push for IT clusters (Visakhapatnam as an emerging hub), Fintech Valley Vizag; **Real-Time Governance (RTGS) Society**, digital service delivery, Aadhaar-linked DBT welfare.",
+              "**Transport**: Vizag-Chennai & Chennai-Bengaluru industrial corridors; airports (Vizag, Vijayawada-Gannavaram, Tirupati, Kadapa); metro-rail proposals (Vizag/Vijayawada)."
             ]
           }
         ]
@@ -156,15 +281,28 @@
       "Port-led development — **Visakhapatnam, Gangavaram, Krishnapatnam, Machilipatnam, Ramayapatnam**.",
       "**Real-Time Governance (RTG) Centre** — AP's flagship e-governance & monitoring hub.",
       "AP has pioneered several **digital/e-services** initiatives.",
-      "Renewables — solar & wind expansion for power security."
+      "Renewables — solar & wind expansion for power security.",
+      "New capital **Amaravati** (land-pooling model, Krishna riverfront).",
+      "Ports: **Visakhapatnam, Krishnapatnam, Gangavaram, Kakinada** + upcoming Machilipatnam/Ramayapatnam.",
+      "**Kurnool Ultra Mega Solar Park** (Anantapur/Kurnool) — large RE capacity.",
+      "e-gov: **Real-Time Governance Society**; **Fintech Valley Vizag**."
     ],
     "mainsAngles": [
       "Assess AP's post-bifurcation initiatives in infrastructure and e-governance."
     ],
     "glossary": [
-      {"term": "Amaravati", "definition": "The greenfield capital city planned for Andhra Pradesh after bifurcation."},
-      {"term": "AP Fibre Grid", "definition": "Andhra Pradesh's initiative to provide broadband connectivity statewide."},
-      {"term": "Real-Time Governance", "definition": "AP's centre for real-time monitoring and delivery of government services."}
+      {
+        "term": "Amaravati",
+        "definition": "The greenfield capital city planned for Andhra Pradesh after bifurcation."
+      },
+      {
+        "term": "AP Fibre Grid",
+        "definition": "Andhra Pradesh's initiative to provide broadband connectivity statewide."
+      },
+      {
+        "term": "Real-Time Governance",
+        "definition": "AP's centre for real-time monitoring and delivery of government services."
+      }
     ]
   },
   {
@@ -180,13 +318,46 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "AP approach"],
+            "headers": [
+              "Sector",
+              "AP approach"
+            ],
             "rows": [
-              ["**Agriculture**", "**Zero-Budget Natural Farming (APCNF — a global model), aquaculture (No.1 fish/shrimp), horticulture, Rythu Bharosa Kendras**."],
-              ["**Industry**", "**Pharma & bulk drugs, port-led & food processing, VCIC nodes, ease of doing business**."],
-              ["**Social sector**", "**Amma Vodi (education), Rythu Bharosa (farmers), YSR/NTR health & welfare, fee reimbursement**."],
-              ["**Delivery**", "**Village/Ward Secretariats & Volunteers** — last-mile welfare delivery (DBT)."],
-              ["**Skilling**", "Skill development corporations & universities."]
+              [
+                "**Agriculture**",
+                "**Zero-Budget Natural Farming (APCNF — a global model), aquaculture (No.1 fish/shrimp), horticulture, Rythu Bharosa Kendras**."
+              ],
+              [
+                "**Industry**",
+                "**Pharma & bulk drugs, port-led & food processing, VCIC nodes, ease of doing business**."
+              ],
+              [
+                "**Social sector**",
+                "**Amma Vodi (education), Rythu Bharosa (farmers), YSR/NTR health & welfare, fee reimbursement**."
+              ],
+              [
+                "**Delivery**",
+                "**Village/Ward Secretariats & Volunteers** — last-mile welfare delivery (DBT)."
+              ],
+              [
+                "**Skilling**",
+                "Skill development corporations & universities."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: AP approaches — agri, industry, social",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Agriculture**: 'rice bowl' (Krishna-Godavari), aquaculture leadership (shrimp/fish exports), horticulture (**Guntur chillies — largest market**, mango, tobacco); flagship **APCNF (Community-Managed Natural Farming)** — a globally noted sustainable-agriculture model.",
+              "**Industry**: pharma (Visakhapatnam), cement (limestone-rich), steel (**RINL/Visakhapatnam Steel Plant**), ports & petrochemicals, textiles; **Industrial Development Policy** with incentives; corridors.",
+              "**Social sector**: heavy welfare spending — education, health (**Aarogyasri**), women & child, housing, pensions; direct-benefit schemes (names vary by government — e.g., Rythu Bharosa, Amma Vodi historically).",
+              "**Skilling & employment**: AP State Skill Development Corporation; port/pharma/IT-linked jobs."
             ]
           }
         ]
@@ -212,15 +383,28 @@
       "Welfare schemes — **Amma Vodi (education), Rythu Bharosa (farmers), YSR/NTR health schemes, fee reimbursement**.",
       "**Village & Ward Secretariats + Volunteers** — AP's last-mile service-delivery model.",
       "Extensive use of **Direct Benefit Transfer (DBT)**.",
-      "**Rythu Bharosa Kendras** — farmer service centres."
+      "**Rythu Bharosa Kendras** — farmer service centres.",
+      "**APCNF/ZBNF natural farming** = AP's flagship sustainable-agriculture model.",
+      "**Guntur** = India's largest chilli market; AP leads in **aquaculture** exports.",
+      "Industry: **RINL/Visakhapatnam Steel Plant**, pharma (Vizag), cement, ports.",
+      "Welfare-heavy budgets: health via **Aarogyasri**; verify current scheme names."
     ],
     "mainsAngles": [
       "Discuss AP's approaches in agriculture, industry and the social sector."
     ],
     "glossary": [
-      {"term": "APCNF/ZBNF", "definition": "Andhra's Community-managed / Zero-Budget Natural Farming, a chemical-free agriculture model."},
-      {"term": "Village/Ward Secretariat", "definition": "AP's decentralised last-mile administrative units delivering welfare services."},
-      {"term": "Rythu Bharosa", "definition": "An AP income-support scheme for farmers."}
+      {
+        "term": "APCNF/ZBNF",
+        "definition": "Andhra's Community-managed / Zero-Budget Natural Farming, a chemical-free agriculture model."
+      },
+      {
+        "term": "Village/Ward Secretariat",
+        "definition": "AP's decentralised last-mile administrative units delivering welfare services."
+      },
+      {
+        "term": "Rythu Bharosa",
+        "definition": "An AP income-support scheme for farmers."
+      }
     ]
   },
   {
@@ -236,13 +420,47 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Detail"],
+            "headers": [
+              "Area",
+              "Detail"
+            ],
             "rows": [
-              ["**Urbanisation**", "Growth around **Visakhapatnam, Vijayawada-Guntur (capital region), Tirupati, Nellore, Kurnool**."],
-              ["**Smart Cities**", "AP cities under the national **Smart Cities Mission** (Visakhapatnam, Kakinada, Tirupati, Amaravati)."],
-              ["**Skill development**", "**AP State Skill Development Corporation**, skill universities, industry tie-ups."],
-              ["**Welfare delivery**", "**DBT via Village/Ward Secretariats & Volunteers**; education, health & pension schemes."],
-              ["**Digital**", "AP Fibre Grid, e-governance, digital welfare payments."]
+              [
+                "**Urbanisation**",
+                "Growth around **Visakhapatnam, Vijayawada-Guntur (capital region), Tirupati, Nellore, Kurnool**."
+              ],
+              [
+                "**Smart Cities**",
+                "AP cities under the national **Smart Cities Mission** (Visakhapatnam, Kakinada, Tirupati, Amaravati)."
+              ],
+              [
+                "**Skill development**",
+                "**AP State Skill Development Corporation**, skill universities, industry tie-ups."
+              ],
+              [
+                "**Welfare delivery**",
+                "**DBT via Village/Ward Secretariats & Volunteers**; education, health & pension schemes."
+              ],
+              [
+                "**Digital**",
+                "AP Fibre Grid, e-governance, digital welfare payments."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: urbanisation, smart cities, welfare",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Urbanisation**: AP ~30% urban; largest city **Visakhapatnam** (proposed executive capital), **Vijayawada** (commercial), Guntur, Nellore, Tirupati, Kurnool, Rajahmundry, Kakinada.",
+              "**Smart Cities/urban missions**: Visakhapatnam, Kakinada, Tirupati, Amaravati under **Smart Cities Mission**; **AMRUT, PMAY-U, Swachh Bharat**; capital-region development (CRDA/APCRDA).",
+              "**Skill development**: AP Skill Development Corporation, industry-linked training, ITIs/polytechnics; demographic-dividend focus.",
+              "**Welfare**: pensions, housing, education incentives, health insurance (Aarogyasri), women's SHGs; a strong direct-benefit welfare orientation.",
+              "**Capital debate**: three-capital proposal (Visakhapatnam-executive, Amaravati-legislative, Kurnool-judicial) vs single capital — politically contested; verify current status."
             ]
           }
         ]
@@ -268,15 +486,28 @@
       "Welfare delivered through **Village/Ward Secretariats & Volunteers (DBT)**.",
       "Focus on **balanced urbanisation** (avoiding a single mega-city after losing Hyderabad).",
       "**AP Fibre Grid** supports digital welfare & e-governance.",
-      "Large welfare spend on **education, health, pensions & farmer support**."
+      "Large welfare spend on **education, health, pensions & farmer support**.",
+      "AP Smart Cities: **Visakhapatnam, Kakinada, Tirupati, Amaravati**.",
+      "Capital-region body = **APCRDA**; three-capital proposal (Vizag/Amaravati/Kurnool) — contested.",
+      "Skilling via **AP State Skill Development Corporation** (demographic dividend).",
+      "Welfare: pensions, housing, **Aarogyasri**, SHGs (verify current details)."
     ],
     "mainsAngles": [
       "Examine AP's approach to urbanisation, skilling and welfare delivery."
     ],
     "glossary": [
-      {"term": "Smart Cities Mission", "definition": "The national programme under which AP cities like Visakhapatnam and Tirupati are being developed."},
-      {"term": "APSSDC", "definition": "The Andhra Pradesh State Skill Development Corporation."},
-      {"term": "Balanced urbanisation", "definition": "AP's strategy of distributing urban growth across several centres rather than one mega-city."}
+      {
+        "term": "Smart Cities Mission",
+        "definition": "The national programme under which AP cities like Visakhapatnam and Tirupati are being developed."
+      },
+      {
+        "term": "APSSDC",
+        "definition": "The Andhra Pradesh State Skill Development Corporation."
+      },
+      {
+        "term": "Balanced urbanisation",
+        "definition": "AP's strategy of distributing urban growth across several centres rather than one mega-city."
+      }
     ]
   }
 ]
