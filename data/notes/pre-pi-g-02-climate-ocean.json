@@ -12,13 +12,80 @@
           },
           {
             "type": "table",
-            "headers": ["Layer", "Feature"],
+            "headers": [
+              "Layer",
+              "Feature"
+            ],
             "rows": [
-              ["**Troposphere**", "0–~12 km; **all weather occurs here**; temp falls with height (**normal lapse rate ~6.5°C/km**)."],
-              ["**Stratosphere**", "~12–50 km; contains the **ozone layer** (absorbs UV); ideal for **jet flights**; temp rises."],
-              ["**Mesosphere**", "~50–80 km; **coldest layer**; **meteors burn** here."],
-              ["**Thermosphere (Ionosphere)**", "reflects **radio waves**; **auroras**; temp very high."],
-              ["**Composition**", "**Nitrogen ~78%, Oxygen ~21%**, Argon ~0.9%, CO₂ ~0.04%; water vapour & dust variable."]
+              [
+                "**Troposphere**",
+                "0–~12 km; **all weather occurs here**; temp falls with height (**normal lapse rate ~6.5°C/km**)."
+              ],
+              [
+                "**Stratosphere**",
+                "~12–50 km; contains the **ozone layer** (absorbs UV); ideal for **jet flights**; temp rises."
+              ],
+              [
+                "**Mesosphere**",
+                "~50–80 km; **coldest layer**; **meteors burn** here."
+              ],
+              [
+                "**Thermosphere (Ionosphere)**",
+                "reflects **radio waves**; **auroras**; temp very high."
+              ],
+              [
+                "**Composition**",
+                "**Nitrogen ~78%, Oxygen ~21%**, Argon ~0.9%, CO₂ ~0.04%; water vapour & dust variable."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: atmosphere structure & composition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Layer",
+              "Height",
+              "Feature"
+            ],
+            "rows": [
+              [
+                "**Troposphere**",
+                "0–~12 km",
+                "**All weather**; temp falls with height (**normal lapse rate 6.5°C/km**); densest."
+              ],
+              [
+                "**Stratosphere**",
+                "12–50 km",
+                "**Ozone layer (~15-35 km)** absorbs UV → temp rises; calm → **jet aircraft** fly here."
+              ],
+              [
+                "**Mesosphere**",
+                "50–80 km",
+                "Coldest (~ -90°C); **meteors burn** here."
+              ],
+              [
+                "**Thermosphere (Ionosphere)**",
+                "80–~700 km",
+                "Ionised; **reflects radio waves**; **auroras**; temp very high."
+              ],
+              [
+                "**Exosphere**",
+                "700 km+",
+                "Merges into space; satellites."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Composition (by volume)**: **Nitrogen 78%, Oxygen 21%, Argon 0.9%, CO2 0.04%** (rising), plus water vapour, ozone & aerosols (dust).",
+              "**Greenhouse gases**: CO2, CH4 (methane), N2O, water vapour, CFCs, O3 — trap outgoing infrared → warming; **ozone (O3) in stratosphere protects; at surface it is a pollutant**.",
+              "The **tropopause** separates troposphere & stratosphere; the **ozone hole** (Antarctica) is tackled by the **Montreal Protocol (1987)**."
             ]
           }
         ]
@@ -44,15 +111,28 @@
       "**Mesosphere** — coldest; **meteors burn up** here.",
       "**Ionosphere (thermosphere)** reflects **radio waves**; **auroras** occur here.",
       "Composition — **Nitrogen 78%, Oxygen 21%, Argon 0.9%, CO₂ 0.04%**.",
-      "**Tropopause, Stratopause** etc. separate the layers."
+      "**Tropopause, Stratopause** etc. separate the layers.",
+      "Layers: **Troposphere (weather) → Stratosphere (ozone/jets) → Mesosphere (meteors) → Thermosphere/Ionosphere (radio, auroras) → Exosphere**.",
+      "Composition: **N2 78%, O2 21%, Ar 0.9%, CO2 0.04%**; normal **lapse rate 6.5°C/km**.",
+      "**Ozone** in stratosphere shields UV; **Montreal Protocol (1987)** protects it (CFCs).",
+      "**Ionosphere** reflects radio waves & hosts auroras."
     ],
     "mainsAngles": [
       "Describe the structure and composition of the atmosphere."
     ],
     "glossary": [
-      {"term": "Troposphere", "definition": "The lowest atmospheric layer where all weather phenomena occur."},
-      {"term": "Ozone layer", "definition": "The stratospheric band of ozone that absorbs harmful ultraviolet radiation."},
-      {"term": "Lapse rate", "definition": "The rate of temperature decrease with height, normally ~6.5°C per km in the troposphere."}
+      {
+        "term": "Troposphere",
+        "definition": "The lowest atmospheric layer where all weather phenomena occur."
+      },
+      {
+        "term": "Ozone layer",
+        "definition": "The stratospheric band of ozone that absorbs harmful ultraviolet radiation."
+      },
+      {
+        "term": "Lapse rate",
+        "definition": "The rate of temperature decrease with height, normally ~6.5°C per km in the troposphere."
+      }
     ]
   },
   {
@@ -68,13 +148,48 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Elements**", "**Temperature, pressure, wind, humidity, clouds, precipitation**."],
-              ["**Factors (controls)**", "**Latitude, altitude, continentality, ocean currents, prevailing winds, relief, slope/aspect**."],
-              ["**Pressure belts**", "**Equatorial low, Sub-tropical high, Sub-polar low, Polar high** (4 belts pattern)."],
-              ["**Planetary winds**", "**Trade winds, Westerlies, Polar easterlies**; deflected by Coriolis."],
-              ["**Air masses & fronts**", "**cP, cT, mP, mT**; fronts — **warm, cold, occluded, stationary** (weather boundaries)."]
+              [
+                "**Elements**",
+                "**Temperature, pressure, wind, humidity, clouds, precipitation**."
+              ],
+              [
+                "**Factors (controls)**",
+                "**Latitude, altitude, continentality, ocean currents, prevailing winds, relief, slope/aspect**."
+              ],
+              [
+                "**Pressure belts**",
+                "**Equatorial low, Sub-tropical high, Sub-polar low, Polar high** (4 belts pattern)."
+              ],
+              [
+                "**Planetary winds**",
+                "**Trade winds, Westerlies, Polar easterlies**; deflected by Coriolis."
+              ],
+              [
+                "**Air masses & fronts**",
+                "**cP, cT, mP, mT**; fronts — **warm, cold, occluded, stationary** (weather boundaries)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: climate elements, winds, air masses",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Factors of climate**: **latitude** (insolation), **altitude** (temp falls), **distance from sea (continentality)**, **ocean currents**, **winds/pressure**, **relief** (windward/leeward, rain-shadow), **ocean currents** & vegetation.",
+              "**Pressure belts (7)**: Equatorial Low (doldrums), Sub-tropical Highs (horse latitudes, ~30°), Sub-polar Lows (~60°), Polar Highs.",
+              "**Planetary/permanent winds**: **Trade winds** (Highs→Equator, NE & SE), **Westerlies** (Highs→Sub-polar Lows; 'roaring forties'), **Polar Easterlies**; deflected by **Coriolis** (right in N-hemisphere, Ferrel's Law).",
+              "**Periodic winds**: **monsoons** (seasonal reversal), land & sea breezes; **local winds** — Loo (India, hot), Chinook (N.America, snow-eater), Foehn (Alps), Mistral (cold, France), Sirocco (hot, Sahara→Europe).",
+              "**Air masses** (large uniform air bodies — cP, mT, etc.) meet at **fronts**: **warm, cold, stationary, occluded** — the basis of temperate cyclones/depressions.",
+              "**Rainfall types**: **Convectional** (equatorial, afternoon), **Orographic/relief** (windward slopes — heaviest; rain-shadow leeward), **Cyclonic/frontal**."
             ]
           }
         ]
@@ -100,15 +215,28 @@
       "**Planetary winds** — Trade winds (E), Westerlies, Polar easterlies.",
       "**Air masses** — continental Polar (cP), maritime Tropical (mT), etc.",
       "**Fronts** — warm, cold, occluded, stationary (boundary between two air masses).",
-      "**Temperature inversion** — temp rises with height (calm, clear nights, valleys)."
+      "**Temperature inversion** — temp rises with height (calm, clear nights, valleys).",
+      "Winds: **Trades (E→equator), Westerlies (roaring forties), Polar Easterlies**; **Coriolis** deflects (Ferrel's Law).",
+      "Local winds: **Loo** (India hot), **Chinook** (snow-eater, N.America), **Foehn** (Alps), **Mistral** (cold), **Sirocco** (hot).",
+      "Fronts: warm/cold/stationary/**occluded** → temperate cyclones.",
+      "Rainfall: **convectional, orographic (rain-shadow), cyclonic**; pressure belts (equatorial low, sub-tropical high…)."
     ],
     "mainsAngles": [
       "Distinguish the elements and controlling factors of climate."
     ],
     "glossary": [
-      {"term": "Air mass", "definition": "A large body of air with uniform temperature and humidity acquired from its source region."},
-      {"term": "Front", "definition": "The boundary between two contrasting air masses, along which weather forms."},
-      {"term": "Pressure belt", "definition": "A global zone of high or low pressure (e.g. equatorial low) that steers planetary winds."}
+      {
+        "term": "Air mass",
+        "definition": "A large body of air with uniform temperature and humidity acquired from its source region."
+      },
+      {
+        "term": "Front",
+        "definition": "The boundary between two contrasting air masses, along which weather forms."
+      },
+      {
+        "term": "Pressure belt",
+        "definition": "A global zone of high or low pressure (e.g. equatorial low) that steers planetary winds."
+      }
     ]
   },
   {
@@ -124,13 +252,46 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Tropical cyclones**", "Form over warm seas (>26.5°C); **eye, eyewall**; called **cyclones (India), hurricanes (Atlantic), typhoons (Pacific)**; hit AP/Odisha coast."],
-              ["**Temperate cyclones**", "Mid-latitude, front-based; bring **western disturbances** (NW India winter rain)."],
-              ["**Jet streams**", "Fast upper-air westerlies; **sub-tropical jet** influences the Indian monsoon."],
-              ["**El Nino / La Nina (ENSO)**", "**El Nino** (warm Pacific) → weak monsoon/drought; **La Nina** → good monsoon."],
-              ["**Climate change**", "**Greenhouse gases (CO₂, CH₄), global warming, sea-level rise**; Paris Agreement, IPCC."]
+              [
+                "**Tropical cyclones**",
+                "Form over warm seas (>26.5°C); **eye, eyewall**; called **cyclones (India), hurricanes (Atlantic), typhoons (Pacific)**; hit AP/Odisha coast."
+              ],
+              [
+                "**Temperate cyclones**",
+                "Mid-latitude, front-based; bring **western disturbances** (NW India winter rain)."
+              ],
+              [
+                "**Jet streams**",
+                "Fast upper-air westerlies; **sub-tropical jet** influences the Indian monsoon."
+              ],
+              [
+                "**El Nino / La Nina (ENSO)**",
+                "**El Nino** (warm Pacific) → weak monsoon/drought; **La Nina** → good monsoon."
+              ],
+              [
+                "**Climate change**",
+                "**Greenhouse gases (CO₂, CH₄), global warming, sea-level rise**; Paris Agreement, IPCC."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: cyclones, disturbances & climate change",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Tropical cyclones**: form over warm seas (>26.5°C) between 5°–20° lat; called **hurricanes** (Atlantic), **typhoons** (Pacific), **cyclones** (Indian Ocean), **willy-willies** (Australia); a calm **eye** at the centre; India's **IMD names** them (Bay of Bengal > Arabian Sea frequency).",
+              "**Temperate (extra-tropical) cyclones**: mid-latitude, front-based, larger & milder; bring winter rain to NW India (**Western Disturbances** from the Mediterranean).",
+              "**El Nino–Southern Oscillation (ENSO)**: **El Nino** (warm E-Pacific) → weak Indian monsoon/drought; **La Nina** → good monsoon; **Indian Ocean Dipole (IOD)** positive → good monsoon.",
+              "**Climate change**: global warming from GHGs; **IPCC** assessments; **UNFCCC (1992) → Kyoto Protocol (1997) → Paris Agreement (2015, limit to 1.5–2°C, NDCs)**; India's **Panchamrit** & **Net-Zero by 2070** pledge (Glasgow COP26)."
             ]
           }
         ]
@@ -156,15 +317,28 @@
       "**Jet streams** — sub-tropical westerly jet influences **monsoon onset & withdrawal**.",
       "**El Nino** (warm eastern Pacific) → **weak monsoon/drought**; **La Nina** → strong monsoon.",
       "**Greenhouse gases** — CO₂, methane (CH₄), N₂O; cause **global warming**.",
-      "**IPCC** (assessment reports) & the **Paris Agreement (2015, 1.5-2°C)** address climate change."
+      "**IPCC** (assessment reports) & the **Paris Agreement (2015, 1.5-2°C)** address climate change.",
+      "Tropical-cyclone names: **hurricane (Atlantic), typhoon (Pacific), cyclone (Indian Ocean), willy-willy (Australia)**.",
+      "**Western Disturbances** (Mediterranean origin) → NW India winter rain.",
+      "**El Nino → weak monsoon/drought**; **La Nina & positive IOD → good monsoon**.",
+      "Climate treaties: **UNFCCC 1992 → Kyoto 1997 → Paris 2015**; India **Net-Zero 2070** (Panchamrit)."
     ],
     "mainsAngles": [
       "Discuss atmospheric disturbances and the impact of climate change on the monsoon."
     ],
     "glossary": [
-      {"term": "Tropical cyclone", "definition": "An intense low-pressure storm forming over warm tropical seas, called a cyclone in the Indian Ocean."},
-      {"term": "El Nino", "definition": "An abnormal warming of the eastern Pacific that tends to weaken the Indian monsoon."},
-      {"term": "Jet stream", "definition": "A narrow band of fast upper-atmospheric wind that influences monsoon and mid-latitude weather."}
+      {
+        "term": "Tropical cyclone",
+        "definition": "An intense low-pressure storm forming over warm tropical seas, called a cyclone in the Indian Ocean."
+      },
+      {
+        "term": "El Nino",
+        "definition": "An abnormal warming of the eastern Pacific that tends to weaken the Indian monsoon."
+      },
+      {
+        "term": "Jet stream",
+        "definition": "A narrow band of fast upper-atmospheric wind that influences monsoon and mid-latitude weather."
+      }
     ]
   },
   {
@@ -180,13 +354,47 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Relief**", "**Continental shelf → slope → deep-sea plain (abyssal) → trench (deepest — Mariana)**; mid-oceanic ridges."],
-              ["**Salinity**", "Avg **~35 ppt**; highest in enclosed seas (Dead Sea, Red Sea); lower near river mouths/poles."],
-              ["**Temperature**", "Decreases with depth; **thermocline** separates warm surface from cold deep."],
-              ["**Currents**", "Warm (Gulf Stream, Kuroshio) & cold (Labrador, Humboldt); regulate coastal climate & fisheries."],
-              ["**Tides**", "**Spring tides (new/full moon), Neap tides (quarter moon)**; caused by Moon & Sun gravity."]
+              [
+                "**Relief**",
+                "**Continental shelf → slope → deep-sea plain (abyssal) → trench (deepest — Mariana)**; mid-oceanic ridges."
+              ],
+              [
+                "**Salinity**",
+                "Avg **~35 ppt**; highest in enclosed seas (Dead Sea, Red Sea); lower near river mouths/poles."
+              ],
+              [
+                "**Temperature**",
+                "Decreases with depth; **thermocline** separates warm surface from cold deep."
+              ],
+              [
+                "**Currents**",
+                "Warm (Gulf Stream, Kuroshio) & cold (Labrador, Humboldt); regulate coastal climate & fisheries."
+              ],
+              [
+                "**Tides**",
+                "**Spring tides (new/full moon), Neap tides (quarter moon)**; caused by Moon & Sun gravity."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: oceans",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Relief**: continental **shelf** (richest fishing/oil), **slope**, **deep-sea plain (abyssal)**, **trenches** (deepest — **Mariana/Challenger Deep, ~11 km**), **mid-ocean ridges**, seamounts, guyots.",
+              "**Temperature**: falls with depth; the **thermocline** = sharp drop layer; salinity avg **35‰** (highest in enclosed seas — **Dead Sea, Lake Van**; Red Sea ~40‰).",
+              "**Currents**: warm (equator→poles, e.g. **Gulf Stream, Kuroshio, N.Atlantic Drift**) & cold (poles→equator, e.g. **Labrador, Benguela, Humboldt/Peru, California**); driven by winds, Coriolis, density; **gyres**; cold+warm meeting → rich fishing (**Grand Banks — Labrador+Gulf Stream**).",
+              "**Tides**: caused by **Moon (chiefly) + Sun** gravity; **spring tides** (highest, new/full moon — Sun+Moon aligned), **neap tides** (lowest, quarter moon); tidal energy potential (Gulf of Kutch/Khambhat).",
+              "**Coral reefs**: warm, shallow, clean tropical seas (**Great Barrier Reef**); **coral bleaching** from warming; **Lakshadweep, Gulf of Mannar, A&N** in India."
             ]
           }
         ]
@@ -212,15 +420,28 @@
       "**Thermocline** — the zone of rapid temperature decrease with depth.",
       "**Warm currents** — Gulf Stream (Atlantic), Kuroshio (Pacific); **cold** — Labrador, Humboldt/Peru.",
       "**Spring tides** — new & full moon (highest); **Neap tides** — first/last quarter (lowest).",
-      "Meeting of warm & cold currents creates rich **fishing grounds** (e.g. Grand Banks)."
+      "Meeting of warm & cold currents creates rich **fishing grounds** (e.g. Grand Banks).",
+      "Deepest = **Mariana Trench (Challenger Deep, ~11 km, Pacific)**; **continental shelf** = best fishing/oil.",
+      "Warm currents: **Gulf Stream, Kuroshio, N.Atlantic Drift**; cold: **Labrador, Benguela, Humboldt(Peru), California**.",
+      "**Spring tides** (new/full moon, highest) vs **neap tides** (quarter moon); tides mainly by **Moon**.",
+      "Avg ocean salinity **35‰**; corals need warm/shallow/clean water → **bleaching** from warming."
     ],
     "mainsAngles": [
       "Describe the physical and chemical characteristics of ocean waters."
     ],
     "glossary": [
-      {"term": "Continental shelf", "definition": "The shallow, gently sloping seabed near coasts, rich in fisheries and hydrocarbons."},
-      {"term": "Salinity", "definition": "The dissolved salt content of seawater, averaging ~35 parts per thousand."},
-      {"term": "Spring tide", "definition": "The highest tide, occurring at new and full moon when Sun and Moon align."}
+      {
+        "term": "Continental shelf",
+        "definition": "The shallow, gently sloping seabed near coasts, rich in fisheries and hydrocarbons."
+      },
+      {
+        "term": "Salinity",
+        "definition": "The dissolved salt content of seawater, averaging ~35 parts per thousand."
+      },
+      {
+        "term": "Spring tide",
+        "definition": "The highest tide, occurring at new and full moon when Sun and Moon align."
+      }
     ]
   },
   {
@@ -236,13 +457,46 @@
           },
           {
             "type": "table",
-            "headers": ["Item", "Detail"],
+            "headers": [
+              "Item",
+              "Detail"
+            ],
             "rows": [
-              ["**Tsunami**", "Seismic sea-wave (earthquake/undersea landslide); **2004 Indian Ocean tsunami** hit the AP/TN coast."],
-              ["**Floods & storm surge**", "Monsoon floods; **cyclonic storm surges** on the AP-Odisha coast."],
-              ["**Drought**", "Rainfall deficiency; chronic in **Rayalaseema** (AP)."],
-              ["**Marine resources**", "**Fisheries, offshore oil/gas (KG basin), placer minerals (monazite beach sands), salt, tidal energy**."],
-              ["**Continental resources**", "**Freshwater, soils, forests, minerals, groundwater** on land."]
+              [
+                "**Tsunami**",
+                "Seismic sea-wave (earthquake/undersea landslide); **2004 Indian Ocean tsunami** hit the AP/TN coast."
+              ],
+              [
+                "**Floods & storm surge**",
+                "Monsoon floods; **cyclonic storm surges** on the AP-Odisha coast."
+              ],
+              [
+                "**Drought**",
+                "Rainfall deficiency; chronic in **Rayalaseema** (AP)."
+              ],
+              [
+                "**Marine resources**",
+                "**Fisheries, offshore oil/gas (KG basin), placer minerals (monazite beach sands), salt, tidal energy**."
+              ],
+              [
+                "**Continental resources**",
+                "**Freshwater, soils, forests, minerals, groundwater** on land."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: hydro disasters & marine resources",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Tsunami**: seismic sea-wave from undersea earthquakes/landslides (not tides); India's **2004 Indian Ocean tsunami**; **INCOIS (Hyderabad)** runs the tsunami early-warning system.",
+              "**Floods & droughts**: monsoon-dependent; delta & coastal flooding; **CWC** monitors floods; drought types (meteorological/hydrological/agricultural).",
+              "**Marine resources**: fisheries (EEZ = 200 nautical miles; India's **Blue Revolution/PMMSY**), offshore **oil & gas (Mumbai High, KG Basin)**, **polymetallic nodules** (India has a licensed CCZ site in the Indian Ocean — **Deep Ocean Mission**), tidal/wave energy, salt.",
+              "**Continental resources**: minerals, forests, soil, water; the **Exclusive Economic Zone** and **UNCLOS** framework govern ocean rights."
             ]
           }
         ]
@@ -268,15 +522,28 @@
       "**Beach-sand placer minerals** — **monazite (thorium), ilmenite, garnet** along the AP coast.",
       "**Rayalaseema** — chronically drought-prone (AP).",
       "**Tidal & wave energy, salt, fisheries** — marine resources.",
-      "**NDMA** (National Disaster Management Authority) coordinates disaster response."
+      "**NDMA** (National Disaster Management Authority) coordinates disaster response.",
+      "**Tsunami** = undersea-quake wave; India's warning centre = **INCOIS (Hyderabad)**; 2004 tsunami.",
+      "**EEZ = 200 nautical miles** (UNCLOS); India's **Deep Ocean Mission** targets polymetallic nodules.",
+      "Offshore oil: **Mumbai High, KG (Krishna-Godavari) Basin**; fisheries via **PMMSY / Blue Revolution**.",
+      "**CWC** = flood monitoring; drought types meteorological/hydrological/agricultural."
     ],
     "mainsAngles": [
       "Assess hydrological disasters and marine resources with reference to coastal Andhra."
     ],
     "glossary": [
-      {"term": "Tsunami", "definition": "A series of ocean waves generated by undersea earthquakes or landslides."},
-      {"term": "Storm surge", "definition": "An abnormal rise of seawater during a cyclone that floods low-lying coasts."},
-      {"term": "Placer minerals", "definition": "Heavy minerals (e.g. monazite, ilmenite) concentrated in beach and river sands."}
+      {
+        "term": "Tsunami",
+        "definition": "A series of ocean waves generated by undersea earthquakes or landslides."
+      },
+      {
+        "term": "Storm surge",
+        "definition": "An abnormal rise of seawater during a cyclone that floods low-lying coasts."
+      },
+      {
+        "term": "Placer minerals",
+        "definition": "Heavy minerals (e.g. monazite, ilmenite) concentrated in beach and river sands."
+      }
     ]
   }
 ]
