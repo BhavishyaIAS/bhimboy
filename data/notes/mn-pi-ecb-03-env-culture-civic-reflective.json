@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Theme", "Key dimensions & anchors"],
+            "headers": [
+              "Theme",
+              "Key dimensions & anchors"
+            ],
             "rows": [
-              ["**Climate change**", "Global warming, CBDR, Paris/net-zero-2070, Panchamrit, Mission LiFE."],
-              ["**Sustainable development**", "Brundtland, SDGs, growth vs ecology, circular economy."],
-              ["**Conservation**", "Biodiversity, forests, rivers; Chipko, tribal stewardship, Western Ghats."],
-              ["**Environmental justice**", "Who bears the cost? climate equity, displacement, pollution & the poor."],
-              ["**Nature & culture**", "Gandhian simplicity, Indian eco-traditions, 'sacred groves'."]
+              [
+                "**Climate change**",
+                "Global warming, CBDR, Paris/net-zero-2070, Panchamrit, Mission LiFE."
+              ],
+              [
+                "**Sustainable development**",
+                "Brundtland, SDGs, growth vs ecology, circular economy."
+              ],
+              [
+                "**Conservation**",
+                "Biodiversity, forests, rivers; Chipko, tribal stewardship, Western Ghats."
+              ],
+              [
+                "**Environmental justice**",
+                "Who bears the cost? climate equity, displacement, pollution & the poor."
+              ],
+              [
+                "**Nature & culture**",
+                "Gandhian simplicity, Indian eco-traditions, 'sacred groves'."
+              ]
             ]
           }
         ]
@@ -41,17 +59,48 @@
             "text": "Exam tip: Argue socio-environmental essays as reconciling development and ecology through sustainability, blending scientific evidence with ethical equity and Indian eco-traditions."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: socio-environmental issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Themes**: climate change & justice, sustainable development, pollution & health, biodiversity loss, water crisis, renewable transition, circular economy, environment vs development, disaster resilience, LiFE (lifestyle).",
+              "**Anchors**: SDGs, Paris/Net-Zero-2070/Panchamrit, Brundtland definition, polluter-pays & precautionary principles, Gandhi ('enough for need, not greed'), ISA/CDRI/LiFE.",
+              "**Structure**: the challenge (data) → dimensions → development-environment balance → policy & tech solutions → citizen role → intergenerational-equity conclusion.",
+              "**AP angle**: cyclone resilience, Eastern Ghats biodiversity, solar/wind capacity, mangroves (Coringa)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Gandhi: 'The Earth provides enough to satisfy every man's need, but not every man's greed' — the definitive environment-essay anchor."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice essays on climate change, sustainability, conservation and environmental justice.",
       "Anchor with SDGs, Paris/net-zero, and thinkers/movements (Gandhi, Chipko, Mission LiFE).",
-      "Localise with AP's coastal vulnerability, mangroves and Eastern-Ghat conservation."
+      "Localise with AP's coastal vulnerability, mangroves and Eastern-Ghat conservation.",
+      "Anchor: **SDGs, Net-Zero 2070, Brundtland, polluter-pays, Gandhi's 'need not greed'**.",
+      "Frame development-environment as **balance, not trade-off** (sustainability).",
+      "AP: cyclone resilience, Eastern Ghats biodiversity, RE capacity, Coringa mangroves."
     ],
     "glossary": [
-      {"term": "Sustainable development", "definition": "Meeting present needs without compromising future generations (Brundtland)."},
-      {"term": "Environmental justice", "definition": "Fair distribution of environmental benefits and burdens across society."},
-      {"term": "Intergenerational equity", "definition": "The ethical duty to preserve resources and environment for future generations."}
+      {
+        "term": "Sustainable development",
+        "definition": "Meeting present needs without compromising future generations (Brundtland)."
+      },
+      {
+        "term": "Environmental justice",
+        "definition": "Fair distribution of environmental benefits and burdens across society."
+      },
+      {
+        "term": "Intergenerational equity",
+        "definition": "The ethical duty to preserve resources and environment for future generations."
+      }
     ]
   },
   {
@@ -67,13 +116,31 @@
           },
           {
             "type": "table",
-            "headers": ["Theme", "Key dimensions & anchors"],
+            "headers": [
+              "Theme",
+              "Key dimensions & anchors"
+            ],
             "rows": [
-              ["**Cultural heritage & pluralism**", "Composite culture, Ganga-Jamuni synthesis, unity in diversity, syncretism (Bhakti-Sufi)."],
-              ["**Tradition vs modernity**", "Continuity & change; reform without rootlessness; science & tradition."],
-              ["**History's lessons**", "Learning from the freedom struggle, reform movements, past mistakes."],
-              ["**Art, language, identity**", "Telugu literature & golden age, classical arts, heritage conservation."],
-              ["**Soft power**", "Yoga, cinema, cuisine, diaspora; culture as diplomacy."]
+              [
+                "**Cultural heritage & pluralism**",
+                "Composite culture, Ganga-Jamuni synthesis, unity in diversity, syncretism (Bhakti-Sufi)."
+              ],
+              [
+                "**Tradition vs modernity**",
+                "Continuity & change; reform without rootlessness; science & tradition."
+              ],
+              [
+                "**History's lessons**",
+                "Learning from the freedom struggle, reform movements, past mistakes."
+              ],
+              [
+                "**Art, language, identity**",
+                "Telugu literature & golden age, classical arts, heritage conservation."
+              ],
+              [
+                "**Soft power**",
+                "Yoga, cinema, cuisine, diaspora; culture as diplomacy."
+              ]
             ]
           }
         ]
@@ -96,17 +163,48 @@
             "text": "Exam tip: Treat cultural-historical essays as living heritage — use pluralism and the past as insight for present identity and values, with a rich Telugu/AP cultural thread."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: cultural & historical aspects",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Themes**: India's composite/plural culture, unity in diversity, heritage conservation vs modernity, language & identity, tradition & change, soft power (yoga, cinema, diaspora), Telugu culture & Andhra's heritage.",
+              "**Anchors**: 'Vasudhaiva Kutumbakam', Ganga-Jamuni tehzeeb, Tagore, Nehru's *Discovery of India*, UNESCO sites, the Constitution's fundamental duty to preserve heritage (51A).",
+              "**AP fodder**: Amaravati/Buddhist heritage, Kakatiya (Ramappa-UNESCO), Vijayanagara, Kuchipudi, Tirupati, Telugu literary tradition (Nannaya→Sri Sri), Kalamkari/Kondapalli crafts.",
+              "**Structure**: cultural value → historical evolution → present challenges (globalisation/erosion) → preservation + living-tradition balance → identity-with-openness conclusion."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Frame culture essays around **'roots and wings'** — anchoring identity while staying open to change."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice essays on cultural pluralism, tradition vs modernity, and history's lessons.",
       "Build a bank of cultural examples — Bhakti-Sufi synthesis, Telugu literature, Indian soft power.",
-      "Localise with AP heritage — Amaravati, Kakatiya/Vijayanagara art, Vemana, Annamayya."
+      "Localise with AP heritage — Amaravati, Kakatiya/Vijayanagara art, Vemana, Annamayya.",
+      "Anchor: **unity in diversity, Vasudhaiva Kutumbakam, soft power, Art 51A heritage duty**.",
+      "AP fodder: **Amaravati/Buddhist, Kakatiya-Ramappa, Kuchipudi, Telugu literature, Kalamkari**.",
+      "Frame as **'roots and wings'** — identity + openness."
     ],
     "glossary": [
-      {"term": "Composite culture", "definition": "India's blended cultural heritage formed by many traditions coexisting and synthesising."},
-      {"term": "Soft power", "definition": "A nation's cultural and value-based influence — yoga, cinema, cuisine, diaspora."},
-      {"term": "Syncretism", "definition": "The fusion of different cultural or religious traditions, as in the Bhakti-Sufi movements."}
+      {
+        "term": "Composite culture",
+        "definition": "India's blended cultural heritage formed by many traditions coexisting and synthesising."
+      },
+      {
+        "term": "Soft power",
+        "definition": "A nation's cultural and value-based influence — yoga, cinema, cuisine, diaspora."
+      },
+      {
+        "term": "Syncretism",
+        "definition": "The fusion of different cultural or religious traditions, as in the Bhakti-Sufi movements."
+      }
     ]
   },
   {
@@ -122,13 +220,31 @@
           },
           {
             "type": "table",
-            "headers": ["Theme", "Key dimensions & anchors"],
+            "headers": [
+              "Theme",
+              "Key dimensions & anchors"
+            ],
             "rows": [
-              ["**Citizenship & duties**", "Fundamental Duties (Art. 51A), active citizenship, voting, civic sense."],
-              ["**Ethics & integrity**", "Corruption, probity, transparency (RTI), Gandhi's talisman."],
-              ["**Public health & civic behaviour**", "Sanitation (Swachh Bharat), road safety, pandemic responsibility."],
-              ["**Volunteerism & community**", "SHGs, NGOs, youth & social capital; 'be the change'."],
-              ["**Digital citizenship**", "Responsible online conduct, misinformation, netiquette."]
+              [
+                "**Citizenship & duties**",
+                "Fundamental Duties (Art. 51A), active citizenship, voting, civic sense."
+              ],
+              [
+                "**Ethics & integrity**",
+                "Corruption, probity, transparency (RTI), Gandhi's talisman."
+              ],
+              [
+                "**Public health & civic behaviour**",
+                "Sanitation (Swachh Bharat), road safety, pandemic responsibility."
+              ],
+              [
+                "**Volunteerism & community**",
+                "SHGs, NGOs, youth & social capital; 'be the change'."
+              ],
+              [
+                "**Digital citizenship**",
+                "Responsible online conduct, misinformation, netiquette."
+              ]
             ]
           }
         ]
@@ -151,17 +267,48 @@
             "text": "Exam tip: Civic-awareness essays should marry rights with duties — argue that a healthy democracy depends on ethical, participatory citizenship, from the individual to the nation."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: civic-awareness issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Themes**: citizenship & duties, civic sense & public property, rule of law, active citizenship & volunteering, ethics in public life, road/civic discipline, digital citizenship, RTI & accountability, participatory governance.",
+              "**Anchors**: Fundamental Duties (Art 51A), 'rights come with responsibilities', Gandhi's talisman, social capital (Putnam), Swachh Bharat as a civic movement, constitutional morality.",
+              "**Structure**: define civic awareness → why it matters (a functioning democracy) → deficits (data/examples) → building it (education, institutions, tech, role models) → a citizen-state partnership conclusion.",
+              "**AP angle**: Swachh Andhra, citizen-service delivery, RTGS grievance systems."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "'The best way to find yourself is to lose yourself in the service of others' (Gandhi) — a strong civic-essay anchor."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice essays on citizenship, civic ethics, public health behaviour and volunteerism.",
       "Anchor with Fundamental Duties, Gandhi's talisman, RTI and Swachh Bharat.",
-      "Localise with AP's participatory governance (Volunteers/Secretariats)."
+      "Localise with AP's participatory governance (Volunteers/Secretariats).",
+      "Anchor: **Fundamental Duties (51A), rights↔responsibilities, constitutional morality**.",
+      "Frame as a **citizen-state partnership**; use Swachh Bharat as a civic movement.",
+      "Build civic sense via **education, institutions, tech, role models**."
     ],
     "glossary": [
-      {"term": "Active citizenship", "definition": "Engaged, responsible participation of citizens in democratic and civic life."},
-      {"term": "Fundamental Duties", "definition": "The moral obligations of citizens listed in Article 51A of the Constitution."},
-      {"term": "Gandhi's talisman", "definition": "Gandhi's test of judging any action by its effect on the poorest and weakest person."}
+      {
+        "term": "Active citizenship",
+        "definition": "Engaged, responsible participation of citizens in democratic and civic life."
+      },
+      {
+        "term": "Fundamental Duties",
+        "definition": "The moral obligations of citizens listed in Article 51A of the Constitution."
+      },
+      {
+        "term": "Gandhi's talisman",
+        "definition": "Gandhi's test of judging any action by its effect on the poorest and weakest person."
+      }
     ]
   },
   {
@@ -177,13 +324,31 @@
           },
           {
             "type": "table",
-            "headers": ["Topic type", "Approach & anchors"],
+            "headers": [
+              "Topic type",
+              "Approach & anchors"
+            ],
             "rows": [
-              ["**Values (truth, courage, humility)**", "Define, illustrate with lives/stories, thinkers (Gandhi, Tagore, Kant)."],
-              ["**Life & the human condition**", "Success/failure, happiness, time, change — use anecdote & universal insight."],
-              ["**Aphoristic prompts**", "'Where there is a will…' — interpret, argue with examples, avoid literalism."],
-              ["**Dialectical abstract**", "Present thesis → antithesis → synthesis; nuance over absolutes."],
-              ["**Personal + universal**", "Begin with a story/observation, rise to a shared human truth."]
+              [
+                "**Values (truth, courage, humility)**",
+                "Define, illustrate with lives/stories, thinkers (Gandhi, Tagore, Kant)."
+              ],
+              [
+                "**Life & the human condition**",
+                "Success/failure, happiness, time, change — use anecdote & universal insight."
+              ],
+              [
+                "**Aphoristic prompts**",
+                "'Where there is a will…' — interpret, argue with examples, avoid literalism."
+              ],
+              [
+                "**Dialectical abstract**",
+                "Present thesis → antithesis → synthesis; nuance over absolutes."
+              ],
+              [
+                "**Personal + universal**",
+                "Begin with a story/observation, rise to a shared human truth."
+              ]
             ]
           }
         ]
@@ -206,17 +371,48 @@
             "text": "Exam tip: Reflective/abstract essays reward depth grounded in concreteness — pair every abstract idea with a story or example, use a dialectical approach, and rise to a universal, hopeful insight."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: reflective / abstract topics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Type**: quote-based or one-word/abstract (e.g., 'Courage', 'Patience is bitter but its fruit is sweet', 'Silence is the best answer', 'Truth', 'Time').",
+              "**Method**: **interpret the abstract idea from multiple angles** (literal, philosophical, social, historical, scientific, personal) → weave examples from diverse fields (history, science, governance, daily life) → keep a reflective, elevated but clear tone.",
+              "**Structure**: an evocative intro (story/quote) → interpretations & examples across domains → nuance/counterpoint → a wise, uplifting conclusion.",
+              "**Toolkit**: parables, historical figures (Gandhi, Kalam, Buddha), literary allusions, universal human experience."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "For abstract topics, **breadth of interpretation + concrete examples across domains** beats a single narrow reading."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice abstract topics (happiness, failure, courage) grounded in stories and thinkers.",
       "Use a thesis-antithesis-synthesis (dialectical) structure for nuanced treatment.",
-      "Master narrative openings and universal, reflective conclusions."
+      "Master narrative openings and universal, reflective conclusions.",
+      "Abstract topic = **interpret from many angles** (philosophical/social/scientific/personal).",
+      "Weave **examples across domains** + parables + historical figures.",
+      "Structure: evocative intro → multi-angle body → nuance → uplifting close."
     ],
     "glossary": [
-      {"term": "Dialectical approach", "definition": "Exploring a topic through thesis, antithesis and synthesis for balanced nuance."},
-      {"term": "Abstraction grounding", "definition": "Illustrating abstract ideas with concrete examples, stories or data."},
-      {"term": "Aphoristic prompt", "definition": "A proverb or maxim as an essay topic, to be interpreted rather than taken literally."}
+      {
+        "term": "Dialectical approach",
+        "definition": "Exploring a topic through thesis, antithesis and synthesis for balanced nuance."
+      },
+      {
+        "term": "Abstraction grounding",
+        "definition": "Illustrating abstract ideas with concrete examples, stories or data."
+      },
+      {
+        "term": "Aphoristic prompt",
+        "definition": "A proverb or maxim as an essay topic, to be interpreted rather than taken literally."
+      }
     ]
   }
 ]

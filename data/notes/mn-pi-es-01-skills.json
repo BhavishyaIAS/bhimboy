@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Role & proportion"],
+            "headers": [
+              "Part",
+              "Role & proportion"
+            ],
             "rows": [
-              ["**Introduction (~10-15%)**", "Hook (anecdote/quote/data/question) → define/frame the topic → state the **thesis/roadmap**."],
-              ["**Body (~70-75%)**", "3-5 **thematic paragraphs**, each with one idea, evidence and a link; multi-dimensional (social, economic, political, ethical…)."],
-              ["**Conclusion (~10-15%)**", "Synthesise (not repeat) → balanced, forward-looking, hopeful close (quote/vision)."],
-              ["**Word discipline**", "Stay within the limit; **quality over quantity**; every paragraph must earn its place."]
+              [
+                "**Introduction (~10-15%)**",
+                "Hook (anecdote/quote/data/question) → define/frame the topic → state the **thesis/roadmap**."
+              ],
+              [
+                "**Body (~70-75%)**",
+                "3-5 **thematic paragraphs**, each with one idea, evidence and a link; multi-dimensional (social, economic, political, ethical…)."
+              ],
+              [
+                "**Conclusion (~10-15%)**",
+                "Synthesise (not repeat) → balanced, forward-looking, hopeful close (quote/vision)."
+              ],
+              [
+                "**Word discipline**",
+                "Stay within the limit; **quality over quantity**; every paragraph must earn its place."
+              ]
             ]
           },
           {
@@ -44,17 +59,88 @@
             "text": "Exam tip: Structure = marks. A planned intro-body-conclusion with multi-dimensional body paragraphs and a synthesising conclusion beats a fact-dump every time; respect the word limit."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Master template: structure & the word discipline",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Introduction** (~10-12%): a hook (quote/anecdote/data/definition/question) → context → a clear **thesis/roadmap**.",
+              "**Body** (~75%): 4-6 paragraphs, **one idea each**, using a **multi-dimensional lens** (see below), each para = claim → explanation → example/data → link.",
+              "**Conclusion** (~12%): synthesise (don't merely repeat), resolve the tension, end on a **balanced, forward-looking, hopeful** note (a quote/vision)."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Dimension (use as body-paragraph headings)",
+              "Prompt to cover"
+            ],
+            "rows": [
+              [
+                "**Political/Governance**",
+                "policy, institutions, rights"
+              ],
+              [
+                "**Economic**",
+                "growth, jobs, inequality"
+              ],
+              [
+                "**Social**",
+                "caste, gender, education, health"
+              ],
+              [
+                "**Environmental**",
+                "sustainability, climate"
+              ],
+              [
+                "**Technological/Scientific**",
+                "innovation, digital"
+              ],
+              [
+                "**Ethical/Philosophical**",
+                "values, morality"
+              ],
+              [
+                "**Historical & International**",
+                "evolution, global comparison"
+              ],
+              [
+                "**Andhra/regional**",
+                "local grounding"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Discipline: aim for ~**800 words** (APPSC), legible paragraphs, connectors between ideas, and 5-10 minutes of planning before writing."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice outlining any topic into 4-5 dimensions (social, economic, political, ethical, environmental, technological) before writing.",
       "Draft strong introductions using the hook → frame → thesis pattern.",
-      "Write conclusions that synthesise and end on a forward-looking, hopeful note."
+      "Write conclusions that synthesise and end on a forward-looking, hopeful note.",
+      "Time-box: **plan 5-10 min, write ~800 words, review 5 min**.",
+      "Use a **multi-dimensional (PESTEL + ethics + regional)** body structure.",
+      "Intro = hook+thesis; Conclusion = synthesis + hopeful vision."
     ],
     "glossary": [
-      {"term": "Thesis statement", "definition": "The central argument or stance of the essay, usually stated at the end of the introduction."},
-      {"term": "Multi-dimensional approach", "definition": "Examining a topic from several angles (social, economic, political, ethical, etc.) for balance and depth."},
-      {"term": "Synthesis", "definition": "Drawing the threads of an essay together in the conclusion rather than merely repeating them."}
+      {
+        "term": "Thesis statement",
+        "definition": "The central argument or stance of the essay, usually stated at the end of the introduction."
+      },
+      {
+        "term": "Multi-dimensional approach",
+        "definition": "Examining a topic from several angles (social, economic, political, ethical, etc.) for balance and depth."
+      },
+      {
+        "term": "Synthesis",
+        "definition": "Drawing the threads of an essay together in the conclusion rather than merely repeating them."
+      }
     ]
   },
   {
@@ -70,13 +156,31 @@
           },
           {
             "type": "table",
-            "headers": ["Principle", "How to achieve it"],
+            "headers": [
+              "Principle",
+              "How to achieve it"
+            ],
             "rows": [
-              ["**Argumentation**", "Claim → evidence (data, example, quote, history) → reasoning → link back to thesis."],
-              ["**Coherence**", "All paragraphs serve the **central thesis**; no digressions."],
-              ["**Cohesion**", "Use **connectives** (however, therefore, moreover, consequently) between & within paragraphs."],
-              ["**Sequence/flow**", "Logical order — chronological, cause-effect, problem-solution, or thematic."],
-              ["**Balance**", "Present **counter-arguments** and resolve them — shows maturity."]
+              [
+                "**Argumentation**",
+                "Claim → evidence (data, example, quote, history) → reasoning → link back to thesis."
+              ],
+              [
+                "**Coherence**",
+                "All paragraphs serve the **central thesis**; no digressions."
+              ],
+              [
+                "**Cohesion**",
+                "Use **connectives** (however, therefore, moreover, consequently) between & within paragraphs."
+              ],
+              [
+                "**Sequence/flow**",
+                "Logical order — chronological, cause-effect, problem-solution, or thematic."
+              ],
+              [
+                "**Balance**",
+                "Present **counter-arguments** and resolve them — shows maturity."
+              ]
             ]
           }
         ]
@@ -99,17 +203,48 @@
             "text": "Exam tip: Marks come from a coherent ARGUMENT, not scattered facts. Each paragraph should be a PEEL unit that advances the thesis, connected by clear transitions."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Craft: a well-argued, coherent essay",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Argumentation**: every claim needs **evidence** (data, example, report, historical instance) + reasoning; present **both sides** then take a nuanced position.",
+              "**Coherence**: use connectors (however, moreover, consequently, in contrast); each paragraph should **flow** from the last; maintain one line of argument (the thesis thread).",
+              "**Sequential development**: move logically — problem→causes→effects→solutions, or past→present→future, or thesis→antithesis→synthesis.",
+              "**Substantiation toolkit**: committee/report names, schemes, constitutional articles, thinkers, data, current events, AP examples — a well-stocked 'fodder' bank."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "A strong essay reads as ONE argument, not a list of disconnected points — the reader should feel a thread from intro to conclusion."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice the PEEL paragraph structure (Point-Evidence-Explanation-Link).",
       "Build essays with a clear logical order — problem-solution, cause-effect or thematic.",
-      "Always include and address a counter-argument to demonstrate balanced reasoning."
+      "Always include and address a counter-argument to demonstrate balanced reasoning.",
+      "Every claim = **evidence + reasoning**; present both sides → nuanced stand.",
+      "Use a logical spine: **problem→cause→effect→solution** or **thesis→antithesis→synthesis**.",
+      "Bind paragraphs with **connectors**; keep one thesis thread."
     ],
     "glossary": [
-      {"term": "PEEL", "definition": "A paragraph model: Point, Evidence, Explanation, Link — for well-argued writing."},
-      {"term": "Coherence", "definition": "The quality of all parts of an essay serving one central argument."},
-      {"term": "Cohesion", "definition": "The smooth connection of sentences and paragraphs using linking devices."}
+      {
+        "term": "PEEL",
+        "definition": "A paragraph model: Point, Evidence, Explanation, Link — for well-argued writing."
+      },
+      {
+        "term": "Coherence",
+        "definition": "The quality of all parts of an essay serving one central argument."
+      },
+      {
+        "term": "Cohesion",
+        "definition": "The smooth connection of sentences and paragraphs using linking devices."
+      }
     ]
   },
   {
@@ -125,13 +260,31 @@
           },
           {
             "type": "table",
-            "headers": ["Quality", "How to build it"],
+            "headers": [
+              "Quality",
+              "How to build it"
+            ],
             "rows": [
-              ["**Originality of thought**", "Fresh angles, inter-disciplinary links, apt anecdotes/case studies, your own reasoned view."],
-              ["**Originality of expression**", "Varied sentence structure, precise words, memorable phrasing; avoid clichés."],
-              ["**Grammatical correctness**", "Correct tense, agreement, punctuation; short clear sentences over convoluted ones."],
-              ["**Tone**", "Balanced, mature, dignified, optimistic; avoid sloganeering or extremism."],
-              ["**Enrichment**", "Quotes (used sparingly & correctly), data, real examples, thinkers' ideas."]
+              [
+                "**Originality of thought**",
+                "Fresh angles, inter-disciplinary links, apt anecdotes/case studies, your own reasoned view."
+              ],
+              [
+                "**Originality of expression**",
+                "Varied sentence structure, precise words, memorable phrasing; avoid clichés."
+              ],
+              [
+                "**Grammatical correctness**",
+                "Correct tense, agreement, punctuation; short clear sentences over convoluted ones."
+              ],
+              [
+                "**Tone**",
+                "Balanced, mature, dignified, optimistic; avoid sloganeering or extremism."
+              ],
+              [
+                "**Enrichment**",
+                "Quotes (used sparingly & correctly), data, real examples, thinkers' ideas."
+              ]
             ]
           }
         ]
@@ -154,17 +307,48 @@
             "text": "Exam tip: Originality + correctness = the top band. Fresh insight and apt examples in clear, grammatically sound, dignified prose distinguish a memorable essay."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Craft: originality & correctness",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Originality of thought**: bring a fresh angle, an unexpected example, an interdisciplinary link, or a personal-yet-universal reflection — avoid clichés and rote templates.",
+              "**Originality of expression**: vary sentence length, use apt vocabulary (not purple prose), deploy 2-3 relevant **quotations/proverbs**, coin a crisp line for the thesis.",
+              "**Grammatical correctness**: subject-verb agreement, tense consistency, correct articles/prepositions, punctuation, spelling; short clear sentences beat long tangled ones.",
+              "**Balance & sensitivity**: avoid extreme/partisan positions, respect all communities, keep an administrator's constructive, solution-oriented tone."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Memorable lines lift an essay: e.g., 'Development without dignity is hollow; dignity without development is fragile.'"
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Maintain a personal bank of versatile quotes, anecdotes and data for essays.",
       "Practice writing in clear, correct, varied sentences; proofread for grammar.",
-      "Cultivate a balanced, mature and optimistic authorial voice."
+      "Cultivate a balanced, mature and optimistic authorial voice.",
+      "Originality = fresh angle + interdisciplinary examples, not clichés.",
+      "Deploy **2-3 apt quotes**; vary sentence rhythm; keep grammar clean.",
+      "Maintain **balance, sensitivity, and a constructive tone**."
     ],
     "glossary": [
-      {"term": "Originality", "definition": "Fresh, independent thought and expression that distinguishes an essay from generic writing."},
-      {"term": "Register/Tone", "definition": "The level of formality and attitude of the writing — for essays, balanced and dignified."},
-      {"term": "Cliché", "definition": "An overused phrase that weakens expression; to be avoided for originality."}
+      {
+        "term": "Originality",
+        "definition": "Fresh, independent thought and expression that distinguishes an essay from generic writing."
+      },
+      {
+        "term": "Register/Tone",
+        "definition": "The level of formality and attitude of the writing — for essays, balanced and dignified."
+      },
+      {
+        "term": "Cliché",
+        "definition": "An overused phrase that weakens expression; to be avoided for originality."
+      }
     ]
   },
   {
@@ -180,12 +364,27 @@
           },
           {
             "type": "table",
-            "headers": ["Mode", "Nature & approach"],
+            "headers": [
+              "Mode",
+              "Nature & approach"
+            ],
             "rows": [
-              ["**Descriptive**", "Presents facts/features of a topic (e.g. 'India's demographic dividend'); factual, organised, informative."],
-              ["**Analytical**", "Examines causes, effects, pros-cons, dimensions (e.g. 'Is technology a boon or bane?'); argument-driven."],
-              ["**Philosophical/Abstract**", "Explores an idea/value (e.g. 'Truth', 'Happiness'); needs concepts, thinkers, dialectics, examples to ground abstraction."],
-              ["**Reflective**", "Personal, contemplative (e.g. 'The road not taken'); uses narrative, introspection, universal insight."]
+              [
+                "**Descriptive**",
+                "Presents facts/features of a topic (e.g. 'India's demographic dividend'); factual, organised, informative."
+              ],
+              [
+                "**Analytical**",
+                "Examines causes, effects, pros-cons, dimensions (e.g. 'Is technology a boon or bane?'); argument-driven."
+              ],
+              [
+                "**Philosophical/Abstract**",
+                "Explores an idea/value (e.g. 'Truth', 'Happiness'); needs concepts, thinkers, dialectics, examples to ground abstraction."
+              ],
+              [
+                "**Reflective**",
+                "Personal, contemplative (e.g. 'The road not taken'); uses narrative, introspection, universal insight."
+              ]
             ]
           },
           {
@@ -212,17 +411,66 @@
             "text": "Exam tip: Diagnose the mode (descriptive/analytical/philosophical/reflective) before writing, then adapt. Ground even abstract or reflective essays in concrete examples and thinkers."
           }
         ]
+      },
+      {
+        "heading": "🖋️ The four modes of essay",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Mode",
+              "Approach"
+            ],
+            "rows": [
+              [
+                "**Descriptive**",
+                "Paint a vivid, organised picture (a place/event/scheme); sensory & factual detail."
+              ],
+              [
+                "**Analytical**",
+                "Dissect an issue — causes, effects, stakeholders, pros-cons, way forward; evidence-heavy."
+              ],
+              [
+                "**Philosophical/Abstract**",
+                "Interpret a quote/concept broadly; multiple interpretations, examples across life & governance, deep reflection."
+              ],
+              [
+                "**Reflective/Narrative**",
+                "Personal-yet-universal reflection; a thread of experience illuminating a larger truth."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Reading the topic**: a quote → philosophical; 'Discuss/Examine' → analytical; a scene → descriptive; 'My idea of…' → reflective. Adapt structure to the mode."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice identifying a topic's dominant mode and adapting structure to it.",
       "Ground philosophical topics with thinkers, values and a dialectical (thesis-antithesis-synthesis) approach.",
-      "Attempt reflective topics with narrative openings and universal, insightful conclusions."
+      "Attempt reflective topics with narrative openings and universal, insightful conclusions.",
+      "Modes: **descriptive, analytical, philosophical, reflective** — match structure to the prompt.",
+      "Quote/abstract topic → **multiple interpretations + wide examples**.",
+      "'Discuss/Examine' → **analytical** (cause-effect-solution)."
     ],
     "glossary": [
-      {"term": "Analytical essay", "definition": "An essay that examines causes, effects and dimensions to build an argument."},
-      {"term": "Philosophical essay", "definition": "An essay exploring an abstract idea or value using concepts, thinkers and examples."},
-      {"term": "Reflective essay", "definition": "A contemplative, often personal essay that draws a universal insight from experience."}
+      {
+        "term": "Analytical essay",
+        "definition": "An essay that examines causes, effects and dimensions to build an argument."
+      },
+      {
+        "term": "Philosophical essay",
+        "definition": "An essay exploring an abstract idea or value using concepts, thinkers and examples."
+      },
+      {
+        "term": "Reflective essay",
+        "definition": "A contemplative, often personal essay that draws a universal insight from experience."
+      }
     ]
   }
 ]

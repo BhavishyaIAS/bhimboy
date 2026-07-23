@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Likely topic cluster", "Framing dimensions"],
+            "headers": [
+              "Likely topic cluster",
+              "Framing dimensions"
+            ],
             "rows": [
-              ["**Technology & society**", "AI, digital divide, data privacy — opportunity vs disruption, ethics, governance."],
-              ["**Governance & reform**", "Transparency, welfare delivery, federalism, electoral reform."],
-              ["**Global order**", "Multipolarity, India's rise, climate diplomacy, Global South."],
-              ["**Development debates**", "Growth vs equity/sustainability, jobless growth, demographic dividend."],
-              ["**Crises & resilience**", "Pandemics, disasters, food/energy security — preparedness & cooperation."]
+              [
+                "**Technology & society**",
+                "AI, digital divide, data privacy — opportunity vs disruption, ethics, governance."
+              ],
+              [
+                "**Governance & reform**",
+                "Transparency, welfare delivery, federalism, electoral reform."
+              ],
+              [
+                "**Global order**",
+                "Multipolarity, India's rise, climate diplomacy, Global South."
+              ],
+              [
+                "**Development debates**",
+                "Growth vs equity/sustainability, jobless growth, demographic dividend."
+              ],
+              [
+                "**Crises & resilience**",
+                "Pandemics, disasters, food/energy security — preparedness & cooperation."
+              ]
             ]
           }
         ]
@@ -41,16 +59,44 @@
             "text": "Exam tip: A current-affairs essay is not a news report — frame the event within a larger structural theme, analyse multiple dimensions, and end with a constructive way forward."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: current-affairs essay themes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Likely themes**: digital transformation & AI, climate action & green transition, demographic dividend & jobs, Aatmanirbhar/self-reliance, G20/India's global rise, welfare vs fiscal prudence, data privacy, health/pandemic lessons, agriculture reform, women-led development.",
+              "**Framework**: for any current theme — **What (define) → Why now (trigger) → Multi-dimensional impact (PESTEL) → Challenges → Government response/schemes → Global comparison → AP angle → Way forward**.",
+              "**Fodder**: schemes (Digital India, PLI, ISA, Net-Zero-2070), reports/indices, data (NFHS, PLFS), constitutional values, thinkers (Sen, Kalam, Gandhi).",
+              "**AP grounding**: natural farming, ports/corridors, RTGS e-governance, welfare model."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Current-affairs essays reward **connecting a headline to enduring principles** (equity, sustainability, rights) — not just narrating news."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice converting a recent headline into a themed, multi-dimensional essay outline.",
       "Build a current-affairs bank organised by theme (tech, governance, global, development, crises).",
-      "Always localise a national/global issue with an AP or India-specific example."
+      "Always localise a national/global issue with an AP or India-specific example.",
+      "Framework: **What → Why now → PESTEL impact → challenges → govt response → global/AP angle → way forward**.",
+      "Anchor headlines to **enduring values** (equity, sustainability, rights).",
+      "Keep a **fodder bank** of schemes, reports, data, thinkers, AP examples."
     ],
     "glossary": [
-      {"term": "Framing", "definition": "Presenting a topical event within a larger structural theme rather than merely narrating it."},
-      {"term": "Way forward", "definition": "A constructive, solution-oriented section that strengthens the essay's conclusion."}
+      {
+        "term": "Framing",
+        "definition": "Presenting a topical event within a larger structural theme rather than merely narrating it."
+      },
+      {
+        "term": "Way forward",
+        "definition": "A constructive, solution-oriented section that strengthens the essay's conclusion."
+      }
     ]
   },
   {
@@ -66,13 +112,31 @@
           },
           {
             "type": "table",
-            "headers": ["Theme", "Key dimensions & anchors"],
+            "headers": [
+              "Theme",
+              "Key dimensions & anchors"
+            ],
             "rows": [
-              ["**Democracy & governance**", "Participation, accountability, decentralisation; Ambedkar, Preamble values."],
-              ["**Social justice & equality**", "Caste, reservation, affirmative action; Art. 14-17, 46; Phule-Ambedkar."],
-              ["**Women & gender**", "Empowerment, representation (106th Amendment), safety; 'Beti Bachao'."],
-              ["**Identity & unity**", "Federalism, language, regionalism, 'unity in diversity'."],
-              ["**Rights & liberty**", "Freedom of speech, dissent, privacy (Puttaswamy); balancing rights & security."]
+              [
+                "**Democracy & governance**",
+                "Participation, accountability, decentralisation; Ambedkar, Preamble values."
+              ],
+              [
+                "**Social justice & equality**",
+                "Caste, reservation, affirmative action; Art. 14-17, 46; Phule-Ambedkar."
+              ],
+              [
+                "**Women & gender**",
+                "Empowerment, representation (106th Amendment), safety; 'Beti Bachao'."
+              ],
+              [
+                "**Identity & unity**",
+                "Federalism, language, regionalism, 'unity in diversity'."
+              ],
+              [
+                "**Rights & liberty**",
+                "Freedom of speech, dissent, privacy (Puttaswamy); balancing rights & security."
+              ]
             ]
           }
         ]
@@ -95,17 +159,48 @@
             "text": "Exam tip: Anchor socio-political essays in constitutional morality and key thinkers, present the gap between ideal and reality, and conclude with an inclusive, reformist vision."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: socio-political issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Themes**: democracy & electoral reform, federalism & centre-state ties, social justice & reservation, women's political participation (Nari Shakti Vandan), decentralisation/PRIs, secularism & communal harmony, judicial reform, corruption & transparency (RTI), rights of the marginalised.",
+              "**Thinkers/anchors**: Ambedkar (constitutional morality), Gandhi (Gram Swaraj), Nehru, Amartya Sen (development as freedom), the Preamble values (justice-liberty-equality-fraternity).",
+              "**Structure**: define the issue → constitutional/historical roots → current status & data → challenges → reforms/way forward → a values-based conclusion.",
+              "**AP angle**: PRI/mandal system, welfare delivery, women's SHGs."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Ambedkar: 'Political democracy cannot last unless there lies at the base of it social democracy' — a versatile anchor for socio-political essays."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice essays on democracy, social justice, gender, identity and rights with constitutional anchoring.",
       "Build a quote/thinker bank (Gandhi, Ambedkar, Tagore, Nehru) for socio-political themes.",
-      "Localise with AP examples — linguistic reorganisation, social-reform legacy, welfare schemes."
+      "Localise with AP examples — linguistic reorganisation, social-reform legacy, welfare schemes.",
+      "Anchor to **Preamble values + Ambedkar/Gandhi/Sen**.",
+      "Structure: issue → constitutional/historical roots → status → reforms → values conclusion.",
+      "AP angle: **PRIs/mandal system, SHGs, welfare delivery**."
     ],
     "glossary": [
-      {"term": "Constitutional morality", "definition": "Adherence to the values and spirit of the Constitution, a key anchor for socio-political essays."},
-      {"term": "Affirmative action", "definition": "Measures like reservation to remedy historical social disadvantage."},
-      {"term": "Unity in diversity", "definition": "The idea of national cohesion amid India's social, linguistic and religious plurality."}
+      {
+        "term": "Constitutional morality",
+        "definition": "Adherence to the values and spirit of the Constitution, a key anchor for socio-political essays."
+      },
+      {
+        "term": "Affirmative action",
+        "definition": "Measures like reservation to remedy historical social disadvantage."
+      },
+      {
+        "term": "Unity in diversity",
+        "definition": "The idea of national cohesion amid India's social, linguistic and religious plurality."
+      }
     ]
   },
   {
@@ -121,13 +216,31 @@
           },
           {
             "type": "table",
-            "headers": ["Theme", "Key dimensions & anchors"],
+            "headers": [
+              "Theme",
+              "Key dimensions & anchors"
+            ],
             "rows": [
-              ["**Growth vs equity**", "GDP vs HDI; inclusive growth; Amartya Sen's capability approach."],
-              ["**Poverty & inequality**", "MPI, Gini; 'growth is not enough'; welfare vs handouts debate."],
-              ["**Employment & dividend**", "Demographic dividend, jobless growth, skilling, informal sector."],
-              ["**Agrarian & rural**", "Farm distress, MSP, doubling incomes, rural-urban divide."],
-              ["**Development models**", "Market vs state, sustainability, Gandhian trusteeship, AP welfare model."]
+              [
+                "**Growth vs equity**",
+                "GDP vs HDI; inclusive growth; Amartya Sen's capability approach."
+              ],
+              [
+                "**Poverty & inequality**",
+                "MPI, Gini; 'growth is not enough'; welfare vs handouts debate."
+              ],
+              [
+                "**Employment & dividend**",
+                "Demographic dividend, jobless growth, skilling, informal sector."
+              ],
+              [
+                "**Agrarian & rural**",
+                "Farm distress, MSP, doubling incomes, rural-urban divide."
+              ],
+              [
+                "**Development models**",
+                "Market vs state, sustainability, Gandhian trusteeship, AP welfare model."
+              ]
             ]
           }
         ]
@@ -150,17 +263,48 @@
             "text": "Exam tip: Socio-economic essays hinge on the growth-versus-equity debate — argue for inclusive, sustainable development using indices and thinkers, and localise with AP's economy."
           }
         ]
+      },
+      {
+        "heading": "🖋️ Idea-bank: socio-economic issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Themes**: inequality & inclusive growth, poverty & welfare, unemployment & the gig economy, agrarian distress, informal sector & social security, urbanisation, demographic dividend, women in the workforce, education-skilling, health financing.",
+              "**Anchors/data**: HDI/MPI, Gini, PLFS, NFHS; schemes (MGNREGA, PM-KISAN, Ayushman Bharat, DBT/JAM); Sen & Dreze (capabilities), Kuznets curve.",
+              "**Balance**: growth ↔ distribution; market ↔ state; efficiency ↔ equity.",
+              "**AP angle**: 'rice bowl' & aquaculture, welfare-heavy budgets, natural farming, port-led jobs."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "'Growth is not the end but a means to human development' — frame socio-economic essays around **growth WITH equity and dignity**."
+          }
+        ]
       }
     ],
     "mainsAngles": [
       "Practice essays on growth vs equity, poverty, employment and development models.",
       "Anchor with HDI/MPI/Gini data and thinkers (Amartya Sen, Gandhi's Antyodaya).",
-      "Use AP examples — agrarian strengths, welfare-DBT model, post-bifurcation growth."
+      "Use AP examples — agrarian strengths, welfare-DBT model, post-bifurcation growth.",
+      "Frame as **growth WITH equity/dignity**; balance market↔state, efficiency↔equity.",
+      "Data anchors: **HDI/MPI, Gini, PLFS, NFHS**; schemes (MGNREGA, PM-KISAN, DBT).",
+      "AP: aquaculture, natural farming, welfare model, port-led jobs."
     ],
     "glossary": [
-      {"term": "Inclusive growth", "definition": "Economic growth whose benefits reach all sections, especially the disadvantaged."},
-      {"term": "Capability approach", "definition": "Amartya Sen's framework defining development as the expansion of real freedoms."},
-      {"term": "Antyodaya", "definition": "Gandhi's principle of prioritising the upliftment of the poorest person."}
+      {
+        "term": "Inclusive growth",
+        "definition": "Economic growth whose benefits reach all sections, especially the disadvantaged."
+      },
+      {
+        "term": "Capability approach",
+        "definition": "Amartya Sen's framework defining development as the expansion of real freedoms."
+      },
+      {
+        "term": "Antyodaya",
+        "definition": "Gandhi's principle of prioritising the upliftment of the poorest person."
+      }
     ]
   }
 ]
