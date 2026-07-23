@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Kushan contributions", "Content"],
+            "headers": [
+              "Kushan contributions",
+              "Content"
+            ],
             "rows": [
-              ["**Kanishka the Great**", "Greatest Kushan; patron of Mahayana Buddhism; convened the **4th Buddhist Council (Kashmir)** where Mahayana crystallised; capital Purushapura (Peshawar)"],
-              ["**Art**", "**Gandhara school (Greco-Buddhist — Hellenistic realism, first Buddha images)** & **Mathura school (indigenous, red sandstone)** — the birth of Buddha iconography"],
-              ["**Trade & coinage**", "Silk Road hub (India-China-Rome); excellent **gold coins**; Roman-trade boom (the Periplus era)"],
-              ["**Culture**", "Sanskrit-Buddhist scholarship (**Ashvaghosha — Buddhacharita**), Charaka (medicine) at Kanishka's court; cosmopolitan syncretism (Iranian-Greek-Indian deities on coins)"]
+              [
+                "**Kanishka the Great**",
+                "Greatest Kushan; patron of Mahayana Buddhism; convened the **4th Buddhist Council (Kashmir)** where Mahayana crystallised; capital Purushapura (Peshawar)"
+              ],
+              [
+                "**Art**",
+                "**Gandhara school (Greco-Buddhist — Hellenistic realism, first Buddha images)** & **Mathura school (indigenous, red sandstone)** — the birth of Buddha iconography"
+              ],
+              [
+                "**Trade & coinage**",
+                "Silk Road hub (India-China-Rome); excellent **gold coins**; Roman-trade boom (the Periplus era)"
+              ],
+              [
+                "**Culture**",
+                "Sanskrit-Buddhist scholarship (**Ashvaghosha — Buddhacharita**), Charaka (medicine) at Kanishka's court; cosmopolitan syncretism (Iranian-Greek-Indian deities on coins)"
+              ]
             ]
           }
         ]
@@ -38,6 +53,65 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Post-Mauryan northwest] --> B[Indo-Greeks - Menander, gold coins]\n  A --> C[Shakas - Rudradaman, Junagadh Sanskrit]\n  A --> D[Parthians]\n  A --> E[Kushans - Kanishka]\n  E --> F[4th Council - Mahayana]\n  E --> G[Gandhara + Mathura art - first Buddha images]\n  E --> H[Silk Road - Roman trade, gold coinage]\n  B --> I[Cultural synthesis - Indianisation]\n  E --> I"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: Kushans & the three schools of art",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Kanishka's Kushan empire (c. 1st–3rd c. CE) sat astride the **Silk Route**, minting India's first **gold coins**, hosting the **Fourth Buddhist Council** (Kashmir, Mahayana crystallised) and patronising the Gandhara & Mathura schools. The post-Mauryan art schools compared:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "School",
+              "Region & material",
+              "Influence",
+              "Distinctive traits",
+              "Examples"
+            ],
+            "rows": [
+              [
+                "**Gandhara**",
+                "NW frontier; **grey schist / stucco**",
+                "**Greco-Roman (Hellenistic)**",
+                "Realistic, wavy hair, muscular anatomy, thick toga-like drapery; spiritual calm",
+                "Buddhas of Taxila & Peshawar"
+              ],
+              [
+                "**Mathura**",
+                "Ganga–Yamuna doab; **red sandstone**",
+                "**Indigenous** (yaksha tradition)",
+                "Robust, energetic, delighted expression; first Indian-idiom Buddha; also Jain & Hindu images",
+                "Seated Buddha, headless Kanishka statue"
+              ],
+              [
+                "**Amaravati**",
+                "Lower Krishna valley; **white limestone**",
+                "Indigenous, Satavahana/Ikshvaku",
+                "Narrative reliefs on stupa railings; graceful, fluid, often symbolic (aniconic) forms",
+                "Amaravati Mahachaitya reliefs"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[Yuezhi -> Kushans unite tribes] --> B[Kanishka - Silk Route, gold coins]\n  B --> C[Mahayana Buddhism + 4th Council Kashmir]\n  C --> D[Gandhara - Greco-Roman Buddha]\n  C --> E[Mathura - indigenous Buddha]\n  B --> F[Amaravati - narrative stupa art, Deccan]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Kushan contributions**: Silk-Route trade & first **gold coinage** (standardised currency), Mahayana patronage, the **iconic Buddha image** (aniconic → iconic transition), Charaka (medicine) & Ashvaghosha (Buddhacharita) at Kanishka's court.",
+              "**Gandhara vs Mathura**: foreign realism in grey schist vs indigenous vigour in red sandstone — the two simultaneous births of the Buddha image under one empire.",
+              "**Amaravati**: the southern school, narrative and graceful, links directly to Andhra's Satavahana–Ikshvaku Buddhist heritage."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'One empire, three idioms' — under the Kushans/Satavahanas the Buddha image was born thrice: Greco-Roman (Gandhara), Indian (Mathura), narrative-symbolic (Amaravati)."
           }
         ]
       },
@@ -66,7 +140,11 @@
       "Art: **Gandhara (Greco-Buddhist, grey schist, first Buddha images)** & **Mathura (indigenous, red sandstone)**.",
       "Kanishka's court: **Ashvaghosha (Buddhacharita), Nagarjuna, Charaka (medicine), Vasumitra**.",
       "**Silk Road** trade hub; Roman-trade boom (**Periplus of the Erythraean Sea**).",
-      "**78 CE Shaka era** is India's official national calendar (adopted 1957)."
+      "**78 CE Shaka era** is India's official national calendar (adopted 1957).",
+      "**Kanishka** — greatest Kushan; era **78 CE (Saka era)**; capital **Purushapura (Peshawar)**; **4th Buddhist Council** in Kashmir (Vasumitra/Ashvaghosha).",
+      "Kushans minted India's **first gold coins**; court had **Ashvaghosha, Nagarjuna, Charaka, Vasumitra**.",
+      "**Gandhara** = grey schist, Hellenistic; **Mathura** = red sandstone, indigenous; **Amaravati** = white limestone, narrative.",
+      "Mathura produced the **headless standing statue of Kanishka** (inscribed) and the earliest Jain Tirthankara images."
     ],
     "mainsAngles": [
       "The northwest was a permeable frontier of synthesis — analyse the Indianisation of the Central Asian invaders.",
@@ -76,12 +154,30 @@
       "Assimilation, not just conflict, is India's frontier pattern — argue with the post-Mauryan invasions."
     ],
     "glossary": [
-      { "term": "Indo-Greeks", "definition": "Bactrian-Greek kingdoms in the northwest (Menander) — issuers of India's first gold and portrait coins." },
-      { "term": "Kushans", "definition": "The Yuezhi dynasty (Kanishka) bridging Central Asia and India — Silk Road patrons of Mahayana Buddhism." },
-      { "term": "Gandhara school", "definition": "Greco-Buddhist art (grey schist) fusing Hellenistic realism with Buddhist themes — first Buddha images." },
-      { "term": "Mathura school", "definition": "Indigenous red-sandstone sculpture producing early Buddha, Jain and Hindu images." },
-      { "term": "Mahayana", "definition": "The 'greater vehicle' of Buddhism (Bodhisattva ideal, image-worship) crystallised under Kushan patronage." },
-      { "term": "Shaka era", "definition": "The 78 CE calendar (likely Kanishka's accession) — India's official national era." }
+      {
+        "term": "Indo-Greeks",
+        "definition": "Bactrian-Greek kingdoms in the northwest (Menander) — issuers of India's first gold and portrait coins."
+      },
+      {
+        "term": "Kushans",
+        "definition": "The Yuezhi dynasty (Kanishka) bridging Central Asia and India — Silk Road patrons of Mahayana Buddhism."
+      },
+      {
+        "term": "Gandhara school",
+        "definition": "Greco-Buddhist art (grey schist) fusing Hellenistic realism with Buddhist themes — first Buddha images."
+      },
+      {
+        "term": "Mathura school",
+        "definition": "Indigenous red-sandstone sculpture producing early Buddha, Jain and Hindu images."
+      },
+      {
+        "term": "Mahayana",
+        "definition": "The 'greater vehicle' of Buddhism (Bodhisattva ideal, image-worship) crystallised under Kushan patronage."
+      },
+      {
+        "term": "Shaka era",
+        "definition": "The 78 CE calendar (likely Kanishka's accession) — India's official national era."
+      }
     ]
   },
   {
@@ -97,12 +193,27 @@
           },
           {
             "type": "table",
-            "headers": ["Satavahanas (Andhra's founding empire)", "Content"],
+            "headers": [
+              "Satavahanas (Andhra's founding empire)",
+              "Content"
+            ],
             "rows": [
-              ["Rulers & capital", "Founder **Simuka**; greatest — **Gautamiputra Satakarni** (defeated the Shakas — the Nasik prashasti); capitals **Pratishthana (Paithan) & Amaravati/Dharanikota**"],
-              ["Polity & economy", "Restored Brahmanical order + patronised Buddhism; **flourishing Roman trade** (ports, coins); **matronymics** (rulers named after mothers — Gautamiputra, Vasishthiputra — high status of women)"],
-              ["Culture", "**Prakrit patronage (Hala's Gathasaptashati)**, **Amaravati school of art** (the great stupa), Buddhist monasticism; **first Deccan land-grants (to Brahmanas-monks)**"],
-              ["Legacy", "United the Deccan, linked north-south, made Andhra a Buddhist-and-trade heartland — AP's founding imperial identity"]
+              [
+                "Rulers & capital",
+                "Founder **Simuka**; greatest — **Gautamiputra Satakarni** (defeated the Shakas — the Nasik prashasti); capitals **Pratishthana (Paithan) & Amaravati/Dharanikota**"
+              ],
+              [
+                "Polity & economy",
+                "Restored Brahmanical order + patronised Buddhism; **flourishing Roman trade** (ports, coins); **matronymics** (rulers named after mothers — Gautamiputra, Vasishthiputra — high status of women)"
+              ],
+              [
+                "Culture",
+                "**Prakrit patronage (Hala's Gathasaptashati)**, **Amaravati school of art** (the great stupa), Buddhist monasticism; **first Deccan land-grants (to Brahmanas-monks)**"
+              ],
+              [
+                "Legacy",
+                "United the Deccan, linked north-south, made Andhra a Buddhist-and-trade heartland — AP's founding imperial identity"
+              ]
             ]
           }
         ]
@@ -123,6 +234,65 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Southern India 1st BCE - 3rd CE] --> B[Satavahanas - Deccan/Andhra empire]\n  A --> C[Sangam Age - Tamil far south]\n  B --> D[Gautamiputra Satakarni - defeats Shakas]\n  B --> E[Amaravati art, Prakrit, matronymics, land-grants]\n  C --> F[Cheras-Cholas-Pandyas]\n  C --> G[Sangam literature, Roman trade - Arikamedu]\n  D --> H[Indo-Roman commerce boom]\n  G --> H\n  E --> I[Andhra's founding imperial identity]"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: the Sangam Age — society & literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Sangam Age (c. 3rd c. BCE–3rd c. CE) is the classical dawn of the Tamil South, under the **Cheras, Cholas and Pandyas**, its life mirrored in Sangam literature. The framework:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Sangam evidence"
+            ],
+            "rows": [
+              [
+                "**Assemblies (Sangams)**",
+                "Three literary academies at **Madurai**, patronised by the Pandyas"
+              ],
+              [
+                "**Corpus**",
+                "**Tolkappiyam** (grammar), **Ettuthogai** (8 anthologies), **Pattuppattu** (10 idylls); Silappadikaram & Manimekalai (post-Sangam epics)"
+              ],
+              [
+                "**Tinai (eco-zones)**",
+                "Kurinji (hills), Mullai (pasture), Marudam (farmland), Neydal (coast), Palai (arid) — land shapes life & poetry"
+              ],
+              [
+                "**Social classes**",
+                "Arasar (rulers), Anthanar (priests), Vanigar (traders), Vellalar (cultivators)"
+              ],
+              [
+                "**Economy**",
+                "Roman trade (Muziris, Arikamedu; Roman gold & wine for pepper/pearls/muslin); ports & guilds"
+              ],
+              [
+                "**Women**",
+                "Educated poets (Avvaiyar); freedom in life, but harsh widowhood & sati among elites"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Three Sangams at Madurai - Pandya patronage] --> B[Tolkappiyam + Ettuthogai + Pattuppattu]\n  B --> C[Picture of Chera/Chola/Pandya polity]\n  B --> D[Tinai eco-zones & social classes]\n  D --> E[Roman maritime trade - Arikamedu]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Satavahana link**: the Deccan Satavahanas (1st c. BCE–3rd c. CE) bridge north and south — Prakrit Gathasaptasati (Hala), Amaravati art, and the first tax-free land grants.",
+              "**Sangam polity**: crowned kings (vendhar) and chieftains (velir); war, plunder and gift-giving (kodai) redistributed wealth.",
+              "**Significance**: Sangam texts are contemporary, secular sources — our richest window onto early South Indian society and its Indo-Roman commerce."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: use the **tinai** (five eco-zones) to show that Sangam society was read through its landscape — the earliest 'geography-shapes-society' model in Indian literature."
           }
         ]
       },
@@ -151,7 +321,11 @@
       "Sangam three kingdoms: **Cheras (Kerala), Cholas (Kaveri - Karikala), Pandyas (Madurai)**.",
       "**Sangam literature**: Ettuthogai, Pattuppattu, **Tolkappiyam** (grammar); themes **akam (love)-puram (war)**.",
       "**Arikamedu (near Pondicherry)** & **Muziris** — Indo-Roman trade ports; Roman coins-amphorae found.",
-      "The **'Andarae' (Andhras)** mentioned by Megasthenes/Pliny — Andhra enters recorded history."
+      "The **'Andarae' (Andhras)** mentioned by Megasthenes/Pliny — Andhra enters recorded history.",
+      "**Three Sangams** at Madurai under the **Pandyas**; **Tolkappiyam** = oldest Tamil grammar.",
+      "Sangam kingdoms & emblems: **Chera (bow), Chola (tiger), Pandya (fish)**; port **Muziris/Arikamedu** for Roman trade.",
+      "Sangam classics: **Ettuthogai** (8 anthologies), **Pattuppattu** (10 idylls); epics **Silappadikaram** (Ilango Adigal) & **Manimekalai**.",
+      "Five **tinais**: Kurinji, Mullai, Marudam, Neydal, Palai; poet **Avvaiyar**."
     ],
     "mainsAngles": [
       "The Satavahanas founded Andhra's imperial identity — evaluate their polity, trade and cultural legacy.",
@@ -161,12 +335,30 @@
       "Matronymic queens signal women's status — analyse Satavahana society through its naming and land-grants."
     ],
     "glossary": [
-      { "term": "Satavahanas", "definition": "The first great Deccan/Andhra empire (~1st c. BCE-3rd c. CE) — Prakrit-patronising, Buddhist-and-Brahmanical, trade-rich." },
-      { "term": "Matronymic", "definition": "Naming after the mother (Gautamiputra) — a Satavahana practice signalling women's high status." },
-      { "term": "Sangam Age", "definition": "The classical Tamil era (~3rd c. BCE-3rd c. CE) of the Chera-Chola-Pandya kingdoms and Sangam literature." },
-      { "term": "Amaravati school", "definition": "The Satavahana-era Andhra art tradition centred on the Great Stupa — narrative Buddhist relief sculpture." },
-      { "term": "Land grant", "definition": "Royal donation of revenue-yielding land (to Brahmanas/monks) — pioneered in the Deccan by the Satavahanas." },
-      { "term": "Arikamedu", "definition": "The Indo-Roman trading port near Pondicherry — evidence of Sangam-era world commerce." }
+      {
+        "term": "Satavahanas",
+        "definition": "The first great Deccan/Andhra empire (~1st c. BCE-3rd c. CE) — Prakrit-patronising, Buddhist-and-Brahmanical, trade-rich."
+      },
+      {
+        "term": "Matronymic",
+        "definition": "Naming after the mother (Gautamiputra) — a Satavahana practice signalling women's high status."
+      },
+      {
+        "term": "Sangam Age",
+        "definition": "The classical Tamil era (~3rd c. BCE-3rd c. CE) of the Chera-Chola-Pandya kingdoms and Sangam literature."
+      },
+      {
+        "term": "Amaravati school",
+        "definition": "The Satavahana-era Andhra art tradition centred on the Great Stupa — narrative Buddhist relief sculpture."
+      },
+      {
+        "term": "Land grant",
+        "definition": "Royal donation of revenue-yielding land (to Brahmanas/monks) — pioneered in the Deccan by the Satavahanas."
+      },
+      {
+        "term": "Arikamedu",
+        "definition": "The Indo-Roman trading port near Pondicherry — evidence of Sangam-era world commerce."
+      }
     ]
   },
   {
@@ -178,11 +370,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Dynasty", "Period & note", "Contribution"],
+            "headers": [
+              "Dynasty",
+              "Period & note",
+              "Contribution"
+            ],
             "rows": [
-              ["**Sungas**", "185-73 BCE; Pushyamitra Shunga (Brahmanical revival)", "**Bharhut stupa, Sanchi railings-gateways** (early Buddhist art despite Brahmanical rulers); Patanjali's Mahabhashya"],
-              ["**Guptas**", "~319-550 CE; the 'classical/golden age'", "Detailed below — the peak of ancient Indian civilisation"],
-              ["**Harsha of Kanauj**", "606-647 CE; Vardhana dynasty; last great ancient north-Indian king", "Patron of learning (Nalanda), literature (**Harshacharita by Banabhatta; Harsha's own plays**); Xuanzang's visit; Kanauj the new power-centre"]
+              [
+                "**Sungas**",
+                "185-73 BCE; Pushyamitra Shunga (Brahmanical revival)",
+                "**Bharhut stupa, Sanchi railings-gateways** (early Buddhist art despite Brahmanical rulers); Patanjali's Mahabhashya"
+              ],
+              [
+                "**Guptas**",
+                "~319-550 CE; the 'classical/golden age'",
+                "Detailed below — the peak of ancient Indian civilisation"
+              ],
+              [
+                "**Harsha of Kanauj**",
+                "606-647 CE; Vardhana dynasty; last great ancient north-Indian king",
+                "Patron of learning (Nalanda), literature (**Harshacharita by Banabhatta; Harsha's own plays**); Xuanzang's visit; Kanauj the new power-centre"
+              ]
             ]
           },
           {
@@ -211,6 +419,61 @@
         ]
       },
       {
+        "heading": "📊 Integrated deep-dive: the Gupta 'Golden Age'",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "After the Sunga interlude, the Guptas (c. 320–550 CE) presided over a classical flowering in polity, art, science and letters. Why 'golden age' — read across domains:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Domain",
+              "Gupta achievement"
+            ],
+            "rows": [
+              [
+                "**Polity**",
+                "Decentralised, feudatory-based; **Samanta** system; provinces (Bhukti) → districts (Vishaya) → villages; lighter, less bureaucratic than Maurya"
+              ],
+              [
+                "**Numismatics**",
+                "Finest **gold coins (dinaras)** with royal & deity motifs; Samudragupta as vina-player"
+              ],
+              [
+                "**Science**",
+                "**Aryabhata** (zero, place value, heliocentric hints), **Varahamihira** (Brihatsamhita), **Brahmagupta**; Sushruta/Charaka medicine; rust-free **Mehrauli iron pillar**"
+              ],
+              [
+                "**Literature**",
+                "**Kalidasa** (Abhijnanashakuntalam, Meghaduta); Sanskrit as court language; Puranas & Smritis compiled"
+              ],
+              [
+                "**Art & architecture**",
+                "**Nagara temple** origins (Dashavatara, Deogarh); **Ajanta** murals; Sarnath Buddha; Udayagiri caves"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Chandragupta I - Gupta era 320 CE] --> B[Samudragupta - conquests, Allahabad Prashasti]\n  B --> C[Chandragupta II Vikramaditya - Ujjain, Fa-Hien]\n  C --> D[Golden Age - Kalidasa, Aryabhata, Nagara temples]\n  D --> E[Hun invasions + feudalisation -> decline]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Sunga interlude**: Pushyamitra Sunga (185 BCE) after Brihadratha; Bharhut & Sanchi railings/toranas; Brahmanical revival with Buddhist patronage continuing.",
+              "**Gupta society**: Brahmanical resurgence, rise of land grants (agrahara) and feudal tendencies; **Fa-Hien** records a prosperous, mild administration.",
+              "**Decline**: Huna invasions (Toramana, Mihirakula), overextended feudatories and a shrinking gold economy ended the classical age."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: justify 'Golden Age' with a fact from each domain — Kalidasa (letters), Aryabhata (science), Nagara temples (art), dinaras (economy) — but note it was elite, Brahmanical and feudalising."
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -235,7 +498,11 @@
       "**Kalidasa** — Abhijnanasakuntalam, Meghaduta; the Gupta 'navaratnas'.",
       "Art: **Ajanta paintings, Sarnath Buddha, Nagara temples (Deogarh), Mehrauli Iron Pillar** (rust-free).",
       "Gupta decline: **Huna invasions (Toramana, Mihirakula) + feudatory decentralisation**.",
-      "**Harsha of Kanauj (606-647)** — Banabhatta's Harshacharita; Xuanzang's visit; **Vishnukundins** ruled contemporary Andhra."
+      "**Harsha of Kanauj (606-647)** — Banabhatta's Harshacharita; Xuanzang's visit; **Vishnukundins** ruled contemporary Andhra.",
+      "**Gupta era = 319–20 CE** (Chandragupta I); **Samudragupta** — Allahabad Pillar (Harishena); **Chandragupta II Vikramaditya** — Ujjain, Fa-Hien's visit.",
+      "**Aryabhata** (Aryabhatiya — zero, decimal place value), **Varahamihira**, **Brahmagupta**; **Mehrauli iron pillar** (rust-free metallurgy).",
+      "**Kalidasa** at Chandragupta II's court; **Nalanda** flourished; **Nagara** temple style emerges (Deogarh Dashavatara).",
+      "Decline: **Huna** rulers **Toramana & Mihirakula**; feudal fragmentation."
     ],
     "mainsAngles": [
       "Golden for whom? Evaluate the Gupta age's cultural peak against its social regression.",
@@ -245,12 +512,30 @@
       "Harsha was the last great ancient northern king — analyse his reign as the era's close."
     ],
     "glossary": [
-      { "term": "Prayag Prashasti", "definition": "Harishena's Allahabad-pillar eulogy of Samudragupta — the key Gupta epigraphic source." },
-      { "term": "Golden Age (Gupta)", "definition": "The classical peak of ancient Indian science, Sanskrit literature and art (~319-550 CE)." },
-      { "term": "Nagara style", "definition": "The north-Indian temple architecture (curvilinear shikhara) whose beginnings are Gupta (Deogarh)." },
-      { "term": "Samanta", "definition": "A subordinate feudatory chief — the decentralised building-block of the Gupta and post-Gupta polity." },
-      { "term": "Navaratnas", "definition": "The 'nine gems' of scholars traditionally placed at Vikramaditya's court, including Kalidasa." },
-      { "term": "Iron Pillar", "definition": "The Mehrauli (Delhi) rust-resistant iron column — a marvel of Gupta-era metallurgy." }
+      {
+        "term": "Prayag Prashasti",
+        "definition": "Harishena's Allahabad-pillar eulogy of Samudragupta — the key Gupta epigraphic source."
+      },
+      {
+        "term": "Golden Age (Gupta)",
+        "definition": "The classical peak of ancient Indian science, Sanskrit literature and art (~319-550 CE)."
+      },
+      {
+        "term": "Nagara style",
+        "definition": "The north-Indian temple architecture (curvilinear shikhara) whose beginnings are Gupta (Deogarh)."
+      },
+      {
+        "term": "Samanta",
+        "definition": "A subordinate feudatory chief — the decentralised building-block of the Gupta and post-Gupta polity."
+      },
+      {
+        "term": "Navaratnas",
+        "definition": "The 'nine gems' of scholars traditionally placed at Vikramaditya's court, including Kalidasa."
+      },
+      {
+        "term": "Iron Pillar",
+        "definition": "The Mehrauli (Delhi) rust-resistant iron column — a marvel of Gupta-era metallurgy."
+      }
     ]
   },
   {
@@ -262,15 +547,47 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Traveller", "When & whose court", "Account & value"],
+            "headers": [
+              "Traveller",
+              "When & whose court",
+              "Account & value"
+            ],
             "rows": [
-              ["**Megasthenes** (Greek)", "~300 BCE; Chandragupta Maurya", "**Indica** — Mauryan administration, Pataliputra, the seven-caste description (partly garbled)"],
-              ["**Fa-Hien (Faxian)** (Chinese)", "~405-411 CE; Chandragupta II", "Buddhist pilgrim; benign picture of Gupta society, prosperity, mild governance"],
-              ["**Xuanzang (Hiuen Tsang)** (Chinese)", "~630-644 CE; Harsha", "**'Prince of Pilgrims'**; Si-yu-ki — detailed Nalanda, Harsha's reign, Buddhism's state; studied at Nalanda"],
-              ["**Al-Biruni** (Persian/Central Asian)", "~1030 CE; with Mahmud of Ghazni", "**Kitab-ul-Hind (Tahqiq-i-Hind)** — scholarly, sympathetic study of Indian science, religion, society; learnt Sanskrit"],
-              ["**Ibn Battuta** (Moroccan)", "~1333-47 CE; Muhammad bin Tughlaq", "**Rihla** — Delhi Sultanate administration, society, the postal system; qazi and traveller"],
-              ["**Abdur Razzaq** (Persian)", "~1443 CE; Vijayanagara (Devaraya II)", "Vivid account of **Vijayanagara's splendour** — the AP-relevant one"],
-              ["**Domingo Paes & Nuniz** (Portuguese)", "~1520s; Vijayanagara (Krishnadevaraya)", "**Vijayanagara at its peak** — Hampi's magnificence (the AP-Karnataka empire)"]
+              [
+                "**Megasthenes** (Greek)",
+                "~300 BCE; Chandragupta Maurya",
+                "**Indica** — Mauryan administration, Pataliputra, the seven-caste description (partly garbled)"
+              ],
+              [
+                "**Fa-Hien (Faxian)** (Chinese)",
+                "~405-411 CE; Chandragupta II",
+                "Buddhist pilgrim; benign picture of Gupta society, prosperity, mild governance"
+              ],
+              [
+                "**Xuanzang (Hiuen Tsang)** (Chinese)",
+                "~630-644 CE; Harsha",
+                "**'Prince of Pilgrims'**; Si-yu-ki — detailed Nalanda, Harsha's reign, Buddhism's state; studied at Nalanda"
+              ],
+              [
+                "**Al-Biruni** (Persian/Central Asian)",
+                "~1030 CE; with Mahmud of Ghazni",
+                "**Kitab-ul-Hind (Tahqiq-i-Hind)** — scholarly, sympathetic study of Indian science, religion, society; learnt Sanskrit"
+              ],
+              [
+                "**Ibn Battuta** (Moroccan)",
+                "~1333-47 CE; Muhammad bin Tughlaq",
+                "**Rihla** — Delhi Sultanate administration, society, the postal system; qazi and traveller"
+              ],
+              [
+                "**Abdur Razzaq** (Persian)",
+                "~1443 CE; Vijayanagara (Devaraya II)",
+                "Vivid account of **Vijayanagara's splendour** — the AP-relevant one"
+              ],
+              [
+                "**Domingo Paes & Nuniz** (Portuguese)",
+                "~1520s; Vijayanagara (Krishnadevaraya)",
+                "**Vijayanagara at its peak** — Hampi's magnificence (the AP-Karnataka empire)"
+              ]
             ]
           }
         ]
@@ -291,6 +608,78 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Foreign travellers] --> B[Megasthenes - Mauryas]\n  A --> C[Fa-Hien and Xuanzang - Guptas and Harsha]\n  A --> D[Al-Biruni and Ibn Battuta - Ghazni and Sultanate]\n  A --> E[Razzaq-Paes-Nuniz - Vijayanagara]\n  B --> F[External contemporaneous evidence]\n  C --> F\n  D --> F\n  E --> G[Rich eyewitness of Hampi - AP relevance]\n  F --> H[Use critically - corroborate, weigh bias]\n  G --> H"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: history through foreign eyes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Foreign accounts supply chronology and colour that Indian sources omit. The essential travellers:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Traveller",
+              "Origin / period",
+              "Came during",
+              "Work / contribution"
+            ],
+            "rows": [
+              [
+                "**Megasthenes**",
+                "Greek, ~300 BCE",
+                "Chandragupta Maurya",
+                "**Indica** — Pataliputra, 7-caste society, administration"
+              ],
+              [
+                "**Fa-Hien**",
+                "Chinese, ~405–411 CE",
+                "Chandragupta II",
+                "Buddhist sites; a prosperous, mild Gupta polity"
+              ],
+              [
+                "**Hiuen-Tsang**",
+                "Chinese, 630–645 CE",
+                "Harshavardhana",
+                "**Si-Yu-Ki**; Nalanda (10,000 students); Harsha's welfare rule"
+              ],
+              [
+                "**I-Tsing**",
+                "Chinese, ~671–695 CE",
+                "Post-Harsha",
+                "Monastic discipline & education at Nalanda"
+              ],
+              [
+                "**Al-Biruni**",
+                "Central Asian, ~1030 CE",
+                "With Mahmud of Ghazni",
+                "**Kitab-ul-Hind** — Indian sciences, religion, society"
+              ],
+              [
+                "**Marco Polo**",
+                "Venetian, ~1290s",
+                "Pandya South",
+                "South Indian trade & Coromandel ports"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[Megasthenes - Mauryan] --> B[Fa-Hien - Gupta]\n  B --> C[Hiuen-Tsang & I-Tsing - Harsha/Nalanda]\n  C --> D[Al-Biruni - Ghaznavid]\n  D --> E[Marco Polo - Pandya South]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Value**: they date reigns, describe administration, trade and religion, and — as outsiders — record the everyday that insiders assumed; the Silk Route and Indian Ocean carried them.",
+              "**Caution**: each viewed India through his own faith and purpose (pilgrims stress Buddhism; envoys stress statecraft) — corroborate against inscriptions and coins."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: pair each traveller with 'his' emperor — Megasthenes–Chandragupta Maurya, Fa-Hien–Chandragupta II, Hiuen-Tsang–Harsha, Al-Biruni–Mahmud — the single most examined mapping."
           }
         ]
       },
@@ -319,7 +708,11 @@
       "**Abdur Razzaq** (Persian, 1443) & **Nicolo Conti** (Italian) — **Vijayanagara** accounts.",
       "**Domingo Paes & Fernao Nuniz** (Portuguese) — **Vijayanagara under Krishnadevaraya** (peak).",
       "**Marco Polo** (13th c.) — Pandya coast; **I-tsing** (7th c.) — Buddhist pilgrim.",
-      "Use critically: each carries **observer bias, religious lens, hearsay** — corroborate with archaeology."
+      "Use critically: each carries **observer bias, religious lens, hearsay** — corroborate with archaeology.",
+      "**Megasthenes** (Indica) — Chandragupta Maurya; **Deimachus** — Bindusara.",
+      "**Fa-Hien** — Chandragupta II; **Hiuen-Tsang** ('Prince of Pilgrims', Si-Yu-Ki) — Harsha; **I-Tsing** — Nalanda.",
+      "**Al-Biruni** (Kitab-ul-Hind) came with **Mahmud of Ghazni**; **Marco Polo** visited the **Pandya** country.",
+      "Hiuen-Tsang studied at **Nalanda** under Silabhadra; Harsha sent an embassy to Tang China (641 CE)."
     ],
     "mainsAngles": [
       "External eyes see what court records omit — assess foreign travellers as historical sources.",
@@ -329,12 +722,30 @@
       "The Chinese pilgrims saw India through a Buddhist lens — weigh Fa-Hien and Xuanzang accordingly."
     ],
     "glossary": [
-      { "term": "Indica", "definition": "Megasthenes' Greek account of Mauryan India — the earliest major foreign source, partly garbled." },
-      { "term": "Si-yu-ki", "definition": "Xuanzang's 'Records of the Western Regions' — the detailed 7th-century account of Harsha's India and Nalanda." },
-      { "term": "Kitab-ul-Hind", "definition": "Al-Biruni's scholarly 11th-century study of Indian science, religion and society." },
-      { "term": "Rihla", "definition": "Ibn Battuta's 14th-century travelogue documenting the Delhi Sultanate under Tughlaq." },
-      { "term": "Corroboration", "definition": "Cross-checking foreign accounts against archaeology and indigenous sources — the historian's critical method." },
-      { "term": "Vijayanagara accounts", "definition": "The eyewitness records (Razzaq, Conti, Paes, Nuniz) of the Deccan empire's splendour — key AP-region sources." }
+      {
+        "term": "Indica",
+        "definition": "Megasthenes' Greek account of Mauryan India — the earliest major foreign source, partly garbled."
+      },
+      {
+        "term": "Si-yu-ki",
+        "definition": "Xuanzang's 'Records of the Western Regions' — the detailed 7th-century account of Harsha's India and Nalanda."
+      },
+      {
+        "term": "Kitab-ul-Hind",
+        "definition": "Al-Biruni's scholarly 11th-century study of Indian science, religion and society."
+      },
+      {
+        "term": "Rihla",
+        "definition": "Ibn Battuta's 14th-century travelogue documenting the Delhi Sultanate under Tughlaq."
+      },
+      {
+        "term": "Corroboration",
+        "definition": "Cross-checking foreign accounts against archaeology and indigenous sources — the historian's critical method."
+      },
+      {
+        "term": "Vijayanagara accounts",
+        "definition": "The eyewitness records (Razzaq, Conti, Paes, Nuniz) of the Deccan empire's splendour — key AP-region sources."
+      }
     ]
   },
   {
@@ -346,14 +757,35 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Institution/system", "Content"],
+            "headers": [
+              "Institution/system",
+              "Content"
+            ],
             "rows": [
-              ["**Gurukula (Vedic)**", "Residential, guru-shishya, oral transmission of the Vedas; the foundational Brahmanical system; upanayana as initiation"],
-              ["**Buddhist viharas/monasteries**", "Monastic learning centres attached to sanghas — the seedbed of the great universities"],
-              ["**Nalanda (Bihar, ~5th c. CE)**", "The world's first **residential university** — Gupta-founded, Harsha-and-Pala-patronised; ~10,000 students, ~1,500 teachers; Buddhist + secular (logic, medicine, grammar, astronomy); the great library **Dharmaganja** ('Ratnasagara'); destroyed by **Bakhtiyar Khilji (~1193)**"],
-              ["**Vikramshila, Odantapuri (Bihar)**", "Pala-era universities; tantric Buddhism, logic; Atisha Dipankara taught here"],
-              ["**Takshashila (Taxila, ~6th c. BCE)**", "The ancient northwest centre (Panini, Chanakya, Charaka studied/taught); pre-university, teacher-centred"],
-              ["**Valabhi (Gujarat), Kanchipuram, Nagarjunakonda (AP), Pushpagiri (AP)**", "Regional centres — **Nagarjunakonda & Pushpagiri (Odisha-AP border/Kadapa) were Buddhist learning hubs; Nagarjuna's association**"]
+              [
+                "**Gurukula (Vedic)**",
+                "Residential, guru-shishya, oral transmission of the Vedas; the foundational Brahmanical system; upanayana as initiation"
+              ],
+              [
+                "**Buddhist viharas/monasteries**",
+                "Monastic learning centres attached to sanghas — the seedbed of the great universities"
+              ],
+              [
+                "**Nalanda (Bihar, ~5th c. CE)**",
+                "The world's first **residential university** — Gupta-founded, Harsha-and-Pala-patronised; ~10,000 students, ~1,500 teachers; Buddhist + secular (logic, medicine, grammar, astronomy); the great library **Dharmaganja** ('Ratnasagara'); destroyed by **Bakhtiyar Khilji (~1193)**"
+              ],
+              [
+                "**Vikramshila, Odantapuri (Bihar)**",
+                "Pala-era universities; tantric Buddhism, logic; Atisha Dipankara taught here"
+              ],
+              [
+                "**Takshashila (Taxila, ~6th c. BCE)**",
+                "The ancient northwest centre (Panini, Chanakya, Charaka studied/taught); pre-university, teacher-centred"
+              ],
+              [
+                "**Valabhi (Gujarat), Kanchipuram, Nagarjunakonda (AP), Pushpagiri (AP)**",
+                "Regional centres — **Nagarjunakonda & Pushpagiri (Odisha-AP border/Kadapa) were Buddhist learning hubs; Nagarjuna's association**"
+              ]
             ]
           }
         ]
@@ -374,6 +806,67 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Ancient education] --> B[Gurukula - Vedic residential]\n  A --> C[Buddhist viharas]\n  C --> D[Universities: Nalanda, Vikramshila, Valabhi]\n  A --> E[Takshashila - northwest centre]\n  D --> F[Cosmopolitan, multidisciplinary, debate]\n  B --> G[Restricted by varna-gender]\n  D --> H[Destroyed by Turkic invasions - Nalanda ~1193]\n  A --> I[AP: Nagarjunakonda, Pushpagiri]"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: ancient India's learning system",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Education ran from the **Gurukula** to great residential **mahaviharas**. The major centres:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Institution",
+              "Location / patrons",
+              "Known for"
+            ],
+            "rows": [
+              [
+                "**Takshashila (Taxila)**",
+                "NW; pre-Buddhist",
+                "Medicine, the Vedas, arms; Panini, Chanakya, Charaka studied here"
+              ],
+              [
+                "**Nalanda**",
+                "Bihar; Gupta & Harsha",
+                "Residential Mahayana university; 10,000 students; logic, philosophy, medicine; Hiuen-Tsang & I-Tsing"
+              ],
+              [
+                "**Vikramashila**",
+                "Bihar; Pala (Dharmapala)",
+                "Tantra & Buddhist logic; Atisha Dipankara"
+              ],
+              [
+                "**Vallabhi**",
+                "Gujarat; Maitrakas",
+                "Hinayana Buddhism, secular subjects; rivalled Nalanda"
+              ],
+              [
+                "**Kanchipuram / Ujjain**",
+                "South / Malwa",
+                "Sanskrit learning, astronomy (Varahamihira at Ujjain)"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Gurukula - guru's home, oral Shruti] --> B[Temple & matha schools]\n  B --> C[Takshashila - early hub]\n  C --> D[Nalanda / Vikramashila / Vallabhi - residential universities]\n  D --> E[Destroyed by invasions - Bakhtiyar Khilji sacks Nalanda c.1193]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Method**: oral memorisation (Shruti), debate (shastrartha), the guru-shishya bond; residential monastic universities added structured curricula, libraries (Nalanda's Dharmaganja) and admission by debate.",
+              "**Subjects**: Vedas, grammar, logic, philosophy, medicine (Ayurveda), astronomy, mathematics, law and the arts.",
+              "**Decline**: withdrawal of royal patronage and the Turkish invasions — **Bakhtiyar Khilji's sack of Nalanda (c. 1193)** — extinguished the great universities."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: contrast the informal **Gurukula** with the institutional **Nalanda/Vikramashila** — India pioneered residential universities centuries before Europe, funded by land grants and admission by debate."
           }
         ]
       },
@@ -402,7 +895,11 @@
       "**Valabhi (Gujarat), Kanchipuram, Nagarjunakonda (AP), Pushpagiri** — regional learning centres.",
       "System: **gurukula (Vedic residential), viharas (Buddhist monastic)**; foreign students at Nalanda from China-Tibet-Korea.",
       "Sources: **Xuanzang & I-tsing** described Nalanda; **Nalanda revived (2010 Act; university 2014)**.",
-      "**Nagarjunakonda** — Ikshvaku Buddhist university-city; **Pushpagiri (Kadapa region)** — Andhra's ancient centres."
+      "**Nagarjunakonda** — Ikshvaku Buddhist university-city; **Pushpagiri (Kadapa region)** — Andhra's ancient centres.",
+      "**Takshashila** — earliest centre (Panini, Chanakya, Charaka, Jivaka); **Nalanda** founded under **Kumaragupta I**, patronised by Harsha & the Palas.",
+      "**Vikramashila** & **Odantapuri** — Pala foundations; **Vallabhi** — Maitraka Gujarat; **Atisha Dipankara** from Vikramashila to Tibet.",
+      "Nalanda's head **Silabhadra** taught **Hiuen-Tsang**; library **Dharmaganja** (Ratnasagara, Ratnadadhi, Ratnaranjaka).",
+      "**Bakhtiyar Khilji** destroyed Nalanda **c. 1193**."
     ],
     "mainsAngles": [
       "Nalanda was the world's first residential university — evaluate ancient India's higher-learning achievement.",
@@ -412,12 +909,30 @@
       "Nagarjunakonda and Pushpagiri were Andhra's ancient academies — evaluate AP's educational heritage."
     ],
     "glossary": [
-      { "term": "Gurukula", "definition": "The Vedic residential teacher-pupil system of oral instruction — ancient India's foundational education." },
-      { "term": "Vihara", "definition": "A Buddhist monastery that doubled as a learning centre — the seedbed of the great universities." },
-      { "term": "Nalanda", "definition": "The world's first residential university (~5th c. CE) — cosmopolitan, multidisciplinary, destroyed ~1193." },
-      { "term": "Takshashila", "definition": "The ancient northwest centre of learning (Panini, Chanakya) — teacher-centred rather than institutional." },
-      { "term": "Shastrartha", "definition": "The scholarly debate tradition central to ancient Indian learning and merit." },
-      { "term": "Nagarjunakonda", "definition": "The Andhra Buddhist university-city of the Ikshvaku era — the state's ancient learning centre." }
+      {
+        "term": "Gurukula",
+        "definition": "The Vedic residential teacher-pupil system of oral instruction — ancient India's foundational education."
+      },
+      {
+        "term": "Vihara",
+        "definition": "A Buddhist monastery that doubled as a learning centre — the seedbed of the great universities."
+      },
+      {
+        "term": "Nalanda",
+        "definition": "The world's first residential university (~5th c. CE) — cosmopolitan, multidisciplinary, destroyed ~1193."
+      },
+      {
+        "term": "Takshashila",
+        "definition": "The ancient northwest centre of learning (Panini, Chanakya) — teacher-centred rather than institutional."
+      },
+      {
+        "term": "Shastrartha",
+        "definition": "The scholarly debate tradition central to ancient Indian learning and merit."
+      },
+      {
+        "term": "Nagarjunakonda",
+        "definition": "The Andhra Buddhist university-city of the Ikshvaku era — the state's ancient learning centre."
+      }
     ]
   }
 ]

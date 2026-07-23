@@ -12,14 +12,52 @@
           },
           {
             "type": "table",
-            "headers": ["Feature", "Detail"],
+            "headers": [
+              "Feature",
+              "Detail"
+            ],
             "rows": [
-              ["**Grid pattern**", "Streets cut at **right angles (N-S / E-W)**; blocks of houses; the earliest 'town planning'."],
-              ["**Citadel + Lower town**", "Raised **citadel** (west) for public/ritual buildings; **lower town** (east) residential; fortified."],
-              ["**Bricks**", "**Standardised burnt bricks** in a fixed **4:2:1 ratio**; kiln-fired (unlike contemporaries)."],
-              ["**Drainage**", "**Covered drains** along streets, house drains connected to street drains, soak-pits, manholes — the finest of the ancient world."],
-              ["**Great Bath (Mohenjodaro)**", "Watertight tank (gypsum mortar, bitumen lining); likely ritual bathing."],
-              ["**Granaries**", "Large brick granaries at Harappa & Mohenjodaro — state storage."]
+              [
+                "**Grid pattern**",
+                "Streets cut at **right angles (N-S / E-W)**; blocks of houses; the earliest 'town planning'."
+              ],
+              [
+                "**Citadel + Lower town**",
+                "Raised **citadel** (west) for public/ritual buildings; **lower town** (east) residential; fortified."
+              ],
+              [
+                "**Bricks**",
+                "**Standardised burnt bricks** in a fixed **4:2:1 ratio**; kiln-fired (unlike contemporaries)."
+              ],
+              [
+                "**Drainage**",
+                "**Covered drains** along streets, house drains connected to street drains, soak-pits, manholes — the finest of the ancient world."
+              ],
+              [
+                "**Great Bath (Mohenjodaro)**",
+                "Watertight tank (gypsum mortar, bitumen lining); likely ritual bathing."
+              ],
+              [
+                "**Granaries**",
+                "Large brick granaries at Harappa & Mohenjodaro — state storage."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Harappan town-planning flow",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[Grid streets, right angles] --> B[Citadel + Lower town]\n  B --> C[Burnt bricks 1:2:4]\n  C --> D[Covered drains + soak pits]\n  D --> E[Great Bath, granary, Lothal dockyard]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Uniform **burnt-brick ratio 1:2:4** and a covered **drainage system** are the two most-tested planning facts.",
+              "The **Great Bath** (Mohenjo-daro) = ritual bathing; **granaries** = surplus storage; **no temples/palaces** identified."
             ]
           }
         ]
@@ -45,15 +83,26 @@
       "**Citadel (west, raised)** + **Lower Town (east, residential)** layout.",
       "**Granaries** — Harappa (near citadel) & Mohenjodaro — state grain storage.",
       "Dockyard at **Lothal**; 'Lower Town' with warehouses; no clearly identified temples/palaces.",
-      "Fortifications & the 'Great Granary' show a strong central civic authority."
+      "Fortifications & the 'Great Granary' show a strong central civic authority.",
+      "Grid pattern = **chessboard** layout; houses had private wells & bathrooms.",
+      "Dholavira uniquely shows a **three-part** city and elaborate **water reservoirs**."
     ],
     "mainsAngles": [
       "Discuss the town planning of the Indus Valley Civilisation as evidence of civic organisation."
     ],
     "glossary": [
-      {"term": "Citadel", "definition": "The raised, fortified western mound of a Harappan city housing public and ritual structures."},
-      {"term": "Great Bath", "definition": "A large watertight tank at Mohenjodaro, probably used for ritual bathing."},
-      {"term": "Grid pattern", "definition": "The right-angled street layout of Harappan cities — the earliest systematic town planning."}
+      {
+        "term": "Citadel",
+        "definition": "The raised, fortified western mound of a Harappan city housing public and ritual structures."
+      },
+      {
+        "term": "Great Bath",
+        "definition": "A large watertight tank at Mohenjodaro, probably used for ritual bathing."
+      },
+      {
+        "term": "Grid pattern",
+        "definition": "The right-angled street layout of Harappan cities — the earliest systematic town planning."
+      }
     ]
   },
   {
@@ -69,14 +118,35 @@
           },
           {
             "type": "table",
-            "headers": ["Sphere", "Detail"],
+            "headers": [
+              "Sphere",
+              "Detail"
+            ],
             "rows": [
-              ["**Agriculture**", "Wheat, barley, peas, sesame, mustard, cotton (**first to grow cotton — 'Sindon'**); ploughed fields at Kalibangan."],
-              ["**Domestication**", "Humped cattle, buffalo, sheep, goat; **no conclusive evidence of the horse**."],
-              ["**Crafts**", "Bead-making (Chanhudaro, Lothal), shell, metallurgy (bronze — copper+tin), pottery (red-black)."],
-              ["**Weights & measures**", "**Binary then decimal** system (16 and multiples); standardised cubical chert weights."],
-              ["**Trade**", "Extensive; **Mesopotamian trade** (Indus = 'Meluhha'); intermediaries **Dilmun (Bahrain) & Magan (Oman)**."],
-              ["**Seals**", "**Steatite seals** (~2000 found) used in trade; Persian Gulf seals abroad."]
+              [
+                "**Agriculture**",
+                "Wheat, barley, peas, sesame, mustard, cotton (**first to grow cotton — 'Sindon'**); ploughed fields at Kalibangan."
+              ],
+              [
+                "**Domestication**",
+                "Humped cattle, buffalo, sheep, goat; **no conclusive evidence of the horse**."
+              ],
+              [
+                "**Crafts**",
+                "Bead-making (Chanhudaro, Lothal), shell, metallurgy (bronze — copper+tin), pottery (red-black)."
+              ],
+              [
+                "**Weights & measures**",
+                "**Binary then decimal** system (16 and multiples); standardised cubical chert weights."
+              ],
+              [
+                "**Trade**",
+                "Extensive; **Mesopotamian trade** (Indus = 'Meluhha'); intermediaries **Dilmun (Bahrain) & Magan (Oman)**."
+              ],
+              [
+                "**Seals**",
+                "**Steatite seals** (~2000 found) used in trade; Persian Gulf seals abroad."
+              ]
             ]
           }
         ]
@@ -108,9 +178,18 @@
       "Assess the trade and economic organisation of the Indus Valley Civilisation."
     ],
     "glossary": [
-      {"term": "Meluhha", "definition": "The Mesopotamian name for the Indus region, evidencing long-distance trade."},
-      {"term": "Sindon", "definition": "The Greek term for cotton, which the Harappans were the first to cultivate."},
-      {"term": "Steatite seal", "definition": "A carved soapstone seal used in Harappan trade and administration."}
+      {
+        "term": "Meluhha",
+        "definition": "The Mesopotamian name for the Indus region, evidencing long-distance trade."
+      },
+      {
+        "term": "Sindon",
+        "definition": "The Greek term for cotton, which the Harappans were the first to cultivate."
+      },
+      {
+        "term": "Steatite seal",
+        "definition": "A carved soapstone seal used in Harappan trade and administration."
+      }
     ]
   },
   {
@@ -126,14 +205,35 @@
           },
           {
             "type": "table",
-            "headers": ["Artefact", "Detail / site"],
+            "headers": [
+              "Artefact",
+              "Detail / site"
+            ],
             "rows": [
-              ["**Dancing Girl**", "**Bronze** (lost-wax/cire-perdue); **Mohenjodaro**; famed masterpiece."],
-              ["**Priest-King**", "**Steatite** bust with trefoil robe; Mohenjodaro."],
-              ["**Pashupati seal**", "Mohenjodaro; three-faced figure surrounded by animals ('proto-Shiva')."],
-              ["**Bearded man / Bull seals**", "The **humped bull** and **unicorn** are common seal motifs."],
-              ["**Terracotta**", "Mother-goddess figurines, toys, bullock carts; the **'first bronze sculpture' tradition**."],
-              ["**Bronze buffalo/ram (Daimabad)**", "Bronze animal figures (Daimabad hoard)."]
+              [
+                "**Dancing Girl**",
+                "**Bronze** (lost-wax/cire-perdue); **Mohenjodaro**; famed masterpiece."
+              ],
+              [
+                "**Priest-King**",
+                "**Steatite** bust with trefoil robe; Mohenjodaro."
+              ],
+              [
+                "**Pashupati seal**",
+                "Mohenjodaro; three-faced figure surrounded by animals ('proto-Shiva')."
+              ],
+              [
+                "**Bearded man / Bull seals**",
+                "The **humped bull** and **unicorn** are common seal motifs."
+              ],
+              [
+                "**Terracotta**",
+                "Mother-goddess figurines, toys, bullock carts; the **'first bronze sculpture' tradition**."
+              ],
+              [
+                "**Bronze buffalo/ram (Daimabad)**",
+                "Bronze animal figures (Daimabad hoard)."
+              ]
             ]
           }
         ]
@@ -165,9 +265,18 @@
       "Describe the artistic achievements of the Indus Valley Civilisation."
     ],
     "glossary": [
-      {"term": "Lost-wax casting", "definition": "The cire-perdue metal-casting technique used for the bronze Dancing Girl."},
-      {"term": "Pashupati seal", "definition": "A Mohenjodaro seal depicting a yogic, animal-surrounded figure interpreted as a proto-Shiva."},
-      {"term": "Boustrophedon", "definition": "The writing style of the Indus script, alternating direction line by line (first line right-to-left)."}
+      {
+        "term": "Lost-wax casting",
+        "definition": "The cire-perdue metal-casting technique used for the bronze Dancing Girl."
+      },
+      {
+        "term": "Pashupati seal",
+        "definition": "A Mohenjodaro seal depicting a yogic, animal-surrounded figure interpreted as a proto-Shiva."
+      },
+      {
+        "term": "Boustrophedon",
+        "definition": "The writing style of the Indus script, alternating direction line by line (first line right-to-left)."
+      }
     ]
   },
   {
@@ -183,13 +292,31 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Deities**", "**Mother-Goddess** (fertility), **Pashupati/proto-Shiva**, **Pipal-tree & animal worship**, phallic (lingam) & yoni worship."],
-              ["**No temples**", "No monumental temples/idols clearly identified; ritual at the Great Bath."],
-              ["**Script**", "**Pictographic, undeciphered, ~400+ signs**, boustrophedon; not alphabetic."],
-              ["**Burial**", "Mostly **extended inhumation** (N-S); cemetery R-37 (Harappa); pot burials."],
-              ["**Decline theories**", "**Aryan invasion (Wheeler — now discredited), floods (Mohenjodaro), river drying (Ghaggar-Hakra/Saraswati), climate change/aridity, ecological degradation, decline of trade**."]
+              [
+                "**Deities**",
+                "**Mother-Goddess** (fertility), **Pashupati/proto-Shiva**, **Pipal-tree & animal worship**, phallic (lingam) & yoni worship."
+              ],
+              [
+                "**No temples**",
+                "No monumental temples/idols clearly identified; ritual at the Great Bath."
+              ],
+              [
+                "**Script**",
+                "**Pictographic, undeciphered, ~400+ signs**, boustrophedon; not alphabetic."
+              ],
+              [
+                "**Burial**",
+                "Mostly **extended inhumation** (N-S); cemetery R-37 (Harappa); pot burials."
+              ],
+              [
+                "**Decline theories**",
+                "**Aryan invasion (Wheeler — now discredited), floods (Mohenjodaro), river drying (Ghaggar-Hakra/Saraswati), climate change/aridity, ecological degradation, decline of trade**."
+              ]
             ]
           }
         ]
@@ -221,9 +348,18 @@
       "Examine the religious beliefs and the debate over the decline of the Indus Valley Civilisation."
     ],
     "glossary": [
-      {"term": "Mother-Goddess", "definition": "The fertility deity represented by numerous Harappan terracotta figurines."},
-      {"term": "Ghaggar-Hakra", "definition": "The seasonal river system (identified with the Vedic Saraswati) whose drying is linked to IVC decline."},
-      {"term": "Cemetery R-37", "definition": "A Harappan burial site showing extended inhumation practices."}
+      {
+        "term": "Mother-Goddess",
+        "definition": "The fertility deity represented by numerous Harappan terracotta figurines."
+      },
+      {
+        "term": "Ghaggar-Hakra",
+        "definition": "The seasonal river system (identified with the Vedic Saraswati) whose drying is linked to IVC decline."
+      },
+      {
+        "term": "Cemetery R-37",
+        "definition": "A Harappan burial site showing extended inhumation practices."
+      }
     ]
   },
   {
@@ -239,14 +375,82 @@
           },
           {
             "type": "table",
-            "headers": ["Sphere", "Rig Vedic feature"],
+            "headers": [
+              "Sphere",
+              "Rig Vedic feature"
+            ],
             "rows": [
-              ["**Polity**", "**Tribal (jana), not territorial**; chief = **Rajan** (protector of cattle); assemblies **Sabha & Samiti** (and Vidatha, Gana)."],
-              ["**Economy**", "**Pastoral & cattle-centred** — cow ('**Gomat**') = wealth; ' **Gavishti**' (search for cows) = war; some agriculture."],
-              ["**Society**", "**Patriarchal but women respected** (Gargi, Lopamudra, Apala); **no rigid varna/untouchability**; family (kula) basis."],
-              ["**Religion**", "**Nature worship** — **Indra (most hymns), Agni, Varuna, Soma**; yajna (sacrifice); no temples/idols."],
-              ["**Key text**", "**Rig Veda** — oldest (1028 hymns, 10 mandalas); **Gayatri mantra** (to Savitri) in 3rd mandala."]
+              [
+                "**Polity**",
+                "**Tribal (jana), not territorial**; chief = **Rajan** (protector of cattle); assemblies **Sabha & Samiti** (and Vidatha, Gana)."
+              ],
+              [
+                "**Economy**",
+                "**Pastoral & cattle-centred** — cow ('**Gomat**') = wealth; ' **Gavishti**' (search for cows) = war; some agriculture."
+              ],
+              [
+                "**Society**",
+                "**Patriarchal but women respected** (Gargi, Lopamudra, Apala); **no rigid varna/untouchability**; family (kula) basis."
+              ],
+              [
+                "**Religion**",
+                "**Nature worship** — **Indra (most hymns), Agni, Varuna, Soma**; yajna (sacrifice); no temples/idols."
+              ],
+              [
+                "**Key text**",
+                "**Rig Veda** — oldest (1028 hymns, 10 mandalas); **Gayatri mantra** (to Savitri) in 3rd mandala."
+              ]
             ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Early vs Later Vedic (summary)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Early Vedic (1500-1000 BCE)",
+              "Later Vedic (1000-600 BCE)"
+            ],
+            "rows": [
+              [
+                "Society",
+                "Tribal, flexible varna system",
+                "Caste-based, hierarchical"
+              ],
+              [
+                "Women",
+                "Respected, educated, had freedom",
+                "Declined status, child marriage"
+              ],
+              [
+                "Economy",
+                "Pastoral, barter system",
+                "Agriculture, use of iron, coins"
+              ],
+              [
+                "Polity",
+                "Tribal chiefs, Sabha & Samiti",
+                "Hereditary monarchy, powerful kings"
+              ],
+              [
+                "Religion",
+                "Nature worship, simple rituals",
+                "Ritualistic sacrifices, karma theory"
+              ],
+              [
+                "Education",
+                "Oral tradition, women educated",
+                "Upanishadic learning, restricted for women"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "The engine of change was **iron + the plough** — surplus agriculture turned a pastoral tribal society into a caste-stratified territorial monarchy."
           }
         ]
       },
@@ -271,15 +475,26 @@
       "Polity **tribal (jana)**; chief **Rajan**; assemblies **Sabha, Samiti, Vidatha, Gana**.",
       "**Cattle = wealth**; war = **'Gavishti'** (search for cows); **Battle of Ten Kings (Dasarajna)** on the Parushni (Ravi).",
       "**No untouchability / rigid caste**; women could attend Sabha; women seers — **Gargi, Lopamudra, Apala, Ghosha**.",
-      "**Gayatri mantra** (to Savitri) is in the **3rd mandala** (Vishwamitra)."
+      "**Gayatri mantra** (to Savitri) is in the **3rd mandala** (Vishwamitra).",
+      "Early Vedic gods **Indra, Agni, Varuna**; Sabha & Samiti were **real** assemblies; women educated (Gargi, Lopamudra, Maitreyi).",
+      "Rig Vedic economy = **pastoral/cattle (gau = wealth)**; 'Gavishti' (search for cattle) = war."
     ],
     "mainsAngles": [
       "Contrast the polity, economy and society of the Early and Later Vedic ages."
     ],
     "glossary": [
-      {"term": "Jana", "definition": "The kin-based tribe that formed the basic Rig Vedic political unit, headed by the Rajan."},
-      {"term": "Sabha & Samiti", "definition": "Rig Vedic tribal assemblies; the Samiti was a larger body that could elect/approve the Rajan."},
-      {"term": "Gavishti", "definition": "Literally 'search for cows' — the Rig Vedic term for war, reflecting a cattle-based economy."}
+      {
+        "term": "Jana",
+        "definition": "The kin-based tribe that formed the basic Rig Vedic political unit, headed by the Rajan."
+      },
+      {
+        "term": "Sabha & Samiti",
+        "definition": "Rig Vedic tribal assemblies; the Samiti was a larger body that could elect/approve the Rajan."
+      },
+      {
+        "term": "Gavishti",
+        "definition": "Literally 'search for cows' — the Rig Vedic term for war, reflecting a cattle-based economy."
+      }
     ]
   },
   {
@@ -295,22 +510,177 @@
           },
           {
             "type": "table",
-            "headers": ["Change", "Later Vedic feature"],
+            "headers": [
+              "Change",
+              "Later Vedic feature"
+            ],
             "rows": [
-              ["**Polity**", "**Territorial kingdoms (janapada/rashtra)**; king's power grows (**Rajasuya, Ashvamedha, Vajapeya** sacrifices); Sabha/Samiti decline."],
-              ["**Economy**", "**Iron ('Shyama/Krishna Ayas')**, plough agriculture, rice/wheat; PGW pottery."],
-              ["**Society**", "**Rigid four-fold varna** hardens; **untouchability & patriarchy** deepen; **four ashramas** emerge."],
-              ["**Religion**", "**Prajapati, Vishnu, Rudra** rise; **ritualism/sacrifice dominates**; reaction later via Upanishads."]
+              [
+                "**Polity**",
+                "**Territorial kingdoms (janapada/rashtra)**; king's power grows (**Rajasuya, Ashvamedha, Vajapeya** sacrifices); Sabha/Samiti decline."
+              ],
+              [
+                "**Economy**",
+                "**Iron ('Shyama/Krishna Ayas')**, plough agriculture, rice/wheat; PGW pottery."
+              ],
+              [
+                "**Society**",
+                "**Rigid four-fold varna** hardens; **untouchability & patriarchy** deepen; **four ashramas** emerge."
+              ],
+              [
+                "**Religion**",
+                "**Prajapati, Vishnu, Rudra** rise; **ritualism/sacrifice dominates**; reaction later via Upanishads."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["Text", "Content"],
+            "headers": [
+              "Text",
+              "Content"
+            ],
             "rows": [
-              ["**Four Vedas**", "**Rig (hymns), Sama (melodies — roots of music), Yajur (rituals), Atharva (magic/charms)**."],
-              ["**Brahmanas**", "Prose explaining rituals/sacrifices."],
-              ["**Aranyakas**", "'Forest books' — philosophy/mysticism."],
-              ["**Upanishads (Vedanta)**", "**Philosophy — Brahman/Atman**; ~108; **'Satyameva Jayate'** from Mundaka Upanishad."]
+              [
+                "**Four Vedas**",
+                "**Rig (hymns), Sama (melodies — roots of music), Yajur (rituals), Atharva (magic/charms)**."
+              ],
+              [
+                "**Brahmanas**",
+                "Prose explaining rituals/sacrifices."
+              ],
+              [
+                "**Aranyakas**",
+                "'Forest books' — philosophy/mysticism."
+              ],
+              [
+                "**Upanishads (Vedanta)**",
+                "**Philosophy — Brahman/Atman**; ~108; **'Satyameva Jayate'** from Mundaka Upanishad."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: the four Vedas & IVC-vs-Vedic",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Veda",
+              "Main Theme",
+              "Key Features"
+            ],
+            "rows": [
+              [
+                "Rigveda (Oldest)",
+                "Hymns to gods",
+                "Earliest Vedic text, 1028 hymns, praises Indra, Agni"
+              ],
+              [
+                "Samaveda",
+                "Melodic chants",
+                "Collection of hymns for rituals, basis of Indian classical music"
+              ],
+              [
+                "Yajurveda",
+                "Rituals & sacrifices",
+                "Procedures for yajnas, divided into Krishna & Shukla Yajurveda"
+              ],
+              [
+                "Atharvaveda",
+                "Magic, healing, and daily life",
+                "Charms, spells, medicine, social concerns"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "The two civilisations contrasted (a perennial prelims MCQ):"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Indus Valley Civilization (IVC)",
+              "Vedic Civilization"
+            ],
+            "rows": [
+              [
+                "Time Period",
+                "2500 BCE – 1750 BCE (Bronze Age)",
+                "1500 BCE – 600 BCE (Iron Age)"
+              ],
+              [
+                "Geographical Spread",
+                "Present-day Pakistan, NW India (Harappa, Mohenjo-Daro, Dholavira, Lothal, Kalibangan)",
+                "Indo-Gangetic plains (Punjab, Haryana, UP, Bihar)"
+              ],
+              [
+                "Origin",
+                "Indigenous origin, possibly influenced by Mesopotamia",
+                "Aryans migrated from Central Asia"
+              ],
+              [
+                "Society",
+                "Urban, advanced, and well-planned cities",
+                "Rural, pastoral (nomadic in early phase)"
+              ],
+              [
+                "Economy",
+                "Trade-based (internal & external with Mesopotamia)",
+                "Agricultural & cattle-based economy"
+              ],
+              [
+                "Writing System",
+                "Undeciphered script",
+                "Sanskrit (earliest form in Rigveda)"
+              ],
+              [
+                "Religion",
+                "Polytheistic, worshipped Mother Goddess, Pashupati (proto-Shiva), sacred animals (unicorn, bull)",
+                "Nature worship (Indra, Agni, Varuna), later complex rituals (Brahmanism)"
+              ],
+              [
+                "Political System",
+                "No evidence of kings or monarchy; possibly ruled by merchants or councils",
+                "Tribal kings (Rajan), later evolved into hereditary monarchy"
+              ],
+              [
+                "Architecture",
+                "Well-planned cities, drainage, granaries, Great Bath, citadels",
+                "No large cities initially, later simple wood-based houses"
+              ],
+              [
+                "Metallurgy",
+                "Bronze Age civilization (copper, bronze, gold, silver)",
+                "Iron Age civilization (iron tools for agriculture, warfare)"
+              ],
+              [
+                "Agriculture",
+                "Grew wheat, barley, cotton, dates",
+                "Grew wheat, barley, rice"
+              ],
+              [
+                "Animals",
+                "Domesticated cattle, buffalo, elephant",
+                "Horses introduced by Aryans"
+              ],
+              [
+                "Weapons",
+                "No major evidence of warfare, peaceful society",
+                "Aryans were warriors, used iron weapons and chariots"
+              ],
+              [
+                "Decline",
+                "Climate change, floods, river shift (Sarasvati drying up), Aryan migration/invasion theory",
+                "Transitioned into Mahajanapadas (600 BCE)"
+              ],
+              [
+                "Legacy",
+                "Town planning, weights & measures, trade practices, possibly influenced Hinduism",
+                "Foundation of Hinduism, caste system, Sanskrit texts (Vedas)"
+              ]
             ]
           }
         ]
@@ -336,15 +706,27 @@
       "Iron called **'Shyama' or 'Krishna Ayas'**; **Painted Grey Ware (PGW)** culture.",
       "**Four ashramas** (Brahmacharya, Grihastha, Vanaprastha, Sanyasa) emerge in the Later Vedic period.",
       "**'Satyameva Jayate'** — from the **Mundaka Upanishad**; Upanishads = **Vedanta**.",
-      "Each Veda has four parts — **Samhita, Brahmana, Aranyaka, Upanishad**."
+      "Each Veda has four parts — **Samhita, Brahmana, Aranyaka, Upanishad**.",
+      "**Shruti** = Vedas, Brahmanas, Aranyakas, Upanishads; **Smriti** = Vedangas, Sutras, Epics, Puranas, Manusmriti.",
+      "**Samaveda** = roots of Indian music; **Atharvaveda** = spells/medicine; **'Satyameva Jayate'** from Mundaka Upanishad.",
+      "IVC = **Bronze Age, urban, undeciphered script**; Vedic = **Iron Age, rural→monarchy, Sanskrit**."
     ],
     "mainsAngles": [
       "Trace the transformation from pastoral Rig Vedic to agrarian Later Vedic society."
     ],
     "glossary": [
-      {"term": "Krishna Ayas", "definition": "'Black metal' — the Later Vedic term for iron, whose use enabled agrarian expansion."},
-      {"term": "Ashvamedha", "definition": "The horse sacrifice performed by Later Vedic kings to assert sovereignty."},
-      {"term": "Upanishads", "definition": "The concluding philosophical texts of the Vedas (Vedanta), exploring Brahman and Atman."}
+      {
+        "term": "Krishna Ayas",
+        "definition": "'Black metal' — the Later Vedic term for iron, whose use enabled agrarian expansion."
+      },
+      {
+        "term": "Ashvamedha",
+        "definition": "The horse sacrifice performed by Later Vedic kings to assert sovereignty."
+      },
+      {
+        "term": "Upanishads",
+        "definition": "The concluding philosophical texts of the Vedas (Vedanta), exploring Brahman and Atman."
+      }
     ]
   }
 ]

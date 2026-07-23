@@ -12,14 +12,77 @@
           },
           {
             "type": "table",
-            "headers": ["Site", "River / location & signature find"],
+            "headers": [
+              "Site",
+              "River / location & signature find"
+            ],
             "rows": [
-              ["**Harappa**", "**Ravi** (Punjab, Pakistan); first excavated (1921, Daya Ram Sahni); granaries, cemetery R-37, workmen's quarters."],
-              ["**Mohenjodaro**", "**Indus** (Sindh, Pakistan); **Great Bath, Great Granary, Dancing Girl, Priest-King, Pashupati seal**."],
-              ["**Dholavira**", "**Rann of Kutch (Gujarat)**; unique **water-harvesting/reservoirs**, signboard, three-part city; **UNESCO site**."],
-              ["**Lothal**", "**Gujarat (Bhogava)**; **dockyard** (maritime trade), bead factory, rice husk, fire-altars."],
-              ["**Kalibangan**", "**Rajasthan (Ghaggar)**; **ploughed field**, fire-altars, evidence of earthquake."],
-              ["**Rakhigarhi**", "**Haryana** — the **largest IVC site** in India (Ghaggar plain)."]
+              [
+                "**Harappa**",
+                "**Ravi** (Punjab, Pakistan); first excavated (1921, Daya Ram Sahni); granaries, cemetery R-37, workmen's quarters."
+              ],
+              [
+                "**Mohenjodaro**",
+                "**Indus** (Sindh, Pakistan); **Great Bath, Great Granary, Dancing Girl, Priest-King, Pashupati seal**."
+              ],
+              [
+                "**Dholavira**",
+                "**Rann of Kutch (Gujarat)**; unique **water-harvesting/reservoirs**, signboard, three-part city; **UNESCO site**."
+              ],
+              [
+                "**Lothal**",
+                "**Gujarat (Bhogava)**; **dockyard** (maritime trade), bead factory, rice husk, fire-altars."
+              ],
+              [
+                "**Kalibangan**",
+                "**Rajasthan (Ghaggar)**; **ploughed field**, fire-altars, evidence of earthquake."
+              ],
+              [
+                "**Rakhigarhi**",
+                "**Haryana** — the **largest IVC site** in India (Ghaggar plain)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: IVC sites at a glance",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "City",
+              "Special Features"
+            ],
+            "rows": [
+              [
+                "Mohenjo-Daro",
+                "Great Bath, granary, advanced drainage, planned streets."
+              ],
+              [
+                "Harappa",
+                "Granaries, well-planned streets, citadel."
+              ],
+              [
+                "Dholavira",
+                "Water conservation system, three-tiered city structure."
+              ],
+              [
+                "Lothal",
+                "Dockyard, bead-making factory, warehouse."
+              ],
+              [
+                "Kalibangan",
+                "Fire altars, grid pattern streets, ploughed fields."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**River-site pairs**: Harappa–Ravi, Mohenjo-daro–Indus, Kalibangan–Ghaggar, Lothal–Bhogava, Dholavira–Rann of Kutch.",
+              "**Signature finds**: Great Bath & Dancing Girl (Mohenjo-daro), dockyard & rice (Lothal), ploughed field & fire altars (Kalibangan), water reservoirs & signboard (Dholavira), horse bones? (Surkotada)."
             ]
           }
         ]
@@ -45,15 +108,26 @@
       "**Lothal (Gujarat)** — **dockyard** (evidence of maritime trade); bead-making; fire-altars.",
       "**Kalibangan (Rajasthan, Ghaggar)** — **ploughed field**, fire-altars, earthquake evidence.",
       "**Rakhigarhi (Haryana)** — the **largest Harappan site in India**.",
-      "Other sites — **Chanhudaro (beads, no citadel), Banawali, Surkotada (horse bones debated), Ropar**."
+      "Other sites — **Chanhudaro (beads, no citadel), Banawali, Surkotada (horse bones debated), Ropar**.",
+      "**Rakhigarhi (Haryana)** — largest IVC site in India; **Dholavira & Lothal** are the Indian UNESCO IVC sites.",
+      "**Chanhudaro** — only IVC city without a citadel; bead-making. **Banawali** — both pre-Harappan & Harappan levels."
     ],
     "mainsAngles": [
       "Discuss the major sites of the Indus Valley Civilisation and their significance."
     ],
     "glossary": [
-      {"term": "Mohenjodaro", "definition": "'Mound of the dead' — the largest Harappan city, site of the Great Bath and Dancing Girl."},
-      {"term": "Lothal", "definition": "A Harappan port town in Gujarat with a dockyard, evidencing maritime trade."},
-      {"term": "Rakhigarhi", "definition": "The largest Indus Valley site located in India (Haryana)."}
+      {
+        "term": "Mohenjodaro",
+        "definition": "'Mound of the dead' — the largest Harappan city, site of the Great Bath and Dancing Girl."
+      },
+      {
+        "term": "Lothal",
+        "definition": "A Harappan port town in Gujarat with a dockyard, evidencing maritime trade."
+      },
+      {
+        "term": "Rakhigarhi",
+        "definition": "The largest Indus Valley site located in India (Haryana)."
+      }
     ]
   }
 ]

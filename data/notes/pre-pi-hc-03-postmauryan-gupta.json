@@ -12,13 +12,73 @@
           },
           {
             "type": "table",
-            "headers": ["Power", "Detail"],
+            "headers": [
+              "Power",
+              "Detail"
+            ],
             "rows": [
-              ["**Indo-Greeks (Bactrian)**", "First to issue **gold coins** & **coins with king's portraits**; **Menander (Milinda)** — Buddhist (Milindapanho with Nagasena); introduced **Hellenistic (Gandhara) art**."],
-              ["**Shakas**", "**Rudradaman I** — Junagadh inscription (first long Sanskrit inscription); repaired Sudarshana lake; Saka era."],
-              ["**Kushans**", "**Kanishka (c. 78 CE)** — greatest; started the **Saka Era (78 CE)**; capital **Purushapura (Peshawar)** & Mathura."],
-              ["**Kanishka's patronage**", "**4th Buddhist Council (Kashmir)** → Mahayana; patronised **Ashvaghosha, Nagarjuna, Charaka, Vasumitra**."],
-              ["**Art**", "**Gandhara school** (Greco-Roman + Buddhist) & **Mathura school** (indigenous, red sandstone)."]
+              [
+                "**Indo-Greeks (Bactrian)**",
+                "First to issue **gold coins** & **coins with king's portraits**; **Menander (Milinda)** — Buddhist (Milindapanho with Nagasena); introduced **Hellenistic (Gandhara) art**."
+              ],
+              [
+                "**Shakas**",
+                "**Rudradaman I** — Junagadh inscription (first long Sanskrit inscription); repaired Sudarshana lake; Saka era."
+              ],
+              [
+                "**Kushans**",
+                "**Kanishka (c. 78 CE)** — greatest; started the **Saka Era (78 CE)**; capital **Purushapura (Peshawar)** & Mathura."
+              ],
+              [
+                "**Kanishka's patronage**",
+                "**4th Buddhist Council (Kashmir)** → Mahayana; patronised **Ashvaghosha, Nagarjuna, Charaka, Vasumitra**."
+              ],
+              [
+                "**Art**",
+                "**Gandhara school** (Greco-Roman + Buddhist) & **Mathura school** (indigenous, red sandstone)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Kushans & the art schools",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "School",
+              "Material",
+              "Influence",
+              "Trait"
+            ],
+            "rows": [
+              [
+                "**Gandhara**",
+                "Grey schist",
+                "Greco-Roman",
+                "Realistic Buddha, wavy hair, thick drapery"
+              ],
+              [
+                "**Mathura**",
+                "Red sandstone",
+                "Indigenous",
+                "Robust, energetic; also Jain/Hindu images"
+              ],
+              [
+                "**Amaravati**",
+                "White limestone",
+                "Indigenous (Satavahana)",
+                "Narrative stupa reliefs, graceful"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Kanishka**: Silk Route, India's **first gold coins**, **4th Buddhist Council** (Kashmir), Mahayana, iconic Buddha image.",
+              "Court of Kanishka: **Ashvaghosha, Nagarjuna, Charaka, Vasumitra**."
             ]
           }
         ]
@@ -44,15 +104,26 @@
       "**Kanishka** — greatest Kushan; started the **Saka Era (78 CE)**; capital **Purushapura (Peshawar)**.",
       "**4th Buddhist Council** held in **Kashmir** under Kanishka → rise of **Mahayana**.",
       "Kanishka's court — **Ashvaghosha (Buddhacharita), Nagarjuna, Charaka (medicine), Vasumitra**.",
-      "**Gandhara art** = Greco-Roman + Buddhist; **Mathura art** = indigenous red sandstone."
+      "**Gandhara art** = Greco-Roman + Buddhist; **Mathura art** = indigenous red sandstone.",
+      "Kanishka's capital **Purushapura (Peshawar)**; **Saka era 78 CE**.",
+      "**Gandhara = schist/Hellenistic; Mathura = red sandstone/indigenous; Amaravati = limestone/narrative**."
     ],
     "mainsAngles": [
       "Assess the cultural contributions of the Kushans under Kanishka."
     ],
     "glossary": [
-      {"term": "Saka Era", "definition": "The calendar era beginning 78 CE, associated with Kanishka and now India's national calendar."},
-      {"term": "Gandhara art", "definition": "A Greco-Roman-influenced Buddhist sculptural school of the north-west under the Kushans."},
-      {"term": "Milindapanho", "definition": "'The Questions of Milinda' — a dialogue between the Indo-Greek king Menander and the monk Nagasena."}
+      {
+        "term": "Saka Era",
+        "definition": "The calendar era beginning 78 CE, associated with Kanishka and now India's national calendar."
+      },
+      {
+        "term": "Gandhara art",
+        "definition": "A Greco-Roman-influenced Buddhist sculptural school of the north-west under the Kushans."
+      },
+      {
+        "term": "Milindapanho",
+        "definition": "'The Questions of Milinda' — a dialogue between the Indo-Greek king Menander and the monk Nagasena."
+      }
     ]
   },
   {
@@ -68,13 +139,31 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder / greatest**", "Founder **Simuka**; greatest **Gautamiputra Satakarni** (defeated the Shakas — Nasik prashasti of **Gautami Balasri**)."],
-              ["**Capital**", "**Pratishthana (Paithan)** on the Godavari."],
-              ["**Polity**", "**Matronymic** names (Gautamiputra, Vasishthiputra); feudal 'ratika/maharathi' chiefs; **land grants to Brahmins/monks (first)**."],
-              ["**Economy**", "Flourishing **Roman trade** (ports, coins); guilds (shreni); **lead, potin, copper coins**."],
-              ["**Culture**", "**Prakrit** official language; **Hala's Gathasaptashati**; **Amaravati stupa** art; caves at Nasik, Karle."]
+              [
+                "**Founder / greatest**",
+                "Founder **Simuka**; greatest **Gautamiputra Satakarni** (defeated the Shakas — Nasik prashasti of **Gautami Balasri**)."
+              ],
+              [
+                "**Capital**",
+                "**Pratishthana (Paithan)** on the Godavari."
+              ],
+              [
+                "**Polity**",
+                "**Matronymic** names (Gautamiputra, Vasishthiputra); feudal 'ratika/maharathi' chiefs; **land grants to Brahmins/monks (first)**."
+              ],
+              [
+                "**Economy**",
+                "Flourishing **Roman trade** (ports, coins); guilds (shreni); **lead, potin, copper coins**."
+              ],
+              [
+                "**Culture**",
+                "**Prakrit** official language; **Hala's Gathasaptashati**; **Amaravati stupa** art; caves at Nasik, Karle."
+              ]
             ]
           }
         ]
@@ -106,9 +195,18 @@
       "Discuss the Satavahanas as a bridge between north and south Indian culture."
     ],
     "glossary": [
-      {"term": "Matronymic", "definition": "Naming a person after the mother (e.g. Gautamiputra), a distinctive Satavahana practice."},
-      {"term": "Agrahara", "definition": "A tax-free land grant to Brahmins, first regularly made by the Satavahanas."},
-      {"term": "Gathasaptashati", "definition": "A Prakrit lyric anthology attributed to the Satavahana king Hala."}
+      {
+        "term": "Matronymic",
+        "definition": "Naming a person after the mother (e.g. Gautamiputra), a distinctive Satavahana practice."
+      },
+      {
+        "term": "Agrahara",
+        "definition": "A tax-free land grant to Brahmins, first regularly made by the Satavahanas."
+      },
+      {
+        "term": "Gathasaptashati",
+        "definition": "A Prakrit lyric anthology attributed to the Satavahana king Hala."
+      }
     ]
   },
   {
@@ -124,13 +222,66 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Three dynasties**", "**Chera (bow emblem, Vanji), Chola (tiger, Uraiyur/Kaveripattinam), Pandya (fish, Madurai)**."],
-              ["**Sangams**", "Three Sangams (academies) at **Madurai** under Pandya patronage; most works from the **third Sangam**."],
-              ["**Literature**", "**Tolkappiyam** (grammar), **Ettuthogai (8 anthologies), Pattuppattu (10 idylls)**; epics **Silappadikaram & Manimekalai**; **Tirukkural (Thiruvalluvar)**."],
-              ["**Economy**", "Rich **Roman trade** (Muziris port; Roman gold coins); pearls, spices, muslin; guilds."],
-              ["**Society**", "Five **tinai** (eco-zones); **Kural** ethics; hero-stones; bardic culture."]
+              [
+                "**Three dynasties**",
+                "**Chera (bow emblem, Vanji), Chola (tiger, Uraiyur/Kaveripattinam), Pandya (fish, Madurai)**."
+              ],
+              [
+                "**Sangams**",
+                "Three Sangams (academies) at **Madurai** under Pandya patronage; most works from the **third Sangam**."
+              ],
+              [
+                "**Literature**",
+                "**Tolkappiyam** (grammar), **Ettuthogai (8 anthologies), Pattuppattu (10 idylls)**; epics **Silappadikaram & Manimekalai**; **Tirukkural (Thiruvalluvar)**."
+              ],
+              [
+                "**Economy**",
+                "Rich **Roman trade** (Muziris port; Roman gold coins); pearls, spices, muslin; guilds."
+              ],
+              [
+                "**Society**",
+                "Five **tinai** (eco-zones); **Kural** ethics; hero-stones; bardic culture."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: the Sangam Age",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Assemblies",
+                "Three **Sangams** at **Madurai**, Pandya-patronised"
+              ],
+              [
+                "Texts",
+                "**Tolkappiyam**, Ettuthogai (8), Pattuppattu (10); epics Silappadikaram, Manimekalai"
+              ],
+              [
+                "Kingdoms",
+                "Chera (bow), Chola (tiger), Pandya (fish)"
+              ],
+              [
+                "Trade",
+                "Roman trade via **Arikamedu/Muziris** — gold & wine for pepper, pearls, muslin"
+              ],
+              [
+                "Tinai",
+                "Kurinji, Mullai, Marudam, Neydal, Palai (5 eco-zones)"
+              ]
             ]
           }
         ]
@@ -156,15 +307,26 @@
       "Twin epics — **Silappadikaram (Ilango Adigal)** & **Manimekalai (Sattanar)**.",
       "**Tirukkural** (Thiruvalluvar) — Tamil ethical classic ('Tamil Veda').",
       "**Roman trade** via **Muziris** port; hoards of **Roman gold coins**; exports pearls, spices, muslin.",
-      "Land divided into five **tinais** (ecological-poetic zones)."
+      "Land divided into five **tinais** (ecological-poetic zones).",
+      "**Tolkappiyam** = oldest Tamil grammar; poet **Avvaiyar**.",
+      "**Silappadikaram** (Ilango Adigal) & **Manimekalai** are post-Sangam Tamil epics."
     ],
     "mainsAngles": [
       "Describe Sangam literature as a source for early Tamil history and society."
     ],
     "glossary": [
-      {"term": "Sangam", "definition": "A literary academy of Tamil poets held at Madurai; the age and its literature take their name from it."},
-      {"term": "Tolkappiyam", "definition": "The earliest extant Tamil grammar, a key Sangam-age text."},
-      {"term": "Tinai", "definition": "One of five ecological-cum-poetic landscapes in Sangam Tamil literary convention."}
+      {
+        "term": "Sangam",
+        "definition": "A literary academy of Tamil poets held at Madurai; the age and its literature take their name from it."
+      },
+      {
+        "term": "Tolkappiyam",
+        "definition": "The earliest extant Tamil grammar, a key Sangam-age text."
+      },
+      {
+        "term": "Tinai",
+        "definition": "One of five ecological-cum-poetic landscapes in Sangam Tamil literary convention."
+      }
     ]
   },
   {
@@ -180,13 +342,31 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder**", "**Pushyamitra Sunga** — a Maurya general who killed **Brihadratha (185 BCE)**; capital Pataliputra/Vidisha."],
-              ["**Religion**", "**Brahmanical revival**; performed **Ashvamedha** sacrifices; yet Buddhist art flourished."],
-              ["**Art**", "**Bharhut & Sanchi stupa** railings/gateways (torana) enlarged; Heliodorus pillar (Besnagar)."],
-              ["**Literature**", "**Patanjali's Mahabhashya** (grammar); Sanskrit revival."],
-              ["**Heliodorus pillar**", "Erected by a **Greek envoy (Heliodorus)** dedicated to **Vasudeva (Vishnu)** — early Bhagavatism."]
+              [
+                "**Founder**",
+                "**Pushyamitra Sunga** — a Maurya general who killed **Brihadratha (185 BCE)**; capital Pataliputra/Vidisha."
+              ],
+              [
+                "**Religion**",
+                "**Brahmanical revival**; performed **Ashvamedha** sacrifices; yet Buddhist art flourished."
+              ],
+              [
+                "**Art**",
+                "**Bharhut & Sanchi stupa** railings/gateways (torana) enlarged; Heliodorus pillar (Besnagar)."
+              ],
+              [
+                "**Literature**",
+                "**Patanjali's Mahabhashya** (grammar); Sanskrit revival."
+              ],
+              [
+                "**Heliodorus pillar**",
+                "Erected by a **Greek envoy (Heliodorus)** dedicated to **Vasudeva (Vishnu)** — early Bhagavatism."
+              ]
             ]
           }
         ]
@@ -217,9 +397,18 @@
       "Evaluate the Sunga period as an age of Brahmanical revival and artistic growth."
     ],
     "glossary": [
-      {"term": "Ashvamedha", "definition": "The Vedic horse sacrifice revived by the Sungas to assert Brahmanical kingship."},
-      {"term": "Heliodorus pillar", "definition": "A pillar at Besnagar erected by a Greek envoy dedicated to Vasudeva, evidencing early Vaishnavism."},
-      {"term": "Mahabhashya", "definition": "Patanjali's great commentary on Panini's Sanskrit grammar, composed in the Sunga age."}
+      {
+        "term": "Ashvamedha",
+        "definition": "The Vedic horse sacrifice revived by the Sungas to assert Brahmanical kingship."
+      },
+      {
+        "term": "Heliodorus pillar",
+        "definition": "A pillar at Besnagar erected by a Greek envoy dedicated to Vasudeva, evidencing early Vaishnavism."
+      },
+      {
+        "term": "Mahabhashya",
+        "definition": "Patanjali's great commentary on Panini's Sanskrit grammar, composed in the Sunga age."
+      }
     ]
   },
   {
@@ -235,13 +424,66 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Rulers**", "**Chandragupta I** (Gupta era 319-20 CE, Lichchhavi marriage), **Samudragupta** ('Napoleon of India' — Allahabad/Prayag Prashasti by **Harishena**), **Chandragupta II 'Vikramaditya'** (defeated Shakas; Fa-Hien visited; Navaratnas)."],
-              ["**Administration**", "More **decentralised/feudal** than Mauryan; provinces (bhukti) → district (vishaya) → village; **land grants (agrahara)** rise."],
-              ["**Economy**", "Peak of **gold coins ('dinara')**; land revenue ~1/6; guilds; decline of long-distance trade later."],
-              ["**Society**", "Rigid caste; **rise of untouchability & decline in women's status (early marriage, sati at Eran-510 CE)**."],
-              ["**Religion**", "**Bhagavatism/Vaishnavism** rises; **temple architecture** (Nagara) begins; Buddhism/Jainism continue."]
+              [
+                "**Rulers**",
+                "**Chandragupta I** (Gupta era 319-20 CE, Lichchhavi marriage), **Samudragupta** ('Napoleon of India' — Allahabad/Prayag Prashasti by **Harishena**), **Chandragupta II 'Vikramaditya'** (defeated Shakas; Fa-Hien visited; Navaratnas)."
+              ],
+              [
+                "**Administration**",
+                "More **decentralised/feudal** than Mauryan; provinces (bhukti) → district (vishaya) → village; **land grants (agrahara)** rise."
+              ],
+              [
+                "**Economy**",
+                "Peak of **gold coins ('dinara')**; land revenue ~1/6; guilds; decline of long-distance trade later."
+              ],
+              [
+                "**Society**",
+                "Rigid caste; **rise of untouchability & decline in women's status (early marriage, sati at Eran-510 CE)**."
+              ],
+              [
+                "**Religion**",
+                "**Bhagavatism/Vaishnavism** rises; **temple architecture** (Nagara) begins; Buddhism/Jainism continue."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: the Gupta 'Golden Age'",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Domain",
+              "Gupta achievement"
+            ],
+            "rows": [
+              [
+                "Polity",
+                "Feudatory/Samanta system; Bhukti→Vishaya→village; lighter than Maurya"
+              ],
+              [
+                "Coins",
+                "Finest **gold dinaras** with royal/deity motifs"
+              ],
+              [
+                "Science",
+                "**Aryabhata** (zero, place value), Varahamihira, Brahmagupta; Mehrauli iron pillar"
+              ],
+              [
+                "Letters",
+                "**Kalidasa**; Sanskrit as court language; Puranas compiled"
+              ],
+              [
+                "Art",
+                "**Nagara temples** (Deogarh); Ajanta murals; Sarnath Buddha"
+              ]
             ]
           }
         ]
@@ -267,15 +509,26 @@
       "Gupta **gold coins = 'dinara'**; the finest gold coinage in ancient India.",
       "First epigraphic evidence of **sati** — **Eran inscription (510 CE)**.",
       "Administration was more **feudal/decentralised**; increasing **land grants**.",
-      "**Mehrauli Iron Pillar** (Delhi) — rust-resistant, Gupta metallurgy (Chandra)."
+      "**Mehrauli Iron Pillar** (Delhi) — rust-resistant, Gupta metallurgy (Chandra).",
+      "Gupta era **319–20 CE**; **Samudragupta** (Allahabad Prashasti by Harishena); **Chandragupta II Vikramaditya** (Fa-Hien).",
+      "Decline via **Huna** invasions (Toramana, Mihirakula) & feudalisation."
     ],
     "mainsAngles": [
       "Why is the Gupta age called the 'Golden Age' of ancient India? Critically examine."
     ],
     "glossary": [
-      {"term": "Prayag Prashasti", "definition": "The Allahabad pillar inscription by Harishena eulogising Samudragupta's conquests."},
-      {"term": "Dinara", "definition": "The gold coin of the Gupta empire, marking the peak of ancient Indian gold coinage."},
-      {"term": "Navaratnas", "definition": "The 'nine gems' — scholars traditionally said to adorn Chandragupta II's court, including Kalidasa."}
+      {
+        "term": "Prayag Prashasti",
+        "definition": "The Allahabad pillar inscription by Harishena eulogising Samudragupta's conquests."
+      },
+      {
+        "term": "Dinara",
+        "definition": "The gold coin of the Gupta empire, marking the peak of ancient Indian gold coinage."
+      },
+      {
+        "term": "Navaratnas",
+        "definition": "The 'nine gems' — scholars traditionally said to adorn Chandragupta II's court, including Kalidasa."
+      }
     ]
   },
   {
@@ -291,13 +544,31 @@
           },
           {
             "type": "table",
-            "headers": ["Field", "Achievement"],
+            "headers": [
+              "Field",
+              "Achievement"
+            ],
             "rows": [
-              ["**Architecture**", "**First structural temples** — **Dashavatara temple (Deogarh), Bhitargaon (brick)**; **Nagara** style begins; **Nalanda University** (Kumaragupta)."],
-              ["**Sculpture & painting**", "**Sarnath Buddha**; **Ajanta murals** (mostly Gupta-Vakataka); Udayagiri caves."],
-              ["**Literature**", "**Kalidasa** (Abhijnanashakuntalam, Meghaduta, Raghuvamsha); **Vishakhadatta (Mudrarakshasa)**; **Puranas & Smritis** compiled."],
-              ["**Science**", "**Aryabhata** (Aryabhatiya — zero-place value, earth's rotation, π); **Varahamihira (Brihatsamhita)**; **Brahmagupta**; **Sushruta/Charaka** medicine."],
-              ["**Metallurgy**", "**Mehrauli Iron Pillar** — rust-free; advanced iron technology."]
+              [
+                "**Architecture**",
+                "**First structural temples** — **Dashavatara temple (Deogarh), Bhitargaon (brick)**; **Nagara** style begins; **Nalanda University** (Kumaragupta)."
+              ],
+              [
+                "**Sculpture & painting**",
+                "**Sarnath Buddha**; **Ajanta murals** (mostly Gupta-Vakataka); Udayagiri caves."
+              ],
+              [
+                "**Literature**",
+                "**Kalidasa** (Abhijnanashakuntalam, Meghaduta, Raghuvamsha); **Vishakhadatta (Mudrarakshasa)**; **Puranas & Smritis** compiled."
+              ],
+              [
+                "**Science**",
+                "**Aryabhata** (Aryabhatiya — zero-place value, earth's rotation, π); **Varahamihira (Brihatsamhita)**; **Brahmagupta**; **Sushruta/Charaka** medicine."
+              ],
+              [
+                "**Metallurgy**",
+                "**Mehrauli Iron Pillar** — rust-free; advanced iron technology."
+              ]
             ]
           }
         ]
@@ -329,9 +600,18 @@
       "Assess the achievements of the Gupta age in science, literature and art."
     ],
     "glossary": [
-      {"term": "Nagara", "definition": "The north-Indian temple architectural style whose earliest structural examples are Gupta."},
-      {"term": "Aryabhatiya", "definition": "Aryabhata's mathematical-astronomical treatise introducing place-value and the earth's rotation."},
-      {"term": "Mehrauli Iron Pillar", "definition": "A Gupta-era rust-resistant iron pillar in Delhi, evidence of advanced metallurgy."}
+      {
+        "term": "Nagara",
+        "definition": "The north-Indian temple architectural style whose earliest structural examples are Gupta."
+      },
+      {
+        "term": "Aryabhatiya",
+        "definition": "Aryabhata's mathematical-astronomical treatise introducing place-value and the earth's rotation."
+      },
+      {
+        "term": "Mehrauli Iron Pillar",
+        "definition": "A Gupta-era rust-resistant iron pillar in Delhi, evidence of advanced metallurgy."
+      }
     ]
   }
 ]

@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**16 Mahajanapadas**", "Listed in **Anguttara Nikaya**; e.g. **Magadha, Kosala, Vatsa, Avanti** (the 4 most powerful), Vajji, Malla, Kuru, Panchala, Gandhara, Kamboja."],
-              ["**Republics (gana-sanghas)**", "**Vajji (Lichchhavi) confederacy, Malla, Shakya (Buddha), Koliya** — oligarchic assemblies."],
-              ["**Haryanka dynasty**", "**Bimbisara** (matrimonial alliances, first to annex Anga), **Ajatashatru** (defeated Vajji using rathamusala & mahashilakantaka), **Udayin** (founded Pataliputra)."],
-              ["**Shishunaga**", "Destroyed Avanti; capital shifted to Vaishali."],
-              ["**Nanda dynasty**", "**Mahapadma Nanda** ('first empire-builder'); **Dhana Nanda** (contemporary of Alexander), overthrown by Chandragupta Maurya."]
+              [
+                "**16 Mahajanapadas**",
+                "Listed in **Anguttara Nikaya**; e.g. **Magadha, Kosala, Vatsa, Avanti** (the 4 most powerful), Vajji, Malla, Kuru, Panchala, Gandhara, Kamboja."
+              ],
+              [
+                "**Republics (gana-sanghas)**",
+                "**Vajji (Lichchhavi) confederacy, Malla, Shakya (Buddha), Koliya** — oligarchic assemblies."
+              ],
+              [
+                "**Haryanka dynasty**",
+                "**Bimbisara** (matrimonial alliances, first to annex Anga), **Ajatashatru** (defeated Vajji using rathamusala & mahashilakantaka), **Udayin** (founded Pataliputra)."
+              ],
+              [
+                "**Shishunaga**",
+                "Destroyed Avanti; capital shifted to Vaishali."
+              ],
+              [
+                "**Nanda dynasty**",
+                "**Mahapadma Nanda** ('first empire-builder'); **Dhana Nanda** (contemporary of Alexander), overthrown by Chandragupta Maurya."
+              ]
             ]
           }
         ]
@@ -33,6 +51,23 @@
               "**Geography**: fertile Ganga plains, protected capitals (Rajgir's hills, then Pataliputra's river-forts).",
               "**Resources**: **iron mines (near Rajgir), timber & elephants** for a strong army.",
               "**Ambitious rulers**: Bimbisara, Ajatashatru, the Nandas built a standing army & centralised power."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Mahajanapadas → Magadha",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[16 Mahajanapadas - Anguttara Nikaya] --> B[Monarchies vs Gana-sanghas]\n  B --> C[Magadha - iron, rivers, ambition]\n  C --> D[Haryanka -> Shishunaga -> Nanda -> Maurya]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Second urbanisation** markers: NBPW pottery, punch-marked coins, iron ploughs.",
+              "Capitals: Magadha (**Rajgir→Pataliputra**), Kosala (Shravasti), Avanti (Ujjain), Vatsa (Kaushambi)."
             ]
           }
         ]
@@ -58,15 +93,26 @@
       "**Ajatashatru** — used war engines **rathamusala** (scythed chariot) & **mahashilakantaka** (catapult); defeated the Vajji.",
       "**Udayin** founded **Pataliputra** (at Ganga-Son confluence).",
       "**Mahapadma Nanda** — first great empire-builder; **Dhana Nanda** contemporary of **Alexander**.",
-      "Republics — **Vajji (Lichchhavi), Malla, Shakya, Koliya** (gana-sanghas)."
+      "Republics — **Vajji (Lichchhavi), Malla, Shakya, Koliya** (gana-sanghas).",
+      "**Gana-sanghas (republics)**: Vajji/Licchavi (Vaishali), Malla, Shakya — oligarchic assembly rule.",
+      "Magadhan order: **Haryanka (Bimbisara, Ajatashatru) → Shishunaga → Nanda → Maurya**."
     ],
     "mainsAngles": [
       "Explain the factors behind the rise of Magadha among the Mahajanapadas."
     ],
     "glossary": [
-      {"term": "Mahajanapada", "definition": "One of the sixteen great states of 6th-century-BCE north India listed in the Anguttara Nikaya."},
-      {"term": "Gana-sangha", "definition": "A republican/oligarchic state (e.g. Vajji) governed by an assembly rather than a single king."},
-      {"term": "Mahashilakantaka", "definition": "A stone-hurling catapult used by Ajatashatru against the Vajji confederacy."}
+      {
+        "term": "Mahajanapada",
+        "definition": "One of the sixteen great states of 6th-century-BCE north India listed in the Anguttara Nikaya."
+      },
+      {
+        "term": "Gana-sangha",
+        "definition": "A republican/oligarchic state (e.g. Vajji) governed by an assembly rather than a single king."
+      },
+      {
+        "term": "Mahashilakantaka",
+        "definition": "A stone-hurling catapult used by Ajatashatru against the Vajji confederacy."
+      }
     ]
   },
   {
@@ -82,14 +128,35 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Tirthankaras**", "24; **1st Rishabhanatha/Adinatha**, **23rd Parshvanatha** (real, 4 vows), **24th Mahavira**."],
-              ["**Mahavira**", "b. **Kundagrama (Vaishali)**, 540 BCE; Kshatriya (Jnatrika clan); attained **Kaivalya** at 42; died at **Pavapuri**."],
-              ["**Three Jewels (Triratna)**", "**Right faith, Right knowledge, Right conduct** — path to liberation."],
-              ["**Five vows**", "**Ahimsa, Satya, Asteya, Aparigraha** (Parshva's 4) + **Brahmacharya** (added by Mahavira)."],
-              ["**Sects**", "**Digambara** (sky-clad, Bhadrabahu) & **Svetambara** (white-clad, Sthulabhadra) — split over clothing."],
-              ["**Councils**", "1st **Pataliputra** (Sthulabhadra), 2nd **Vallabhi** (final compilation of Agamas)."]
+              [
+                "**Tirthankaras**",
+                "24; **1st Rishabhanatha/Adinatha**, **23rd Parshvanatha** (real, 4 vows), **24th Mahavira**."
+              ],
+              [
+                "**Mahavira**",
+                "b. **Kundagrama (Vaishali)**, 540 BCE; Kshatriya (Jnatrika clan); attained **Kaivalya** at 42; died at **Pavapuri**."
+              ],
+              [
+                "**Three Jewels (Triratna)**",
+                "**Right faith, Right knowledge, Right conduct** — path to liberation."
+              ],
+              [
+                "**Five vows**",
+                "**Ahimsa, Satya, Asteya, Aparigraha** (Parshva's 4) + **Brahmacharya** (added by Mahavira)."
+              ],
+              [
+                "**Sects**",
+                "**Digambara** (sky-clad, Bhadrabahu) & **Svetambara** (white-clad, Sthulabhadra) — split over clothing."
+              ],
+              [
+                "**Councils**",
+                "1st **Pataliputra** (Sthulabhadra), 2nd **Vallabhi** (final compilation of Agamas)."
+              ]
             ]
           }
         ]
@@ -121,9 +188,18 @@
       "Discuss the tenets of Jainism and its contribution to Indian culture."
     ],
     "glossary": [
-      {"term": "Tirthankara", "definition": "A Jain 'ford-maker'/liberated teacher; Jainism recognises 24, ending with Mahavira."},
-      {"term": "Triratna", "definition": "The Jain 'Three Jewels' — right faith, knowledge and conduct — the path to liberation."},
-      {"term": "Anekantavada", "definition": "The Jain doctrine of the many-sidedness of reality, expressed through Syadvada."}
+      {
+        "term": "Tirthankara",
+        "definition": "A Jain 'ford-maker'/liberated teacher; Jainism recognises 24, ending with Mahavira."
+      },
+      {
+        "term": "Triratna",
+        "definition": "The Jain 'Three Jewels' — right faith, knowledge and conduct — the path to liberation."
+      },
+      {
+        "term": "Anekantavada",
+        "definition": "The Jain doctrine of the many-sidedness of reality, expressed through Syadvada."
+      }
     ]
   },
   {
@@ -139,13 +215,91 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Buddha's life (5 events/symbols)**", "**Birth-Lotus/Bull (Lumbini), Enlightenment-Bodhi tree (Bodh Gaya), First Sermon-Wheel (Sarnath), Nirvana-Horse, Death/Mahaparinirvana-Stupa (Kushinagar)**."],
-              ["**Four Noble Truths**", "Suffering exists; has a cause (desire/tanha); can cease; the path (Eightfold) ends it."],
-              ["**Eightfold Path**", "Right view, intention, speech, action, livelihood, effort, mindfulness, concentration ('**Middle Path**')."],
-              ["**Councils**", "1st **Rajgir** (Ajatashatru), 2nd **Vaishali** (Kalashoka), 3rd **Pataliputra** (Ashoka — Moggaliputta Tissa), 4th **Kashmir** (Kanishka — split into Hinayana/Mahayana)."],
-              ["**Schools**", "**Hinayana (Theravada), Mahayana (Bodhisattva, idol worship), Vajrayana (Tantric)**."]
+              [
+                "**Buddha's life (5 events/symbols)**",
+                "**Birth-Lotus/Bull (Lumbini), Enlightenment-Bodhi tree (Bodh Gaya), First Sermon-Wheel (Sarnath), Nirvana-Horse, Death/Mahaparinirvana-Stupa (Kushinagar)**."
+              ],
+              [
+                "**Four Noble Truths**",
+                "Suffering exists; has a cause (desire/tanha); can cease; the path (Eightfold) ends it."
+              ],
+              [
+                "**Eightfold Path**",
+                "Right view, intention, speech, action, livelihood, effort, mindfulness, concentration ('**Middle Path**')."
+              ],
+              [
+                "**Councils**",
+                "1st **Rajgir** (Ajatashatru), 2nd **Vaishali** (Kalashoka), 3rd **Pataliputra** (Ashoka — Moggaliputta Tissa), 4th **Kashmir** (Kanishka — split into Hinayana/Mahayana)."
+              ],
+              [
+                "**Schools**",
+                "**Hinayana (Theravada), Mahayana (Bodhisattva, idol worship), Vajrayana (Tantric)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: the Buddhist sects",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Sect",
+              "Focus",
+              "Key Feature",
+              "Spread"
+            ],
+            "rows": [
+              [
+                "Theravāda (Hinayana)",
+                "Individual Nirvana",
+                "Buddha as Teacher",
+                "Sri Lanka, SE Asia"
+              ],
+              [
+                "Mahayana",
+                "Universal Liberation",
+                "Worship of Buddha & Bodhisattvas",
+                "China, Japan, Korea"
+              ],
+              [
+                "Vajrayana",
+                "Mystical Practices",
+                "Mantras, Mandalas, Rituals",
+                "Tibet, Mongolia, Nepal"
+              ],
+              [
+                "Zen (Chan)",
+                "Meditation",
+                "Intuition & Simplicity",
+                "Japan, China, Korea"
+              ],
+              [
+                "Pure Land",
+                "Devotion to Amitabha",
+                "Faith-based salvation",
+                "China, Japan, Vietnam"
+              ],
+              [
+                "Nichiren",
+                "Lotus Sutra",
+                "Recitation of \"Nam Myoho Renge Kyo\"",
+                "Japan, USA, Europe"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Four Councils**: Rajgir (Ajatashatru) → Vaishali → Pataliputra (**Ashoka**, 3rd) → Kashmir (**Kanishka**, 4th — Mahayana/Hinayana split).",
+              "**Middle Path**, Four Noble Truths, Eightfold Path; Tripitaka in **Pali**."
             ]
           }
         ]
@@ -171,15 +325,26 @@
       "Councils — 1st **Rajgir**, 2nd **Vaishali**, 3rd **Pataliputra (Ashoka)**, 4th **Kashmir (Kanishka)**.",
       "**4th council** → split into **Hinayana & Mahayana**; Vajrayana (Tantric) later.",
       "Bodhisattva worship & idol-worship = **Mahayana**; **Theravada = Hinayana**.",
-      "Buddhist symbols — **Lotus/Bull (birth), Bodhi tree (enlightenment), Wheel (sermon), Horse (renunciation), Stupa (death)**."
+      "Buddhist symbols — **Lotus/Bull (birth), Bodhi tree (enlightenment), Wheel (sermon), Horse (renunciation), Stupa (death)**.",
+      "**Theravada** (Sri Lanka/SE Asia), **Mahayana** (China/Japan/Korea), **Vajrayana** (Tibet).",
+      "Bodh Gaya (enlightenment), Sarnath (first sermon), Kushinagar (mahaparinirvana), Lumbini (birth)."
     ],
     "mainsAngles": [
       "Examine the causes of the rise and later decline of Buddhism in India."
     ],
     "glossary": [
-      {"term": "Eightfold Path", "definition": "The Buddha's 'Middle Path' of eight right practices leading to the cessation of suffering."},
-      {"term": "Tripitaka", "definition": "The 'three baskets' of Buddhist scripture (Sutta, Vinaya, Abhidhamma) composed in Pali."},
-      {"term": "Bodhisattva", "definition": "In Mahayana Buddhism, an enlightened being who delays nirvana to help others; a focus of devotional worship."}
+      {
+        "term": "Eightfold Path",
+        "definition": "The Buddha's 'Middle Path' of eight right practices leading to the cessation of suffering."
+      },
+      {
+        "term": "Tripitaka",
+        "definition": "The 'three baskets' of Buddhist scripture (Sutta, Vinaya, Abhidhamma) composed in Pali."
+      },
+      {
+        "term": "Bodhisattva",
+        "definition": "In Mahayana Buddhism, an enlightened being who delays nirvana to help others; a focus of devotional worship."
+      }
     ]
   },
   {
@@ -195,11 +360,23 @@
           },
           {
             "type": "table",
-            "headers": ["Dynasty/Ruler", "Contribution"],
+            "headers": [
+              "Dynasty/Ruler",
+              "Contribution"
+            ],
             "rows": [
-              ["**Haryanka**", "**Bimbisara** (annexed Anga; alliances), **Ajatashatru** (conquered Kosala, Vajji), **Udayin** (Pataliputra)."],
-              ["**Shishunaga**", "**Shishunaga** destroyed **Avanti**; **Kalashoka** held the 2nd Buddhist Council (Vaishali)."],
-              ["**Nanda**", "**Mahapadma Nanda** — 'Ekarat', 'Sarva-Kshatrantaka' (uprooter of Kshatriyas); huge army; **Dhana Nanda** — Alexander-era, overthrown by Chandragupta & Chanakya."]
+              [
+                "**Haryanka**",
+                "**Bimbisara** (annexed Anga; alliances), **Ajatashatru** (conquered Kosala, Vajji), **Udayin** (Pataliputra)."
+              ],
+              [
+                "**Shishunaga**",
+                "**Shishunaga** destroyed **Avanti**; **Kalashoka** held the 2nd Buddhist Council (Vaishali)."
+              ],
+              [
+                "**Nanda**",
+                "**Mahapadma Nanda** — 'Ekarat', 'Sarva-Kshatrantaka' (uprooter of Kshatriyas); huge army; **Dhana Nanda** — Alexander-era, overthrown by Chandragupta & Chanakya."
+              ]
             ]
           }
         ]
@@ -230,8 +407,14 @@
       "Assess the contribution of the Nanda dynasty to Magadhan imperial power."
     ],
     "glossary": [
-      {"term": "Sarva-Kshatrantaka", "definition": "'Uprooter of all Kshatriyas' — a title of Mahapadma Nanda reflecting his conquests."},
-      {"term": "Agrammes", "definition": "The Greek name for the last Nanda king (Dhana Nanda), contemporary of Alexander."}
+      {
+        "term": "Sarva-Kshatrantaka",
+        "definition": "'Uprooter of all Kshatriyas' — a title of Mahapadma Nanda reflecting his conquests."
+      },
+      {
+        "term": "Agrammes",
+        "definition": "The Greek name for the last Nanda king (Dhana Nanda), contemporary of Alexander."
+      }
     ]
   },
   {
@@ -247,11 +430,23 @@
           },
           {
             "type": "table",
-            "headers": ["Invasion", "Detail & impact"],
+            "headers": [
+              "Invasion",
+              "Detail & impact"
+            ],
             "rows": [
-              ["**Persian (Achaemenid)**", "**Cyrus & Darius I** annexed the NW (Gandhara/Sindh) — a rich satrapy; introduced **Kharoshthi script, Aramaic, sigloi coins**; Persian influence on Mauryan art (Ashokan pillars)."],
-              ["**Alexander (326 BCE)**", "Defeated **Porus at the Hydaspes (Jhelum)**; army mutinied at the **Beas**; retreated 325 BCE, died 323 BCE at Babylon."],
-              ["**Impacts**", "**Indo-Greek relations, trade routes, Gandhara art seeds, Greek accounts (Arrian, Megasthenes later), and a political vacuum aiding the Mauryas**."]
+              [
+                "**Persian (Achaemenid)**",
+                "**Cyrus & Darius I** annexed the NW (Gandhara/Sindh) — a rich satrapy; introduced **Kharoshthi script, Aramaic, sigloi coins**; Persian influence on Mauryan art (Ashokan pillars)."
+              ],
+              [
+                "**Alexander (326 BCE)**",
+                "Defeated **Porus at the Hydaspes (Jhelum)**; army mutinied at the **Beas**; retreated 325 BCE, died 323 BCE at Babylon."
+              ],
+              [
+                "**Impacts**",
+                "**Indo-Greek relations, trade routes, Gandhara art seeds, Greek accounts (Arrian, Megasthenes later), and a political vacuum aiding the Mauryas**."
+              ]
             ]
           }
         ]
@@ -283,9 +478,18 @@
       "Evaluate the impact of Alexander's invasion on ancient India."
     ],
     "glossary": [
-      {"term": "Hydaspes", "definition": "The Greek name for the Jhelum river, site of Alexander's battle with Porus (326 BCE)."},
-      {"term": "Kharoshthi", "definition": "A right-to-left script of the north-west introduced through Persian (Achaemenid) contact."},
-      {"term": "Satrapy", "definition": "A province of the Achaemenid Persian Empire, such as the Indus/Gandhara region."}
+      {
+        "term": "Hydaspes",
+        "definition": "The Greek name for the Jhelum river, site of Alexander's battle with Porus (326 BCE)."
+      },
+      {
+        "term": "Kharoshthi",
+        "definition": "A right-to-left script of the north-west introduced through Persian (Achaemenid) contact."
+      },
+      {
+        "term": "Satrapy",
+        "definition": "A province of the Achaemenid Persian Empire, such as the Indus/Gandhara region."
+      }
     ]
   },
   {
@@ -301,13 +505,126 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Central govt**", "King aided by **Mantri Parishad**; **18 Tirthas (high officers)** incl. Samaharta (revenue), Sannidhata (treasury)."],
-              ["**Provinces**", "**4 provinces** under royal princes (**Kumaras**); capitals Taxila, Ujjain, Tosali, Suvarnagiri; capital **Pataliputra**."],
-              ["**Espionage**", "Elaborate spy system (**gudhapurushas**); Arthashastra's statecraft."],
-              ["**Megasthenes**", "Described a **6-committee municipal admin of Pataliputra** and a **7-caste society**."],
-              ["**Economy**", "**State control of agriculture, mines, trade**; **land revenue (Bhaga) ~1/6**; Sita lands (crown); standardised **Punch-marked coins**."]
+              [
+                "**Central govt**",
+                "King aided by **Mantri Parishad**; **18 Tirthas (high officers)** incl. Samaharta (revenue), Sannidhata (treasury)."
+              ],
+              [
+                "**Provinces**",
+                "**4 provinces** under royal princes (**Kumaras**); capitals Taxila, Ujjain, Tosali, Suvarnagiri; capital **Pataliputra**."
+              ],
+              [
+                "**Espionage**",
+                "Elaborate spy system (**gudhapurushas**); Arthashastra's statecraft."
+              ],
+              [
+                "**Megasthenes**",
+                "Described a **6-committee municipal admin of Pataliputra** and a **7-caste society**."
+              ],
+              [
+                "**Economy**",
+                "**State control of agriculture, mines, trade**; **land revenue (Bhaga) ~1/6**; Sita lands (crown); standardised **Punch-marked coins**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Mauryan officials & Arthashastra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Post",
+              "Role & Responsibility"
+            ],
+            "rows": [
+              [
+                "Mantriparishad",
+                "Council of Ministers advising the King"
+              ],
+              [
+                "Amatya",
+                "Chief Minister (like a modern-day PM)"
+              ],
+              [
+                "Senapati",
+                "Commander-in-Chief of the army"
+              ],
+              [
+                "Samaharta",
+                "Chief revenue officer (collected taxes)"
+              ],
+              [
+                "Sannidhata",
+                "Treasurer (managed state treasury)"
+              ],
+              [
+                "Dandapala",
+                "Head of Police and Law Enforcement"
+              ],
+              [
+                "Panyadhyaksha",
+                "Regulated trade and markets"
+              ],
+              [
+                "Nagaraka",
+                "Managed city administration"
+              ],
+              [
+                "Dhamma Mahamatras",
+                "Implemented Ashoka’s Dhamma (moral governance)"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "Kautilya's realist foreign policy — the **Shadgunya** (six measures):"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Policy",
+              "Meaning",
+              "When Used"
+            ],
+            "rows": [
+              [
+                "Sandhi (Peace)",
+                "Forming treaties",
+                "When weak"
+              ],
+              [
+                "Vigraha (War)",
+                "Declaring war",
+                "When strong"
+              ],
+              [
+                "Asana (Neutrality)",
+                "Maintaining status quo",
+                "When neither war nor peace is beneficial"
+              ],
+              [
+                "Yana (Offensive War)",
+                "Preparing for attack",
+                "To expand territory"
+              ],
+              [
+                "Samsraya (Alliance)",
+                "Seeking help from allies",
+                "When enemy is powerful"
+              ],
+              [
+                "Dvaidhibhava (Double Policy)",
+                "Secretly supporting both sides",
+                "To weaken enemy"
+              ]
             ]
           }
         ]
@@ -333,15 +650,26 @@
       "Capital **Pataliputra**; 4 provinces under **Kumaras** (Taxila, Ujjain, Tosali, Suvarnagiri).",
       "Land revenue **'Bhaga' ~1/6**; **Samaharta** (revenue), **Sannidhata** (treasury).",
       "Currency — silver **Punch-Marked Coins ('Pana')**.",
-      "Chandragupta embraced **Jainism**, abdicated, and died at **Sravanabelagola** (with Bhadrabahu)."
+      "Chandragupta embraced **Jainism**, abdicated, and died at **Sravanabelagola** (with Bhadrabahu).",
+      "Four provinces: **Taxila, Ujjain, Suvarnagiri, Tosali**; **Samaharta** = revenue, **Sannidhata** = treasury.",
+      "**Saptanga** (7 limbs of state) & **Mandala** theory; Arthashastra found by **R. Shamasastry (1905)**."
     ],
     "mainsAngles": [
       "Describe the administrative system of the Mauryan Empire as revealed by the Arthashastra and Indica."
     ],
     "glossary": [
-      {"term": "Arthashastra", "definition": "Kautilya's treatise on statecraft, administration and economy, a key Mauryan source."},
-      {"term": "Indica", "definition": "Megasthenes' Greek account of Mauryan India, describing its society and administration."},
-      {"term": "Kumara", "definition": "A royal prince appointed as governor of a Mauryan province."}
+      {
+        "term": "Arthashastra",
+        "definition": "Kautilya's treatise on statecraft, administration and economy, a key Mauryan source."
+      },
+      {
+        "term": "Indica",
+        "definition": "Megasthenes' Greek account of Mauryan India, describing its society and administration."
+      },
+      {
+        "term": "Kumara",
+        "definition": "A royal prince appointed as governor of a Mauryan province."
+      }
     ]
   },
   {
@@ -357,14 +685,97 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Kalinga War (261 BCE)**", "Recorded in **Major Rock Edict XIII**; the bloodshed turned Ashoka to Dhamma & Buddhism."],
-              ["**Dhamma**", "Moral code — tolerance, non-violence, respect for elders, welfare; **Dhamma Mahamattas** appointed to spread it."],
-              ["**Edicts**", "**14 Major Rock Edicts, Minor Rock Edicts, 7 Pillar Edicts**; mostly in **Prakrit + Brahmi** (also Kharoshthi, Greek, Aramaic in NW)."],
-              ["**Deciphered**", "By **James Prinsep (1837)**; Ashoka identified by titles **'Devanampiya Piyadassi'**."],
-              ["**Legacy**", "**Sarnath Lion Capital** (national emblem); sent missions incl. **Mahindra & Sanghamitra to Sri Lanka**; 3rd Buddhist Council."]
+              [
+                "**Kalinga War (261 BCE)**",
+                "Recorded in **Major Rock Edict XIII**; the bloodshed turned Ashoka to Dhamma & Buddhism."
+              ],
+              [
+                "**Dhamma**",
+                "Moral code — tolerance, non-violence, respect for elders, welfare; **Dhamma Mahamattas** appointed to spread it."
+              ],
+              [
+                "**Edicts**",
+                "**14 Major Rock Edicts, Minor Rock Edicts, 7 Pillar Edicts**; mostly in **Prakrit + Brahmi** (also Kharoshthi, Greek, Aramaic in NW)."
+              ],
+              [
+                "**Deciphered**",
+                "By **James Prinsep (1837)**; Ashoka identified by titles **'Devanampiya Piyadassi'**."
+              ],
+              [
+                "**Legacy**",
+                "**Sarnath Lion Capital** (national emblem); sent missions incl. **Mahindra & Sanghamitra to Sri Lanka**; 3rd Buddhist Council."
+              ]
             ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Buddhism vs Ashoka's Dhamma",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Feature",
+              "Buddhism",
+              "Ashoka’s Dhamma"
+            ],
+            "rows": [
+              [
+                "Origin",
+                "Founded by Gautama Buddha (6th century BCE)",
+                "Implemented by Emperor Ashoka (3rd century BCE)"
+              ],
+              [
+                "Nature",
+                "A religion & philosophy",
+                "A moral & administrative policy"
+              ],
+              [
+                "Goal",
+                "Nirvana (liberation) from suffering",
+                "Social harmony & unity in the empire"
+              ],
+              [
+                "Sacred Texts",
+                "Tripitaka (Vinaya, Sutta, Abhidhamma)",
+                "No specific religious texts"
+              ],
+              [
+                "Focus",
+                "Spirituality, monastic life, meditation",
+                "Practical governance, welfare, tolerance"
+              ],
+              [
+                "Religious Tolerance",
+                "Accepted other faiths but promoted Buddhist ideas",
+                "Ensured equal respect for all religions"
+              ],
+              [
+                "Spread",
+                "Spread through monks and missionaries",
+                "Spread through Ashoka’s edicts and policies"
+              ],
+              [
+                "Ahimsa",
+                "A fundamental principle in spiritual life",
+                "Adopted as state policy after Kalinga War"
+              ],
+              [
+                "Public Welfare",
+                "Encouraged charity and non-materialism",
+                "Built hospitals, rest houses, roads, and wells for public benefit"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Dhamma was a **secular code of ethics for a plural empire** — not Buddhism itself; propagated by edicts and Dhamma Mahamatras."
           }
         ]
       },
@@ -389,15 +800,26 @@
       "**Sarnath Lion Capital** → India's **State Emblem**; the wheel → **Ashoka Chakra** on the flag.",
       "**Dhamma Mahamattas** — special officers to propagate Dhamma.",
       "Ashoka's missionaries — **Mahindra & Sanghamitra** to **Sri Lanka**; convened the **3rd Buddhist Council (Pataliputra)**.",
-      "Maski & Gujarra minor edicts mention the name **'Ashoka'** directly."
+      "Maski & Gujarra minor edicts mention the name **'Ashoka'** directly.",
+      "**Kalinga War 261 BCE** (13th Major Rock Edict); edicts deciphered by **James Prinsep (1837)**.",
+      "Scripts: **Brahmi** (most), **Kharoshthi** (NW), **Greek/Aramaic** (Kandahar); **Dhamma Mahamatras** = morality officers."
     ],
     "mainsAngles": [
       "Analyse Ashoka's policy of Dhamma and its significance."
     ],
     "glossary": [
-      {"term": "Dhamma", "definition": "Ashoka's code of moral conduct and social ethics, distinct from any single religion."},
-      {"term": "Devanampiya Piyadassi", "definition": "Ashoka's regnal titles used in his edicts, meaning 'Beloved of the Gods, of Gracious Countenance'."},
-      {"term": "Major Rock Edict XIII", "definition": "The edict recording the Kalinga War and Ashoka's remorse and turn to Dhamma."}
+      {
+        "term": "Dhamma",
+        "definition": "Ashoka's code of moral conduct and social ethics, distinct from any single religion."
+      },
+      {
+        "term": "Devanampiya Piyadassi",
+        "definition": "Ashoka's regnal titles used in his edicts, meaning 'Beloved of the Gods, of Gracious Countenance'."
+      },
+      {
+        "term": "Major Rock Edict XIII",
+        "definition": "The edict recording the Kalinga War and Ashoka's remorse and turn to Dhamma."
+      }
     ]
   }
 ]

@@ -12,13 +12,44 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Dynasty & capital**", "**Pushyabhuti (Vardhana)**; shifted capital from Thanesar to **Kanauj**."],
-              ["**Check in the south**", "Defeated by the **Chalukya Pulakeshin II on the Narmada (c. 618-19 CE)** — could not expand into the Deccan."],
-              ["**Sources**", "**Harshacharita & Kadambari (Banabhatta)**; **Xuanzang's** account (Si-Yu-Ki)."],
-              ["**Religion**", "A Shaiva who turned **Buddhist (Mahayana)**; held grand assemblies at **Kanauj & Prayag (every 5 years)**."],
-              ["**Scholar-king**", "Wrote Sanskrit plays — **Nagananda, Ratnavali, Priyadarshika**; patronised Nalanda."]
+              [
+                "**Dynasty & capital**",
+                "**Pushyabhuti (Vardhana)**; shifted capital from Thanesar to **Kanauj**."
+              ],
+              [
+                "**Check in the south**",
+                "Defeated by the **Chalukya Pulakeshin II on the Narmada (c. 618-19 CE)** — could not expand into the Deccan."
+              ],
+              [
+                "**Sources**",
+                "**Harshacharita & Kadambari (Banabhatta)**; **Xuanzang's** account (Si-Yu-Ki)."
+              ],
+              [
+                "**Religion**",
+                "A Shaiva who turned **Buddhist (Mahayana)**; held grand assemblies at **Kanauj & Prayag (every 5 years)**."
+              ],
+              [
+                "**Scholar-king**",
+                "Wrote Sanskrit plays — **Nagananda, Ratnavali, Priyadarshika**; patronised Nalanda."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated: Harsha & the Chinese pilgrim",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Hiuen-Tsang** (630–645 CE) visited **Harshavardhana**; his **Si-Yu-Ki** records Nalanda (10,000 students) & Harsha's welfare rule.",
+              "Harsha: last great northern emperor; defeated by **Pulakeshin II (Chalukya)** on the Narmada; convened the **Kannauj & Prayag assemblies**; author of **Ratnavali, Priyadarshika, Nagananda**; **Banabhatta** wrote Harshacharita."
             ]
           }
         ]
@@ -44,15 +75,26 @@
       "**Xuanzang (Hiuen Tsang)** visited; wrote **Si-Yu-Ki**; attended the Kanauj assembly.",
       "Harsha held a grand assembly at **Prayag every 5 years** (charity/Kumbh-like).",
       "Harsha authored the Sanskrit plays **Nagananda, Ratnavali, Priyadarshika**.",
-      "He patronised **Nalanda University** and Mahayana Buddhism."
+      "He patronised **Nalanda University** and Mahayana Buddhism.",
+      "**Hiuen-Tsang** = 'Prince of Pilgrims'; studied at Nalanda under **Silabhadra**.",
+      "Harsha's defeat by **Pulakeshin II** (Aihole inscription of Ravikirti records it)."
     ],
     "mainsAngles": [
       "Assess Harsha's achievements and the sources for his reign."
     ],
     "glossary": [
-      {"term": "Harshacharita", "definition": "Banabhatta's Sanskrit biography of Harsha, a key source for his reign."},
-      {"term": "Xuanzang", "definition": "The Chinese Buddhist pilgrim (Hiuen Tsang) who visited Harsha's India and recorded it in Si-Yu-Ki."},
-      {"term": "Pushyabhuti", "definition": "The Vardhana dynasty of Thanesar/Kanauj to which Harsha belonged."}
+      {
+        "term": "Harshacharita",
+        "definition": "Banabhatta's Sanskrit biography of Harsha, a key source for his reign."
+      },
+      {
+        "term": "Xuanzang",
+        "definition": "The Chinese Buddhist pilgrim (Hiuen Tsang) who visited Harsha's India and recorded it in Si-Yu-Ki."
+      },
+      {
+        "term": "Pushyabhuti",
+        "definition": "The Vardhana dynasty of Thanesar/Kanauj to which Harsha belonged."
+      }
     ]
   },
   {
@@ -68,12 +110,27 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder / capital**", "Founder **Pulakeshin I**; capital **Badami (Vatapi)**."],
-              ["**Pulakeshin II**", "Greatest; defeated **Harsha** (Narmada); **Aihole inscription** by **Ravikirti**; received Persian embassy; defeated by Pallava **Narasimhavarman I** (Vatapi sacked)."],
-              ["**Architecture**", "**Vesara** style; **Aihole** ('cradle of Indian architecture'), **Pattadakal** (UNESCO), **Badami** cave temples."],
-              ["**Religion**", "Patronised **Hinduism, Jainism & Buddhism**; Vaishnava & Shaiva temples."]
+              [
+                "**Founder / capital**",
+                "Founder **Pulakeshin I**; capital **Badami (Vatapi)**."
+              ],
+              [
+                "**Pulakeshin II**",
+                "Greatest; defeated **Harsha** (Narmada); **Aihole inscription** by **Ravikirti**; received Persian embassy; defeated by Pallava **Narasimhavarman I** (Vatapi sacked)."
+              ],
+              [
+                "**Architecture**",
+                "**Vesara** style; **Aihole** ('cradle of Indian architecture'), **Pattadakal** (UNESCO), **Badami** cave temples."
+              ],
+              [
+                "**Religion**",
+                "Patronised **Hinduism, Jainism & Buddhism**; Vaishnava & Shaiva temples."
+              ]
             ]
           }
         ]
@@ -105,9 +162,18 @@
       "Discuss the contribution of the Badami Chalukyas to temple architecture."
     ],
     "glossary": [
-      {"term": "Vesara", "definition": "The Deccan temple style blending Nagara and Dravida features, developed by the Chalukyas."},
-      {"term": "Aihole inscription", "definition": "Ravikirti's eulogy of Pulakeshin II, a key source recording his victory over Harsha."},
-      {"term": "Vatapi", "definition": "The Badami Chalukya capital, sacked by the Pallava Narasimhavarman I."}
+      {
+        "term": "Vesara",
+        "definition": "The Deccan temple style blending Nagara and Dravida features, developed by the Chalukyas."
+      },
+      {
+        "term": "Aihole inscription",
+        "definition": "Ravikirti's eulogy of Pulakeshin II, a key source recording his victory over Harsha."
+      },
+      {
+        "term": "Vatapi",
+        "definition": "The Badami Chalukya capital, sacked by the Pallava Narasimhavarman I."
+      }
     ]
   },
   {
@@ -123,12 +189,27 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder**", "**Kubja Vishnuvardhana**, brother of Badami Chalukya **Pulakeshin II**; capital **Vengi**."],
-              ["**Duration**", "~400 years — the longest-ruling dynasty of coastal Andhra."],
-              ["**Telugu literature**", "**Rajaraja Narendra** patronised **Nannaya (Adikavi)**, who began the **Telugu Mahabharatam**."],
-              ["**Chola link**", "Merged with the **Cholas** via **Kulottunga I** (Chalukya-Chola line)."]
+              [
+                "**Founder**",
+                "**Kubja Vishnuvardhana**, brother of Badami Chalukya **Pulakeshin II**; capital **Vengi**."
+              ],
+              [
+                "**Duration**",
+                "~400 years — the longest-ruling dynasty of coastal Andhra."
+              ],
+              [
+                "**Telugu literature**",
+                "**Rajaraja Narendra** patronised **Nannaya (Adikavi)**, who began the **Telugu Mahabharatam**."
+              ],
+              [
+                "**Chola link**",
+                "Merged with the **Cholas** via **Kulottunga I** (Chalukya-Chola line)."
+              ]
             ]
           }
         ]
@@ -159,8 +240,14 @@
       "Assess the Eastern Chalukyas' role in the growth of Telugu literature."
     ],
     "glossary": [
-      {"term": "Vengi", "definition": "The coastal-Andhra capital of the Eastern Chalukyas for some four centuries."},
-      {"term": "Nannaya", "definition": "The 'Adikavi' (first poet) of Telugu, patronised by the Eastern Chalukya Rajaraja Narendra."}
+      {
+        "term": "Vengi",
+        "definition": "The coastal-Andhra capital of the Eastern Chalukyas for some four centuries."
+      },
+      {
+        "term": "Nannaya",
+        "definition": "The 'Adikavi' (first poet) of Telugu, patronised by the Eastern Chalukya Rajaraja Narendra."
+      }
     ]
   },
   {
@@ -176,13 +263,31 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder / capital**", "**Dantidurga**; capital **Manyakheta (Malkhed)**."],
-              ["**Greatest rulers**", "**Govinda III, Amoghavarsha I** (wrote **Kavirajamarga** in Kannada; **Ratnamalika**; Jain)."],
-              ["**Tripartite struggle**", "Rashtrakutas vs **Pratiharas vs Palas** for **Kanauj**."],
-              ["**Architecture**", "**Kailasa temple, Ellora** (rock-cut, Krishna I) — monolithic marvel; Elephanta caves influence."],
-              ["**Foreign notice**", "Arab traveller **Al-Masudi**; praised as one of the four great empires of the world (Sulaiman)."]
+              [
+                "**Founder / capital**",
+                "**Dantidurga**; capital **Manyakheta (Malkhed)**."
+              ],
+              [
+                "**Greatest rulers**",
+                "**Govinda III, Amoghavarsha I** (wrote **Kavirajamarga** in Kannada; **Ratnamalika**; Jain)."
+              ],
+              [
+                "**Tripartite struggle**",
+                "Rashtrakutas vs **Pratiharas vs Palas** for **Kanauj**."
+              ],
+              [
+                "**Architecture**",
+                "**Kailasa temple, Ellora** (rock-cut, Krishna I) — monolithic marvel; Elephanta caves influence."
+              ],
+              [
+                "**Foreign notice**",
+                "Arab traveller **Al-Masudi**; praised as one of the four great empires of the world (Sulaiman)."
+              ]
             ]
           }
         ]
@@ -214,9 +319,18 @@
       "Evaluate the Rashtrakutas' contribution to art and the tripartite struggle."
     ],
     "glossary": [
-      {"term": "Manyakheta", "definition": "The Rashtrakuta capital (modern Malkhed) in the western Deccan."},
-      {"term": "Kavirajamarga", "definition": "The earliest work on Kannada poetics, attributed to Amoghavarsha I."},
-      {"term": "Tripartite struggle", "definition": "The three-way contest among Rashtrakutas, Pratiharas and Palas for control of Kanauj."}
+      {
+        "term": "Manyakheta",
+        "definition": "The Rashtrakuta capital (modern Malkhed) in the western Deccan."
+      },
+      {
+        "term": "Kavirajamarga",
+        "definition": "The earliest work on Kannada poetics, attributed to Amoghavarsha I."
+      },
+      {
+        "term": "Tripartite struggle",
+        "definition": "The three-way contest among Rashtrakutas, Pratiharas and Palas for control of Kanauj."
+      }
     ]
   }
 ]

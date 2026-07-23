@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "**Jainism**", "**Buddhism**"],
+            "headers": [
+              "Aspect",
+              "**Jainism**",
+              "**Buddhism**"
+            ],
             "rows": [
-              ["Founder & core", "Mahavira; **extreme ahimsa, asceticism**; the world is eternal (no creator god)", "Buddha; the **Middle Path** (avoid extremes); moderate"],
-              ["Core teaching", "**Triratna** (right faith-knowledge-conduct); **anekantavada** (many-sidedness), **syadvada**; **5 vows** (ahimsa, satya, asteya, aparigraha, brahmacharya)", "**Four Noble Truths** (suffering, its cause-desire, cessation, path), **Eightfold Path**, anatta (no-soul), anicca (impermanence), nirvana"],
-              ["Path & goal", "Liberation (kaivalya) via severe austerity, even **sallekhana** (fasting to death)", "Nirvana via ethical-mental discipline; the Middle Way"],
-              ["Language & spread", "Prakrit (Ardhamagadhi); mainly western/southern India", "Pali; spread across Asia (the first world religion from India)"],
-              ["Sects", "**Digambara (sky-clad) vs Svetambara (white-clad)** — split over nudity/possessions", "**Hinayana/Theravada, Mahayana (Bodhisattva ideal, Buddha-worship), Vajrayana (tantric)**"]
+              [
+                "Founder & core",
+                "Mahavira; **extreme ahimsa, asceticism**; the world is eternal (no creator god)",
+                "Buddha; the **Middle Path** (avoid extremes); moderate"
+              ],
+              [
+                "Core teaching",
+                "**Triratna** (right faith-knowledge-conduct); **anekantavada** (many-sidedness), **syadvada**; **5 vows** (ahimsa, satya, asteya, aparigraha, brahmacharya)",
+                "**Four Noble Truths** (suffering, its cause-desire, cessation, path), **Eightfold Path**, anatta (no-soul), anicca (impermanence), nirvana"
+              ],
+              [
+                "Path & goal",
+                "Liberation (kaivalya) via severe austerity, even **sallekhana** (fasting to death)",
+                "Nirvana via ethical-mental discipline; the Middle Way"
+              ],
+              [
+                "Language & spread",
+                "Prakrit (Ardhamagadhi); mainly western/southern India",
+                "Pali; spread across Asia (the first world religion from India)"
+              ],
+              [
+                "Sects",
+                "**Digambara (sky-clad) vs Svetambara (white-clad)** — split over nudity/possessions",
+                "**Hinayana/Theravada, Mahayana (Bodhisattva ideal, Buddha-worship), Vajrayana (tantric)**"
+              ]
             ]
           }
         ]
@@ -39,6 +63,163 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[6th century BCE ferment] --> B[Causes: ritualism, caste, sacrifice cost, urban mercantile society]\n  B --> C[Jainism - Mahavira - extreme ahimsa]\n  B --> D[Buddhism - Buddha - Middle Path]\n  C --> E[Triratna, anekantavada, Digambara-Svetambara]\n  D --> F[Four Noble Truths, Eightfold Path, Hinayana-Mahayana-Vajrayana]\n  D --> G[Councils and Tripitaka]\n  E --> H[Impact: ahimsa, vernaculars, art, universities]\n  F --> H\n  H --> I[AP: Amaravati, Nagarjunakonda - Buddhist heartland]"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: Buddhism & Jainism — compare, contrast, sects",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The heterodox pair is best answered through a **similarities/differences** frame plus the sectarian map:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Buddhism",
+              "Jainism"
+            ],
+            "rows": [
+              [
+                "Founder",
+                "Gautama Buddha (Siddhartha)",
+                "Vardhamana Mahavira"
+              ],
+              [
+                "Core Belief",
+                "Middle Path (Madhyam Marg) - Avoiding extremes of luxury and asceticism.",
+                "Extreme Asceticism - Severe renunciation to attain liberation."
+              ],
+              [
+                "Concept of Soul (Atman)",
+                "No permanent soul (Anatta), only a stream of consciousness.",
+                "Believes in permanent soul (Atman) that transmigrates."
+              ],
+              [
+                "Ahimsa (Non-Violence)",
+                "Non-violence is important but not absolute (e.g., killing for self-defense is allowed).",
+                "Strictest Ahimsa - No harm to any living being, including microorganisms."
+              ],
+              [
+                "Salvation (Moksha/Nirvana)",
+                "Achieved by following the Eightfold Path.",
+                "Achieved by severe penance and karma purification."
+              ],
+              [
+                "Concept of God",
+                "Agnostic - Does not confirm or deny God's existence.",
+                "Atheistic - Believes there is no God."
+              ],
+              [
+                "Path to Liberation",
+                "Eightfold Path (Right View, Right Speech, Right Action, etc.).",
+                "Three Jewels (Right Faith, Right Knowledge, Right Conduct)."
+              ],
+              [
+                "Doctrine of Karma",
+                "Karma affects rebirth, but one can change destiny through effort.",
+                "Karma accumulates over lifetimes and determines the soul’s purity."
+              ],
+              [
+                "Sacred Texts",
+                "Tripitaka (Pali Canon)",
+                "Agamas"
+              ],
+              [
+                "View on Caste System",
+                "Rejected caste system and allowed everyone to join the Sangha.",
+                "Did not fully reject caste but focused on individual spiritual progress."
+              ],
+              [
+                "Language of Teachings",
+                "Pali and Sanskrit",
+                "Prakrit"
+              ],
+              [
+                "Women in Religion",
+                "Women were allowed in the Sangha (Buddhist order).",
+                "Women had restricted roles and were believed to have to be reborn as men for liberation."
+              ],
+              [
+                "Monastic Rules",
+                "Less strict; monks could eat meat if offered by laypeople.",
+                "Extremely strict; monks practice fasting and avoid root vegetables."
+              ],
+              [
+                "Spread of Religion",
+                "Spread widely to China, Japan, Korea, Sri Lanka, and Southeast Asia.",
+                "Mainly confined to India."
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "The Buddhist sects and their geographic spread:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Sect",
+              "Focus",
+              "Key Feature",
+              "Spread"
+            ],
+            "rows": [
+              [
+                "Theravāda (Hinayana)",
+                "Individual Nirvana",
+                "Buddha as Teacher",
+                "Sri Lanka, SE Asia"
+              ],
+              [
+                "Mahayana",
+                "Universal Liberation",
+                "Worship of Buddha & Bodhisattvas",
+                "China, Japan, Korea"
+              ],
+              [
+                "Vajrayana",
+                "Mystical Practices",
+                "Mantras, Mandalas, Rituals",
+                "Tibet, Mongolia, Nepal"
+              ],
+              [
+                "Zen (Chan)",
+                "Meditation",
+                "Intuition & Simplicity",
+                "Japan, China, Korea"
+              ],
+              [
+                "Pure Land",
+                "Devotion to Amitabha",
+                "Faith-based salvation",
+                "China, Japan, Vietnam"
+              ],
+              [
+                "Nichiren",
+                "Lotus Sutra",
+                "Recitation of \"Nam Myoho Renge Kyo\"",
+                "Japan, USA, Europe"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  A[6th c BCE ferment - 2nd urbanisation, varna discontent, costly yajnas] --> B[Sramana movements]\n  B --> C[Buddhism - Middle Path, Anatta]\n  B --> D[Jainism - extreme ahimsa, Atman]\n  C --> E[Councils -> Theravada & Mahayana -> Asia]\n  D --> F[Svetambara & Digambara - survives in India]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Shared ground**: both 6th-century-BCE, kshatriya-founded, anti-Vedic, anti-caste (spiritually), Prakrit/Pali preaching, karma-rebirth-moksha, monastic sanghas open to women.",
+              "**Core divergence**: Buddha's **Middle Path & Anatta** (no permanent soul) vs Mahavira's **extreme asceticism & belief in Atman**; Buddhism's moderation aided its export, Jainism's rigour rooted it in India.",
+              "**Impact**: Pali/Prakrit literature, stupa & cave architecture, universities (Nalanda), and a lasting ethic of non-violence — while Jainism deeply shaped Gujarat/Karnataka trade and art (Shravanabelagola)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'Buddhism conquered Asia but faded in India; Jainism never left India but never faded' — the moderation/rigour contrast explains both trajectories."
           }
         ]
       },
@@ -67,7 +248,12 @@
       "Buddhist councils: 1st Rajagriha, 2nd Vaishali, **3rd Pataliputra (Ashoka), 4th Kashmir (Kanishka — Mahayana)**; canon — **Tripitaka (Pali)**.",
       "Buddhist schools: **Hinayana/Theravada, Mahayana (Bodhisattva), Vajrayana (tantric)**.",
       "**Amaravati (Mahachaitya, Satavahana), Nagarjunakonda (Ikshvaku), Bhattiprolu** — AP's great Buddhist sites; **Amaravati school of art**.",
-      "**Acharya Nagarjuna** — Madhyamaka (Shunyavada) philosophy, associated with the Andhra region."
+      "**Acharya Nagarjuna** — Madhyamaka (Shunyavada) philosophy, associated with the Andhra region.",
+      "Buddha's **Four Noble Truths** + **Eightfold Path** (Middle Path); Tripitaka in **Pali** (Sutta, Vinaya, Abhidhamma).",
+      "Mahavira = **24th Tirthankara**; five vows (add **brahmacharya** to Parshva's four); sects **Svetambara** (white-clad) & **Digambara** (sky-clad).",
+      "Buddhist sects: **Theravada/Hinayana** (Sri Lanka, SE Asia), **Mahayana** (China/Japan/Korea), **Vajrayana** (Tibet).",
+      "Four Buddhist Councils: **Rajgir, Vaishali, Pataliputra (Ashoka), Kashmir (Kanishka — Mahayana crystallised)**.",
+      "Jain councils: **Pataliputra** (Chandragupta era) & **Vallabhi**; great migration under Bhadrabahu to Shravanabelagola."
     ],
     "mainsAngles": [
       "Urban society bred spiritual revolution — analyse the causes of the sixth-century-BCE heterodox reaction.",
@@ -77,12 +263,30 @@
       "Andhra was a Buddhist heartland — evaluate Amaravati, Nagarjunakonda and Nagarjuna's philosophy."
     ],
     "glossary": [
-      { "term": "Shramana", "definition": "A wandering renouncer of the sixth-century-BCE movements (Jain, Buddhist, Ajivika) rejecting Vedic ritual authority." },
-      { "term": "Tirthankara", "definition": "A Jain 'ford-maker' teacher; Mahavira was the 24th and last of the age." },
-      { "term": "Four Noble Truths", "definition": "Buddhism's core: suffering exists, arises from desire, can cease, via the Eightfold Path." },
-      { "term": "Anekantavada", "definition": "The Jain doctrine of many-sidedness — reality has multiple aspects, none absolutely true alone." },
-      { "term": "Bodhisattva", "definition": "In Mahayana, an enlightened being who delays nirvana to help others — the compassion ideal." },
-      { "term": "Madhyamaka", "definition": "Nagarjuna's 'middle-way' philosophy of emptiness (shunyata), developed in the Andhra region." }
+      {
+        "term": "Shramana",
+        "definition": "A wandering renouncer of the sixth-century-BCE movements (Jain, Buddhist, Ajivika) rejecting Vedic ritual authority."
+      },
+      {
+        "term": "Tirthankara",
+        "definition": "A Jain 'ford-maker' teacher; Mahavira was the 24th and last of the age."
+      },
+      {
+        "term": "Four Noble Truths",
+        "definition": "Buddhism's core: suffering exists, arises from desire, can cease, via the Eightfold Path."
+      },
+      {
+        "term": "Anekantavada",
+        "definition": "The Jain doctrine of many-sidedness — reality has multiple aspects, none absolutely true alone."
+      },
+      {
+        "term": "Bodhisattva",
+        "definition": "In Mahayana, an enlightened being who delays nirvana to help others — the compassion ideal."
+      },
+      {
+        "term": "Madhyamaka",
+        "definition": "Nagarjuna's 'middle-way' philosophy of emptiness (shunyata), developed in the Andhra region."
+      }
     ]
   },
   {
@@ -98,12 +302,27 @@
           },
           {
             "type": "table",
-            "headers": ["Mauryan ruler", "Achievement"],
+            "headers": [
+              "Mauryan ruler",
+              "Achievement"
+            ],
             "rows": [
-              ["**Chandragupta Maurya (321-297 BCE)**", "Founded the empire; defeated Seleucus (treaty — 500 elephants, marriage alliance, **Megasthenes** as envoy); unified most of the subcontinent; late-life Jain ascetic (Shravanabelagola)"],
-              ["**Bindusara (297-273 BCE)**", "'Amitraghata' (slayer of foes); extended into the Deccan; contact with the Hellenistic world"],
-              ["**Ashoka (268-232 BCE)**", "The zenith (HCOI-007); Kalinga war → Dhamma; the edicts"],
-              ["Decline (post-Ashoka)", "Weak successors, over-centralisation, financial strain, Brahmanical reaction; **Brihadratha killed by Pushyamitra Shunga (185 BCE)** — the Shunga takeover"]
+              [
+                "**Chandragupta Maurya (321-297 BCE)**",
+                "Founded the empire; defeated Seleucus (treaty — 500 elephants, marriage alliance, **Megasthenes** as envoy); unified most of the subcontinent; late-life Jain ascetic (Shravanabelagola)"
+              ],
+              [
+                "**Bindusara (297-273 BCE)**",
+                "'Amitraghata' (slayer of foes); extended into the Deccan; contact with the Hellenistic world"
+              ],
+              [
+                "**Ashoka (268-232 BCE)**",
+                "The zenith (HCOI-007); Kalinga war → Dhamma; the edicts"
+              ],
+              [
+                "Decline (post-Ashoka)",
+                "Weak successors, over-centralisation, financial strain, Brahmanical reaction; **Brihadratha killed by Pushyamitra Shunga (185 BCE)** — the Shunga takeover"
+              ]
             ]
           }
         ]
@@ -124,6 +343,163 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Magadha's rise: geography, iron, elephants] --> B[Haryanka-Shishunaga-Nanda]\n  B --> C[Chandragupta + Chanakya - 321 BCE]\n  C --> D[Mauryan Empire - first pan-Indian state]\n  D --> E[Bindusara - Deccan expansion]\n  E --> F[Ashoka - zenith]\n  D --> G[Centralised bureaucracy - Arthashastra + Indica]\n  F --> H[Decline post-Ashoka]\n  H --> I[Pushyamitra Shunga 185 BCE]\n  D --> J[AP: Erragudi Ashokan edicts]"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: the Mauryan state & the Arthashastra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The Mauryan bureaucracy is examined through its **key offices** and Kautilya's science of statecraft. The officer cadre:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Post",
+              "Role & Responsibility"
+            ],
+            "rows": [
+              [
+                "Mantriparishad",
+                "Council of Ministers advising the King"
+              ],
+              [
+                "Amatya",
+                "Chief Minister (like a modern-day PM)"
+              ],
+              [
+                "Senapati",
+                "Commander-in-Chief of the army"
+              ],
+              [
+                "Samaharta",
+                "Chief revenue officer (collected taxes)"
+              ],
+              [
+                "Sannidhata",
+                "Treasurer (managed state treasury)"
+              ],
+              [
+                "Dandapala",
+                "Head of Police and Law Enforcement"
+              ],
+              [
+                "Panyadhyaksha",
+                "Regulated trade and markets"
+              ],
+              [
+                "Nagaraka",
+                "Managed city administration"
+              ],
+              [
+                "Dhamma Mahamatras",
+                "Implemented Ashoka’s Dhamma (moral governance)"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "The pillars of the **Arthashastra**, and Kautilya's realist foreign policy (Shadgunya):"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Theme",
+              "Key Concepts"
+            ],
+            "rows": [
+              [
+                "Kingship & State",
+                "The king is divinely sanctioned but accountable to the people."
+              ],
+              [
+                "Administration",
+                "A centralized bureaucracy with efficient ministers."
+              ],
+              [
+                "Duties of the King",
+                "The king must ensure justice, security, and prosperity."
+              ],
+              [
+                "Economic Policies",
+                "Heavy taxation (1/6th of produce), state-controlled economy."
+              ],
+              [
+                "Law & Justice",
+                "Strict laws, espionage to prevent crime."
+              ],
+              [
+                "Foreign Policy",
+                "Six-fold strategy (Shadgunya Niti) for diplomacy."
+              ],
+              [
+                "Military Strategy",
+                "A strong army and fortifications for empire-building."
+              ],
+              [
+                "Espionage & Intelligence",
+                "Use of spies, secret agents, and propaganda."
+              ]
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Policy",
+              "Meaning",
+              "When Used"
+            ],
+            "rows": [
+              [
+                "Sandhi (Peace)",
+                "Forming treaties",
+                "When weak"
+              ],
+              [
+                "Vigraha (War)",
+                "Declaring war",
+                "When strong"
+              ],
+              [
+                "Asana (Neutrality)",
+                "Maintaining status quo",
+                "When neither war nor peace is beneficial"
+              ],
+              [
+                "Yana (Offensive War)",
+                "Preparing for attack",
+                "To expand territory"
+              ],
+              [
+                "Samsraya (Alliance)",
+                "Seeking help from allies",
+                "When enemy is powerful"
+              ],
+              [
+                "Dvaidhibhava (Double Policy)",
+                "Secretly supporting both sides",
+                "To weaken enemy"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart TD\n  E[Emperor - supreme executive/judicial/military] --> M[Mantriparishad - council of ministers]\n  E --> P[Provinces - Kumaras/Aryaputras as viceroys]\n  P --> D[Districts - Sthanika, Gopa]\n  D --> V[Villages - Gramika]\n  E --> S[Spies - Sansthana & Sanchara networks]\n  E --> R[Revenue - Samaharta / Treasury - Sannidhata]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Centralised bureaucracy**: 4 provinces (Taxila, Ujjain, Suvarnagiri, Tosali) under royal princes; a graded cadre — Amatya, Senapati, Samaharta (revenue), Sannidhata (treasury), Adhyakshas (superintendents).",
+              "**Arthashastra**: the king is the pivot of the **saptanga** (7 limbs) state; the **Mandala** theory of concentric friend-enemy circles governs foreign policy through the **six measures** (Sandhi, Vigraha, Asana, Yana, Samsraya, Dvaidhibhava).",
+              "**Sources**: Kautilya's Arthashastra, Megasthenes' Indica, Ashokan edicts, Vishakhadatta's Mudrarakshasa, Jain/Buddhist traditions.",
+              "Kautilya's realism vs Machiavelli: both power-focused, but Kautilya keeps **ethics interlinked with statecraft (Rajadharma)** — welfare as the king's duty."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: 'In the happiness of his subjects lies the king's happiness' (Arthashastra) — quote it to show Mauryan statecraft fused realism with welfare, unlike Machiavelli."
           }
         ]
       },
@@ -152,7 +528,12 @@
       "Sources: **Arthashastra (Kautilya), Indica (Megasthenes), Ashokan edicts, Mudrarakshasa (Visakhadatta)**.",
       "Officials: **samaharta (revenue), sannidhata (treasury), adhyakshas (superintendents)**; capital **Pataliputra**.",
       "Chandragupta ended life as a **Jain ascetic at Shravanabelagola** (Bhadrabahu tradition).",
-      "**Ashokan minor rock edicts at Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool, AP)** — Mauryan reach into Andhra."
+      "**Ashokan minor rock edicts at Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool, AP)** — Mauryan reach into Andhra.",
+      "Chandragupta Maurya + **Kautilya (Chanakya/Vishnugupta)**; founded 321 BCE after ousting the Nandas; **Megasthenes' Indica** on Pataliputra & the 7-caste society.",
+      "Four provinces: **Taxila, Ujjain, Suvarnagiri, Tosali**; capital **Pataliputra** (municipal board of 6 committees per Megasthenes).",
+      "**Saptanga** (7 organs of state) & **Shadgunya** (6-fold foreign policy); Mandala theory of the vijigishu.",
+      "Chandragupta embraced **Jainism** (Bhadrabahu, Shravanabelagola); Bindusara favoured **Ajivikas**; Ashoka **Buddhism**.",
+      "Arthashastra rediscovered by **R. Shamasastry (1905)**."
     ],
     "mainsAngles": [
       "Geography and iron made Magadha — analyse its rise from Mahajanapada to empire.",
@@ -162,12 +543,30 @@
       "Erragudi's edicts put Andhra in the empire — trace Mauryan authority in the Deccan and the Satavahana succession."
     ],
     "glossary": [
-      { "term": "Mauryan Empire", "definition": "India's first pan-subcontinental state (c. 321-185 BCE), founded by Chandragupta with Chanakya's guidance." },
-      { "term": "Arthashastra", "definition": "Kautilya's treatise on statecraft — the theoretical blueprint of the Mauryan bureaucratic state." },
-      { "term": "Indica", "definition": "Megasthenes' Greek account of Mauryan India — a key external source, partly garbled." },
-      { "term": "Samaharta", "definition": "The Mauryan collector-general of revenue — the fiscal machinery's head." },
-      { "term": "Northern Black Polished Ware", "definition": "The fine luxury pottery marking the mature second-urbanisation and Mauryan-era prosperity." },
-      { "term": "Erragudi edicts", "definition": "Ashokan minor rock edicts in Kurnool district — evidence of Mauryan authority in the Andhra region." }
+      {
+        "term": "Mauryan Empire",
+        "definition": "India's first pan-subcontinental state (c. 321-185 BCE), founded by Chandragupta with Chanakya's guidance."
+      },
+      {
+        "term": "Arthashastra",
+        "definition": "Kautilya's treatise on statecraft — the theoretical blueprint of the Mauryan bureaucratic state."
+      },
+      {
+        "term": "Indica",
+        "definition": "Megasthenes' Greek account of Mauryan India — a key external source, partly garbled."
+      },
+      {
+        "term": "Samaharta",
+        "definition": "The Mauryan collector-general of revenue — the fiscal machinery's head."
+      },
+      {
+        "term": "Northern Black Polished Ware",
+        "definition": "The fine luxury pottery marking the mature second-urbanisation and Mauryan-era prosperity."
+      },
+      {
+        "term": "Erragudi edicts",
+        "definition": "Ashokan minor rock edicts in Kurnool district — evidence of Mauryan authority in the Andhra region."
+      }
     ]
   },
   {
@@ -183,12 +582,27 @@
           },
           {
             "type": "table",
-            "headers": ["The edicts", "Content"],
+            "headers": [
+              "The edicts",
+              "Content"
+            ],
             "rows": [
-              ["**Major Rock Edicts (14)**", "Dhamma principles, welfare, sect-tolerance, animal-welfare; on rocks along the empire's edges"],
-              ["**Pillar Edicts (7)** & pillars", "On polished sandstone pillars (the **Sarnath lion capital — India's national emblem**); Dhamma & administration"],
-              ["**Minor Rock Edicts**", "Personal faith declarations; **Maski & Gujarra name 'Ashoka' explicitly** (confirming identity with 'Devanampiya Piyadasi')"],
-              ["Scripts & languages", "**Brahmi (mostly), Kharosthi (NW), Greek & Aramaic (Afghan edicts — Kandahar)** — Prakrit dialects; deciphered by **James Prinsep (1837)**"]
+              [
+                "**Major Rock Edicts (14)**",
+                "Dhamma principles, welfare, sect-tolerance, animal-welfare; on rocks along the empire's edges"
+              ],
+              [
+                "**Pillar Edicts (7)** & pillars",
+                "On polished sandstone pillars (the **Sarnath lion capital — India's national emblem**); Dhamma & administration"
+              ],
+              [
+                "**Minor Rock Edicts**",
+                "Personal faith declarations; **Maski & Gujarra name 'Ashoka' explicitly** (confirming identity with 'Devanampiya Piyadasi')"
+              ],
+              [
+                "Scripts & languages",
+                "**Brahmi (mostly), Kharosthi (NW), Greek & Aramaic (Afghan edicts — Kandahar)** — Prakrit dialects; deciphered by **James Prinsep (1837)**"
+              ]
             ]
           }
         ]
@@ -209,6 +623,88 @@
           {
             "type": "mermaid",
             "code": "flowchart TD\n  A[Ashoka - Mauryan zenith] --> B[Kalinga War 261 BCE]\n  B --> C[Remorse - embraces Buddhism]\n  C --> D[Dhamma - universal ethical code]\n  D --> E[Non-violence, tolerance, welfare, respect]\n  D --> F[Propagated via edicts + Dhamma Mahamatras]\n  F --> G[Rock, pillar, minor edicts - Brahmi]\n  D --> H[Buddhism spreads to Asia - Mahinda-Sanghamitta]\n  A --> I[AP: Erragudi edicts - all men are my children]"
+          }
+        ]
+      },
+      {
+        "heading": "📊 Integrated deep-dive: Buddhism vs Ashoka's Dhamma",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The classic distinction: Dhamma was **not** Buddhism but a secular, administrative code of ethics for a plural empire. The differences:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Feature",
+              "Buddhism",
+              "Ashoka’s Dhamma"
+            ],
+            "rows": [
+              [
+                "Origin",
+                "Founded by Gautama Buddha (6th century BCE)",
+                "Implemented by Emperor Ashoka (3rd century BCE)"
+              ],
+              [
+                "Nature",
+                "A religion & philosophy",
+                "A moral & administrative policy"
+              ],
+              [
+                "Goal",
+                "Nirvana (liberation) from suffering",
+                "Social harmony & unity in the empire"
+              ],
+              [
+                "Sacred Texts",
+                "Tripitaka (Vinaya, Sutta, Abhidhamma)",
+                "No specific religious texts"
+              ],
+              [
+                "Focus",
+                "Spirituality, monastic life, meditation",
+                "Practical governance, welfare, tolerance"
+              ],
+              [
+                "Religious Tolerance",
+                "Accepted other faiths but promoted Buddhist ideas",
+                "Ensured equal respect for all religions"
+              ],
+              [
+                "Spread",
+                "Spread through monks and missionaries",
+                "Spread through Ashoka’s edicts and policies"
+              ],
+              [
+                "Ahimsa",
+                "A fundamental principle in spiritual life",
+                "Adopted as state policy after Kalinga War"
+              ],
+              [
+                "Public Welfare",
+                "Encouraged charity and non-materialism",
+                "Built hospitals, rest houses, roads, and wells for public benefit"
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[Kalinga War 261 BCE - carnage] --> B[Remorse - Ashoka embraces Buddhism]\n  B --> C[Dhamma - non-violence, tolerance, welfare]\n  C --> D[Edicts on rock & pillar - Prakrit/Brahmi]\n  C --> E[Dhamma Mahamatras - moral officers]\n  C --> F[3rd Buddhist Council + missions - Sri Lanka, Asia]"
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Similarities**: both centre non-violence, tolerance, ethical conduct and compassion; Dhamma drew its vocabulary from Buddhist and broader Indian ethics.",
+              "**Differences**: Buddhism = religion & path to Nirvana (Tripitaka); Dhamma = **public moral policy** for social harmony, with no scripture, propagated by edict and by **Dhamma Mahamatras**.",
+              "**Instruments**: Major & Minor Rock Edicts, Pillar Edicts (Brahmi/Prakrit; Kharoshthi & Greek/Aramaic at the frontiers); welfare works — hospitals, wells, rest-houses, roadside trees.",
+              "**Legacy**: Ashoka carried Buddhism across Asia (son **Mahinda** & daughter **Sanghamitra** to Sri Lanka), and modelled an early ideal of ethical, tolerant governance."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Exam tip: Dhamma is 'the ethical cement of a diverse empire' — a state policy of tolerance and welfare, distinct from the religion of Buddhism it drew upon."
           }
         ]
       },
@@ -237,7 +733,12 @@
       "Ashoka's titles in edicts: **'Devanampiya Piyadasi'**; **Maski & Gujarra edicts name 'Ashoka'** directly.",
       "**Sarnath Lion Capital** — India's national emblem; the Ashokan Chakra on the national flag.",
       "Missions: son **Mahinda** & daughter **Sanghamitta** to **Sri Lanka**; convened the **3rd Buddhist Council**.",
-      "**AP edicts: Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool)** — 'savve munisse paja mama' (all men are my children)."
+      "**AP edicts: Erragudi/Yerragudi & Rajula-Mandagiri (Kurnool)** — 'savve munisse paja mama' (all men are my children).",
+      "**Kalinga War 261 BCE** (13th Major Rock Edict — the only edict to record it) turned Ashoka to Dhamma.",
+      "Edicts deciphered by **James Prinsep (1837)**; scripts **Brahmi** (most), **Kharoshthi** (NW), **Greek & Aramaic** (Kandahar).",
+      "**Dhamma Mahamatras** = officers of morality; **3rd Buddhist Council** at Pataliputra (Moggaliputta Tissa) under Ashoka.",
+      "Missions: **Mahinda & Sanghamitra to Sri Lanka**; Ashoka titled **Devanampiya Piyadasi**.",
+      "Welfare: hospitals for humans & animals, wells, rest-houses, banyan avenues."
     ],
     "mainsAngles": [
       "A king who renounced war after winning — analyse Kalinga as the turning point of Ashoka's reign.",
@@ -247,12 +748,30 @@
       "'All men are my children' was proclaimed on Andhra soil — trace Ashokan Dhamma in the AP region."
     ],
     "glossary": [
-      { "term": "Dhamma", "definition": "Ashoka's universal ethical-social code (non-violence, tolerance, welfare) — civic morality, not sectarian Buddhism." },
-      { "term": "Dhamma Mahamatra", "definition": "Ashoka's officials charged with propagating and overseeing Dhamma across the empire." },
-      { "term": "Devanampiya Piyadasi", "definition": "'Beloved of the Gods, of gracious countenance' — Ashoka's title in the edicts." },
-      { "term": "Kalinga War", "definition": "Ashoka's bloody conquest of Kalinga (c. 261 BCE) whose carnage triggered his moral transformation." },
-      { "term": "Sarnath Lion Capital", "definition": "The Ashokan pillar capital adopted as India's national emblem." },
-      { "term": "Erragudi edicts", "definition": "Ashokan minor rock edicts in Kurnool proclaiming Dhamma in the Andhra region." }
+      {
+        "term": "Dhamma",
+        "definition": "Ashoka's universal ethical-social code (non-violence, tolerance, welfare) — civic morality, not sectarian Buddhism."
+      },
+      {
+        "term": "Dhamma Mahamatra",
+        "definition": "Ashoka's officials charged with propagating and overseeing Dhamma across the empire."
+      },
+      {
+        "term": "Devanampiya Piyadasi",
+        "definition": "'Beloved of the Gods, of gracious countenance' — Ashoka's title in the edicts."
+      },
+      {
+        "term": "Kalinga War",
+        "definition": "Ashoka's bloody conquest of Kalinga (c. 261 BCE) whose carnage triggered his moral transformation."
+      },
+      {
+        "term": "Sarnath Lion Capital",
+        "definition": "The Ashokan pillar capital adopted as India's national emblem."
+      },
+      {
+        "term": "Erragudi edicts",
+        "definition": "Ashokan minor rock edicts in Kurnool proclaiming Dhamma in the Andhra region."
+      }
     ]
   }
 ]
