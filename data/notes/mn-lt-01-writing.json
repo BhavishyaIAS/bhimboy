@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part (Telugu)", "Role"],
+            "headers": [
+              "Part (Telugu)",
+              "Role"
+            ],
             "rows": [
-              ["**Prastavana (intro)**", "Frame the topic + state the central idea."],
-              ["**Vishaya vivarana (body)**", "2-3 short paragraphs, one idea each, with an example."],
-              ["**Mukthayimpu (conclusion)**", "Sum up / forward-looking close."],
-              ["**Bhasha (language)**", "Correct grammar, apt vocabulary, natural idiom."],
-              ["**Length**", "Respect 200-250 words; clarity over padding."]
+              [
+                "**Prastavana (intro)**",
+                "Frame the topic + state the central idea."
+              ],
+              [
+                "**Vishaya vivarana (body)**",
+                "2-3 short paragraphs, one idea each, with an example."
+              ],
+              [
+                "**Mukthayimpu (conclusion)**",
+                "Sum up / forward-looking close."
+              ],
+              [
+                "**Bhasha (language)**",
+                "Correct grammar, apt vocabulary, natural idiom."
+              ],
+              [
+                "**Length**",
+                "Respect 200-250 words; clarity over padding."
+              ]
             ]
           }
         ]
@@ -37,6 +55,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format & method: Telugu essay (వ్యాసం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Structure**: శీర్షిక (title) → పరిచయం (introduction) → విషయ వివరణ (body — 2-3 paragraphs with points/examples) → ముగింపు (conclusion).",
+              "**Method**: pick main points, arrange logically, use clear Telugu, keep to **200-250 words**, maintain formal register.",
+              "**Do's**: coherent flow, examples/quotations (సూక్తులు), balanced view; **Don'ts**: repetition, over-length, colloquialism."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "ఉదాహరణ నిర్మాణం: పరిచయం (అంశ ప్రాధాన్యం) → లాభాలు → సవాళ్లు → సమతుల్య ముగింపు."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -44,9 +80,23 @@
       "Focus on grammatical correctness (sandhi, vibhakti) and idiomatic expression."
     ],
     "glossary": [
-      {"term": "Vyasam", "definition": "The Telugu term for an essay."},
-      {"term": "Prastavana", "definition": "The introduction of a Telugu essay/composition."},
-      {"term": "Sametha", "definition": "A Telugu proverb, useful for enriching essays."}
+      {
+        "term": "Vyasam",
+        "definition": "The Telugu term for an essay."
+      },
+      {
+        "term": "Prastavana",
+        "definition": "The introduction of a Telugu essay/composition."
+      },
+      {
+        "term": "Sametha",
+        "definition": "A Telugu proverb, useful for enriching essays."
+      }
+    ],
+    "prelimsPointers": [
+      "వ్యాసం = **శీర్షిక → పరిచయం → విషయ వివరణ (ఉదాహరణలతో) → ముగింపు**.",
+      "200-250 పదాలలో, **అధికారిక భాష**; ఒక పేరాలో ఒక ఆలోచన.",
+      "సూక్తులు/ఉదాహరణలు చేర్చి, సమతుల్య దృక్పథం."
     ]
   },
   {
@@ -62,13 +112,31 @@
           },
           {
             "type": "table",
-            "headers": ["Step", "Guidance"],
+            "headers": [
+              "Step",
+              "Guidance"
+            ],
             "rows": [
-              ["**Grasp the verse**", "Read the padyam; identify its central thought/moral."],
-              ["**State the idea**", "Express the core meaning in your own prose."],
-              ["**Elaborate**", "Explain with reasoning and an example/illustration."],
-              ["**Relevance**", "Connect the moral to life/society/present."],
-              ["**Conclude**", "Restate the essence memorably."]
+              [
+                "**Grasp the verse**",
+                "Read the padyam; identify its central thought/moral."
+              ],
+              [
+                "**State the idea**",
+                "Express the core meaning in your own prose."
+              ],
+              [
+                "**Elaborate**",
+                "Explain with reasoning and an example/illustration."
+              ],
+              [
+                "**Relevance**",
+                "Connect the moral to life/society/present."
+              ],
+              [
+                "**Conclude**",
+                "Restate the essence memorably."
+              ]
             ]
           }
         ]
@@ -87,6 +155,26 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: verse elaboration (పద్య భావ విస్తరణ)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "పద్యాన్ని/పదాన్ని బాగా చదివి **భావం (central idea)** గ్రహించండి.",
+              "పదాల అర్థం → వాక్యార్థం → **భావ విస్తరణ** (expand the underlying idea with explanation & relevance).",
+              "కవి ఉద్దేశం, నీతి/సందేశం (moral/message) వివరించండి; సొంత మాటల్లో రాయండి."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**గమనిక**: పద్యాన్ని కేవలం అనువదించవద్దు — దాని **అంతరార్థాన్ని, నేటి ప్రాముఖ్యాన్ని** విస్తరించండి."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -94,9 +182,23 @@
       "Bring out the moral and its life-relevance, not a literal translation."
     ],
     "glossary": [
-      {"term": "Bhava vistarana", "definition": "The elaboration/expansion of the idea of a verse into prose."},
-      {"term": "Padyam", "definition": "A Telugu verse or poem."},
-      {"term": "Satakam", "definition": "A Telugu genre of 100 didactic verses (e.g. Vemana, Sumati)."}
+      {
+        "term": "Bhava vistarana",
+        "definition": "The elaboration/expansion of the idea of a verse into prose."
+      },
+      {
+        "term": "Padyam",
+        "definition": "A Telugu verse or poem."
+      },
+      {
+        "term": "Satakam",
+        "definition": "A Telugu genre of 100 didactic verses (e.g. Vemana, Sumati)."
+      }
+    ],
+    "prelimsPointers": [
+      "భావ విస్తరణ = పద్యం యొక్క **అంతరార్థం** విస్తరించడం (కేవలం అనువాదం కాదు).",
+      "పదార్థం → వాక్యార్థం → భావం → **నీతి/సందేశం**.",
+      "సొంత మాటల్లో, నేటి ప్రాముఖ్యంతో వివరించండి."
     ]
   },
   {
@@ -112,13 +214,31 @@
           },
           {
             "type": "table",
-            "headers": ["Rule", "Guidance"],
+            "headers": [
+              "Rule",
+              "Guidance"
+            ],
             "rows": [
-              ["**Length**", "About **one-third** of the passage."],
-              ["**Content**", "Main ideas only; omit examples, repetition, digressions."],
-              ["**Own words**", "Paraphrase in your own Telugu; don't copy sentences."],
-              ["**Coherence**", "The precis must read smoothly on its own."],
-              ["**Title**", "Give a short, apt title (sheershika)."]
+              [
+                "**Length**",
+                "About **one-third** of the passage."
+              ],
+              [
+                "**Content**",
+                "Main ideas only; omit examples, repetition, digressions."
+              ],
+              [
+                "**Own words**",
+                "Paraphrase in your own Telugu; don't copy sentences."
+              ],
+              [
+                "**Coherence**",
+                "The precis must read smoothly on its own."
+              ],
+              [
+                "**Title**",
+                "Give a short, apt title (sheershika)."
+              ]
             ]
           }
         ]
@@ -137,6 +257,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: precis (సంగ్రహ లేఖనం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "పేరాను రెండుసార్లు చదివి **ముఖ్య భావం** గుర్తించండి.",
+              "సుమారు **మూడో వంతు (1/3)** నిడివికి, **సొంత మాటల్లో**, ఒక పేరాలో సంగ్రహించండి.",
+              "ఉదాహరణలు/పునరుక్తి/అభిప్రాయాలు తొలగించి, తగిన **శీర్షిక** ఇవ్వండి; పద గణన చేయండి."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -144,8 +278,19 @@
       "Master coherent paraphrasing and word-counting under time limits."
     ],
     "glossary": [
-      {"term": "Samgraha lekhanam", "definition": "Telugu precis/summary writing (about one-third of the original)."},
-      {"term": "Sheershika", "definition": "The title/heading given to a precis or composition."}
+      {
+        "term": "Samgraha lekhanam",
+        "definition": "Telugu precis/summary writing (about one-third of the original)."
+      },
+      {
+        "term": "Sheershika",
+        "definition": "The title/heading given to a precis or composition."
+      }
+    ],
+    "prelimsPointers": [
+      "సంగ్రహం = ~**1/3 నిడివి**, **సొంత మాటలు**, ఒక పేరా, శీర్షికతో.",
+      "ఉదాహరణలు, అభిప్రాయాలు, పునరుక్తి **వద్దు**.",
+      "**ముఖ్య భావం** మాత్రమే; పదాలు లెక్కించండి."
     ]
   },
   {
@@ -161,13 +306,31 @@
           },
           {
             "type": "table",
-            "headers": ["Question type", "Approach"],
+            "headers": [
+              "Question type",
+              "Approach"
+            ],
             "rows": [
-              ["**Main idea**", "Central theme — usually opening/closing lines."],
-              ["**Factual detail**", "Locate the exact statement in the text."],
-              ["**Inference**", "What is implied — reason from the passage."],
-              ["**Vocabulary**", "Meaning of a word as used in context."],
-              ["**Answer style**", "Brief, in your own words, from the passage."]
+              [
+                "**Main idea**",
+                "Central theme — usually opening/closing lines."
+              ],
+              [
+                "**Factual detail**",
+                "Locate the exact statement in the text."
+              ],
+              [
+                "**Inference**",
+                "What is implied — reason from the passage."
+              ],
+              [
+                "**Vocabulary**",
+                "Meaning of a word as used in context."
+              ],
+              [
+                "**Answer style**",
+                "Brief, in your own words, from the passage."
+              ]
             ]
           }
         ]
@@ -186,6 +349,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: reading comprehension (అవగాహన)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "గద్యాన్ని చదివి **సారాంశం** గ్రహించండి; తర్వాత ప్రశ్నలు చదవండి.",
+              "సంబంధిత వాక్యాలను వెతికి, **సొంత మాటల్లో**, గద్యంలోని సమాచారంతోనే జవాబివ్వండి.",
+              "పదార్థం సందర్భం ఆధారంగా; నిగమన ప్రశ్నలకు గద్య ఆధారంతో జవాబు."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -193,8 +370,19 @@
       "Handle main-idea, detail and inference questions concisely."
     ],
     "glossary": [
-      {"term": "Avagahana", "definition": "Reading comprehension in Telugu."},
-      {"term": "Inference", "definition": "A conclusion drawn from what a passage implies rather than states."}
+      {
+        "term": "Avagahana",
+        "definition": "Reading comprehension in Telugu."
+      },
+      {
+        "term": "Inference",
+        "definition": "A conclusion drawn from what a passage implies rather than states."
+      }
+    ],
+    "prelimsPointers": [
+      "అవగాహన: **సారాంశం → ప్రశ్నలు → ఆధారం వెతికి సొంత మాటల్లో జవాబు**.",
+      "గద్యంలోని సమాచారంతోనే; బయటి విషయాలు వద్దు.",
+      "పదార్థం **సందర్భం** నుండి గ్రహించండి."
     ]
   },
   {
@@ -210,13 +398,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Salutation**", "Respectful address to the chief guest, dignitaries & audience."],
-              ["**Opening**", "Greeting + hook (proverb, question) + topic."],
-              ["**Body**", "2-3 clear points with examples; logical flow."],
-              ["**Close**", "Memorable ending — call to action / vision; thanks."],
-              ["**Press-conference note**", "State facts clearly; anticipate and answer likely questions."]
+              [
+                "**Salutation**",
+                "Respectful address to the chief guest, dignitaries & audience."
+              ],
+              [
+                "**Opening**",
+                "Greeting + hook (proverb, question) + topic."
+              ],
+              [
+                "**Body**",
+                "2-3 clear points with examples; logical flow."
+              ],
+              [
+                "**Close**",
+                "Memorable ending — call to action / vision; thanks."
+              ],
+              [
+                "**Press-conference note**",
+                "State facts clearly; anticipate and answer likely questions."
+              ]
             ]
           }
         ]
@@ -235,6 +441,23 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format: speech (ఉపన్యాసం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**నిర్మాణం**: సంబోధన (గౌరవనీయులైన...) → ఆకర్షణీయ ప్రారంభం → విషయం (2-3 అంశాలు, ఉదాహరణలు) → పిలుపు → ధన్యవాదాలు.",
+              "**శైలి**: ప్రత్యక్ష సంబోధన, ప్రశ్నలు, పునరుక్తి, సందర్భోచిత భాష; నిడివి పరిమితి పాటించండి."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "ప్రారంభ మెళకువలు: సూక్తి, ఆసక్తికర వాస్తవం, ప్రశ్న లేదా చిన్న కథ."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -242,8 +465,19 @@
       "Prepare press-conference-style factual, composed addresses."
     ],
     "glossary": [
-      {"term": "Upanyasam", "definition": "A formal speech or address in Telugu."},
-      {"term": "Salutation", "definition": "The courteous opening address to dignitaries and audience."}
+      {
+        "term": "Upanyasam",
+        "definition": "A formal speech or address in Telugu."
+      },
+      {
+        "term": "Salutation",
+        "definition": "The courteous opening address to dignitaries and audience."
+      }
+    ],
+    "prelimsPointers": [
+      "ఉపన్యాసం = **సంబోధన → ఆకర్షణీయ ప్రారంభం → 2-3 అంశాలు → పిలుపు → ధన్యవాదాలు**.",
+      "ప్రత్యక్ష సంబోధన, సందర్భోచిత భాష.",
+      "సూక్తి/వాస్తవం/ప్రశ్నతో ప్రారంభించండి."
     ]
   },
   {
@@ -259,13 +493,31 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Guidance"],
+            "headers": [
+              "Element",
+              "Guidance"
+            ],
             "rows": [
-              ["**Headline**", "Clear, informative title of the message."],
-              ["**Key facts first**", "What, when, where, why (inverted pyramid)."],
-              ["**Public-friendly tone**", "Simple, direct Telugu; avoid jargon."],
-              ["**Call to action / awareness**", "State what the public should know or do."],
-              ["**Attribution**", "Issued by — authority/department."]
+              [
+                "**Headline**",
+                "Clear, informative title of the message."
+              ],
+              [
+                "**Key facts first**",
+                "What, when, where, why (inverted pyramid)."
+              ],
+              [
+                "**Public-friendly tone**",
+                "Simple, direct Telugu; avoid jargon."
+              ],
+              [
+                "**Call to action / awareness**",
+                "State what the public should know or do."
+              ],
+              [
+                "**Attribution**",
+                "Issued by — authority/department."
+              ]
             ]
           }
         ]
@@ -284,6 +536,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: media statements (ప్రచార ప్రకటనలు)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**ఉద్దేశం**: ప్రజలకు సమాచారం/అవగాహన కల్పించడం; స్పష్టత, సంక్షిప్తత, వాస్తవికత.",
+              "**నిర్మాణం**: శీర్షిక → ముఖ్య సందేశం (ఏమి/ఎప్పుడు/ఎక్కడ/ఎందుకు) → వివరాలు → సంబంధిత అధికారి పేరు/సంప్రదింపు.",
+              "**శైలి**: అతిశయోక్తి లేకుండా, తటస్థంగా, మూడో పురుషలో."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -291,8 +557,19 @@
       "Use the inverted-pyramid structure with a clear message and attribution."
     ],
     "glossary": [
-      {"term": "Publicity media statement", "definition": "An official message written for newspapers, radio or social media."},
-      {"term": "Inverted pyramid", "definition": "A structure placing the most important information first."}
+      {
+        "term": "Publicity media statement",
+        "definition": "An official message written for newspapers, radio or social media."
+      },
+      {
+        "term": "Inverted pyramid",
+        "definition": "A structure placing the most important information first."
+      }
+    ],
+    "prelimsPointers": [
+      "ప్రచార ప్రకటన: **శీర్షిక → ముఖ్య సందేశం (5 W లు) → వివరాలు → సంప్రదింపు**.",
+      "స్పష్టత, సంక్షిప్తత, వాస్తవికత; అతిశయోక్తి వద్దు.",
+      "తటస్థ, మూడో-పురుష శైలి."
     ]
   },
   {
@@ -308,13 +585,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Address & date**", "Sender's address and date at the top."],
-              ["**Salutation**", "Formal ('Ganyulaina…/Sir') or personal ('Priyamaina…')."],
-              ["**Subject (formal)**", "One line stating the purpose."],
-              ["**Body**", "Purpose → details → request; clear paragraphs."],
-              ["**Closing**", "Formal ('Ittarni…/Yours faithfully') or personal ('Mee priyamaina…')."]
+              [
+                "**Address & date**",
+                "Sender's address and date at the top."
+              ],
+              [
+                "**Salutation**",
+                "Formal ('Ganyulaina…/Sir') or personal ('Priyamaina…')."
+              ],
+              [
+                "**Subject (formal)**",
+                "One line stating the purpose."
+              ],
+              [
+                "**Body**",
+                "Purpose → details → request; clear paragraphs."
+              ],
+              [
+                "**Closing**",
+                "Formal ('Ittarni…/Yours faithfully') or personal ('Mee priyamaina…')."
+              ]
             ]
           }
         ]
@@ -333,6 +628,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format: letter writing (లేఖ రచన)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**అధికారిక లేఖ నిర్మాణం**: పంపేవారి చిరునామా → తేదీ → అందుకునేవారి హోదా/చిరునామా → **విషయం** → సంబోధన → విషయం (3 పేరాలు: ఉద్దేశం/వివరాలు/కోరిక) → ముగింపు (భవదీయుడు) → పేరు.",
+              "**రకాలు**: వ్యక్తిగత, అధికారిక, ఫిర్యాదు, విన్నపం, సంపాదకునికి.",
+              "**శైలి**: మర్యాద, సంక్షిప్తత, ఉద్దేశ-ప్రధానం."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -340,8 +649,19 @@
       "Match tone to purpose; keep formal letters concise and courteous."
     ],
     "glossary": [
-      {"term": "Lekha", "definition": "A letter in Telugu."},
-      {"term": "Formal vs personal letter", "definition": "Official correspondence (precise, polite) versus personal letters (warm, natural)."}
+      {
+        "term": "Lekha",
+        "definition": "A letter in Telugu."
+      },
+      {
+        "term": "Formal vs personal letter",
+        "definition": "Official correspondence (precise, polite) versus personal letters (warm, natural)."
+      }
+    ],
+    "prelimsPointers": [
+      "లేఖ = **చిరునామా → తేదీ → విషయం → సంబోధన → 3 పేరాలు → భవదీయుడు → పేరు**.",
+      "పేరా క్రమం: **ఉద్దేశం → వివరాలు → కోరిక**.",
+      "మర్యాదపూర్వక, ఉద్దేశ-ప్రధాన శైలి."
     ]
   }
 ]

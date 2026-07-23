@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Rule", "Guidance"],
+            "headers": [
+              "Rule",
+              "Guidance"
+            ],
             "rows": [
-              ["**Length**", "About **one-third** of the original (e.g. 300→100 words)."],
-              ["**Content**", "Only the **main ideas**; omit examples, illustrations, repetition."],
-              ["**Own words**", "Paraphrase; don't copy sentences."],
-              ["**Tense/person**", "Usually **past tense, third person, indirect speech**."],
-              ["**Title**", "Give a short apt title."]
+              [
+                "**Length**",
+                "About **one-third** of the original (e.g. 300→100 words)."
+              ],
+              [
+                "**Content**",
+                "Only the **main ideas**; omit examples, illustrations, repetition."
+              ],
+              [
+                "**Own words**",
+                "Paraphrase; don't copy sentences."
+              ],
+              [
+                "**Tense/person**",
+                "Usually **past tense, third person, indirect speech**."
+              ],
+              [
+                "**Title**",
+                "Give a short apt title."
+              ]
             ]
           }
         ]
@@ -37,6 +55,27 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method & model: precis writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "Read the passage twice; find the **central theme** & main points.",
+              "Reduce to about **one-third** length (300→~100 words); **own words**, no examples/repetition/quotations.",
+              "Write in **one paragraph, third person, past/neutral tense, indirect speech**; give a suitable **title**.",
+              "Count words; keep it coherent & self-contained."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Don'ts**: don't add opinions, don't copy sentences verbatim, don't exceed the limit, don't omit the core idea."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -44,8 +83,19 @@
       "Master word-counting and coherent paraphrasing under time pressure."
     ],
     "glossary": [
-      {"term": "Precis", "definition": "A concise summary (about one-third) of a passage capturing its essential points."},
-      {"term": "Paraphrase", "definition": "Restating ideas in one's own words rather than copying."}
+      {
+        "term": "Precis",
+        "definition": "A concise summary (about one-third) of a passage capturing its essential points."
+      },
+      {
+        "term": "Paraphrase",
+        "definition": "Restating ideas in one's own words rather than copying."
+      }
+    ],
+    "prelimsPointers": [
+      "Precis = ~**1/3 length**, **own words**, one paragraph, **third person**, with a **title**.",
+      "**No** examples, quotes, opinions, or verbatim copying.",
+      "Capture the **central theme + main points** only; count words."
     ]
   },
   {
@@ -61,13 +111,31 @@
           },
           {
             "type": "table",
-            "headers": ["Question type", "Approach"],
+            "headers": [
+              "Question type",
+              "Approach"
+            ],
             "rows": [
-              ["**Main idea**", "The central theme — usually in the first/last lines."],
-              ["**Factual/detail**", "Locate the exact statement in the passage."],
-              ["**Inference**", "What is implied (not stated) — reason from the text."],
-              ["**Vocabulary in context**", "Meaning as used in the passage."],
-              ["**Tone/purpose**", "Author's attitude (critical, neutral, persuasive)."]
+              [
+                "**Main idea**",
+                "The central theme — usually in the first/last lines."
+              ],
+              [
+                "**Factual/detail**",
+                "Locate the exact statement in the passage."
+              ],
+              [
+                "**Inference**",
+                "What is implied (not stated) — reason from the text."
+              ],
+              [
+                "**Vocabulary in context**",
+                "Meaning as used in the passage."
+              ],
+              [
+                "**Tone/purpose**",
+                "Author's attitude (critical, neutral, persuasive)."
+              ]
             ]
           }
         ]
@@ -86,6 +154,27 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method & model: reading comprehension",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "Skim the passage for the **gist**, then read the questions.",
+              "Scan back for the relevant lines; answer in **your own words** where asked, keep to the passage (no outside info).",
+              "For vocabulary-in-context, use surrounding clues; for inference, base it on evidence in the text.",
+              "For 'title/main idea', capture the overall theme; be concise."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Tip**: factual questions → locate; inference → reason from text; vocabulary → context; don't lift long chunks verbatim unless asked."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -93,8 +182,19 @@
       "Answer main-idea, inference and vocabulary questions strictly from the passage."
     ],
     "glossary": [
-      {"term": "Inference", "definition": "A conclusion drawn from what a passage implies rather than states directly."},
-      {"term": "Skimming and scanning", "definition": "Reading quickly for gist (skim) then locating specific details (scan)."}
+      {
+        "term": "Inference",
+        "definition": "A conclusion drawn from what a passage implies rather than states directly."
+      },
+      {
+        "term": "Skimming and scanning",
+        "definition": "Reading quickly for gist (skim) then locating specific details (scan)."
+      }
+    ],
+    "prelimsPointers": [
+      "RC method: **skim gist → read questions → scan for evidence → answer in own words**.",
+      "Stay **within the passage**; no outside knowledge.",
+      "Inference = reason from text; vocabulary = **context clues**."
     ]
   },
   {
@@ -110,13 +210,31 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Key rule"],
+            "headers": [
+              "Area",
+              "Key rule"
+            ],
             "rows": [
-              ["**Tenses**", "12 tenses; match time & aspect; sequence of tenses in complex sentences."],
-              ["**Voice**", "Active↔Passive: object becomes subject; verb → be + past participle; 'by' agent."],
-              ["**Narration**", "Direct↔Indirect: change pronouns, tense (back-shift), time/place words."],
-              ["**Transformation**", "Simple↔compound↔complex; affirmative↔negative; degrees of comparison."],
-              ["**Agreement**", "Subject-verb & pronoun agreement."]
+              [
+                "**Tenses**",
+                "12 tenses; match time & aspect; sequence of tenses in complex sentences."
+              ],
+              [
+                "**Voice**",
+                "Active↔Passive: object becomes subject; verb → be + past participle; 'by' agent."
+              ],
+              [
+                "**Narration**",
+                "Direct↔Indirect: change pronouns, tense (back-shift), time/place words."
+              ],
+              [
+                "**Transformation**",
+                "Simple↔compound↔complex; affirmative↔negative; degrees of comparison."
+              ],
+              [
+                "**Agreement**",
+                "Subject-verb & pronoun agreement."
+              ]
             ]
           }
         ]
@@ -135,6 +253,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Rules & examples: tenses, voice, narration",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Tenses**: 12 forms (simple/continuous/perfect/perfect-continuous × past/present/future); watch subject-verb agreement & time markers.",
+              "**Active↔Passive**: object becomes subject; verb → be + past participle; keep the tense. ('He wrote a letter' → 'A letter was written by him').",
+              "**Direct↔Indirect (narration)**: change pronouns, tense (back-shift), time/place words (now→then, here→there, today→that day); reporting verb (said→told/asked/ordered)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Narration example: He said, 'I am busy today' → He said that he was busy that day."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -142,8 +278,19 @@
       "Practise tense usage and sentence-type conversions preserving meaning."
     ],
     "glossary": [
-      {"term": "Passive voice", "definition": "A construction where the subject receives the action (object of the active becomes subject)."},
-      {"term": "Indirect narration", "definition": "Reporting speech without quotation, with back-shifted tense and changed pronouns."}
+      {
+        "term": "Passive voice",
+        "definition": "A construction where the subject receives the action (object of the active becomes subject)."
+      },
+      {
+        "term": "Indirect narration",
+        "definition": "Reporting speech without quotation, with back-shifted tense and changed pronouns."
+      }
+    ],
+    "prelimsPointers": [
+      "Passive: object→subject, verb→**be + past participle**, keep tense.",
+      "Indirect speech: **back-shift tense**, change pronouns & now→then/here→there.",
+      "Reporting verbs: statement→said/told, question→asked, command→ordered."
     ]
   },
   {
@@ -159,13 +306,31 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Key points"],
+            "headers": [
+              "Area",
+              "Key points"
+            ],
             "rows": [
-              ["**Articles**", "'a/an' (indefinite, first mention, singular countable); 'the' (definite, specific); zero article for generals/uncountables."],
-              ["**Determiners**", "some/any, much/many, few/little, this/that, each/every."],
-              ["**Prepositions**", "in/on/at (time & place), by/with/for; idiomatic usage."],
-              ["**Phrasal verbs**", "verb + particle with special meaning (give up, look after, put off)."],
-              ["**Collocations**", "Words that go together (make a decision, do homework)."]
+              [
+                "**Articles**",
+                "'a/an' (indefinite, first mention, singular countable); 'the' (definite, specific); zero article for generals/uncountables."
+              ],
+              [
+                "**Determiners**",
+                "some/any, much/many, few/little, this/that, each/every."
+              ],
+              [
+                "**Prepositions**",
+                "in/on/at (time & place), by/with/for; idiomatic usage."
+              ],
+              [
+                "**Phrasal verbs**",
+                "verb + particle with special meaning (give up, look after, put off)."
+              ],
+              [
+                "**Collocations**",
+                "Words that go together (make a decision, do homework)."
+              ]
             ]
           }
         ]
@@ -184,6 +349,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Rules & examples: articles, prepositions, phrasal verbs",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Articles**: 'a/an' (indefinite, first mention, an+vowel-sound), 'the' (specific/unique/superlative); zero article with uncountables/plurals in general.",
+              "**Prepositions**: of time (at-time, on-day, in-month/year), place (at-point, on-surface, in-enclosed); fixed collocations (good at, interested in, married to).",
+              "**Phrasal verbs**: verb + particle with idiomatic meaning (give up = quit, put off = postpone, look after = care for) — learn as units."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Article tip: 'an hour', 'a university' — go by the **sound**, not the spelling."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -191,9 +374,23 @@
       "Memorise common phrasal verbs and collocations for error-spotting/fill-ins."
     ],
     "glossary": [
-      {"term": "Article", "definition": "A word (a, an, the) that signals a noun's definiteness."},
-      {"term": "Phrasal verb", "definition": "A verb combined with a particle (up, off, after) forming a new meaning."},
-      {"term": "Collocation", "definition": "A habitual pairing of words (e.g. 'make a decision')."}
+      {
+        "term": "Article",
+        "definition": "A word (a, an, the) that signals a noun's definiteness."
+      },
+      {
+        "term": "Phrasal verb",
+        "definition": "A verb combined with a particle (up, off, after) forming a new meaning."
+      },
+      {
+        "term": "Collocation",
+        "definition": "A habitual pairing of words (e.g. 'make a decision')."
+      }
+    ],
+    "prelimsPointers": [
+      "Articles: **a/an (indefinite), the (specific)**; use 'an' before a **vowel sound** (an hour).",
+      "Time prepositions: **at (time), on (day), in (month/year)**.",
+      "Phrasal verbs are **idiomatic** (put off = postpone) — learn as units."
     ]
   },
   {
@@ -209,13 +406,31 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Detail"],
+            "headers": [
+              "Area",
+              "Detail"
+            ],
             "rows": [
-              ["**Idioms & phrases**", "Fixed expressions with figurative meaning (e.g. 'at the eleventh hour')."],
-              ["**Synonyms/Antonyms**", "Words of similar / opposite meaning."],
-              ["**One-word substitution**", "A single word for a phrase (e.g. 'that which cannot be avoided' = inevitable)."],
-              ["**Administrative glossary**", "Official terms — quorum, ex-officio, ad hoc, memorandum, gazette."],
-              ["**Register**", "Formal, precise word choice for official writing."]
+              [
+                "**Idioms & phrases**",
+                "Fixed expressions with figurative meaning (e.g. 'at the eleventh hour')."
+              ],
+              [
+                "**Synonyms/Antonyms**",
+                "Words of similar / opposite meaning."
+              ],
+              [
+                "**One-word substitution**",
+                "A single word for a phrase (e.g. 'that which cannot be avoided' = inevitable)."
+              ],
+              [
+                "**Administrative glossary**",
+                "Official terms — quorum, ex-officio, ad hoc, memorandum, gazette."
+              ],
+              [
+                "**Register**",
+                "Formal, precise word choice for official writing."
+              ]
             ]
           }
         ]
@@ -234,6 +449,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Reference: idioms, one-word substitution, glossary",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Idioms/phrases**: fixed expressions with non-literal meaning (a blessing in disguise, once in a blue moon, break the ice) — memorise + use in context.",
+              "**One-word substitution**: a word for a phrase (autobiography = life story written by oneself; philanthropist = lover of mankind; omnipotent = all-powerful).",
+              "**Synonyms/antonyms**: build word families; **administrative glossary** — official terms (memorandum, gazette, ordinance, quorum, ex-officio, suo moto)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Learn idioms & one-word substitutions in **themed sets**; deploy 2-3 aptly in essays/letters for higher marks."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -241,9 +474,23 @@
       "Practise synonym/antonym discrimination by exact meaning."
     ],
     "glossary": [
-      {"term": "One-word substitution", "definition": "A single word expressing the meaning of a phrase (e.g. inevitable)."},
-      {"term": "Administrative glossary", "definition": "The set of official/governance terms (quorum, ex-officio, gazette, etc.)."},
-      {"term": "Idiom", "definition": "A fixed expression whose meaning is figurative, not literal."}
+      {
+        "term": "One-word substitution",
+        "definition": "A single word expressing the meaning of a phrase (e.g. inevitable)."
+      },
+      {
+        "term": "Administrative glossary",
+        "definition": "The set of official/governance terms (quorum, ex-officio, gazette, etc.)."
+      },
+      {
+        "term": "Idiom",
+        "definition": "A fixed expression whose meaning is figurative, not literal."
+      }
+    ],
+    "prelimsPointers": [
+      "One-word substitution = single word for a phrase (**autobiography, philanthropist, omnipotent**).",
+      "Idioms are **non-literal** — learn + use in context.",
+      "Know **administrative glossary**: ordinance, gazette, quorum, ex-officio, suo moto."
     ]
   },
   {
@@ -259,13 +506,31 @@
           },
           {
             "type": "table",
-            "headers": ["Area", "Detail"],
+            "headers": [
+              "Area",
+              "Detail"
+            ],
             "rows": [
-              ["**Cohesive devices**", "Linkers — however, therefore, moreover, in contrast, consequently, similarly."],
-              ["**Prefixes**", "un-, dis-, re-, pre-, mis-, over- (change meaning)."],
-              ["**Suffixes**", "-tion, -ness, -able, -ly (change word class)."],
-              ["**Homophones**", "Same sound, different spelling/meaning (their/there/they're; principal/principle)."],
-              ["**Homonyms**", "Same spelling, different meaning (bank, bark, spring)."]
+              [
+                "**Cohesive devices**",
+                "Linkers — however, therefore, moreover, in contrast, consequently, similarly."
+              ],
+              [
+                "**Prefixes**",
+                "un-, dis-, re-, pre-, mis-, over- (change meaning)."
+              ],
+              [
+                "**Suffixes**",
+                "-tion, -ness, -able, -ly (change word class)."
+              ],
+              [
+                "**Homophones**",
+                "Same sound, different spelling/meaning (their/there/they're; principal/principle)."
+              ],
+              [
+                "**Homonyms**",
+                "Same spelling, different meaning (bank, bark, spring)."
+              ]
             ]
           }
         ]
@@ -284,6 +549,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Reference: cohesion, affixes & confusables",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Cohesive devices (connectors)**: addition (moreover, furthermore), contrast (however, whereas), cause (because, therefore), sequence (firstly, finally), example (for instance) — they bind a text.",
+              "**Affixes**: prefixes (un-, dis-, re-, pre-, mis-) & suffixes (-tion, -able, -ment) change meaning/part of speech.",
+              "**Confusable words**: affect/effect, principal/principle, stationary/stationery, complement/compliment, its/it's, their/there/they're — a common error source."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Use varied connectors to avoid choppy writing; but don't overload — one per idea-link."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -291,9 +574,23 @@
       "Master confusable words (homophones/homonyms) and common affixes."
     ],
     "glossary": [
-      {"term": "Cohesive device", "definition": "A connective word/phrase linking ideas for smooth, coherent writing."},
-      {"term": "Homophone", "definition": "A word pronounced like another but different in spelling/meaning (their/there)."},
-      {"term": "Affix", "definition": "A prefix or suffix added to a word to change its meaning or class."}
+      {
+        "term": "Cohesive device",
+        "definition": "A connective word/phrase linking ideas for smooth, coherent writing."
+      },
+      {
+        "term": "Homophone",
+        "definition": "A word pronounced like another but different in spelling/meaning (their/there)."
+      },
+      {
+        "term": "Affix",
+        "definition": "A prefix or suffix added to a word to change its meaning or class."
+      }
+    ],
+    "prelimsPointers": [
+      "Connectors bind text: **moreover, however, therefore, firstly/finally, for instance**.",
+      "Affixes: prefixes (un-/dis-/re-) & suffixes (-tion/-able/-ment).",
+      "Confusables: **affect/effect, principal/principle, stationary/stationery, its/it's**."
     ]
   },
   {
@@ -309,13 +606,31 @@
           },
           {
             "type": "table",
-            "headers": ["Principle", "Guidance"],
+            "headers": [
+              "Principle",
+              "Guidance"
+            ],
             "rows": [
-              ["**Sense over words**", "Translate the **meaning**, not literally word-by-word."],
-              ["**Idiom & register**", "Use natural English idiom; match the tone (formal/informal)."],
-              ["**Structure**", "Recast sentences to fit English syntax."],
-              ["**Culture-specific terms**", "Explain or find the nearest English equivalent."],
-              ["**Accuracy**", "No addition or omission of meaning; correct grammar."]
+              [
+                "**Sense over words**",
+                "Translate the **meaning**, not literally word-by-word."
+              ],
+              [
+                "**Idiom & register**",
+                "Use natural English idiom; match the tone (formal/informal)."
+              ],
+              [
+                "**Structure**",
+                "Recast sentences to fit English syntax."
+              ],
+              [
+                "**Culture-specific terms**",
+                "Explain or find the nearest English equivalent."
+              ],
+              [
+                "**Accuracy**",
+                "No addition or omission of meaning; correct grammar."
+              ]
             ]
           }
         ]
@@ -334,6 +649,27 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: regional (Telugu) → English translation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "Read the whole source for **meaning & tone** (don't translate word-for-word).",
+              "Translate **idea-by-idea** into natural, grammatical English; keep the **register** (formal/informal).",
+              "Preserve proper nouns; find English equivalents for idioms (sense, not literal); maintain sentence sense & sequence.",
+              "Re-read the English for fluency & fidelity."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Don'ts**: no literal/awkward calques, no omission or addition of ideas, no tense/agreement errors."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -341,8 +677,19 @@
       "Convey tone, register and culture-specific terms accurately in natural English."
     ],
     "glossary": [
-      {"term": "Sense-for-sense translation", "definition": "Translating meaning and effect rather than word-for-word."},
-      {"term": "Register", "definition": "The level of formality/tone that a translation must preserve."}
+      {
+        "term": "Sense-for-sense translation",
+        "definition": "Translating meaning and effect rather than word-for-word."
+      },
+      {
+        "term": "Register",
+        "definition": "The level of formality/tone that a translation must preserve."
+      }
+    ],
+    "prelimsPointers": [
+      "Translate **idea-by-idea**, not word-for-word; keep the **tone/register**.",
+      "Render idioms by **sense**, not literally; preserve proper nouns.",
+      "Aim for **natural, grammatical, faithful** English."
     ]
   }
 ]

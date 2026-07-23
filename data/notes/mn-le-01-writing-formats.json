@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Guidance"],
+            "headers": [
+              "Element",
+              "Guidance"
+            ],
             "rows": [
-              ["**Introduction**", "1-2 sentences framing the topic + a thesis."],
-              ["**Body**", "2-3 short paragraphs, one idea each, with an example."],
-              ["**Conclusion**", "1-2 sentences summing up / a forward look."],
-              ["**Language**", "Simple, correct, varied sentences; avoid errors."],
-              ["**Length**", "Respect 200-250 words; quality over padding."]
+              [
+                "**Introduction**",
+                "1-2 sentences framing the topic + a thesis."
+              ],
+              [
+                "**Body**",
+                "2-3 short paragraphs, one idea each, with an example."
+              ],
+              [
+                "**Conclusion**",
+                "1-2 sentences summing up / a forward look."
+              ],
+              [
+                "**Language**",
+                "Simple, correct, varied sentences; avoid errors."
+              ],
+              [
+                "**Length**",
+                "Respect 200-250 words; quality over padding."
+              ]
             ]
           }
         ]
@@ -37,6 +55,31 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format, method & model: essay writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "**Structure**: Title → Introduction (hook + thesis) → Body (2-3 paragraphs, one idea each, with examples/data) → Conclusion (balanced, forward-looking).",
+              "**Modes**: descriptive, narrative, argumentative, expository, reflective — identify the mode from the prompt.",
+              "**Method**: brainstorm points (2 min) → outline → write within 200-250 words → keep paragraphs linked with connectors → proof-read."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Do's**: clear thesis, one idea per para, concrete examples, formal tone, balanced view, neat handwriting.",
+              "**Don'ts**: no exceeding word limit, no repetition/padding, no slang, no one-sided rant."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Model skeleton (topic 'Digital India'): Intro — what & why now; Body 1 — benefits (governance, inclusion); Body 2 — challenges (divide, cyber-security); Conclusion — balanced way forward."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -44,8 +87,19 @@
       "Focus on error-free, simple, well-linked prose within the word limit."
     ],
     "glossary": [
-      {"term": "Thesis", "definition": "The central point of the essay stated in the introduction."},
-      {"term": "Linking words", "definition": "Connectives (however, therefore, moreover) that give the essay flow."}
+      {
+        "term": "Thesis",
+        "definition": "The central point of the essay stated in the introduction."
+      },
+      {
+        "term": "Linking words",
+        "definition": "Connectives (however, therefore, moreover) that give the essay flow."
+      }
+    ],
+    "prelimsPointers": [
+      "Essay = **Intro (thesis) → Body (1 idea/para + examples) → balanced Conclusion**.",
+      "Stay within **200-250 words**; use connectors; identify the **mode** (argumentative/reflective…).",
+      "Marks reward **structure, examples, language & balance**."
     ]
   },
   {
@@ -61,14 +115,35 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Sender's address & date**", "Top-left (or as prescribed)."],
-              ["**Receiver's designation & address**", "Below sender's."],
-              ["**Subject line**", "One line stating the purpose."],
-              ["**Salutation**", "'Sir/Madam,' (formal)."],
-              ["**Body**", "3 paras — purpose, details, request/action; polite & concise."],
-              ["**Closing**", "'Yours faithfully,' + name & designation."]
+              [
+                "**Sender's address & date**",
+                "Top-left (or as prescribed)."
+              ],
+              [
+                "**Receiver's designation & address**",
+                "Below sender's."
+              ],
+              [
+                "**Subject line**",
+                "One line stating the purpose."
+              ],
+              [
+                "**Salutation**",
+                "'Sir/Madam,' (formal)."
+              ],
+              [
+                "**Body**",
+                "3 paras — purpose, details, request/action; polite & concise."
+              ],
+              [
+                "**Closing**",
+                "'Yours faithfully,' + name & designation."
+              ]
             ]
           }
         ]
@@ -87,6 +162,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format, method & model: formal letter",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Format (block)**: Sender's address → Date → Receiver's designation/address → **Subject** → Salutation (Dear Sir/Madam) → Body (3 paras: purpose / details / action-request) → Complimentary close (Yours faithfully) → Name & designation.",
+              "**Types**: official, application, complaint, enquiry, request, to the editor.",
+              "**Tone**: formal, concise, courteous, purpose-first."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Body plan: Para 1 — state purpose; Para 2 — give details/justification; Para 3 — desired action & polite close."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -94,8 +187,19 @@
       "Practise application, complaint and request letters concisely and politely."
     ],
     "glossary": [
-      {"term": "Subject line", "definition": "A one-line statement of the letter's purpose placed before the salutation."},
-      {"term": "Yours faithfully", "definition": "The formal closing used with 'Sir/Madam' when the recipient's name is not used."}
+      {
+        "term": "Subject line",
+        "definition": "A one-line statement of the letter's purpose placed before the salutation."
+      },
+      {
+        "term": "Yours faithfully",
+        "definition": "The formal closing used with 'Sir/Madam' when the recipient's name is not used."
+      }
+    ],
+    "prelimsPointers": [
+      "Formal letter = **Address → Date → Subject → Salutation → 3-para body → 'Yours faithfully' → Name/designation**.",
+      "Keep tone **formal, courteous, purpose-first**; use a clear **Subject line**.",
+      "Para order: **purpose → details → action requested**."
     ]
   },
   {
@@ -111,14 +215,35 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Guidance"],
+            "headers": [
+              "Element",
+              "Guidance"
+            ],
             "rows": [
-              ["**Headline**", "Concise, informative title of the news."],
-              ["**Dateline**", "Place & date of issue."],
-              ["**Body (inverted pyramid)**", "Most important info first (who, what, when, where, why, how)."],
-              ["**Quote**", "A statement from the issuing authority (optional)."],
-              ["**Attribution**", "Issued by — name, designation, department."],
-              ["**Appeal tone**", "Persuasive but dignified; clear call to action."]
+              [
+                "**Headline**",
+                "Concise, informative title of the news."
+              ],
+              [
+                "**Dateline**",
+                "Place & date of issue."
+              ],
+              [
+                "**Body (inverted pyramid)**",
+                "Most important info first (who, what, when, where, why, how)."
+              ],
+              [
+                "**Quote**",
+                "A statement from the issuing authority (optional)."
+              ],
+              [
+                "**Attribution**",
+                "Issued by — name, designation, department."
+              ],
+              [
+                "**Appeal tone**",
+                "Persuasive but dignified; clear call to action."
+              ]
             ]
           }
         ]
@@ -137,6 +262,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format, method & model: press release / appeal",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Press release**: masthead (issuing authority) → 'PRESS RELEASE' + date/place → headline → dateline → body (inverted pyramid: most important first — who/what/when/where/why) → quote from an official → contact line.",
+              "**Appeal**: purpose (cause) → emotional + rational reasons → specific call to action → issuing body.",
+              "**Style**: factual, concise, third person, no exaggeration."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Inverted pyramid: lead sentence answers the **5 Ws**; details and background follow in decreasing importance."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -144,9 +287,23 @@
       "Write appeals with a dignified, persuasive tone and a clear call to action."
     ],
     "glossary": [
-      {"term": "Inverted pyramid", "definition": "A news-writing structure placing the most important information first."},
-      {"term": "Dateline", "definition": "The place and date of a press release, given at the start."},
-      {"term": "5W-1H", "definition": "Who, What, When, Where, Why and How — the key questions a news item answers."}
+      {
+        "term": "Inverted pyramid",
+        "definition": "A news-writing structure placing the most important information first."
+      },
+      {
+        "term": "Dateline",
+        "definition": "The place and date of a press release, given at the start."
+      },
+      {
+        "term": "5W-1H",
+        "definition": "Who, What, When, Where, Why and How — the key questions a news item answers."
+      }
+    ],
+    "prelimsPointers": [
+      "Press release uses the **inverted pyramid** (5 Ws in the lead).",
+      "Include **issuing authority, dateline, an official quote, contact line**.",
+      "Appeal = cause → reasons → **specific call to action**."
     ]
   },
   {
@@ -162,14 +319,35 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Title/Heading**", "Names the event/subject of the report."],
-              ["**By-line**", "Reporter's name/designation (if required)."],
-              ["**Opening**", "What, when, where, who (the essentials)."],
-              ["**Body**", "Sequence of events / findings, in logical order."],
-              ["**Conclusion**", "Outcome, significance or recommendations."],
-              ["**Style**", "Past tense, third person, objective, factual."]
+              [
+                "**Title/Heading**",
+                "Names the event/subject of the report."
+              ],
+              [
+                "**By-line**",
+                "Reporter's name/designation (if required)."
+              ],
+              [
+                "**Opening**",
+                "What, when, where, who (the essentials)."
+              ],
+              [
+                "**Body**",
+                "Sequence of events / findings, in logical order."
+              ],
+              [
+                "**Conclusion**",
+                "Outcome, significance or recommendations."
+              ],
+              [
+                "**Style**",
+                "Past tense, third person, objective, factual."
+              ]
             ]
           }
         ]
@@ -188,6 +366,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format, method & model: report writing",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Format**: Title → By-line (reporter, place, date) → Opening (what/when/where) → Body (chronological account, details, quotes) → Conclusion (outcome/significance).",
+              "**Types**: event/function report, survey report (with findings), newspaper report.",
+              "**Style**: **past tense, third person, factual, objective, passive voice** common."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Survey report adds: purpose → methodology → findings (data) → conclusion/recommendation."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -195,8 +391,19 @@
       "Write survey reports that present findings and recommendations clearly."
     ],
     "glossary": [
-      {"term": "By-line", "definition": "The line naming the reporter/author of a report."},
-      {"term": "Objective style", "definition": "Impersonal, factual writing without personal opinion, used in reports."}
+      {
+        "term": "By-line",
+        "definition": "The line naming the reporter/author of a report."
+      },
+      {
+        "term": "Objective style",
+        "definition": "Impersonal, factual writing without personal opinion, used in reports."
+      }
+    ],
+    "prelimsPointers": [
+      "Report = **Title → by-line → opening (what/when/where) → body → outcome**.",
+      "Write in **past tense, third person, objective/passive**.",
+      "Survey report = purpose → method → **findings** → recommendation."
     ]
   },
   {
@@ -212,13 +419,31 @@
           },
           {
             "type": "table",
-            "headers": ["Step", "Guidance"],
+            "headers": [
+              "Step",
+              "Guidance"
+            ],
             "rows": [
-              ["**Introduce**", "State what the visual shows (title, variables, units, period)."],
-              ["**Highlight trends**", "Overall pattern — rise, fall, fluctuation, peak, trough."],
-              ["**Compare**", "Key comparisons (highest/lowest, ratios, differences)."],
-              ["**Support with data**", "Cite specific figures to back statements."],
-              ["**Conclude**", "Summarise the main insight; no personal opinion."]
+              [
+                "**Introduce**",
+                "State what the visual shows (title, variables, units, period)."
+              ],
+              [
+                "**Highlight trends**",
+                "Overall pattern — rise, fall, fluctuation, peak, trough."
+              ],
+              [
+                "**Compare**",
+                "Key comparisons (highest/lowest, ratios, differences)."
+              ],
+              [
+                "**Support with data**",
+                "Cite specific figures to back statements."
+              ],
+              [
+                "**Conclude**",
+                "Summarise the main insight; no personal opinion."
+              ]
             ]
           }
         ]
@@ -237,6 +462,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method & model: writing on visual information",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Steps**: read the title/axes/legend/units → identify the **highest, lowest, trend, comparison, total/change** → write an intro (what the visual shows) → body (key features + comparisons with data) → conclusion (overall trend).",
+              "**Language**: comparatives/superlatives, trend verbs (rose, declined, peaked, remained stable), approximations (nearly, about).",
+              "**Don't** list every number — pick the **significant** points."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Template: 'The [chart] shows … The most striking feature is … while … In contrast, … Overall, …'"
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -244,8 +487,19 @@
       "Focus on trends, comparisons and data support, staying objective."
     ],
     "glossary": [
-      {"term": "Trend", "definition": "The overall direction of data over time (rising, falling, fluctuating)."},
-      {"term": "Data support", "definition": "Citing specific figures from a visual to back a statement."}
+      {
+        "term": "Trend",
+        "definition": "The overall direction of data over time (rising, falling, fluctuating)."
+      },
+      {
+        "term": "Data support",
+        "definition": "Citing specific figures from a visual to back a statement."
+      }
+    ],
+    "prelimsPointers": [
+      "Visual-data answer: **intro (what it shows) → key features/comparisons with data → overall trend**.",
+      "Use **trend verbs** (rose/declined/peaked) & comparatives; approximate.",
+      "Highlight **highest/lowest/trend/change**, not every number."
     ]
   },
   {
@@ -261,13 +515,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Salutation/Address**", "'Respected chief guest, teachers and friends…'"],
-              ["**Opening**", "Greeting + hook (quote, question, statement) + topic."],
-              ["**Body**", "2-3 clear points with examples; logical flow; rhetorical devices."],
-              ["**Close**", "Memorable ending — a call to action, quote or vision; thanks."],
-              ["**Tone**", "Direct address ('you', 'we'), persuasive, dignified."]
+              [
+                "**Salutation/Address**",
+                "'Respected chief guest, teachers and friends…'"
+              ],
+              [
+                "**Opening**",
+                "Greeting + hook (quote, question, statement) + topic."
+              ],
+              [
+                "**Body**",
+                "2-3 clear points with examples; logical flow; rhetorical devices."
+              ],
+              [
+                "**Close**",
+                "Memorable ending — a call to action, quote or vision; thanks."
+              ],
+              [
+                "**Tone**",
+                "Direct address ('you', 'we'), persuasive, dignified."
+              ]
             ]
           }
         ]
@@ -286,6 +558,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format, method & model: formal speech",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Structure**: salutation (respected chairperson, honourable guests…) → attention-grabbing opening → body (2-3 points, examples, rhetorical devices) → call to action → thankful close ('Thank you').",
+              "**Delivery cues**: direct address, rhetorical questions, repetition, inclusive 'we', appropriate register for the occasion.",
+              "**Keep** to the word/time limit; coherent flow."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Opening devices: a quote, a startling fact, a rhetorical question, or a short anecdote."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -293,8 +583,19 @@
       "Use audience-aware, persuasive language and end with a call to action."
     ],
     "glossary": [
-      {"term": "Salutation (speech)", "definition": "The courteous opening address to dignitaries and the audience."},
-      {"term": "Rhetorical device", "definition": "A technique (question, repetition, contrast) to persuade and engage listeners."}
+      {
+        "term": "Salutation (speech)",
+        "definition": "The courteous opening address to dignitaries and the audience."
+      },
+      {
+        "term": "Rhetorical device",
+        "definition": "A technique (question, repetition, contrast) to persuade and engage listeners."
+      }
+    ],
+    "prelimsPointers": [
+      "Speech = **salutation → hook → 2-3 points with examples → call to action → 'Thank you'**.",
+      "Use **direct address, rhetorical questions, inclusive 'we'**.",
+      "Match **register** to audience/occasion."
     ]
   }
 ]

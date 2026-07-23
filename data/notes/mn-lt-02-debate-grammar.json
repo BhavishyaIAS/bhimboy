@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Address & motion**", "Greeting + state the topic and your stance (for/against)."],
-              ["**Arguments**", "2-3 strong points with evidence/examples."],
-              ["**Rebuttal**", "Anticipate and counter the opposing view."],
-              ["**Conclusion**", "Reaffirm the stance persuasively."],
-              ["**Tone**", "Assertive but respectful; logical, not emotional."]
+              [
+                "**Address & motion**",
+                "Greeting + state the topic and your stance (for/against)."
+              ],
+              [
+                "**Arguments**",
+                "2-3 strong points with evidence/examples."
+              ],
+              [
+                "**Rebuttal**",
+                "Anticipate and counter the opposing view."
+              ],
+              [
+                "**Conclusion**",
+                "Reaffirm the stance persuasively."
+              ],
+              [
+                "**Tone**",
+                "Assertive but respectful; logical, not emotional."
+              ]
             ]
           }
         ]
@@ -37,6 +55,23 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: debate (వాద రచన)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**నిర్మాణం**: అంశ పరిచయం → మీ **పక్షం (అనుకూలం/వ్యతిరేకం)** → బలమైన వాదనలు (కారణం + ఉదాహరణ) → ప్రత్యర్థి వాదన ఖండన → ముగింపు.",
+              "**శైలి**: తార్కికం, వాస్తవాధారితం, మర్యాదపూర్వకం; భావోద్వేగం + తర్కం సమతూకం."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "ప్రతి వాదనకూ **కారణం + ఉదాహరణ/సాక్ష్యం** జోడించండి; వ్యక్తిగత దూషణ వద్దు."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -44,8 +79,19 @@
       "Support arguments with evidence and maintain a respectful, persuasive tone."
     ],
     "glossary": [
-      {"term": "Vaadopavaadam", "definition": "Debate/argumentation in Telugu."},
-      {"term": "Rebuttal", "definition": "The counter to an opposing argument in a debate."}
+      {
+        "term": "Vaadopavaadam",
+        "definition": "Debate/argumentation in Telugu."
+      },
+      {
+        "term": "Rebuttal",
+        "definition": "The counter to an opposing argument in a debate."
+      }
+    ],
+    "prelimsPointers": [
+      "వాద రచన = **పరిచయం → పక్షం → వాదనలు (కారణం+ఉదాహరణ) → ఖండన → ముగింపు**.",
+      "తార్కికం, వాస్తవాధారితం, మర్యాదపూర్వకం.",
+      "ప్రత్యర్థి వాదనను ఖండించండి; దూషణ వద్దు."
     ]
   },
   {
@@ -61,13 +107,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**To (addressee)**", "The authority addressed (designation & office)."],
-              ["**Subject**", "One line stating the request."],
-              ["**Salutation**", "Formal ('Ganyulaina…/Sir')."],
-              ["**Body**", "Purpose → grounds/justification → specific request."],
-              ["**Closing**", "Respectful close + name, designation/address, date."]
+              [
+                "**To (addressee)**",
+                "The authority addressed (designation & office)."
+              ],
+              [
+                "**Subject**",
+                "One line stating the request."
+              ],
+              [
+                "**Salutation**",
+                "Formal ('Ganyulaina…/Sir')."
+              ],
+              [
+                "**Body**",
+                "Purpose → grounds/justification → specific request."
+              ],
+              [
+                "**Closing**",
+                "Respectful close + name, designation/address, date."
+              ]
             ]
           }
         ]
@@ -86,6 +150,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format: application (విన్నపం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**నిర్మాణం**: అందుకునేవారి హోదా/చిరునామా → విషయం → సంబోధన → విన్నపం (ఉద్దేశం + కారణం + కోరిక) → ముగింపు → పేరు/చిరునామా/తేదీ.",
+              "**ఉదాహరణలు**: ఉద్యోగ దరఖాస్తు, సెలవు, ధ్రువపత్రం, ఉపకారవేతనం.",
+              "**శైలి**: మర్యాద, సంక్షిప్తత, స్పష్ట కోరిక."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -93,8 +171,19 @@
       "State the request and its grounds clearly and politely."
     ],
     "glossary": [
-      {"term": "Vinnapam / Arji", "definition": "A formal application or request in Telugu."},
-      {"term": "Subject line", "definition": "A one-line statement of the application's purpose."}
+      {
+        "term": "Vinnapam / Arji",
+        "definition": "A formal application or request in Telugu."
+      },
+      {
+        "term": "Subject line",
+        "definition": "A one-line statement of the application's purpose."
+      }
+    ],
+    "prelimsPointers": [
+      "విన్నపం = **హోదా/చిరునామా → విషయం → సంబోధన → ఉద్దేశం+కారణం+కోరిక → పేరు/తేదీ**.",
+      "మర్యాదపూర్వక, స్పష్ట కోరికతో.",
+      "ఉదా: ఉద్యోగ దరఖాస్తు, సెలవు, ధ్రువపత్రం."
     ]
   },
   {
@@ -110,13 +199,31 @@
           },
           {
             "type": "table",
-            "headers": ["Part", "Content"],
+            "headers": [
+              "Part",
+              "Content"
+            ],
             "rows": [
-              ["**Title**", "Names the event/subject."],
-              ["**Opening**", "What, when, where, who."],
-              ["**Body**", "Sequence of events / findings in logical order."],
-              ["**Conclusion**", "Outcome, significance or recommendations."],
-              ["**Style**", "Past tense, third person, objective, factual Telugu."]
+              [
+                "**Title**",
+                "Names the event/subject."
+              ],
+              [
+                "**Opening**",
+                "What, when, where, who."
+              ],
+              [
+                "**Body**",
+                "Sequence of events / findings in logical order."
+              ],
+              [
+                "**Conclusion**",
+                "Outcome, significance or recommendations."
+              ],
+              [
+                "**Style**",
+                "Past tense, third person, objective, factual Telugu."
+              ]
             ]
           }
         ]
@@ -135,6 +242,20 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Format: report (నివేదిక)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**నిర్మాణం**: శీర్షిక → నివేదకుని పేరు/స్థలం/తేదీ → ప్రారంభం (ఏమి/ఎప్పుడు/ఎక్కడ) → వివరణ (క్రమానుగతం) → ముగింపు (ఫలితం/ప్రాముఖ్యం).",
+              "**శైలి**: భూత కాలం, మూడో పురుష, వాస్తవికం, నిష్పాక్షికం.",
+              "**రకాలు**: సంఘటన/కార్యక్రమ నివేదిక, సర్వే నివేదిక (ఫలితాలతో)."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -142,8 +263,19 @@
       "Present findings and outcomes clearly and factually."
     ],
     "glossary": [
-      {"term": "Nivedika", "definition": "A report in Telugu."},
-      {"term": "Objective style", "definition": "Impersonal, factual writing without personal opinion."}
+      {
+        "term": "Nivedika",
+        "definition": "A report in Telugu."
+      },
+      {
+        "term": "Objective style",
+        "definition": "Impersonal, factual writing without personal opinion."
+      }
+    ],
+    "prelimsPointers": [
+      "నివేదిక = **శీర్షిక → నివేదకుడు → ప్రారంభం → వివరణ → ఫలితం**.",
+      "**భూత కాలం, మూడో పురుష, నిష్పాక్షికం**.",
+      "సర్వే నివేదిక = ఉద్దేశం → పద్ధతి → **ఫలితాలు**."
     ]
   },
   {
@@ -159,13 +291,31 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Guidance"],
+            "headers": [
+              "Element",
+              "Guidance"
+            ],
             "rows": [
-              ["**Context**", "Set the situation/speakers briefly."],
-              ["**Natural turns**", "Alternate speakers; realistic, colloquial Telugu."],
-              ["**Purpose**", "The dialogue should develop the theme/reach a point."],
-              ["**Register**", "Match tone to speakers (formal/informal)."],
-              ["**Format**", "Speaker name : dialogue line (each on a new line)."]
+              [
+                "**Context**",
+                "Set the situation/speakers briefly."
+              ],
+              [
+                "**Natural turns**",
+                "Alternate speakers; realistic, colloquial Telugu."
+              ],
+              [
+                "**Purpose**",
+                "The dialogue should develop the theme/reach a point."
+              ],
+              [
+                "**Register**",
+                "Match tone to speakers (formal/informal)."
+              ],
+              [
+                "**Format**",
+                "Speaker name : dialogue line (each on a new line)."
+              ]
             ]
           }
         ]
@@ -184,6 +334,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: dialogue (సంవాదం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**నిర్మాణం**: ఇద్దరు/అంతకంటే ఎక్కువ పాత్రల మధ్య సహజ సంభాషణ; ప్రతి వాక్యం పాత్ర పేరుతో.",
+              "**శైలి**: సందర్భోచిత, సహజ వ్యావహారిక భాష; అంశం చుట్టూ కేంద్రీకృతం; ప్రశ్న-జవాబు మార్పిడి.",
+              "**గమనిక**: పాత్రల స్వభావం ప్రతిబింబించేలా; మొదలు-చివర స్పష్టంగా."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "రవి: నమస్తే! ... కుమార్: ... — పాత్ర పేరుతో ప్రతి పలుకు మొదలవుతుంది."
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -191,8 +359,19 @@
       "Develop the theme through realistic, well-turned exchanges."
     ],
     "glossary": [
-      {"term": "Samvadam", "definition": "A dialogue or conversation in Telugu."},
-      {"term": "Register", "definition": "The level of formality matched to the speakers and situation."}
+      {
+        "term": "Samvadam",
+        "definition": "A dialogue or conversation in Telugu."
+      },
+      {
+        "term": "Register",
+        "definition": "The level of formality matched to the speakers and situation."
+      }
+    ],
+    "prelimsPointers": [
+      "సంవాదం = పాత్రల మధ్య **సహజ సంభాషణ** (ప్రతి పలుకు పాత్ర పేరుతో).",
+      "సందర్భోచిత, వ్యావహారిక భాష; అంశంపై కేంద్రీకృతం.",
+      "ప్రశ్న-జవాబు మార్పిడి; పాత్ర స్వభావం ప్రతిబింబం."
     ]
   },
   {
@@ -208,13 +387,31 @@
           },
           {
             "type": "table",
-            "headers": ["Principle", "Guidance"],
+            "headers": [
+              "Principle",
+              "Guidance"
+            ],
             "rows": [
-              ["**Sense over words**", "Translate the meaning, not literally word-by-word."],
-              ["**Natural Telugu idiom**", "Use idiomatic Telugu; recast to fit Telugu syntax."],
-              ["**Register/tone**", "Match the formality/tone of the source."],
-              ["**Technical terms**", "Use standard Telugu equivalents or explain."],
-              ["**Fidelity**", "No addition/omission; correct grammar (sandhi, vibhakti)."]
+              [
+                "**Sense over words**",
+                "Translate the meaning, not literally word-by-word."
+              ],
+              [
+                "**Natural Telugu idiom**",
+                "Use idiomatic Telugu; recast to fit Telugu syntax."
+              ],
+              [
+                "**Register/tone**",
+                "Match the formality/tone of the source."
+              ],
+              [
+                "**Technical terms**",
+                "Use standard Telugu equivalents or explain."
+              ],
+              [
+                "**Fidelity**",
+                "No addition/omission; correct grammar (sandhi, vibhakti)."
+              ]
             ]
           }
         ]
@@ -233,6 +430,21 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Method: English → Telugu translation (అనువాదం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "numbered",
+            "items": [
+              "మూలాన్ని పూర్తిగా చదివి **భావం, శైలి** గ్రహించండి (పదానువాదం కాదు).",
+              "**భావానువాదం** — సహజ, వ్యాకరణబద్ధ తెలుగులో; register (అధికారిక/సామాన్య) నిలబెట్టండి.",
+              "సంజ్ఞానామాలు అలాగే; జాతీయాలకు **అర్థానుగుణ** తెలుగు; వాక్య క్రమం సహజంగా.",
+              "తిరిగి చదివి సహజత్వం, విశ్వసనీయత తనిఖీ."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -240,8 +452,19 @@
       "Preserve tone, register and meaning with correct Telugu grammar."
     ],
     "glossary": [
-      {"term": "Anuvadam", "definition": "Translation in Telugu."},
-      {"term": "Sense-for-sense translation", "definition": "Translating meaning and effect rather than word-for-word."}
+      {
+        "term": "Anuvadam",
+        "definition": "Translation in Telugu."
+      },
+      {
+        "term": "Sense-for-sense translation",
+        "definition": "Translating meaning and effect rather than word-for-word."
+      }
+    ],
+    "prelimsPointers": [
+      "అనువాదం = **భావానువాదం** (పదానువాదం కాదు); శైలి/register నిలబెట్టండి.",
+      "జాతీయాలకు **అర్థానుగుణ** తెలుగు; సంజ్ఞానామాలు అలాగే.",
+      "సహజ, వ్యాకరణబద్ధ, విశ్వసనీయ తెలుగు లక్ష్యం."
     ]
   },
   {
@@ -257,13 +480,31 @@
           },
           {
             "type": "table",
-            "headers": ["Concept (Telugu)", "Meaning"],
+            "headers": [
+              "Concept (Telugu)",
+              "Meaning"
+            ],
             "rows": [
-              ["**Sandhi**", "Rules for the junction/combination of sounds/words."],
-              ["**Samasam**", "Compound words formed by joining words."],
-              ["**Vibhakti**", "Case markers/postpositions indicating grammatical role."],
-              ["**Alankaram**", "Figures of speech (shabda & artha alankaras)."],
-              ["**Chandas**", "Prosody — metre of verse (padya lakshanam)."]
+              [
+                "**Sandhi**",
+                "Rules for the junction/combination of sounds/words."
+              ],
+              [
+                "**Samasam**",
+                "Compound words formed by joining words."
+              ],
+              [
+                "**Vibhakti**",
+                "Case markers/postpositions indicating grammatical role."
+              ],
+              [
+                "**Alankaram**",
+                "Figures of speech (shabda & artha alankaras)."
+              ],
+              [
+                "**Chandas**",
+                "Prosody — metre of verse (padya lakshanam)."
+              ]
             ]
           }
         ]
@@ -282,6 +523,22 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "✍️ Reference: Telugu grammar (వ్యాకరణం)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**సంధులు**: సవర్ణదీర్ఘ, గుణ, యణాదేశ, సరళాదేశ (తెలుగు సంధులు — అత్వ, ఇత్వ, ఉత్వ), etc.",
+              "**సమాసాలు**: తత్పురుష, ద్వంద్వ, బహువ్రీహి, ద్విగు, అవ్యయీభావ.",
+              "**అలంకారాలు**: శబ్దాలంకారాలు (అనుప్రాస, యమకం) & అర్థాలంకారాలు (ఉపమ, రూపక, ఉత్ప్రేక్ష, అతిశయోక్తి).",
+              "**ఛందస్సు**: పద్య లక్షణాలు (గణాలు, యతి, ప్రాస) — ఉత్పలమాల, చంపకమాల, శార్దూలం, కందం.",
+              "**వాక్య నిర్మాణం, విభక్తులు (ప్రథమ...సప్తమి), క్రియలు, లింగ-వచన-పురుష**."
+            ]
+          }
+        ]
       }
     ],
     "mainsAngles": [
@@ -289,9 +546,23 @@
       "Apply Telugu grammar accurately across all composition tasks."
     ],
     "glossary": [
-      {"term": "Sandhi", "definition": "The rules governing the combination/junction of sounds and words in Telugu."},
-      {"term": "Vibhakti", "definition": "Case markers/postpositions showing a word's grammatical function."},
-      {"term": "Alankaram", "definition": "A figure of speech in Telugu poetics (word or meaning based)."}
+      {
+        "term": "Sandhi",
+        "definition": "The rules governing the combination/junction of sounds and words in Telugu."
+      },
+      {
+        "term": "Vibhakti",
+        "definition": "Case markers/postpositions showing a word's grammatical function."
+      },
+      {
+        "term": "Alankaram",
+        "definition": "A figure of speech in Telugu poetics (word or meaning based)."
+      }
+    ],
+    "prelimsPointers": [
+      "సంధులు (సవర్ణదీర్ఘ, గుణ, యణాదేశ), **సమాసాలు** (తత్పురుష, ద్వంద్వ, బహువ్రీహి).",
+      "అలంకారాలు: **ఉపమ, రూపక, ఉత్ప్రేక్ష** (అర్థ); అనుప్రాస, యమకం (శబ్ద).",
+      "ఛందస్సు: **గణాలు, యతి, ప్రాస** (ఉత్పలమాల, కందం); **విభక్తులు** ప్రథమ-సప్తమి."
     ]
   }
 ]
