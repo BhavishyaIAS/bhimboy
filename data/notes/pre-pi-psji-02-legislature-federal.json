@@ -12,12 +12,42 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Amendment (Art. 368)**", "Three types — by **simple majority, special majority, special majority + ratification by half the states**."],
-              ["**Basic Structure**", "**Kesavananda Bharati (1973)** — Parliament can amend but not destroy the **basic structure**."],
-              ["**Elements of basic structure**", "Supremacy of Constitution, rule of law, judicial review, federalism, secularism, separation of powers, free elections."],
-              ["**Key amendments**", "**42nd (1976, 'mini-constitution'), 44th (1978), 73rd/74th (1992, local bodies), 101st (2017, GST)**."]
+              [
+                "**Amendment (Art. 368)**",
+                "Three types — by **simple majority, special majority, special majority + ratification by half the states**."
+              ],
+              [
+                "**Basic Structure**",
+                "**Kesavananda Bharati (1973)** — Parliament can amend but not destroy the **basic structure**."
+              ],
+              [
+                "**Elements of basic structure**",
+                "Supremacy of Constitution, rule of law, judicial review, federalism, secularism, separation of powers, free elections."
+              ],
+              [
+                "**Key amendments**",
+                "**42nd (1976, 'mini-constitution'), 44th (1978), 73rd/74th (1992, local bodies), 101st (2017, GST)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: amendments & Basic Structure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Amendment (Art 368)**: 3 types — by **simple majority** (outside 368, e.g. new states), by **special majority** (2/3 present-voting + majority of total membership), and **special majority + ratification by ½ states** (federal provisions).",
+              "**Basic Structure Doctrine** — evolved through: **Shankari Prasad (1951) & Sajjan Singh (1965)** (Parliament can amend FRs) → **Golaknath (1967)** (cannot) → **Kesavananda Bharati (1973)** — Parliament can amend any part **but not the 'basic structure'** → **Minerva Mills (1980)** & **Waman Rao** reaffirmed; **Indira Gandhi v Raj Narain (1975)**.",
+              "**Elements of Basic Structure** (illustrative): supremacy of the Constitution, republican-democratic form, secularism, separation of powers, federalism, judicial review, rule of law, free & fair elections, independence of judiciary, FR-DPSP balance.",
+              "**Key amendments**: **1st (1951)** — 9th Schedule; **42nd (1976)** — 'Mini-Constitution' (Socialist/Secular, FDs, DPSP additions); **44th (1978)** — undid excesses, property; **52nd (1985)** — anti-defection (10th Schedule); **61st (1989)** — voting age 21→18; **73rd/74th (1992)** — Panchayats/Municipalities; **101st (2016)** — **GST**; **103rd (2019)** — **EWS 10% reservation**."
             ]
           }
         ]
@@ -43,15 +73,28 @@
       "**42nd Amendment (1976)** — the 'Mini-Constitution' (added FDs, Preamble words).",
       "**44th Amendment (1978)** — removed Right to Property as FR; restored some post-Emergency safeguards.",
       "**73rd & 74th Amendments (1992)** — Panchayati Raj & Urban Local Bodies.",
-      "**101st Amendment (2017)** — introduced **GST**."
+      "**101st Amendment (2017)** — introduced **GST**.",
+      "**Basic Structure** doctrine born in **Kesavananda Bharati (1973)**; reaffirmed **Minerva Mills (1980)**.",
+      "Amendment via **Art 368**: special majority ± state ratification; **42nd Amendment** = 'Mini-Constitution'.",
+      "**61st Amendment** — voting age 21→18; **73rd/74th (1992)** — local bodies; **101st** — GST; **103rd** — EWS 10%.",
+      "Sequence: **Shankari Prasad → Golaknath → Kesavananda → Minerva Mills**."
     ],
     "mainsAngles": [
       "Explain the Basic Structure doctrine and its significance."
     ],
     "glossary": [
-      {"term": "Article 368", "definition": "The provision governing amendment of the Constitution."},
-      {"term": "Basic Structure doctrine", "definition": "The rule (Kesavananda Bharati, 1973) that Parliament cannot amend the Constitution's core identity."},
-      {"term": "Special majority", "definition": "A majority of the total membership plus two-thirds of members present and voting, needed for most amendments."}
+      {
+        "term": "Article 368",
+        "definition": "The provision governing amendment of the Constitution."
+      },
+      {
+        "term": "Basic Structure doctrine",
+        "definition": "The rule (Kesavananda Bharati, 1973) that Parliament cannot amend the Constitution's core identity."
+      },
+      {
+        "term": "Special majority",
+        "definition": "A majority of the total membership plus two-thirds of members present and voting, needed for most amendments."
+      }
     ]
   },
   {
@@ -67,13 +110,46 @@
           },
           {
             "type": "table",
-            "headers": ["List", "Detail"],
+            "headers": [
+              "List",
+              "Detail"
+            ],
             "rows": [
-              ["**Union List**", "~**97+ subjects** — defence, foreign affairs, banking, currency, railways; Parliament legislates."],
-              ["**State List**", "~**66+ subjects** — police, public health, agriculture, land; State legislatures."],
-              ["**Concurrent List**", "~**47+ subjects** — education, forests, marriage, criminal law; both legislate (**Union prevails** on conflict)."],
-              ["**Residuary powers**", "With the **Union** (Art. 248) — unlike the USA."],
-              ["**Centre-State**", "Legislative, administrative & financial relations (Parts XI-XII)."]
+              [
+                "**Union List**",
+                "~**97+ subjects** — defence, foreign affairs, banking, currency, railways; Parliament legislates."
+              ],
+              [
+                "**State List**",
+                "~**66+ subjects** — police, public health, agriculture, land; State legislatures."
+              ],
+              [
+                "**Concurrent List**",
+                "~**47+ subjects** — education, forests, marriage, criminal law; both legislate (**Union prevails** on conflict)."
+              ],
+              [
+                "**Residuary powers**",
+                "With the **Union** (Art. 248) — unlike the USA."
+              ],
+              [
+                "**Centre-State**",
+                "Legislative, administrative & financial relations (Parts XI-XII)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Union-State relations",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Legislative (Arts 245-255)**: **7th Schedule** — **Union List** (~100 subjects: defence, foreign affairs, railways), **State List** (~61: police, public health, agriculture), **Concurrent List** (~52: education, forests, criminal law — Union prevails on conflict); **residuary powers with the Union (Art 248)**.",
+              "**Administrative (256-263)**: centre's directions; **All-India Services**; **Inter-State Council (Art 263)**; disputes.",
+              "**Financial (268-293)**: tax distribution; the **Finance Commission (Art 280)** (every 5 yrs — vertical & horizontal devolution); **GST Council (Art 279A)** (cooperative federalism); grants-in-aid.",
+              "**Trends**: 'cooperative & competitive federalism' (**NITI Aayog, GST**); tensions over Governors, central agencies, funds; **Sarkaria (1988) & Punchhi** Commissions on centre-state relations."
             ]
           }
         ]
@@ -99,15 +175,28 @@
       "**Concurrent List** (~47) — education, forests, criminal law; **Union law prevails** on conflict (Art. 254).",
       "**Residuary powers** vest in the **Union** (Article 248).",
       "**Education & Forests** shifted from State to Concurrent by the **42nd Amendment**.",
-      "The scheme creates a **strong centre** ('federal with unitary bias')."
+      "The scheme creates a **strong centre** ('federal with unitary bias').",
+      "**7th Schedule**: Union / State / Concurrent Lists; **residuary powers → Union (Art 248)**.",
+      "**Finance Commission (Art 280)** every 5 yrs; **GST Council (Art 279A)** = cooperative federalism.",
+      "Concurrent-list conflict → **Union law prevails**; **Inter-State Council (Art 263)**.",
+      "Centre-state review: **Sarkaria (1988) & Punchhi** Commissions."
     ],
     "mainsAngles": [
       "Analyse the division of legislative powers between the Union and the States."
     ],
     "glossary": [
-      {"term": "Seventh Schedule", "definition": "The schedule distributing subjects into the Union, State and Concurrent Lists."},
-      {"term": "Concurrent List", "definition": "Subjects on which both Parliament and states can legislate, with Union law prevailing on conflict."},
-      {"term": "Residuary powers", "definition": "Powers over subjects not in any list, vested in the Union (Art. 248)."}
+      {
+        "term": "Seventh Schedule",
+        "definition": "The schedule distributing subjects into the Union, State and Concurrent Lists."
+      },
+      {
+        "term": "Concurrent List",
+        "definition": "Subjects on which both Parliament and states can legislate, with Union law prevailing on conflict."
+      },
+      {
+        "term": "Residuary powers",
+        "definition": "Powers over subjects not in any list, vested in the Union (Art. 248)."
+      }
     ]
   },
   {
@@ -123,13 +212,47 @@
           },
           {
             "type": "table",
-            "headers": ["House", "Detail"],
+            "headers": [
+              "House",
+              "Detail"
+            ],
             "rows": [
-              ["**Lok Sabha**", "Max **552**; directly elected; **5-yr** term; **Speaker**; controls **money bills**; no-confidence motion."],
-              ["**Rajya Sabha**", "Max **250**; indirectly elected (state assemblies) + 12 nominated; **permanent (1/3 retire every 2 yrs)**; **Vice-President** chairs."],
-              ["**State Legislature**", "**Vidhan Sabha (Assembly)** always; **Vidhan Parishad (Council)** in some states (e.g. AP)."],
-              ["**Functions**", "Legislation, budget, executive accountability, deliberation, representation."],
-              ["**Bills**", "**Money bills** originate only in Lok Sabha (Art. 110)."]
+              [
+                "**Lok Sabha**",
+                "Max **552**; directly elected; **5-yr** term; **Speaker**; controls **money bills**; no-confidence motion."
+              ],
+              [
+                "**Rajya Sabha**",
+                "Max **250**; indirectly elected (state assemblies) + 12 nominated; **permanent (1/3 retire every 2 yrs)**; **Vice-President** chairs."
+              ],
+              [
+                "**State Legislature**",
+                "**Vidhan Sabha (Assembly)** always; **Vidhan Parishad (Council)** in some states (e.g. AP)."
+              ],
+              [
+                "**Functions**",
+                "Legislation, budget, executive accountability, deliberation, representation."
+              ],
+              [
+                "**Bills**",
+                "**Money bills** originate only in Lok Sabha (Art. 110)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Parliament & State Legislatures",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Parliament** = **President + Lok Sabha + Rajya Sabha**. **Lok Sabha**: max **552** (530 states + 20 UTs; the 2 Anglo-Indian nominated seats ended by the **104th Amendment, 2020**); term 5 yrs; Speaker; **money bills originate here (Art 110)**.",
+              "**Rajya Sabha**: max **250** (238 elected by state legislatures via **proportional representation/STV** + 12 nominated); **permanent house** (1/3 retire every 2 yrs); Chairman = **Vice-President**; equal power except money bills.",
+              "**Bills**: Ordinary, **Money (Art 110 — Speaker certifies; RS only recommends, 14 days)**, Financial, **Constitution Amendment**; joint sitting (Art 108) for ordinary/financial bill deadlock (presided by **Speaker**; not for money/amendment bills).",
+              "**Sessions**: Budget, Monsoon, Winter; **quorum = 1/10**; devices — Question Hour, Zero Hour, adjournment/no-confidence motions; **Budget (Art 112)**.",
+              "**State legislature**: unicameral (Vidhan Sabha) or bicameral (+ **Vidhan Parishad** — only 6 states incl. **Andhra Pradesh**); Governor's role."
             ]
           }
         ]
@@ -155,15 +278,28 @@
       "**Money Bills** can be introduced only in the **Lok Sabha** (Article 110), on the President's recommendation.",
       "**Rajya Sabha** has special powers — **Art. 249** (legislate on State List) & **Art. 312** (new AIS).",
       "State legislature — **Vidhan Sabha** (all states) & **Vidhan Parishad** (some, incl. **Andhra Pradesh**).",
-      "A **no-confidence motion** can be moved only in the **Lok Sabha**."
+      "A **no-confidence motion** can be moved only in the **Lok Sabha**.",
+      "Lok Sabha max **552**; **Anglo-Indian nomination ended (104th Amendment, 2020)**; **money bills start in LS (Art 110)**.",
+      "Rajya Sabha = **permanent** (1/3 retire every 2 yrs); Chairman = **Vice-President**; RS members by **STV**.",
+      "**Joint sitting (Art 108)** presided by **Speaker**; not for money/constitution-amendment bills.",
+      "**Andhra Pradesh has a Legislative Council (Vidhan Parishad)** — one of only 6 states."
     ],
     "mainsAngles": [
       "Compare the powers of the Lok Sabha and the Rajya Sabha."
     ],
     "glossary": [
-      {"term": "Lok Sabha", "definition": "The directly-elected lower house of Parliament, with primacy over money bills."},
-      {"term": "Rajya Sabha", "definition": "The indirectly-elected permanent upper house representing the states."},
-      {"term": "Money Bill", "definition": "A bill on taxation/expenditure that can originate only in the Lok Sabha (Art. 110)."}
+      {
+        "term": "Lok Sabha",
+        "definition": "The directly-elected lower house of Parliament, with primacy over money bills."
+      },
+      {
+        "term": "Rajya Sabha",
+        "definition": "The indirectly-elected permanent upper house representing the states."
+      },
+      {
+        "term": "Money Bill",
+        "definition": "A bill on taxation/expenditure that can originate only in the Lok Sabha (Art. 110)."
+      }
     ]
   },
   {
@@ -179,13 +315,46 @@
           },
           {
             "type": "table",
-            "headers": ["Instrument", "Detail"],
+            "headers": [
+              "Instrument",
+              "Detail"
+            ],
             "rows": [
-              ["**Privileges**", "**Freedom of speech in Parliament (Art. 105); immunity from court** for anything said/voted; regulate own procedure."],
-              ["**Question Hour / Zero Hour**", "**Question Hour** (first hour) holds govt accountable; **Zero Hour** — Indian innovation."],
-              ["**Motions**", "**No-confidence, adjournment, calling attention, censure, cut motions**."],
-              ["**Sessions**", "**Budget, Monsoon, Winter**; prorogation, adjournment, dissolution; **quorum = 1/10**."],
-              ["**Committees**", "**PAC, Estimates, Public Undertakings**; Departmental Standing Committees; 'mini-parliaments'."]
+              [
+                "**Privileges**",
+                "**Freedom of speech in Parliament (Art. 105); immunity from court** for anything said/voted; regulate own procedure."
+              ],
+              [
+                "**Question Hour / Zero Hour**",
+                "**Question Hour** (first hour) holds govt accountable; **Zero Hour** — Indian innovation."
+              ],
+              [
+                "**Motions**",
+                "**No-confidence, adjournment, calling attention, censure, cut motions**."
+              ],
+              [
+                "**Sessions**",
+                "**Budget, Monsoon, Winter**; prorogation, adjournment, dissolution; **quorum = 1/10**."
+              ],
+              [
+                "**Committees**",
+                "**PAC, Estimates, Public Undertakings**; Departmental Standing Committees; 'mini-parliaments'."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: powers, privileges & procedure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Parliamentary privileges (Arts 105 & 194)**: freedom of speech in the House, immunity from court proceedings for anything said/voted, control over own proceedings; **breach of privilege & contempt** dealt with by the House (privileges committee).",
+              "**Presiding officers**: **Speaker (LS)** — decides money bill, casting vote, disqualification under anti-defection, conducts business; **Deputy Speaker**; **Chairman (RS) = VP**.",
+              "**Anti-defection (10th Schedule, 52nd Amendment 1985)**: disqualification for defection; decided by the presiding officer (subject to judicial review — **Kihoto Hollohan**); the 91st Amendment (2003) removed the 'split' exception (only merger of **2/3** allowed).",
+              "**Law-making stages**: introduction & first reading → second reading (clause-by-clause) → third reading → other House → President's assent (**assent/withhold/return** — pocket veto possible)."
             ]
           }
         ]
@@ -211,15 +380,28 @@
       "**Adjournment motion** raises urgent public matters (Lok Sabha only); **No-confidence** tests majority.",
       "Three sessions — **Budget, Monsoon, Winter**; **quorum = one-tenth** of total members.",
       "Financial committees — **Public Accounts (PAC), Estimates, Public Undertakings**; PAC chaired by **Opposition**.",
-      "**Cut motions** are used to oppose demands for grants."
+      "**Cut motions** are used to oppose demands for grants.",
+      "**Privileges = Arts 105 (Parliament) & 194 (States)**; freedom of speech in House, immunity from courts.",
+      "**Anti-defection = 10th Schedule (52nd Amendment 1985)**; decided by **presiding officer**; only **2/3 merger** exempt (91st Amdt).",
+      "**Speaker** decides if a bill is a **Money Bill**; has a **casting vote**.",
+      "Presidential options on a bill: **assent, withhold, or return** (not money bills)."
     ],
     "mainsAngles": [
       "Discuss parliamentary privileges and the role of committees in the legislature."
     ],
     "glossary": [
-      {"term": "Parliamentary privilege", "definition": "Special rights of Houses/members ensuring free functioning, incl. immunity for speech within the House."},
-      {"term": "Zero Hour", "definition": "An Indian parliamentary innovation allowing members to raise matters without prior notice."},
-      {"term": "Public Accounts Committee", "definition": "A financial committee (chaired by the Opposition) that audits government spending."}
+      {
+        "term": "Parliamentary privilege",
+        "definition": "Special rights of Houses/members ensuring free functioning, incl. immunity for speech within the House."
+      },
+      {
+        "term": "Zero Hour",
+        "definition": "An Indian parliamentary innovation allowing members to raise matters without prior notice."
+      },
+      {
+        "term": "Public Accounts Committee",
+        "definition": "A financial committee (chaired by the Opposition) that audits government spending."
+      }
     ]
   },
   {
@@ -235,13 +417,46 @@
           },
           {
             "type": "table",
-            "headers": ["Feature/Issue", "Detail"],
+            "headers": [
+              "Feature/Issue",
+              "Detail"
+            ],
             "rows": [
-              ["**Federal features**", "Dual polity, written/rigid constitution, division of powers, independent judiciary, bicameralism."],
-              ["**Unitary features**", "**Strong centre, single citizenship, All-India Services, Governor, emergency provisions, integrated judiciary, residuary powers with Union**."],
-              ["**Emergency**", "**National (352), President's Rule (356), Financial (360)** — can make India unitary."],
-              ["**Issues**", "**Article 356 misuse, Governor's role, fiscal centralisation, river disputes, regionalism**."],
-              ["**Cooperative federalism**", "**GST Council, NITI Aayog, Inter-State Council, Finance Commission**."]
+              [
+                "**Federal features**",
+                "Dual polity, written/rigid constitution, division of powers, independent judiciary, bicameralism."
+              ],
+              [
+                "**Unitary features**",
+                "**Strong centre, single citizenship, All-India Services, Governor, emergency provisions, integrated judiciary, residuary powers with Union**."
+              ],
+              [
+                "**Emergency**",
+                "**National (352), President's Rule (356), Financial (360)** — can make India unitary."
+              ],
+              [
+                "**Issues**",
+                "**Article 356 misuse, Governor's role, fiscal centralisation, river disputes, regionalism**."
+              ],
+              [
+                "**Cooperative federalism**",
+                "**GST Council, NITI Aayog, Inter-State Council, Finance Commission**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: federal issues & challenges",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Unitary tilt features**: single constitution & citizenship, All-India Services, integrated judiciary, **emergency provisions (Arts 352/356/360)**, Governor as centre's agent, centre's power to reorganise states (Art 3), residuary & concurrent dominance.",
+              "**Flashpoints**: **misuse of Art 356 (President's Rule)** — checked by **S.R. Bommai (1994)** (judicial review, floor test); **Governor's discretion & Bills held up**; central agencies (CBI/ED) & 'consent' withdrawal; **fiscal federalism** — cesses/surcharges outside divisible pool, GST compensation, borrowing limits.",
+              "**Demands**: greater state autonomy (Rajamannar, West Bengal memoranda), special-category status (AP post-bifurcation demand), Sarkaria/Punchhi reforms, strengthening the **Inter-State Council & NITI Aayog**.",
+              "**Balance**: cooperative + competitive federalism (GST Council, NITI) vs assertive states — the evolving Indian federal bargain."
             ]
           }
         ]
@@ -267,15 +482,28 @@
       "**Article 356 (President's Rule)** — historically the most misused; curbed by **S.R. Bommai (1994)**.",
       "**Governor's** role (discretion, reserving bills) is a recurring Centre-State flashpoint.",
       "Cooperative-federalism bodies — **GST Council, Inter-State Council (Art. 263), Finance Commission, NITI Aayog**.",
-      "**Sarkaria & Punchhi Commissions** examined Centre-State relations."
+      "**Sarkaria & Punchhi Commissions** examined Centre-State relations.",
+      "**S.R. Bommai (1994)**: Art 356 subject to **judicial review**; strength test on the **floor**.",
+      "Emergency: **National (352), President's Rule (356), Financial (360)**.",
+      "Fiscal-federal issues: **cesses/surcharges** (not shared), GST compensation, special-category-status demand (**AP**).",
+      "Reform bodies: **Sarkaria & Punchhi Commissions, Inter-State Council**."
     ],
     "mainsAngles": [
       "Examine the issues and challenges in Indian federalism."
     ],
     "glossary": [
-      {"term": "Quasi-federal", "definition": "K.C. Wheare's description of India as federal in form but unitary in spirit."},
-      {"term": "Article 356", "definition": "The provision for President's Rule in a state, curbed by the S.R. Bommai judgment."},
-      {"term": "Cooperative federalism", "definition": "Centre and states working together through bodies like the GST Council and Inter-State Council."}
+      {
+        "term": "Quasi-federal",
+        "definition": "K.C. Wheare's description of India as federal in form but unitary in spirit."
+      },
+      {
+        "term": "Article 356",
+        "definition": "The provision for President's Rule in a state, curbed by the S.R. Bommai judgment."
+      },
+      {
+        "term": "Cooperative federalism",
+        "definition": "Centre and states working together through bodies like the GST Council and Inter-State Council."
+      }
     ]
   }
 ]

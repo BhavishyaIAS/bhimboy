@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Milestone", "Contribution"],
+            "headers": [
+              "Milestone",
+              "Contribution"
+            ],
             "rows": [
-              ["**Regulating Act 1773 / Pitt's 1784**", "First steps of Crown control over the Company."],
-              ["**GoI Act 1858 / Councils Acts 1861-1909**", "Crown rule; **Indians in legislatures; separate electorates (1909)**."],
-              ["**GoI Act 1919 / 1935**", "**Dyarchy (1919); provincial autonomy, federation (1935)** — the biggest source of the Constitution."],
-              ["**Constituent Assembly (1946)**", "Formed under the **Cabinet Mission Plan**; **Dr. Rajendra Prasad** President; **Ambedkar** chaired Drafting Committee; took **2 yrs 11 mo 18 days**."],
-              ["**Adoption**", "**Adopted 26 Nov 1949; enforced 26 Jan 1950** (Republic Day)."]
+              [
+                "**Regulating Act 1773 / Pitt's 1784**",
+                "First steps of Crown control over the Company."
+              ],
+              [
+                "**GoI Act 1858 / Councils Acts 1861-1909**",
+                "Crown rule; **Indians in legislatures; separate electorates (1909)**."
+              ],
+              [
+                "**GoI Act 1919 / 1935**",
+                "**Dyarchy (1919); provincial autonomy, federation (1935)** — the biggest source of the Constitution."
+              ],
+              [
+                "**Constituent Assembly (1946)**",
+                "Formed under the **Cabinet Mission Plan**; **Dr. Rajendra Prasad** President; **Ambedkar** chaired Drafting Committee; took **2 yrs 11 mo 18 days**."
+              ],
+              [
+                "**Adoption**",
+                "**Adopted 26 Nov 1949; enforced 26 Jan 1950** (Republic Day)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: making of the Constitution",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Constituent Assembly**: constituted under the **Cabinet Mission Plan (1946)**; first met **9 Dec 1946** (Sachchidananda Sinha, temporary chair); **Dr Rajendra Prasad** = permanent President; **B.R. Ambedkar** = Chairman, **Drafting Committee** (7 members); **B.N. Rau** = constitutional advisor.",
+              "**Objectives Resolution** moved by **Nehru** (13 Dec 1946) → became the **Preamble**; adopted **26 Nov 1949** ('Constitution Day'); came into force **26 Jan 1950** (chosen — anniversary of Purna Swaraj 1930); took **2 yrs 11 months 18 days**.",
+              "**Borrowed features**: **British** (parliamentary system, rule of law, single citizenship, CAG); **US** (Fundamental Rights, judicial review, preamble, VP); **Irish** (DPSP); **Canadian** (strong centre, residuary powers); **Australian** (concurrent list); **German (Weimar)** (emergency); **USSR** (Fundamental Duties, planning); **South African** (amendment procedure, RS election); **Japan** (procedure established by law).",
+              "**Historical acts leading up**: Regulating Act 1773, Charter Acts, **GoI Acts 1858/1919 (dyarchy)/1935 (main skeleton — federal scheme)**, Indian Independence Act 1947."
             ]
           }
         ]
@@ -44,15 +77,28 @@
       "**Dr. Rajendra Prasad** — President of the Assembly; **B.R. Ambedkar** — Chairman, Drafting Committee.",
       "**B.N. Rau** — Constitutional Advisor; **objective resolution** moved by **Nehru**.",
       "Constitution **adopted 26 Nov 1949 (Constitution Day)**; **came into force 26 Jan 1950**.",
-      "Took **2 years, 11 months, 18 days** to frame."
+      "Took **2 years, 11 months, 18 days** to frame.",
+      "Constituent Assembly first met **9 Dec 1946**; President **Dr Rajendra Prasad**; Drafting Committee chair **Ambedkar**.",
+      "Constitution **adopted 26 Nov 1949**, in force **26 Jan 1950**; took **2y 11m 18d**.",
+      "**GoI Act 1935** = main structural source; **Objectives Resolution** (Nehru) → Preamble.",
+      "Borrowings: **DPSP-Irish, FR/judicial review-US, parliamentary-British, emergency-German, Fundamental Duties-USSR**."
     ],
     "mainsAngles": [
       "Trace the historical evolution of the Indian Constitution."
     ],
     "glossary": [
-      {"term": "Constituent Assembly", "definition": "The body (1946-49) that framed the Indian Constitution under the Cabinet Mission Plan."},
-      {"term": "GoI Act 1935", "definition": "The colonial act that is the single largest source of provisions in the Indian Constitution."},
-      {"term": "Constitution Day", "definition": "26 November, marking the adoption of the Constitution in 1949."}
+      {
+        "term": "Constituent Assembly",
+        "definition": "The body (1946-49) that framed the Indian Constitution under the Cabinet Mission Plan."
+      },
+      {
+        "term": "GoI Act 1935",
+        "definition": "The colonial act that is the single largest source of provisions in the Indian Constitution."
+      },
+      {
+        "term": "Constitution Day",
+        "definition": "26 November, marking the adoption of the Constitution in 1949."
+      }
     ]
   },
   {
@@ -68,14 +114,50 @@
           },
           {
             "type": "table",
-            "headers": ["Feature", "Detail"],
+            "headers": [
+              "Feature",
+              "Detail"
+            ],
             "rows": [
-              ["**Lengthiest**", "Longest written constitution; a blend of **rigid & flexible**."],
-              ["**Borrowings**", "**Parliamentary govt & rule of law (UK), FR & judicial review (USA), DPSP (Ireland), emergency (Germany), Concurrent list (Australia), FD & planning (USSR)**."],
-              ["**Preamble keywords**", "**Sovereign, Socialist, Secular, Democratic, Republic**; Justice, Liberty, Equality, Fraternity."],
-              ["**42nd Amendment (1976)**", "Added **'Socialist, Secular, Integrity'** to the Preamble."],
-              ["**Preamble & basic structure**", "Part of the Constitution (Kesavananda); reflects its **basic structure**."]
+              [
+                "**Lengthiest**",
+                "Longest written constitution; a blend of **rigid & flexible**."
+              ],
+              [
+                "**Borrowings**",
+                "**Parliamentary govt & rule of law (UK), FR & judicial review (USA), DPSP (Ireland), emergency (Germany), Concurrent list (Australia), FD & planning (USSR)**."
+              ],
+              [
+                "**Preamble keywords**",
+                "**Sovereign, Socialist, Secular, Democratic, Republic**; Justice, Liberty, Equality, Fraternity."
+              ],
+              [
+                "**42nd Amendment (1976)**",
+                "Added **'Socialist, Secular, Integrity'** to the Preamble."
+              ],
+              [
+                "**Preamble & basic structure**",
+                "Part of the Constitution (Kesavananda); reflects its **basic structure**."
+              ]
             ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: features & the Preamble",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Preamble**: 'We, the People of India… **SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC**… JUSTICE, LIBERTY, EQUALITY, FRATERNITY'. **Socialist, Secular & Integrity** added by the **42nd Amendment (1976)**. In **Berubari (1960)** the SC said the Preamble is not part of the Constitution; reversed in **Kesavananda Bharati (1973)** — it **is** part & aids interpretation (but is non-justiciable).",
+              "**Salient features**: **lengthiest written** constitution; **parliamentary** government; **federal with unitary bias** ('quasi-federal'); **blend of rigidity & flexibility**; **integrated & independent judiciary** with judicial review; **single citizenship**; **universal adult franchise**; **secular state**; **fundamental rights + duties + DPSP**; **emergency provisions**.",
+              "**Nature of federalism**: strong centre — single constitution, single citizenship, All-India Services, integrated judiciary, emergency powers, residuary powers with centre → 'federal in form, unitary in spirit'."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Prelims trap: the words **Socialist, Secular** & **Integrity** were NOT in the original Preamble — added by the **42nd Amendment, 1976**."
           }
         ]
       },
@@ -100,15 +182,28 @@
       "The **42nd Amendment (1976)** added **'Socialist', 'Secular', 'Integrity'**.",
       "**Preamble is part of the Constitution** (Kesavananda Bharati, 1973) and is amendable.",
       "'**We, the People of India**' — source of authority is the people.",
-      "The Preamble is based on the **Objectives Resolution** (Nehru)."
+      "The Preamble is based on the **Objectives Resolution** (Nehru).",
+      "Preamble keywords: **Sovereign Socialist Secular Democratic Republic**; **Socialist/Secular/Integrity added by 42nd Amendment (1976)**.",
+      "**Kesavananda Bharati (1973)**: Preamble is **part** of the Constitution (reversing Berubari).",
+      "India = **quasi-federal** ('federal in form, unitary in spirit'); single citizenship; independent judiciary.",
+      "Preamble = **non-justiciable** but reflects the philosophy (Objectives Resolution)."
     ],
     "mainsAngles": [
       "Discuss the significance of the Preamble and the salient features of the Constitution."
     ],
     "glossary": [
-      {"term": "Preamble", "definition": "The introductory statement of the Constitution declaring its ideals and source of authority."},
-      {"term": "Secular", "definition": "A state with no official religion, treating all faiths equally; added to the Preamble in 1976."},
-      {"term": "Basic structure", "definition": "The core constitutional principles that cannot be amended away (Kesavananda Bharati case)."}
+      {
+        "term": "Preamble",
+        "definition": "The introductory statement of the Constitution declaring its ideals and source of authority."
+      },
+      {
+        "term": "Secular",
+        "definition": "A state with no official religion, treating all faiths equally; added to the Preamble in 1976."
+      },
+      {
+        "term": "Basic structure",
+        "definition": "The core constitutional principles that cannot be amended away (Kesavananda Bharati case)."
+      }
     ]
   },
   {
@@ -124,14 +219,88 @@
           },
           {
             "type": "table",
-            "headers": ["Right", "Articles"],
+            "headers": [
+              "Right",
+              "Articles"
+            ],
             "rows": [
-              ["**Right to Equality**", "**Arts. 14-18** (equality before law, no discrimination, abolition of untouchability & titles)."],
-              ["**Right to Freedom**", "**Arts. 19-22** (speech, assembly, movement; protection in arrest — Art. 21 life & liberty)."],
-              ["**Right against Exploitation**", "**Arts. 23-24** (no trafficking/forced/child labour)."],
-              ["**Right to Freedom of Religion**", "**Arts. 25-28**."],
-              ["**Cultural & Educational Rights**", "**Arts. 29-30** (minorities)."],
-              ["**Right to Constitutional Remedies**", "**Art. 32** — Ambedkar's 'heart and soul'; writs — habeas corpus, mandamus, prohibition, certiorari, quo warranto."]
+              [
+                "**Right to Equality**",
+                "**Arts. 14-18** (equality before law, no discrimination, abolition of untouchability & titles)."
+              ],
+              [
+                "**Right to Freedom**",
+                "**Arts. 19-22** (speech, assembly, movement; protection in arrest — Art. 21 life & liberty)."
+              ],
+              [
+                "**Right against Exploitation**",
+                "**Arts. 23-24** (no trafficking/forced/child labour)."
+              ],
+              [
+                "**Right to Freedom of Religion**",
+                "**Arts. 25-28**."
+              ],
+              [
+                "**Cultural & Educational Rights**",
+                "**Arts. 29-30** (minorities)."
+              ],
+              [
+                "**Right to Constitutional Remedies**",
+                "**Art. 32** — Ambedkar's 'heart and soul'; writs — habeas corpus, mandamus, prohibition, certiorari, quo warranto."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Fundamental Rights (Part III, Arts 12-35)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Right",
+              "Articles",
+              "Key points"
+            ],
+            "rows": [
+              [
+                "**Equality**",
+                "14–18",
+                "Equality before law; no discrimination; equal opportunity; **abolition of untouchability (17)** & titles (18)."
+              ],
+              [
+                "**Freedom**",
+                "19–22",
+                "6 freedoms (speech, assembly, association, movement, residence, profession); **protection re: conviction (20)**; **life & personal liberty (21) — right to privacy (Puttaswamy 2017), education (21A)**; preventive detention (22)."
+              ],
+              [
+                "**Against Exploitation**",
+                "23–24",
+                "Ban on trafficking/forced labour; **no child (<14) in hazardous work (24)**."
+              ],
+              [
+                "**Freedom of Religion**",
+                "25–28",
+                "Freedom of conscience; manage religious affairs."
+              ],
+              [
+                "**Cultural & Educational**",
+                "29–30",
+                "Minorities' language/script; run educational institutions."
+              ],
+              [
+                "**Constitutional Remedies (31)**",
+                "**32**",
+                "Ambedkar's 'heart & soul'; writs — **Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto**."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Right to Property** was a FR (Art 31) — **removed by 44th Amendment (1978)** → now a **legal right (Art 300A)**.",
+              "FRs are **justiciable**, mostly against the **State**; can be **suspended in Emergency** (except **Arts 20 & 21** — never)."
             ]
           }
         ]
@@ -157,15 +326,28 @@
       "**Article 21** (life & personal liberty) — expanded to include privacy, environment, education etc.",
       "**Article 21A** — Right to Education (6-14 yrs), added by the **86th Amendment (2002)**.",
       "**Right to Property** removed as FR by the **44th Amendment (1978)** → **Article 300A** (legal right).",
-      "FRs are **justiciable** and can be **suspended during a National Emergency** (except 20 & 21)."
+      "FRs are **justiciable** and can be **suspended during a National Emergency** (except 20 & 21).",
+      "**Art 32** = 'heart & soul' (Ambedkar); writs = **Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto**.",
+      "**Art 21** — expanded to **privacy (Puttaswamy 2017)**; **Art 21A** — free education 6-14 (RTE, 86th Amendment).",
+      "**Right to Property** removed as FR by **44th Amendment (1978)** → legal right **Art 300A**.",
+      "**Arts 20 & 21 cannot be suspended** even during Emergency; **untouchability abolished (Art 17)**."
     ],
     "mainsAngles": [
       "Examine the scope and significance of Fundamental Rights."
     ],
     "glossary": [
-      {"term": "Fundamental Rights", "definition": "Justiciable rights in Part III that protect individuals against arbitrary state action."},
-      {"term": "Writ", "definition": "A judicial order (habeas corpus, mandamus, etc.) issued to enforce Fundamental Rights under Arts. 32/226."},
-      {"term": "Article 32", "definition": "The right to constitutional remedies, called the 'heart and soul' of the Constitution."}
+      {
+        "term": "Fundamental Rights",
+        "definition": "Justiciable rights in Part III that protect individuals against arbitrary state action."
+      },
+      {
+        "term": "Writ",
+        "definition": "A judicial order (habeas corpus, mandamus, etc.) issued to enforce Fundamental Rights under Arts. 32/226."
+      },
+      {
+        "term": "Article 32",
+        "definition": "The right to constitutional remedies, called the 'heart and soul' of the Constitution."
+      }
     ]
   },
   {
@@ -181,13 +363,45 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Location**", "**Part IVA, Article 51A**; added by **42nd Amendment (1976)**."],
-              ["**Source**", "**Swaran Singh Committee**; inspired by the **USSR** Constitution."],
-              ["**Number**", "Originally **10**; the **11th** (education of child 6-14) added by the **86th Amendment (2002)**."],
-              ["**Nature**", "**Non-justiciable** (not legally enforceable) — moral/civic duties."],
-              ["**Examples**", "Respect the Constitution, flag & anthem; protect environment; promote harmony; safeguard public property."]
+              [
+                "**Location**",
+                "**Part IVA, Article 51A**; added by **42nd Amendment (1976)**."
+              ],
+              [
+                "**Source**",
+                "**Swaran Singh Committee**; inspired by the **USSR** Constitution."
+              ],
+              [
+                "**Number**",
+                "Originally **10**; the **11th** (education of child 6-14) added by the **86th Amendment (2002)**."
+              ],
+              [
+                "**Nature**",
+                "**Non-justiciable** (not legally enforceable) — moral/civic duties."
+              ],
+              [
+                "**Examples**",
+                "Respect the Constitution, flag & anthem; protect environment; promote harmony; safeguard public property."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Fundamental Duties (Part IVA, Art 51A)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Added by the **42nd Amendment (1976)** on the **Swaran Singh Committee** recommendation (inspired by the **USSR** constitution); originally **10**, an **11th** (parents to provide education to children 6-14) added by the **86th Amendment (2002)**.",
+              "**The 11 duties** include: abide by the Constitution & respect the flag/anthem; cherish freedom-struggle ideals; protect sovereignty & unity; defend the country; promote harmony & renounce practices derogatory to women; preserve composite culture; **protect environment & wildlife**; develop scientific temper; safeguard public property & abjure violence; strive for excellence.",
+              "**Non-justiciable** (no legal penalty directly) but the state may enforce via law; the SC uses them to interpret laws (e.g. environment, Vande Mataram cases)."
             ]
           }
         ]
@@ -213,15 +427,28 @@
       "Fundamental Duties are **non-justiciable** (no legal enforcement).",
       "Apply only to **citizens** (not foreigners).",
       "Examples — respect the **National Flag & Anthem**, protect the **environment**, develop **scientific temper**.",
-      "India is one of the few countries to list citizens' duties in its constitution."
+      "India is one of the few countries to list citizens' duties in its constitution.",
+      "Fundamental Duties added by **42nd Amendment (1976)** on **Swaran Singh Committee**; originally **10**.",
+      "**11th duty (education of children 6-14)** added by **86th Amendment (2002)**.",
+      "Located in **Part IVA, Article 51A**; inspired by the **USSR** constitution; **non-justiciable**.",
+      "Include: scientific temper, protect environment, safeguard public property, promote harmony."
     ],
     "mainsAngles": [
       "Discuss the significance and limitations of Fundamental Duties."
     ],
     "glossary": [
-      {"term": "Fundamental Duties", "definition": "Non-justiciable moral obligations of citizens in Part IVA (Art. 51A)."},
-      {"term": "Swaran Singh Committee", "definition": "The 1976 committee that recommended adding Fundamental Duties to the Constitution."},
-      {"term": "42nd Amendment", "definition": "The 1976 'mini-constitution' amendment that inserted Fundamental Duties and Preamble words."}
+      {
+        "term": "Fundamental Duties",
+        "definition": "Non-justiciable moral obligations of citizens in Part IVA (Art. 51A)."
+      },
+      {
+        "term": "Swaran Singh Committee",
+        "definition": "The 1976 committee that recommended adding Fundamental Duties to the Constitution."
+      },
+      {
+        "term": "42nd Amendment",
+        "definition": "The 1976 'mini-constitution' amendment that inserted Fundamental Duties and Preamble words."
+      }
     ]
   },
   {
@@ -237,13 +464,46 @@
           },
           {
             "type": "table",
-            "headers": ["Type", "Examples"],
+            "headers": [
+              "Type",
+              "Examples"
+            ],
             "rows": [
-              ["**Socialistic**", "Equal pay, living wage, right to work, public health (Arts. 38, 39, 41, 43)."],
-              ["**Gandhian**", "Village panchayats (40), cottage industries, prohibition (47), cow protection (48), SC/ST welfare (46)."],
-              ["**Liberal-intellectual**", "**Uniform Civil Code (44)**, separation of judiciary from executive (50), environment & wildlife (48A), international peace (51)."],
-              ["**Nature**", "**Non-justiciable** but 'fundamental in governance'."],
-              ["**Conflict**", "**FR vs DPSP** — resolved via harmony (Minerva Mills: balance is basic structure)."]
+              [
+                "**Socialistic**",
+                "Equal pay, living wage, right to work, public health (Arts. 38, 39, 41, 43)."
+              ],
+              [
+                "**Gandhian**",
+                "Village panchayats (40), cottage industries, prohibition (47), cow protection (48), SC/ST welfare (46)."
+              ],
+              [
+                "**Liberal-intellectual**",
+                "**Uniform Civil Code (44)**, separation of judiciary from executive (50), environment & wildlife (48A), international peace (51)."
+              ],
+              [
+                "**Nature**",
+                "**Non-justiciable** but 'fundamental in governance'."
+              ],
+              [
+                "**Conflict**",
+                "**FR vs DPSP** — resolved via harmony (Minerva Mills: balance is basic structure)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: DPSP (Part IV, Arts 36-51)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Nature**: non-justiciable ideals for the state (from the **Irish** constitution); aim = a **welfare state / economic & social democracy**.",
+              "**Classification**: **Socialist** (Arts 38, 39 — equal pay, wealth distribution; 41 work/education; 43 living wage; 47 nutrition/public health), **Gandhian** (40 **Panchayats**, 43 cottage industries, 46 SC/ST/weaker sections, 47 prohibition, 48 cow protection), **Liberal-Intellectual** (44 **Uniform Civil Code**, 45 early-childhood care, 48A environment, 49 monuments, 50 **separation of judiciary from executive**, 51 international peace).",
+              "**Amendments added**: 39A (free legal aid), 43A (workers' participation), 48A (environment) — by 42nd Amendment.",
+              "**FR vs DPSP conflict**: **Champakam Dorairajan (1951)** → FRs prevail; **Minerva Mills (1980)** → **balance & harmony** between FR & DPSP is part of the **Basic Structure**."
             ]
           }
         ]
@@ -269,15 +529,28 @@
       "**Article 40** — organisation of **village panchayats**; **Article 44** — **Uniform Civil Code**.",
       "**Article 48A** (environment) & **Article 51A(g)** (duty) added by **42nd Amendment**.",
       "**Article 50** — separation of judiciary from executive.",
-      "In **FR vs DPSP** conflict, courts seek **harmony** (Minerva Mills — balance = basic structure)."
+      "In **FR vs DPSP** conflict, courts seek **harmony** (Minerva Mills — balance = basic structure).",
+      "DPSP = **Part IV (Arts 36-51)**, from the **Irish** constitution; **non-justiciable** (welfare-state goals).",
+      "**Art 40** (Panchayats), **44** (Uniform Civil Code), **48A** (environment), **50** (separate judiciary from executive).",
+      "**Minerva Mills (1980)**: FR-DPSP **balance** is part of the Basic Structure.",
+      "42nd Amendment added **39A (legal aid), 43A, 48A** to DPSP."
     ],
     "mainsAngles": [
       "Examine the relationship between Fundamental Rights and Directive Principles."
     ],
     "glossary": [
-      {"term": "DPSP", "definition": "Directive Principles — non-justiciable guidelines (Part IV) directing the state towards a welfare state."},
-      {"term": "Uniform Civil Code", "definition": "The directive (Art. 44) for a common civil law for all citizens regardless of religion."},
-      {"term": "Welfare state", "definition": "A state that promotes social and economic well-being, the goal of the DPSPs."}
+      {
+        "term": "DPSP",
+        "definition": "Directive Principles — non-justiciable guidelines (Part IV) directing the state towards a welfare state."
+      },
+      {
+        "term": "Uniform Civil Code",
+        "definition": "The directive (Art. 44) for a common civil law for all citizens regardless of religion."
+      },
+      {
+        "term": "Welfare state",
+        "definition": "A state that promotes social and economic well-being, the goal of the DPSPs."
+      }
     ]
   }
 ]
