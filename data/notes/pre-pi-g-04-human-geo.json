@@ -12,13 +12,47 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail (Census 2011)"],
+            "headers": [
+              "Concept",
+              "Detail (Census 2011)"
+            ],
             "rows": [
-              ["**Total & rank**", "**1.21 billion (2011)**; now most populous (surpassed China ~2023)."],
-              ["**Density**", "**382/km²** (national); highest **Bihar (1106)**; AP ~308."],
-              ["**Distribution**", "Dense — Ganga plains, coasts, deltas; sparse — Himalayas, Thar, NE hills."],
-              ["**Growth**", "**Decadal growth 17.7% (2001-11)** — declining; TFR now below replacement (~2.0)."],
-              ["**Most/least populous states**", "**UP most; Sikkim least** (Lakshadweep least UT)."]
+              [
+                "**Total & rank**",
+                "**1.21 billion (2011)**; now most populous (surpassed China ~2023)."
+              ],
+              [
+                "**Density**",
+                "**382/km²** (national); highest **Bihar (1106)**; AP ~308."
+              ],
+              [
+                "**Distribution**",
+                "Dense — Ganga plains, coasts, deltas; sparse — Himalayas, Thar, NE hills."
+              ],
+              [
+                "**Growth**",
+                "**Decadal growth 17.7% (2001-11)** — declining; TFR now below replacement (~2.0)."
+              ],
+              [
+                "**Most/least populous states**",
+                "**UP most; Sikkim least** (Lakshadweep least UT)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: population distribution & growth",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Census 2011**: India pop **1.21 billion** (2nd after China; likely 1st now, ~2023); **decadal growth 17.7%** (slowing); density **382/km²**; most populous state **UP**, least **Sikkim**, densest **Bihar (~1106)**, least dense **Arunachal**.",
+              "**Distribution**: dictated by **relief, water, soil, climate, industry** — dense **N. plains & coasts**, sparse deserts/mountains/forests.",
+              "**Demographic transition**: India in **Stage 3** (falling birth rate); **demographic dividend** window (~2018-2055) — median age ~28.",
+              "**AP (2011)**: population **~4.93 crore** (post-bifurcation residuary), density ~308/km²; ~70% rural; growth decelerating.",
+              "Policies: **National Population Policy 2000** (TFR target 2.1 — replacement level, now ~2.0 nationally, achieved)."
             ]
           }
         ]
@@ -44,15 +78,28 @@
       "**Decadal growth (2001-11) = 17.7%** — the sharpest-ever decline in growth rate.",
       "Population is dense in **fertile river plains & deltas**, sparse in **mountains, deserts**.",
       "**AP density ~308/km²** — below national average.",
-      "India became the **world's most populous country (~2023)**, overtaking China."
+      "India became the **world's most populous country (~2023)**, overtaking China.",
+      "**Census 2011**: India **1.21 bn**, density **382/km²**, decadal growth **17.7%**.",
+      "Most populous state **UP**; densest **Bihar**; least dense **Arunachal Pradesh**.",
+      "India = **Stage 3** demographic transition; **TFR ~2.0** (below replacement); dividend window to ~2055.",
+      "**AP ~4.93 crore (2011)**, ~70% rural, density ~308/km²."
     ],
     "mainsAngles": [
       "Analyse the factors governing the distribution and density of India's population."
     ],
     "glossary": [
-      {"term": "Population density", "definition": "The number of persons per square km; India's is 382 (2011)."},
-      {"term": "Decadal growth rate", "definition": "The percentage change in population over ten years between censuses."},
-      {"term": "Demographic transition", "definition": "The shift from high to low birth and death rates as a society develops."}
+      {
+        "term": "Population density",
+        "definition": "The number of persons per square km; India's is 382 (2011)."
+      },
+      {
+        "term": "Decadal growth rate",
+        "definition": "The percentage change in population over ten years between censuses."
+      },
+      {
+        "term": "Demographic transition",
+        "definition": "The shift from high to low birth and death rates as a society develops."
+      }
     ]
   },
   {
@@ -68,12 +115,42 @@
           },
           {
             "type": "table",
-            "headers": ["Indicator", "Detail (2011)"],
+            "headers": [
+              "Indicator",
+              "Detail (2011)"
+            ],
             "rows": [
-              ["**Sex ratio**", "**943** (females/1000 males); highest **Kerala (1084)**, lowest **Haryana (879)**; **AP ~993** (favourable)."],
-              ["**Child sex ratio**", "**919** (0-6) — a declining concern."],
-              ["**Literacy**", "**74%** (male 82%, female 65%); highest **Kerala (94%)**, lowest **Bihar**; AP ~67%."],
-              ["**Occupational structure**", "**Primary (agriculture) ~cultivators+labourers largest share; secondary (industry); tertiary (services) rising**; main vs marginal workers."]
+              [
+                "**Sex ratio**",
+                "**943** (females/1000 males); highest **Kerala (1084)**, lowest **Haryana (879)**; **AP ~993** (favourable)."
+              ],
+              [
+                "**Child sex ratio**",
+                "**919** (0-6) — a declining concern."
+              ],
+              [
+                "**Literacy**",
+                "**74%** (male 82%, female 65%); highest **Kerala (94%)**, lowest **Bihar**; AP ~67%."
+              ],
+              [
+                "**Occupational structure**",
+                "**Primary (agriculture) ~cultivators+labourers largest share; secondary (industry); tertiary (services) rising**; main vs marginal workers."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: sex-ratio, literacy, occupation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Sex ratio (Census 2011)**: India **943** (females/1000 males); highest **Kerala (1084)**, lowest **Haryana (879)**; **child sex ratio (0-6) fell to 919** (a concern → **Beti Bachao Beti Padhao**).",
+              "**Literacy (2011)**: India **74.04%** (male 82.1%, female 65.5%); highest **Kerala (94%)**, lowest **Bihar (~62%)**; gender gap narrowing.",
+              "**Occupational structure**: workers = **main + marginal**; **primary (agriculture) ~ largest share of workforce** but falling; secondary & **services (largest GDP share)** rising; **feminisation of agriculture**; low female LFPR (~a key concern).",
+              "**AP**: sex ratio ~**993** (better than national); literacy ~**67%** (below national avg — a focus area)."
             ]
           }
         ]
@@ -99,15 +176,28 @@
       "**AP sex ratio ~993** (favourable); AP literacy ~67% (below national).",
       "Workers classified as **main (>183 days)** and **marginal**.",
       "Occupational structure — largest share still in the **primary sector (agriculture)**; **tertiary** rising.",
-      "'Beti Bachao Beti Padhao' targets the adverse child sex ratio."
+      "'Beti Bachao Beti Padhao' targets the adverse child sex ratio.",
+      "**Sex ratio (2011)**: India **943**; highest **Kerala (1084)**, lowest **Haryana (879)**; child SR **919**.",
+      "**Literacy (2011)**: India **74%**; highest **Kerala**, lowest **Bihar**.",
+      "Workforce: **primary (agri) largest employer**, **services largest in GDP**; low female LFPR.",
+      "**AP** sex ratio ~**993**; literacy ~**67%** (below national)."
     ],
     "mainsAngles": [
       "Discuss the sex ratio, literacy and occupational structure of India's population."
     ],
     "glossary": [
-      {"term": "Sex ratio", "definition": "The number of females per 1000 males; India's was 943 in 2011."},
-      {"term": "Child sex ratio", "definition": "Females per 1000 males in the 0-6 age group, a sensitive indicator of gender bias."},
-      {"term": "Occupational structure", "definition": "The distribution of workers across the primary, secondary and tertiary sectors."}
+      {
+        "term": "Sex ratio",
+        "definition": "The number of females per 1000 males; India's was 943 in 2011."
+      },
+      {
+        "term": "Child sex ratio",
+        "definition": "Females per 1000 males in the 0-6 age group, a sensitive indicator of gender bias."
+      },
+      {
+        "term": "Occupational structure",
+        "definition": "The distribution of workers across the primary, secondary and tertiary sectors."
+      }
     ]
   },
   {
@@ -123,12 +213,42 @@
           },
           {
             "type": "table",
-            "headers": ["Component", "Detail (2011)"],
+            "headers": [
+              "Component",
+              "Detail (2011)"
+            ],
             "rows": [
-              ["**Scheduled Castes**", "**~16.6%** of population; highest share **Punjab**; listed under **Article 341**."],
-              ["**Scheduled Tribes**", "**~8.6%**; highest share **Mizoram/Lakshadweep**; most in absolute terms **MP**; **Article 342**."],
-              ["**Rural-Urban**", "**Rural 68.8% / Urban 31.2%**; urbanising steadily."],
-              ["**AP**", "SC ~17%, ST ~5-6%; ~70% rural; agency (tribal) areas in the Eastern Ghats."]
+              [
+                "**Scheduled Castes**",
+                "**~16.6%** of population; highest share **Punjab**; listed under **Article 341**."
+              ],
+              [
+                "**Scheduled Tribes**",
+                "**~8.6%**; highest share **Mizoram/Lakshadweep**; most in absolute terms **MP**; **Article 342**."
+              ],
+              [
+                "**Rural-Urban**",
+                "**Rural 68.8% / Urban 31.2%**; urbanising steadily."
+              ],
+              [
+                "**AP**",
+                "SC ~17%, ST ~5-6%; ~70% rural; agency (tribal) areas in the Eastern Ghats."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: SC/ST & rural-urban composition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**SC (2011)** = **16.6%** of India; **ST = 8.6%**; SCs spread across plains, STs concentrated in **forest/hill 'tribal belt'** (central India, NE, Jharkhand-Odisha-Chhattisgarh).",
+              "**Rural-urban**: India ~**69% rural, 31% urban (2011)** — urbanising; the **level of urbanisation** highest in Goa/Tamil Nadu/Kerala.",
+              "**Tribes**: **PVTGs (Particularly Vulnerable Tribal Groups)** — 75 groups (e.g., Chenchus, Konda Reddis, Yanadis in AP); protected under the **Fifth Schedule & PESA (1996) & Forest Rights Act (2006)**.",
+              "**AP**: SC ~**17%**, ST ~**5.3%** (concentrated in the Eastern Ghats agency areas — Visakhapatnam, Vizianagaram, East Godavari); tribes — Koya, Konda Reddi, Savara, Yanadi, Sugali/Lambada, Chenchu."
             ]
           }
         ]
@@ -154,15 +274,28 @@
       "**AP** — SC ~17%, ST ~5-6%, ~70% rural.",
       "STs live largely in the **'agency'/Scheduled (Fifth Schedule)** areas.",
       "**PVTGs** (Particularly Vulnerable Tribal Groups) — most marginalised tribes (e.g. Chenchu in AP).",
-      "Urbanisation is fastest in the southern & western states."
+      "Urbanisation is fastest in the southern & western states.",
+      "**SC = 16.6%, ST = 8.6%** of India (2011); STs concentrated in the central-Indian tribal belt & NE.",
+      "**PVTGs** = 75 groups; tribal safeguards = **Fifth Schedule, PESA (1996), FRA (2006)**.",
+      "India ~**69% rural / 31% urban (2011)**.",
+      "**AP**: SC ~17%, ST ~5.3%; tribes — Koya, Chenchu, Yanadi, Konda Reddi, Sugali."
     ],
     "mainsAngles": [
       "Discuss the SC/ST composition and the rural-urban structure of India's population."
     ],
     "glossary": [
-      {"term": "Scheduled Caste", "definition": "Communities notified under Article 341 for affirmative-action protection."},
-      {"term": "Scheduled Tribe", "definition": "Communities notified under Article 342, largely inhabiting Scheduled (agency) areas."},
-      {"term": "PVTG", "definition": "Particularly Vulnerable Tribal Group — the most marginalised tribes (e.g. Chenchu)."}
+      {
+        "term": "Scheduled Caste",
+        "definition": "Communities notified under Article 341 for affirmative-action protection."
+      },
+      {
+        "term": "Scheduled Tribe",
+        "definition": "Communities notified under Article 342, largely inhabiting Scheduled (agency) areas."
+      },
+      {
+        "term": "PVTG",
+        "definition": "Particularly Vulnerable Tribal Group — the most marginalised tribes (e.g. Chenchu)."
+      }
     ]
   },
   {
@@ -178,13 +311,46 @@
           },
           {
             "type": "table",
-            "headers": ["Axis", "Detail (2011)"],
+            "headers": [
+              "Axis",
+              "Detail (2011)"
+            ],
             "rows": [
-              ["**Religion**", "**Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, Buddhist, Jain**."],
-              ["**Language families**", "**Indo-Aryan (~74%), Dravidian (~25%), Austro-Asiatic, Tibeto-Burman**."],
-              ["**Scheduled languages**", "**22** in the 8th Schedule; most-spoken **Hindi**; **Telugu** among the largest Dravidian."],
-              ["**Tribes**", "**~700+ Scheduled Tribes**; Gonds, Bhils, Santhals largest; AP — Koya, Chenchu, Savara."],
-              ["**Race (outdated)**", "Old typologies (Negrito, Proto-Australoid, Mongoloid, Mediterranean, Nordic) — of historical interest only."]
+              [
+                "**Religion**",
+                "**Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, Buddhist, Jain**."
+              ],
+              [
+                "**Language families**",
+                "**Indo-Aryan (~74%), Dravidian (~25%), Austro-Asiatic, Tibeto-Burman**."
+              ],
+              [
+                "**Scheduled languages**",
+                "**22** in the 8th Schedule; most-spoken **Hindi**; **Telugu** among the largest Dravidian."
+              ],
+              [
+                "**Tribes**",
+                "**~700+ Scheduled Tribes**; Gonds, Bhils, Santhals largest; AP — Koya, Chenchu, Savara."
+              ],
+              [
+                "**Race (outdated)**",
+                "Old typologies (Negrito, Proto-Australoid, Mongoloid, Mediterranean, Nordic) — of historical interest only."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: racial, tribal, religious & linguistic groups",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Racial groups (Herbert Risley)**: Negrito, Proto-Australoid, Mongoloid, Mediterranean, Western Brachycephals, Nordic — India = a 'melting pot'.",
+              "**Language families**: **Indo-Aryan (~74%)**, **Dravidian (~24% — Telugu, Tamil, Kannada, Malayalam)**, **Austro-Asiatic (Munda, Santhali)**, **Tibeto-Burman (NE)**; the **8th Schedule** lists **22 languages** (Telugu is a **classical language**); **Hindi & English** = official Union languages.",
+              "**Religions (2011)**: **Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, Buddhist 0.7%, Jain 0.4%**.",
+              "**AP**: **Telugu** (official; classical language) predominant; sizeable Urdu-speaking & tribal-language communities; Hindu-majority with Muslim & Christian minorities (higher Christian share in some coastal/tribal districts)."
             ]
           }
         ]
@@ -210,15 +376,28 @@
       "India has **700+ Scheduled Tribes**; largest — **Gond, Bhil, Santhal**.",
       "AP tribes — **Koya, Konda Reddi, Chenchu (PVTG), Savara, Yerukula, Lambada**.",
       "Older **racial classifications** (Risley/Guha) are now considered obsolete.",
-      "'Unity in diversity' is the defining feature of Indian society."
+      "'Unity in diversity' is the defining feature of Indian society.",
+      "Language families: **Indo-Aryan (74%), Dravidian (24%), Austro-Asiatic, Tibeto-Burman**; **8th Schedule = 22 languages**.",
+      "**Telugu** = a **classical language** & AP's official tongue.",
+      "Religion (2011): **Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%**.",
+      "Racial classification by **H. Risley** (Negrito, Mongoloid, Mediterranean, Nordic…)."
     ],
     "mainsAngles": [
       "Describe the religious and linguistic diversity of India."
     ],
     "glossary": [
-      {"term": "Eighth Schedule", "definition": "The constitutional schedule listing India's 22 official 'scheduled' languages."},
-      {"term": "Language family", "definition": "A group of related languages (India has four: Indo-Aryan, Dravidian, Austro-Asiatic, Tibeto-Burman)."},
-      {"term": "Unity in diversity", "definition": "The idea that India's many races, faiths and tongues coexist within one nation."}
+      {
+        "term": "Eighth Schedule",
+        "definition": "The constitutional schedule listing India's 22 official 'scheduled' languages."
+      },
+      {
+        "term": "Language family",
+        "definition": "A group of related languages (India has four: Indo-Aryan, Dravidian, Austro-Asiatic, Tibeto-Burman)."
+      },
+      {
+        "term": "Unity in diversity",
+        "definition": "The idea that India's many races, faiths and tongues coexist within one nation."
+      }
     ]
   },
   {
@@ -234,13 +413,46 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Urbanisation**", "**31.2% urban (2011)**, rising; class-I cities & million-plus cities growing fastest."],
-              ["**Migration types**", "**Rural→urban (dominant), urban→urban, inter/intra-state, international**; causes — economic pull, distress push."],
-              ["**Metropolitan / mega cities**", "**Million-plus cities**; mega-cities (>10 m) — Delhi, Mumbai, Kolkata; census towns rising."],
-              ["**Challenges**", "**Slums, congestion, water/sanitation, pollution, informal sector**; AMRUT/Smart Cities respond."],
-              ["**AP**", "Urbanising around **Visakhapatnam (largest), Vijayawada-Guntur (capital region)**; loss of Hyderabad (2014)."]
+              [
+                "**Urbanisation**",
+                "**31.2% urban (2011)**, rising; class-I cities & million-plus cities growing fastest."
+              ],
+              [
+                "**Migration types**",
+                "**Rural→urban (dominant), urban→urban, inter/intra-state, international**; causes — economic pull, distress push."
+              ],
+              [
+                "**Metropolitan / mega cities**",
+                "**Million-plus cities**; mega-cities (>10 m) — Delhi, Mumbai, Kolkata; census towns rising."
+              ],
+              [
+                "**Challenges**",
+                "**Slums, congestion, water/sanitation, pollution, informal sector**; AMRUT/Smart Cities respond."
+              ],
+              [
+                "**AP**",
+                "Urbanising around **Visakhapatnam (largest), Vijayawada-Guntur (capital region)**; loss of Hyderabad (2014)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: urbanisation & migration",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Urbanisation**: driven by industrialisation & services; **census towns** vs statutory towns; **million-plus cities** (~53 in 2011); **class-I towns**; issues — slums, congestion, pollution, waste.",
+              "**Migration (Census/PLFS)**: types — rural-urban (dominant for work), urban-urban, marriage (largest cause overall, esp. female); **push** (poverty, unemployment) & **pull** (jobs, education) factors; interstate migration to Maharashtra/Delhi/Gujarat.",
+              "**Metropolitan/urban schemes**: **Smart Cities Mission, AMRUT, PMAY-Urban, Swachh Bharat**; census 'urban agglomerations'.",
+              "**AP metros/cities**: **Visakhapatnam** (largest city, port, executive-capital plan), **Vijayawada** (commercial), **Guntur, Nellore, Tirupati, Kurnool, Rajahmundry, Kakinada**; the **Amaravati** capital-region project; **Visakhapatnam-Chennai Industrial Corridor** driving urban growth."
             ]
           }
         ]
@@ -266,15 +478,28 @@
       "Migration classified as **intra-state, inter-state and international**; marriage & work are top reasons.",
       "Urban challenges — **slums, congestion, sanitation, pollution, informal employment**.",
       "Programmes — **Smart Cities Mission, AMRUT, PMAY (Urban)**.",
-      "**AP** urbanises around **Visakhapatnam** & the **Vijayawada-Guntur** capital region."
+      "**AP** urbanises around **Visakhapatnam** & the **Vijayawada-Guntur** capital region.",
+      "Largest migration cause (all) = **marriage** (esp. female); work migration = rural→urban.",
+      "Urban schemes: **Smart Cities, AMRUT, PMAY-Urban, Swachh Bharat**.",
+      "AP largest city = **Visakhapatnam**; commercial hub = **Vijayawada**; capital-region = **Amaravati**.",
+      "**~53 million-plus cities** in India (2011); urbanisation ~31%."
     ],
     "mainsAngles": [
       "Examine the causes and consequences of urbanisation and migration in India."
     ],
     "glossary": [
-      {"term": "Urbanisation", "definition": "The increasing proportion of population living in urban areas."},
-      {"term": "Metropolitan region", "definition": "A large city and its surrounding urbanised area functioning as one unit."},
-      {"term": "Census town", "definition": "A settlement with urban characteristics not yet formally municipal, a driver of India's urban growth."}
+      {
+        "term": "Urbanisation",
+        "definition": "The increasing proportion of population living in urban areas."
+      },
+      {
+        "term": "Metropolitan region",
+        "definition": "A large city and its surrounding urbanised area functioning as one unit."
+      },
+      {
+        "term": "Census town",
+        "definition": "A settlement with urban characteristics not yet formally municipal, a driver of India's urban growth."
+      }
     ]
   }
 ]

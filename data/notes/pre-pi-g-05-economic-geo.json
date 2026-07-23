@@ -12,12 +12,43 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "Detail"],
+            "headers": [
+              "Sector",
+              "Detail"
+            ],
             "rows": [
-              ["**Primary (agriculture)**", "Farming, livestock, fishing, forestry, mining; **~45% of employment but ~18% of GDP**; India a top producer of milk, pulses, spices, rice, wheat."],
-              ["**Secondary (industry)**", "Manufacturing, construction, power; ~**25-27% of GDP**; 'Make in India'."],
-              ["**Tertiary (services)**", "Trade, IT, finance, transport, tourism; **largest share ~53% of GDP**; India's growth engine (IT/ITeS)."],
-              ["**Structural shift**", "Services led (skipping a big industrial phase); agriculture's GDP share falling but employment share high."]
+              [
+                "**Primary (agriculture)**",
+                "Farming, livestock, fishing, forestry, mining; **~45% of employment but ~18% of GDP**; India a top producer of milk, pulses, spices, rice, wheat."
+              ],
+              [
+                "**Secondary (industry)**",
+                "Manufacturing, construction, power; ~**25-27% of GDP**; 'Make in India'."
+              ],
+              [
+                "**Tertiary (services)**",
+                "Trade, IT, finance, transport, tourism; **largest share ~53% of GDP**; India's growth engine (IT/ITeS)."
+              ],
+              [
+                "**Structural shift**",
+                "Services led (skipping a big industrial phase); agriculture's GDP share falling but employment share high."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: agriculture, industry & services",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Cropping seasons**: **Kharif** (monsoon-sown — rice, cotton, maize, groundnut, jowar), **Rabi** (winter — wheat, gram, mustard), **Zaid** (summer — melons, veg).",
+              "**Green Revolution** (HYV, MS Swaminathan) made India food-surplus; **irrigation** (canals, tanks, wells/tube-wells — India = largest groundwater user); **MSP & buffer stock (FCI)**; concerns — soil/water degradation, small holdings.",
+              "**Industry location** factors (Weber): raw material, power, labour, market, transport; **iron-steel** (Jharkhand-Odisha-Chhattisgarh belt), **cotton textiles** (Mumbai-Ahmedabad), **IT/services** (Bengaluru, Hyderabad).",
+              "**Services** = largest GDP share (~55%+): IT/ITES, finance, trade, tourism, telecom.",
+              "**AP economy**: agrarian base ('rice bowl' Krishna-Godavari deltas; also cotton, chillies (Guntur — largest market), tobacco, aquaculture — **AP leads India in shrimp/fish production**); industry — pharma (Visakhapatnam), ports, cement (limestone), steel (Visakhapatnam Steel Plant/RINL); growing services."
             ]
           }
         ]
@@ -43,15 +74,28 @@
       "India is a **top global producer of milk, pulses, jute, spices; 2nd in rice, wheat, sugarcane**.",
       "**IT/ITeS** and software services drive tertiary-sector exports.",
       "India's transition is **services-led**, atypically bypassing a large manufacturing phase.",
-      "**Quaternary/Quinary** (knowledge/decision) sectors are sometimes added."
+      "**Quaternary/Quinary** (knowledge/decision) sectors are sometimes added.",
+      "Seasons: **Kharif (monsoon — rice/cotton), Rabi (winter — wheat), Zaid (summer)**.",
+      "**Green Revolution** (Swaminathan, HYV wheat/rice); **MSP + FCI** buffer stock.",
+      "Services = largest **GDP** share (~55%); agriculture = largest **employment** share.",
+      "**AP** = 'rice bowl'; leads India in **fish/shrimp (aquaculture)**; **Guntur** = largest chilli market; **Visakhapatnam Steel Plant (RINL)**."
     ],
     "mainsAngles": [
       "Analyse the sectoral composition of the Indian economy and its structural shift."
     ],
     "glossary": [
-      {"term": "Primary sector", "definition": "The extractive sector — agriculture, mining, fishing, forestry."},
-      {"term": "Tertiary sector", "definition": "The services sector (trade, IT, finance), India's largest by GDP share."},
-      {"term": "Structural shift", "definition": "The changing relative weights of sectors as an economy develops."}
+      {
+        "term": "Primary sector",
+        "definition": "The extractive sector — agriculture, mining, fishing, forestry."
+      },
+      {
+        "term": "Tertiary sector",
+        "definition": "The services sector (trade, IT, finance), India's largest by GDP share."
+      },
+      {
+        "term": "Structural shift",
+        "definition": "The changing relative weights of sectors as an economy develops."
+      }
     ]
   },
   {
@@ -67,13 +111,48 @@
           },
           {
             "type": "table",
-            "headers": ["Type", "Examples"],
+            "headers": [
+              "Type",
+              "Examples"
+            ],
             "rows": [
-              ["**Agro-based**", "**Textiles (cotton, jute), sugar, food processing, edible oils, seafood** — near farm inputs."],
-              ["**Mineral-based**", "**Iron & steel (TISCO, SAIL, RINL-Vizag), cement (limestone), aluminium** — near ores/coal."],
-              ["**Forest-based**", "**Paper, plywood, lac, matchbox** — near forests."],
-              ["**Fuel-based**", "**Petrochemicals, refineries** — near oilfields/ports (HPCL Vizag)."],
-              ["**Manpower/knowledge-based**", "**IT, pharma, electronics** — near skilled labour (Bengaluru, Hyderabad, Vizag)."]
+              [
+                "**Agro-based**",
+                "**Textiles (cotton, jute), sugar, food processing, edible oils, seafood** — near farm inputs."
+              ],
+              [
+                "**Mineral-based**",
+                "**Iron & steel (TISCO, SAIL, RINL-Vizag), cement (limestone), aluminium** — near ores/coal."
+              ],
+              [
+                "**Forest-based**",
+                "**Paper, plywood, lac, matchbox** — near forests."
+              ],
+              [
+                "**Fuel-based**",
+                "**Petrochemicals, refineries** — near oilfields/ports (HPCL Vizag)."
+              ],
+              [
+                "**Manpower/knowledge-based**",
+                "**IT, pharma, electronics** — near skilled labour (Bengaluru, Hyderabad, Vizag)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: basic industries",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Agro-based**: textiles (cotton, jute — **jute mills Hooghly**, silk — Karnataka), sugar (UP-Maharashtra), edible oil, food processing.",
+              "**Mineral-based**: **iron & steel** (SAIL plants — Bhilai, Bokaro, Rourkela, Durgapur; **Visakhapatnam Steel/RINL** = shore-based), aluminium (bauxite — NALCO), cement (limestone — AP/Rajasthan).",
+              "**Forest-based**: paper, plywood, lac, sports goods.",
+              "**Fuel/energy-based**: petrochemicals & refineries (Jamnagar — world's largest; **Visakhapatnam HPCL refinery**), fertilizers, thermal power (coal).",
+              "**Manpower/knowledge-based**: **IT & pharma** — **Hyderabad ('Genome Valley', 'Cyberabad'), Visakhapatnam** hubs; MSMEs are the largest employer after agriculture.",
+              "**Industrial policy**: PSUs, MSMEs, **Make in India, PLI schemes, industrial corridors** (Vizag-Chennai, Chennai-Bengaluru through AP)."
             ]
           }
         ]
@@ -99,15 +178,28 @@
       "**Iron & steel** is a **basic/heavy industry** — the backbone of industrialisation.",
       "**Forest-based** — paper (Rajahmundry in AP), plywood; **fuel-based** — refineries (HPCL Vizag).",
       "**Manpower/knowledge** — IT (Bengaluru, Hyderabad), pharma (a major AP strength).",
-      "Industrial **location** depends on raw materials, power, labour, market & transport (Weber's theory)."
+      "Industrial **location** depends on raw materials, power, labour, market & transport (Weber's theory).",
+      "**SAIL** steel plants: Bhilai, Bokaro, Rourkela, Durgapur; **RINL/Visakhapatnam** = shore-based steel.",
+      "Jamnagar = world's largest **refinery**; **Visakhapatnam (HPCL)** refinery in AP.",
+      "Aluminium via **NALCO** (bauxite); cement needs **limestone** (AP-rich).",
+      "IT/pharma hubs: **Hyderabad (Genome Valley), Visakhapatnam**; **Vizag-Chennai Industrial Corridor**."
     ],
     "mainsAngles": [
       "Classify industries by their resource base and discuss their location factors."
     ],
     "glossary": [
-      {"term": "Basic industry", "definition": "A heavy industry (like iron and steel) that supplies raw materials to other industries."},
-      {"term": "Agro-based industry", "definition": "Manufacturing that uses agricultural raw materials, e.g. textiles and sugar."},
-      {"term": "Footloose industry", "definition": "An industry (e.g. IT) not tied to raw-material location, sited by skilled manpower."}
+      {
+        "term": "Basic industry",
+        "definition": "A heavy industry (like iron and steel) that supplies raw materials to other industries."
+      },
+      {
+        "term": "Agro-based industry",
+        "definition": "Manufacturing that uses agricultural raw materials, e.g. textiles and sugar."
+      },
+      {
+        "term": "Footloose industry",
+        "definition": "An industry (e.g. IT) not tied to raw-material location, sited by skilled manpower."
+      }
     ]
   },
   {
@@ -123,13 +215,47 @@
           },
           {
             "type": "table",
-            "headers": ["Mode/Item", "Detail"],
+            "headers": [
+              "Mode/Item",
+              "Detail"
+            ],
             "rows": [
-              ["**Roads**", "India has the **2nd-largest road network** in the world; **National Highways** carry most freight; NH-44 longest."],
-              ["**Railways**", "**Largest employer**; 4th-largest network; **Golden Quadrilateral (roads)** links metros."],
-              ["**Water/ports**", "**13 major ports**; Mumbai/JNPT largest; **Visakhapatnam** largest on east coast; inland waterways."],
-              ["**Air**", "AAI-managed airports; UDAN regional scheme."],
-              ["**Foreign trade**", "**Persistent trade deficit** (imports > exports); top imports **crude oil, gold, electronics**; exports **petroleum products, gems, pharma, textiles**."]
+              [
+                "**Roads**",
+                "India has the **2nd-largest road network** in the world; **National Highways** carry most freight; NH-44 longest."
+              ],
+              [
+                "**Railways**",
+                "**Largest employer**; 4th-largest network; **Golden Quadrilateral (roads)** links metros."
+              ],
+              [
+                "**Water/ports**",
+                "**13 major ports**; Mumbai/JNPT largest; **Visakhapatnam** largest on east coast; inland waterways."
+              ],
+              [
+                "**Air**",
+                "AAI-managed airports; UDAN regional scheme."
+              ],
+              [
+                "**Foreign trade**",
+                "**Persistent trade deficit** (imports > exports); top imports **crude oil, gold, electronics**; exports **petroleum products, gems, pharma, textiles**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: transport & trade",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Railways**: Asia's largest network under one management; **electrification, DFCs (dedicated freight corridors), Vande Bharat**; zones incl. **South Central Railway (HQ Secunderabad)**.",
+              "**Roads**: **National Highways** (NHAI; **Golden Quadrilateral & N-S/E-W corridors**; **Bharatmala**); NH density high; road carries most passenger/freight.",
+              "**Ports**: 13 major + many minor; **AP** has key ports — **Visakhapatnam (largest cargo, natural harbour)**, **Krishnapatnam, Gangavaram, Kakinada, Machilipatnam (upcoming)**; **Sagarmala** port-led development.",
+              "**Airports & inland waterways**: **National Waterway-4 (Kakinada-Puducherry via Krishna-Godavari)**; UDAN regional connectivity.",
+              "**Trade**: India's exports — petroleum products, gems, pharma, engineering, software; imports — crude oil, gold, electronics; trade deficit; **AP exports** — marine products, pharma, minerals, agri; ports handle a large cargo share."
             ]
           }
         ]
@@ -155,15 +281,28 @@
       "India has **13 major ports**; **Visakhapatnam** — largest cargo port on the **east coast**; JNPT (Mumbai) — largest container port.",
       "**AP** has ~**975 km coastline** (2nd longest) with ports at **Vizag, Gangavaram, Krishnapatnam, Kakinada**.",
       "India runs a **persistent trade deficit**; top imports — **crude oil, gold, electronics**.",
-      "Major exports — **refined petroleum, gems & jewellery, pharmaceuticals, textiles, engineering goods**."
+      "Major exports — **refined petroleum, gems & jewellery, pharmaceuticals, textiles, engineering goods**.",
+      "**Golden Quadrilateral** + N-S/E-W corridors (NHAI); **Bharatmala** & **Sagarmala** (ports).",
+      "**Visakhapatnam** = AP's largest port (natural harbour); also **Krishnapatnam, Gangavaram, Kakinada**.",
+      "**South Central Railway HQ = Secunderabad**; **National Waterway-4** via Krishna-Godavari.",
+      "India imports mainly **crude oil & gold**; exports **petro-products, pharma, gems, software**."
     ],
     "mainsAngles": [
       "Assess India's transport network and foreign-trade pattern, with reference to Andhra's ports."
     ],
     "glossary": [
-      {"term": "Golden Quadrilateral", "definition": "The highway network linking Delhi, Mumbai, Chennai and Kolkata."},
-      {"term": "Major port", "definition": "A centrally-administered port of national importance; India has 13, including Visakhapatnam."},
-      {"term": "Trade deficit", "definition": "The excess of a country's imports over its exports."}
+      {
+        "term": "Golden Quadrilateral",
+        "definition": "The highway network linking Delhi, Mumbai, Chennai and Kolkata."
+      },
+      {
+        "term": "Major port",
+        "definition": "A centrally-administered port of national importance; India has 13, including Visakhapatnam."
+      },
+      {
+        "term": "Trade deficit",
+        "definition": "The excess of a country's imports over its exports."
+      }
     ]
   }
 ]
