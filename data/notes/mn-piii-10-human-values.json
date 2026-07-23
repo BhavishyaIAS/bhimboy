@@ -12,12 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Circle", "Harmony looks like", "Disharmony looks like", "Restoring values"],
+            "headers": [
+              "Circle",
+              "Harmony looks like",
+              "Disharmony looks like",
+              "Restoring values"
+            ],
             "rows": [
-              ["Self", "Self-awareness, contentment, purpose", "Anomie, addiction, consumer restlessness", "Self-examination, moderation (Aristotle's mean; Buddhist madhyama marga)"],
-              ["Family", "Care, respect across generations, security", "Elder neglect, domestic violence, dowry", "Love, duty, mutual respect, sharing"],
-              ["Society", "Fraternity (Preamble!), civic trust, inclusion", "Casteism, communalism, inequality", "**Justice, equality, tolerance, empathy** — Ambedkar's 'fraternity as the real safeguard'"],
-              ["Nature", "Stewardship, sufficiency, reverence (sacred groves)", "Pollution, extinction, climate crisis", "Trusteeship, sustainability, **Art 48A & 51A(g)**"]
+              [
+                "Self",
+                "Self-awareness, contentment, purpose",
+                "Anomie, addiction, consumer restlessness",
+                "Self-examination, moderation (Aristotle's mean; Buddhist madhyama marga)"
+              ],
+              [
+                "Family",
+                "Care, respect across generations, security",
+                "Elder neglect, domestic violence, dowry",
+                "Love, duty, mutual respect, sharing"
+              ],
+              [
+                "Society",
+                "Fraternity (Preamble!), civic trust, inclusion",
+                "Casteism, communalism, inequality",
+                "**Justice, equality, tolerance, empathy** — Ambedkar's 'fraternity as the real safeguard'"
+              ],
+              [
+                "Nature",
+                "Stewardship, sufficiency, reverence (sacred groves)",
+                "Pollution, extinction, climate crisis",
+                "Trusteeship, sustainability, **Art 48A & 51A(g)**"
+              ]
             ]
           }
         ]
@@ -58,6 +83,28 @@
             "text": "Exam tip: Use the four-circle structure for ANY 'harmony' question — self→family→society→nature — with one Indian concept (dharma/Rta), one constitutional hook (fraternity/51A(g)) and one AP example (APCNF). It converts an abstract theme into a scored answer."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — harmony, from self to nature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The concentric-circles model (self → family → society → nature/existence) maps to the idea of **holistic well-being** in the *Madhyastha Darshan* value-education framework and to Gandhi's **Sarvodaya** ('welfare of all') and **Antyodaya** ('uplift of the last person'). For nature-harmony, invoke **Deep Ecology (Arne Naess)**, the **Gaia hypothesis**, Bhutan's **Gross National Happiness**, and India's **LiFE (Lifestyle for Environment)** movement — ethics scaled from the individual to the planet."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Self-harmony:** emotional balance, freedom from inner conflict — the basis of resilience in high-pressure administration.",
+              "**Social harmony:** trust, tolerance, fraternity (Preamble), and the constitutional value of **dignity**; the antidote to communal/caste discord.",
+              "**Nature-harmony:** **intergenerational equity** and the **public-trust doctrine** (*M.C. Mehta*) — the state as trustee of natural resources."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Sarvodaya** (welfare of all) and **Antyodaya** (uplift of the last) — Gandhian ideals.",
+          "**LiFE (Lifestyle for Environment)** — India-led global movement for sustainable living (Mission LiFE)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +124,30 @@
       "What does 'harmony in existence' demand of a district administrator during communal tension?"
     ],
     "glossary": [
-      { "term": "Dharma", "definition": "That which upholds and sustains order — context-sensitive duty binding self, society and cosmos in Indian thought." },
-      { "term": "Fraternity", "definition": "The Preamble's value of social solidarity and mutual regard, assuring individual dignity and national unity — democracy's emotional infrastructure." },
-      { "term": "Sarvodaya", "definition": "Gandhian ideal of the rise/welfare of all, beginning with the last person (antyodaya)." },
-      { "term": "Intergenerational equity", "definition": "The duty of the present generation to leave future generations an undiminished natural and social inheritance." },
-      { "term": "Lokasangraha", "definition": "The Gita's ideal of acting for the cohesion and welfare of the world — public-spirited action as duty." },
-      { "term": "Trusteeship of nature", "definition": "Holding natural resources as trustee for community and posterity, not as owner — the ethical core of sustainability." }
+      {
+        "term": "Dharma",
+        "definition": "That which upholds and sustains order — context-sensitive duty binding self, society and cosmos in Indian thought."
+      },
+      {
+        "term": "Fraternity",
+        "definition": "The Preamble's value of social solidarity and mutual regard, assuring individual dignity and national unity — democracy's emotional infrastructure."
+      },
+      {
+        "term": "Sarvodaya",
+        "definition": "Gandhian ideal of the rise/welfare of all, beginning with the last person (antyodaya)."
+      },
+      {
+        "term": "Intergenerational equity",
+        "definition": "The duty of the present generation to leave future generations an undiminished natural and social inheritance."
+      },
+      {
+        "term": "Lokasangraha",
+        "definition": "The Gita's ideal of acting for the cohesion and welfare of the world — public-spirited action as duty."
+      },
+      {
+        "term": "Trusteeship of nature",
+        "definition": "Holding natural resources as trustee for community and posterity, not as owner — the ethical core of sustainability."
+      }
     ]
   },
   {
@@ -98,12 +163,32 @@
           },
           {
             "type": "table",
-            "headers": ["Sphere", "Inequity manifests as", "Corrective (law + policy)"],
+            "headers": [
+              "Sphere",
+              "Inequity manifests as",
+              "Corrective (law + policy)"
+            ],
             "rows": [
-              ["Family", "Son preference, unequal inheritance, unpaid care burden (~7x men's, Time Use Survey), domestic violence", "**Hindu Succession (Amendment) 2005** — daughters as coparceners (**Vineeta Sharma, 2020**); **PWDVA 2005**; Beti Bachao Beti Padhao"],
-              ["Marriage & body", "Child marriage, dowry, consent erasure", "PCMA 2006; DP Act 1961; **Joseph Shine (2018)** — adultery decriminalised as it treated wife as property"],
-              ["Work", "19th-25th percentile female LFPR debates, pay gaps, glass ceiling, safety", "Equal Remuneration (now Code on Wages), **POSH Act 2013** (from **Vishaka**), Maternity Benefit (Amendment) 2017 — 26 weeks"],
-              ["Public life", "Under-representation", "**106th Amendment (2023)** — 1/3 reservation in LS & Assemblies (post-delimitation); 73rd/74th (1/3, many states 50%) — **AP PRIs reserve 50% for women**"]
+              [
+                "Family",
+                "Son preference, unequal inheritance, unpaid care burden (~7x men's, Time Use Survey), domestic violence",
+                "**Hindu Succession (Amendment) 2005** — daughters as coparceners (**Vineeta Sharma, 2020**); **PWDVA 2005**; Beti Bachao Beti Padhao"
+              ],
+              [
+                "Marriage & body",
+                "Child marriage, dowry, consent erasure",
+                "PCMA 2006; DP Act 1961; **Joseph Shine (2018)** — adultery decriminalised as it treated wife as property"
+              ],
+              [
+                "Work",
+                "19th-25th percentile female LFPR debates, pay gaps, glass ceiling, safety",
+                "Equal Remuneration (now Code on Wages), **POSH Act 2013** (from **Vishaka**), Maternity Benefit (Amendment) 2017 — 26 weeks"
+              ],
+              [
+                "Public life",
+                "Under-representation",
+                "**106th Amendment (2023)** — 1/3 reservation in LS & Assemblies (post-delimitation); 73rd/74th (1/3, many states 50%) — **AP PRIs reserve 50% for women**"
+              ]
             ]
           }
         ]
@@ -144,6 +229,24 @@
             "text": "Exam tip: The word is equABILITY — write the equality-vs-equity distinction in your first paragraph, then run the four-sphere table (family, marriage, work, public life) with one case law each (Vineeta Sharma, Joseph Shine, Vishaka/POSH, 106th Amendment). AP's SHG + 50% PRI facts are your differentiators."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — gender equability as a governance dividend",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Concept ladder:** equality (same treatment) → equity (fairness accounting for disadvantage) → **equability** (a settled disposition of fairness and mutual respect between genders).",
+              "**Constitutional & legal scaffolding:** **Arts 14, 15(3), 16, 39(a)(d), 42**; **Vishaka (1997) → POSH Act 2013**; **Nirbhaya/Criminal Law Amendment 2013**; **maternity benefit (26 weeks)**; **106th Amendment (women's reservation, 2023)**.",
+              "**The data case:** raising female labour-force participation could add materially to GDP (McKinsey/IMF estimates); women-led SHGs (DAY-NRLM) show the multiplier of financial inclusion — a direct AP strength.",
+              "**AP dimension:** high female SHG mobilisation, women-focused welfare transfers, and 50% reservation in local bodies — cite as home-state evidence that gender equability is an efficiency and justice dividend, not merely a moral claim."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "'Gender equability is not a women's issue but a development imperative' — substantiate with constitutional, economic and Andhra Pradesh evidence."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +266,30 @@
       "Laws have outrun norms in India's gender journey — examine with the marital-rape debate and care-economy data."
     ],
     "glossary": [
-      { "term": "Gender", "definition": "Socially constructed roles, behaviours and expectations attached to sexes — variable across cultures and time, hence changeable." },
-      { "term": "Gender equity (equability)", "definition": "Fairness of treatment according to need — differentiated support so that outcomes, not just rules, are equal." },
-      { "term": "Protective discrimination", "definition": "Constitutionally sanctioned special provisions (Art 15(3), 15(4)) favouring disadvantaged groups to achieve real equality." },
-      { "term": "Care economy", "definition": "Unpaid domestic and care work, disproportionately female, invisible in GDP — its recognition, reduction and redistribution is core gender policy." },
-      { "term": "Glass ceiling", "definition": "Invisible barriers keeping women from top positions despite formal equality of opportunity." },
-      { "term": "POSH framework", "definition": "Prevention, prohibition and redress of workplace sexual harassment via Internal Committees under the 2013 Act, rooted in the Vishaka guidelines." }
+      {
+        "term": "Gender",
+        "definition": "Socially constructed roles, behaviours and expectations attached to sexes — variable across cultures and time, hence changeable."
+      },
+      {
+        "term": "Gender equity (equability)",
+        "definition": "Fairness of treatment according to need — differentiated support so that outcomes, not just rules, are equal."
+      },
+      {
+        "term": "Protective discrimination",
+        "definition": "Constitutionally sanctioned special provisions (Art 15(3), 15(4)) favouring disadvantaged groups to achieve real equality."
+      },
+      {
+        "term": "Care economy",
+        "definition": "Unpaid domestic and care work, disproportionately female, invisible in GDP — its recognition, reduction and redistribution is core gender policy."
+      },
+      {
+        "term": "Glass ceiling",
+        "definition": "Invisible barriers keeping women from top positions despite formal equality of opportunity."
+      },
+      {
+        "term": "POSH framework",
+        "definition": "Prevention, prohibition and redress of workplace sexual harassment via Internal Committees under the 2013 Act, rooted in the Vishaka guidelines."
+      }
     ]
   },
   {
@@ -184,11 +305,31 @@
           },
           {
             "type": "table",
-            "headers": ["Institution", "Mechanisms", "Values typically transmitted", "Failure modes"],
+            "headers": [
+              "Institution",
+              "Mechanisms",
+              "Values typically transmitted",
+              "Failure modes"
+            ],
             "rows": [
-              ["**Family**", "Modelling by parents, discipline styles, stories, rituals, sibling negotiation", "Honesty, empathy, respect, gender attitudes, work ethic — the 'first school'", "Authoritarianism (fear ethics), indulgence (entitlement), modelling hypocrisy, patriarchy transmission"],
-              ["**Society**", "Peer groups, community norms, religion, festivals, media & social media, role models/celebrities", "Cooperation, identity, tolerance — or prejudice", "Caste/communal socialisation, consumerism, online echo chambers, normalised corruption ('everyone does it')"],
-              ["**Educational institutions**", "Curriculum + the **hidden curriculum** (what school practices teach), teachers as models, sports/NSS/NCC, peer culture", "Discipline, scientific temper (51A(h)), citizenship, dignity of labour", "Rote over reflection, competition over character, teacher misconduct, ragging"]
+              [
+                "**Family**",
+                "Modelling by parents, discipline styles, stories, rituals, sibling negotiation",
+                "Honesty, empathy, respect, gender attitudes, work ethic — the 'first school'",
+                "Authoritarianism (fear ethics), indulgence (entitlement), modelling hypocrisy, patriarchy transmission"
+              ],
+              [
+                "**Society**",
+                "Peer groups, community norms, religion, festivals, media & social media, role models/celebrities",
+                "Cooperation, identity, tolerance — or prejudice",
+                "Caste/communal socialisation, consumerism, online echo chambers, normalised corruption ('everyone does it')"
+              ],
+              [
+                "**Educational institutions**",
+                "Curriculum + the **hidden curriculum** (what school practices teach), teachers as models, sports/NSS/NCC, peer culture",
+                "Discipline, scientific temper (51A(h)), citizenship, dignity of labour",
+                "Rote over reflection, competition over character, teacher misconduct, ragging"
+              ]
             ]
           }
         ]
@@ -228,6 +369,50 @@
             "text": "Exam tip: The examiners' favourite twist is 'which institution matters most today?' — argue family for depth, school for system, but concede the phone has joined the family. A balanced, mechanism-based answer with Bandura/Kohlberg named beats moralising every time."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — moral development, the theorists",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Theorist",
+              "Framework",
+              "Core idea"
+            ],
+            "rows": [
+              [
+                "**Lawrence Kohlberg**",
+                "3 levels, 6 stages",
+                "Pre-conventional (punishment/reward) → conventional (social approval/law) → post-conventional (social contract/universal ethics)"
+              ],
+              [
+                "**Carol Gilligan**",
+                "Ethics of care",
+                "Critiqued Kohlberg's male bias; morality also grows through care & relationships"
+              ],
+              [
+                "**Jean Piaget**",
+                "Heteronomous → autonomous morality",
+                "Children move from rule-obedience to cooperative, intention-based morality"
+              ],
+              [
+                "**Bandura**",
+                "Social learning",
+                "Values formed by observation, imitation, modelling"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**The socialising agents (the 'relay'):** family → school → peers → religion → workplace → media/social media. Modern disruptors — **social media echo chambers, misinformation, consumerism** — distort value formation, making **civic and ethics education** and role-modelling more important. AP colour: the influence of community, temple/cultural institutions, and the SHG collective as value-shaping spaces."
+          }
+        ],
+        "prelimsPointers": [
+          "**Kohlberg** — three levels of moral development: pre-conventional, conventional, post-conventional.",
+          "**Gilligan** — 'ethics of care'; critique of Kohlberg's gender bias."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -247,12 +432,30 @@
       "As a district education officer, design a practical programme for value inculcation using family-school-community linkages."
     ],
     "glossary": [
-      { "term": "Socialisation", "definition": "The lifelong process by which individuals internalise the norms and values of their groups — primary (family) and secondary (school, peers, media)." },
-      { "term": "Social learning theory", "definition": "Bandura's account of learning through observation and imitation of models, especially those admired or rewarded." },
-      { "term": "Hidden curriculum", "definition": "The unstated lessons institutions teach through their routines, hierarchies and behaviour — punctuality, obedience, whose voice counts." },
-      { "term": "Post-conventional morality", "definition": "Kohlberg's highest level: conduct guided by self-chosen universal principles rather than approval or law." },
-      { "term": "Value education", "definition": "Deliberate cultivation of desirable values through curriculum, activity and institutional practice rather than mere exhortation." },
-      { "term": "Nai Talim", "definition": "Gandhian basic education integrating productive handwork with learning — dignity of labour as pedagogy." }
+      {
+        "term": "Socialisation",
+        "definition": "The lifelong process by which individuals internalise the norms and values of their groups — primary (family) and secondary (school, peers, media)."
+      },
+      {
+        "term": "Social learning theory",
+        "definition": "Bandura's account of learning through observation and imitation of models, especially those admired or rewarded."
+      },
+      {
+        "term": "Hidden curriculum",
+        "definition": "The unstated lessons institutions teach through their routines, hierarchies and behaviour — punctuality, obedience, whose voice counts."
+      },
+      {
+        "term": "Post-conventional morality",
+        "definition": "Kohlberg's highest level: conduct guided by self-chosen universal principles rather than approval or law."
+      },
+      {
+        "term": "Value education",
+        "definition": "Deliberate cultivation of desirable values through curriculum, activity and institutional practice rather than mere exhortation."
+      },
+      {
+        "term": "Nai Talim",
+        "definition": "Gandhian basic education integrating productive handwork with learning — dignity of labour as pedagogy."
+      }
     ]
   },
   {
@@ -268,16 +471,52 @@
           },
           {
             "type": "table",
-            "headers": ["Exemplar", "Signature value", "Evidence incident"],
+            "headers": [
+              "Exemplar",
+              "Signature value",
+              "Evidence incident"
+            ],
             "rows": [
-              ["**M.K. Gandhi**", "Means-ends purity; self-scrutiny", "Calling off Non-Cooperation after **Chauri Chaura (1922)** — principle over momentum; talisman of the last man"],
-              ["**Dr. B.R. Ambedkar**", "Justice through institutions; intellect against odds", "Burning Manusmriti yet choosing constitutionalism — 'educate, agitate, organise'; grammar of anarchy speech"],
-              ["**Sardar Patel**", "Unity, decisiveness, institutional loyalty", "Integration of 560+ states without civil war; defence of the civil services (1949)"],
-              ["**Lal Bahadur Shastri**", "Accountability & austerity", "Resigned after the **1956 Ariyalur** rail accident; 'Jai Jawan Jai Kisan' amid the 1965 food crisis"],
-              ["**Abraham Lincoln**", "Magnanimity & moral firmness", "'With malice toward none'; Emancipation with reconciliation"],
-              ["**Nelson Mandela**", "Forgiveness as strategy", "Truth & Reconciliation over revenge after 27 years' prison"],
-              ["**Mother Teresa / Sree Narayana Guru / Savitribai Phule**", "Compassion; reform through dignity; women's education", "Nirmal Hriday; 'one caste, one religion, one God for man'; first girls' school (1848) despite stones"],
-              ["**A.P.J. Abdul Kalam**", "Humility + national ambition", "Returned to teaching after the Presidency; crediting teams for missile successes"]
+              [
+                "**M.K. Gandhi**",
+                "Means-ends purity; self-scrutiny",
+                "Calling off Non-Cooperation after **Chauri Chaura (1922)** — principle over momentum; talisman of the last man"
+              ],
+              [
+                "**Dr. B.R. Ambedkar**",
+                "Justice through institutions; intellect against odds",
+                "Burning Manusmriti yet choosing constitutionalism — 'educate, agitate, organise'; grammar of anarchy speech"
+              ],
+              [
+                "**Sardar Patel**",
+                "Unity, decisiveness, institutional loyalty",
+                "Integration of 560+ states without civil war; defence of the civil services (1949)"
+              ],
+              [
+                "**Lal Bahadur Shastri**",
+                "Accountability & austerity",
+                "Resigned after the **1956 Ariyalur** rail accident; 'Jai Jawan Jai Kisan' amid the 1965 food crisis"
+              ],
+              [
+                "**Abraham Lincoln**",
+                "Magnanimity & moral firmness",
+                "'With malice toward none'; Emancipation with reconciliation"
+              ],
+              [
+                "**Nelson Mandela**",
+                "Forgiveness as strategy",
+                "Truth & Reconciliation over revenge after 27 years' prison"
+              ],
+              [
+                "**Mother Teresa / Sree Narayana Guru / Savitribai Phule**",
+                "Compassion; reform through dignity; women's education",
+                "Nirmal Hriday; 'one caste, one religion, one God for man'; first girls' school (1848) despite stones"
+              ],
+              [
+                "**A.P.J. Abdul Kalam**",
+                "Humility + national ambition",
+                "Returned to teaching after the Presidency; crediting teams for missile successes"
+              ]
             ]
           }
         ]
@@ -320,6 +559,24 @@
             "text": "Exam tip: Prepare a personal 8-figure matrix (2 freedom-era, 2 reformers incl. one Andhra, 2 administrators incl. Sankaran, 2 international) with one incident and one quote each. That single asset serves ethics theory, case studies AND the essay paper."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — deploying exemplars without hagiography",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Thinkers to quote precisely:** Gandhi (means-ends unity, *satyagraha*), Ambedkar (constitutional morality, annihilation of caste), Vivekananda (strength & service), Kabir/Basava (equality), Tagore (freedom of mind), Confucius (*ren*/benevolence), Socrates (examined life), Kant, Mill, Rawls.",
+              "**Administrator-exemplars:** the honest-officer archetype (e.g., the tradition of upright civil servants, whistle-blowers who paid a price); use them to illustrate **moral courage, non-partisanship and integrity under pressure** rather than as mere name-drops.",
+              "**Technique:** in a value-based answer, a **single well-chosen exemplar + one crisp quotation** anchored to the specific virtue in question scores more than a list; always link the exemplar back to the **administrative dilemma** at hand.",
+              "**AP thread:** social reformers and cultural figures of the Andhra region (e.g., **Kandukuri Veeresalingam** for social reform, **Gurajada** for humanism) provide home-state exemplars that examiners reward."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "'The lives of great administrators teach ethics better than any code' — discuss with examples."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -339,11 +596,26 @@
       "'Every exemplar paid a price' — discuss why costliness is central to moral credibility in public life."
     ],
     "glossary": [
-      { "term": "Role model", "definition": "A person whose observed conduct becomes a template for others' behaviour — the operative mechanism of social learning in ethics." },
-      { "term": "Gandhi's talisman", "definition": "The decision test of recalling the weakest person one has seen and asking whether the contemplated act helps them." },
-      { "term": "Moral courage", "definition": "Willingness to act rightly at personal cost — the differentiator between held values and lived ones." },
-      { "term": "Exemplarist ethics", "definition": "Moral theory (Zagzebski) that grounds ethics in admiration of exemplars rather than abstract rules." },
-      { "term": "Special Component Plan", "definition": "Earmarking of plan funds proportionate to SC population — an institutional-justice innovation associated with S.R. Sankaran's cohort." }
+      {
+        "term": "Role model",
+        "definition": "A person whose observed conduct becomes a template for others' behaviour — the operative mechanism of social learning in ethics."
+      },
+      {
+        "term": "Gandhi's talisman",
+        "definition": "The decision test of recalling the weakest person one has seen and asking whether the contemplated act helps them."
+      },
+      {
+        "term": "Moral courage",
+        "definition": "Willingness to act rightly at personal cost — the differentiator between held values and lived ones."
+      },
+      {
+        "term": "Exemplarist ethics",
+        "definition": "Moral theory (Zagzebski) that grounds ethics in admiration of exemplars rather than abstract rules."
+      },
+      {
+        "term": "Special Component Plan",
+        "definition": "Earmarking of plan funds proportionate to SC population — an institutional-justice innovation associated with S.R. Sankaran's cohort."
+      }
     ]
   }
 ]

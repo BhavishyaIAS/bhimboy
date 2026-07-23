@@ -12,16 +12,52 @@
           },
           {
             "type": "table",
-            "headers": ["Sector", "Flagship interventions (know 2–3 each)", "Design logic"],
+            "headers": [
+              "Sector",
+              "Flagship interventions (know 2–3 each)",
+              "Design logic"
+            ],
             "rows": [
-              ["Poverty & livelihoods", "**MGNREGA (2005)** — legal work guarantee; **NRLM/SHGs**; **PM-KISAN** (₹6,000/yr)", "Rights-based safety net + income transfer"],
-              ["Food & nutrition", "**NFSA 2013** (~81 crore covered), **PM Poshan**, **Poshan Abhiyaan**", "Legal entitlement + life-cycle nutrition"],
-              ["Health", "**Ayushman Bharat** — PM-JAY (₹5 lakh cover) + Health & Wellness Centres; **National Health Mission**", "Insurance + primary-care strengthening"],
-              ["Education & skills", "**NEP 2020**, Samagra Shiksha, **PM-SHRI**, Skill India/PMKVY", "Foundational literacy → multidisciplinary HE"],
-              ["Infrastructure", "**PM Gati Shakti**, Bharatmala/Sagarmala, **PMAY (U&G)**, Jal Jeevan Mission (har ghar jal)", "Multimodal logistics + universal basic services"],
-              ["Financial inclusion & digital", "**Jan Dhan**, UPI, **Digital India**, ONDC", "Public digital infrastructure (DPI) as policy platform"],
-              ["Industry & agriculture", "**PLI schemes**, Make in India, MSP + PM-AASHA, e-NAM, FPOs", "Production incentives + market reform"],
-              ["Social justice", "PM-JANMAN, Stand-Up India, **PM Vishwakarma**, NSAP pensions", "Targeted last-mile inclusion"]
+              [
+                "Poverty & livelihoods",
+                "**MGNREGA (2005)** — legal work guarantee; **NRLM/SHGs**; **PM-KISAN** (₹6,000/yr)",
+                "Rights-based safety net + income transfer"
+              ],
+              [
+                "Food & nutrition",
+                "**NFSA 2013** (~81 crore covered), **PM Poshan**, **Poshan Abhiyaan**",
+                "Legal entitlement + life-cycle nutrition"
+              ],
+              [
+                "Health",
+                "**Ayushman Bharat** — PM-JAY (₹5 lakh cover) + Health & Wellness Centres; **National Health Mission**",
+                "Insurance + primary-care strengthening"
+              ],
+              [
+                "Education & skills",
+                "**NEP 2020**, Samagra Shiksha, **PM-SHRI**, Skill India/PMKVY",
+                "Foundational literacy → multidisciplinary HE"
+              ],
+              [
+                "Infrastructure",
+                "**PM Gati Shakti**, Bharatmala/Sagarmala, **PMAY (U&G)**, Jal Jeevan Mission (har ghar jal)",
+                "Multimodal logistics + universal basic services"
+              ],
+              [
+                "Financial inclusion & digital",
+                "**Jan Dhan**, UPI, **Digital India**, ONDC",
+                "Public digital infrastructure (DPI) as policy platform"
+              ],
+              [
+                "Industry & agriculture",
+                "**PLI schemes**, Make in India, MSP + PM-AASHA, e-NAM, FPOs",
+                "Production incentives + market reform"
+              ],
+              [
+                "Social justice",
+                "PM-JANMAN, Stand-Up India, **PM Vishwakarma**, NSAP pensions",
+                "Targeted last-mile inclusion"
+              ]
             ]
           }
         ]
@@ -65,6 +101,55 @@
             "text": "Exam tip: Never list schemes — evaluate two per sector using the grid (design → targeting → delivery → outcome → fiscal). Pair one central and one AP scheme in every answer; APPSC examiners specifically reward the AP pairing."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — policy models & the evidence turn",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Model",
+              "Proponent",
+              "Insight for answers"
+            ],
+            "rows": [
+              [
+                "**Rational-comprehensive**",
+                "Herbert Simon (bounded rationality)",
+                "Ideal of full analysis, limited by information & cognition"
+              ],
+              [
+                "**Incrementalism** ('muddling through')",
+                "Charles Lindblom",
+                "Policy moves in small steps from the status quo"
+              ],
+              [
+                "**Mixed scanning**",
+                "Amitai Etzioni",
+                "Broad scan + detailed look at select areas"
+              ],
+              [
+                "**Garbage can**",
+                "Cohen, March, Olsen",
+                "Problems, solutions, participants meet by chance"
+              ],
+              [
+                "**Punctuated equilibrium**",
+                "Baumgartner & Jones",
+                "Long stability broken by bursts of major change"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**The modern turn:** **evidence-based policy** and **behavioural 'nudge'** design (India's own thinking reflected in Economic Survey chapters), **randomised evaluation** (the 2019 Nobel to Banerjee-Duflo-Kremer), and **outcome budgeting**. Cite **DBT/JAM (Jan Dhan–Aadhaar–Mobile)** as India's flagship in plugging leakages, and **NITI Aayog's SDG India Index & Aspirational Districts Programme** as data-driven policy steering."
+          }
+        ],
+        "prelimsPointers": [
+          "**Incrementalism / 'muddling through'** — Charles Lindblom; **Mixed scanning** — Amitai Etzioni.",
+          "**JAM trinity** (Jan Dhan, Aadhaar, Mobile) underpins **Direct Benefit Transfer**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -84,11 +169,26 @@
       "Outputs are counted, outcomes are assumed — critique India's scheme-evaluation culture with examples."
     ],
     "glossary": [
-      { "term": "Centrally Sponsored Scheme", "definition": "Scheme funded jointly by Centre and states (typically 60:40) and implemented by states in State/Concurrent List areas — the main instrument of central influence on state priorities." },
-      { "term": "Direct Benefit Transfer", "definition": "Transfer of scheme benefits straight to Aadhaar-seeded bank accounts, minimising intermediaries and leakage; built on the JAM trinity." },
-      { "term": "Saturation approach", "definition": "Delivering a benefit to every eligible person rather than phased targeting — reduces exclusion error and discretion; fiscally demanding." },
-      { "term": "Inclusion/exclusion errors", "definition": "Targeting failures: benefits reaching the non-poor (inclusion) or missing the eligible poor (exclusion) — the core diagnostic of welfare design." },
-      { "term": "Mission mode", "definition": "Time-bound, outcome-focused implementation vehicle with dedicated governance (e.g., Swachh Bharat, Jal Jeevan) as against routine departmental delivery." }
+      {
+        "term": "Centrally Sponsored Scheme",
+        "definition": "Scheme funded jointly by Centre and states (typically 60:40) and implemented by states in State/Concurrent List areas — the main instrument of central influence on state priorities."
+      },
+      {
+        "term": "Direct Benefit Transfer",
+        "definition": "Transfer of scheme benefits straight to Aadhaar-seeded bank accounts, minimising intermediaries and leakage; built on the JAM trinity."
+      },
+      {
+        "term": "Saturation approach",
+        "definition": "Delivering a benefit to every eligible person rather than phased targeting — reduces exclusion error and discretion; fiscally demanding."
+      },
+      {
+        "term": "Inclusion/exclusion errors",
+        "definition": "Targeting failures: benefits reaching the non-poor (inclusion) or missing the eligible poor (exclusion) — the core diagnostic of welfare design."
+      },
+      {
+        "term": "Mission mode",
+        "definition": "Time-bound, outcome-focused implementation vehicle with dedicated governance (e.g., Swachh Bharat, Jal Jeevan) as against routine departmental delivery."
+      }
     ]
   },
   {
@@ -104,15 +204,47 @@
           },
           {
             "type": "table",
-            "headers": ["Problem cluster", "Content", "Evidence/example"],
+            "headers": [
+              "Problem cluster",
+              "Content",
+              "Evidence/example"
+            ],
             "rows": [
-              ["**Design flaws**", "Over-ambition, one-size-fits-all CSS, unclear objectives, poor piloting", "Farm laws' consultation deficit; frequent scheme renaming/overlap"],
-              ["**Administrative capacity**", "Vacancies, generalist churn (short tenures), weak state capability at the last mile", "District-level vacancies; average collector tenure < 2 years in many states"],
-              ["**Fiscal plumbing**", "Delayed fund release, parked funds, unspent balances, treasury single-account issues", "MGNREGA wage-payment delays; SNA reforms (2021) to track CSS floats"],
-              ["**Coordination failure**", "Vertical (Centre–state–district) and horizontal (department silos)", "Sanitation = water + health + education + behaviour; Gati Shakti created precisely to break silos"],
-              ["**Information & incentives**", "Target-chasing, data gaming, weak M&E, no consequence for failure", "Toilet-count vs usage; learning-outcome gaps (ASER)"],
-              ["**Corruption & capture**", "Leakage, elite capture of benefits, contractor nexus", "PDS diversion pre-DBT; muster-roll fraud"],
-              ["**Legal-procedural friction**", "Land acquisition, clearances, litigation stays", "Infrastructure time/cost overruns (MoSPI flash reports)"]
+              [
+                "**Design flaws**",
+                "Over-ambition, one-size-fits-all CSS, unclear objectives, poor piloting",
+                "Farm laws' consultation deficit; frequent scheme renaming/overlap"
+              ],
+              [
+                "**Administrative capacity**",
+                "Vacancies, generalist churn (short tenures), weak state capability at the last mile",
+                "District-level vacancies; average collector tenure < 2 years in many states"
+              ],
+              [
+                "**Fiscal plumbing**",
+                "Delayed fund release, parked funds, unspent balances, treasury single-account issues",
+                "MGNREGA wage-payment delays; SNA reforms (2021) to track CSS floats"
+              ],
+              [
+                "**Coordination failure**",
+                "Vertical (Centre–state–district) and horizontal (department silos)",
+                "Sanitation = water + health + education + behaviour; Gati Shakti created precisely to break silos"
+              ],
+              [
+                "**Information & incentives**",
+                "Target-chasing, data gaming, weak M&E, no consequence for failure",
+                "Toilet-count vs usage; learning-outcome gaps (ASER)"
+              ],
+              [
+                "**Corruption & capture**",
+                "Leakage, elite capture of benefits, contractor nexus",
+                "PDS diversion pre-DBT; muster-roll fraud"
+              ],
+              [
+                "**Legal-procedural friction**",
+                "Land acquisition, clearances, litigation stays",
+                "Infrastructure time/cost overruns (MoSPI flash reports)"
+              ]
             ]
           }
         ]
@@ -155,6 +287,28 @@
             "text": "Exam tip: Name the seven problem clusters, then give fix-for-problem pairs (vacancy→tenure reform; leakage→DBT+social audit; silo→convergence). End with Polavaram or MGNREGA as a threaded case study. Pressman & Wildavsky + 'outlay vs outcome' phrasing signal conceptual command."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the implementation gap, diagnosed",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Classic diagnosis:** *Pressman & Wildavsky* ('**Implementation**', 1973) showed how each additional clearance point multiplies the odds of failure — the 'complexity of joint action'.",
+              "**Top-down vs bottom-up:** top-down (Sabatier-Mazmanian) stresses clear goals and control; bottom-up (Lipsky's **'street-level bureaucrats'**) shows frontline discretion actually shapes policy — the ASHA, the anganwadi worker, the VRO ARE the policy to the citizen.",
+              "**Indian failure modes:** the **'implementation deficit'** — leakages (the old '15 paise of a rupee reaches' critique attributed to Rajiv Gandhi), elite capture, weak monitoring, and fund-flow delays.",
+              "**What fixes it:** DBT, geo-tagging & MIS (e.g., MGNREGA's NREGASoft), social audit, **outcome monitoring**, decentralised delivery, and technology-enabled last-mile grids like **AP's Village/Ward Secretariats + Volunteers**."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "*Implementation* (1973) — **Pressman & Wildavsky**; 'complexity of joint action'.",
+          "**Street-level bureaucrats** — Michael Lipsky's concept of frontline discretion."
+        ],
+        "mainsAngles": [
+          "'Policies fail not in design but in delivery' — examine the implementation gap in Indian welfare programmes with remedies."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -174,12 +328,30 @@
       "Frequent transfers are the unpriced tax on Indian administration — discuss tenure-security reforms after T.S.R. Subramanian."
     ],
     "glossary": [
-      { "term": "Implementation gap", "definition": "The distance between policy objectives and realised outcomes, produced by design, capacity, funding, coordination and incentive failures." },
-      { "term": "Complexity of joint action", "definition": "Pressman & Wildavsky's phrase for how multiplying actors and decision points geometrically reduces the probability of successful implementation." },
-      { "term": "Outcome budgeting", "definition": "Budget documents mapping outlays to measurable outputs and outcomes per scheme — shifting review from spending to results." },
-      { "term": "Social audit", "definition": "Verification of records against ground reality by the beneficiary community itself (Gram Sabha), statutorily required under MGNREGA." },
-      { "term": "Last-mile delivery", "definition": "The final administrative link where services meet citizens — the stage where authentication, staffing and access failures concentrate." },
-      { "term": "Convergence", "definition": "Aligning multiple schemes/departments on a shared geography or outcome (e.g., Aspirational Districts) to overcome silo implementation." }
+      {
+        "term": "Implementation gap",
+        "definition": "The distance between policy objectives and realised outcomes, produced by design, capacity, funding, coordination and incentive failures."
+      },
+      {
+        "term": "Complexity of joint action",
+        "definition": "Pressman & Wildavsky's phrase for how multiplying actors and decision points geometrically reduces the probability of successful implementation."
+      },
+      {
+        "term": "Outcome budgeting",
+        "definition": "Budget documents mapping outlays to measurable outputs and outcomes per scheme — shifting review from spending to results."
+      },
+      {
+        "term": "Social audit",
+        "definition": "Verification of records against ground reality by the beneficiary community itself (Gram Sabha), statutorily required under MGNREGA."
+      },
+      {
+        "term": "Last-mile delivery",
+        "definition": "The final administrative link where services meet citizens — the stage where authentication, staffing and access failures concentrate."
+      },
+      {
+        "term": "Convergence",
+        "definition": "Aligning multiple schemes/departments on a shared geography or outcome (e.g., Aspirational Districts) to overcome silo implementation."
+      }
     ]
   },
   {
@@ -195,14 +367,42 @@
           },
           {
             "type": "table",
-            "headers": ["Stakeholder", "Development role", "Marquee examples"],
+            "headers": [
+              "Stakeholder",
+              "Development role",
+              "Marquee examples"
+            ],
             "rows": [
-              ["**NGOs/VOs**", "Service delivery, innovation pilots, rights advocacy, watchdog", "**MKSS** → RTI movement; Pratham (ASER); SEWA; Akshaya Patra (mid-day meals)"],
-              ["**SHGs & federations**", "Micro-credit, livelihoods, women's empowerment", "**AP is the SHG heartland** — DWCRA→Velugu/**SERP**→NRLM's national template; bank-linkage model born in undivided AP"],
-              ["**Cooperatives**", "Aggregation, credit, dairy, sugar", "**Amul/NDDB**; PACS computerisation; Ministry of Cooperation (2021)"],
-              ["**Media & academia**", "Agenda-setting, evaluation, whistleblowing", "PDS/NREGA exposés; J-PAL/IFMR evidence"],
-              ["**Corporates (CSR)**", "Mandated 2% spend (**Companies Act 2013, Sec 135**)", "~₹25–30,000 crore/yr CSR pool"],
-              ["**International bodies**", "Finance, norms, technical aid", "World Bank, UN agencies, Global Fund/GAVI"]
+              [
+                "**NGOs/VOs**",
+                "Service delivery, innovation pilots, rights advocacy, watchdog",
+                "**MKSS** → RTI movement; Pratham (ASER); SEWA; Akshaya Patra (mid-day meals)"
+              ],
+              [
+                "**SHGs & federations**",
+                "Micro-credit, livelihoods, women's empowerment",
+                "**AP is the SHG heartland** — DWCRA→Velugu/**SERP**→NRLM's national template; bank-linkage model born in undivided AP"
+              ],
+              [
+                "**Cooperatives**",
+                "Aggregation, credit, dairy, sugar",
+                "**Amul/NDDB**; PACS computerisation; Ministry of Cooperation (2021)"
+              ],
+              [
+                "**Media & academia**",
+                "Agenda-setting, evaluation, whistleblowing",
+                "PDS/NREGA exposés; J-PAL/IFMR evidence"
+              ],
+              [
+                "**Corporates (CSR)**",
+                "Mandated 2% spend (**Companies Act 2013, Sec 135**)",
+                "~₹25–30,000 crore/yr CSR pool"
+              ],
+              [
+                "**International bodies**",
+                "Finance, norms, technical aid",
+                "World Bank, UN agencies, Global Fund/GAVI"
+              ]
             ]
           }
         ]
@@ -244,6 +444,24 @@
             "text": "Exam tip: Anchor with the 2nd ARC 'Social Capital' report, one law (FCRA 2020 + Noel Harper 2022), one movement-to-law chain (MKSS→RTI), and the AP SHG/SSAAT story. The examiner wants roles + tensions + regulation + way forward, not an NGO catalogue."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the state, market and civil society triangle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Beyond government to governance:** development is co-produced by the **state, market (CSR under Section 135, Companies Act 2013), civil society/NGOs, and communities (SHGs, cooperatives)**.",
+              "**SHG revolution:** the **DAY-NRLM/SERP** self-help-group movement — AP and undivided AP pioneered it — mobilised crores of rural women into savings-and-credit groups, a globally cited model of social capital and financial inclusion.",
+              "**The regulatory tightrope:** the **FCRA (amended 2020)** tightened foreign-funding scrutiny of NGOs, raising the 'accountability vs civil-society space' debate; a balanced answer defends both probity and the associational freedom under Art 19(1)(c).",
+              "**PPP & the market:** infrastructure via PPP (VGF, HAM models), and the **Kelkar Committee (2015)** on revitalising PPP, show the market as a development partner — needing strong regulation to protect public interest."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "'Civil society is the third pillar of development governance' — assess the role and regulation of NGOs in India."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -263,12 +481,30 @@
       "Suggest a partnership framework between government and voluntary organisations based on the 2nd ARC's Social Capital report."
     ],
     "glossary": [
-      { "term": "Civil society", "definition": "The associational space between family, state and market where citizens organise for shared purposes — NGOs, SHGs, unions, media, faith bodies, CBOs." },
-      { "term": "Social capital", "definition": "Networks of trust and reciprocity that enable collective action (Putnam); the 2nd ARC's frame for India's NGO-SHG-cooperative sector." },
-      { "term": "Self-Help Group", "definition": "10–20 member savings-and-credit affinity group, bank-linked and federated; the AP-pioneered backbone of NRLM's women's livelihoods architecture." },
-      { "term": "FCRA", "definition": "Foreign Contribution (Regulation) Act, 2010 (amended 2020) governing foreign donations to associations — registration, designated SBI account, use restrictions." },
-      { "term": "Co-production", "definition": "Joint delivery of public services by state agencies and citizen groups (e.g., social audits, community health workers), combining authority with local knowledge." },
-      { "term": "Advocacy NGO", "definition": "Organisation whose primary work is influencing policy and defending rights rather than delivering services — the segment most affected by regulatory tightening." }
+      {
+        "term": "Civil society",
+        "definition": "The associational space between family, state and market where citizens organise for shared purposes — NGOs, SHGs, unions, media, faith bodies, CBOs."
+      },
+      {
+        "term": "Social capital",
+        "definition": "Networks of trust and reciprocity that enable collective action (Putnam); the 2nd ARC's frame for India's NGO-SHG-cooperative sector."
+      },
+      {
+        "term": "Self-Help Group",
+        "definition": "10–20 member savings-and-credit affinity group, bank-linked and federated; the AP-pioneered backbone of NRLM's women's livelihoods architecture."
+      },
+      {
+        "term": "FCRA",
+        "definition": "Foreign Contribution (Regulation) Act, 2010 (amended 2020) governing foreign donations to associations — registration, designated SBI account, use restrictions."
+      },
+      {
+        "term": "Co-production",
+        "definition": "Joint delivery of public services by state agencies and citizen groups (e.g., social audits, community health workers), combining authority with local knowledge."
+      },
+      {
+        "term": "Advocacy NGO",
+        "definition": "Organisation whose primary work is influencing policy and defending rights rather than delivering services — the segment most affected by regulatory tightening."
+      }
     ]
   }
 ]

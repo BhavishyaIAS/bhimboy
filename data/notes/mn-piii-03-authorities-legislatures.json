@@ -12,16 +12,61 @@
           },
           {
             "type": "table",
-            "headers": ["Authority", "Articles", "Role", "Independence safeguards"],
+            "headers": [
+              "Authority",
+              "Articles",
+              "Role",
+              "Independence safeguards"
+            ],
             "rows": [
-              ["**Election Commission of India**", "**324**", "Superintendence, direction, control of elections to Parliament, legislatures, President/VP", "CEC removable only like an SC judge; service conditions not variable to disadvantage; **CEC & ECs (Appointment) Act, 2023** — selection by PM, LoP, a Union Minister (after **Anoop Baranwal, 2023**)"],
-              ["**Comptroller & Auditor-General**", "**148–151**", "Audits all Union/state accounts; 'guardian of the public purse' (Ambedkar: the most important officer)", "6-yr/65-age tenure; removal like SC judge; salary charged on Consolidated Fund; ineligible for further government office"],
-              ["**UPSC / State PSCs**", "**315–323**", "Merit recruitment, disciplinary advice, service matters", "Fixed 6-yr terms; removal only by President after SC inquiry (even for SPSC members)"],
-              ["**Finance Commission**", "**280**", "Tax devolution & grants every 5 years", "Quasi-judicial; qualifications by parliamentary law"],
-              ["**Attorney-General / Advocate-General**", "**76 / 165**", "First law officer of Union / State; right of audience in all courts", "Holds office during pleasure; right to speak in the House (Art 88/177)"],
-              ["**State Election Commission**", "**243K/243ZA**", "Local-body elections", "Removal like a High Court judge"],
-              ["**NCSC / NCST / NCBC**", "**338 / 338A / 338B**", "Safeguards for SC / ST / socially-educationally backward classes; NCBC constitutionalised by **102nd Amendment, 2018**", "Powers of a civil court in inquiries"],
-              ["**Special Officer for Linguistic Minorities**", "**350B**", "Reports on linguistic-minority safeguards", "Reports laid before Parliament"]
+              [
+                "**Election Commission of India**",
+                "**324**",
+                "Superintendence, direction, control of elections to Parliament, legislatures, President/VP",
+                "CEC removable only like an SC judge; service conditions not variable to disadvantage; **CEC & ECs (Appointment) Act, 2023** — selection by PM, LoP, a Union Minister (after **Anoop Baranwal, 2023**)"
+              ],
+              [
+                "**Comptroller & Auditor-General**",
+                "**148–151**",
+                "Audits all Union/state accounts; 'guardian of the public purse' (Ambedkar: the most important officer)",
+                "6-yr/65-age tenure; removal like SC judge; salary charged on Consolidated Fund; ineligible for further government office"
+              ],
+              [
+                "**UPSC / State PSCs**",
+                "**315–323**",
+                "Merit recruitment, disciplinary advice, service matters",
+                "Fixed 6-yr terms; removal only by President after SC inquiry (even for SPSC members)"
+              ],
+              [
+                "**Finance Commission**",
+                "**280**",
+                "Tax devolution & grants every 5 years",
+                "Quasi-judicial; qualifications by parliamentary law"
+              ],
+              [
+                "**Attorney-General / Advocate-General**",
+                "**76 / 165**",
+                "First law officer of Union / State; right of audience in all courts",
+                "Holds office during pleasure; right to speak in the House (Art 88/177)"
+              ],
+              [
+                "**State Election Commission**",
+                "**243K/243ZA**",
+                "Local-body elections",
+                "Removal like a High Court judge"
+              ],
+              [
+                "**NCSC / NCST / NCBC**",
+                "**338 / 338A / 338B**",
+                "Safeguards for SC / ST / socially-educationally backward classes; NCBC constitutionalised by **102nd Amendment, 2018**",
+                "Powers of a civil court in inquiries"
+              ],
+              [
+                "**Special Officer for Linguistic Minorities**",
+                "**350B**",
+                "Reports on linguistic-minority safeguards",
+                "Reports laid before Parliament"
+              ]
             ]
           }
         ]
@@ -64,6 +109,61 @@
             "text": "Exam tip: When asked about 'constitutional authorities and their role', do not catalogue endlessly — pick ECI, CAG, PSCs, FC as the four pillars, one live controversy each (2023 CEC Act, PAC follow-up gap, exempted posts, cess bypass), then close with the distinction from statutory bodies. Precision on article numbers is what separates top answers."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the constitutional authorities, compared",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Body",
+              "Article",
+              "Appointment / removal",
+              "Recent flashpoint"
+            ],
+            "rows": [
+              [
+                "**Election Commission**",
+                "324",
+                "Appointed under the **CEC & OEC Act, 2023** (PM + LoP + a Union Minister); removal of CEC like a SC judge",
+                "*Anoop Baranwal* (2023) sought a neutral panel; the 2023 Act replaced the CJI with a Minister — under challenge"
+              ],
+              [
+                "**CAG**",
+                "148",
+                "Appointed by President; removed like a SC judge",
+                "'Friend, philosopher and guide' of the PAC; audit reach over PSUs/PPP debated"
+              ],
+              [
+                "**Finance Commission**",
+                "280",
+                "Every 5 years; President constitutes",
+                "**16th FC (Panagariya)** award 2026–31"
+              ],
+              [
+                "**UPSC / State PSC**",
+                "315–323",
+                "Chairman/members by President/Governor; removed by President after SC inquiry",
+                "**APPSC** integrity & paper-leak concerns; reform of exam security"
+              ],
+              [
+                "**AG of India**",
+                "76",
+                "Appointed by President; holds office during pleasure",
+                "Highest law officer; can take part in Parliament (no vote)"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**AP dimension:** the **AP Public Service Commission (Art 315)** is the recruiting spine of state governance; **Art 371D** created the **AP Administrative Tribunal** and the local-cadre/Presidential-Order regime. Cite the CAG's audits of state schemes and the State Finance Commission (Art 243-I) to localise accountability answers."
+          }
+        ],
+        "prelimsPointers": [
+          "**CEC and Other Election Commissioners Act, 2023** — selection panel: PM, a Union Cabinet Minister, and the Leader of Opposition in Lok Sabha.",
+          "**CAG (Art 148)** — audits under the CAG's (DPC) Act, 1971; reports to the President/Governor, examined by the PAC/COPU."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,11 +182,26 @@
       "Assess the constitutional design of State Public Service Commissions and the reforms APPSC needs to command aspirant confidence."
     ],
     "glossary": [
-      { "term": "Constitutional body", "definition": "An authority created by the Constitution itself (e.g., ECI, CAG, UPSC, FC), as distinct from statutory bodies created by legislation (NHRC, CVC) or executive resolutions (NITI Aayog)." },
-      { "term": "Charged expenditure", "definition": "Expenditure charged on the Consolidated Fund (e.g., salaries of CAG, judges) — discussable but non-votable in the House, insulating the office from annual majority pressure." },
-      { "term": "Model Code of Conduct", "definition": "ECI's consensual, non-statutory norms binding parties and governments from election announcement to results; enforced through Art 324's plenary power." },
-      { "term": "Public Accounts Committee", "definition": "22-member parliamentary committee (15 LS + 7 RS), chaired by an Opposition member, that examines CAG reports — the audit's legislative teeth." },
-      { "term": "Article 317", "definition": "Removal procedure for PSC members: only by the President, on the Supreme Court's inquiry report finding misbehaviour — a key independence safeguard." }
+      {
+        "term": "Constitutional body",
+        "definition": "An authority created by the Constitution itself (e.g., ECI, CAG, UPSC, FC), as distinct from statutory bodies created by legislation (NHRC, CVC) or executive resolutions (NITI Aayog)."
+      },
+      {
+        "term": "Charged expenditure",
+        "definition": "Expenditure charged on the Consolidated Fund (e.g., salaries of CAG, judges) — discussable but non-votable in the House, insulating the office from annual majority pressure."
+      },
+      {
+        "term": "Model Code of Conduct",
+        "definition": "ECI's consensual, non-statutory norms binding parties and governments from election announcement to results; enforced through Art 324's plenary power."
+      },
+      {
+        "term": "Public Accounts Committee",
+        "definition": "22-member parliamentary committee (15 LS + 7 RS), chaired by an Opposition member, that examines CAG reports — the audit's legislative teeth."
+      },
+      {
+        "term": "Article 317",
+        "definition": "Removal procedure for PSC members: only by the President, on the Supreme Court's inquiry report finding misbehaviour — a key independence safeguard."
+      }
     ]
   },
   {
@@ -102,13 +217,31 @@
           },
           {
             "type": "table",
-            "headers": ["Officer / device", "Essentials"],
+            "headers": [
+              "Officer / device",
+              "Essentials"
+            ],
             "rows": [
-              ["**Speaker (Art 93)**", "Presides over LS; decides money-bill certification (**Art 110(3)** — final), anti-defection references (**Kihoto Hollohan, 1992** — judicially reviewable); casting vote only"],
-              ["**Chairman RS**", "Vice-President ex-officio (Art 89)"],
-              ["**Sessions (Art 85)**", "Gap between sessions cannot exceed **6 months**; Budget, Monsoon, Winter by convention"],
-              ["**Quorum**", "**1/10th** of the strength (Art 100)"],
-              ["**Joint sitting (Art 108)**", "For ordinary-bill deadlock; presided by Speaker; used thrice (Dowry 1961, Banking 1978, POTA 2002); NOT for money or constitution-amendment bills"]
+              [
+                "**Speaker (Art 93)**",
+                "Presides over LS; decides money-bill certification (**Art 110(3)** — final), anti-defection references (**Kihoto Hollohan, 1992** — judicially reviewable); casting vote only"
+              ],
+              [
+                "**Chairman RS**",
+                "Vice-President ex-officio (Art 89)"
+              ],
+              [
+                "**Sessions (Art 85)**",
+                "Gap between sessions cannot exceed **6 months**; Budget, Monsoon, Winter by convention"
+              ],
+              [
+                "**Quorum**",
+                "**1/10th** of the strength (Art 100)"
+              ],
+              [
+                "**Joint sitting (Art 108)**",
+                "For ordinary-bill deadlock; presided by Speaker; used thrice (Dowry 1961, Banking 1978, POTA 2002); NOT for money or constitution-amendment bills"
+              ]
             ]
           }
         ]
@@ -150,6 +283,28 @@
             "text": "Exam tip: Questions on 'structure and functioning' reward institutional data — sitting days, % bills to committees, three joint sittings, 104th Amendment — plus one AP hook: the 2020 Art 169 Council-abolition resolution that lapsed. Learn the money-bill vs finance-bill distinction cold; it is a favourite."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — a declining Parliament, by the numbers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Fewer sitting days:** Lok Sabha now sits far below the ~120–130 days a year of the 1950s–60s; many bills are passed with limited debate and **declining reference to committees**.",
+              "**Disruptions & the 'ordinance route':** frequent adjournments and heavy use of **Art 123/213 ordinances** weaken deliberation; the **Money Bill route (Art 110)** — used for Aadhaar and amendments — bypasses the Rajya Sabha and is contested (*Rojer Mathew*, *Roger* referred to a larger bench).",
+              "**Anti-defection (Tenth Schedule):** consolidates party discipline but curbs the individual member's voice; *Kihoto Hollohan* (1992) made the Speaker's disqualification decision judicially reviewable and later verdicts urged deciding within a reasonable time.",
+              "**New Parliament & women's reservation:** the **106th Amendment (Nari Shakti Vandan Adhiniyam, 2023)** reserves one-third of Lok Sabha and State Assembly seats for women — effective after delimitation following the next census."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**106th Amendment (2023)** — one-third reservation for women in Lok Sabha & State Assemblies; contingent on delimitation post-census.",
+          "**Money Bill** defined in **Art 110**; Speaker certifies; Rajya Sabha can only recommend (14 days)."
+        ],
+        "mainsAngles": [
+          "'Indian legislatures are deliberating less and disrupting more' — analyse the decline in legislative effectiveness and suggest reforms."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -168,11 +323,26 @@
       "Evaluate the role of Departmentally Related Standing Committees in restoring legislative scrutiny, and suggest reforms."
     ],
     "glossary": [
-      { "term": "Zero Hour", "definition": "The period immediately after Question Hour when members raise urgent matters without prior notice — an Indian procedural innovation with no mention in the Rules." },
-      { "term": "Guillotine", "definition": "The Speaker's putting of all outstanding demands for grants to vote at once when allotted budget time expires, foreclosing discussion." },
-      { "term": "Ordinance (Arts 123/213)", "definition": "Law promulgated by President/Governor when the legislature is not in session; must be laid before the House and lapses 6 weeks after reassembly; re-promulgation condemned in Krishna Kumar Singh (2017)." },
-      { "term": "Cut motion", "definition": "Device to reduce a demand for grant — policy cut (Re 1), economy cut (specified amount), token cut (₹100) — symbolising executive accountability in financial matters." },
-      { "term": "Article 169", "definition": "Parliament may create or abolish a state Legislative Council if the Assembly so resolves by special majority — the provision behind AP's Council's abolition (1985), revival (2007) and pending 2020 abolition resolution." }
+      {
+        "term": "Zero Hour",
+        "definition": "The period immediately after Question Hour when members raise urgent matters without prior notice — an Indian procedural innovation with no mention in the Rules."
+      },
+      {
+        "term": "Guillotine",
+        "definition": "The Speaker's putting of all outstanding demands for grants to vote at once when allotted budget time expires, foreclosing discussion."
+      },
+      {
+        "term": "Ordinance (Arts 123/213)",
+        "definition": "Law promulgated by President/Governor when the legislature is not in session; must be laid before the House and lapses 6 weeks after reassembly; re-promulgation condemned in Krishna Kumar Singh (2017)."
+      },
+      {
+        "term": "Cut motion",
+        "definition": "Device to reduce a demand for grant — policy cut (Re 1), economy cut (specified amount), token cut (₹100) — symbolising executive accountability in financial matters."
+      },
+      {
+        "term": "Article 169",
+        "definition": "Parliament may create or abolish a state Legislative Council if the Assembly so resolves by special majority — the provision behind AP's Council's abolition (1985), revival (2007) and pending 2020 abolition resolution."
+      }
     ]
   },
   {
@@ -188,10 +358,19 @@
           },
           {
             "type": "table",
-            "headers": ["Level", "Privileges"],
+            "headers": [
+              "Level",
+              "Privileges"
+            ],
             "rows": [
-              ["Individual", "Freedom of speech in the House; **freedom from arrest in civil cases** 40 days before/after and during session; exemption from jury/witness duty while in session"],
-              ["Collective", "Right to publish/expunge proceedings; **exclude strangers**; secret sittings; **punish for contempt/breach of privilege** (including non-members); immediate information of a member's arrest; regulate internal proceedings (**Art 122/212** — courts cannot inquire into procedural irregularity)"]
+              [
+                "Individual",
+                "Freedom of speech in the House; **freedom from arrest in civil cases** 40 days before/after and during session; exemption from jury/witness duty while in session"
+              ],
+              [
+                "Collective",
+                "Right to publish/expunge proceedings; **exclude strangers**; secret sittings; **punish for contempt/breach of privilege** (including non-members); immediate information of a member's arrest; regulate internal proceedings (**Art 122/212** — courts cannot inquire into procedural irregularity)"
+              ]
             ]
           }
         ]
@@ -236,6 +415,24 @@
             "text": "Exam tip: 'Powers, privileges and issues arising' = definition + two written privileges + three landmark cases (Searchlight, Keshav Singh, Sita Soren) + codification debate. The 2024 Sita Soren overruling of P.V. Narasimha Rao is the single most exam-worthy update — never omit it."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — privileges vs free press & the codification debate",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Parliamentary privileges (**Arts 105/194**) remain **uncodified** — drawn from those of the House of Commons at commencement. Key clashes to cite: **Keshav Singh (1965)** (UP Assembly vs judiciary on committal for contempt); **Raja Ram Pal (2007)** (cash-for-query expulsion upheld — House has power to expel); and the recent **Sita Soren (2024)** verdict where a 7-judge bench **overruled *P.V. Narasimha Rao* (1998)** to hold that legislators taking bribes are **NOT immune** under Art 105(2)/194(2) — a landmark for probity."
+          },
+          {
+            "type": "para",
+            "text": "**The unresolved question — codification:** critics argue uncodified privileges create uncertainty and can chill press freedom; defenders say codification would invite constant judicial intrusion into House autonomy. A balanced answer favours a **narrowly codified, rights-compatible framework** consistent with Art 19(1)(a)."
+          }
+        ],
+        "prelimsPointers": [
+          "**Sita Soren v. Union of India (2024)** — 7-judge bench held bribe-taking MPs/MLAs have NO immunity under Arts 105(2)/194(2); overruled P.V. Narasimha Rao (1998).",
+          "Parliamentary privileges under **Arts 105 & 194** remain **uncodified**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -254,11 +451,26 @@
       "Examine the tension between the citizen's Article 19(1)(a) rights and the House's contempt power, with suggestions for balance."
     ],
     "glossary": [
-      { "term": "Breach of privilege", "definition": "Violation of any individual or collective right of the House or its members (e.g., misreporting proceedings, obstructing members), punishable by the House through admonition, reprimand or imprisonment." },
-      { "term": "Contempt of the House", "definition": "Any act or omission that obstructs the House's work or lowers its dignity — broader than breach of privilege; may be committed even where no specific privilege is violated." },
-      { "term": "Freedom of speech in the House", "definition": "Absolute immunity of members from court proceedings for anything said or any vote given in the House (Arts 105(2)/194(2)) — the deliberative core of legislative privilege." },
-      { "term": "Article 122 / 212", "definition": "Bar on courts inquiring into legislative proceedings on the ground of procedural irregularity; substantive illegality remains reviewable (Raja Ram Pal)." },
-      { "term": "Sita Soren v. Union of India (2024)", "definition": "Seven-judge decision holding that bribery in connection with a speech or vote is not protected by Articles 105/194, overruling P.V. Narasimha Rao (1998)." }
+      {
+        "term": "Breach of privilege",
+        "definition": "Violation of any individual or collective right of the House or its members (e.g., misreporting proceedings, obstructing members), punishable by the House through admonition, reprimand or imprisonment."
+      },
+      {
+        "term": "Contempt of the House",
+        "definition": "Any act or omission that obstructs the House's work or lowers its dignity — broader than breach of privilege; may be committed even where no specific privilege is violated."
+      },
+      {
+        "term": "Freedom of speech in the House",
+        "definition": "Absolute immunity of members from court proceedings for anything said or any vote given in the House (Arts 105(2)/194(2)) — the deliberative core of legislative privilege."
+      },
+      {
+        "term": "Article 122 / 212",
+        "definition": "Bar on courts inquiring into legislative proceedings on the ground of procedural irregularity; substantive illegality remains reviewable (Raja Ram Pal)."
+      },
+      {
+        "term": "Sita Soren v. Union of India (2024)",
+        "definition": "Seven-judge decision holding that bribery in connection with a speech or vote is not protected by Articles 105/194, overruling P.V. Narasimha Rao (1998)."
+      }
     ]
   }
 ]

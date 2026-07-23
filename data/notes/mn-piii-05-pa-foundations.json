@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["View of scope", "Content"],
+            "headers": [
+              "View of scope",
+              "Content"
+            ],
             "rows": [
-              ["**POSDCORB view (Gulick & Urwick)**", "**P**lanning, **O**rganising, **S**taffing, **D**irecting, **CO**-ordinating, **R**eporting, **B**udgeting — the managerial techniques view; criticised as ignoring substantive policy and values"],
-              ["**Subject-matter view**", "What agencies actually do — law & order, welfare, health, education, defence: services cannot be reduced to techniques"],
-              ["**Broad vs narrow**", "Broad (White): all three organs' administrative work; Narrow (Simon, Luther Gulick): only the executive branch"],
-              ["**Integral vs managerial**", "Integral (Henri Fayol/White): all workers, manual to managerial; Managerial (Simon/Gulick): only those who plan, organise, command"]
+              [
+                "**POSDCORB view (Gulick & Urwick)**",
+                "**P**lanning, **O**rganising, **S**taffing, **D**irecting, **CO**-ordinating, **R**eporting, **B**udgeting — the managerial techniques view; criticised as ignoring substantive policy and values"
+              ],
+              [
+                "**Subject-matter view**",
+                "What agencies actually do — law & order, welfare, health, education, defence: services cannot be reduced to techniques"
+              ],
+              [
+                "**Broad vs narrow**",
+                "Broad (White): all three organs' administrative work; Narrow (Simon, Luther Gulick): only the executive branch"
+              ],
+              [
+                "**Integral vs managerial**",
+                "Integral (Henri Fayol/White): all workers, manual to managerial; Managerial (Simon/Gulick): only those who plan, organise, command"
+              ]
             ]
           },
           {
@@ -65,6 +80,71 @@
             "text": "Exam tip: Definitions (Wilson, White, Simon) + POSDCORB + public/private distinction + seven-stage evolution is the complete skeleton. One AP illustration converts a theory answer into an APPSC answer."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the thinkers and paradigms in one grid",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Contribution",
+              "Thinker",
+              "One-line core"
+            ],
+            "rows": [
+              [
+                "Politics–administration dichotomy",
+                "**Woodrow Wilson (1887)** 'The Study of Administration'",
+                "Administration lies outside the proper sphere of politics"
+              ],
+              [
+                "Principles / POSDCORB",
+                "**Gulick & Urwick (1937)**",
+                "Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting"
+              ],
+              [
+                "Bureaucracy — ideal type",
+                "**Max Weber**",
+                "Hierarchy, rules, impersonality, merit, files"
+              ],
+              [
+                "Scientific management",
+                "**F.W. Taylor**",
+                "One best way; time–motion study"
+              ],
+              [
+                "Human relations",
+                "**Elton Mayo (Hawthorne)**",
+                "Informal groups & morale drive productivity"
+              ],
+              [
+                "New Public Administration",
+                "**Minnowbrook (1968)**",
+                "Relevance, values, **social equity**, change"
+              ],
+              [
+                "New Public Management",
+                "**1980s–90s**",
+                "Market, efficiency, citizen-as-customer, steering not rowing"
+              ],
+              [
+                "New Public Service / Governance",
+                "**Denhardt; Rhodes**",
+                "Serve citizens; networks over hierarchy"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Riggs' ecological approach** and the **'prismatic-sala' model** explain why Western administrative tools behave differently in developing societies like India — bureaucracy operating amid overlapping traditional and modern norms. Use it to critique blind NPM transplant."
+          }
+        ],
+        "prelimsPointers": [
+          "**Woodrow Wilson** — 'father of Public Administration' (1887 essay).",
+          "**POSDCORB** coined by **Luther Gulick** (1937).",
+          "**Minnowbrook Conference (1968)** launched **New Public Administration** with 'social equity' as the fourth pillar."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -83,12 +163,30 @@
       "Development administration remains the defining character of the Indian state — discuss with Andhra Pradesh's delivery architecture as illustration."
     ],
     "glossary": [
-      { "term": "Politics–administration dichotomy", "definition": "Founding claim (Wilson, Goodnow) that policy-making (politics) and policy-execution (administration) are separable spheres; later demolished as administrators visibly make policy." },
-      { "term": "POSDCORB", "definition": "Gulick's acronym for the chief executive's functions — Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting." },
-      { "term": "Bounded rationality", "definition": "Simon's insight that decision-makers 'satisfice' rather than maximise, choosing acceptable options under limits of information, time and cognition." },
-      { "term": "New Public Management", "definition": "1980s–90s reform wave importing market mechanisms and private-sector management into government — competition, contracting-out, performance measurement." },
-      { "term": "Development administration", "definition": "Administration oriented to planned socio-economic transformation in post-colonial states (Weidner, Riggs) — India's dominant administrative idiom." },
-      { "term": "New Public Service", "definition": "Denhardt & Denhardt's post-NPM corrective: the administrator's first job is to serve citizens and build public value, not steer customers." }
+      {
+        "term": "Politics–administration dichotomy",
+        "definition": "Founding claim (Wilson, Goodnow) that policy-making (politics) and policy-execution (administration) are separable spheres; later demolished as administrators visibly make policy."
+      },
+      {
+        "term": "POSDCORB",
+        "definition": "Gulick's acronym for the chief executive's functions — Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting."
+      },
+      {
+        "term": "Bounded rationality",
+        "definition": "Simon's insight that decision-makers 'satisfice' rather than maximise, choosing acceptable options under limits of information, time and cognition."
+      },
+      {
+        "term": "New Public Management",
+        "definition": "1980s–90s reform wave importing market mechanisms and private-sector management into government — competition, contracting-out, performance measurement."
+      },
+      {
+        "term": "Development administration",
+        "definition": "Administration oriented to planned socio-economic transformation in post-colonial states (Weidner, Riggs) — India's dominant administrative idiom."
+      },
+      {
+        "term": "New Public Service",
+        "definition": "Denhardt & Denhardt's post-NPM corrective: the administrator's first job is to serve citizens and build public value, not steer customers."
+      }
     ]
   },
   {
@@ -104,15 +202,39 @@
           },
           {
             "type": "table",
-            "headers": ["Element (Saptanga — seven limbs of the state)", "Modern equivalent"],
+            "headers": [
+              "Element (Saptanga — seven limbs of the state)",
+              "Modern equivalent"
+            ],
             "rows": [
-              ["**Swami** (the sovereign)", "Political executive / head of state"],
-              ["**Amatya** (ministers & officials)", "Council of ministers, civil service"],
-              ["**Janapada** (territory + people)", "Population & geography — the tax and welfare base"],
-              ["**Durga** (fort)", "Security infrastructure, capital"],
-              ["**Kosha** (treasury)", "Public finance — 'all undertakings depend upon finance'"],
-              ["**Danda** (army/force)", "Coercive apparatus, law enforcement"],
-              ["**Mitra** (ally)", "Foreign relations (the mandala theory of concentric friends/enemies)"]
+              [
+                "**Swami** (the sovereign)",
+                "Political executive / head of state"
+              ],
+              [
+                "**Amatya** (ministers & officials)",
+                "Council of ministers, civil service"
+              ],
+              [
+                "**Janapada** (territory + people)",
+                "Population & geography — the tax and welfare base"
+              ],
+              [
+                "**Durga** (fort)",
+                "Security infrastructure, capital"
+              ],
+              [
+                "**Kosha** (treasury)",
+                "Public finance — 'all undertakings depend upon finance'"
+              ],
+              [
+                "**Danda** (army/force)",
+                "Coercive apparatus, law enforcement"
+              ],
+              [
+                "**Mitra** (ally)",
+                "Foreign relations (the mandala theory of concentric friends/enemies)"
+              ]
             ]
           }
         ]
@@ -155,6 +277,28 @@
             "text": "Exam tip: Quote 'praja sukhe sukham rajnah' + the fish-in-water line on corruption. Structure: saptanga → machinery (recruitment, departments, revenue, spies) → relevance table to modern institutions. Examiners reward explicit ancient-to-modern mapping."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — Kautilya as a modern governance manual",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Saptanga theory** — seven organs of the state: **Swami (king), Amatya (ministers), Janapada (territory/people), Durga (fort), Kosha (treasury), Danda (army/force), Mitra (ally)** — an early 'systems' view of the state.",
+              "**Mandala theory** of foreign policy and the **shadgunya** (six-fold policy: sandhi, vigraha, asana, yana, samsraya, dvaidhibhava) — the intellectual root of realism, comparable to Machiavelli but four centuries of statecraft older.",
+              "**Administrative machinery:** the **Adhyakshas (superintendents)** for each department, an elaborate espionage/audit system, and **welfare orientation** — 'in the happiness of his subjects lies the king's happiness' (*praja sukhe sukham rajnah*).",
+              "**Ethics of governance:** *Yogakshema* (welfare + security) as the state's duty prefigures the modern welfare-state idea; relevant to Ethics (Paper-III) answers on probity and public purpose."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Saptanga** — seven limbs of the state in the Arthashastra (Swami, Amatya, Janapada, Durga, Kosha, Danda, Mitra).",
+          "Kautilya's welfare maxim: 'In the happiness of the subjects lies the king's happiness.'"
+        ],
+        "mainsAngles": [
+          "'The Arthashastra anticipated modern principles of administration and welfare governance' — discuss."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -173,11 +317,26 @@
       "Compare the Kautilyan district chain (sthaniya–gopa) with the modern district collector system."
     ],
     "glossary": [
-      { "term": "Saptanga", "definition": "Kautilya's theory of the state as seven interdependent limbs — sovereign, ministers, territory-people, fort, treasury, force and ally." },
-      { "term": "Danda-niti", "definition": "The science of governance/coercion — Kautilya's term for statecraft, resting on the just use of sanction (danda) to uphold order." },
-      { "term": "Yogakshema", "definition": "Kautilyan compound for acquisition (yoga) and secure enjoyment (kshema) of welfare — the state's welfare duty; echoed in modern Indian public institutions." },
-      { "term": "Adhyaksha", "definition": "Departmental superintendent in Mauryan administration (e.g., of mines, trade, agriculture) — the ancient counterpart of a head of department." },
-      { "term": "Gudhapurusha", "definition": "Kautilya's secret agents — stationary (samstha) and roving (sanchara) spies used for vigilance, intelligence and public-opinion sensing." }
+      {
+        "term": "Saptanga",
+        "definition": "Kautilya's theory of the state as seven interdependent limbs — sovereign, ministers, territory-people, fort, treasury, force and ally."
+      },
+      {
+        "term": "Danda-niti",
+        "definition": "The science of governance/coercion — Kautilya's term for statecraft, resting on the just use of sanction (danda) to uphold order."
+      },
+      {
+        "term": "Yogakshema",
+        "definition": "Kautilyan compound for acquisition (yoga) and secure enjoyment (kshema) of welfare — the state's welfare duty; echoed in modern Indian public institutions."
+      },
+      {
+        "term": "Adhyaksha",
+        "definition": "Departmental superintendent in Mauryan administration (e.g., of mines, trade, agriculture) — the ancient counterpart of a head of department."
+      },
+      {
+        "term": "Gudhapurusha",
+        "definition": "Kautilya's secret agents — stationary (samstha) and roving (sanchara) spies used for vigilance, intelligence and public-opinion sensing."
+      }
     ]
   },
   {
@@ -193,14 +352,35 @@
           },
           {
             "type": "table",
-            "headers": ["Office", "Function"],
+            "headers": [
+              "Office",
+              "Function"
+            ],
             "rows": [
-              ["**Wazir / Diwan-i-ala**", "Revenue & finance head — the empire's CFO"],
-              ["**Mir Bakshi**", "Military pay & mansab administration — head of the military-personnel department"],
-              ["**Sadr-us-Sudur**", "Religious endowments, grants, judicial appointments"],
-              ["**Khan-i-Saman**", "Imperial household & state karkhanas"],
-              ["**Qazi-ul-Quzat**", "Chief judge — qazi network below"],
-              ["Provincial tier", "**Subedar** (governor), **Diwan** (provincial revenue — deliberately independent of the subedar: an early check-and-balance), Bakshi, Sadr, Kotwal (town police), Faujdar (district law & order)"]
+              [
+                "**Wazir / Diwan-i-ala**",
+                "Revenue & finance head — the empire's CFO"
+              ],
+              [
+                "**Mir Bakshi**",
+                "Military pay & mansab administration — head of the military-personnel department"
+              ],
+              [
+                "**Sadr-us-Sudur**",
+                "Religious endowments, grants, judicial appointments"
+              ],
+              [
+                "**Khan-i-Saman**",
+                "Imperial household & state karkhanas"
+              ],
+              [
+                "**Qazi-ul-Quzat**",
+                "Chief judge — qazi network below"
+              ],
+              [
+                "Provincial tier",
+                "**Subedar** (governor), **Diwan** (provincial revenue — deliberately independent of the subedar: an early check-and-balance), Bakshi, Sadr, Kotwal (town police), Faujdar (district law & order)"
+              ]
             ]
           },
           {
@@ -250,6 +430,25 @@
             "text": "Exam tip: The examiner wants lineage, not just description: mansabdari → merit service → IAS; Todar Mal → Munro's ryotwari → AP revenue administration; Police Act 1861 → Prakash Singh. Two continuity chains and one critique (extraction vs welfare design) make a complete answer."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the colonial inheritance we still administer with",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The steel frame:** the **ICS** (Cornwallis's covenanted service, later Indianised) is the ancestor of the IAS; the **district as the unit** with the **Collector/DM** fusing revenue, magistracy and coordination survives largely intact.",
+              "**Statutes that still run India:** many colonial laws were only recently replaced — the **IPC/CrPC/Evidence Act (1860–1872)** became the **Bharatiya Nyaya Sanhita, Nagarik Suraksha Sanhita & Sakshya Adhiniyam (2023, effective 1 July 2024)**; the **Police Act 1861** still awaits comprehensive reform (*Prakash Singh*, 2006 directions).",
+              "**Continuity & change:** the **Mughal mansabdari/jagirdari** land-revenue apparatus was absorbed and reshaped by the **Permanent Settlement (1793), Ryotwari (Munro) and Mahalwari** systems — the Ryotwari system's imprint on Andhra/Rayalaseema revenue administration is directly citable.",
+              "**Assessment:** the colonial grammar gave India stability and uniformity but also a **control-oriented, secrecy-bound, elitist ethos** that reforms (RTI, citizen's charters, mission-mode e-gov) are still trying to democratise."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, Bharatiya Sakshya Adhiniyam** — replaced IPC/CrPC/Evidence Act; came into force **1 July 2024**.",
+          "**Ryotwari system** (Thomas Munro) — direct settlement with the cultivator; dominant in the Madras Presidency including coastal Andhra & Rayalaseema."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -269,12 +468,30 @@
       "Compare zamindari and ryotwari settlements and their long-run agrarian legacies in coastal Andhra."
     ],
     "glossary": [
-      { "term": "Mansabdari", "definition": "Mughal system of ranked imperial service (mansab = rank) combining civil and military hierarchy, with zat and sawar grades fixing pay and cavalry obligations." },
-      { "term": "Jagir", "definition": "Transferable, non-hereditary assignment of land revenue to a mansabdar in lieu of salary; its scarcity produced the late-Mughal 'jagirdari crisis'." },
-      { "term": "Zabti (dahsala) system", "definition": "Todar Mal's cash revenue settlement based on measured area, crop classification and ten-year average yields and prices." },
-      { "term": "Steel frame", "definition": "Epithet for the ICS — the small, elite, merit-recruited service that held colonial (and then independent) India's administration together." },
-      { "term": "Ryotwari settlement", "definition": "Munro-Read revenue system settling land revenue directly with the cultivating ryot, dominant in the Madras Presidency including coastal Andhra and Rayalaseema." },
-      { "term": "Covenanted civil service", "definition": "Company-era senior service bound by covenant, ancestor of the ICS/IAS; distinguished from the uncovenanted subordinate services." }
+      {
+        "term": "Mansabdari",
+        "definition": "Mughal system of ranked imperial service (mansab = rank) combining civil and military hierarchy, with zat and sawar grades fixing pay and cavalry obligations."
+      },
+      {
+        "term": "Jagir",
+        "definition": "Transferable, non-hereditary assignment of land revenue to a mansabdar in lieu of salary; its scarcity produced the late-Mughal 'jagirdari crisis'."
+      },
+      {
+        "term": "Zabti (dahsala) system",
+        "definition": "Todar Mal's cash revenue settlement based on measured area, crop classification and ten-year average yields and prices."
+      },
+      {
+        "term": "Steel frame",
+        "definition": "Epithet for the ICS — the small, elite, merit-recruited service that held colonial (and then independent) India's administration together."
+      },
+      {
+        "term": "Ryotwari settlement",
+        "definition": "Munro-Read revenue system settling land revenue directly with the cultivating ryot, dominant in the Madras Presidency including coastal Andhra and Rayalaseema."
+      },
+      {
+        "term": "Covenanted civil service",
+        "definition": "Company-era senior service bound by covenant, ancestor of the ICS/IAS; distinguished from the uncovenanted subordinate services."
+      }
     ]
   }
 ]

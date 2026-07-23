@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Power", "Content", "Key articles"],
+            "headers": [
+              "Power",
+              "Content",
+              "Key articles"
+            ],
             "rows": [
-              ["Executive", "Appoints CM & ministers, Advocate-General, SEC (conditions of service), State PSC members; all executive action runs in his name", "**Arts 154, 164, 165, 166**"],
-              ["Legislative", "Summons/prorogues/dissolves; addresses the House; **assent, withholding, return, or reservation of bills**; nominates 1/6 of Council; **ordinances**", "**Arts 174, 200–201, 213**"],
-              ["Financial", "Money bills need his recommendation; causes Budget to be laid; Contingency Fund advances", "**Arts 202, 207**"],
-              ["Judicial", "Pardons, reprieves, remissions for offences against state laws — **cannot pardon a death sentence or court-martial sentences**", "**Art 161**"]
+              [
+                "Executive",
+                "Appoints CM & ministers, Advocate-General, SEC (conditions of service), State PSC members; all executive action runs in his name",
+                "**Arts 154, 164, 165, 166**"
+              ],
+              [
+                "Legislative",
+                "Summons/prorogues/dissolves; addresses the House; **assent, withholding, return, or reservation of bills**; nominates 1/6 of Council; **ordinances**",
+                "**Arts 174, 200–201, 213**"
+              ],
+              [
+                "Financial",
+                "Money bills need his recommendation; causes Budget to be laid; Contingency Fund advances",
+                "**Arts 202, 207**"
+              ],
+              [
+                "Judicial",
+                "Pardons, reprieves, remissions for offences against state laws — **cannot pardon a death sentence or court-martial sentences**",
+                "**Art 161**"
+              ]
             ]
           }
         ]
@@ -51,11 +71,23 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Commission", "Key recommendation on the Governor"],
+            "headers": [
+              "Commission",
+              "Key recommendation on the Governor"
+            ],
             "rows": [
-              ["**Sarkaria (1988)**", "Eminent person from outside the state; CM to be consulted; not active in politics recently; Art 356 a last resort"],
-              ["**Venkatachaliah / NCRWC (2002)**", "Appointment by a committee (PM, Home Minister, LS Speaker, CM); removal only after state consultation"],
-              ["**Punchhi (2010)**", "Fixed **five-year tenure**; removal by impeachment-like process, not pleasure; drop 'chancellor' burdens; narrow discretion"]
+              [
+                "**Sarkaria (1988)**",
+                "Eminent person from outside the state; CM to be consulted; not active in politics recently; Art 356 a last resort"
+              ],
+              [
+                "**Venkatachaliah / NCRWC (2002)**",
+                "Appointment by a committee (PM, Home Minister, LS Speaker, CM); removal only after state consultation"
+              ],
+              [
+                "**Punchhi (2010)**",
+                "Fixed **five-year tenure**; removal by impeachment-like process, not pleasure; drop 'chancellor' burdens; narrow discretion"
+              ]
             ]
           },
           {
@@ -69,6 +101,53 @@
             "type": "quote",
             "text": "Exam tip: The Governor question is near-certain in some form. Always cite the trilogy — Bommai (floor test), B.P. Singhal (removal), Punjab/TN bills cases with the 2025 Presidential Reference — plus one Sarkaria and one Punchhi recommendation, and the AP Fifth Schedule role for local colour."
           }
+        ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the Governor in the courts (2016–2025)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Case",
+              "Year",
+              "Ratio on Governor's powers"
+            ],
+            "rows": [
+              [
+                "**Nabam Rebia**",
+                "2016",
+                "Governor cannot use discretion to summon/dissolve the House against the Council of Ministers' advice; discretion under Art 163 is narrow and reviewable."
+              ],
+              [
+                "**Shivraj Singh Chouhan**",
+                "2020",
+                "Governor CAN direct a floor test if there is prima facie loss of majority; the test is the constitutional method to resolve doubt."
+              ],
+              [
+                "**State of Punjab v. Governor**",
+                "2023",
+                "Governor cannot indefinitely withhold assent or refer bills back endlessly; must act 'as soon as possible'."
+              ],
+              [
+                "**State of Tamil Nadu v. Governor**",
+                "2025",
+                "SC read time-limits into Arts 200–201 and used **Art 142** to declare 10 long-pending bills 'deemed assented' — the strongest curb yet on gubernatorial delay."
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Committee blueprint for reform:** the **Sarkaria Commission (1988)** urged appointing eminent non-partisan persons after consulting the CM; the **Punchhi Commission (2010)** recommended a **fixed 5-year tenure**, removal only by a proper process, a bar on the Governor becoming a 'post-retirement sinecure', and confining discretion. The **NCRWC (2002)** echoed these. For AP/Telangana, the Governor's special report duty under the **Fifth Schedule** for Scheduled (agency) areas is an added constitutional function worth citing."
+          }
+        ],
+        "prelimsPointers": [
+          "**Nabam Rebia (2016)** — Governor's discretion under Art 163 is limited and judicially reviewable.",
+          "**Punchhi Commission** — recommended a fixed 5-year term for Governors and removal only through a fair process."
+        ],
+        "mainsAngles": [
+          "'The Governor has become an agent of the Centre rather than a constitutional head' — examine in light of recent Supreme Court verdicts (2016–2025)."
         ]
       }
     ],
@@ -88,11 +167,26 @@
       "Examine the Governor's special responsibilities in the Scheduled Areas of Andhra Pradesh under the Fifth Schedule."
     ],
     "glossary": [
-      { "term": "Doctrine of pleasure", "definition": "Principle (Art 156) that the Governor holds office during the pleasure of the President — i.e., is removable at any time; reviewable only for mala fides per B.P. Singhal (2010)." },
-      { "term": "Pocket veto (gubernatorial)", "definition": "Informal term for a Governor indefinitely withholding action on a bill under Article 200; held unconstitutional inaction by the Supreme Court (2023–2025)." },
-      { "term": "Reservation of a bill", "definition": "Governor's option under Art 200 to send a state bill to the President under Art 201, whereupon the President may assent, withhold, or direct reconsideration." },
-      { "term": "Article 163 discretion", "definition": "Express constitutional space where the Governor acts without ministerial advice — hung assemblies, Art 356 reports, Fifth Schedule functions, reservation of bills." },
-      { "term": "Deemed assent", "definition": "Court-declared assent to bills using Art 142 (TN case, April 2025); the November 2025 advisory opinion disapproved it as a general device while condemning indefinite gubernatorial inaction." }
+      {
+        "term": "Doctrine of pleasure",
+        "definition": "Principle (Art 156) that the Governor holds office during the pleasure of the President — i.e., is removable at any time; reviewable only for mala fides per B.P. Singhal (2010)."
+      },
+      {
+        "term": "Pocket veto (gubernatorial)",
+        "definition": "Informal term for a Governor indefinitely withholding action on a bill under Article 200; held unconstitutional inaction by the Supreme Court (2023–2025)."
+      },
+      {
+        "term": "Reservation of a bill",
+        "definition": "Governor's option under Art 200 to send a state bill to the President under Art 201, whereupon the President may assent, withhold, or direct reconsideration."
+      },
+      {
+        "term": "Article 163 discretion",
+        "definition": "Express constitutional space where the Governor acts without ministerial advice — hung assemblies, Art 356 reports, Fifth Schedule functions, reservation of bills."
+      },
+      {
+        "term": "Deemed assent",
+        "definition": "Court-declared assent to bills using Art 142 (TN case, April 2025); the November 2025 advisory opinion disapproved it as a general device while condemning indefinite gubernatorial inaction."
+      }
     ]
   },
   {
@@ -108,13 +202,37 @@
           },
           {
             "type": "table",
-            "headers": ["Judicial doctrine", "Meaning", "Leading case"],
+            "headers": [
+              "Judicial doctrine",
+              "Meaning",
+              "Leading case"
+            ],
             "rows": [
-              ["**Pith and substance**", "A law is valid if its true character falls within the legislature's list, despite incidental trespass", "**State of Bombay v. F.N. Balsara (1951)**"],
-              ["**Colourable legislation**", "What cannot be done directly cannot be done indirectly — substance over form", "**K.C. Gajapati Narayan Deo (1953)**"],
-              ["**Territorial nexus**", "A state law may operate on objects outside the state if a real connection exists", "**State of Bombay v. RMDC (1957)**"],
-              ["**Repugnancy**", "On concurrent subjects, Union law prevails; state law survives only with Presidential assent (Art 254(2))", "**M. Karunanidhi v. Union (1979)**"],
-              ["**Harmonious construction**", "Entries are read broadly and reconciled, not allowed to nullify each other", "**Tika Ramji (1956)**"]
+              [
+                "**Pith and substance**",
+                "A law is valid if its true character falls within the legislature's list, despite incidental trespass",
+                "**State of Bombay v. F.N. Balsara (1951)**"
+              ],
+              [
+                "**Colourable legislation**",
+                "What cannot be done directly cannot be done indirectly — substance over form",
+                "**K.C. Gajapati Narayan Deo (1953)**"
+              ],
+              [
+                "**Territorial nexus**",
+                "A state law may operate on objects outside the state if a real connection exists",
+                "**State of Bombay v. RMDC (1957)**"
+              ],
+              [
+                "**Repugnancy**",
+                "On concurrent subjects, Union law prevails; state law survives only with Presidential assent (Art 254(2))",
+                "**M. Karunanidhi v. Union (1979)**"
+              ],
+              [
+                "**Harmonious construction**",
+                "Entries are read broadly and reconciled, not allowed to nullify each other",
+                "**Tika Ramji (1956)**"
+              ]
             ]
           }
         ]
@@ -125,13 +243,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Route", "Condition", "Duration/limit"],
+            "headers": [
+              "Route",
+              "Condition",
+              "Duration/limit"
+            ],
             "rows": [
-              ["**Art 249**", "Rajya Sabha resolution by **2/3 present & voting** in **national interest**", "1 year at a time; law lapses 6 months after resolution ends"],
-              ["**Art 250**", "During a **National Emergency**", "Lapses 6 months after emergency ends"],
-              ["**Art 252**", "**Two or more states consent** (e.g., Wildlife Protection Act 1972)", "Only consenting/adopting states; only Parliament can amend"],
-              ["**Art 253**", "To implement **international agreements** (e.g., Environment Protection Act 1986 post-Stockholm)", "No time limit"],
-              ["**Art 356**", "During President's Rule in a state", "Law continues until repealed"]
+              [
+                "**Art 249**",
+                "Rajya Sabha resolution by **2/3 present & voting** in **national interest**",
+                "1 year at a time; law lapses 6 months after resolution ends"
+              ],
+              [
+                "**Art 250**",
+                "During a **National Emergency**",
+                "Lapses 6 months after emergency ends"
+              ],
+              [
+                "**Art 252**",
+                "**Two or more states consent** (e.g., Wildlife Protection Act 1972)",
+                "Only consenting/adopting states; only Parliament can amend"
+              ],
+              [
+                "**Art 253**",
+                "To implement **international agreements** (e.g., Environment Protection Act 1986 post-Stockholm)",
+                "No time limit"
+              ],
+              [
+                "**Art 356**",
+                "During President's Rule in a state",
+                "Law continues until repealed"
+              ]
             ]
           },
           {
@@ -166,6 +308,25 @@
             "text": "Exam tip: For a 15-marker on distribution of powers, spend one paragraph on the scheme, one on the five doctrines with cases, one on the five entry routes into the State List, and one on centralising trends + reform — that grid covers every variant of this question."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the centralising instruments, quantified",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Fiscal centralisation:** states incur roughly **60–62%** of general-government expenditure but raise under **40%** of revenue; **cesses and surcharges** — outside the divisible pool — have risen to a large share of gross central taxes, shrinking the effective transfer below the **41%** the 15th FC recommended.",
+              "**Administrative levers:** the **All-India Services (Art 312)** place IAS/IPS/IFoS officers — who run state administration — under Union cadre control; central **directions (Arts 256–257)** backed by **Art 365** can trigger President's Rule.",
+              "**Legislative encroachment:** the five gateways (**Arts 249, 250, 252, 253, 356**) plus liberal use of the **Concurrent List** (education, forests moved in by the 42nd Amendment) let Parliament reach into state fields.",
+              "**Scheme conditionality:** Centrally Sponsored Schemes with rigid fund-sharing and branding requirements reduce states to implementing agencies — the core of the 'competitive vs cooperative federalism' debate."
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Reform template:** widen the divisible pool to cap cesses, honour a consultative approach on Concurrent-List legislation, revive the **Inter-State Council (Art 263)**, and give states flexibility in CSS design. AP's SCS demand and Krishna-water grievances are the concrete localisation."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -185,11 +346,26 @@
       "Suggest reforms to rebalance legislative relations, drawing on Sarkaria and Punchhi."
     ],
     "glossary": [
-      { "term": "Doctrine of pith and substance", "definition": "Test of a law's true nature: if its substance falls within the enacting legislature's competence, incidental encroachment on another list does not invalidate it." },
-      { "term": "Colourable legislation", "definition": "A legislature doing indirectly what it cannot do directly; such disguised transgression of competence is void." },
-      { "term": "Territorial nexus", "definition": "A state law may reach objects outside its territory if there is a real and sufficient connection between the object and the state." },
-      { "term": "Article 246A", "definition": "Special provision (101st Amendment) giving Parliament and states simultaneous power over GST, with Parliament exclusive over inter-state supplies (IGST)." },
-      { "term": "Residuary power", "definition": "Union's power (Art 248, Entry 97 List I) over matters in no list — e.g., cyber law before specific entries, wealth tax as upheld in Dhillon." }
+      {
+        "term": "Doctrine of pith and substance",
+        "definition": "Test of a law's true nature: if its substance falls within the enacting legislature's competence, incidental encroachment on another list does not invalidate it."
+      },
+      {
+        "term": "Colourable legislation",
+        "definition": "A legislature doing indirectly what it cannot do directly; such disguised transgression of competence is void."
+      },
+      {
+        "term": "Territorial nexus",
+        "definition": "A state law may reach objects outside its territory if there is a real and sufficient connection between the object and the state."
+      },
+      {
+        "term": "Article 246A",
+        "definition": "Special provision (101st Amendment) giving Parliament and states simultaneous power over GST, with Parliament exclusive over inter-state supplies (IGST)."
+      },
+      {
+        "term": "Residuary power",
+        "definition": "Union's power (Art 248, Entry 97 List I) over matters in no list — e.g., cyber law before specific entries, wealth tax as upheld in Dhillon."
+      }
     ]
   },
   {
@@ -205,15 +381,47 @@
           },
           {
             "type": "table",
-            "headers": ["Feature", "73rd (Panchayats)", "74th (Municipalities)"],
+            "headers": [
+              "Feature",
+              "73rd (Panchayats)",
+              "74th (Municipalities)"
+            ],
             "rows": [
-              ["Structure", "**Three tiers**: village, intermediate (optional under 20 lakh popn.), district", "**Nagar Panchayat, Municipal Council, Municipal Corporation** (Art 243Q)"],
-              ["Deliberative organ", "**Gram Sabha (Art 243A)** — all registered voters of the village", "**Wards Committees (Art 243S)** in municipalities above 3 lakh"],
-              ["Reservations", "SC/ST in proportion; **not less than 1/3 for women** (Art 243D); chairperson posts too", "Same pattern (Art 243T)"],
-              ["Term & elections", "**5 years**; fresh election within 6 months of dissolution; conducted by the **State Election Commission (Art 243K)**", "Same; SEC (Art 243ZA)"],
-              ["Finances", "**State Finance Commission every 5 years (Art 243-I)**", "SFC covers municipalities (Art 243Y)"],
-              ["Functional domain", "**Eleventh Schedule — 29 subjects**", "**Twelfth Schedule — 18 subjects**"],
-              ["Planning", "—", "**District Planning Committee (Art 243ZD)**, Metropolitan PC (243ZE)"]
+              [
+                "Structure",
+                "**Three tiers**: village, intermediate (optional under 20 lakh popn.), district",
+                "**Nagar Panchayat, Municipal Council, Municipal Corporation** (Art 243Q)"
+              ],
+              [
+                "Deliberative organ",
+                "**Gram Sabha (Art 243A)** — all registered voters of the village",
+                "**Wards Committees (Art 243S)** in municipalities above 3 lakh"
+              ],
+              [
+                "Reservations",
+                "SC/ST in proportion; **not less than 1/3 for women** (Art 243D); chairperson posts too",
+                "Same pattern (Art 243T)"
+              ],
+              [
+                "Term & elections",
+                "**5 years**; fresh election within 6 months of dissolution; conducted by the **State Election Commission (Art 243K)**",
+                "Same; SEC (Art 243ZA)"
+              ],
+              [
+                "Finances",
+                "**State Finance Commission every 5 years (Art 243-I)**",
+                "SFC covers municipalities (Art 243Y)"
+              ],
+              [
+                "Functional domain",
+                "**Eleventh Schedule — 29 subjects**",
+                "**Twelfth Schedule — 18 subjects**"
+              ],
+              [
+                "Planning",
+                "—",
+                "**District Planning Committee (Art 243ZD)**, Metropolitan PC (243ZE)"
+              ]
             ]
           }
         ]
@@ -256,6 +464,28 @@
             "text": "Exam tip: Structure any local-governance answer as constitutional design → 3F implementation gap → one SC case (Kishansing Tomar) + one FC fact (15th FC local grants) → AP illustration (1994 Act + secretariat/volunteer debate) → way forward. Numbers 29, 18, 1/3, 5 years must appear."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — local government: the 3Fs gap and the data",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The 73rd/74th Amendments (1992) constitutionalised local government but devolution of the **3 Fs — Funds, Functions, Functionaries** — remains incomplete. Only a minority of the **29 subjects (Eleventh Schedule)** and **18 subjects (Twelfth Schedule)** are genuinely transferred in most states; **State Finance Commissions (Art 243-I/Y)** are often constituted late and their recommendations ignored; and elected bodies coexist uneasily with **parastatals and 'parallel bodies'** that bypass them."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Reservation:** one-third seats for women (**Art 243D**) — many states, including AP, raised this to **50%**; SC/ST reservation in proportion to population.",
+              "**Second ARA (6th Report, 'Local Governance')** recommended clear activity-mapping, own-revenue buoyancy, and an ombudsman for local bodies.",
+              "**AP's record:** the **Ward/Village Secretariat system** and **Grama/Ward Volunteers** (one volunteer per ~50 households) created a dense last-mile delivery grid — a nationally noted model of decentralised service delivery, though critics flag its politicisation and the parallel-structure question."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "'Three decades after the 73rd Amendment, local bodies remain governments without power' — evaluate the devolution of the 3 Fs.",
+          "Assess Andhra Pradesh's Village/Ward Secretariat-cum-Volunteer model as an innovation in last-mile governance."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -275,12 +505,30 @@
       "Urban local governance remains the weakest tier of Indian federalism — discuss with reference to the 74th Amendment's design gaps."
     ],
     "glossary": [
-      { "term": "Gram Sabha", "definition": "Body of all registered voters of a village panchayat area (Art 243A) — the only directly deliberative, non-elected organ in the constitutional scheme; foundation of accountability and social audit." },
-      { "term": "State Election Commission", "definition": "Independent constitutional authority (Arts 243K/243ZA) that superintends and conducts panchayat and municipal elections; removable only like a High Court judge." },
-      { "term": "State Finance Commission", "definition": "Body constituted every five years (Arts 243-I/243Y) to recommend tax sharing and grants between the state and its local bodies." },
-      { "term": "Activity mapping", "definition": "Assigning each of the 29/18 devolved subjects across tiers with matching funds and staff — the operational test of real devolution." },
-      { "term": "PESA", "definition": "Panchayats (Extension to Scheduled Areas) Act, 1996 — extends Part IX to Fifth Schedule areas with Gram Sabha primacy over resources, culture and land." },
-      { "term": "District Planning Committee", "definition": "Art 243ZD body consolidating rural and urban plans into a draft district development plan — largely dormant in practice." }
+      {
+        "term": "Gram Sabha",
+        "definition": "Body of all registered voters of a village panchayat area (Art 243A) — the only directly deliberative, non-elected organ in the constitutional scheme; foundation of accountability and social audit."
+      },
+      {
+        "term": "State Election Commission",
+        "definition": "Independent constitutional authority (Arts 243K/243ZA) that superintends and conducts panchayat and municipal elections; removable only like a High Court judge."
+      },
+      {
+        "term": "State Finance Commission",
+        "definition": "Body constituted every five years (Arts 243-I/243Y) to recommend tax sharing and grants between the state and its local bodies."
+      },
+      {
+        "term": "Activity mapping",
+        "definition": "Assigning each of the 29/18 devolved subjects across tiers with matching funds and staff — the operational test of real devolution."
+      },
+      {
+        "term": "PESA",
+        "definition": "Panchayats (Extension to Scheduled Areas) Act, 1996 — extends Part IX to Fifth Schedule areas with Gram Sabha primacy over resources, culture and land."
+      },
+      {
+        "term": "District Planning Committee",
+        "definition": "Art 243ZD body consolidating rural and urban plans into a draft district development plan — largely dormant in practice."
+      }
     ]
   }
 ]

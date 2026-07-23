@@ -12,16 +12,52 @@
           },
           {
             "type": "table",
-            "headers": ["Determinant of ethics in human action", "How it shapes conduct", "Example"],
+            "headers": [
+              "Determinant of ethics in human action",
+              "How it shapes conduct",
+              "Example"
+            ],
             "rows": [
-              ["**Individual**: conscience, values, character, emotional intelligence", "Internal compass; Gandhi's 'inner voice'", "Officer refuses a bribe though undetectable"],
-              ["**Family & upbringing**", "Primary value transmission (modelling, discipline)", "Honesty learnt from parental example"],
-              ["**Society & culture**", "Norms, customs, peer sanction", "Dowry persists where socially normalised"],
-              ["**Religion & philosophy**", "Doctrines of duty, karma, golden rule", "Nishkama karma (Gita) — duty without attachment to fruit"],
-              ["**Education & institutions**", "Codes, training, socialisation into roles", "Medical ethics via MCI/NMC code"],
-              ["**Law & polity**", "Deterrence + expressive function of law", "PC Act shifting bribe norms"],
-              ["**Leadership & role models**", "Tone at the top; mimicry of the admired", "An upright collector raising a district's norms"],
-              ["**Situation/context**", "Pressure, anonymity, incentives (Milgram, Zimbardo)", "Good people yielding to obedience pressure"]
+              [
+                "**Individual**: conscience, values, character, emotional intelligence",
+                "Internal compass; Gandhi's 'inner voice'",
+                "Officer refuses a bribe though undetectable"
+              ],
+              [
+                "**Family & upbringing**",
+                "Primary value transmission (modelling, discipline)",
+                "Honesty learnt from parental example"
+              ],
+              [
+                "**Society & culture**",
+                "Norms, customs, peer sanction",
+                "Dowry persists where socially normalised"
+              ],
+              [
+                "**Religion & philosophy**",
+                "Doctrines of duty, karma, golden rule",
+                "Nishkama karma (Gita) — duty without attachment to fruit"
+              ],
+              [
+                "**Education & institutions**",
+                "Codes, training, socialisation into roles",
+                "Medical ethics via MCI/NMC code"
+              ],
+              [
+                "**Law & polity**",
+                "Deterrence + expressive function of law",
+                "PC Act shifting bribe norms"
+              ],
+              [
+                "**Leadership & role models**",
+                "Tone at the top; mimicry of the admired",
+                "An upright collector raising a district's norms"
+              ],
+              [
+                "**Situation/context**",
+                "Pressure, anonymity, incentives (Milgram, Zimbardo)",
+                "Good people yielding to obedience pressure"
+              ]
             ]
           }
         ]
@@ -63,6 +99,55 @@
             "text": "Exam tip: This theme IS the definitional bedrock of the ethics section — memorise crisp one-line definitions (ethics/morals/values/law), the eight determinants, and five consequence domains. In case-study answers, explicitly name which determinant is operating; examiners reward that diagnostic vocabulary."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the normative theories toolkit",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Theory",
+              "Thinker",
+              "Test of a right act"
+            ],
+            "rows": [
+              [
+                "**Deontology (duty)**",
+                "Immanuel Kant",
+                "Act only on a maxim you can will as a universal law; treat persons as **ends, never merely means** (categorical imperative)"
+              ],
+              [
+                "**Consequentialism / Utilitarianism**",
+                "Bentham, J.S. Mill",
+                "Greatest happiness of the greatest number; Mill's higher vs lower pleasures"
+              ],
+              [
+                "**Virtue ethics**",
+                "Aristotle",
+                "Cultivate character; virtue is the **golden mean** between extremes; *eudaimonia*"
+              ],
+              [
+                "**Justice as fairness**",
+                "John Rawls",
+                "Principles chosen behind a **veil of ignorance**; the difference principle favours the worst-off"
+              ],
+              [
+                "**Ethics of care**",
+                "Gilligan, Noddings",
+                "Morality rooted in relationships & responsiveness, not just rules"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Indian ethical thought:** *Nishkama Karma* (Gita — duty without attachment to fruit), Gandhi's **Talisman** and 'seven social sins', Ambedkar's constitutional morality, Kautilya's *yogakshema*, and the **Thirukkural** — deploy an Indian anchor plus a Western theory in every ethics answer for balance and originality."
+          }
+        ],
+        "prelimsPointers": [
+          "**Categorical imperative** — Kant: treat humanity always as an end, never merely as a means.",
+          "**Veil of ignorance** — John Rawls' device for choosing just principles."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,12 +167,30 @@
       "What are the consequences of ethical erosion for governance? Illustrate with the trust-deficit costs in welfare delivery."
     ],
     "glossary": [
-      { "term": "Ethics", "definition": "The systematic study and practice of standards of right and wrong conduct — the rational evaluation of human action." },
-      { "term": "Values", "definition": "Enduring convictions about what is desirable (honesty, compassion, courage) that guide choices across situations." },
-      { "term": "Morals", "definition": "The actual codes of right conduct held by a person or community — the lived counterpart of ethical theory." },
-      { "term": "Meta-ethics", "definition": "Inquiry into the meaning and status of moral terms — whether 'good' is objective, subjective or emotive." },
-      { "term": "Categorical imperative", "definition": "Kant's supreme moral law: act only on maxims you could will as universal law; treat humanity always as an end, never merely as a means." },
-      { "term": "Nishkama karma", "definition": "The Gita's ideal of desireless action — performing one's duty without attachment to outcomes." }
+      {
+        "term": "Ethics",
+        "definition": "The systematic study and practice of standards of right and wrong conduct — the rational evaluation of human action."
+      },
+      {
+        "term": "Values",
+        "definition": "Enduring convictions about what is desirable (honesty, compassion, courage) that guide choices across situations."
+      },
+      {
+        "term": "Morals",
+        "definition": "The actual codes of right conduct held by a person or community — the lived counterpart of ethical theory."
+      },
+      {
+        "term": "Meta-ethics",
+        "definition": "Inquiry into the meaning and status of moral terms — whether 'good' is objective, subjective or emotive."
+      },
+      {
+        "term": "Categorical imperative",
+        "definition": "Kant's supreme moral law: act only on maxims you could will as universal law; treat humanity always as an end, never merely as a means."
+      },
+      {
+        "term": "Nishkama karma",
+        "definition": "The Gita's ideal of desireless action — performing one's duty without attachment to outcomes."
+      }
     ]
   },
   {
@@ -99,12 +202,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Dimension", "Core question", "Key content"],
+            "headers": [
+              "Dimension",
+              "Core question",
+              "Key content"
+            ],
             "rows": [
-              ["**Descriptive ethics**", "What do people actually believe/do?", "Empirical study of moral practices (anthropology of dowry, corruption norms)"],
-              ["**Meta-ethics**", "What does 'good' mean? Is morality objective?", "Cognitivism vs emotivism; moral realism vs relativism"],
-              ["**Normative ethics**", "What ought I do?", "**Teleology** (ends: utilitarianism), **Deontology** (duty: Kant), **Virtue ethics** (character: Aristotle); care ethics (Gilligan)"],
-              ["**Applied ethics**", "What is right in this domain?", "Bio-ethics, environmental ethics, media ethics, **administrative ethics**, international ethics, AI ethics"]
+              [
+                "**Descriptive ethics**",
+                "What do people actually believe/do?",
+                "Empirical study of moral practices (anthropology of dowry, corruption norms)"
+              ],
+              [
+                "**Meta-ethics**",
+                "What does 'good' mean? Is morality objective?",
+                "Cognitivism vs emotivism; moral realism vs relativism"
+              ],
+              [
+                "**Normative ethics**",
+                "What ought I do?",
+                "**Teleology** (ends: utilitarianism), **Deontology** (duty: Kant), **Virtue ethics** (character: Aristotle); care ethics (Gilligan)"
+              ],
+              [
+                "**Applied ethics**",
+                "What is right in this domain?",
+                "Bio-ethics, environmental ethics, media ethics, **administrative ethics**, international ethics, AI ethics"
+              ]
             ]
           },
           {
@@ -153,6 +276,27 @@
             "text": "Exam tip: This theme feeds case studies directly. Keep a four-step template: identify the relationship type → name the conflicting values (loyalty vs impartiality) → apply a test (publicity/universalisability) → give the institutional safeguard (disclosure, recusal). Quote Shastri or Patel once."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — public vs private morality & the case-study lens",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Dimensions of ethics** to name: **meta-ethics** (what 'good' means), **normative ethics** (which acts are right), **applied ethics** (bioethics, environmental, administrative), and **descriptive ethics** (what people actually believe).",
+              "**Public vs private:** a public servant's private virtue must translate into **public probity** — impartiality, non-partisanship, objectivity, and dedication to public service (the **Nolan Committee's seven principles of public life**: selflessness, integrity, objectivity, accountability, openness, honesty, leadership).",
+              "**Conflict of interest** and the duty to declare it; the ethics of using discretion; and **whistle-blowing** as the point where private conscience meets public duty.",
+              "**Answer technique:** for any case study, map **stakeholders → competing values → options → the option that best upholds constitutional & public-service values → justification.** Cite the Nolan principles and one Indian exemplar."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Nolan Committee** — seven principles of public life (UK): selflessness, integrity, objectivity, accountability, openness, honesty, leadership."
+        ],
+        "mainsAngles": [
+          "Distinguish between private morality and public morality with reference to the conduct expected of a civil servant."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -171,12 +315,30 @@
       "In the era of doorstep delivery, proximity between officials and beneficiaries multiplies ethical friction — discuss with the AP secretariat-volunteer model."
     ],
     "glossary": [
-      { "term": "Applied ethics", "definition": "The branch of ethics resolving concrete domain-specific questions — administrative, medical, environmental, business, AI." },
-      { "term": "Impartiality", "definition": "Deciding on relevant merits alone, without favour or bias toward relations, friends or groups — the first virtue of public office." },
-      { "term": "Conflict of interest", "definition": "A situation where private interest could improperly influence official duty; managed by disclosure, recusal or divestment." },
-      { "term": "Trusteeship", "definition": "Gandhian doctrine that possessions and power are held in trust for society's benefit, not personal enjoyment." },
-      { "term": "Publicity test", "definition": "Heuristic that conduct is ethical only if its justification could be openly stated without shame — a screen for hidden partiality." },
-      { "term": "Care ethics", "definition": "Normative approach (Gilligan, Noddings) centring relationships, empathy and responsiveness — a corrective to purely rule-based ethics." }
+      {
+        "term": "Applied ethics",
+        "definition": "The branch of ethics resolving concrete domain-specific questions — administrative, medical, environmental, business, AI."
+      },
+      {
+        "term": "Impartiality",
+        "definition": "Deciding on relevant merits alone, without favour or bias toward relations, friends or groups — the first virtue of public office."
+      },
+      {
+        "term": "Conflict of interest",
+        "definition": "A situation where private interest could improperly influence official duty; managed by disclosure, recusal or divestment."
+      },
+      {
+        "term": "Trusteeship",
+        "definition": "Gandhian doctrine that possessions and power are held in trust for society's benefit, not personal enjoyment."
+      },
+      {
+        "term": "Publicity test",
+        "definition": "Heuristic that conduct is ethical only if its justification could be openly stated without shame — a screen for hidden partiality."
+      },
+      {
+        "term": "Care ethics",
+        "definition": "Normative approach (Gilligan, Noddings) centring relationships, empathy and responsiveness — a corrective to purely rule-based ethics."
+      }
     ]
   },
   {
@@ -192,12 +354,32 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Meaning", "Instrument in Indian public service"],
+            "headers": [
+              "Concept",
+              "Meaning",
+              "Instrument in Indian public service"
+            ],
             "rows": [
-              ["Integrity", "Wholeness of values-conduct", "Integrity pacts (CVC), annual property returns, **integrity index**"],
-              ["**Accountability**", "Answerability + consequences for the use of power", "APAR chain, CAG-PAC, vigilance, RTI, courts, social audit"],
-              ["Probity", "Proven adherence to public rectitude — integrity **demonstrated in office**", "Conduct Rules 1964/1968, PC Act 1988 (as amended 2018)"],
-              ["Fiduciary duty", "Public office as trust", "Oath of office; trusteeship doctrine"]
+              [
+                "Integrity",
+                "Wholeness of values-conduct",
+                "Integrity pacts (CVC), annual property returns, **integrity index**"
+              ],
+              [
+                "**Accountability**",
+                "Answerability + consequences for the use of power",
+                "APAR chain, CAG-PAC, vigilance, RTI, courts, social audit"
+              ],
+              [
+                "Probity",
+                "Proven adherence to public rectitude — integrity **demonstrated in office**",
+                "Conduct Rules 1964/1968, PC Act 1988 (as amended 2018)"
+              ],
+              [
+                "Fiduciary duty",
+                "Public office as trust",
+                "Oath of office; trusteeship doctrine"
+              ]
             ]
           }
         ]
@@ -242,6 +424,28 @@
             "text": "Exam tip: Define integrity vs honesty vs probity in the first three lines — that distinction alone separates answers. Then one accountability map (five rings), one 2nd ARC recommendation, one AP exemplar (S.R. Sankaran). For case studies, integrity = consistency under pressure; show the pressure, then the consistency."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — integrity, probity and the anti-corruption chain",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Integrity** = consistency between values, words and actions even when unobserved; distinct from mere honesty (which is truth-telling) — integrity is the **whole-cloth** virtue that binds the others.",
+              "**The architecture of probity in India:** **Prevention of Corruption Act, 1988 (amended 2018 — bribe-giver also punishable, prior sanction for investigating serving officers)**, **CVC (statutory 2003)**, **CBI**, **Lokpal & Lokayuktas Act, 2013**, **Benami & PMLA**, and asset-declaration norms.",
+              "**Foundational & civic values:** the 4th report of the **2nd ARC ('Ethics in Governance')** recommended a Code of Ethics, protection for whistle-blowers, and reducing discretion; **e-governance** as a structural cure for petty corruption.",
+              "**Beyond deterrence:** building integrity needs **ethical socialisation, leadership by example, transparent systems, and reduced monopoly + discretion − accountability** (Klitgaard's formula: **Corruption = Monopoly + Discretion − Accountability**)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Klitgaard's equation:** Corruption = Monopoly + Discretion − Accountability.",
+          "**Prevention of Corruption (Amendment) Act, 2018** — criminalised bribe-giving; prior sanction needed to investigate serving public servants."
+        ],
+        "mainsAngles": [
+          "'Integrity is doing the right thing when no one is watching' — discuss its centrality to public service with the Indian anti-corruption framework."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -261,12 +465,30 @@
       "Sketch the integrity-building strategy you would adopt as a district collector, distinguishing opportunity-reduction, deterrence and value-formation."
     ],
     "glossary": [
-      { "term": "Integrity", "definition": "Consistency of values, words and deeds across contexts — incorruptible wholeness of character; broader than honesty." },
-      { "term": "Probity", "definition": "Demonstrated adherence to the highest standards of rectitude in public office — integrity as verified public practice." },
-      { "term": "Accountability", "definition": "The duty of power-holders to explain their use of public authority and to bear consequences for its misuse." },
-      { "term": "Integrity Pact", "definition": "CVC-promoted agreement between procurer and bidders forswearing bribery, monitored by independent external monitors." },
-      { "term": "Section 17A, PC Act", "definition": "2018 provision requiring prior approval before inquiry into decisions taken by public servants in official functions — the honest-error shield." },
-      { "term": "Institutional integrity", "definition": "An institution's fidelity to its constitutional purpose, protected through appointment quality, autonomy and transparency (phrase from the SC's CVC appointment ruling, 2011)." }
+      {
+        "term": "Integrity",
+        "definition": "Consistency of values, words and deeds across contexts — incorruptible wholeness of character; broader than honesty."
+      },
+      {
+        "term": "Probity",
+        "definition": "Demonstrated adherence to the highest standards of rectitude in public office — integrity as verified public practice."
+      },
+      {
+        "term": "Accountability",
+        "definition": "The duty of power-holders to explain their use of public authority and to bear consequences for its misuse."
+      },
+      {
+        "term": "Integrity Pact",
+        "definition": "CVC-promoted agreement between procurer and bidders forswearing bribery, monitored by independent external monitors."
+      },
+      {
+        "term": "Section 17A, PC Act",
+        "definition": "2018 provision requiring prior approval before inquiry into decisions taken by public servants in official functions — the honest-error shield."
+      },
+      {
+        "term": "Institutional integrity",
+        "definition": "An institution's fidelity to its constitutional purpose, protected through appointment quality, autonomy and transparency (phrase from the SC's CVC appointment ruling, 2011)."
+      }
     ]
   }
 ]

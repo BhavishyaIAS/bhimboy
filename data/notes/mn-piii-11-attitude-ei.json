@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Function (Katz)", "What the attitude does for the holder", "Administrative example"],
+            "headers": [
+              "Function (Katz)",
+              "What the attitude does for the holder",
+              "Administrative example"
+            ],
             "rows": [
-              ["**Utilitarian/adjustive**", "Maximises reward, minimises punishment", "Pro-compliance attitude to taxes when refunds are smooth"],
-              ["**Knowledge**", "Organises a complex world into schemas", "Stereotypes as (dangerous) cognitive shortcuts in policing"],
-              ["**Ego-defensive**", "Protects self-esteem from threat", "Blaming 'the system' to avoid confronting one's own inefficiency"],
-              ["**Value-expressive**", "Expresses core self-concept", "Wearing khadi expressing swadeshi identity; conspicuous integrity"]
+              [
+                "**Utilitarian/adjustive**",
+                "Maximises reward, minimises punishment",
+                "Pro-compliance attitude to taxes when refunds are smooth"
+              ],
+              [
+                "**Knowledge**",
+                "Organises a complex world into schemas",
+                "Stereotypes as (dangerous) cognitive shortcuts in policing"
+              ],
+              [
+                "**Ego-defensive**",
+                "Protects self-esteem from threat",
+                "Blaming 'the system' to avoid confronting one's own inefficiency"
+              ],
+              [
+                "**Value-expressive**",
+                "Expresses core self-concept",
+                "Wearing khadi expressing swadeshi identity; conspicuous integrity"
+              ]
             ]
           }
         ]
@@ -59,6 +79,26 @@
             "text": "Exam tip: Definitions + ABC + Katz's four functions + LaPiere/dissonance + ELM is the complete toolkit. In case studies, name the function an attitude is serving (ego-defensive?) and the route you'd use to change it — that vocabulary converts psychology into administration."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — attitude, the psychology precisely",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**ABC / tri-component model:** **Affective** (feelings), **Behavioural** (action tendency), **Cognitive** (beliefs) — the standard structure to define attitude in an answer.",
+              "**Functions (Katz):** **adjustive** (rewards), **ego-defensive** (protects self-image), **value-expressive** (asserts identity), **knowledge** (organises the world) — explains why attitudes are sticky.",
+              "**Attitude → behaviour link:** the **Theory of Planned Behaviour (Ajzen)** — intention driven by attitude, subjective norms, perceived control; and **cognitive dissonance (Festinger)** — discomfort from inconsistency drives attitude change.",
+              "**Change levers:** persuasion (**Elaboration Likelihood Model** — central vs peripheral route), contact hypothesis (Allport) for prejudice reduction, and role of education, media and law in shaping civic attitudes (e.g., Swachh Bharat as attitude engineering)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Tri-component (ABC) model** of attitude: Affective, Behavioural, Cognitive.",
+          "**Cognitive dissonance** — Leon Festinger.",
+          "**Theory of Planned Behaviour** — Icek Ajzen."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -78,12 +118,30 @@
       "Implicit bias can defeat professed equality — analyse its administrative dangers and debiasing strategies."
     ],
     "glossary": [
-      { "term": "Attitude", "definition": "A learned, enduring evaluation — positive or negative — of an object, person or idea, predisposing responses toward it." },
-      { "term": "Cognitive dissonance", "definition": "Psychological tension from holding inconsistent cognitions or acting against one's attitudes, typically resolved by changing the attitude." },
-      { "term": "Implicit attitude", "definition": "Automatic, unconscious evaluation that may diverge from professed views — the seat of unexamined bias." },
-      { "term": "Central route persuasion", "definition": "Attitude change through careful processing of argument quality; produces durable, behaviour-linked attitudes." },
-      { "term": "Subjective norm", "definition": "Perceived social expectation regarding a behaviour — often the decisive lever in public-behaviour campaigns." },
-      { "term": "Confirmation bias", "definition": "The tendency to seek and weigh evidence that supports existing attitudes while discounting contrary evidence." }
+      {
+        "term": "Attitude",
+        "definition": "A learned, enduring evaluation — positive or negative — of an object, person or idea, predisposing responses toward it."
+      },
+      {
+        "term": "Cognitive dissonance",
+        "definition": "Psychological tension from holding inconsistent cognitions or acting against one's attitudes, typically resolved by changing the attitude."
+      },
+      {
+        "term": "Implicit attitude",
+        "definition": "Automatic, unconscious evaluation that may diverge from professed views — the seat of unexamined bias."
+      },
+      {
+        "term": "Central route persuasion",
+        "definition": "Attitude change through careful processing of argument quality; produces durable, behaviour-linked attitudes."
+      },
+      {
+        "term": "Subjective norm",
+        "definition": "Perceived social expectation regarding a behaviour — often the decisive lever in public-behaviour campaigns."
+      },
+      {
+        "term": "Confirmation bias",
+        "definition": "The tendency to seek and weigh evidence that supports existing attitudes while discounting contrary evidence."
+      }
     ]
   },
   {
@@ -99,10 +157,22 @@
           },
           {
             "type": "table",
-            "headers": ["Attitude type", "Formation drivers", "Administrative significance"],
+            "headers": [
+              "Attitude type",
+              "Formation drivers",
+              "Administrative significance"
+            ],
             "rows": [
-              ["Moral", "Family & early socialisation, religion, **moral emotions** (guilt, empathy, disgust), Kohlberg-stage reasoning, moral exemplars", "Predicts integrity under pressure; source of conscientious objection; also of moral rigidity"],
-              ["Political", "Family transmission (strongest single predictor), class/caste/region identity, media ecosystems, generational events (Emergency, liberalisation, bifurcation of AP)", "Officer must be **politically aware but politically neutral** — serving all attitudes without sharing any publicly"]
+              [
+                "Moral",
+                "Family & early socialisation, religion, **moral emotions** (guilt, empathy, disgust), Kohlberg-stage reasoning, moral exemplars",
+                "Predicts integrity under pressure; source of conscientious objection; also of moral rigidity"
+              ],
+              [
+                "Political",
+                "Family transmission (strongest single predictor), class/caste/region identity, media ecosystems, generational events (Emergency, liberalisation, bifurcation of AP)",
+                "Officer must be **politically aware but politically neutral** — serving all attitudes without sharing any publicly"
+              ]
             ]
           },
           {
@@ -150,6 +220,28 @@
             "text": "Exam tip: This theme = definitions (moral vs political attitude) + Asch/Milgram/Janis with numbers + two administrative safeguards + one AP application. Examiners specifically reward the experiments' figures (1/3, 65%) and the institutional translation."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — moral/political attitude & social influence",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Moral attitude** in an administrator = commitment to fairness, compassion and integrity as settled dispositions; **political attitude** = orientation to authority, ideology and the state — the civil servant must hold **political neutrality** while serving the government of the day.",
+              "**Social influence classics:** **Asch (conformity)**, **Milgram (obedience to authority)** — chilling lessons on how ordinary people commit wrongs under authority; **Zimbardo (Stanford Prison)** on situational power; **bystander effect (Latané & Darley)** — the diffusion of responsibility that lets corruption/atrocity persist.",
+              "**Why it matters for governance:** Milgram/Zimbardo explain 'just following orders' and institutional cruelty — the counter is **whistle-blowing, ethical training and constitutional morality**; Asch explains groupthink in committees.",
+              "**AP field view:** attitude-shaping in the field (frontline workers' empathy toward beneficiaries), and prejudice reduction through inclusive schemes."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Milgram experiment** — obedience to authority; **Asch** — conformity; **Latané & Darley** — bystander effect.",
+          "**Contact hypothesis** — Gordon Allport, on reducing prejudice through inter-group contact."
+        ],
+        "mainsAngles": [
+          "'The Milgram and Zimbardo experiments explain how good people do bad things in institutions' — discuss the implications for administrative ethics."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -169,12 +261,30 @@
       "A civil servant must be politically neutral but not morally neutral — elaborate with the constitutional-morality standard."
     ],
     "glossary": [
-      { "term": "Moral attitude", "definition": "An evaluative disposition grounded in judgments of right and wrong, experienced as objective and resistant to compromise." },
-      { "term": "Political attitude", "definition": "Disposition toward power, institutions, parties and policy — shaped by family, identity and formative events." },
-      { "term": "Conformity", "definition": "Adjusting behaviour or belief to group norms under normative or informational influence (Asch)." },
-      { "term": "Obedience", "definition": "Compliance with directives of authority — capable of overriding conscience under gradual escalation (Milgram)." },
-      { "term": "Groupthink", "definition": "Deterioration of judgment in cohesive groups that prize consensus over realistic appraisal (Janis)." },
-      { "term": "Constitutional morality", "definition": "Fidelity to the Constitution's values — equality, dignity, due process — as the public servant's operative moral compass, above popular or personal morality." }
+      {
+        "term": "Moral attitude",
+        "definition": "An evaluative disposition grounded in judgments of right and wrong, experienced as objective and resistant to compromise."
+      },
+      {
+        "term": "Political attitude",
+        "definition": "Disposition toward power, institutions, parties and policy — shaped by family, identity and formative events."
+      },
+      {
+        "term": "Conformity",
+        "definition": "Adjusting behaviour or belief to group norms under normative or informational influence (Asch)."
+      },
+      {
+        "term": "Obedience",
+        "definition": "Compliance with directives of authority — capable of overriding conscience under gradual escalation (Milgram)."
+      },
+      {
+        "term": "Groupthink",
+        "definition": "Deterioration of judgment in cohesive groups that prize consensus over realistic appraisal (Janis)."
+      },
+      {
+        "term": "Constitutional morality",
+        "definition": "Fidelity to the Constitution's values — equality, dignity, due process — as the public servant's operative moral compass, above popular or personal morality."
+      }
     ]
   },
   {
@@ -190,13 +300,37 @@
           },
           {
             "type": "table",
-            "headers": ["Goleman component", "Essence", "Administrative behaviour"],
+            "headers": [
+              "Goleman component",
+              "Essence",
+              "Administrative behaviour"
+            ],
             "rows": [
-              ["Self-awareness", "Knowing one's emotions, triggers, limits", "Recognising irritation before a public hearing; seeking feedback on blind spots"],
-              ["Self-regulation", "Managing impulses; staying composed", "No outburst under provocation at a dharna; suspending judgment on incomplete files"],
-              ["Motivation (intrinsic)", "Drive beyond salary/status; optimism after setbacks", "Sustained energy in Aspirational-District postings; initiative without incentives"],
-              ["Empathy", "Reading others' feelings; perspective-taking", "Sensing unstated fear in a displaced family; designing queues for the elderly"],
-              ["Social skills", "Managing relationships, networks, conflict", "Negotiating land consent; aligning line departments without authority"]
+              [
+                "Self-awareness",
+                "Knowing one's emotions, triggers, limits",
+                "Recognising irritation before a public hearing; seeking feedback on blind spots"
+              ],
+              [
+                "Self-regulation",
+                "Managing impulses; staying composed",
+                "No outburst under provocation at a dharna; suspending judgment on incomplete files"
+              ],
+              [
+                "Motivation (intrinsic)",
+                "Drive beyond salary/status; optimism after setbacks",
+                "Sustained energy in Aspirational-District postings; initiative without incentives"
+              ],
+              [
+                "Empathy",
+                "Reading others' feelings; perspective-taking",
+                "Sensing unstated fear in a displaced family; designing queues for the elderly"
+              ],
+              [
+                "Social skills",
+                "Managing relationships, networks, conflict",
+                "Negotiating land consent; aligning line departments without authority"
+              ]
             ]
           }
         ]
@@ -238,6 +372,45 @@
             "text": "Exam tip: EI questions are application questions in disguise — every mark lies in the administrative translation column. Prepare one crisis, one counter-service and one negotiation example from AP and reuse them across EI, attitude and leadership questions."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — emotional intelligence in administration",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Model",
+              "Components",
+              "Note"
+            ],
+            "rows": [
+              [
+                "**Goleman (mixed)**",
+                "Self-awareness, self-regulation, motivation, empathy, social skills",
+                "The most exam-cited framework"
+              ],
+              [
+                "**Mayer–Salovey (ability)**",
+                "Perceive, use, understand, manage emotions",
+                "EI as a measurable cognitive ability"
+              ],
+              [
+                "**Bar-On**",
+                "Emotional-social intelligence (EQ-i)",
+                "Well-being orientation"
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Where EI bites in governance:** de-escalating public grievances and communal tension, empathetic disaster/relief administration, leading demoralised teams, resisting stress-induced ethical shortcuts, and negotiating with stakeholders. **Answer craft:** pair a Goleman component with a concrete administrative scenario (e.g., empathy → a Collector handling farmer distress; self-regulation → an officer under political pressure) — EI is best shown, not defined."
+          }
+        ],
+        "prelimsPointers": [
+          "**Daniel Goleman** popularised EI with five components (self-awareness, self-regulation, motivation, empathy, social skills).",
+          "**Mayer & Salovey** — the ability model of emotional intelligence."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -257,12 +430,30 @@
       "Analyse Andhra Pradesh's zero-casualty cyclone doctrine as emotional intelligence institutionalised."
     ],
     "glossary": [
-      { "term": "Emotional intelligence", "definition": "The ability to perceive, understand, use and manage emotions in oneself and others to guide effective thought and action." },
-      { "term": "Self-regulation", "definition": "Managing disruptive impulses and moods — composure, adaptability and considered response under pressure." },
-      { "term": "Empathy", "definition": "Accurately sensing and considering others' emotions and perspectives — cognitive, emotional and compassionate variants." },
-      { "term": "Amygdala hijack", "definition": "A rapid, overwhelming emotional reaction that bypasses deliberative brain circuits — the failure mode self-regulation prevents." },
-      { "term": "Emotional labour", "definition": "Managing one's displayed emotions as part of a work role — the unacknowledged workload of frontline public servants." },
-      { "term": "Procedural justice", "definition": "Fairness of decision processes (voice, neutrality, respect, trustworthiness) — the strongest predictor of citizen acceptance of authority." }
+      {
+        "term": "Emotional intelligence",
+        "definition": "The ability to perceive, understand, use and manage emotions in oneself and others to guide effective thought and action."
+      },
+      {
+        "term": "Self-regulation",
+        "definition": "Managing disruptive impulses and moods — composure, adaptability and considered response under pressure."
+      },
+      {
+        "term": "Empathy",
+        "definition": "Accurately sensing and considering others' emotions and perspectives — cognitive, emotional and compassionate variants."
+      },
+      {
+        "term": "Amygdala hijack",
+        "definition": "A rapid, overwhelming emotional reaction that bypasses deliberative brain circuits — the failure mode self-regulation prevents."
+      },
+      {
+        "term": "Emotional labour",
+        "definition": "Managing one's displayed emotions as part of a work role — the unacknowledged workload of frontline public servants."
+      },
+      {
+        "term": "Procedural justice",
+        "definition": "Fairness of decision processes (voice, neutrality, respect, trustworthiness) — the strongest predictor of citizen acceptance of authority."
+      }
     ]
   }
 ]

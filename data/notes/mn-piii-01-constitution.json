@@ -25,21 +25,77 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Feature", "What it means", "Key anchor"],
+            "headers": [
+              "Feature",
+              "What it means",
+              "Key anchor"
+            ],
             "rows": [
-              ["Lengthiest written constitution", "Single document for Union + States, detailed administration", "395→~470 Articles"],
-              ["Blend of rigidity & flexibility", "Some provisions by special majority, some by simple majority, some need state ratification", "**Article 368**, Part XX"],
-              ["Parliamentary government", "Executive responsible to legislature; nominal vs real executive", "**Articles 74, 75, 163, 164**"],
-              ["Federal system with unitary bias", "Dual polity, but strong Centre", "**'quasi-federal' — K.C. Wheare**"],
-              ["Integrated & independent judiciary", "Single hierarchy with Supreme Court at apex, enforces Union and state laws", "**Articles 124–147, 214–231**"],
-              ["Fundamental Rights", "Justiciable limitations on the State", "**Part III (Arts 12–35)**"],
-              ["Directive Principles", "Non-justiciable goals of a welfare state", "**Part IV (Arts 36–51)**"],
-              ["Fundamental Duties", "Added by **42nd Amendment, 1976** on **Swaran Singh Committee** advice", "**Part IV-A, Art 51A** (11 duties after 86th Amdt)"],
-              ["Secular state", "No state religion; equal respect to all — 'principled distance'", "**Arts 25–28**; word added 1976"],
-              ["Universal adult franchise", "Every citizen 18+ votes (61st Amendment reduced from 21)", "**Article 326**"],
-              ["Single citizenship", "Only Indian citizenship, unlike the USA", "**Part II (Arts 5–11)**"],
-              ["Emergency provisions", "Converts federal structure into unitary during crises", "**Arts 352, 356, 360**"],
-              ["Three-tier government", "Panchayats and Municipalities constitutionalised, 1992", "**73rd & 74th Amendments; Parts IX, IX-A**"]
+              [
+                "Lengthiest written constitution",
+                "Single document for Union + States, detailed administration",
+                "395→~470 Articles"
+              ],
+              [
+                "Blend of rigidity & flexibility",
+                "Some provisions by special majority, some by simple majority, some need state ratification",
+                "**Article 368**, Part XX"
+              ],
+              [
+                "Parliamentary government",
+                "Executive responsible to legislature; nominal vs real executive",
+                "**Articles 74, 75, 163, 164**"
+              ],
+              [
+                "Federal system with unitary bias",
+                "Dual polity, but strong Centre",
+                "**'quasi-federal' — K.C. Wheare**"
+              ],
+              [
+                "Integrated & independent judiciary",
+                "Single hierarchy with Supreme Court at apex, enforces Union and state laws",
+                "**Articles 124–147, 214–231**"
+              ],
+              [
+                "Fundamental Rights",
+                "Justiciable limitations on the State",
+                "**Part III (Arts 12–35)**"
+              ],
+              [
+                "Directive Principles",
+                "Non-justiciable goals of a welfare state",
+                "**Part IV (Arts 36–51)**"
+              ],
+              [
+                "Fundamental Duties",
+                "Added by **42nd Amendment, 1976** on **Swaran Singh Committee** advice",
+                "**Part IV-A, Art 51A** (11 duties after 86th Amdt)"
+              ],
+              [
+                "Secular state",
+                "No state religion; equal respect to all — 'principled distance'",
+                "**Arts 25–28**; word added 1976"
+              ],
+              [
+                "Universal adult franchise",
+                "Every citizen 18+ votes (61st Amendment reduced from 21)",
+                "**Article 326**"
+              ],
+              [
+                "Single citizenship",
+                "Only Indian citizenship, unlike the USA",
+                "**Part II (Arts 5–11)**"
+              ],
+              [
+                "Emergency provisions",
+                "Converts federal structure into unitary during crises",
+                "**Arts 352, 356, 360**"
+              ],
+              [
+                "Three-tier government",
+                "Panchayats and Municipalities constitutionalised, 1992",
+                "**73rd & 74th Amendments; Parts IX, IX-A**"
+              ]
             ]
           }
         ]
@@ -50,19 +106,55 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Source", "Provisions taken"],
+            "headers": [
+              "Source",
+              "Provisions taken"
+            ],
             "rows": [
-              ["**Government of India Act, 1935**", "Federal scheme, office of Governor, judiciary, Public Service Commissions, emergency provisions, administrative detail (the largest single source)"],
-              ["**Britain**", "Parliamentary system, rule of law, legislative procedure, single citizenship, cabinet system, prerogative writs, bicameralism"],
-              ["**USA**", "Fundamental Rights, judicial review, independence of judiciary, impeachment of President, removal of judges, post of Vice-President"],
-              ["**Ireland**", "Directive Principles, nomination of members to Rajya Sabha, method of electing the President"],
-              ["**Canada**", "Federation with a strong Centre, residuary powers with the Centre, Centre-appointed Governors, advisory jurisdiction of Supreme Court"],
-              ["**Australia**", "Concurrent List, freedom of inter-state trade (**Art 301**), joint sitting of the two Houses"],
-              ["**USSR**", "Fundamental Duties, ideals of justice (social, economic, political) in the Preamble"],
-              ["**France**", "Republic; ideals of liberty, equality, fraternity"],
-              ["**Germany (Weimar)**", "Suspension of Fundamental Rights during Emergency"],
-              ["**South Africa**", "Procedure for amendment, election of Rajya Sabha members"],
-              ["**Japan**", "'Procedure established by law' (**Article 21**)"]
+              [
+                "**Government of India Act, 1935**",
+                "Federal scheme, office of Governor, judiciary, Public Service Commissions, emergency provisions, administrative detail (the largest single source)"
+              ],
+              [
+                "**Britain**",
+                "Parliamentary system, rule of law, legislative procedure, single citizenship, cabinet system, prerogative writs, bicameralism"
+              ],
+              [
+                "**USA**",
+                "Fundamental Rights, judicial review, independence of judiciary, impeachment of President, removal of judges, post of Vice-President"
+              ],
+              [
+                "**Ireland**",
+                "Directive Principles, nomination of members to Rajya Sabha, method of electing the President"
+              ],
+              [
+                "**Canada**",
+                "Federation with a strong Centre, residuary powers with the Centre, Centre-appointed Governors, advisory jurisdiction of Supreme Court"
+              ],
+              [
+                "**Australia**",
+                "Concurrent List, freedom of inter-state trade (**Art 301**), joint sitting of the two Houses"
+              ],
+              [
+                "**USSR**",
+                "Fundamental Duties, ideals of justice (social, economic, political) in the Preamble"
+              ],
+              [
+                "**France**",
+                "Republic; ideals of liberty, equality, fraternity"
+              ],
+              [
+                "**Germany (Weimar)**",
+                "Suspension of Fundamental Rights during Emergency"
+              ],
+              [
+                "**South Africa**",
+                "Procedure for amendment, election of Rajya Sabha members"
+              ],
+              [
+                "**Japan**",
+                "'Procedure established by law' (**Article 21**)"
+              ]
             ]
           },
           {
@@ -102,6 +194,92 @@
             "text": "Exam tip: For any 'salient features' question, structure the answer as written-ness → blend of rigidity/flexibility → parliamentary → federal-with-unitary-bias → rights/duties/DPSP trinity → independent judiciary, and close with Granville Austin's phrase that the Constitution is 'first and foremost a social document'."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the amendment-power saga & basic structure",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The single most tested theme is the **evolution of Parliament's amending power under Article 368** — a duel between parliamentary sovereignty and constitutional supremacy. Trace it as a chain and you can answer almost any 'basic structure' question."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Case",
+              "Year",
+              "Holding on amending power"
+            ],
+            "rows": [
+              [
+                "**Shankari Prasad**",
+                "1951",
+                "Parliament can amend even Fundamental Rights; 'law' in Art 13 means ordinary law, not a constitutional amendment (1st Amendment upheld)."
+              ],
+              [
+                "**Sajjan Singh**",
+                "1965",
+                "Reaffirmed Shankari Prasad; but Justice Hidayatullah first doubted whether FRs are 'a plaything' of majorities."
+              ],
+              [
+                "**Golak Nath**",
+                "1967",
+                "Reversed: Parliament CANNOT abridge Fundamental Rights; an amendment IS 'law' under Art 13. Prospective overruling used."
+              ],
+              [
+                "**Kesavananda Bharati**",
+                "1973",
+                "Landmark (13-judge bench, 7:6): Parliament can amend any part INCLUDING FRs, but cannot alter the **basic structure**. Overruled Golak Nath; upheld 24th Amendment."
+              ],
+              [
+                "**Indira Nehru Gandhi**",
+                "1975",
+                "Struck down the 39th Amendment clause shielding the PM's election — free & fair elections held to be basic structure."
+              ],
+              [
+                "**Minerva Mills**",
+                "1980",
+                "Struck down 42nd Amendment parts: limited amending power & judicial review are basic structure; harmony between FRs and DPSPs is basic structure."
+              ],
+              [
+                "**Waman Rao**",
+                "1981",
+                "Basic-structure test applies to amendments made AFTER 24 April 1973 (the Kesavananda date); Ninth Schedule entries added later are testable."
+              ],
+              [
+                "**I.R. Coelho**",
+                "2007",
+                "Laws in the **Ninth Schedule** post-1973 are open to basic-structure review — no blanket immunity (Art 31B)."
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Recent constitutional milestones every APPSC aspirant must cite (2019–2025):** the **abrogation of Article 370** (upheld in *In re: Article 370*, Dec 2023); the **Electoral Bonds scheme struck down** as unconstitutional (*ADR v. Union*, Feb 2024) for violating the voter's right to information under Art 19(1)(a); the **sub-classification of Scheduled Castes** permitted (*Davinder Singh*, 7-judge bench, Aug 2024) overruling *E.V. Chinnaiah*; and the **103rd Amendment (EWS reservation)** upheld in *Janhit Abhiyan* (2022). These show the basic-structure and equality doctrines as living law."
+          },
+          {
+            "type": "para",
+            "text": "**Philosophical anchors for a top-scoring answer:** Granville Austin called the Constitution a **'seamless web'** and 'the cornerstone of a nation'; Ambedkar defended it as workable, flexible and strong; Nani Palkhivala termed the basic-structure doctrine 'the greatest contribution of the Indian judiciary to constitutional jurisprudence'. Close with the idea of **constitutional morality** (invoked in *Navtej Johar*, *Sabarimala*) — fidelity to constitutional values over majoritarian sentiment."
+          }
+        ],
+        "prelimsPointers": [
+          "**Kesavananda Bharati (1973)** — 13-judge bench (largest ever), verdict 7:6, propounded the **basic structure doctrine**.",
+          "**Minerva Mills (1980)** — struck down Sections 4 & 55 of the 42nd Amendment; judicial review & limited amending power are basic structure.",
+          "**I.R. Coelho (2007)** — Ninth Schedule laws added after 24 April 1973 are subject to basic-structure review.",
+          "**Article 370** abrogated on 5 August 2019; Supreme Court upheld the abrogation in December 2023.",
+          "**Electoral Bonds Scheme** declared unconstitutional in February 2024 (ADR v. Union of India).",
+          "**Kihoto Hollohan (1992)** — anti-defection (Tenth Schedule); **Speaker's decision** subject to judicial review."
+        ],
+        "glossary": [
+          {
+            "term": "Constitutional morality",
+            "definition": "Adherence to the core principles and spirit of the Constitution (liberty, equality, fraternity, dignity) even against prevailing social or majoritarian sentiment; invoked in Navtej Johar (2018) and Indian Young Lawyers Association / Sabarimala (2018)."
+          },
+          {
+            "term": "Prospective overruling",
+            "definition": "Doctrine (first used in Golak Nath, 1967) by which a court's new interpretation applies only to future cases, leaving past transactions undisturbed."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -121,12 +299,30 @@
       "Granville Austin called the Constitution 'a social document' — substantiate with reference to Parts III and IV."
     ],
     "glossary": [
-      { "term": "Preamble", "definition": "The introductory statement of the Constitution declaring its source (We, the People), the nature of the polity (Sovereign, Socialist, Secular, Democratic Republic) and its objectives (Justice, Liberty, Equality, Fraternity); part of the Constitution per Kesavananda Bharati (1973) but non-justiciable." },
-      { "term": "Basic structure doctrine", "definition": "Doctrine laid down in Kesavananda Bharati (1973) that Parliament may amend any part of the Constitution under Article 368 but cannot destroy its basic features (e.g., supremacy of the Constitution, secularism, judicial review, federalism)." },
-      { "term": "Procedure established by law", "definition": "Article 21 standard (borrowed from Japan) under which the State may deprive a person of life or liberty by a validly enacted procedure; after Maneka Gandhi (1978) the procedure must also be just, fair and reasonable — importing due-process content." },
-      { "term": "Quasi-federal", "definition": "K.C. Wheare's description of India: a system federal in form but with pronounced unitary features such as emergency powers, single citizenship, All-India Services and a strong Centre." },
-      { "term": "Article 371D", "definition": "Special provision (32nd Amendment, 1973) empowering the President to secure equitable opportunities in public employment and education for people of different regions of Andhra Pradesh; basis of local cadres and the AP Administrative Tribunal." },
-      { "term": "Samvidhan Divas", "definition": "Constitution Day, celebrated on 26 November every year (since 2015) marking the adoption of the Constitution in 1949." }
+      {
+        "term": "Preamble",
+        "definition": "The introductory statement of the Constitution declaring its source (We, the People), the nature of the polity (Sovereign, Socialist, Secular, Democratic Republic) and its objectives (Justice, Liberty, Equality, Fraternity); part of the Constitution per Kesavananda Bharati (1973) but non-justiciable."
+      },
+      {
+        "term": "Basic structure doctrine",
+        "definition": "Doctrine laid down in Kesavananda Bharati (1973) that Parliament may amend any part of the Constitution under Article 368 but cannot destroy its basic features (e.g., supremacy of the Constitution, secularism, judicial review, federalism)."
+      },
+      {
+        "term": "Procedure established by law",
+        "definition": "Article 21 standard (borrowed from Japan) under which the State may deprive a person of life or liberty by a validly enacted procedure; after Maneka Gandhi (1978) the procedure must also be just, fair and reasonable — importing due-process content."
+      },
+      {
+        "term": "Quasi-federal",
+        "definition": "K.C. Wheare's description of India: a system federal in form but with pronounced unitary features such as emergency powers, single citizenship, All-India Services and a strong Centre."
+      },
+      {
+        "term": "Article 371D",
+        "definition": "Special provision (32nd Amendment, 1973) empowering the President to secure equitable opportunities in public employment and education for people of different regions of Andhra Pradesh; basis of local cadres and the AP Administrative Tribunal."
+      },
+      {
+        "term": "Samvidhan Divas",
+        "definition": "Constitution Day, celebrated on 26 November every year (since 2015) marking the adoption of the Constitution in 1949."
+      }
     ]
   },
   {
@@ -142,13 +338,37 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Union", "State"],
+            "headers": [
+              "Element",
+              "Union",
+              "State"
+            ],
             "rows": [
-              ["Executive head", "**President (Arts 52–62)** — nominal head; acts on aid & advice (**Art 74**)", "**Governor (Arts 153–162)** — nominal head; aid & advice (**Art 163**)"],
-              ["Real executive", "**PM + Council of Ministers (Art 75)**, collectively responsible to Lok Sabha (**75(3)**)", "**CM + Council of Ministers (Art 164)**, responsible to Assembly (**164(2)**)"],
-              ["Extent of executive power", "**Art 73** — matters on which Parliament can legislate", "**Art 162** — matters on which the State legislature can legislate"],
-              ["Legislature", "Parliament (**Art 79**): President + RS + LS", "Legislature (**Art 168**): Governor + Assembly (+ Council in AP — bicameral)"],
-              ["Size cap on ministry", "≤ **15% of Lok Sabha strength** (**91st Amendment, 2003**)", "≤ 15% of Assembly strength (minimum 12 ministers)"]
+              [
+                "Executive head",
+                "**President (Arts 52–62)** — nominal head; acts on aid & advice (**Art 74**)",
+                "**Governor (Arts 153–162)** — nominal head; aid & advice (**Art 163**)"
+              ],
+              [
+                "Real executive",
+                "**PM + Council of Ministers (Art 75)**, collectively responsible to Lok Sabha (**75(3)**)",
+                "**CM + Council of Ministers (Art 164)**, responsible to Assembly (**164(2)**)"
+              ],
+              [
+                "Extent of executive power",
+                "**Art 73** — matters on which Parliament can legislate",
+                "**Art 162** — matters on which the State legislature can legislate"
+              ],
+              [
+                "Legislature",
+                "Parliament (**Art 79**): President + RS + LS",
+                "Legislature (**Art 168**): Governor + Assembly (+ Council in AP — bicameral)"
+              ],
+              [
+                "Size cap on ministry",
+                "≤ **15% of Lok Sabha strength** (**91st Amendment, 2003**)",
+                "≤ 15% of Assembly strength (minimum 12 ministers)"
+              ]
             ]
           }
         ]
@@ -159,11 +379,31 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["List", "Entries (current)", "Character", "Illustrative subjects"],
+            "headers": [
+              "List",
+              "Entries (current)",
+              "Character",
+              "Illustrative subjects"
+            ],
             "rows": [
-              ["**Union List (List I)**", "**100** (originally 97)", "National importance; Parliament alone", "Defence, foreign affairs, atomic energy, currency, railways, banking, communications, census, citizenship"],
-              ["**State List (List II)**", "**61** (originally 66)", "Local/regional importance; State legislates (Parliament can intrude via **Arts 249, 250, 252, 253, 356**)", "Public order, **police**, public health, agriculture, land, prisons, local government, markets"],
-              ["**Concurrent List (List III)**", "**52** (originally 47)", "Both; Union law prevails on repugnancy (**Art 254**)", "Criminal law & procedure, marriage, education, forests, trade unions, electricity, population control"]
+              [
+                "**Union List (List I)**",
+                "**100** (originally 97)",
+                "National importance; Parliament alone",
+                "Defence, foreign affairs, atomic energy, currency, railways, banking, communications, census, citizenship"
+              ],
+              [
+                "**State List (List II)**",
+                "**61** (originally 66)",
+                "Local/regional importance; State legislates (Parliament can intrude via **Arts 249, 250, 252, 253, 356**)",
+                "Public order, **police**, public health, agriculture, land, prisons, local government, markets"
+              ],
+              [
+                "**Concurrent List (List III)**",
+                "**52** (originally 47)",
+                "Both; Union law prevails on repugnancy (**Art 254**)",
+                "Criminal law & procedure, marriage, education, forests, trade unions, electricity, population control"
+              ]
             ]
           },
           {
@@ -212,6 +452,73 @@
             "text": "Exam tip: When asked about 'functions and duties' of governments, do NOT just reproduce the lists — organise the answer as (1) constitutional demarcation, (2) executive co-extensiveness (Arts 73/162), (3) the Union's protective and fiscal duties towards states, and (4) one live illustration (AP Reorganisation Act obligations works perfectly)."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — doctrines that decide Centre–State legislative disputes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Distribution of powers is examined through the **interpretive doctrines** courts use when Union and State laws collide. Master these five and you can argue any legislative-competence question."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Doctrine",
+              "Meaning",
+              "Illustrative use"
+            ],
+            "rows": [
+              [
+                "**Pith and substance**",
+                "If the true nature of a law falls within the legislature's list, incidental encroachment on another list is valid.",
+                "*State of Bombay v. F.N. Balsara* (1951)."
+              ],
+              [
+                "**Colourable legislation**",
+                "'What cannot be done directly cannot be done indirectly' — a legislature cannot disguise an ultra vires law.",
+                "*K.C. Gajapati Narayan Deo* (1953)."
+              ],
+              [
+                "**Repugnancy (Art 254)**",
+                "On a Concurrent subject, Union law prevails over a conflicting State law unless the State law has Presidential assent.",
+                "*M. Karunanidhi v. Union* (1979)."
+              ],
+              [
+                "**Territorial nexus**",
+                "A State law may operate on objects outside the State if there is a sufficient connection.",
+                "*State of Bombay v. RMDC* (1957)."
+              ],
+              [
+                "**Harmonious construction**",
+                "Overlapping entries are read so that each is given effect; no entry is rendered nugatory.",
+                "Seventh Schedule interpretation generally."
+              ]
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**Parliament can legislate on the State List in five constitutional situations** — a favourite one-mark and mains hook: (1) **Art 249** — Rajya Sabha resolution of national interest (2/3 majority); (2) **Art 250** — during a National Emergency; (3) **Art 252** — two or more States request it (e.g., the *Wildlife Act*, *Water Act*); (4) **Art 253** — to implement international treaties/agreements; (5) **Art 356** — during President's Rule."
+          },
+          {
+            "type": "para",
+            "text": "**Recent flashpoints:** the **97th Amendment** (cooperative societies) was struck down by the SC in *Union of India v. Rajendra Shah* (2021) insofar as it touched cooperatives — a **State subject** — for want of state ratification, a vivid lesson on Art 368(2); the **three farm laws (2020)** provoked a federalism storm over 'agriculture' and 'markets' (State List) versus 'trade & commerce' (Union/Concurrent), and were repealed in 2021. Both illustrate that the **Seventh Schedule is politically live, not a dead letter.**"
+          }
+        ],
+        "mainsAngles": [
+          "Explain the doctrine of pith and substance and its role in resolving Centre–State legislative conflicts with case law.",
+          "'Article 252 is cooperative federalism in its purest form' — discuss with examples."
+        ],
+        "glossary": [
+          {
+            "term": "Pith and substance",
+            "definition": "Doctrine that judges a law by its true subject matter; if that lies within the enacting legislature's competence, incidental trespass on another list does not invalidate it."
+          },
+          {
+            "term": "Colourable legislation",
+            "definition": "A law that pretends to act within power but in substance exceeds it; void on the maxim that what cannot be done directly cannot be done indirectly."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -230,11 +537,26 @@
       "Evaluate the Union government's discharge of its statutory obligations to Andhra Pradesh under the AP Reorganisation Act, 2014."
     ],
     "glossary": [
-      { "term": "Dual polity", "definition": "Constitutional arrangement of two levels of government — Union and State — each deriving authority directly from the Constitution and acting within its own demarcated sphere." },
-      { "term": "Co-extensiveness of executive power", "definition": "Principle in Articles 73 and 162 that a government's executive power extends to all matters on which its legislature can make laws." },
-      { "term": "Repugnancy (Art 254)", "definition": "Conflict between a Union and a State law on a Concurrent List subject; the Union law prevails, unless the State law received Presidential assent (and even then Parliament can override)." },
-      { "term": "Residuary powers", "definition": "Power to legislate on matters not enumerated in any of the three lists; vested in Parliament under Article 248 and Entry 97 of the Union List." },
-      { "term": "Collective responsibility", "definition": "Principle (Arts 75(3), 164(2)) that the Council of Ministers stands or falls together, answerable to the directly elected House." }
+      {
+        "term": "Dual polity",
+        "definition": "Constitutional arrangement of two levels of government — Union and State — each deriving authority directly from the Constitution and acting within its own demarcated sphere."
+      },
+      {
+        "term": "Co-extensiveness of executive power",
+        "definition": "Principle in Articles 73 and 162 that a government's executive power extends to all matters on which its legislature can make laws."
+      },
+      {
+        "term": "Repugnancy (Art 254)",
+        "definition": "Conflict between a Union and a State law on a Concurrent List subject; the Union law prevails, unless the State law received Presidential assent (and even then Parliament can override)."
+      },
+      {
+        "term": "Residuary powers",
+        "definition": "Power to legislate on matters not enumerated in any of the three lists; vested in Parliament under Article 248 and Entry 97 of the Union List."
+      },
+      {
+        "term": "Collective responsibility",
+        "definition": "Principle (Arts 75(3), 164(2)) that the Council of Ministers stands or falls together, answerable to the directly elected House."
+      }
     ]
   },
   {
@@ -250,13 +572,31 @@
           },
           {
             "type": "table",
-            "headers": ["Federal features", "Unitary tilt"],
+            "headers": [
+              "Federal features",
+              "Unitary tilt"
+            ],
             "rows": [
-              ["Division of powers (Seventh Schedule)", "**Art 3**: Parliament alone alters state boundaries/names — 'indestructible Union of destructible states'"],
-              ["Written, supreme, rigid Constitution", "**Emergency provisions (Arts 352/356/360)** convert the polity into a unitary one"],
-              ["Independent integrated judiciary", "**Single citizenship**; single integrated judiciary; **All-India Services (Art 312)**"],
-              ["Bicameralism — Rajya Sabha represents states", "**Governor** as Centre's agent; reservation of bills (**Arts 200–201**)"],
-              ["Direct election of both levels", "Unequal Rajya Sabha representation; residuary powers with the Centre; **fiscal dependence of states**"]
+              [
+                "Division of powers (Seventh Schedule)",
+                "**Art 3**: Parliament alone alters state boundaries/names — 'indestructible Union of destructible states'"
+              ],
+              [
+                "Written, supreme, rigid Constitution",
+                "**Emergency provisions (Arts 352/356/360)** convert the polity into a unitary one"
+              ],
+              [
+                "Independent integrated judiciary",
+                "**Single citizenship**; single integrated judiciary; **All-India Services (Art 312)**"
+              ],
+              [
+                "Bicameralism — Rajya Sabha represents states",
+                "**Governor** as Centre's agent; reservation of bills (**Arts 200–201**)"
+              ],
+              [
+                "Direct election of both levels",
+                "Unequal Rajya Sabha representation; residuary powers with the Centre; **fiscal dependence of states**"
+              ]
             ]
           },
           {
@@ -294,11 +634,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Body", "Year", "Core recommendations"],
+            "headers": [
+              "Body",
+              "Year",
+              "Core recommendations"
+            ],
             "rows": [
-              ["**Administrative Reforms Commission (I)**", "1966–70", "Inter-State Council; guidelines for Governors"],
-              ["**Sarkaria Commission**", "1983–88", "Art 356 as a **last resort**; consultation with CM before appointing Governor; permanent Inter-State Council (created 1990)"],
-              ["**Punchhi Commission**", "2007–10", "Fixed tenure for Governors; 'localised emergency'; Governor's discretion narrowed; National Integration Council reforms"]
+              [
+                "**Administrative Reforms Commission (I)**",
+                "1966–70",
+                "Inter-State Council; guidelines for Governors"
+              ],
+              [
+                "**Sarkaria Commission**",
+                "1983–88",
+                "Art 356 as a **last resort**; consultation with CM before appointing Governor; permanent Inter-State Council (created 1990)"
+              ],
+              [
+                "**Punchhi Commission**",
+                "2007–10",
+                "Fixed tenure for Governors; 'localised emergency'; Governor's discretion narrowed; National Integration Council reforms"
+              ]
             ]
           },
           {
@@ -308,6 +664,48 @@
           {
             "type": "quote",
             "text": "Exam tip: An APPSC answer on federal challenges that cites the AP-specific wounds — Special Category Status, Krishna water sharing, pending Reorganisation Act promises — alongside Bommai and the Finance Commission will always outscore a generic all-India answer."
+          }
+        ]
+      },
+      {
+        "heading": "🏛 Deep mastery — federalism in 2023–2026: verdicts, fiscal frontier & AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "Federalism is the most dynamic Paper-III theme; examiners reward the **latest developments**. Anchor your answer in these."
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Governor's assent settled (2023–24):** in *State of Punjab v. Principal Secretary to the Governor* (2023) and *State of Tamil Nadu v. Governor* (April 2025), the SC held Governors cannot pocket-veto bills; the Tamil Nadu verdict for the first time invoked **Article 142 to declare ten bills 'deemed assented'** and read timelines into Arts 200–201 — a landmark curbing gubernatorial obstruction.",
+              "**Delimitation & the southern anxiety (2026 horizon):** the freeze on Lok Sabha seat re-allocation ends after the first census post-2026; southern states (including AP) fear losing parliamentary weight for having controlled population — a fresh federal fault-line linking demography, representation and fiscal share.",
+              "**Fiscal federalism forward:** the **16th Finance Commission** (chair **Arvind Panagariya**, award period 2026–31) is examining vertical devolution, the swelling share of **cesses & surcharges** outside the divisible pool, and the treatment of GST; the **GST compensation cess** was extended past 2022 only to repay borrowings, sharpening states' revenue anxiety.",
+              "**Money-and-mandate tools:** central control via **All-India Services (Art 312)**, centrally sponsored schemes with rigid conditionalities, and the shift from Planning Commission grants to **NITI Aayog**'s advisory role continue to tilt the balance centreward while promoting 'competitive federalism'."
+            ]
+          },
+          {
+            "type": "para",
+            "text": "**The Andhra Pradesh federal ledger (use these to localise every answer):** the unfulfilled promise of **Special Category Status** (assured on the floor of the Rajya Sabha in 2014); the **Krishna water-sharing dispute** with Telangana and the delayed operationalisation of the **Krishna River Management Board**; pending **Polavaram** funding as a national project; and Schedule-13 institutional commitments under the **AP Reorganisation Act, 2014**. These are the sharpest live illustrations of the Union–State trust deficit."
+          }
+        ],
+        "prelimsPointers": [
+          "**16th Finance Commission** — chaired by **Arvind Panagariya**; award period **2026–2031**.",
+          "*State of Tamil Nadu v. Governor* (2025) — SC used **Article 142** to declare bills 'deemed assented'; read timelines into Arts 200–201.",
+          "The **delimitation freeze** on Lok Sabha seats runs until the first census after **2026** (84th & 87th Amendments used 1971/2001 figures)."
+        ],
+        "mainsAngles": [
+          "'Deemed assent under Article 142 redraws Centre–State executive relations' — critically examine the 2025 Tamil Nadu Governor verdict.",
+          "Population-based delimitation after 2026 threatens to penalise demographically responsible states — discuss its implications for cooperative federalism and for Andhra Pradesh."
+        ],
+        "glossary": [
+          {
+            "term": "Deemed assent",
+            "definition": "Judicial device (State of Tamil Nadu v. Governor, 2025) treating bills as assented when a Governor unconstitutionally delays action, giving effect to Articles 200–201 through Article 142."
+          },
+          {
+            "term": "Delimitation freeze",
+            "definition": "Constitutional bar (via the 42nd, 84th and 87th Amendments) on re-allocating Lok Sabha seats among states by population until the first census after 2026, to protect states that curbed population growth."
           }
         ]
       }
@@ -329,12 +727,30 @@
       "Compare cooperative and competitive federalism as operating philosophies of NITI Aayog."
     ],
     "glossary": [
-      { "term": "Quasi-federalism", "definition": "K.C. Wheare's characterisation of India as a polity federal in form but unitary in spirit, owing to emergency powers, Article 3, single citizenship and central fiscal dominance." },
-      { "term": "Cooperative federalism", "definition": "Union and states working as partners in shared national goals — institutionalised in the Inter-State Council, GST Council and centrally sponsored schemes." },
-      { "term": "Competitive federalism", "definition": "States competing for investment and performance rankings (e.g., Ease of Doing Business, NITI Aayog indices) as a spur to reform." },
-      { "term": "Divisible pool", "definition": "The share of central taxes distributable to states under Article 270 as recommended by the Finance Commission; cesses and surcharges lie outside it." },
-      { "term": "Special Category Status", "definition": "Erstwhile Planning-era classification giving favourable central assistance to disadvantaged states; discontinued as a general category after the 14th Finance Commission — the core of AP's post-2014 demand." },
-      { "term": "Floor test", "definition": "Proving a government's majority on the floor of the House — mandated by S.R. Bommai (1994) as the proper test instead of the Governor's subjective assessment." }
+      {
+        "term": "Quasi-federalism",
+        "definition": "K.C. Wheare's characterisation of India as a polity federal in form but unitary in spirit, owing to emergency powers, Article 3, single citizenship and central fiscal dominance."
+      },
+      {
+        "term": "Cooperative federalism",
+        "definition": "Union and states working as partners in shared national goals — institutionalised in the Inter-State Council, GST Council and centrally sponsored schemes."
+      },
+      {
+        "term": "Competitive federalism",
+        "definition": "States competing for investment and performance rankings (e.g., Ease of Doing Business, NITI Aayog indices) as a spur to reform."
+      },
+      {
+        "term": "Divisible pool",
+        "definition": "The share of central taxes distributable to states under Article 270 as recommended by the Finance Commission; cesses and surcharges lie outside it."
+      },
+      {
+        "term": "Special Category Status",
+        "definition": "Erstwhile Planning-era classification giving favourable central assistance to disadvantaged states; discontinued as a general category after the 14th Finance Commission — the core of AP's post-2014 demand."
+      },
+      {
+        "term": "Floor test",
+        "definition": "Proving a government's majority on the floor of the House — mandated by S.R. Bommai (1994) as the proper test instead of the Governor's subjective assessment."
+      }
     ]
   }
 ]

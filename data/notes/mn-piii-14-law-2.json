@@ -8,13 +8,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Attribute", "**Decree (Sec 2(2) CPC)**", "**Order (Sec 2(14) CPC)**"],
+            "headers": [
+              "Attribute",
+              "**Decree (Sec 2(2) CPC)**",
+              "**Order (Sec 2(14) CPC)**"
+            ],
             "rows": [
-              ["Definition", "Formal expression of adjudication **conclusively determining the rights of parties** on all/any matters in controversy in a suit", "Formal expression of **any decision** of a civil court which is not a decree"],
-              ["Origin", "Only in a **suit** (plaint-instituted)", "Suit OR petition/application (interlocutory stages)"],
-              ["Rights determination", "Conclusive (preliminary, final, or partly both; **deemed decrees** — e.g., restitution rejections)", "May or may not decide rights conclusively"],
-              ["Appealability", "**Every decree appealable** (first appeal as of right; second appeal on substantial question of law — Sec 100)", "Only **specified orders appealable (Sec 104, Order 43)**; others challengeable via revision (115) or in the decree-appeal"],
-              ["Number per suit", "Ordinarily one (preliminary + final possible)", "Many orders in one suit"]
+              [
+                "Definition",
+                "Formal expression of adjudication **conclusively determining the rights of parties** on all/any matters in controversy in a suit",
+                "Formal expression of **any decision** of a civil court which is not a decree"
+              ],
+              [
+                "Origin",
+                "Only in a **suit** (plaint-instituted)",
+                "Suit OR petition/application (interlocutory stages)"
+              ],
+              [
+                "Rights determination",
+                "Conclusive (preliminary, final, or partly both; **deemed decrees** — e.g., restitution rejections)",
+                "May or may not decide rights conclusively"
+              ],
+              [
+                "Appealability",
+                "**Every decree appealable** (first appeal as of right; second appeal on substantial question of law — Sec 100)",
+                "Only **specified orders appealable (Sec 104, Order 43)**; others challengeable via revision (115) or in the decree-appeal"
+              ],
+              [
+                "Number per suit",
+                "Ordinarily one (preliminary + final possible)",
+                "Many orders in one suit"
+              ]
             ]
           },
           {
@@ -57,6 +81,26 @@
             "text": "Exam tip: 'Every decree is appealable; an order only if listed' — the one-line distinction that decides this question; Verma's 29-day report is the governance fact worth as much as the law's content."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — new criminal law & procedural change",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The 2023 recodification (effective 1 July 2024):** **Bharatiya Nyaya Sanhita (BNS)** replaces the IPC; **Bharatiya Nagarik Suraksha Sanhita (BNSS)** replaces the CrPC; **Bharatiya Sakshya Adhiniyam (BSA)** replaces the Evidence Act. New features: **time-bound investigation & judgment, mandatory forensic visits for serious offences, e-FIR/e-records, victim-centric provisions, community service as punishment, and a dedicated section on organised crime & terrorism.**",
+              "**Order vs decree (CPC):** a **decree** is a formal, conclusive adjudication of rights (appealable); an **order** is any other formal decision (some appealable). Distinguish also **judgment** (the reasoning) from decree (the operative conclusion).",
+              "**The Nirbhaya-era reforms:** the **Criminal Law (Amendment) Act, 2013** (post-Justice Verma Committee) redefined sexual offences, added new offences (acid attack, stalking, voyeurism), and the **2018 Amendment** introduced the death penalty for rape of girls under 12 — carried into the BNS.",
+              "**Continuing debate:** faster justice vs due-process safeguards; concerns over expanded police-custody windows and definitional breadth of new offences."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**BNS, BNSS, BSA** came into force **1 July 2024**, replacing IPC/CrPC/Evidence Act.",
+          "**Criminal Law (Amendment) Act, 2013** followed the **Justice J.S. Verma Committee** report.",
+          "A **decree** is appealable and conclusively determines rights; an **order** is any other formal decision of a civil court."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,12 +120,30 @@
       "Pick four post-2020 legal developments and argue their combined direction for Indian justice."
     ],
     "glossary": [
-      { "term": "Preliminary decree", "definition": "A decree deciding rights but leaving further proceedings (accounts, partition shares) before the final decree." },
-      { "term": "Deemed decree", "definition": "Adjudications statutorily treated as decrees (e.g., plaint rejection) though not fitting the definition strictly." },
-      { "term": "Revision (Sec 115)", "definition": "High Court's supervisory correction of jurisdictional errors in non-appealable orders." },
-      { "term": "Execution", "definition": "Order-21 machinery converting a decree into delivery — attachment, sale, arrest, possession." },
-      { "term": "Affirmative consent", "definition": "The 2013 standard — unequivocal voluntary agreement; absence of resistance is not consent." },
-      { "term": "Fast-track special court", "definition": "Dedicated courts for rape/POCSO trials — the speed answer whose vacancy rates undercut it." }
+      {
+        "term": "Preliminary decree",
+        "definition": "A decree deciding rights but leaving further proceedings (accounts, partition shares) before the final decree."
+      },
+      {
+        "term": "Deemed decree",
+        "definition": "Adjudications statutorily treated as decrees (e.g., plaint rejection) though not fitting the definition strictly."
+      },
+      {
+        "term": "Revision (Sec 115)",
+        "definition": "High Court's supervisory correction of jurisdictional errors in non-appealable orders."
+      },
+      {
+        "term": "Execution",
+        "definition": "Order-21 machinery converting a decree into delivery — attachment, sale, arrest, possession."
+      },
+      {
+        "term": "Affirmative consent",
+        "definition": "The 2013 standard — unequivocal voluntary agreement; absence of resistance is not consent."
+      },
+      {
+        "term": "Fast-track special court",
+        "definition": "Dedicated courts for rape/POCSO trials — the speed answer whose vacancy rates undercut it."
+      }
     ]
   },
   {
@@ -93,14 +155,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Domain", "Key statutes", "One-line content"],
+            "headers": [
+              "Domain",
+              "Key statutes",
+              "One-line content"
+            ],
             "rows": [
-              ["Children", "**POCSO 2012; JJ Act 2015 (amended 2021); Child Labour (Amendment) 2016; RTE 2009**", "Protection-justice-education triad; 2016 bans under-14 employment (family-enterprise caveat criticised)"],
-              ["Women", "PWDVA 2005; Dowry Act 1961; **POSH 2013**; Maternity Benefit (Amendment) 2017; PCMA 2006", "The LII-042/EIPS-029 files' statutory spine"],
-              ["Caste & tribe", "**SC/ST (Prevention of Atrocities) Act 1989 (amended 2015/2018 — Subhash Kashinath reversal)**; PCR Act 1955; **FRA 2006**", "Atrocity-specific offences, special courts; forest-rights restitution"],
-              ["Disability & age", "**RPwD Act 2016 (21 disabilities; 4% job/5% education reservation)**; National Trust Act 1999; **MWPSC Act 2007 (parents' maintenance)**", "Rights-model shift from charity-model"],
-              ["Food & livelihood", "**NFSA 2013; MGNREGA 2005**", "Statutory floors — the IG-026/028 economics files as LAW"],
-              ["Informal & new-age work", "**Unorganised Workers' Social Security Act 2008; Street Vendors Act 2014; e-Shram (executive)**", "The pre-Code scatter the fourth code consolidates"]
+              [
+                "Children",
+                "**POCSO 2012; JJ Act 2015 (amended 2021); Child Labour (Amendment) 2016; RTE 2009**",
+                "Protection-justice-education triad; 2016 bans under-14 employment (family-enterprise caveat criticised)"
+              ],
+              [
+                "Women",
+                "PWDVA 2005; Dowry Act 1961; **POSH 2013**; Maternity Benefit (Amendment) 2017; PCMA 2006",
+                "The LII-042/EIPS-029 files' statutory spine"
+              ],
+              [
+                "Caste & tribe",
+                "**SC/ST (Prevention of Atrocities) Act 1989 (amended 2015/2018 — Subhash Kashinath reversal)**; PCR Act 1955; **FRA 2006**",
+                "Atrocity-specific offences, special courts; forest-rights restitution"
+              ],
+              [
+                "Disability & age",
+                "**RPwD Act 2016 (21 disabilities; 4% job/5% education reservation)**; National Trust Act 1999; **MWPSC Act 2007 (parents' maintenance)**",
+                "Rights-model shift from charity-model"
+              ],
+              [
+                "Food & livelihood",
+                "**NFSA 2013; MGNREGA 2005**",
+                "Statutory floors — the IG-026/028 economics files as LAW"
+              ],
+              [
+                "Informal & new-age work",
+                "**Unorganised Workers' Social Security Act 2008; Street Vendors Act 2014; e-Shram (executive)**",
+                "The pre-Code scatter the fourth code consolidates"
+              ]
             ]
           }
         ]
@@ -140,6 +230,28 @@
             "text": "Exam tip: 'The codes trade thicket for floor — compliance ease for employers, statutory minimums for workers, with the gig fund as the genuinely new idea' — the three-clause verdict that structures the whole labour answer."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — welfare law & the four labour codes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The protective statute book:** **MGNREGA 2005, NFSA 2013, RTE 2009, Forest Rights Act 2006, PWDVA 2005, POSH 2013, Maintenance & Welfare of Parents 2007, Transgender Persons Act 2019, Mental Healthcare Act 2017.**",
+              "**Rights-based paradigm:** the shift from welfare-as-charity to welfare-as-**justiciable right** — NFSA/RTE make entitlements enforceable.",
+              "**The four labour codes (2019–20)** consolidating 29 laws: **(1) Code on Wages, (2) Industrial Relations Code, (3) Code on Social Security, (4) OSH & Working Conditions Code** — introduce universal minimum wage, a national floor wage, gig/platform-worker social security, fixed-term employment, and easier compliance; contested for raising retrenchment thresholds and diluting union rights.",
+              "**Rehabilitation/land:** the **Right to Fair Compensation & Transparency in Land Acquisition, Rehabilitation & Resettlement Act, 2013 (LARR)** — consent, SIA and R&R as welfare guarantees."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Four Labour Codes:** Code on Wages (2019); Industrial Relations Code; Code on Social Security; OSH & Working Conditions Code (2020).",
+          "**LARR Act, 2013** — consent clause and Social Impact Assessment for land acquisition."
+        ],
+        "mainsAngles": [
+          "'The four labour codes seek to balance ease of doing business with worker welfare' — critically evaluate."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -160,12 +272,30 @@
       "Statutes without enforcement are pamphlets — examine the inspector-facilitator turn and welfare-law implementation gaps."
     ],
     "glossary": [
-      { "term": "Floor wage", "definition": "The centrally-set national minimum below which no state minimum wage may fall — the Wages Code's baseline." },
-      { "term": "Fixed-term employment", "definition": "Direct time-bound hiring with benefits parity — the IR Code's legalised flexibility instrument." },
-      { "term": "Gig worker", "definition": "A worker outside traditional employer-employee relations earning from platform tasks — first statutorily defined in the SS Code." },
-      { "term": "Aggregator cess", "definition": "The 1-2%-of-turnover levy on platforms funding gig-workers' social security — welfare without employment status." },
-      { "term": "Rights model (disability)", "definition": "RPwD 2016's shift from charity to enforceable rights — reasonable accommodation, non-discrimination, reservations." },
-      { "term": "Inspector-cum-facilitator", "definition": "The codes' renamed compliance officer emphasising guidance over prosecution — reform to some, dilution to others." }
+      {
+        "term": "Floor wage",
+        "definition": "The centrally-set national minimum below which no state minimum wage may fall — the Wages Code's baseline."
+      },
+      {
+        "term": "Fixed-term employment",
+        "definition": "Direct time-bound hiring with benefits parity — the IR Code's legalised flexibility instrument."
+      },
+      {
+        "term": "Gig worker",
+        "definition": "A worker outside traditional employer-employee relations earning from platform tasks — first statutorily defined in the SS Code."
+      },
+      {
+        "term": "Aggregator cess",
+        "definition": "The 1-2%-of-turnover levy on platforms funding gig-workers' social security — welfare without employment status."
+      },
+      {
+        "term": "Rights model (disability)",
+        "definition": "RPwD 2016's shift from charity to enforceable rights — reasonable accommodation, non-discrimination, reservations."
+      },
+      {
+        "term": "Inspector-cum-facilitator",
+        "definition": "The codes' renamed compliance officer emphasising guidance over prosecution — reform to some, dilution to others."
+      }
     ]
   },
   {
@@ -181,11 +311,23 @@
           },
           {
             "type": "table",
-            "headers": ["Cyber security & crime landscape", "Content"],
+            "headers": [
+              "Cyber security & crime landscape",
+              "Content"
+            ],
             "rows": [
-              ["Threat map", "Financial fraud dominant (**~85%+ of reported cybercrime; digital-arrest scams the 2024-25 epidemic — ~₹120+ crore/quarter era losses**), ransomware (AIIMS 2022), critical-infrastructure probes (power-grid espionage reports), data breaches (Aadhaar-adjacent scares), deepfakes & synthetic media"],
-              ["Institutions", "**I4C** (MHA's cybercrime coordination; **1930 helpline + cybercrime.gov.in portal; Samanvaya, Pratibimb platforms**), **CERT-In**, **NCIIPC** (critical infrastructure, under NTRO), state cyber cells & **cyber commandos scheme**; sectoral CERTs; **DPDP Act 2023** (the data-protection leg) and RBI's fraud-liability circulars"],
-              ["**Jurisdiction difficulties**", "The theme's named focus: (a) **territoriality vs borderless crime** — servers, victims, offenders in three countries (IT Act Secs 1(2)/75 claim extra-territoriality where systems in India are involved, enforcement is the gap); (b) **MLAT slowness** (months for US-platform data; the **Budapest Convention** question — India a non-signatory citing sovereignty, relying on bilateral routes; the **UN Cybercrime Convention (adopted 2024)** as the new multilateral hope India backed); (c) **cloud & encryption** (data-localisation push: RBI's payments mandate; CERT-In logs rules); (d) inter-STATE friction domestically (FIR jurisdiction — Zero-FIR/BNSS easing; Jamtara-Mewat-Nuh hub policing vs victim-state investigation)"]
+              [
+                "Threat map",
+                "Financial fraud dominant (**~85%+ of reported cybercrime; digital-arrest scams the 2024-25 epidemic — ~₹120+ crore/quarter era losses**), ransomware (AIIMS 2022), critical-infrastructure probes (power-grid espionage reports), data breaches (Aadhaar-adjacent scares), deepfakes & synthetic media"
+              ],
+              [
+                "Institutions",
+                "**I4C** (MHA's cybercrime coordination; **1930 helpline + cybercrime.gov.in portal; Samanvaya, Pratibimb platforms**), **CERT-In**, **NCIIPC** (critical infrastructure, under NTRO), state cyber cells & **cyber commandos scheme**; sectoral CERTs; **DPDP Act 2023** (the data-protection leg) and RBI's fraud-liability circulars"
+              ],
+              [
+                "**Jurisdiction difficulties**",
+                "The theme's named focus: (a) **territoriality vs borderless crime** — servers, victims, offenders in three countries (IT Act Secs 1(2)/75 claim extra-territoriality where systems in India are involved, enforcement is the gap); (b) **MLAT slowness** (months for US-platform data; the **Budapest Convention** question — India a non-signatory citing sovereignty, relying on bilateral routes; the **UN Cybercrime Convention (adopted 2024)** as the new multilateral hope India backed); (c) **cloud & encryption** (data-localisation push: RBI's payments mandate; CERT-In logs rules); (d) inter-STATE friction domestically (FIR jurisdiction — Zero-FIR/BNSS easing; Jamtara-Mewat-Nuh hub policing vs victim-state investigation)"
+              ]
             ]
           }
         ]
@@ -224,6 +366,26 @@
             "text": "Exam tip: The jurisdiction sub-question is where this theme is won — MLAT lag, Budapest abstention, UN-convention pivot, Zero-FIR's domestic fix: four moves few candidates carry."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — cyber law from the IT Act to DPDP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**IT Act, 2000** (amended 2008): recognises electronic records & digital signatures; offences — hacking (s.66), identity theft (66C), cheating by personation (66D), publishing obscene/child-sexual material (67/67B); **s.69** interception powers; **s.79** intermediary safe harbour.",
+              "**Landmark:** **Shreya Singhal (2015)** struck down **s.66A** as violating Art 19(1)(a) — a free-speech landmark; read down s.79 (intermediary liability on 'actual knowledge').",
+              "**The 2021 IT Rules** (intermediary & digital media ethics) and their traceability/grievance obligations — contested on privacy and press-freedom grounds.",
+              "**Data protection:** the **Digital Personal Data Protection (DPDP) Act, 2023** — consent, data-fiduciary duties, a Data Protection Board, and penalties — India's first standalone data-privacy law, flowing from **Puttaswamy (2017)** (privacy is a fundamental right). Cite the CERT-In directions and cyber-fraud (I4C, 1930 helpline) for the enforcement layer."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Section 66A of the IT Act** struck down in **Shreya Singhal v. Union of India (2015)**.",
+          "**DPDP Act, 2023** — India's first comprehensive data-protection statute; establishes the Data Protection Board.",
+          "**Puttaswamy (2017)** — right to privacy is a fundamental right under Art 21."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -244,12 +406,30 @@
       "Draft the Digital India Act's agenda — surveillance oversight, AI harms, intermediary duties — from the 2000 Act's gaps."
     ],
     "glossary": [
-      { "term": "Safe harbour", "definition": "Sec 79's conditional immunity of intermediaries for user content — contingent on due diligence and takedown compliance." },
-      { "term": "Traceability", "definition": "The 2021 Rules' demand to identify a message's first originator — contested as encryption-breaking." },
-      { "term": "Critical Information Infrastructure", "definition": "Systems whose incapacitation debilitates national security-economy-health — NCIIPC's protected estate." },
-      { "term": "MLAT", "definition": "Treaty channel for cross-border evidence requests — cybercrime's slowest necessary instrument." },
-      { "term": "Data localisation", "definition": "Mandates to store (copies of) data in-country (RBI payments rule) — sovereignty's answer to cloud jurisdiction." },
-      { "term": "Digital arrest", "definition": "The impersonation scam confining victims on video calls for extortion — the 2024-25 fraud epidemic's signature." }
+      {
+        "term": "Safe harbour",
+        "definition": "Sec 79's conditional immunity of intermediaries for user content — contingent on due diligence and takedown compliance."
+      },
+      {
+        "term": "Traceability",
+        "definition": "The 2021 Rules' demand to identify a message's first originator — contested as encryption-breaking."
+      },
+      {
+        "term": "Critical Information Infrastructure",
+        "definition": "Systems whose incapacitation debilitates national security-economy-health — NCIIPC's protected estate."
+      },
+      {
+        "term": "MLAT",
+        "definition": "Treaty channel for cross-border evidence requests — cybercrime's slowest necessary instrument."
+      },
+      {
+        "term": "Data localisation",
+        "definition": "Mandates to store (copies of) data in-country (RBI payments rule) — sovereignty's answer to cloud jurisdiction."
+      },
+      {
+        "term": "Digital arrest",
+        "definition": "The impersonation scam confining victims on video calls for extortion — the 2024-25 fraud epidemic's signature."
+      }
     ]
   },
   {
@@ -261,13 +441,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Tax", "Base & law", "Current design"],
+            "headers": [
+              "Tax",
+              "Base & law",
+              "Current design"
+            ],
             "rows": [
-              ["**Income tax**", "Individuals'/firms' income; **IT Act 1961 → the Income-tax Act 2025 (recodified, effective April 2026)** — simplification without rate change", "Slab-based progressive; the **new regime** (concessional, exemption-light — now default; nil tax to ₹12 lakh via rebate, FY26); TDS-TCS web; faceless assessment"],
-              ["**Corporate tax**", "Company profits", "**22% (existing) / 15% (new manufacturing) + surcharges (2019 cut)**; ~25% effective for most; **Global Minimum Tax (Pillar-2, 15%)** the international overlay; MAT's diminished role"],
-              ["**Wealth tax**", "Net wealth above threshold", "**Abolished 2015** (collection ~₹1,000 cr vs cost) — replaced by the **super-rich surcharge**; the wealth-inequality tax debate (Piketty-style proposals) remains academic-political, not statutory: the examiner's nuance"],
-              ["**Capital gains & others**", "Asset transfers; profits-adjacent", "LTCG-STCG rationalised (2024: 12.5% LTCG sans indexation debate); STT; the equalisation levy's sunset (2024) as digital-tax diplomacy"],
-              ["**GST**", "Consumption (destination-based, value-added)", "**101st Amendment; CGST-SGST-IGST; Council (279A)**; slabs rationalised — **GST 2.0 (Sept 2025): two main rates 5% & 18% + 40% demerit rate**, compensation-cess wind-down — the PIV-GBI-020 federal file's tax-law face"]
+              [
+                "**Income tax**",
+                "Individuals'/firms' income; **IT Act 1961 → the Income-tax Act 2025 (recodified, effective April 2026)** — simplification without rate change",
+                "Slab-based progressive; the **new regime** (concessional, exemption-light — now default; nil tax to ₹12 lakh via rebate, FY26); TDS-TCS web; faceless assessment"
+              ],
+              [
+                "**Corporate tax**",
+                "Company profits",
+                "**22% (existing) / 15% (new manufacturing) + surcharges (2019 cut)**; ~25% effective for most; **Global Minimum Tax (Pillar-2, 15%)** the international overlay; MAT's diminished role"
+              ],
+              [
+                "**Wealth tax**",
+                "Net wealth above threshold",
+                "**Abolished 2015** (collection ~₹1,000 cr vs cost) — replaced by the **super-rich surcharge**; the wealth-inequality tax debate (Piketty-style proposals) remains academic-political, not statutory: the examiner's nuance"
+              ],
+              [
+                "**Capital gains & others**",
+                "Asset transfers; profits-adjacent",
+                "LTCG-STCG rationalised (2024: 12.5% LTCG sans indexation debate); STT; the equalisation levy's sunset (2024) as digital-tax diplomacy"
+              ],
+              [
+                "**GST**",
+                "Consumption (destination-based, value-added)",
+                "**101st Amendment; CGST-SGST-IGST; Council (279A)**; slabs rationalised — **GST 2.0 (Sept 2025): two main rates 5% & 18% + 40% demerit rate**, compensation-cess wind-down — the PIV-GBI-020 federal file's tax-law face"
+              ]
             ]
           }
         ]
@@ -307,6 +511,30 @@
             "text": "Exam tip: 'India taxes income progressively, consumption uniformly, and wealth not at all since 2015' — the one-line map; then the technology-compliance arc as the decade's real tax story."
           }
         ]
+      },
+      {
+        "heading": "🏛 Deep mastery — the tax system after GST",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Concept map:** **direct taxes** (income, corporate — progressive, on ability to pay) vs **indirect taxes** (GST, customs — on consumption, regressive unless calibrated); **cesses & surcharges** sit outside the divisible pool.",
+              "**GST (101st Amendment, 2016; live from 1 July 2017):** a destination-based, dual (CGST+SGST, IGST on inter-state) tax subsuming most indirect taxes; governed by the **GST Council (Art 279A)**; *Mohit Minerals (2022)* held its recommendations are **persuasive, not binding** — 'cooperative federalism as dialogue'.",
+              "**Principles:** Adam Smith's **canons** (equity, certainty, convenience, economy); buoyancy & elasticity; **Laffer curve**; the equity–efficiency trade-off; and the push for a **wider tax base** (India's low tax-to-GDP ratio ~11–12% for the Centre).",
+              "**Trends & reforms:** faceless assessment, new personal-income-tax regime, corporate-tax cuts (2019), the new **Income-Tax Act, 2025** replacing the 1961 Act, and formalisation via GST/DBT/UPI data trails.",
+              "**AP angle:** state's own tax revenue (SGST, stamps & registration, excise, motor vehicles) and dependence on central devolution & GST compensation — the fiscal-federalism link."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**GST** — 101st Constitutional Amendment; **GST Council** under **Art 279A**; live from **1 July 2017**.",
+          "**Mohit Minerals (2022)** — GST Council recommendations are recommendatory, not binding.",
+          "Adam Smith's four **canons of taxation**: equity, certainty, convenience, economy."
+        ],
+        "mainsAngles": [
+          "'GST is a landmark in cooperative fiscal federalism yet a source of Centre–State friction' — evaluate."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -327,12 +555,30 @@
       "Read the tax system federally — cesses, devolution and the state's kit — from Andhra Pradesh's seat."
     ],
     "glossary": [
-      { "term": "Incidence vs impact", "definition": "Who ultimately bears a tax vs who first pays it — the direct/indirect classification's test." },
-      { "term": "Progressive taxation", "definition": "Average rate rising with income — equity's instrument, income tax's design." },
-      { "term": "Input tax credit", "definition": "GST's set-off of taxes paid on inputs against output liability — the anti-cascading engine." },
-      { "term": "Global minimum tax", "definition": "OECD Pillar-2's 15% floor on multinational profits — ending the race to the bottom." },
-      { "term": "Tax buoyancy", "definition": "Revenue growth relative to GDP growth — above one signals a strengthening system." },
-      { "term": "Faceless assessment", "definition": "Anonymised, jurisdiction-free e-proceedings in income tax — integrity by design." }
+      {
+        "term": "Incidence vs impact",
+        "definition": "Who ultimately bears a tax vs who first pays it — the direct/indirect classification's test."
+      },
+      {
+        "term": "Progressive taxation",
+        "definition": "Average rate rising with income — equity's instrument, income tax's design."
+      },
+      {
+        "term": "Input tax credit",
+        "definition": "GST's set-off of taxes paid on inputs against output liability — the anti-cascading engine."
+      },
+      {
+        "term": "Global minimum tax",
+        "definition": "OECD Pillar-2's 15% floor on multinational profits — ending the race to the bottom."
+      },
+      {
+        "term": "Tax buoyancy",
+        "definition": "Revenue growth relative to GDP growth — above one signals a strengthening system."
+      },
+      {
+        "term": "Faceless assessment",
+        "definition": "Anonymised, jurisdiction-free e-proceedings in income tax — integrity by design."
+      }
     ]
   }
 ]
