@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Phase / principle", "Detail"],
+            "headers": [
+              "Phase / principle",
+              "Detail"
+            ],
             "rows": [
-              ["**Panchsheel (1954)**", "**Five Principles of Peaceful Coexistence** (India-China agreement) — mutual respect, non-aggression, non-interference, equality, coexistence."],
-              ["**Non-Alignment (NAM)**", "Founded **1961 (Belgrade)** — Nehru, Nasser, Tito; independence from both Cold-War blocs."],
-              ["**Post-1991 shift**", "**Economic diplomacy, Look East → Act East, strategic autonomy, multi-alignment**."],
-              ["**Doctrines/policies**", "**Gujral Doctrine, Neighbourhood First, Act East, SAGAR (maritime), Indo-Pacific, Vaccine Maitri**."],
-              ["**Core aims**", "**Strategic autonomy, national interest, multipolar world, Global South leadership**."]
+              [
+                "**Panchsheel (1954)**",
+                "**Five Principles of Peaceful Coexistence** (India-China agreement) — mutual respect, non-aggression, non-interference, equality, coexistence."
+              ],
+              [
+                "**Non-Alignment (NAM)**",
+                "Founded **1961 (Belgrade)** — Nehru, Nasser, Tito; independence from both Cold-War blocs."
+              ],
+              [
+                "**Post-1991 shift**",
+                "**Economic diplomacy, Look East → Act East, strategic autonomy, multi-alignment**."
+              ],
+              [
+                "**Doctrines/policies**",
+                "**Gujral Doctrine, Neighbourhood First, Act East, SAGAR (maritime), Indo-Pacific, Vaccine Maitri**."
+              ],
+              [
+                "**Core aims**",
+                "**Strategic autonomy, national interest, multipolar world, Global South leadership**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: India's foreign policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Foundations**: **Panchsheel (1954)** — 5 principles of peaceful coexistence; **Non-Aligned Movement (NAM, 1961 Belgrade — Nehru, Nasser, Tito)**; anti-colonialism; strategic autonomy.",
+              "**Evolution**: 1962 (China war) & 1971 (Bangladesh + Indo-Soviet Treaty) shifts to realism; **1974/1998 nuclear tests**; post-1991 **Look East → Act East**; **Neighbourhood First, SAGAR (maritime), Indo-Pacific, Vaccine Maitri**.",
+              "**Doctrines/partnerships**: strategic partnership with the US (Quad), Russia, EU, Japan; **Gujral Doctrine** (non-reciprocity with neighbours).",
+              "**Determinants**: geography, history, economy, security (China-Pakistan), diaspora, energy; parliamentary oversight; MEA."
             ]
           }
         ]
@@ -44,15 +77,28 @@
       "**Look East (1991) → Act East (2014)** policy; **Neighbourhood First**.",
       "**SAGAR** — 'Security and Growth for All in the Region' (maritime vision).",
       "India champions **strategic autonomy** and a **multipolar world order**.",
-      "**Vaccine Maitri, Global South (Voice of Global South Summit)** — recent diplomacy."
+      "**Vaccine Maitri, Global South (Voice of Global South Summit)** — recent diplomacy.",
+      "**Panchsheel (1954)** = 5 principles; **NAM (1961, Belgrade)** — Nehru, Nasser, Tito, Sukarno, Nkrumah.",
+      "**Look East (1991) → Act East** policy; **Neighbourhood First**; **SAGAR** (maritime vision).",
+      "**Gujral Doctrine** = non-reciprocity toward smaller neighbours.",
+      "Nuclear tests: **Pokhran-I (1974), Pokhran-II (1998)**."
     ],
     "mainsAngles": [
       "Trace the evolution of India's foreign policy from non-alignment to multi-alignment."
     ],
     "glossary": [
-      {"term": "Panchsheel", "definition": "The Five Principles of Peaceful Coexistence (1954) guiding India's foreign relations."},
-      {"term": "Non-Aligned Movement", "definition": "The bloc of states (founded 1961) that stayed independent of the Cold-War superpower camps."},
-      {"term": "Strategic autonomy", "definition": "India's policy of independent decision-making without binding alliances."}
+      {
+        "term": "Panchsheel",
+        "definition": "The Five Principles of Peaceful Coexistence (1954) guiding India's foreign relations."
+      },
+      {
+        "term": "Non-Aligned Movement",
+        "definition": "The bloc of states (founded 1961) that stayed independent of the Cold-War superpower camps."
+      },
+      {
+        "term": "Strategic autonomy",
+        "definition": "India's policy of independent decision-making without binding alliances."
+      }
     ]
   },
   {
@@ -68,13 +114,84 @@
           },
           {
             "type": "table",
-            "headers": ["Institution", "Detail"],
+            "headers": [
+              "Institution",
+              "Detail"
+            ],
             "rows": [
-              ["**United Nations (1945)**", "HQ **New York**; 6 organs; **Security Council** (5 permanent + 10 non-permanent); India seeks permanent seat."],
-              ["**Bretton Woods**", "**IMF & World Bank (1944, HQ Washington)** — monetary stability & development finance."],
-              ["**WTO (1995)**", "HQ **Geneva**; succeeded GATT; rules-based world trade."],
-              ["**Plurilateral fora**", "**G20 (India hosted 2023), BRICS, SCO, QUAD, IBSA**."],
-              ["**Regional**", "**SAARC (1985, HQ Kathmandu), ASEAN, BIMSTEC, Indian Ocean Rim (IORA)**."]
+              [
+                "**United Nations (1945)**",
+                "HQ **New York**; 6 organs; **Security Council** (5 permanent + 10 non-permanent); India seeks permanent seat."
+              ],
+              [
+                "**Bretton Woods**",
+                "**IMF & World Bank (1944, HQ Washington)** — monetary stability & development finance."
+              ],
+              [
+                "**WTO (1995)**",
+                "HQ **Geneva**; succeeded GATT; rules-based world trade."
+              ],
+              [
+                "**Plurilateral fora**",
+                "**G20 (India hosted 2023), BRICS, SCO, QUAD, IBSA**."
+              ],
+              [
+                "**Regional**",
+                "**SAARC (1985, HQ Kathmandu), ASEAN, BIMSTEC, Indian Ocean Rim (IORA)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: international institutions & fora",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Body",
+              "HQ / note"
+            ],
+            "rows": [
+              [
+                "**UN & UNSC**",
+                "New York; India seeks permanent UNSC seat (G4)."
+              ],
+              [
+                "**IMF / World Bank**",
+                "Washington DC; Bretton Woods (1944)."
+              ],
+              [
+                "**WTO**",
+                "Geneva (1995, replaced GATT)."
+              ],
+              [
+                "**WHO / ILO / UNESCO**",
+                "Geneva / Geneva / Paris."
+              ],
+              [
+                "**BRICS**",
+                "India, Brazil, Russia, China, S.Africa (+ new members 2024); New Development Bank (Shanghai)."
+              ],
+              [
+                "**G20 / G7**",
+                "India hosted G20 (2023 — 'Vasudhaiva Kutumbakam')."
+              ],
+              [
+                "**SCO / ASEAN / SAARC / BIMSTEC**",
+                "Regional groupings."
+              ],
+              [
+                "**Quad / I2U2**",
+                "Indo-Pacific strategic groupings."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Financial/dev**: **AIIB** (Beijing), **ADB** (Manila), **NDB** (BRICS bank, Shanghai — first president K.V. Kamath, India)."
             ]
           }
         ]
@@ -100,15 +217,28 @@
       "**WTO (1995)** — HQ **Geneva**; replaced **GATT**; India a founding member.",
       "**G20** — India held the presidency & hosted the summit in **2023 (New Delhi)**.",
       "**BRICS, SCO, QUAD, IBSA** — key plurilateral groupings India is part of.",
-      "**SAARC (1985, HQ Kathmandu), BIMSTEC, ASEAN, IORA** — regional fora."
+      "**SAARC (1985, HQ Kathmandu), BIMSTEC, ASEAN, IORA** — regional fora.",
+      "**WTO (1995, Geneva)** replaced GATT; **IMF & World Bank** = Bretton Woods (1944), HQ Washington.",
+      "**BRICS** New Development Bank HQ = **Shanghai**; **AIIB** = Beijing; **ADB** = Manila.",
+      "India in **G20 (hosted 2023), G4, SCO, BIMSTEC, Quad**; seeks permanent **UNSC** seat.",
+      "**BIMSTEC** (Bay of Bengal) vs stalled **SAARC**; **ASEAN** = Act East pivot."
     ],
     "mainsAngles": [
       "Assess India's engagement with key international institutions and groupings."
     ],
     "glossary": [
-      {"term": "UN Security Council", "definition": "The UN organ for peace and security, with five permanent and ten non-permanent members."},
-      {"term": "WTO", "definition": "The World Trade Organization (1995, Geneva), the rules-based body governing world trade."},
-      {"term": "G20", "definition": "The forum of 20 major economies; India held its presidency and hosted the summit in 2023."}
+      {
+        "term": "UN Security Council",
+        "definition": "The UN organ for peace and security, with five permanent and ten non-permanent members."
+      },
+      {
+        "term": "WTO",
+        "definition": "The World Trade Organization (1995, Geneva), the rules-based body governing world trade."
+      },
+      {
+        "term": "G20",
+        "definition": "The forum of 20 major economies; India held its presidency and hosted the summit in 2023."
+      }
     ]
   }
 ]
