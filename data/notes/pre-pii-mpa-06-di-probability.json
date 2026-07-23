@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Format", "Best for"],
+            "headers": [
+              "Format",
+              "Best for"
+            ],
             "rows": [
-              ["**Table**", "Exact values; multi-variable comparison."],
-              ["**Bar graph**", "Comparing quantities across categories."],
-              ["**Line graph**", "Trends over time."],
-              ["**Pie chart**", "Parts of a whole (each 1% = 3.6°)."],
-              ["**Caselet**", "Data embedded in a paragraph — extract into a table."]
+              [
+                "**Table**",
+                "Exact values; multi-variable comparison."
+              ],
+              [
+                "**Bar graph**",
+                "Comparing quantities across categories."
+              ],
+              [
+                "**Line graph**",
+                "Trends over time."
+              ],
+              [
+                "**Pie chart**",
+                "Parts of a whole (each 1% = 3.6°)."
+              ],
+              [
+                "**Caselet**",
+                "Data embedded in a paragraph — extract into a table."
+              ]
             ]
           },
           {
@@ -31,6 +49,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📊 Methods & solved examples: data interpretation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Formats**: tables, bar/line/pie charts, mixed/caselet; read the **title, units, legend** first.",
+              "**Pie chart**: each sector = (value/total)×360°; convert % ↔ degrees (1% = 3.6°).",
+              "**% change, ratios, averages, growth** across categories are the common asks; approximate to save time.",
+              "**Traps**: absolute vs percentage, cumulative vs individual, different bases; watch units (₹ crore vs lakh)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: In a pie chart, a sector of 90° = **25%** of the total. || If sales grew from 200 to 250, growth = 50/200×100 = **25%**. || Average of 4 items summing to 1200 = **300**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -39,11 +76,21 @@
       "Use **percentage & ratio shortcuts**; approximate where options are far apart.",
       "Distinguish **absolute values vs percentages/growth rates**.",
       "**Average, %-change and ratio** questions dominate DI.",
-      "Cross-check units (thousands/lakhs/crores)."
+      "Cross-check units (thousands/lakhs/crores).",
+      "Pie: sector angle = **(value/total)×360°**; **1% = 3.6°**.",
+      "% change = (change/original)×100; read **units & legend** first.",
+      "Distinguish **absolute vs %**, cumulative vs individual.",
+      "Approximate for speed in DI."
     ],
     "glossary": [
-      {"term": "Data interpretation", "definition": "Analysing data given in tables or graphs to answer quantitative questions."},
-      {"term": "Pie chart", "definition": "A circular chart showing parts of a whole, where 1% equals 3.6 degrees."}
+      {
+        "term": "Data interpretation",
+        "definition": "Analysing data given in tables or graphs to answer quantitative questions."
+      },
+      {
+        "term": "Pie chart",
+        "definition": "A circular chart showing parts of a whole, where 1% equals 3.6 degrees."
+      }
     ]
   },
   {
@@ -59,13 +106,31 @@
           },
           {
             "type": "table",
-            "headers": ["Option (standard)", "Meaning"],
+            "headers": [
+              "Option (standard)",
+              "Meaning"
+            ],
             "rows": [
-              ["**A**", "Statement I alone is sufficient, II alone is not."],
-              ["**B**", "Statement II alone is sufficient, I alone is not."],
-              ["**C**", "Both together are sufficient, neither alone."],
-              ["**D**", "Each alone is sufficient."],
-              ["**E**", "Both together are still insufficient."]
+              [
+                "**A**",
+                "Statement I alone is sufficient, II alone is not."
+              ],
+              [
+                "**B**",
+                "Statement II alone is sufficient, I alone is not."
+              ],
+              [
+                "**C**",
+                "Both together are sufficient, neither alone."
+              ],
+              [
+                "**D**",
+                "Each alone is sufficient."
+              ],
+              [
+                "**E**",
+                "Both together are still insufficient."
+              ]
             ]
           },
           {
@@ -78,6 +143,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📊 Method & solved examples: data sufficiency",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "You judge **whether the given statements are ENOUGH** to answer — NOT the actual value.",
+              "Standard options: (a) Statement I alone sufficient, (b) II alone, (c) both together, (d) either alone, (e) neither.",
+              "**Method**: test each statement **independently**, then together; don't do unnecessary calculation; beware assuming extra info.",
+              "A statement that gives a **unique** answer is sufficient; multiple possible answers = insufficient."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: 'What is x?' I: x is even; II: x is prime. Alone each insufficient; together x is an even prime → **x=2** → both together sufficient (option c)."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -86,11 +170,21 @@
       "A statement is sufficient only if it gives a **unique** answer.",
       "Don't carry assumptions from one statement into the other when testing 'alone'.",
       "Combine statements **only if** neither is individually sufficient.",
-      "Avoid unnecessary full calculation — save time."
+      "Avoid unnecessary full calculation — save time.",
+      "Data sufficiency = decide if statements **suffice**, don't compute the value.",
+      "Test **each statement alone first**, then together.",
+      "A statement is sufficient only if it yields a **unique** answer.",
+      "Don't assume information beyond what's stated."
     ],
     "glossary": [
-      {"term": "Data sufficiency", "definition": "A question type asking whether the given statements are enough to answer, not the answer itself."},
-      {"term": "Unique answer", "definition": "A single definite value/outcome, the test of a statement's sufficiency."}
+      {
+        "term": "Data sufficiency",
+        "definition": "A question type asking whether the given statements are enough to answer, not the answer itself."
+      },
+      {
+        "term": "Unique answer",
+        "definition": "A single definite value/outcome, the test of a statement's sufficiency."
+      }
     ]
   },
   {
@@ -106,13 +200,31 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Formula"],
+            "headers": [
+              "Concept",
+              "Formula"
+            ],
             "rows": [
-              ["**Basic**", "**P(E) = favourable / total outcomes**; 0 ≤ P ≤ 1."],
-              ["**Complement**", "P(not E) = 1 − P(E)."],
-              ["**Addition (OR)**", "P(A∪B) = P(A) + P(B) − P(A∩B)."],
-              ["**Mutually exclusive**", "P(A∩B)=0 → P(A∪B) = P(A)+P(B)."],
-              ["**Independent (AND)**", "P(A∩B) = P(A)×P(B)."]
+              [
+                "**Basic**",
+                "**P(E) = favourable / total outcomes**; 0 ≤ P ≤ 1."
+              ],
+              [
+                "**Complement**",
+                "P(not E) = 1 − P(E)."
+              ],
+              [
+                "**Addition (OR)**",
+                "P(A∪B) = P(A) + P(B) − P(A∩B)."
+              ],
+              [
+                "**Mutually exclusive**",
+                "P(A∩B)=0 → P(A∪B) = P(A)+P(B)."
+              ],
+              [
+                "**Independent (AND)**",
+                "P(A∩B) = P(A)×P(B)."
+              ]
             ]
           },
           {
@@ -123,6 +235,26 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📊 Formulae & solved examples: probability",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Probability** P(E) = (favourable outcomes)/(total outcomes); **0 ≤ P ≤ 1**; P(certain)=1, P(impossible)=0.",
+              "**Complement**: P(not E) = 1 − P(E).",
+              "**Addition**: P(A∪B) = P(A)+P(B)−P(A∩B); mutually exclusive → P(A∩B)=0.",
+              "**Multiplication (independent)**: P(A∩B) = P(A)·P(B).",
+              "Sample spaces: **die = 6, coin = 2, deck = 52 (26 red/black, 4 suits of 13, 12 face cards, 4 aces)**."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: P(even on a die) = 3/6 = **½**. || P(a king from a deck) = 4/52 = **1/13**. || Two coins: P(both heads) = ½·½ = **¼**. || P(at least one head in 2 tosses) = 1 − ¼ = **¾**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -131,12 +263,25 @@
       "**Mutually exclusive**: P(A∪B) = P(A)+P(B); **independent**: P(A∩B)=P(A)·P(B).",
       "A **deck has 52 cards** (26 red, 26 black; 4 suits; 12 face cards).",
       "A **die** has 6 faces; a **coin** two.",
-      "Sum of probabilities of all outcomes = **1**."
+      "Sum of probabilities of all outcomes = **1**.",
+      "**P(E) = favourable/total**; 0≤P≤1; **P(not E)=1−P(E)**.",
+      "**P(A∪B)=P(A)+P(B)−P(A∩B)**; independent → **P(A)·P(B)**.",
+      "Deck of 52: **4 aces, 12 face cards, 13 per suit, 26 red/black**.",
+      "'At least one' → use the **complement** (1 − P(none))."
     ],
     "glossary": [
-      {"term": "Probability", "definition": "A measure (0 to 1) of the likelihood of an event occurring."},
-      {"term": "Mutually exclusive events", "definition": "Events that cannot occur together, so P(A∩B)=0."},
-      {"term": "Independent events", "definition": "Events where one's occurrence does not affect the other's, so P(A∩B)=P(A)·P(B)."}
+      {
+        "term": "Probability",
+        "definition": "A measure (0 to 1) of the likelihood of an event occurring."
+      },
+      {
+        "term": "Mutually exclusive events",
+        "definition": "Events that cannot occur together, so P(A∩B)=0."
+      },
+      {
+        "term": "Independent events",
+        "definition": "Events where one's occurrence does not affect the other's, so P(A∩B)=P(A)·P(B)."
+      }
     ]
   }
 ]

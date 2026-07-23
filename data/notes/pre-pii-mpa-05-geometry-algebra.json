@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Shape", "Area / Perimeter"],
+            "headers": [
+              "Shape",
+              "Area / Perimeter"
+            ],
             "rows": [
-              ["**Square**", "Area = a²; Perimeter = 4a; diagonal = a√2."],
-              ["**Rectangle**", "Area = l×b; Perimeter = 2(l+b)."],
-              ["**Triangle**", "Area = ½ × base × height; **Heron: √(s(s−a)(s−b)(s−c))**, s = (a+b+c)/2."],
-              ["**Circle**", "Area = πr²; Circumference = 2πr."],
-              ["**Parallelogram / Trapezium**", "base×height; **½(a+b)×h**."]
+              [
+                "**Square**",
+                "Area = a²; Perimeter = 4a; diagonal = a√2."
+              ],
+              [
+                "**Rectangle**",
+                "Area = l×b; Perimeter = 2(l+b)."
+              ],
+              [
+                "**Triangle**",
+                "Area = ½ × base × height; **Heron: √(s(s−a)(s−b)(s−c))**, s = (a+b+c)/2."
+              ],
+              [
+                "**Circle**",
+                "Area = πr²; Circumference = 2πr."
+              ],
+              [
+                "**Parallelogram / Trapezium**",
+                "base×height; **½(a+b)×h**."
+              ]
             ]
           },
           {
@@ -29,6 +47,66 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Formulae & solved examples: area & perimeter (2D)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Shape",
+              "Area",
+              "Perimeter"
+            ],
+            "rows": [
+              [
+                "Rectangle",
+                "l×b",
+                "2(l+b)"
+              ],
+              [
+                "Square",
+                "a²",
+                "4a"
+              ],
+              [
+                "Triangle",
+                "½·b·h ; **Heron: √[s(s−a)(s−b)(s−c)]**",
+                "a+b+c"
+              ],
+              [
+                "Equilateral triangle",
+                "(√3/4)a²",
+                "3a"
+              ],
+              [
+                "Circle",
+                "**πr²**",
+                "**2πr**"
+              ],
+              [
+                "Parallelogram",
+                "b×h",
+                "2(a+b)"
+              ],
+              [
+                "Rhombus",
+                "½·d₁·d₂",
+                "4a"
+              ],
+              [
+                "Trapezium",
+                "½(a+b)·h",
+                "sum of sides"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Circle r=7 → area = 22/7·49 = **154**, circumference = 2·22/7·7 = **44**. || Equilateral side 4 → area = (√3/4)·16 = **4√3**. || Rectangle 8×6 → area 48, perimeter 28."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -37,11 +115,21 @@
       "**Equilateral triangle**: area (√3/4)a², height (√3/2)a.",
       "**Circle**: area πr², circumference 2πr; use **π = 22/7**.",
       "**Trapezium** area = ½(sum of parallel sides)×height.",
-      "Area of a rhombus = ½ × product of diagonals."
+      "Area of a rhombus = ½ × product of diagonals.",
+      "Circle: area **πr²**, circumference **2πr** (use π=22/7).",
+      "Triangle: **½·base·height** or **Heron's** √[s(s−a)(s−b)(s−c)], s=(a+b+c)/2.",
+      "Equilateral: area **(√3/4)a²**; Rhombus: **½·d₁·d₂**.",
+      "Trapezium area = **½(sum of parallel sides)·height**."
     ],
     "glossary": [
-      {"term": "Perimeter", "definition": "The total length of the boundary of a plane figure."},
-      {"term": "Heron's formula", "definition": "A formula giving a triangle's area from its three sides via the semi-perimeter."}
+      {
+        "term": "Perimeter",
+        "definition": "The total length of the boundary of a plane figure."
+      },
+      {
+        "term": "Heron's formula",
+        "definition": "A formula giving a triangle's area from its three sides via the semi-perimeter."
+      }
     ]
   },
   {
@@ -57,13 +145,31 @@
           },
           {
             "type": "table",
-            "headers": ["Solid", "Volume / Surface Area"],
+            "headers": [
+              "Solid",
+              "Volume / Surface Area"
+            ],
             "rows": [
-              ["**Cube**", "V = a³; TSA = 6a²; diagonal = a√3."],
-              ["**Cuboid**", "V = l×b×h; TSA = 2(lb+bh+hl)."],
-              ["**Cylinder**", "V = πr²h; CSA = 2πrh; TSA = 2πr(r+h)."],
-              ["**Cone**", "V = ⅓πr²h; CSA = πrl (l = slant); TSA = πr(r+l)."],
-              ["**Sphere**", "V = (4/3)πr³; Surface = 4πr²."]
+              [
+                "**Cube**",
+                "V = a³; TSA = 6a²; diagonal = a√3."
+              ],
+              [
+                "**Cuboid**",
+                "V = l×b×h; TSA = 2(lb+bh+hl)."
+              ],
+              [
+                "**Cylinder**",
+                "V = πr²h; CSA = 2πrh; TSA = 2πr(r+h)."
+              ],
+              [
+                "**Cone**",
+                "V = ⅓πr²h; CSA = πrl (l = slant); TSA = πr(r+l)."
+              ],
+              [
+                "**Sphere**",
+                "V = (4/3)πr³; Surface = 4πr²."
+              ]
             ]
           },
           {
@@ -74,6 +180,56 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Formulae & solved examples: volume & surface area (3D)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Solid",
+              "Volume",
+              "Surface area"
+            ],
+            "rows": [
+              [
+                "Cube",
+                "a³",
+                "6a² (TSA)"
+              ],
+              [
+                "Cuboid",
+                "l·b·h",
+                "2(lb+bh+hl)"
+              ],
+              [
+                "Cylinder",
+                "πr²h",
+                "2πr(r+h) TSA ; 2πrh CSA"
+              ],
+              [
+                "Cone",
+                "⅓πr²h",
+                "πr(l+r) ; l=√(r²+h²)"
+              ],
+              [
+                "Sphere",
+                "4/3·πr³",
+                "4πr²"
+              ],
+              [
+                "Hemisphere",
+                "2/3·πr³",
+                "3πr² TSA ; 2πr² CSA"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Sphere r=3 → volume = 4/3·π·27 = **36π**, surface = 4π·9 = **36π**. || Cylinder r=7,h=10 → volume = 22/7·49·10 = **1540**. || Cube side 5 → volume 125, TSA 150."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,11 +238,21 @@
       "**Cylinder**: V = πr²h, CSA = 2πrh.",
       "**Cone**: V = ⅓πr²h, CSA = πrl, slant l = √(r²+h²).",
       "**Sphere**: V = (4/3)πr³, surface 4πr²; **hemisphere** TSA = 3πr².",
-      "Cone volume = **⅓ × cylinder** of same base & height."
+      "Cone volume = **⅓ × cylinder** of same base & height.",
+      "Sphere: **V=4/3πr³, SA=4πr²**; Hemisphere TSA **3πr²**.",
+      "Cylinder: V=**πr²h**, CSA=**2πrh**, TSA=**2πr(r+h)**.",
+      "Cone: V=**⅓πr²h**, slant **l=√(r²+h²)**, CSA=**πrl**.",
+      "Cube V=a³, TSA=6a²; Cuboid V=lbh."
     ],
     "glossary": [
-      {"term": "Total surface area", "definition": "The sum of all outer surface areas of a solid."},
-      {"term": "Slant height", "definition": "The distance from a cone's apex to the edge of its base, l = √(r²+h²)."}
+      {
+        "term": "Total surface area",
+        "definition": "The sum of all outer surface areas of a solid."
+      },
+      {
+        "term": "Slant height",
+        "definition": "The distance from a cone's apex to the edge of its base, l = √(r²+h²)."
+      }
     ]
   },
   {
@@ -102,13 +268,31 @@
           },
           {
             "type": "table",
-            "headers": ["Angle pair", "Relation (parallel lines)"],
+            "headers": [
+              "Angle pair",
+              "Relation (parallel lines)"
+            ],
             "rows": [
-              ["**Corresponding angles**", "Equal."],
-              ["**Alternate interior angles**", "Equal."],
-              ["**Alternate exterior angles**", "Equal."],
-              ["**Co-interior (allied)**", "Supplementary (sum = 180°)."],
-              ["**Vertically opposite**", "Equal (always, at any intersection)."]
+              [
+                "**Corresponding angles**",
+                "Equal."
+              ],
+              [
+                "**Alternate interior angles**",
+                "Equal."
+              ],
+              [
+                "**Alternate exterior angles**",
+                "Equal."
+              ],
+              [
+                "**Co-interior (allied)**",
+                "Supplementary (sum = 180°)."
+              ],
+              [
+                "**Vertically opposite**",
+                "Equal (always, at any intersection)."
+              ]
             ]
           },
           {
@@ -119,6 +303,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Concepts & solved examples: lines & angles",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Angle pairs**: complementary (sum 90°), supplementary (sum 180°); **vertically opposite angles are equal**.",
+              "**Parallel lines cut by a transversal**: **corresponding angles equal, alternate (interior/exterior) angles equal, co-interior (allied) angles sum to 180°**.",
+              "Angles on a straight line sum to **180°**; around a point **360°**."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: If two parallel lines are cut by a transversal and one angle is 70°, its alternate angle is **70°** and its co-interior angle is **110°**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -127,11 +329,21 @@
       "**Vertically opposite angles are always equal**.",
       "Angles on a **straight line = 180°**; around a **point = 360°**.",
       "Two lines are parallel **iff** corresponding/alternate angles are equal.",
-      "**Complementary** angles sum to 90°; **supplementary** to 180°."
+      "**Complementary** angles sum to 90°; **supplementary** to 180°.",
+      "**Vertically opposite angles equal**; linear pair sums to 180°.",
+      "Parallel + transversal: **corresponding & alternate angles equal**, **co-interior = 180°**.",
+      "Complementary = 90°, supplementary = 180°.",
+      "Angles around a point = **360°**."
     ],
     "glossary": [
-      {"term": "Transversal", "definition": "A line crossing two or more other lines."},
-      {"term": "Alternate angles", "definition": "Equal angle pairs on opposite sides of a transversal between parallel lines."}
+      {
+        "term": "Transversal",
+        "definition": "A line crossing two or more other lines."
+      },
+      {
+        "term": "Alternate angles",
+        "definition": "Equal angle pairs on opposite sides of a transversal between parallel lines."
+      }
     ]
   },
   {
@@ -147,13 +359,31 @@
           },
           {
             "type": "table",
-            "headers": ["Figure", "Key property"],
+            "headers": [
+              "Figure",
+              "Key property"
+            ],
             "rows": [
-              ["**Triangle**", "Angle sum = 180°; exterior angle = sum of two opposite interior; **Pythagoras** for right triangle."],
-              ["**Types**", "Equilateral (all equal), isosceles (two equal), scalene; acute/right/obtuse."],
-              ["**Rectangle**", "Opposite sides equal; all angles 90°; diagonals equal & bisect."],
-              ["**Parallelogram**", "Opposite sides & angles equal; diagonals bisect each other."],
-              ["**Rhombus**", "All sides equal; diagonals bisect at right angles."]
+              [
+                "**Triangle**",
+                "Angle sum = 180°; exterior angle = sum of two opposite interior; **Pythagoras** for right triangle."
+              ],
+              [
+                "**Types**",
+                "Equilateral (all equal), isosceles (two equal), scalene; acute/right/obtuse."
+              ],
+              [
+                "**Rectangle**",
+                "Opposite sides equal; all angles 90°; diagonals equal & bisect."
+              ],
+              [
+                "**Parallelogram**",
+                "Opposite sides & angles equal; diagonals bisect each other."
+              ],
+              [
+                "**Rhombus**",
+                "All sides equal; diagonals bisect at right angles."
+              ]
             ]
           },
           {
@@ -164,6 +394,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Formulae & solved examples: triangles & quadrilaterals",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Triangle**: angle sum **180°**; exterior angle = sum of two opposite interiors; **Pythagoras** (right triangle) a²+b² = c².",
+              "**Congruence** (SSS, SAS, ASA, RHS) & **similarity** (AA — sides proportional); **area ratio = (side ratio)²**.",
+              "**Quadrilateral**: angle sum **360°**; special — square, rectangle, parallelogram (opposite sides/angles equal, diagonals bisect), rhombus (diagonals ⟂ bisect), trapezium.",
+              "**Polygon**: sum of interior angles = **(n−2)·180°**; each exterior angle of a regular n-gon = **360°/n**."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Right triangle legs 3,4 → hypotenuse √(9+16)=**5**. || Interior-angle sum of a hexagon = (6−2)·180 = **720°**. || Similar triangles with sides 2:3 have areas **4:9**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -172,11 +421,21 @@
       "**Quadrilateral angle sum = 360°**.",
       "**Rhombus**: all sides equal, diagonals bisect at 90°.",
       "**Square** = rectangle + rhombus properties combined.",
-      "Sum of any two sides of a triangle **> the third side**."
+      "Sum of any two sides of a triangle **> the third side**.",
+      "Triangle angle sum **180°**; polygon interior sum **(n−2)·180°**; regular exterior angle **360°/n**.",
+      "**Pythagoras** a²+b²=c²; common triples 3-4-5, 5-12-13, 8-15-17.",
+      "Similar triangles: **area ratio = (side ratio)²**.",
+      "Congruence: **SSS, SAS, ASA, RHS**."
     ],
     "glossary": [
-      {"term": "Pythagoras theorem", "definition": "In a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides."},
-      {"term": "Parallelogram", "definition": "A quadrilateral with both pairs of opposite sides parallel and equal."}
+      {
+        "term": "Pythagoras theorem",
+        "definition": "In a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides."
+      },
+      {
+        "term": "Parallelogram",
+        "definition": "A quadrilateral with both pairs of opposite sides parallel and equal."
+      }
     ]
   },
   {
@@ -192,13 +451,31 @@
           },
           {
             "type": "table",
-            "headers": ["BODMAS order", "Meaning"],
+            "headers": [
+              "BODMAS order",
+              "Meaning"
+            ],
             "rows": [
-              ["**B**", "Brackets ( ), { }, [ ]."],
-              ["**O**", "Orders (powers & roots)."],
-              ["**D / M**", "Division & Multiplication (left to right)."],
-              ["**A / S**", "Addition & Subtraction (left to right)."],
-              ["**Identities**", "(a+b)² = a²+2ab+b²; (a−b)² = a²−2ab+b²; a²−b² = (a+b)(a−b)."]
+              [
+                "**B**",
+                "Brackets ( ), { }, [ ]."
+              ],
+              [
+                "**O**",
+                "Orders (powers & roots)."
+              ],
+              [
+                "**D / M**",
+                "Division & Multiplication (left to right)."
+              ],
+              [
+                "**A / S**",
+                "Addition & Subtraction (left to right)."
+              ],
+              [
+                "**Identities**",
+                "(a+b)² = a²+2ab+b²; (a−b)² = a²−2ab+b²; a²−b² = (a+b)(a−b)."
+              ]
             ]
           },
           {
@@ -209,6 +486,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Rules & solved examples: algebra & BODMAS",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**BODMAS/BEDMAS** order: Brackets → Orders(powers/roots) → Division/Multiplication (left→right) → Addition/Subtraction.",
+              "**Identities**: (a+b)²=a²+2ab+b²; (a−b)²=a²−2ab+b²; a²−b²=(a+b)(a−b); (a+b)³, a³±b³=(a±b)(a²∓ab+b²); (a+b+c)²=a²+b²+c²+2(ab+bc+ca).",
+              "**Linear/quadratic equations**: quadratic roots **x = [−b ± √(b²−4ac)]/2a**; sum of roots = −b/a, product = c/a.",
+              "**Factorisation** & substitution simplify expressions."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: 2+3×4 = 2+12 = **14** (not 20). || (7+3)² = 100 = 49+42+9 ✓. || Roots of x²−5x+6=0 → (x−2)(x−3) → **2,3**. || a²−b² with 103²−97² = (200)(6) = **1200**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -217,11 +513,21 @@
       "**(a+b)² = a²+2ab+b²**, **(a−b)² = a²−2ab+b²**, **a²−b² = (a+b)(a−b)**.",
       "**(a+b)³ = a³+3a²b+3ab²+b³**; a³+b³ = (a+b)(a²−ab+b²).",
       "A **linear equation** has degree 1; a **quadratic** degree 2 (two roots).",
-      "Quadratic roots: **x = [−b ± √(b²−4ac)]/2a**."
+      "Quadratic roots: **x = [−b ± √(b²−4ac)]/2a**.",
+      "**BODMAS**: Brackets, Orders, Division/Multiplication, Addition/Subtraction (L→R).",
+      "**a²−b² = (a+b)(a−b)**; (a±b)²; a³±b³ factorisations.",
+      "Quadratic: **x=[−b±√(b²−4ac)]/2a**; sum of roots −b/a, product c/a.",
+      "Use identities to compute fast (e.g. 103²−97²)."
     ],
     "glossary": [
-      {"term": "BODMAS", "definition": "The order-of-operations rule: Brackets, Orders, Division/Multiplication, Addition/Subtraction."},
-      {"term": "Algebraic identity", "definition": "An equation true for all values of its variables (e.g. a²−b² = (a+b)(a−b))."}
+      {
+        "term": "BODMAS",
+        "definition": "The order-of-operations rule: Brackets, Orders, Division/Multiplication, Addition/Subtraction."
+      },
+      {
+        "term": "Algebraic identity",
+        "definition": "An equation true for all values of its variables (e.g. a²−b² = (a+b)(a−b))."
+      }
     ]
   },
   {
@@ -237,13 +543,31 @@
           },
           {
             "type": "table",
-            "headers": ["Step", "Approach"],
+            "headers": [
+              "Step",
+              "Approach"
+            ],
             "rows": [
-              ["**Read the definition**", "Note precisely what the symbol does (e.g. a@b = 2a − b)."],
-              ["**Substitute**", "Replace the operator with its definition for the given values."],
-              ["**Apply BODMAS**", "Simplify the resulting normal expression."],
-              ["**Nested symbols**", "Work from the **innermost** operation outward."],
-              ["**Symbol-swap type**", "Replace given symbols (+ means ×, etc.) then compute."]
+              [
+                "**Read the definition**",
+                "Note precisely what the symbol does (e.g. a@b = 2a − b)."
+              ],
+              [
+                "**Substitute**",
+                "Replace the operator with its definition for the given values."
+              ],
+              [
+                "**Apply BODMAS**",
+                "Simplify the resulting normal expression."
+              ],
+              [
+                "**Nested symbols**",
+                "Work from the **innermost** operation outward."
+              ],
+              [
+                "**Symbol-swap type**",
+                "Replace given symbols (+ means ×, etc.) then compute."
+              ]
             ]
           },
           {
@@ -254,6 +578,24 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "📐 Method & solved examples: 'weird symbol' simplification",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "These problems **redefine an operator** (e.g., a*b = a²+b, or a△b = 2a−b); simply **substitute per the given rule** and compute with BODMAS.",
+              "Read the definition carefully; apply left-to-right; nested symbols → work **innermost first**.",
+              "Sometimes symbols replace standard operators (+ means ×, etc.) — substitute then apply BODMAS."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: If a*b = a²−b, then 5*3 = 25−3 = **22**. || If '+' means '×' and '×' means '+', then 6+2×3 = 6×2+3 = **15**. || If a@b = (a+b)/2, then (4@6)@10 = 5@10 = **7.5**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -261,11 +603,21 @@
       "Solve **nested/inner operations first**, then outer.",
       "In **'if + means ×'** questions, **replace symbols first**, then apply BODMAS.",
       "Keep track of **order** — custom operators may not be commutative.",
-      "Recheck by substituting the final values back."
+      "Recheck by substituting the final values back.",
+      "Redefine-operator problems: **substitute the given rule**, then apply BODMAS.",
+      "Symbol-substitution: replace symbols with real operators, then compute.",
+      "Nested/weird symbols → solve **innermost bracket first**.",
+      "Read the operator definition **exactly** (order matters: a−b ≠ b−a)."
     ],
     "glossary": [
-      {"term": "Custom operator", "definition": "A specially defined symbol (e.g. a★b) whose meaning is given in the question."},
-      {"term": "Symbol substitution", "definition": "A problem type where standard symbols are reassigned new meanings before evaluation."}
+      {
+        "term": "Custom operator",
+        "definition": "A specially defined symbol (e.g. a★b) whose meaning is given in the question."
+      },
+      {
+        "term": "Symbol substitution",
+        "definition": "A problem type where standard symbols are reassigned new meanings before evaluation."
+      }
     ]
   }
 ]

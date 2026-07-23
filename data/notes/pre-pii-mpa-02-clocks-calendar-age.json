@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Fact", "Value"],
+            "headers": [
+              "Fact",
+              "Value"
+            ],
             "rows": [
-              ["**Minute hand speed**", "6° per minute (360°/60)."],
-              ["**Hour hand speed**", "0.5° per minute (30°/60)."],
-              ["**Relative speed**", "**5.5° per minute** (minute gains on hour)."],
-              ["**Angle formula**", "**|30H – 5.5M|** degrees (H = hour, M = minutes)."],
-              ["**Hands coincide**", "**11 times in 12 hours** (every ~65 5⁄11 min)."]
+              [
+                "**Minute hand speed**",
+                "6° per minute (360°/60)."
+              ],
+              [
+                "**Hour hand speed**",
+                "0.5° per minute (30°/60)."
+              ],
+              [
+                "**Relative speed**",
+                "**5.5° per minute** (minute gains on hour)."
+              ],
+              [
+                "**Angle formula**",
+                "**|30H – 5.5M|** degrees (H = hour, M = minutes)."
+              ],
+              [
+                "**Hands coincide**",
+                "**11 times in 12 hours** (every ~65 5⁄11 min)."
+              ]
             ]
           },
           {
@@ -31,6 +49,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🕐 Formulae & solved examples: clocks",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Clock = 360°; **minute hand 6°/min**, **hour hand 0.5°/min**; minute hand gains **5.5°/min** over hour hand.",
+              "**Angle between hands** = |30·H − 5.5·M|° (H=hour, M=minutes).",
+              "Hands **coincide** every **65 5/11 min** (~22 times/day); at **right angles/straight line** twice per hour except overlaps.",
+              "A clock **too fast/slow** — compute gain/loss over 24 h."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Angle at 3:00 = |30·3 − 5.5·0| = **90°**. || At 4:20 = |30·4 − 5.5·20| = |120−110| = **10°**. || Hands coincide **11 times** in 12 hours."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -39,11 +76,21 @@
       "Hands **coincide 11 times / 12 hours** (22 times a day).",
       "Hands at **90° → 22 times / 12 hours**; opposite (180°) → 11 times.",
       "In **65 5⁄11 minutes** the hands coincide once.",
-      "A 'faulty' clock problem = compare gained/lost minutes over a period."
+      "A 'faulty' clock problem = compare gained/lost minutes over a period.",
+      "**Angle = |30H − 5.5M|°**; minute hand gains **5.5°/min**.",
+      "Hands coincide every **65 5/11 min** → **11 times / 12 hours** (22/day).",
+      "Minute hand **6°/min**, hour hand **0.5°/min**.",
+      "Right angle 2×/hour (except near overlaps)."
     ],
     "glossary": [
-      {"term": "Relative speed of hands", "definition": "The minute hand gains 5.5° per minute over the hour hand."},
-      {"term": "Coincidence of hands", "definition": "When both hands overlap (0° apart) — 11 times every 12 hours."}
+      {
+        "term": "Relative speed of hands",
+        "definition": "The minute hand gains 5.5° per minute over the hour hand."
+      },
+      {
+        "term": "Coincidence of hands",
+        "definition": "When both hands overlap (0° apart) — 11 times every 12 hours."
+      }
     ]
   },
   {
@@ -59,13 +106,31 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Odd days**", "Remainder when total days ÷ 7."],
-              ["**Ordinary year**", "365 days = **1 odd day**."],
-              ["**Leap year**", "366 days = **2 odd days** (divisible by 4; century ÷ 400)."],
-              ["**100 years**", "**5 odd days**; 200 → 3; 300 → 1; 400 → 0."],
-              ["**Day count**", "Sun=0, Mon=1 … Sat=6 (from odd days)."]
+              [
+                "**Odd days**",
+                "Remainder when total days ÷ 7."
+              ],
+              [
+                "**Ordinary year**",
+                "365 days = **1 odd day**."
+              ],
+              [
+                "**Leap year**",
+                "366 days = **2 odd days** (divisible by 4; century ÷ 400)."
+              ],
+              [
+                "**100 years**",
+                "**5 odd days**; 200 → 3; 300 → 1; 400 → 0."
+              ],
+              [
+                "**Day count**",
+                "Sun=0, Mon=1 … Sat=6 (from odd days)."
+              ]
             ]
           },
           {
@@ -78,6 +143,26 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🕐 Methods & solved examples: calendars",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Odd days**: remainder when days ÷ 7; ordinary year = **1 odd day**, leap year = **2**; **century** — 100 yrs=5, 200=3, 300=1, 400=0 odd days.",
+              "**Leap year**: divisible by 4 (century must be ÷400: 2000 leap, 1900 not).",
+              "**Day of week**: count odd days from a known reference; 0=Sunday,1=Mon…6=Sat.",
+              "**Same calendar repeats**: after 6/11/28 years depending on leap position.",
+              "**Doomsday/reference**: 1 Jan 1 AD basis — total odd days give the day."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: 1900 is **not** a leap year (century not ÷400). || A year has 365 days = 52 weeks + **1 odd day** → next year same date shifts one weekday (two after a leap year)."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -86,11 +171,21 @@
       "Odd days in **100 yrs = 5, 200 = 3, 300 = 1, 400 = 0**.",
       "Map odd days: **0=Sunday, 1=Monday … 6=Saturday**.",
       "**Doomsday/reference-day** methods speed up day-finding.",
-      "A given calendar repeats after a fixed cycle of years."
+      "A given calendar repeats after a fixed cycle of years.",
+      "**Odd days**: ordinary yr=1, leap=2; **100 yrs=5, 400 yrs=0** odd days.",
+      "**Leap**: ÷4 (century needs ÷400 — 2000 leap, 1900 not).",
+      "Day count: **0=Sun … 6=Sat**.",
+      "Date shifts **1 weekday** each ordinary year (2 across a leap year)."
     ],
     "glossary": [
-      {"term": "Odd days", "definition": "The days left over beyond complete weeks, used to find the weekday of a date."},
-      {"term": "Leap year", "definition": "A 366-day year (divisible by 4, centuries by 400) adding 2 odd days."}
+      {
+        "term": "Odd days",
+        "definition": "The days left over beyond complete weeks, used to find the weekday of a date."
+      },
+      {
+        "term": "Leap year",
+        "definition": "A 366-day year (divisible by 4, centuries by 400) adding 2 odd days."
+      }
     ]
   },
   {
@@ -106,13 +201,31 @@
           },
           {
             "type": "table",
-            "headers": ["Phrase", "Translation"],
+            "headers": [
+              "Phrase",
+              "Translation"
+            ],
             "rows": [
-              ["**'x years ago'**", "Present age − x."],
-              ["**'x years hence/later'**", "Present age + x."],
-              ["**'A is twice B'**", "A = 2B."],
-              ["**Ratio of ages**", "Use a common multiplier (e.g. 3k and 5k)."],
-              ["**'Sum/difference of ages'**", "Age difference stays constant over time."]
+              [
+                "**'x years ago'**",
+                "Present age − x."
+              ],
+              [
+                "**'x years hence/later'**",
+                "Present age + x."
+              ],
+              [
+                "**'A is twice B'**",
+                "A = 2B."
+              ],
+              [
+                "**Ratio of ages**",
+                "Use a common multiplier (e.g. 3k and 5k)."
+              ],
+              [
+                "**'Sum/difference of ages'**",
+                "Age difference stays constant over time."
+              ]
             ]
           },
           {
@@ -125,6 +238,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🕐 Formulae & solved examples: problems on ages",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "Represent ages with a variable; **'x years ago'** subtract x from each, **'x years hence'** add.",
+              "Ratio of ages changes over time — set up equations from two time-points.",
+              "**Sum/difference stays**: age difference between two people is **constant** over time.",
+              "Average-age problems: total age = average × number of persons."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Father is 3× son now; in 12 yrs he'll be 2× → 3x+12 = 2(x+12) → x = 12, father = **36**. || The difference in ages never changes: if A−B = 8 now, it's 8 forever."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -132,11 +264,21 @@
       "The **difference between two people's ages is constant** over time.",
       "For **ratio** ages, use a common multiplier (3k, 5k) and solve.",
       "Translate each clause into an **equation**, then solve simultaneously.",
-      "Check the answer against **all** conditions in the problem."
+      "Check the answer against **all** conditions in the problem.",
+      "**Age difference between two people is constant** across time.",
+      "'x years ago' → subtract x; 'x years hence' → add x, then form equations.",
+      "Ratio problems: use **two time-points** to solve.",
+      "Total age = **average × number of persons**."
     ],
     "glossary": [
-      {"term": "Linear equation", "definition": "An equation of the first degree used to model age relationships."},
-      {"term": "Age difference invariance", "definition": "The fact that the gap between two ages remains the same at all times."}
+      {
+        "term": "Linear equation",
+        "definition": "An equation of the first degree used to model age relationships."
+      },
+      {
+        "term": "Age difference invariance",
+        "definition": "The fact that the gap between two ages remains the same at all times."
+      }
     ]
   }
 ]
