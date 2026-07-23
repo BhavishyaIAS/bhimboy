@@ -73,6 +73,87 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: the 16 Mahajanapadas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "By **c. 600 BCE** the tribal janapadas consolidated into **16 Mahajanapadas** (listed in the Buddhist **Anguttara Nikaya** & Jain **Bhagavati Sutra**) — the era of the **second urbanisation** (first since the Harappans), driven by **iron tools, surplus agriculture, NBPW pottery and punch-marked coins**."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Mahajanapada",
+              "Capital",
+              "Note"
+            ],
+            "rows": [
+              [
+                "**Magadha**",
+                "Girivraja/Rajgir → Pataliputra",
+                "Ultimate victor"
+              ],
+              [
+                "**Kosala**",
+                "Shravasti",
+                "Ayodhya; king Prasenajit"
+              ],
+              [
+                "**Vatsa**",
+                "Kaushambi",
+                "King Udayana"
+              ],
+              [
+                "**Avanti**",
+                "Ujjain / Mahishmati",
+                "King Pradyota; rival of Magadha"
+              ],
+              [
+                "**Vajji (Vrijji)**",
+                "Vaishali",
+                "**Republic (gana-sangha)** — Licchavis"
+              ],
+              [
+                "**Malla**",
+                "Kushinara/Pava",
+                "Republic; Buddha's parinirvana"
+              ],
+              [
+                "**Kashi**",
+                "Varanasi",
+                "Cotton/textile centre"
+              ],
+              [
+                "**Anga**",
+                "Champa",
+                "Absorbed by Magadha (Bimbisara)"
+              ],
+              [
+                "**Gandhara**",
+                "Taxila",
+                "NW; later under Persians"
+              ],
+              [
+                "**Kamboja**",
+                "Rajapura",
+                "NW; horses"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Two polity types**: **monarchies** (Magadha, Kosala, Vatsa, Avanti) & **gana-sanghas/republics** (Vajji, Malla, Shakya, Koliya) — oligarchic assemblies of kshatriya clans.",
+              "Others: **Kuru** (Indraprastha/Hastinapur), **Panchala** (Ahichhatra/Kampilya), **Matsya** (Viratnagar), **Surasena** (Mathura), **Chedi** (Shuktimati), **Assaka/Ashmaka** (Potali — the only southern one, on Godavari)."
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[16 Mahajanapadas 600 BCE] --> B[Monarchies vs Republics]\n  B --> C[Magadha's edge: iron Rajgir, Ganga trade, elephants]\n  C --> D[Haryanka -> Shishunaga -> Nanda -> Maurya]"
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -95,7 +176,12 @@
       "**Mahapadma Nanda** — first great empire-builder; **Dhana Nanda** contemporary of **Alexander**.",
       "Republics — **Vajji (Lichchhavi), Malla, Shakya, Koliya** (gana-sanghas).",
       "**Gana-sanghas (republics)**: Vajji/Licchavi (Vaishali), Malla, Shakya — oligarchic assembly rule.",
-      "Magadhan order: **Haryanka (Bimbisara, Ajatashatru) → Shishunaga → Nanda → Maurya**."
+      "Magadhan order: **Haryanka (Bimbisara, Ajatashatru) → Shishunaga → Nanda → Maurya**.",
+      "**16 Mahajanapadas** — Buddhist **Anguttara Nikaya** & Jain **Bhagavati Sutra**.",
+      "Only **southern** Mahajanapada = **Assaka/Ashmaka** (Godavari, capital Potali/Paithan).",
+      "**Republics (gana-sanghas)**: Vajji (Licchavis, Vaishali), Malla, Shakya (Kapilavastu), Koliya.",
+      "Second-urbanisation markers: **iron, NBPW pottery, punch-marked (karshapana) coins, surplus rice**.",
+      "Magadha capitals in order: **Rajgir (Girivraja) → Pataliputra** (Udayin shifted it)."
     ],
     "mainsAngles": [
       "Explain the factors behind the rise of Magadha among the Mahajanapadas."
@@ -112,6 +198,10 @@
       {
         "term": "Mahashilakantaka",
         "definition": "A stone-hurling catapult used by Ajatashatru against the Vajji confederacy."
+      },
+      {
+        "term": "NBPW",
+        "definition": "Northern Black Polished Ware — the deluxe pottery marker of the 2nd-urbanisation Mahajanapada age."
       }
     ]
   },
@@ -162,6 +252,24 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Jainism",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**24 Tirthankaras** ('ford-makers'): 1st **Rishabhanatha/Adinath** (bull emblem; mentioned in Rigveda & as an avatar); 23rd **Parshvanatha** (Varanasi prince, ~8th c BCE, 4 vows — historical); 24th **Vardhamana Mahavira** (599–527 BCE).",
+              "**Mahavira**: born **Kundagrama (Vaishali)** to Siddhartha & Trishala (Jnatrika kshatriya clan); wife Yashoda; attained **Kaivalya** at 42 on the Rijupalika river; titles **Jina, Mahavira, Nigantha**; died at **Pavapuri (527 BCE)**.",
+              "**Five vows (Pancha Mahavrata)**: **Ahimsa, Satya, Asteya (non-stealing), Aparigraha (non-possession)** + Mahavira added **Brahmacharya (celibacy)** to Parshva's four.",
+              "**Triratna (3 jewels)** to moksha: **Right Faith, Right Knowledge, Right Conduct**; philosophy of **Anekantavada (many-sidedness)** & **Syadvada (may-be)**; belief in **Atman (soul)** & **extreme non-violence**; rejects Vedas, permits **Sallekhana (ritual fasting to death)**.",
+              "**Sects**: **Svetambara** (white-clad; Sthulabhadra) vs **Digambara** (sky-clad/naked; Bhadrabahu) — split over a **famine → Bhadrabahu migrated south with Chandragupta Maurya to Shravanabelagola**.",
+              "**Councils**: 1st **Pataliputra** (c. 300 BCE, Sthulabhadra — compiled 12 Angas); 2nd **Vallabhi** (c. 512 CE, Devardhi — final canon in **Ardhamagadhi Prakrit**).",
+              "**Spread & art**: patronised in Karnataka (Gangas, Rashtrakutas — **Gomateshwara/Bahubali statue, Shravanabelagola**), Gujarat (Dilwara temples, Mt Abu), Kalinga (Kharavela — Hathigumpha, Udayagiri caves)."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -182,7 +290,13 @@
       "**Five vows** — Ahimsa, Satya, Asteya, Aparigraha, **Brahmacharya** (5th added by Mahavira).",
       "**Digambara (sky-clad)** vs **Svetambara (white-clad)**; split led by Bhadrabahu vs Sthulabhadra.",
       "**Anekantavada** (many-sidedness) & **Syadvada** ('may be') — Jain epistemology.",
-      "Jain councils — 1st **Pataliputra**, 2nd **Vallabhi** (Agamas compiled). Jainism spread to Karnataka (Sravanabelagola)."
+      "Jain councils — 1st **Pataliputra**, 2nd **Vallabhi** (Agamas compiled). Jainism spread to Karnataka (Sravanabelagola).",
+      "1st Tirthankara **Rishabhanatha** (bull); 23rd **Parshvanatha** (Varanasi, 4 vows); 24th **Mahavira**.",
+      "Mahavira born **Kundagrama/Vaishali**, died **Pavapuri**; clan **Jnatrika**; enlightenment = **Kaivalya**.",
+      "**5 vows** = Parshva's 4 + **Brahmacharya**; **Triratna** = right faith/knowledge/conduct.",
+      "Jain philosophy: **Anekantavada & Syadvada**; ritual death = **Sallekhana/Santhara**.",
+      "Sects: **Svetambara** (Sthulabhadra) & **Digambara** (Bhadrabahu); councils at **Pataliputra & Vallabhi** (Ardhamagadhi).",
+      "Gomateshwara (Bahubali) monolith at **Shravanabelagola** (Ganga minister Chamundaraya)."
     ],
     "mainsAngles": [
       "Discuss the tenets of Jainism and its contribution to Indian culture."
@@ -199,6 +313,10 @@
       {
         "term": "Anekantavada",
         "definition": "The Jain doctrine of the many-sidedness of reality, expressed through Syadvada."
+      },
+      {
+        "term": "Sallekhana",
+        "definition": "The Jain vow of voluntary fasting unto death at life's end."
       }
     ]
   },
@@ -305,6 +423,23 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Buddhism (life, doctrine, spread)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Gautama Buddha (Siddhartha, 563–483 BCE)**: born **Lumbini** (Nepal) to Shuddhodana & Mayadevi, **Shakya** clan, Kapilavastu; wife Yashodhara, son Rahula; the **Four Sights** (old man, sick man, corpse, ascetic) → **Great Renunciation (Mahabhinishkramana)** at 29; **Enlightenment (Nirvana)** at **Bodh Gaya** (Niranjana river, pipal) at 35; **first sermon (Dhammachakrapravartana)** at **Sarnath**; **Mahaparinirvana** at **Kushinagar** at 80.",
+              "**Doctrine**: **Four Noble Truths** (dukkha exists; cause = tanha/desire; cessation possible; **Eightfold Path** ends it); the **Middle Path**; **Anatta (no permanent soul)**, **Anicca (impermanence)**, **Pratityasamutpada (dependent origination)**, **karma & rebirth**, **nirvana** (not God-centred).",
+              "**Sangha**: monastic order (bhikkhus/bhikkhunis — women admitted at Ananda's request via Mahaprajapati Gautami); **Tri-Ratna**: **Buddha, Dhamma, Sangha**.",
+              "**Four Councils**: 1st **Rajgriha** (483 BCE, Mahakassapa, under Ajatashatru — Sutta & Vinaya compiled); 2nd **Vaishali** (383 BCE, Kalashoka — first schism); 3rd **Pataliputra** (250 BCE, Ashoka, **Moggaliputta Tissa** — Abhidhamma added, missions sent); 4th **Kashmir/Kundalvana** (~72 CE, **Kanishka, Vasumitra/Ashvaghosha** — Hinayana–Mahayana split; texts in **Sanskrit**).",
+              "**Schools**: **Hinayana/Theravada** (Pali canon, arhat ideal, Buddha as teacher — Sri Lanka, SE Asia); **Mahayana** (Sanskrit, **bodhisattva** ideal, Buddha as god, idol worship — China, Japan, Korea); **Vajrayana** (Tantric, mantras — Tibet).",
+              "**Literature (Tripitaka, Pali)**: **Sutta** (teachings/Jataka), **Vinaya** (monastic rules), **Abhidhamma** (philosophy); Milindapanha, Buddhacharita (Ashvaghosha)."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -327,7 +462,12 @@
       "Bodhisattva worship & idol-worship = **Mahayana**; **Theravada = Hinayana**.",
       "Buddhist symbols — **Lotus/Bull (birth), Bodhi tree (enlightenment), Wheel (sermon), Horse (renunciation), Stupa (death)**.",
       "**Theravada** (Sri Lanka/SE Asia), **Mahayana** (China/Japan/Korea), **Vajrayana** (Tibet).",
-      "Bodh Gaya (enlightenment), Sarnath (first sermon), Kushinagar (mahaparinirvana), Lumbini (birth)."
+      "Bodh Gaya (enlightenment), Sarnath (first sermon), Kushinagar (mahaparinirvana), Lumbini (birth).",
+      "Birth **Lumbini**, enlightenment **Bodh Gaya**, first sermon **Sarnath**, death **Kushinagar** (4 great sites).",
+      "**Anatta** (no soul) & **Anicca** (impermanence) distinguish Buddhism from Jainism (which affirms Atman).",
+      "Councils: **Rajgriha(1)→Vaishali(2)→Pataliputra(3-Ashoka)→Kashmir(4-Kanishka)**.",
+      "3rd Council under **Moggaliputta Tissa**; 4th produced **Mahayana**; Tripitaka in **Pali**.",
+      "Symbols: Birth=**lotus/bull**, Enlightenment=**Bodhi tree**, 1st Sermon=**wheel/dharmachakra**, Death=**stupa**."
     ],
     "mainsAngles": [
       "Examine the causes of the rise and later decline of Buddhism in India."
@@ -382,6 +522,44 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Magadhan expansion & the Nandas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Dynasty",
+              "Key kings",
+              "Highlights"
+            ],
+            "rows": [
+              [
+                "**Haryanka** (544–412 BCE)",
+                "**Bimbisara**, **Ajatashatru**, Udayin",
+                "Bimbisara (contemporary of Buddha) — matrimonial diplomacy, annexed Anga; **Ajatashatru** defeated Kosala & Vajji (used *rathamusala* & *mahashilakantaka* war-engines); **Udayin** founded **Pataliputra**."
+              ],
+              [
+                "**Shishunaga** (412–344 BCE)",
+                "Shishunaga, **Kalashoka**",
+                "Destroyed Avanti (Pradyotas); Kalashoka held the **2nd Buddhist Council** at Vaishali."
+              ],
+              [
+                "**Nanda** (344–321 BCE)",
+                "**Mahapadma Nanda**, **Dhana Nanda**",
+                "First **non-kshatriya (Shudra)** empire builder — 'Ekarat/Sarva-Kshatrantaka'; huge army; **Dhana Nanda** was overthrown by **Chandragupta Maurya + Chanakya**; Alexander's troops mutinied fearing the Nanda army (Gangaridai)."
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Why Magadha rose**: fertile Ganga plains; **iron ore** (Rajgir/S. Bihar); river-fort capitals (Rajgir, Pataliputra); **war elephants**; control of Ganga trade; ambitious rulers.",
+              "Greek accounts call the Nanda realm **Gangaridai & Prasii** — its army deterred Alexander at the Beas (Hyphasis)."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -401,7 +579,12 @@
       "**Dhana Nanda** — last Nanda; contemporary of **Alexander**; possessed a vast army & treasury.",
       "The Nandas are credited with a strong **standing army** and systematic **taxation**.",
       "Greek sources call the Nanda ruler **'Agrammes/Xandrames'**.",
-      "**Chanakya (Kautilya)** & **Chandragupta Maurya** overthrew Dhana Nanda (c. 321 BCE)."
+      "**Chanakya (Kautilya)** & **Chandragupta Maurya** overthrew Dhana Nanda (c. 321 BCE).",
+      "**Bimbisara & Ajatashatru** (Haryanka) were contemporaries of the **Buddha & Mahavira**.",
+      "**Udayin** founded **Pataliputra** (confluence of Ganga & Son).",
+      "**Mahapadma Nanda** = first **Shudra**/non-kshatriya emperor ('Sarva-Kshatrantaka').",
+      "**Dhana Nanda** overthrown by **Chandragupta Maurya & Chanakya (321 BCE)**.",
+      "Ajatashatru's war-engines: **rathamusala** (scythed chariot) & **mahashilakantaka** (catapult)."
     ],
     "mainsAngles": [
       "Assess the contribution of the Nanda dynasty to Magadhan imperial power."
@@ -452,6 +635,20 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Persian & Macedonian invasions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Persian (Achaemenid)**: **Cyrus** & **Darius I** annexed the NW (Gandhara/Sindh) by ~518 BCE — India's richest **20th satrapy** (paid 360 talents of gold dust — Herodotus); brought **Kharoshthi** script (Aramaic-derived) & Persian coinage/administrative influence; **Xerxes** used Indian troops in Greece.",
+              "**Alexander (326 BCE)**: crossed the Indus; won the **Battle of the Hydaspes (Jhelum)** against **Porus (Purushottama)** — impressed, restored his kingdom; **Ambhi of Taxila** submitted; army **mutinied at the Beas (Hyphasis/Vipasha)** fearing the Nandas → Alexander turned back; died at Babylon 323 BCE.",
+              "**Effects**: opened **land & sea routes** (Indo-Greek trade); Greek accounts (Nearchus, Onesicritus, Megasthenes) date Indian history; **Hellenistic (Gandhara) art**; catalysed Maurya unification; **Indo-Greek** kingdoms later (Menander/Milinda; **Heliodorus pillar at Besnagar** — Garuda column to Vishnu)."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -472,7 +669,11 @@
       "Alexander's troops refused to advance beyond the **Beas (Hyphasis)** river.",
       "Alexander died at **Babylon (323 BCE)**; Seleucus Nicator inherited the east.",
       "Greek writers — **Arrian, Nearchus, Plutarch**; the invasion left **Greek settlements & Indo-Greek trade**.",
-      "The exposure of NW's disunity indirectly aided **Mauryan** unification."
+      "The exposure of NW's disunity indirectly aided **Mauryan** unification.",
+      "**Darius I** made NW India the Achaemenid **20th satrapy** (richest); **Kharoshthi** script from Aramaic.",
+      "Alexander vs **Porus** at the **Hydaspes (Jhelum), 326 BCE**; **Ambhi** of Taxila allied with Alexander.",
+      "Alexander's army turned back at the **Beas (Hyphasis)**; he died at **Babylon (323 BCE)**.",
+      "**Heliodorus (Besnagar) pillar** — Indo-Greek envoy's Garuda column to Vishnu (Bhagavatism)."
     ],
     "mainsAngles": [
       "Evaluate the impact of Alexander's invasion on ancient India."
@@ -630,6 +831,23 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Mauryan administration & economy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Founder**: **Chandragupta Maurya (321 BCE)** with **Kautilya (Chanakya/Vishnugupta)**; sources — **Arthashastra**, Megasthenes' **Indica**, Vishakhadatta's **Mudrarakshasa**, Ashokan **edicts**, Buddhist/Jain texts.",
+              "**Central govt**: king aided by **Mantriparishad**; the **18 Tirthas/Adhyakshas (superintendents)** ran departments (Sitadhyaksha-agriculture, Panyadhyaksha-trade, Akaradhyaksha-mines, Sulkadhyaksha-tolls, etc.); **Amatya, Senapati, Samaharta (revenue), Sannidhata (treasury)**.",
+              "**Provinces (4)**: **Taxila, Ujjain, Suvarnagiri, Tosali** — under royal princes (Kumaras/Aryaputras); districts under **Pradeshika, Rajukas, Yuktas**; village = **Gramika**.",
+              "**Pataliputra municipality** (Megasthenes): **6 committees of 5** (30 members) — industry, foreigners, births/deaths, trade, manufactured-goods inspection, sales tax.",
+              "**Espionage**: elaborate spy network — **Gudhapurushas** (secret agents), **Sansthana** (stationary) & **Sanchara** (wandering) spies; women spies (**Vishakanya**).",
+              "**Economy**: state-controlled; **land revenue (Bhaga) = 1/6 to 1/4**; **Sita** (crown-land income); irrigation (Pushyagupta's **Sudarshana Lake, Girnar**); state farms, mines, monopolies; **Punch-marked silver (karshapana/pana)** coins; guilds (shreni)."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -652,7 +870,13 @@
       "Currency — silver **Punch-Marked Coins ('Pana')**.",
       "Chandragupta embraced **Jainism**, abdicated, and died at **Sravanabelagola** (with Bhadrabahu).",
       "Four provinces: **Taxila, Ujjain, Suvarnagiri, Tosali**; **Samaharta** = revenue, **Sannidhata** = treasury.",
-      "**Saptanga** (7 limbs of state) & **Mandala** theory; Arthashastra found by **R. Shamasastry (1905)**."
+      "**Saptanga** (7 limbs of state) & **Mandala** theory; Arthashastra found by **R. Shamasastry (1905)**.",
+      "Provinces (4): **Taxila, Ujjain (both N/W), Suvarnagiri (S), Tosali (E-Kalinga)**.",
+      "**Samaharta** = revenue collector-general; **Sannidhata** = treasurer; **Adhyakshas** = dept superintendents.",
+      "**Sudarshana Lake (Girnar)** built by **Pushyagupta** (Chandragupta's governor), repaired by Rudradaman & Skandagupta.",
+      "Pataliputra city board = **6 committees × 5 = 30** (per Megasthenes).",
+      "Megasthenes described **7 castes/classes** in Indica; land tax **1/6 (Bhaga)**.",
+      "Arthashastra rediscovered by **R. Shamasastry (1905)**; ~15 books, 180 chapters."
     ],
     "mainsAngles": [
       "Describe the administrative system of the Mauryan Empire as revealed by the Arthashastra and Indica."
@@ -669,6 +893,14 @@
       {
         "term": "Kumara",
         "definition": "A royal prince appointed as governor of a Mauryan province."
+      },
+      {
+        "term": "Adhyaksha",
+        "definition": "A Mauryan departmental superintendent (e.g., Sitadhyaksha for agriculture) named in the Arthashastra."
+      },
+      {
+        "term": "Sita",
+        "definition": "Income from crown/state-owned agricultural land in the Mauryan economy."
       }
     ]
   },
@@ -780,6 +1012,24 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Ashoka — edicts, Dhamma, legacy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Ashoka (268–232 BCE)**, 'Devanampiya Piyadasi'; the **Kalinga War (261 BCE, 8th regnal year)** — recorded only in **Major Rock Edict XIII** — turned him to **Dhamma** (Buddhism personally, but Dhamma = a secular ethical code).",
+              "**Edicts** (first deciphered by **James Prinsep, 1837**): **14 Major Rock Edicts**, **Minor Rock Edicts** (first to name 'Ashoka' — Maski, Gujarra), **7 Pillar Edicts**, cave inscriptions (**Barabar caves → Ajivikas**), **2 Kalinga (separate) edicts** (Dhauli, Jaugada).",
+              "**Scripts**: mostly **Brahmi** (Prakrit); **Kharoshthi** in the NW (Shahbazgarhi, Mansehra); **Greek & Aramaic** at **Kandahar** (bilingual).",
+              "**Content of Dhamma**: non-violence (ahimsa), tolerance/respect for all sects, obedience to elders, kindness to servants/animals, truthfulness, **prohibition of animal sacrifice/festivals**; enforced by **Dhamma Mahamatras** (officers of morality) & Rajukas.",
+              "**Welfare**: hospitals for men & animals, wells, rest-houses, roadside banyan/mango trees, medicinal herbs (MRE II); ended the royal hunt.",
+              "**Spread of Buddhism**: **3rd Council** at Pataliputra; missions to Sri Lanka (son **Mahinda** & daughter **Sanghamitra** — Bodhi sapling), Central Asia, SE Asia — made Buddhism a **world religion**.",
+              "**Ashokan pillars**: polished **Chunar sandstone**, monolithic; **Sarnath Lion Capital** = India's **national emblem**; the **Dharmachakra** = national flag; art shows Persian/Achaemenid influence."
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -802,7 +1052,13 @@
       "Ashoka's missionaries — **Mahindra & Sanghamitra** to **Sri Lanka**; convened the **3rd Buddhist Council (Pataliputra)**.",
       "Maski & Gujarra minor edicts mention the name **'Ashoka'** directly.",
       "**Kalinga War 261 BCE** (13th Major Rock Edict); edicts deciphered by **James Prinsep (1837)**.",
-      "Scripts: **Brahmi** (most), **Kharoshthi** (NW), **Greek/Aramaic** (Kandahar); **Dhamma Mahamatras** = morality officers."
+      "Scripts: **Brahmi** (most), **Kharoshthi** (NW), **Greek/Aramaic** (Kandahar); **Dhamma Mahamatras** = morality officers.",
+      "**Kalinga War (261 BCE)** described only in **Major Rock Edict XIII**; Ashoka = 'Devanampiya Piyadasi'.",
+      "'**Ashoka**' named in **Minor Rock Edicts (Maski, Gujarra, Nettur, Udegolam)**.",
+      "Edicts deciphered by **James Prinsep (1837)**; scripts **Brahmi, Kharoshthi, Greek, Aramaic (Kandahar)**.",
+      "**Sarnath Lion Capital** = national emblem; **Dhamma Mahamatras** = morality officers.",
+      "Missions: **Mahinda & Sanghamitra to Sri Lanka**; **Barabar caves** donated to **Ajivikas**.",
+      "3rd Buddhist Council (Pataliputra) under **Moggaliputta Tissa** during Ashoka's reign."
     ],
     "mainsAngles": [
       "Analyse Ashoka's policy of Dhamma and its significance."
