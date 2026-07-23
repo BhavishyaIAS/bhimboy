@@ -12,12 +12,42 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Founder / capital**", "**Tailapa II** overthrew the Rashtrakutas; capital **Kalyani (Basavakalyan)**."],
-              ["**Greatest ruler**", "**Vikramaditya VI** — started the **Chalukya-Vikrama era**; patron of **Bilhana (Vikramankadevacharita)** & **Vijnaneshwara**."],
-              ["**Chola rivalry**", "Continuous wars with the **Cholas** over Vengi & the Tungabhadra doab."],
-              ["**Legal text**", "**Vijnaneshwara's Mitakshara** — a commentary on the Yajnavalkya Smriti; foundational Hindu law."]
+              [
+                "**Founder / capital**",
+                "**Tailapa II** overthrew the Rashtrakutas; capital **Kalyani (Basavakalyan)**."
+              ],
+              [
+                "**Greatest ruler**",
+                "**Vikramaditya VI** — started the **Chalukya-Vikrama era**; patron of **Bilhana (Vikramankadevacharita)** & **Vijnaneshwara**."
+              ],
+              [
+                "**Chola rivalry**",
+                "Continuous wars with the **Cholas** over Vengi & the Tungabhadra doab."
+              ],
+              [
+                "**Legal text**",
+                "**Vijnaneshwara's Mitakshara** — a commentary on the Yajnavalkya Smriti; foundational Hindu law."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Kalyani (Western) Chalukyas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Western/Kalyani Chalukyas (973–1189 CE)**, capital **Kalyani (Basavakalyan)**; founder **Tailapa II** (overthrew the Rashtrakutas); long rivalry with the **Cholas** over Vengi & the Tungabhadra doab.",
+              "**Vikramaditya VI** — greatest; started the **Chalukya-Vikrama era**; his court poet **Bilhana** wrote **Vikramankadevacharita**; jurist **Vijnaneshwara** wrote the **Mitakshara** (a commentary on Yajnavalkya — the leading Hindu law text on inheritance).",
+              "**Art**: mature **Vesara** temples — **Mahadeva temple, Itagi** ('Emperor among temples'), Kasivishveshwara (Lakkundi), Dodda Basappa (Dambal); Kannada & Sanskrit literature flourished.",
+              "The **Basava/Lingayat (Veerashaiva)** movement arose in this milieu (12th c) — Basavanna's social-reform Bhakti."
             ]
           }
         ]
@@ -42,14 +72,23 @@
       "**Bilhana** wrote **Vikramankadevacharita**; **Vijnaneshwara** wrote **Mitakshara**.",
       "**Mitakshara** — commentary on the **Yajnavalkya Smriti**; a pillar of Hindu law.",
       "Long rivalry with the **Cholas** (Rajaraja/Rajendra) over Vengi.",
-      "Patronised **Kannada & Sanskrit** and Gadag-style temple architecture."
+      "Patronised **Kannada & Sanskrit** and Gadag-style temple architecture.",
+      "**Kalyani Chalukyas** — capital **Kalyani**, founder **Tailapa II**; greatest **Vikramaditya VI**.",
+      "**Vijnaneshwara** wrote the **Mitakshara** (Hindu inheritance law); **Bilhana** — Vikramankadevacharita.",
+      "**Vesara** temples: **Mahadeva temple, Itagi**; **Lingayat/Veerashaiva** movement (**Basavanna**) emerged here."
     ],
     "mainsAngles": [
       "Discuss the cultural contributions of the Kalyani Chalukyas."
     ],
     "glossary": [
-      {"term": "Mitakshara", "definition": "Vijnaneshwara's authoritative commentary on the Yajnavalkya Smriti, a foundation of Hindu inheritance law."},
-      {"term": "Chalukya-Vikrama era", "definition": "A calendar era instituted by Vikramaditya VI of Kalyani."}
+      {
+        "term": "Mitakshara",
+        "definition": "Vijnaneshwara's authoritative commentary on the Yajnavalkya Smriti, a foundation of Hindu inheritance law."
+      },
+      {
+        "term": "Chalukya-Vikrama era",
+        "definition": "A calendar era instituted by Vikramaditya VI of Kalyani."
+      }
     ]
   },
   {
@@ -65,13 +104,46 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Great rulers**", "**Rajaraja I** (Brihadeshwara temple, Tanjore; conquered Sri Lanka), **Rajendra I** ('Gangaikonda Chola'; naval raid on **Srivijaya/Southeast Asia**; Ganga expedition)."],
-              ["**Local self-govt**", "**Uttaramerur inscriptions** detail the **village assembly (Sabha/Ur) & committees (variyams)** — the celebrated Chola local democracy."],
-              ["**Administration**", "Empire → **mandalam → valanadu → nadu → ur**; land survey & revenue."],
-              ["**Art**", "**Brihadeshwara (Rajarajeshwara) temple** — UNESCO; **Chola bronzes** (Nataraja) via lost-wax."],
-              ["**Navy**", "Strongest Indian navy; overseas conquests (Sri Lanka, Maldives, Srivijaya)."]
+              [
+                "**Great rulers**",
+                "**Rajaraja I** (Brihadeshwara temple, Tanjore; conquered Sri Lanka), **Rajendra I** ('Gangaikonda Chola'; naval raid on **Srivijaya/Southeast Asia**; Ganga expedition)."
+              ],
+              [
+                "**Local self-govt**",
+                "**Uttaramerur inscriptions** detail the **village assembly (Sabha/Ur) & committees (variyams)** — the celebrated Chola local democracy."
+              ],
+              [
+                "**Administration**",
+                "Empire → **mandalam → valanadu → nadu → ur**; land survey & revenue."
+              ],
+              [
+                "**Art**",
+                "**Brihadeshwara (Rajarajeshwara) temple** — UNESCO; **Chola bronzes** (Nataraja) via lost-wax."
+              ],
+              [
+                "**Navy**",
+                "Strongest Indian navy; overseas conquests (Sri Lanka, Maldives, Srivijaya)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: the Imperial Cholas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Cholas (850–1279 CE)** revived by **Vijayalaya** (Tanjore); greatest — **Rajaraja I** (built the **Brihadeeswara/Rajarajeswara temple, Thanjavur** — UNESCO; conquered Sri Lanka, Maldives) & **Rajendra I** (title **Gangaikonda Chola**; naval expedition to **Srivijaya (SE Asia)**; new capital **Gangaikonda Cholapuram**).",
+              "**Local self-government** — the exam jewel: the **Uttaramerur inscriptions (Parantaka I)** detail the **Kudavolai** (pot-ticket lottery) election of village assemblies — **Ur** (general), **Sabha/Mahasabha** (brahmadeya villages) & **Nagaram** (merchants); committees (**variyams**) for tanks, gardens, justice.",
+              "**Administration**: provinces = **Mandalam → Valanadu → Nadu → village**; land survey & revenue; strong **navy**; **Kaikkola** & **Valangai/Idangai** (right/left-hand) caste guilds; merchant guilds (**Ayyavole/Manigramam**).",
+              "**Art**: **Dravidian temple** apex — soaring **vimanas** (Thanjavur, Gangaikonda Cholapuram, Airavatesvara-Darasuram = the 'Great Living Chola Temples', UNESCO); superb **Chola bronzes** (**Nataraja** — lost-wax); Tamil Shaiva **Nayanars** & Vaishnava **Alvars** canonised (Nalayira Divya Prabandham)."
             ]
           }
         ]
@@ -97,15 +169,37 @@
       "Administrative units — **mandalam → valanadu → nadu → ur**.",
       "**Chola bronzes** — esp. **Nataraja**; lost-wax casting; Dravida temple style peak.",
       "The Cholas maintained the **strongest navy** in Indian history.",
-      "**Kulottunga I** united the Chola & Eastern Chalukya lines."
+      "**Kulottunga I** united the Chola & Eastern Chalukya lines.",
+      "**Rajaraja I** built **Brihadeeswara temple, Thanjavur**; **Rajendra I** = **Gangaikonda Chola** (Srivijaya raid).",
+      "**Uttaramerur inscription (Parantaka I)** — **Kudavolai** village-assembly elections (local self-government).",
+      "Assemblies: **Ur, Sabha (brahmadeya), Nagaram (merchants)**; committees = **variyams**.",
+      "**Chola bronzes** (Nataraja, lost-wax); Great Living Chola Temples = **UNESCO** (Thanjavur, Gangaikonda Cholapuram, Darasuram).",
+      "Admin units: **Mandalam → Valanadu → Nadu → village**; strong **navy**; merchant guilds Ayyavole/Manigramam."
     ],
     "mainsAngles": [
       "Examine the Chola system of local self-government as revealed by the Uttaramerur inscriptions."
     ],
     "glossary": [
-      {"term": "Uttaramerur inscription", "definition": "Chola epigraphs detailing the election and functioning of village assemblies and their committees."},
-      {"term": "Variyam", "definition": "A functional committee of the Chola village assembly (e.g. for tanks, gardens, justice)."},
-      {"term": "Brihadeshwara temple", "definition": "Rajaraja I's grand Dravida-style temple at Tanjore, a UNESCO World Heritage Site."}
+      {
+        "term": "Uttaramerur inscription",
+        "definition": "Chola epigraphs detailing the election and functioning of village assemblies and their committees."
+      },
+      {
+        "term": "Variyam",
+        "definition": "A functional committee of the Chola village assembly (e.g. for tanks, gardens, justice)."
+      },
+      {
+        "term": "Brihadeshwara temple",
+        "definition": "Rajaraja I's grand Dravida-style temple at Tanjore, a UNESCO World Heritage Site."
+      },
+      {
+        "term": "Kudavolai",
+        "definition": "The Chola pot-ticket lottery system of electing village (sabha) committee members, per the Uttaramerur inscriptions."
+      },
+      {
+        "term": "Brahmadeya",
+        "definition": "A village or land granted tax-free to Brahmins; governed by a sabha assembly."
+      }
     ]
   },
   {
@@ -121,11 +215,38 @@
           },
           {
             "type": "table",
-            "headers": ["Dynasty", "Detail"],
+            "headers": [
+              "Dynasty",
+              "Detail"
+            ],
             "rows": [
-              ["**Hoysalas**", "Capital **Dwarasamudra (Halebidu)**; greatest **Vishnuvardhana** (converted by Ramanuja); temples at **Belur, Halebidu, Somnathpur** (soapstone, star-shaped)."],
-              ["**Yadavas (Seunas)**", "Capital **Devagiri (Daulatabad)**; greatest **Singhana II**; patrons of **Marathi**; Sangita Ratnakara (Sarngadeva)."],
-              ["**End**", "Both fell to the **Delhi Sultanate** — **Malik Kafur's raids (1307-11)** under Alauddin Khilji."]
+              [
+                "**Hoysalas**",
+                "Capital **Dwarasamudra (Halebidu)**; greatest **Vishnuvardhana** (converted by Ramanuja); temples at **Belur, Halebidu, Somnathpur** (soapstone, star-shaped)."
+              ],
+              [
+                "**Yadavas (Seunas)**",
+                "Capital **Devagiri (Daulatabad)**; greatest **Singhana II**; patrons of **Marathi**; Sangita Ratnakara (Sarngadeva)."
+              ],
+              [
+                "**End**",
+                "Both fell to the **Delhi Sultanate** — **Malik Kafur's raids (1307-11)** under Alauddin Khilji."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Hoysalas & Seuna Yadavas",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Hoysalas (10th–14th c CE)**, capital **Dwarasamudra (Halebidu)**; rulers Vishnuvardhana, Ballala II; famous for the **star-shaped (stellate) soapstone temples** in the ornate **Hoysala/Vesara** style — **Chennakeshava (Belur), Hoysaleswara (Halebidu), Kesava (Somnathpur)** (recently UNESCO-listed 'Sacred Ensembles of the Hoysalas').",
+              "**Ramanuja** (Vishishtadvaita philosopher) influenced Vishnuvardhana (Jain → Vaishnava conversion).",
+              "**Seuna Yadavas of Devagiri (12th–14th c)**, capital **Devagiri (Daulatabad)**; scholar **Hemadri** (Chaturvarga Chintamani; the **'Hemadpanthi'** temple style); mathematician **Bhaskaracharya II** (Lilavati) linked to this era.",
+              "Both fell to the **Delhi Sultanate** (Alauddin Khilji/Malik Kafur's Deccan raids, early 14th c) — ending the classical South-Indian dynastic order before Vijayanagara."
             ]
           }
         ]
@@ -151,15 +272,28 @@
       "**Yadavas (Seunas)** — capital **Devagiri (Daulatabad)**; patrons of **Marathi**.",
       "**Sarngadeva's Sangita Ratnakara** (music treatise) at the Yadava court.",
       "Both dynasties were destroyed by **Malik Kafur's Deccan raids (1307-11)** under Alauddin Khilji.",
-      "The Hoysala temple ensembles are a **UNESCO World Heritage** listing (2023)."
+      "The Hoysala temple ensembles are a **UNESCO World Heritage** listing (2023).",
+      "**Hoysalas** — capital **Halebidu (Dwarasamudra)**; **stellate soapstone** temples: **Belur, Halebidu, Somnathpur**.",
+      "**Ramanuja (Vishishtadvaita)** influenced Hoysala **Vishnuvardhana**.",
+      "**Yadavas of Devagiri** — scholar **Hemadri**; **Bhaskaracharya II** (Lilavati) of this age.",
+      "Both conquered by **Alauddin Khilji / Malik Kafur** (early 14th c)."
     ],
     "mainsAngles": [
       "Compare the cultural contributions of the Hoysalas and Yadavas."
     ],
     "glossary": [
-      {"term": "Dwarasamudra", "definition": "The Hoysala capital (modern Halebidu), site of their finest temples."},
-      {"term": "Stellate plan", "definition": "The star-shaped ground plan characteristic of Hoysala temple architecture."},
-      {"term": "Devagiri", "definition": "The Yadava capital, later renamed Daulatabad after the Delhi Sultanate's conquest."}
+      {
+        "term": "Dwarasamudra",
+        "definition": "The Hoysala capital (modern Halebidu), site of their finest temples."
+      },
+      {
+        "term": "Stellate plan",
+        "definition": "The star-shaped ground plan characteristic of Hoysala temple architecture."
+      },
+      {
+        "term": "Devagiri",
+        "definition": "The Yadava capital, later renamed Daulatabad after the Delhi Sultanate's conquest."
+      }
     ]
   },
   {
@@ -175,12 +309,42 @@
           },
           {
             "type": "table",
-            "headers": ["Dynasty", "Detail"],
+            "headers": [
+              "Dynasty",
+              "Detail"
+            ],
             "rows": [
-              ["**Kakatiyas**", "Capital **Warangal (Orugallu)**; **Ganapatideva** (greatest expansion), **Rudrama Devi** (queen; noted by **Marco Polo**), **Prataparudra** (fell to Delhi 1323)."],
-              ["**Kakatiya art**", "**Ramappa (Rudreswara) temple — UNESCO**, **Thousand-Pillar temple**, **Warangal kirti-toranas**; nayankara land-service."],
-              ["**Reddis**", "**Prolaya Vema Reddy** founded; capitals **Addanki, Kondavidu, Rajahmundry**; patrons of **Srinatha**; forts & temples."],
-              ["**Musunuri Nayakas**", "After Kakatiya fall (1323), **Prolaya & Kapaya Nayaka** rallied resistance and briefly freed Warangal."]
+              [
+                "**Kakatiyas**",
+                "Capital **Warangal (Orugallu)**; **Ganapatideva** (greatest expansion), **Rudrama Devi** (queen; noted by **Marco Polo**), **Prataparudra** (fell to Delhi 1323)."
+              ],
+              [
+                "**Kakatiya art**",
+                "**Ramappa (Rudreswara) temple — UNESCO**, **Thousand-Pillar temple**, **Warangal kirti-toranas**; nayankara land-service."
+              ],
+              [
+                "**Reddis**",
+                "**Prolaya Vema Reddy** founded; capitals **Addanki, Kondavidu, Rajahmundry**; patrons of **Srinatha**; forts & temples."
+              ],
+              [
+                "**Musunuri Nayakas**",
+                "After Kakatiya fall (1323), **Prolaya & Kapaya Nayaka** rallied resistance and briefly freed Warangal."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Kakatiyas & Reddis (Andhra)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Kakatiyas of Warangal (Orugallu) (1083–1323 CE)** — unified the Telugu country; rulers **Ganapatideva**, the queen **Rudrama Devi** (one of India's few reigning queens; visited by **Marco Polo**), **Prataparudra II** (fell to the Delhi Sultanate/Ulugh Khan, 1323).",
+              "**Legacy**: the **tank-based irrigation** cascade system (Pakhal, Ramappa, Ghanpur lakes → modern **'Mission Kakatiya'**); the **Ramappa (Rudreshwara) temple, Palampet** (**UNESCO 2021** — 'floating' lightweight bricks, dolerite sculptures) & the **Thousand-Pillar Temple** & **Warangal Fort (Kirti Toranas** — Telangana state emblem).",
+              "**Reddi kingdoms (1325–1448)** rose after the Kakatiyas (Prolaya Vema Reddi, capital Addanki→Kondaveedu) — revived Telugu culture: **Errana** (completed the Telugu Mahabharatam), **Srinatha** (court poet); rebuilt temples & agraharas.",
+              "**Musunuri Nayakas** (Prolaya & Kapaya) briefly recovered Warangal from the Sultanate — early assertion of Telugu political resistance."
             ]
           }
         ]
@@ -206,15 +370,28 @@
       "Kakatiya art — **Ramappa (Rudreswara) temple (UNESCO), Thousand-Pillar temple, Warangal kirti-toranas**.",
       "**Nayankara** land-service system enabled broad, caste-fluid recruitment.",
       "**Reddi kingdom** founded by **Prolaya Vema Reddy**; capitals **Addanki, Kondavidu, Rajahmundry**; patrons of **Srinatha**.",
-      "**Musunuri Nayakas (Prolaya, Kapaya)** rallied Telugu resistance after 1323."
+      "**Musunuri Nayakas (Prolaya, Kapaya)** rallied Telugu resistance after 1323.",
+      "**Kakatiyas** — capital **Warangal (Orugallu)**; queen **Rudrama Devi** (met **Marco Polo**); last king **Prataparudra II**.",
+      "**Ramappa temple, Palampet** = **UNESCO (2021)**; **Warangal Kirti Toranas** = Telangana emblem.",
+      "Kakatiya **tank irrigation** → inspiration for **Mission Kakatiya**.",
+      "**Reddi kingdoms** (Prolaya Vema Reddi) revived Telugu — poets **Errana & Srinatha**; **Musunuri Nayakas** recovered Warangal."
     ],
     "mainsAngles": [
       "Assess the Kakatiyas' distinctive polity and cultural achievements."
     ],
     "glossary": [
-      {"term": "Nayankara", "definition": "The Kakatiya land-for-military-service system that broadened recruitment across castes."},
-      {"term": "Rudrama Devi", "definition": "The Kakatiya queen who ruled Warangal in her own right, noted by Marco Polo."},
-      {"term": "Reddi kingdom", "definition": "A 14th-15th-century Telugu dynasty (Kondavidu/Rajahmundry) known for patronising Srinatha."}
+      {
+        "term": "Nayankara",
+        "definition": "The Kakatiya land-for-military-service system that broadened recruitment across castes."
+      },
+      {
+        "term": "Rudrama Devi",
+        "definition": "The Kakatiya queen who ruled Warangal in her own right, noted by Marco Polo."
+      },
+      {
+        "term": "Reddi kingdom",
+        "definition": "A 14th-15th-century Telugu dynasty (Kondavidu/Rajahmundry) known for patronising Srinatha."
+      }
     ]
   }
 ]
