@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Energy mix**", "**Coal dominant (~55% of power)**; oil & gas largely imported; growing renewables."],
-              ["**Import dependence**", "India imports **~85% of crude oil** and much natural gas."],
-              ["**Resources**", "Coal (large reserves), limited oil/gas, hydro, solar/wind potential, uranium/thorium."],
-              ["**Sources**", "**Conventional** (coal, oil, gas, nuclear, hydro) vs **non-conventional/renewable** (solar, wind, bio)."],
-              ["**Goal**", "**Energy security + net-zero by 2070**; 500 GW non-fossil by 2030."]
+              [
+                "**Energy mix**",
+                "**Coal dominant (~55% of power)**; oil & gas largely imported; growing renewables."
+              ],
+              [
+                "**Import dependence**",
+                "India imports **~85% of crude oil** and much natural gas."
+              ],
+              [
+                "**Resources**",
+                "Coal (large reserves), limited oil/gas, hydro, solar/wind potential, uranium/thorium."
+              ],
+              [
+                "**Sources**",
+                "**Conventional** (coal, oil, gas, nuclear, hydro) vs **non-conventional/renewable** (solar, wind, bio)."
+              ],
+              [
+                "**Goal**",
+                "**Energy security + net-zero by 2070**; 500 GW non-fossil by 2030."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "⚡ Exam-ready deep coverage: India's energy scenario",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Energy mix**: coal dominates power (~50%+); India is a big **crude-oil & gas importer (~85% oil import dependence)** → energy-security concern; rising **renewables**.",
+              "**Sources**: conventional (coal, oil, gas, hydro, nuclear) vs non-conventional/renewable (solar, wind, biomass, small-hydro, geothermal, tidal).",
+              "**Institutions**: Ministries of Power, Coal, Petroleum, New & Renewable Energy (**MNRE**); **NTPC, ONGC, Coal India, NHPC, SECI**.",
+              "**Targets**: **500 GW non-fossil capacity by 2030**, 50% energy from renewables, **Net-Zero by 2070** (Panchamrit, COP26); energy efficiency (BEE star ratings, PAT scheme, UJALA-LED)."
             ]
           }
         ]
@@ -31,12 +64,25 @@
       "India has vast **coal & thorium** reserves but limited oil/gas.",
       "Target — **500 GW non-fossil capacity by 2030**; **net-zero by 2070**.",
       "**Energy security** = reliable, affordable, sustainable supply.",
-      "Nodal ministry — **Ministry of Power / New & Renewable Energy (MNRE)**."
+      "Nodal ministry — **Ministry of Power / New & Renewable Energy (MNRE)**.",
+      "India imports ~**85% of crude oil**; coal = ~50%+ of power → energy-security issue.",
+      "**MNRE** = renewable-energy ministry; **SECI** implements solar.",
+      "Target: **500 GW non-fossil by 2030, 50% RE, Net-Zero 2070**.",
+      "Efficiency: **BEE star labels, PAT scheme, UJALA (LED)**."
     ],
     "glossary": [
-      {"term": "Energy security", "definition": "Reliable, affordable and sustainable access to energy."},
-      {"term": "Conventional energy", "definition": "Traditional sources like coal, oil, gas, nuclear and hydro."},
-      {"term": "Import dependence", "definition": "Reliance on foreign supply, e.g. India importing ~85% of its crude oil."}
+      {
+        "term": "Energy security",
+        "definition": "Reliable, affordable and sustainable access to energy."
+      },
+      {
+        "term": "Conventional energy",
+        "definition": "Traditional sources like coal, oil, gas, nuclear and hydro."
+      },
+      {
+        "term": "Import dependence",
+        "definition": "Reliance on foreign supply, e.g. India importing ~85% of its crude oil."
+      }
     ]
   },
   {
@@ -52,13 +98,47 @@
           },
           {
             "type": "table",
-            "headers": ["Programme", "Focus"],
+            "headers": [
+              "Programme",
+              "Focus"
+            ],
             "rows": [
-              ["**National Solar Mission**", "Part of NAPCC; large solar-capacity targets."],
-              ["**UJALA / LED**", "Energy-efficient lighting (BEE)."],
-              ["**Saubhagya / DDUGJY**", "Household & rural electrification."],
-              ["**PM-KUSUM**", "Solar pumps & grid-connected solar for farmers."],
-              ["**Others**", "**International Solar Alliance, Green Hydrogen Mission, ethanol blending, PAT scheme, UDAY**."]
+              [
+                "**National Solar Mission**",
+                "Part of NAPCC; large solar-capacity targets."
+              ],
+              [
+                "**UJALA / LED**",
+                "Energy-efficient lighting (BEE)."
+              ],
+              [
+                "**Saubhagya / DDUGJY**",
+                "Household & rural electrification."
+              ],
+              [
+                "**PM-KUSUM**",
+                "Solar pumps & grid-connected solar for farmers."
+              ],
+              [
+                "**Others**",
+                "**International Solar Alliance, Green Hydrogen Mission, ethanol blending, PAT scheme, UDAY**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "⚡ Exam-ready deep coverage: energy policy & programmes",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Solar**: **National Solar Mission (JNNSM)**, **International Solar Alliance (ISA, HQ Gurugram)**, **PM-KUSUM** (solar pumps/farms), **PM Surya Ghar Muft Bijli** (rooftop solar), solar parks (Bhadla, Pavagada, **Kurnool**).",
+              "**Green Hydrogen**: **National Green Hydrogen Mission (2023)** — India as a green-H2 hub.",
+              "**Electrification & grid**: **SAUBHAGYA/DDUGJY** (household/rural electrification), **One Nation One Grid**, UDAY (DISCOM finances).",
+              "**Bioenergy & efficiency**: **Ethanol Blending (E20 target)**, SATAT (compressed biogas), UJALA-LED, energy-conservation building code.",
+              "**Nuclear**: 3-stage programme; expansion of capacity."
             ]
           }
         ]
@@ -71,12 +151,25 @@
       "**International Solar Alliance (ISA)** — India-France; HQ **Gurugram**.",
       "**National Green Hydrogen Mission**; **ethanol blending (E20 by 2025-26)**.",
       "**PAT (Perform, Achieve, Trade)** scheme — industrial energy efficiency.",
-      "**UDAY** — discom financial revival; **BEE** — Bureau of Energy Efficiency (star labels)."
+      "**UDAY** — discom financial revival; **BEE** — Bureau of Energy Efficiency (star labels).",
+      "**International Solar Alliance (ISA)** HQ = **Gurugram**; **National Solar Mission (JNNSM)**.",
+      "**National Green Hydrogen Mission (2023)**; **PM-KUSUM & PM Surya Ghar** (solar).",
+      "Rural power: **SAUBHAGYA/DDUGJY**; grid = **One Nation One Grid**; **UDAY** (DISCOMs).",
+      "**Ethanol blending** (E20 target); **SATAT** (biogas)."
     ],
     "glossary": [
-      {"term": "International Solar Alliance", "definition": "The India-France-led alliance (HQ Gurugram) promoting solar energy globally."},
-      {"term": "PM-KUSUM", "definition": "A scheme providing solar pumps and solar power to farmers."},
-      {"term": "Green Hydrogen Mission", "definition": "India's programme to become a hub for clean hydrogen production."}
+      {
+        "term": "International Solar Alliance",
+        "definition": "The India-France-led alliance (HQ Gurugram) promoting solar energy globally."
+      },
+      {
+        "term": "PM-KUSUM",
+        "definition": "A scheme providing solar pumps and solar power to farmers."
+      },
+      {
+        "term": "Green Hydrogen Mission",
+        "definition": "India's programme to become a hub for clean hydrogen production."
+      }
     ]
   },
   {
@@ -92,13 +185,46 @@
           },
           {
             "type": "table",
-            "headers": ["Source", "Detail"],
+            "headers": [
+              "Source",
+              "Detail"
+            ],
             "rows": [
-              ["**Solar**", "Photovoltaic/thermal; India among world leaders; **Bhadla (Rajasthan)** among world's largest solar parks."],
-              ["**Wind**", "India a top-5 wind-power nation; **Tamil Nadu, Gujarat** lead."],
-              ["**Nuclear**", "**Homi Bhabha's 3-stage programme** — PHWR (uranium) → FBR (plutonium) → **thorium**; India has vast thorium."],
-              ["**Nuclear plants**", "**Tarapur, Kudankulam (largest), Kaiga, Kakrapar**; regulated by **AERB**; run by **NPCIL**."],
-              ["**Renewable target**", "500 GW non-fossil by 2030."]
+              [
+                "**Solar**",
+                "Photovoltaic/thermal; India among world leaders; **Bhadla (Rajasthan)** among world's largest solar parks."
+              ],
+              [
+                "**Wind**",
+                "India a top-5 wind-power nation; **Tamil Nadu, Gujarat** lead."
+              ],
+              [
+                "**Nuclear**",
+                "**Homi Bhabha's 3-stage programme** — PHWR (uranium) → FBR (plutonium) → **thorium**; India has vast thorium."
+              ],
+              [
+                "**Nuclear plants**",
+                "**Tarapur, Kudankulam (largest), Kaiga, Kakrapar**; regulated by **AERB**; run by **NPCIL**."
+              ],
+              [
+                "**Renewable target**",
+                "500 GW non-fossil by 2030."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "⚡ Exam-ready deep coverage: solar, wind & nuclear",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Solar**: PV (photovoltaic) & thermal; India has huge potential (Rajasthan, Gujarat, AP-Anantapur/Kurnool); intermittency needs storage (batteries).",
+              "**Wind**: onshore (Tamil Nadu, Gujarat, AP-Rayalaseema) & emerging offshore; India ~4th in wind capacity.",
+              "**Nuclear — Homi Bhabha's 3-stage programme**: (1) **PHWR** using natural uranium (produces Pu-239), (2) **Fast Breeder Reactors** using Pu + thorium (**Kalpakkam PFBR**), (3) **thorium-based** reactors (India has ~25% of world thorium — Kerala/AP beach sands, monazite).",
+              "**Reactors**: Tarapur (first), Kudankulam (Russia), Kalpakkam; regulator **AERB**; India in NSG waiver (2008 Indo-US nuclear deal) though not NPT signatory."
             ]
           }
         ]
@@ -111,12 +237,25 @@
       "India has among the **world's largest thorium reserves** (Kerala monazite sands).",
       "**Kudankulam (Tamil Nadu)** — India's largest nuclear plant; others — Tarapur, Kaiga, Kakrapar.",
       "**NPCIL** operates plants; **AERB** regulates nuclear safety.",
-      "Solar & wind are **renewable**; nuclear is **clean but non-renewable**."
+      "Solar & wind are **renewable**; nuclear is **clean but non-renewable**.",
+      "**Bhabha's 3-stage nuclear programme**: PHWR → **Fast Breeder (Pu+Th)** → **Thorium**.",
+      "India has ~**25% of world thorium** (monazite beach sands — Kerala/AP).",
+      "**Kalpakkam** = Fast Breeder (PFBR); **Kudankulam** (Russian); **AERB** = regulator.",
+      "**Indo-US nuclear deal (2008)** → NSG waiver (India not an NPT signatory)."
     ],
     "glossary": [
-      {"term": "Three-stage nuclear programme", "definition": "Homi Bhabha's plan progressing from uranium PHWRs to plutonium FBRs to thorium reactors."},
-      {"term": "Photovoltaic", "definition": "Technology converting sunlight directly into electricity."},
-      {"term": "AERB", "definition": "The Atomic Energy Regulatory Board overseeing nuclear safety in India."}
+      {
+        "term": "Three-stage nuclear programme",
+        "definition": "Homi Bhabha's plan progressing from uranium PHWRs to plutonium FBRs to thorium reactors."
+      },
+      {
+        "term": "Photovoltaic",
+        "definition": "Technology converting sunlight directly into electricity."
+      },
+      {
+        "term": "AERB",
+        "definition": "The Atomic Energy Regulatory Board overseeing nuclear safety in India."
+      }
     ]
   },
   {
@@ -132,13 +271,46 @@
           },
           {
             "type": "table",
-            "headers": ["Instrument", "Detail"],
+            "headers": [
+              "Instrument",
+              "Detail"
+            ],
             "rows": [
-              ["**Constitution**", "**Art. 48A (DPSP), 51A(g) (duty), 21 (right to healthy environment)**."],
-              ["**Key laws**", "**Environment (Protection) Act 1986, Water Act 1974, Air Act 1981, Wildlife Protection Act 1972, Forest Conservation Act 1980**."],
-              ["**Institutions**", "**CPCB/SPCB, NGT (2010), MoEFCC**."],
-              ["**Treaties**", "**Stockholm (1972), Rio (1992), Montreal (ozone), Basel, Ramsar (wetlands), CITES, UNFCCC/Paris, CBD**."],
-              ["**EIA**", "Environmental Impact Assessment for projects."]
+              [
+                "**Constitution**",
+                "**Art. 48A (DPSP), 51A(g) (duty), 21 (right to healthy environment)**."
+              ],
+              [
+                "**Key laws**",
+                "**Environment (Protection) Act 1986, Water Act 1974, Air Act 1981, Wildlife Protection Act 1972, Forest Conservation Act 1980**."
+              ],
+              [
+                "**Institutions**",
+                "**CPCB/SPCB, NGT (2010), MoEFCC**."
+              ],
+              [
+                "**Treaties**",
+                "**Stockholm (1972), Rio (1992), Montreal (ozone), Basel, Ramsar (wetlands), CITES, UNFCCC/Paris, CBD**."
+              ],
+              [
+                "**EIA**",
+                "Environmental Impact Assessment for projects."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: environmental law, policy & treaties",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Indian laws**: **Environment (Protection) Act 1986** (umbrella), **Water Act 1974 & Air Act 1981** (CPCB/SPCB), **Wildlife Protection Act 1972**, **Forest Conservation Act 1980**, **Biological Diversity Act 2002 (NBA)**, **EIA Notification 2006**, **NGT Act 2010**.",
+              "**International treaties**: **Stockholm 1972** (first), **Ramsar 1971** (wetlands), **CITES 1973** (trade in species), **Montreal Protocol 1987** (ozone/CFCs), **Basel** (hazardous waste), **CBD 1992 → Nagoya/Cartagena Protocols**, **UNCCD** (desertification), **UNFCCC → Kyoto → Paris**, **Minamata** (mercury), **Stockholm POPs**.",
+              "**Institutions**: MoEFCC, CPCB, NGT, NBA, Wildlife Board, Zoological/Botanical Surveys.",
+              "**Principles**: polluter pays, precautionary principle, sustainable development, public trust doctrine — upheld by the SC/NGT."
             ]
           }
         ]
@@ -151,12 +323,25 @@
       "**CPCB/SPCB** — pollution control boards; **MoEFCC** — nodal ministry.",
       "Treaties — **Montreal (ozone), Basel (hazardous waste), Ramsar (wetlands), CITES (species trade), Stockholm (POPs)**.",
       "**Art. 48A & 51A(g)** — environment in DPSP & Fundamental Duties.",
-      "**EIA** (Environmental Impact Assessment) mandatory for major projects."
+      "**EIA** (Environmental Impact Assessment) mandatory for major projects.",
+      "Umbrella law = **Environment (Protection) Act 1986**; **NGT (2010)** adjudicates.",
+      "Treaties: **Ramsar (wetlands), CITES (species trade), Montreal (ozone), Basel (hazardous waste), CBD (biodiversity), Minamata (mercury)**.",
+      "**Biological Diversity Act 2002** → **NBA**; principles: **polluter-pays, precautionary**.",
+      "**Stockholm 1972** = first global environment summit."
     ],
     "glossary": [
-      {"term": "EPA 1986", "definition": "The Environment (Protection) Act, India's umbrella environmental law."},
-      {"term": "NGT", "definition": "The National Green Tribunal (2010) for speedy environmental justice."},
-      {"term": "Ramsar Convention", "definition": "The international treaty for the conservation of wetlands."}
+      {
+        "term": "EPA 1986",
+        "definition": "The Environment (Protection) Act, India's umbrella environmental law."
+      },
+      {
+        "term": "NGT",
+        "definition": "The National Green Tribunal (2010) for speedy environmental justice."
+      },
+      {
+        "term": "Ramsar Convention",
+        "definition": "The international treaty for the conservation of wetlands."
+      }
     ]
   },
   {
@@ -172,13 +357,47 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Levels**", "**Genetic, species, ecosystem** diversity."],
-              ["**India's status**", "One of **17 megadiverse countries**; **4 biodiversity hotspots** (Himalaya, Western Ghats, Indo-Burma, Sundaland/Nicobar)."],
-              ["**Importance**", "Ecosystem services, food, medicine, climate regulation, livelihoods."],
-              ["**Threats**", "**Habitat loss, poaching, pollution, invasive species, climate change**."],
-              ["**Conservation**", "**In-situ (parks, reserves), ex-situ (zoos, gene banks); Biological Diversity Act 2002; NBA**."]
+              [
+                "**Levels**",
+                "**Genetic, species, ecosystem** diversity."
+              ],
+              [
+                "**India's status**",
+                "One of **17 megadiverse countries**; **4 biodiversity hotspots** (Himalaya, Western Ghats, Indo-Burma, Sundaland/Nicobar)."
+              ],
+              [
+                "**Importance**",
+                "Ecosystem services, food, medicine, climate regulation, livelihoods."
+              ],
+              [
+                "**Threats**",
+                "**Habitat loss, poaching, pollution, invasive species, climate change**."
+              ],
+              [
+                "**Conservation**",
+                "**In-situ (parks, reserves), ex-situ (zoos, gene banks); Biological Diversity Act 2002; NBA**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: biodiversity",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Biodiversity levels**: genetic, species, ecosystem; India = a **mega-diverse** country (~8% of world species) with **4 biodiversity hotspots** — **Himalaya, Indo-Burma, Western Ghats-Sri Lanka, Sundaland (Nicobar)**.",
+              "**Conservation**: **in-situ** (biosphere reserves-18, national parks, wildlife sanctuaries, tiger/elephant reserves, community reserves, sacred groves) vs **ex-situ** (zoos, botanical gardens, gene/seed banks, cryopreservation).",
+              "**IUCN Red List** categories: Extinct → Critically Endangered → Endangered → Vulnerable → Near Threatened → Least Concern.",
+              "**Threats**: habitat loss, poaching, invasive species, pollution, climate change; **Project Tiger (1973), Project Elephant, CAMPA**; **CBD/Nagoya** access & benefit-sharing.",
+              "**AP biodiversity**: Eastern Ghats endemics (red sanders — Seshachalam), Coringa mangroves, Nagarjunasagar-Srisailam tiger reserve."
             ]
           }
         ]
@@ -191,12 +410,25 @@
       "**Biological Diversity Act, 2002**; **National Biodiversity Authority (NBA, Chennai)**.",
       "Threats — **habitat loss, poaching, invasive species, pollution, climate change**.",
       "**IUCN Red List** categorises threatened species (CR, EN, VU).",
-      "**Convention on Biological Diversity (CBD, 1992)** — Rio; Nagoya Protocol (access & benefit sharing)."
+      "**Convention on Biological Diversity (CBD, 1992)** — Rio; Nagoya Protocol (access & benefit sharing).",
+      "India's **4 biodiversity hotspots**: Himalaya, Indo-Burma, Western Ghats, Sundaland (Nicobar).",
+      "**In-situ** (parks/reserves/biosphere) vs **ex-situ** (zoos/gene banks).",
+      "**IUCN Red List**: CR → EN → VU …; **Project Tiger (1973)**.",
+      "AP: red sanders (Seshachalam), Coringa mangroves, Nagarjunasagar-Srisailam TR."
     ],
     "glossary": [
-      {"term": "Biodiversity", "definition": "The variety of life at genetic, species and ecosystem levels."},
-      {"term": "Biodiversity hotspot", "definition": "A biologically rich but threatened region; India has four."},
-      {"term": "In-situ conservation", "definition": "Protecting species in their natural habitat (parks, reserves)."}
+      {
+        "term": "Biodiversity",
+        "definition": "The variety of life at genetic, species and ecosystem levels."
+      },
+      {
+        "term": "Biodiversity hotspot",
+        "definition": "A biologically rich but threatened region; India has four."
+      },
+      {
+        "term": "In-situ conservation",
+        "definition": "Protecting species in their natural habitat (parks, reserves)."
+      }
     ]
   }
 ]

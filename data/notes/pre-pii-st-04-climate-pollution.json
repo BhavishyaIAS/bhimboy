@@ -12,13 +12,46 @@
           },
           {
             "type": "table",
-            "headers": ["Milestone", "Detail"],
+            "headers": [
+              "Milestone",
+              "Detail"
+            ],
             "rows": [
-              ["**UNFCCC (1992)**", "Rio; parent framework; annual **CoP** meetings; principle of **CBDR**."],
-              ["**Kyoto Protocol (1997)**", "Binding emission cuts for developed nations."],
-              ["**Paris Agreement (2015)**", "Limit warming **well below 2°C (aim 1.5°C)**; **NDCs** (nationally determined)."],
-              ["**IPCC**", "UN scientific body; assessment reports."],
-              ["**India's commitment**", "**Net-zero by 2070; Panchamrit (Glasgow CoP26); Mission LiFE; updated NDCs**."]
+              [
+                "**UNFCCC (1992)**",
+                "Rio; parent framework; annual **CoP** meetings; principle of **CBDR**."
+              ],
+              [
+                "**Kyoto Protocol (1997)**",
+                "Binding emission cuts for developed nations."
+              ],
+              [
+                "**Paris Agreement (2015)**",
+                "Limit warming **well below 2°C (aim 1.5°C)**; **NDCs** (nationally determined)."
+              ],
+              [
+                "**IPCC**",
+                "UN scientific body; assessment reports."
+              ],
+              [
+                "**India's commitment**",
+                "**Net-zero by 2070; Panchamrit (Glasgow CoP26); Mission LiFE; updated NDCs**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: climate change & protocols",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Cause**: greenhouse gases (CO₂, CH₄, N₂O, F-gases, water vapour) trap heat → global warming; **IPCC** (scientific body, AR6) warns of ~1.1°C warming already.",
+              "**Global regime**: **UNFCCC (Rio 1992)** → **Kyoto Protocol (1997)** (binding for developed nations; CDM) → **Paris Agreement (2015)** — limit warming to **well below 2°C, aim 1.5°C**, via **NDCs**, common-but-differentiated responsibilities (CBDR); **CoP** meetings (CoP28-UAE loss-and-damage fund).",
+              "**India's stand & pledges (Panchamrit, COP26)**: 500 GW non-fossil by 2030, 50% RE, cut 1 bn t emissions, reduce emissions intensity 45%, **Net-Zero by 2070**; **LiFE (Lifestyle for Environment)**, ISA, CDRI.",
+              "**Mechanisms**: carbon markets/credits, green finance, adaptation & mitigation."
             ]
           }
         ]
@@ -31,12 +64,25 @@
       "**IPCC** — UN's scientific body (Assessment Reports).",
       "India — **net-zero by 2070**; **Panchamrit** (5 targets, Glasgow CoP26, 2021).",
       "**Mission LiFE** (Lifestyle for Environment) — India's behavioural-change initiative.",
-      "**CoP** = Conference of Parties (annual UNFCCC summit)."
+      "**CoP** = Conference of Parties (annual UNFCCC summit).",
+      "**UNFCCC 1992 → Kyoto 1997 → Paris 2015**; **IPCC** = scientific assessment body.",
+      "Paris goal = **<2°C (aim 1.5°C)** via **NDCs**; principle **CBDR**.",
+      "India's **Panchamrit (COP26)**: **Net-Zero 2070**, 500 GW non-fossil, 50% RE by 2030.",
+      "India-led: **ISA, CDRI, LiFE**; CoP28 set up the **loss-and-damage fund**."
     ],
     "glossary": [
-      {"term": "UNFCCC", "definition": "The UN Framework Convention on Climate Change (1992), the parent climate treaty."},
-      {"term": "Paris Agreement", "definition": "The 2015 accord to limit warming below 2°C via nationally determined contributions."},
-      {"term": "Net-zero", "definition": "Balancing greenhouse gases emitted and removed; India's target year is 2070."}
+      {
+        "term": "UNFCCC",
+        "definition": "The UN Framework Convention on Climate Change (1992), the parent climate treaty."
+      },
+      {
+        "term": "Paris Agreement",
+        "definition": "The 2015 accord to limit warming below 2°C via nationally determined contributions."
+      },
+      {
+        "term": "Net-zero",
+        "definition": "Balancing greenhouse gases emitted and removed; India's target year is 2070."
+      }
     ]
   },
   {
@@ -52,13 +98,46 @@
           },
           {
             "type": "table",
-            "headers": ["Instrument", "Detail"],
+            "headers": [
+              "Instrument",
+              "Detail"
+            ],
             "rows": [
-              ["**Wildlife Protection Act 1972**", "Protects species; creates national parks & sanctuaries; schedules by protection level."],
-              ["**Forest Conservation Act 1980**", "Restricts diversion of forest land."],
-              ["**Forest Rights Act 2006**", "Recognises forest-dwellers' & tribes' rights."],
-              ["**Protected areas**", "**National Parks, Wildlife Sanctuaries, Biosphere Reserves, Conservation/Community Reserves, Tiger Reserves**."],
-              ["**Species projects**", "**Project Tiger (1973), Project Elephant, Project Lion, Cheetah reintroduction**."]
+              [
+                "**Wildlife Protection Act 1972**",
+                "Protects species; creates national parks & sanctuaries; schedules by protection level."
+              ],
+              [
+                "**Forest Conservation Act 1980**",
+                "Restricts diversion of forest land."
+              ],
+              [
+                "**Forest Rights Act 2006**",
+                "Recognises forest-dwellers' & tribes' rights."
+              ],
+              [
+                "**Protected areas**",
+                "**National Parks, Wildlife Sanctuaries, Biosphere Reserves, Conservation/Community Reserves, Tiger Reserves**."
+              ],
+              [
+                "**Species projects**",
+                "**Project Tiger (1973), Project Elephant, Project Lion, Cheetah reintroduction**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: forest & wildlife conservation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Forest cover**: ~24-25% (FSI **India State of Forest Report**, biennial); **National Forest Policy 1988** target = **33%**; classification — reserved/protected/unclassed.",
+              "**Laws**: **Forest Conservation Act 1980** (diversion needs central nod), **Wildlife Protection Act 1972** (Schedules I-IV; national parks/sanctuaries), **Forest Rights Act 2006** (tribal/OTFD rights), **CAMPA** (compensatory afforestation), Van (Sanrakshan) Adhiniyam 2023.",
+              "**Programmes**: **Project Tiger (1973 → NTCA, ~55 tiger reserves), Project Elephant, Project Lion, Project Dolphin, Project Cheetah (2022 — Kuno)**, Green India Mission, Nagar Van.",
+              "**Wetlands & Ramsar**: India has 80+ Ramsar sites (most in Asia); **Coringa/Kolleru (AP)**."
             ]
           }
         ]
@@ -71,12 +150,25 @@
       "**Project Tiger (1973)** — India holds ~**70% of the world's wild tigers**; **NTCA** manages tiger reserves.",
       "**Project Elephant, Project Lion (Gir), Cheetah reintroduction (Kuno, 2022)**.",
       "Protection hierarchy — **National Park > Wildlife Sanctuary**.",
-      "**IUCN Red List** & **CITES** guide species conservation."
+      "**IUCN Red List** & **CITES** guide species conservation.",
+      "Forest cover ~**24-25%** (FSI report); Policy target **33%**.",
+      "**Forest Conservation Act 1980, Wildlife Protection Act 1972, FRA 2006, CAMPA**.",
+      "**Project Tiger (1973) → NTCA**; **Project Cheetah (2022, Kuno)**; Project Elephant/Dolphin/Lion.",
+      "India has the **most Ramsar sites in Asia** (80+)."
     ],
     "glossary": [
-      {"term": "Wildlife Protection Act 1972", "definition": "India's principal law protecting wild species and creating protected areas."},
-      {"term": "Project Tiger", "definition": "The 1973 conservation programme that recovered India's tiger population."},
-      {"term": "Forest Rights Act", "definition": "The 2006 law recognising forest-dwelling communities' rights."}
+      {
+        "term": "Wildlife Protection Act 1972",
+        "definition": "India's principal law protecting wild species and creating protected areas."
+      },
+      {
+        "term": "Project Tiger",
+        "definition": "The 1973 conservation programme that recovered India's tiger population."
+      },
+      {
+        "term": "Forest Rights Act",
+        "definition": "The 2006 law recognising forest-dwelling communities' rights."
+      }
     ]
   },
   {
@@ -92,13 +184,47 @@
           },
           {
             "type": "table",
-            "headers": ["Type", "Detail"],
+            "headers": [
+              "Type",
+              "Detail"
+            ],
             "rows": [
-              ["**Air pollution**", "**PM2.5/PM10, SO₂, NOₓ, CO, O₃**; measured by **AQI**; sources — vehicles, industry, stubble."],
-              ["**Water pollution**", "Sewage, industrial effluent, agrochemicals; indicators **BOD, COD**."],
-              ["**Greenhouse gases**", "**CO₂, methane (CH₄), N₂O, CFCs** → global warming."],
-              ["**Global warming**", "Rise in Earth's temperature from GHG-driven greenhouse effect."],
-              ["**Effects**", "Sea-level rise, extreme weather, glacial melt, health impacts."]
+              [
+                "**Air pollution**",
+                "**PM2.5/PM10, SO₂, NOₓ, CO, O₃**; measured by **AQI**; sources — vehicles, industry, stubble."
+              ],
+              [
+                "**Water pollution**",
+                "Sewage, industrial effluent, agrochemicals; indicators **BOD, COD**."
+              ],
+              [
+                "**Greenhouse gases**",
+                "**CO₂, methane (CH₄), N₂O, CFCs** → global warming."
+              ],
+              [
+                "**Global warming**",
+                "Rise in Earth's temperature from GHG-driven greenhouse effect."
+              ],
+              [
+                "**Effects**",
+                "Sea-level rise, extreme weather, glacial melt, health impacts."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: pollution & global warming",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Air pollution**: PM2.5/PM10, SO₂, NOₓ, CO, O₃; **AQI**; **National Clean Air Programme (NCAP)**; smog, stubble burning; **BS-VI** fuel norms.",
+              "**Water pollution**: sewage, industrial effluent, eutrophication; **Namami Gange**; groundwater contamination (arsenic, fluoride).",
+              "**Soil & solid waste**: plastic (Single-Use Plastic ban 2022, EPR), e-waste, hazardous waste rules; **Swachh Bharat**.",
+              "**Global warming impacts**: sea-level rise, extreme weather, glacial melt, agriculture & health effects; carbon footprint & carbon markets; ozone depletion (Montreal).",
+              "**Regulators**: CPCB/SPCB, NGT; AP Pollution Control Board (APPCB) — post-disaster monitoring (e.g., LG Polymers 2020)."
             ]
           }
         ]
@@ -111,12 +237,25 @@
       "**Global warming** = temperature rise from an enhanced greenhouse effect.",
       "**CFCs** deplete the **ozone layer** (Montreal Protocol).",
       "**National Clean Air Programme (NCAP)** targets PM reduction.",
-      "**Methane** has a far higher warming potential than CO₂ per unit."
+      "**Methane** has a far higher warming potential than CO₂ per unit.",
+      "Air: **PM2.5/PM10, AQI**; **NCAP** programme; **BS-VI** fuel norms.",
+      "Water: **Namami Gange**; **Single-Use Plastic ban (2022)** + EPR.",
+      "Regulators: **CPCB/SPCB, NGT**; AP = **APPCB**.",
+      "Global warming → sea-level rise, extreme weather, glacial melt."
     ],
     "glossary": [
-      {"term": "AQI", "definition": "The Air Quality Index reporting daily air-pollution levels."},
-      {"term": "Greenhouse effect", "definition": "Warming from atmospheric gases trapping outgoing heat."},
-      {"term": "BOD", "definition": "Biochemical Oxygen Demand — a measure of organic water pollution."}
+      {
+        "term": "AQI",
+        "definition": "The Air Quality Index reporting daily air-pollution levels."
+      },
+      {
+        "term": "Greenhouse effect",
+        "definition": "Warming from atmospheric gases trapping outgoing heat."
+      },
+      {
+        "term": "BOD",
+        "definition": "Biochemical Oxygen Demand — a measure of organic water pollution."
+      }
     ]
   },
   {
@@ -132,13 +271,46 @@
           },
           {
             "type": "table",
-            "headers": ["Framework", "Detail"],
+            "headers": [
+              "Framework",
+              "Detail"
+            ],
             "rows": [
-              ["**NAPCC (2008)**", "**8 national missions** — Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Himalayan Ecosystem, Green India, Sustainable Agriculture, Strategic Knowledge."],
-              ["**State plans**", "**SAPCC** — state action plans on climate change."],
-              ["**DM Act 2005**", "Created **NDMA (PM chairs), SDMA, DDMA**; NDRF."],
-              ["**Sendai Framework (2015-30)**", "Global disaster-risk-reduction blueprint."],
-              ["**Disaster types**", "Natural (cyclone, flood, earthquake, drought) & man-made."]
+              [
+                "**NAPCC (2008)**",
+                "**8 national missions** — Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Himalayan Ecosystem, Green India, Sustainable Agriculture, Strategic Knowledge."
+              ],
+              [
+                "**State plans**",
+                "**SAPCC** — state action plans on climate change."
+              ],
+              [
+                "**DM Act 2005**",
+                "Created **NDMA (PM chairs), SDMA, DDMA**; NDRF."
+              ],
+              [
+                "**Sendai Framework (2015-30)**",
+                "Global disaster-risk-reduction blueprint."
+              ],
+              [
+                "**Disaster types**",
+                "Natural (cyclone, flood, earthquake, drought) & man-made."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🌿 Exam-ready deep coverage: NAPCC & disaster management",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**NAPCC (2008) — 8 missions**: **National Solar Mission, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining Himalayan Ecosystem, Green India, Sustainable Agriculture, Strategic Knowledge for Climate Change**; plus **State Action Plans (SAPCCs)**.",
+              "**Disaster management**: **Disaster Management Act 2005** → **NDMA (PM-chaired), SDMA, DDMA; NDRF** (response force); the shift from relief-centric to **prevention/mitigation/preparedness**.",
+              "**Frameworks**: **Sendai Framework 2015-30** (India a signatory); early-warning (IMD cyclones, INCOIS tsunami, CWC floods); **CDRI** (Coalition for Disaster Resilient Infrastructure, India-led).",
+              "**AP relevance**: cyclone-prone coast → cyclone shelters, early warning, APSDMA."
             ]
           }
         ]
@@ -151,12 +323,25 @@
       "**NDRF** — National Disaster Response Force; **NIDM** — training/research.",
       "**Sendai Framework (2015-2030)** — global disaster-risk-reduction agreement.",
       "AP is **cyclone-prone** — coastal disaster management is critical.",
-      "Disaster phases — **mitigation, preparedness, response, recovery**."
+      "Disaster phases — **mitigation, preparedness, response, recovery**.",
+      "**NAPCC (2008)** = **8 national missions** (Solar, Energy Efficiency, Green India, Water…).",
+      "**Disaster Management Act 2005** → **NDMA (PM-chaired), NDRF**; **Sendai Framework 2015-30**.",
+      "India-led **CDRI** (disaster-resilient infrastructure).",
+      "Warnings: **IMD (cyclone), INCOIS (tsunami), CWC (floods)**; AP = **APSDMA**."
     ],
     "glossary": [
-      {"term": "NAPCC", "definition": "The National Action Plan on Climate Change (2008) with its eight national missions."},
-      {"term": "NDMA", "definition": "The National Disaster Management Authority, chaired by the Prime Minister."},
-      {"term": "Sendai Framework", "definition": "The 2015-2030 global framework for disaster-risk reduction."}
+      {
+        "term": "NAPCC",
+        "definition": "The National Action Plan on Climate Change (2008) with its eight national missions."
+      },
+      {
+        "term": "NDMA",
+        "definition": "The National Disaster Management Authority, chaired by the Prime Minister."
+      },
+      {
+        "term": "Sendai Framework",
+        "definition": "The 2015-2030 global framework for disaster-risk reduction."
+      }
     ]
   }
 ]
