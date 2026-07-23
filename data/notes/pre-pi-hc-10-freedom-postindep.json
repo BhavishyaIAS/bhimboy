@@ -12,11 +12,38 @@
           },
           {
             "type": "table",
-            "headers": ["Movement", "Key facts"],
+            "headers": [
+              "Movement",
+              "Key facts"
+            ],
             "rows": [
-              ["**Civil Disobedience (1930-34)**", "**Dandi Salt March (12 Mar–6 Apr 1930, 240 mi)**; salt-law breach; **Gandhi-Irwin Pact (1931); Round Table Conferences; Poona Pact (1932)**."],
-              ["**Quit India (1942)**", "**Bombay AICC (8 Aug 1942); 'Do or Die'**; leaders jailed; largely spontaneous mass revolt; parallel govts (Tamluk, Satara, **Talcher**)."],
-              ["**INA (Azad Hind Fauj)**", "Founded by **Rash Behari Bose/Mohan Singh**; led by **Subhas Chandra Bose** (1943, Singapore); **'Dilli Chalo', 'Give me blood...'**; **INA trials (Red Fort, 1945)**."]
+              [
+                "**Civil Disobedience (1930-34)**",
+                "**Dandi Salt March (12 Mar–6 Apr 1930, 240 mi)**; salt-law breach; **Gandhi-Irwin Pact (1931); Round Table Conferences; Poona Pact (1932)**."
+              ],
+              [
+                "**Quit India (1942)**",
+                "**Bombay AICC (8 Aug 1942); 'Do or Die'**; leaders jailed; largely spontaneous mass revolt; parallel govts (Tamluk, Satara, **Talcher**)."
+              ],
+              [
+                "**INA (Azad Hind Fauj)**",
+                "Founded by **Rash Behari Bose/Mohan Singh**; led by **Subhas Chandra Bose** (1943, Singapore); **'Dilli Chalo', 'Give me blood...'**; **INA trials (Red Fort, 1945)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Civil Disobedience, Quit India, INA",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Civil Disobedience (1930–34)**: launched by the **Dandi Salt March (12 Mar–6 Apr 1930)** breaking the salt law; **Gandhi-Irwin Pact (1931)** → **2nd Round Table Conference**; **Communal Award (1932) → Poona Pact**.",
+              "**Round Table Conferences (1930-32, London)** & the **Government of India Act 1935** (provincial autonomy, federation) → **1937 provincial elections** (Congress ministries).",
+              "**Quit India (Aug 1942)**: 'Do or Die'; after **Cripps Mission** failure; leadership jailed → spontaneous mass upheaval, parallel governments (**Satara, Tamluk, Ballia**); **Usha Mehta's** secret radio; suppressed but proved British rule untenable.",
+              "**INA (Azad Hind Fauj)**: founded by **Rash Behari Bose & Mohan Singh (1942)**, revitalised by **Subhas Chandra Bose (1943, Singapore — 'Give me blood, I will give you freedom')**; women's **Rani Jhansi Regiment**; the **INA (Red Fort) Trials (1945)** stirred nationwide sympathy & the **RIN Mutiny (1946)**."
             ]
           }
         ]
@@ -42,15 +69,28 @@
       "**Quit India (8 Aug 1942, Bombay)** — slogan **'Do or Die'**; **August Kranti**.",
       "Parallel governments — **Tamluk (Bengal), Satara (Maharashtra), Talcher**.",
       "**INA (Azad Hind Fauj)** — reorganised by **Subhas Chandra Bose (1943)**; slogans **'Dilli Chalo', 'Jai Hind'**.",
-      "**INA/Red Fort Trials (1945)** and the **RIN (Naval) Mutiny (1946)** eroded British control."
+      "**INA/Red Fort Trials (1945)** and the **RIN (Naval) Mutiny (1946)** eroded British control.",
+      "**Dandi March (1930)** launched Civil Disobedience; **Gandhi-Irwin Pact (1931)**.",
+      "**Quit India (Aug 1942)** — 'Do or Die'; parallel govts at **Satara, Tamluk, Ballia**.",
+      "**Cripps Mission (1942)** preceded Quit India; **GoI Act 1935** → provincial autonomy.",
+      "**Subhas Bose** led the **INA** from 1943; **INA Trials (1945)** & **RIN Mutiny (1946)**."
     ],
     "mainsAngles": [
       "Assess the contribution of the Quit India Movement and the INA to India's independence."
     ],
     "glossary": [
-      {"term": "Dandi March", "definition": "Gandhi's 1930 salt march that launched the Civil Disobedience Movement."},
-      {"term": "Quit India", "definition": "The 1942 'Do or Die' mass movement demanding an immediate end to British rule."},
-      {"term": "INA", "definition": "The Indian National Army (Azad Hind Fauj) led by Subhas Chandra Bose to liberate India by force."}
+      {
+        "term": "Dandi March",
+        "definition": "Gandhi's 1930 salt march that launched the Civil Disobedience Movement."
+      },
+      {
+        "term": "Quit India",
+        "definition": "The 1942 'Do or Die' mass movement demanding an immediate end to British rule."
+      },
+      {
+        "term": "INA",
+        "definition": "The Indian National Army (Azad Hind Fauj) led by Subhas Chandra Bose to liberate India by force."
+      }
     ]
   },
   {
@@ -66,11 +106,36 @@
           },
           {
             "type": "table",
-            "headers": ["Leader", "Role"],
+            "headers": [
+              "Leader",
+              "Role"
+            ],
             "rows": [
-              ["**Sardar Patel**", "Kheda & **Bardoli Satyagraha (1928 — earned 'Sardar')**; first **Home Minister & Deputy PM**; **integrated ~560 princely states** (with V.P. Menon); 'Iron Man of India'."],
-              ["**Subhas Chandra Bose**", "Twice **Congress President (Haripura 1938, Tripuri 1939 — resigned over Gandhi)**; founded **Forward Bloc (1939)**; led the **INA**; 'Netaji'; **'Give me blood, I will give you freedom'**."],
-              ["**Contrast**", "Patel — organisation & unity within Congress; Bose — militant, international (Axis) route to freedom."]
+              [
+                "**Sardar Patel**",
+                "Kheda & **Bardoli Satyagraha (1928 — earned 'Sardar')**; first **Home Minister & Deputy PM**; **integrated ~560 princely states** (with V.P. Menon); 'Iron Man of India'."
+              ],
+              [
+                "**Subhas Chandra Bose**",
+                "Twice **Congress President (Haripura 1938, Tripuri 1939 — resigned over Gandhi)**; founded **Forward Bloc (1939)**; led the **INA**; 'Netaji'; **'Give me blood, I will give you freedom'**."
+              ],
+              [
+                "**Contrast**",
+                "Patel — organisation & unity within Congress; Bose — militant, international (Axis) route to freedom."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Patel & Subhas Bose",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Sardar Vallabhbhai Patel** ('Iron Man', 'Bismarck of India'): led **Bardoli Satyagraha (1928)** (earned 'Sardar'); as **first Home Minister & Deputy PM**, integrated **565 princely states** (with V.P. Menon) — Junagadh, **Hyderabad (Operation Polo, 1948)**, Kashmir; **Statue of Unity** commemorates him.",
+              "**Subhas Chandra Bose**: elected Congress President twice (**Haripura 1938, Tripuri 1939** — resigned after clash with Gandhi), founded the **Forward Bloc (1939)**; escaped to Germany then **Japan → INA**; formed the **Azad Hind (Provisional) Government (1943, Singapore)**; **'Jai Hind', 'Dilli Chalo'**; reportedly died in a Taipei air-crash (1945)."
             ]
           }
         ]
@@ -96,15 +161,28 @@
       "**Subhas Chandra Bose** — Congress President at **Haripura (1938)** & **Tripuri (1939)**; resigned after differences with Gandhi.",
       "Bose founded the **Forward Bloc (1939)** and led the **INA**; title **'Netaji'**.",
       "Bose's slogans — **'Dilli Chalo', 'Jai Hind', 'Give me blood, I will give you freedom'**.",
-      "Bose set up the **Azad Hind (Provisional) Government** in Singapore (1943)."
+      "Bose set up the **Azad Hind (Provisional) Government** in Singapore (1943).",
+      "**Patel** — **Bardoli Satyagraha (1928)**; integrated **565 princely states** (with V.P. Menon).",
+      "**Hyderabad** integrated via **Operation Polo (1948)**; Patel = first Home Minister/Deputy PM.",
+      "**Subhas Bose** — Congress President (Haripura 1938, Tripuri 1939); **Forward Bloc (1939)**; **Azad Hind Govt (1943)**.",
+      "Bose slogans: **'Jai Hind', 'Give me blood…', 'Dilli Chalo'**."
     ],
     "mainsAngles": [
       "Compare the contributions of Sardar Patel and Subhas Chandra Bose to the freedom struggle."
     ],
     "glossary": [
-      {"term": "Bardoli Satyagraha", "definition": "The 1928 Gujarat no-tax peasant campaign led by Vallabhbhai Patel, earning him the title 'Sardar'."},
-      {"term": "Forward Bloc", "definition": "The radical party founded by Subhas Chandra Bose in 1939 after leaving the Congress presidency."},
-      {"term": "Integration of states", "definition": "Patel's post-1947 unification of ~560 princely states into the Indian Union."}
+      {
+        "term": "Bardoli Satyagraha",
+        "definition": "The 1928 Gujarat no-tax peasant campaign led by Vallabhbhai Patel, earning him the title 'Sardar'."
+      },
+      {
+        "term": "Forward Bloc",
+        "definition": "The radical party founded by Subhas Chandra Bose in 1939 after leaving the Congress presidency."
+      },
+      {
+        "term": "Integration of states",
+        "definition": "Patel's post-1947 unification of ~560 princely states into the Indian Union."
+      }
     ]
   },
   {
@@ -120,12 +198,42 @@
           },
           {
             "type": "table",
-            "headers": ["Aspect", "Detail"],
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
             "rows": [
-              ["**Social reform**", "**Mahad Satyagraha (1927), Kalaram Temple Entry (1930)**; burned the Manusmriti; journals **Mooknayak, Bahishkrit Bharat**."],
-              ["**Political**", "Founded **Independent Labour Party, Scheduled Castes Federation**; **Poona Pact (1932)** with Gandhi."],
-              ["**Constitution**", "**Chairman, Drafting Committee**; called the **'Father of the Indian Constitution'**; first **Law Minister**."],
-              ["**Later**", "Resigned over the **Hindu Code Bill**; converted to **Buddhism (1956, Nagpur)**; **Bharat Ratna (1990)**."]
+              [
+                "**Social reform**",
+                "**Mahad Satyagraha (1927), Kalaram Temple Entry (1930)**; burned the Manusmriti; journals **Mooknayak, Bahishkrit Bharat**."
+              ],
+              [
+                "**Political**",
+                "Founded **Independent Labour Party, Scheduled Castes Federation**; **Poona Pact (1932)** with Gandhi."
+              ],
+              [
+                "**Constitution**",
+                "**Chairman, Drafting Committee**; called the **'Father of the Indian Constitution'**; first **Law Minister**."
+              ],
+              [
+                "**Later**",
+                "Resigned over the **Hindu Code Bill**; converted to **Buddhism (1956, Nagpur)**; **Bharat Ratna (1990)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Dr B.R. Ambedkar",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Social reformer & jurist**: **Mahad Satyagraha (1927)** (water tank), **Kalaram Temple entry (1930)**, burnt the **Manusmriti**; founded **Bahishkrit Hitakarini Sabha (1924)**, journals **Mooknayak, Bahishkrit Bharat**; **Depressed Classes** leader.",
+              "**Politics**: 2nd Round Table Conference; **Communal Award (separate electorates) → Poona Pact (1932)** with Gandhi (reserved seats in joint electorate); founded the **Independent Labour Party (1936)** & later the **Scheduled Castes Federation** → **RPI**.",
+              "**Constitution-maker**: **Chairman of the Drafting Committee**; 'Father of the Indian Constitution'; **first Law Minister**; architect of fundamental rights, Article 17 (untouchability), Article 32 ('heart & soul'); championed a strong centre, constitutional morality.",
+              "**Later**: resigned over the **Hindu Code Bill**; **converted to Buddhism (Nagpur, 1956)** with lakhs of followers; wrote *Annihilation of Caste*, *The Problem of the Rupee*; **Bharat Ratna (1990)**."
             ]
           }
         ]
@@ -151,15 +259,28 @@
       "**Poona Pact (1932)** with Gandhi — reserved seats within a joint electorate for Depressed Classes.",
       "Journals — **Mooknayak, Bahishkrit Bharat**; work **'Annihilation of Caste'**.",
       "Converted to **Buddhism at Nagpur (1956)**; awarded **Bharat Ratna (posthumously, 1990)**.",
-      "Founded the **Reserve Bank of India blueprint** (via 'The Problem of the Rupee')."
+      "Founded the **Reserve Bank of India blueprint** (via 'The Problem of the Rupee').",
+      "**Ambedkar** — **Mahad Satyagraha (1927)**; **Poona Pact (1932)** with Gandhi.",
+      "**Chairman, Drafting Committee**; first **Law Minister**; called Art. 32 the Constitution's 'heart and soul'.",
+      "Founded **Bahishkrit Hitakarini Sabha (1924)**, journals *Mooknayak/Bahishkrit Bharat*.",
+      "**Converted to Buddhism (Nagpur, 1956)**; *Annihilation of Caste*; **Bharat Ratna (1990)**."
     ],
     "mainsAngles": [
       "Evaluate Ambedkar's role in Constitution-making and social justice."
     ],
     "glossary": [
-      {"term": "Drafting Committee", "definition": "The Constituent Assembly committee chaired by Ambedkar that prepared the draft Constitution."},
-      {"term": "Mahad Satyagraha", "definition": "Ambedkar's 1927 campaign for Dalit rights to draw water from a public tank."},
-      {"term": "Poona Pact", "definition": "The 1932 Gandhi-Ambedkar agreement providing reserved seats for Depressed Classes within a joint electorate."}
+      {
+        "term": "Drafting Committee",
+        "definition": "The Constituent Assembly committee chaired by Ambedkar that prepared the draft Constitution."
+      },
+      {
+        "term": "Mahad Satyagraha",
+        "definition": "Ambedkar's 1927 campaign for Dalit rights to draw water from a public tank."
+      },
+      {
+        "term": "Poona Pact",
+        "definition": "The 1932 Gandhi-Ambedkar agreement providing reserved seats for Depressed Classes within a joint electorate."
+      }
     ]
   },
   {
@@ -175,12 +296,42 @@
           },
           {
             "type": "table",
-            "headers": ["Step", "Detail"],
+            "headers": [
+              "Step",
+              "Detail"
+            ],
             "rows": [
-              ["**Integration**", "**Patel & V.P. Menon** merged ~560 states via the **Instrument of Accession**; hard cases — **Junagadh, Hyderabad (Operation Polo, 1948), Kashmir**."],
-              ["**Andhra State (1953)**", "**Potti Sriramulu's fast unto death (Dec 1952)** → first **linguistic state, Andhra (1 Oct 1953)** from Madras."],
-              ["**Fazl Ali Commission (1953-55)**", "**States Reorganisation Commission**; led to the **States Reorganisation Act (1956)** — 14 states & 6 UTs."],
-              ["**Andhra Pradesh (1956)**", "Andhra + Telangana (Hyderabad State) merged → **Andhra Pradesh (1 Nov 1956)**; bifurcated again in **2014 (Telangana)**."]
+              [
+                "**Integration**",
+                "**Patel & V.P. Menon** merged ~560 states via the **Instrument of Accession**; hard cases — **Junagadh, Hyderabad (Operation Polo, 1948), Kashmir**."
+              ],
+              [
+                "**Andhra State (1953)**",
+                "**Potti Sriramulu's fast unto death (Dec 1952)** → first **linguistic state, Andhra (1 Oct 1953)** from Madras."
+              ],
+              [
+                "**Fazl Ali Commission (1953-55)**",
+                "**States Reorganisation Commission**; led to the **States Reorganisation Act (1956)** — 14 states & 6 UTs."
+              ],
+              [
+                "**Andhra Pradesh (1956)**",
+                "Andhra + Telangana (Hyderabad State) merged → **Andhra Pradesh (1 Nov 1956)**; bifurcated again in **2014 (Telangana)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: integration & states reorganisation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Integration of princely states**: **Patel + V.P. Menon** — Instrument of Accession; holdouts **Junagadh** (plebiscite), **Hyderabad** (**Operation Polo, Sept 1948**), **Kashmir** (accession Oct 1947).",
+              "**Linguistic reorganisation**: early committees **Dhar Commission (1948) & JVP Committee (1949)** opposed it; **Potti Sriramulu's fast-unto-death (Dec 1952)** forced the creation of **Andhra State (1 Oct 1953, first linguistic state, capital Kurnool)**.",
+              "**States Reorganisation Commission (Fazl Ali, 1953–55)** → **States Reorganisation Act 1956** created **14 states & 6 UTs** on linguistic lines; **Andhra Pradesh formed (1 Nov 1956)** merging Andhra & Telangana (Hyderabad) under the **Gentlemen's Agreement (1956)**.",
+              "Later: Bombay split into **Maharashtra & Gujarat (1960)**; Punjab-Haryana (1966); **Telangana carved out (2 June 2014)** as the 29th state."
             ]
           }
         ]
@@ -206,15 +357,28 @@
       "**Dhar Commission & JVP Committee** initially opposed purely linguistic states.",
       "**Fazl Ali Commission (SRC, 1953-55)** → **States Reorganisation Act (1956)**.",
       "**Andhra Pradesh formed (1 Nov 1956)** by merging Andhra & Telangana (with the Gentlemen's Agreement).",
-      "AP was **bifurcated in 2014** creating **Telangana** (2 June 2014)."
+      "AP was **bifurcated in 2014** creating **Telangana** (2 June 2014).",
+      "**Patel & V.P. Menon** integrated the states; **Hyderabad → Operation Polo (1948)**.",
+      "**Potti Sriramulu's fast (1952)** → **Andhra State (1953, Kurnool)** = first linguistic state.",
+      "**Fazl Ali SRC (1953-55)** → **States Reorganisation Act 1956**; **AP formed 1 Nov 1956**.",
+      "**Gentlemen's Agreement (1956)** merged Telangana with Andhra; **Telangana state 2014**."
     ],
     "mainsAngles": [
       "Discuss the integration of princely states and the linguistic reorganisation of states, with reference to Andhra."
     ],
     "glossary": [
-      {"term": "Instrument of Accession", "definition": "The legal document by which princely states joined the Indian Union."},
-      {"term": "Operation Polo", "definition": "The 1948 police action integrating Hyderabad State into India."},
-      {"term": "Potti Sriramulu", "definition": "The activist whose fast-unto-death led to the first linguistic state, Andhra (1953)."}
+      {
+        "term": "Instrument of Accession",
+        "definition": "The legal document by which princely states joined the Indian Union."
+      },
+      {
+        "term": "Operation Polo",
+        "definition": "The 1948 police action integrating Hyderabad State into India."
+      },
+      {
+        "term": "Potti Sriramulu",
+        "definition": "The activist whose fast-unto-death led to the first linguistic state, Andhra (1953)."
+      }
     ]
   },
   {
@@ -230,14 +394,91 @@
           },
           {
             "type": "table",
-            "headers": ["Act/Mission", "Key provision"],
+            "headers": [
+              "Act/Mission",
+              "Key provision"
+            ],
             "rows": [
-              ["**Morley-Minto (1909)**", "**Separate electorates for Muslims** (communal representation); expanded legislative councils."],
-              ["**Montagu-Chelmsford (1919)**", "**Dyarchy** in provinces; bicameral centre; **preamble on 'responsible government'**."],
-              ["**Government of India Act 1935**", "**Provincial autonomy**; abolished dyarchy in provinces; federal scheme (never fully implemented); Federal Court."],
-              ["**Cripps Mission (1942)**", "Offered **Dominion status post-war** — rejected ('post-dated cheque')."],
-              ["**Cabinet Mission (1946)**", "Rejected Pakistan; proposed a **grouping/federal plan** & the **Constituent Assembly**."],
-              ["**Mountbatten Plan (1947)**", "**Partition & transfer of power**; **Indian Independence Act 1947**."]
+              [
+                "**Morley-Minto (1909)**",
+                "**Separate electorates for Muslims** (communal representation); expanded legislative councils."
+              ],
+              [
+                "**Montagu-Chelmsford (1919)**",
+                "**Dyarchy** in provinces; bicameral centre; **preamble on 'responsible government'**."
+              ],
+              [
+                "**Government of India Act 1935**",
+                "**Provincial autonomy**; abolished dyarchy in provinces; federal scheme (never fully implemented); Federal Court."
+              ],
+              [
+                "**Cripps Mission (1942)**",
+                "Offered **Dominion status post-war** — rejected ('post-dated cheque')."
+              ],
+              [
+                "**Cabinet Mission (1946)**",
+                "Rejected Pakistan; proposed a **grouping/federal plan** & the **Constituent Assembly**."
+              ],
+              [
+                "**Mountbatten Plan (1947)**",
+                "**Partition & transfer of power**; **Indian Independence Act 1947**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: constitutional acts & missions (1909–1947)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Act / Mission",
+              "Year",
+              "Key provisions"
+            ],
+            "rows": [
+              [
+                "**Morley-Minto (Indian Councils Act)**",
+                "1909",
+                "**Separate electorates for Muslims** (communal representation begins)."
+              ],
+              [
+                "**Montagu-Chelmsford / GoI Act**",
+                "1919",
+                "**Dyarchy** in provinces; bicameral centre; Montagu's 'responsible government' goal."
+              ],
+              [
+                "**Simon Commission**",
+                "1927–28",
+                "All-white → 'Simon Go Back'; Lala Lajpat Rai injured; spurred the **Nehru Report (1928)**."
+              ],
+              [
+                "**Government of India Act**",
+                "1935",
+                "**Provincial autonomy**, all-India federation (never formed), Federal Court, RBI; basis of the Constitution."
+              ],
+              [
+                "**August Offer**",
+                "1940",
+                "Dominion status goal; rejected."
+              ],
+              [
+                "**Cripps Mission**",
+                "1942",
+                "Dominion status post-war; 'post-dated cheque'; rejected → Quit India."
+              ],
+              [
+                "**Cabinet Mission**",
+                "1946",
+                "Rejected Pakistan; grouping scheme; **Constituent Assembly**; Interim Government."
+              ],
+              [
+                "**Mountbatten Plan / Indian Independence Act**",
+                "1947",
+                "Partition; **15 August 1947** independence."
+              ]
             ]
           }
         ]
@@ -263,15 +504,28 @@
       "**Cripps Mission (1942)** — Dominion status after WWII; rejected — Gandhi's **'post-dated cheque'**.",
       "**Cabinet Mission (1946)** — rejected Pakistan; provided for the **Constituent Assembly** (grouping plan).",
       "**Mountbatten Plan (3 June 1947)** → **Indian Independence Act 1947** → Partition.",
-      "The **1935 Act** was the longest and formed the basis of much of the Indian Constitution."
+      "The **1935 Act** was the longest and formed the basis of much of the Indian Constitution.",
+      "**Morley-Minto (1909)** = separate electorates; **Montagu-Chelmsford (1919)** = **dyarchy**.",
+      "**Simon Commission (1927)** all-white → 'Simon Go Back'; **GoI Act 1935** = provincial autonomy.",
+      "**Cripps (1942)** = 'post-dated cheque'; **Cabinet Mission (1946)** proposed the **Constituent Assembly**.",
+      "**Indian Independence Act 1947** (Mountbatten Plan) → Partition, 15 Aug 1947."
     ],
     "mainsAngles": [
       "Trace the constitutional developments from 1909 to 1947 leading to independence."
     ],
     "glossary": [
-      {"term": "Dyarchy", "definition": "The 1919 division of provincial subjects into 'reserved' and 'transferred', the latter under Indian ministers."},
-      {"term": "Cabinet Mission", "definition": "The 1946 British mission that rejected Pakistan and set up the framework for the Constituent Assembly."},
-      {"term": "Provincial autonomy", "definition": "The 1935 Act's grant of self-government to provinces under elected Indian ministries."}
+      {
+        "term": "Dyarchy",
+        "definition": "The 1919 division of provincial subjects into 'reserved' and 'transferred', the latter under Indian ministers."
+      },
+      {
+        "term": "Cabinet Mission",
+        "definition": "The 1946 British mission that rejected Pakistan and set up the framework for the Constituent Assembly."
+      },
+      {
+        "term": "Provincial autonomy",
+        "definition": "The 1935 Act's grant of self-government to provinces under elected Indian ministries."
+      }
     ]
   }
 ]

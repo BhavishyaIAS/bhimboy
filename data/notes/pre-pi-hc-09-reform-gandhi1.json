@@ -12,14 +12,82 @@
           },
           {
             "type": "table",
-            "headers": ["Movement", "Founder & idea"],
+            "headers": [
+              "Movement",
+              "Founder & idea"
+            ],
             "rows": [
-              ["**Brahmo Samaj (1828)**", "**Raja Ram Mohan Roy** — monotheism, anti-sati (banned 1829), women's rights; 'father of Indian Renaissance'."],
-              ["**Arya Samaj (1875)**", "**Swami Dayananda Saraswati** — 'Back to the Vedas', **Shuddhi**, anti-idolatry, DAV schools."],
-              ["**Ramakrishna Mission (1897)**", "**Swami Vivekananda** (Chicago 1893); service & Vedanta."],
-              ["**Aligarh Movement**", "**Sir Syed Ahmad Khan** — Muslim modern education (MAO College)."],
-              ["**Others**", "**Prarthana Samaj, Satyashodhak Samaj (Jyotiba Phule), Theosophical Society (Annie Besant), SNDP (Narayana Guru)**."],
-              ["**Andhra**", "**Kandukuri Veeresalingam** — 'father of Telugu Renaissance'; widow remarriage, women's education, anti-nautch."]
+              [
+                "**Brahmo Samaj (1828)**",
+                "**Raja Ram Mohan Roy** — monotheism, anti-sati (banned 1829), women's rights; 'father of Indian Renaissance'."
+              ],
+              [
+                "**Arya Samaj (1875)**",
+                "**Swami Dayananda Saraswati** — 'Back to the Vedas', **Shuddhi**, anti-idolatry, DAV schools."
+              ],
+              [
+                "**Ramakrishna Mission (1897)**",
+                "**Swami Vivekananda** (Chicago 1893); service & Vedanta."
+              ],
+              [
+                "**Aligarh Movement**",
+                "**Sir Syed Ahmad Khan** — Muslim modern education (MAO College)."
+              ],
+              [
+                "**Others**",
+                "**Prarthana Samaj, Satyashodhak Samaj (Jyotiba Phule), Theosophical Society (Annie Besant), SNDP (Narayana Guru)**."
+              ],
+              [
+                "**Andhra**",
+                "**Kandukuri Veeresalingam** — 'father of Telugu Renaissance'; widow remarriage, women's education, anti-nautch."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: socio-religious reform (India & AP)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Reformer / body",
+              "Focus"
+            ],
+            "rows": [
+              [
+                "**Raja Rammohan Roy — Brahmo Samaj (1828)**",
+                "Monotheism, against sati (1829), Atmiya Sabha; 'father of Indian Renaissance'."
+              ],
+              [
+                "**Ishwar Chandra Vidyasagar**",
+                "Widow Remarriage Act **1856**; women's education."
+              ],
+              [
+                "**Dayananda Saraswati — Arya Samaj (1875)**",
+                "'Back to the Vedas', Shuddhi, DAV schools, Satyarth Prakash."
+              ],
+              [
+                "**Ramakrishna–Vivekananda — Ramakrishna Mission (1897)**",
+                "Vedanta, service, Chicago 1893."
+              ],
+              [
+                "**Jyotiba Phule — Satyashodhak Samaj (1873)**",
+                "Anti-caste, women's & Dalit education (Savitribai Phule)."
+              ],
+              [
+                "**Syed Ahmad Khan — Aligarh Movement (MAO College 1875)**",
+                "Muslim modern education."
+              ],
+              [
+                "**Kandukuri Veeresalingam (AP)**",
+                "'Father of Andhra Renaissance'; **first widow remarriage (1881)**, girls' schools, *Rajasekhara Charitramu* (first Telugu novel)."
+              ],
+              [
+                "**Raghupathi Venkataratnam Naidu (AP)**",
+                "'Purity Movement' — anti-devadasi, widow remarriage."
+              ]
             ]
           }
         ]
@@ -45,15 +113,28 @@
       "**Jyotiba Phule** — Satyashodhak Samaj; **Sir Syed Ahmad Khan** — Aligarh (MAO College).",
       "**Ishwar Chandra Vidyasagar** — Widow Remarriage Act (1856); women's education (Bengal).",
       "**Kandukuri Veeresalingam** — 'father of Telugu Renaissance'; **widow remarriage in Andhra**, girls' education, anti-nautch.",
-      "**Gurajada Appa Rao** ('Kanyasulkam') & **Raghupathi Venkataratnam Naidu** — Andhra social reformers."
+      "**Gurajada Appa Rao** ('Kanyasulkam') & **Raghupathi Venkataratnam Naidu** — Andhra social reformers.",
+      "**Brahmo Samaj (1828, Rammohan Roy)**; **Arya Samaj (1875, Dayananda)**; **Ramakrishna Mission (1897)**.",
+      "**Sati abolished 1829**; **Widow Remarriage Act 1856** (Vidyasagar).",
+      "**Jyotiba/Savitribai Phule** — Satyashodhak Samaj (anti-caste, women's education).",
+      "AP: **Kandukuri Veeresalingam** — first widow remarriage (1881), first Telugu novel; **Venkataratnam Naidu** — Purity Movement."
     ],
     "mainsAngles": [
       "Assess the socio-religious reform movements as the making of modern India (and Andhra)."
     ],
     "glossary": [
-      {"term": "Brahmo Samaj", "definition": "Ram Mohan Roy's 1828 reform society advocating monotheism and social reform."},
-      {"term": "Shuddhi", "definition": "The Arya Samaj's movement to reconvert/purify people back into the Hindu fold."},
-      {"term": "Veeresalingam", "definition": "Kandukuri Veeresalingam, the 'father of the Telugu Renaissance' and pioneer of widow remarriage in Andhra."}
+      {
+        "term": "Brahmo Samaj",
+        "definition": "Ram Mohan Roy's 1828 reform society advocating monotheism and social reform."
+      },
+      {
+        "term": "Shuddhi",
+        "definition": "The Arya Samaj's movement to reconvert/purify people back into the Hindu fold."
+      },
+      {
+        "term": "Veeresalingam",
+        "definition": "Kandukuri Veeresalingam, the 'father of the Telugu Renaissance' and pioneer of widow remarriage in Andhra."
+      }
     ]
   },
   {
@@ -69,12 +150,42 @@
           },
           {
             "type": "table",
-            "headers": ["Phase", "Character"],
+            "headers": [
+              "Phase",
+              "Character"
+            ],
             "rows": [
-              ["**Moderate (1885-1905)**", "**A.O. Hume** founds INC (1885); prayer-petition-protest; **Dadabhai Naoroji, Gokhale, Pherozeshah Mehta, Ranade**."],
-              ["**Extremist (1905-1919)**", "**Swadeshi** (Bengal partition 1905); **Lal-Bal-Pal**; Surat Split (1907); Home Rule (1916, Tilak & Besant)."],
-              ["**Gandhian mass phase (1919-1947)**", "**Non-Cooperation (1920), Civil Disobedience (1930), Quit India (1942)**; mass satyagraha."],
-              ["**Towards freedom (1942-47)**", "**INA, RIN Mutiny, Cabinet Mission, Mountbatten Plan, Independence & Partition (15 Aug 1947)**."]
+              [
+                "**Moderate (1885-1905)**",
+                "**A.O. Hume** founds INC (1885); prayer-petition-protest; **Dadabhai Naoroji, Gokhale, Pherozeshah Mehta, Ranade**."
+              ],
+              [
+                "**Extremist (1905-1919)**",
+                "**Swadeshi** (Bengal partition 1905); **Lal-Bal-Pal**; Surat Split (1907); Home Rule (1916, Tilak & Besant)."
+              ],
+              [
+                "**Gandhian mass phase (1919-1947)**",
+                "**Non-Cooperation (1920), Civil Disobedience (1930), Quit India (1942)**; mass satyagraha."
+              ],
+              [
+                "**Towards freedom (1942-47)**",
+                "**INA, RIN Mutiny, Cabinet Mission, Mountbatten Plan, Independence & Partition (15 Aug 1947)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: phases of the freedom movement",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Moderate phase (1885–1905)**: **INC founded 1885** (A.O. Hume, W.C. Bonnerjee 1st president, Bombay); leaders **Dadabhai Naoroji** (Drain theory, Grand Old Man), Gokhale, Pherozeshah Mehta, Ranade — constitutional 'prayer & petition'.",
+              "**Extremist phase (1905–1919)**: triggered by **Bengal Partition (1905) → Swadeshi & Boycott**; **Lal-Bal-Pal** & Aurobindo; 'Swaraj is my birthright' (Tilak); **Surat Split (1907)**; **Home Rule Leagues (1916 — Tilak & Annie Besant)**; **Lucknow Pact (1916)** (Congress-League unity).",
+              "**Gandhian/mass phase (1919–1947)**: **Rowlatt Satyagraha & Jallianwala Bagh (1919)** → **Non-Cooperation + Khilafat (1920–22)** → **Civil Disobedience/Dandi (1930)** → **Quit India (1942)** → Independence (1947).",
+              "**Two Congress ideological wings** also: **Swarajists** (C.R. Das, Motilal Nehru — council entry, 1923) & the socialists/CSP (1934)."
             ]
           }
         ]
@@ -100,15 +211,28 @@
       "**Swadeshi & Boycott** launched against the **Partition of Bengal (1905)**.",
       "**Surat Split (1907)** — Congress divided into Moderates & Extremists.",
       "**Home Rule Leagues (1916)** — **Tilak & Annie Besant**.",
-      "Gandhian mass movements — **NCM (1920), CDM (1930), Quit India (1942)**."
+      "Gandhian mass movements — **NCM (1920), CDM (1930), Quit India (1942)**.",
+      "**INC founded 1885** (A.O. Hume); 1st session Bombay, president **W.C. Bonnerjee**.",
+      "**Dadabhai Naoroji** — Drain of Wealth (*Poverty and Un-British Rule*); **Surat Split 1907**.",
+      "**Home Rule Leagues (1916)** — **Tilak & Annie Besant**; **Lucknow Pact (1916)** = Congress-League unity.",
+      "Phases: **Moderate (1885-1905) → Extremist (1905-19) → Gandhian (1919-47)**."
     ],
     "mainsAngles": [
       "Trace the evolution of the national movement from Moderate to Gandhian phases."
     ],
     "glossary": [
-      {"term": "Moderates", "definition": "The early INC leaders (1885-1905) who used constitutional 'prayer, petition, protest'."},
-      {"term": "Extremists", "definition": "The assertive nationalists (Lal-Bal-Pal) who demanded Swaraj and used Swadeshi/boycott."},
-      {"term": "Surat Split", "definition": "The 1907 division of the Congress into Moderate and Extremist factions."}
+      {
+        "term": "Moderates",
+        "definition": "The early INC leaders (1885-1905) who used constitutional 'prayer, petition, protest'."
+      },
+      {
+        "term": "Extremists",
+        "definition": "The assertive nationalists (Lal-Bal-Pal) who demanded Swaraj and used Swadeshi/boycott."
+      },
+      {
+        "term": "Surat Split",
+        "definition": "The 1907 division of the Congress into Moderate and Extremist factions."
+      }
     ]
   },
   {
@@ -124,12 +248,43 @@
           },
           {
             "type": "table",
-            "headers": ["Group/Person", "Detail"],
+            "headers": [
+              "Group/Person",
+              "Detail"
+            ],
             "rows": [
-              ["**Early (Bengal/Maharashtra)**", "**Anushilan Samiti, Jugantar; Chapekar brothers; Khudiram Bose & Prafulla Chaki (Muzaffarpur 1908)**."],
-              ["**HRA / HSRA**", "**Kakori (1925, Ram Prasad Bismil, Ashfaqullah)**; **HSRA (1928)** — **Bhagat Singh, Rajguru, Sukhdev, Chandrashekhar Azad**; Assembly bomb (1929); Lahore Conspiracy (Saunders)."],
-              ["**Abroad**", "**Ghadar Party (1913, San Francisco — Lala Har Dayal, Sohan Singh Bhakna); India House (London — Shyamji Krishna Varma, Savarkar); Berlin Committee; Madam Cama** (flag at Stuttgart 1907)."],
-              ["**Andhra link**", "**Alluri Sitarama Raju** — Rampa (Manyam) Rebellion (1922-24), Godavari agency."]
+              [
+                "**Early (Bengal/Maharashtra)**",
+                "**Anushilan Samiti, Jugantar; Chapekar brothers; Khudiram Bose & Prafulla Chaki (Muzaffarpur 1908)**."
+              ],
+              [
+                "**HRA / HSRA**",
+                "**Kakori (1925, Ram Prasad Bismil, Ashfaqullah)**; **HSRA (1928)** — **Bhagat Singh, Rajguru, Sukhdev, Chandrashekhar Azad**; Assembly bomb (1929); Lahore Conspiracy (Saunders)."
+              ],
+              [
+                "**Abroad**",
+                "**Ghadar Party (1913, San Francisco — Lala Har Dayal, Sohan Singh Bhakna); India House (London — Shyamji Krishna Varma, Savarkar); Berlin Committee; Madam Cama** (flag at Stuttgart 1907)."
+              ],
+              [
+                "**Andhra link**",
+                "**Alluri Sitarama Raju** — Rampa (Manyam) Rebellion (1922-24), Godavari agency."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: revolutionaries (India & abroad)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Bengal**: **Anushilan Samiti & Jugantar**; **Khudiram Bose & Prafulla Chaki** (Muzaffarpur, 1908); Barindra Ghosh; Alipore Bomb Case.",
+              "**Maharashtra**: **Chapekar brothers** (1897); **V.D. Savarkar — Abhinav Bharat** (Free India Society, London).",
+              "**Punjab/HSRA**: **Bhagat Singh, Sukhdev, Rajguru** (Saunders' murder 1928; Central Assembly bomb 1929 — 'to make the deaf hear'; hanged 1931); **Chandrashekhar Azad**; HSRA (1928, Feroz Shah Kotla).",
+              "**Abroad**: **Ghadar Party (1913, San Francisco — Lala Har Dayal, Sohan Singh Bhakna)**; **India House (London — Shyamji Krishna Varma)**; **Madam Cama** (unfurled a flag at Stuttgart, 1907); **Berlin Committee**; **Komagata Maru (1914)**.",
+              "**Andhra**: **Alluri Sitarama Raju** — **Rampa Rebellion (1922–24)** (Manyam Veerudu), tribal armed resistance against the Madras Forest Act."
             ]
           }
         ]
@@ -155,15 +310,28 @@
       "**Ghadar Party (1913, San Francisco)** — Lala Har Dayal, Sohan Singh Bhakna.",
       "**Madam Bhikaji Cama** unfurled an early Indian flag at **Stuttgart (1907)**.",
       "**India House (London)** — Shyamji Krishna Varma, V.D. Savarkar.",
-      "**Alluri Sitarama Raju** led the **Rampa/Manyam Rebellion (1922-24)** in the Godavari agency (AP)."
+      "**Alluri Sitarama Raju** led the **Rampa/Manyam Rebellion (1922-24)** in the Godavari agency (AP).",
+      "**Bhagat Singh, Rajguru, Sukhdev** — HSRA; hanged **1931**; Assembly bomb 1929.",
+      "**Ghadar Party (1913, San Francisco)** — Har Dayal, Sohan Singh Bhakna.",
+      "**Khudiram Bose** (Muzaffarpur 1908); **Madam Cama** (flag at Stuttgart 1907).",
+      "AP: **Alluri Sitarama Raju** — **Rampa Rebellion (1922-24)**, tribal resistance."
     ],
     "mainsAngles": [
       "Evaluate the role of revolutionary nationalism in the freedom struggle."
     ],
     "glossary": [
-      {"term": "HSRA", "definition": "The Hindustan Socialist Republican Association (1928) of Bhagat Singh and Chandrashekhar Azad."},
-      {"term": "Ghadar Party", "definition": "A 1913 revolutionary party of Indian émigrés founded in San Francisco."},
-      {"term": "Alluri Sitarama Raju", "definition": "The leader of the Rampa Rebellion (1922-24) in the Andhra Godavari agency."}
+      {
+        "term": "HSRA",
+        "definition": "The Hindustan Socialist Republican Association (1928) of Bhagat Singh and Chandrashekhar Azad."
+      },
+      {
+        "term": "Ghadar Party",
+        "definition": "A 1913 revolutionary party of Indian émigrés founded in San Francisco."
+      },
+      {
+        "term": "Alluri Sitarama Raju",
+        "definition": "The leader of the Rampa Rebellion (1922-24) in the Andhra Godavari agency."
+      }
     ]
   },
   {
@@ -179,14 +347,50 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Meaning"],
+            "headers": [
+              "Concept",
+              "Meaning"
+            ],
             "rows": [
-              ["**Satyagraha**", "'Truth-force' / 'soul-force' — non-violent resistance to injustice (first used in **South Africa**)."],
-              ["**Ahimsa**", "Non-violence in thought, word and deed — the core method."],
-              ["**Sarvodaya**", "'Welfare of all'; upliftment of the last person (**Antyodaya**); inspired by Ruskin's Unto This Last."],
-              ["**Trusteeship**", "The wealthy hold wealth as trustees for society — a non-Marxist economic ethic."],
-              ["**Swadeshi & Khadi**", "Self-reliance; **charkha (spinning wheel)** as economic & symbolic self-rule."],
-              ["**Constructive programme**", "Harijan (Dalit) uplift, Hindu-Muslim unity, prohibition, village self-sufficiency (Gram Swaraj)."]
+              [
+                "**Satyagraha**",
+                "'Truth-force' / 'soul-force' — non-violent resistance to injustice (first used in **South Africa**)."
+              ],
+              [
+                "**Ahimsa**",
+                "Non-violence in thought, word and deed — the core method."
+              ],
+              [
+                "**Sarvodaya**",
+                "'Welfare of all'; upliftment of the last person (**Antyodaya**); inspired by Ruskin's Unto This Last."
+              ],
+              [
+                "**Trusteeship**",
+                "The wealthy hold wealth as trustees for society — a non-Marxist economic ethic."
+              ],
+              [
+                "**Swadeshi & Khadi**",
+                "Self-reliance; **charkha (spinning wheel)** as economic & symbolic self-rule."
+              ],
+              [
+                "**Constructive programme**",
+                "Harijan (Dalit) uplift, Hindu-Muslim unity, prohibition, village self-sufficiency (Gram Swaraj)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: Gandhian thought",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Core ideas**: **Satyagraha** (truth-force/soul-force — moral resistance), **Ahimsa** (non-violence), **Sarvodaya** (welfare of all), **Swaraj** (self-rule + self-reliance), **Trusteeship** (wealth held in trust for society), **Swadeshi & Khadi** (self-reliance, charkha).",
+              "**Constructive programme**: Harijan uplift (anti-untouchability), village industries, communal harmony, prohibition, basic education (**Nai Talim/Wardha scheme, 1937**), sanitation.",
+              "**Influences**: **Bhagavad Gita, Jainism, Tolstoy** (The Kingdom of God is Within You), **Ruskin** (Unto This Last), **Thoreau** (Civil Disobedience); books — **Hind Swaraj (1909)**, My Experiments with Truth.",
+              "**Method vs Ambedkar/socialists**: emphasis on means as much as ends; debated separate electorates (**Poona Pact 1932**) & the pace of change; **Gandhi-Irwin Pact (1931)** shows his tactical flexibility."
             ]
           }
         ]
@@ -212,15 +416,28 @@
       "**Trusteeship** — the rich as trustees of wealth for society.",
       "**Hind Swaraj (1909)** — Gandhi's key ideological text; **Gram Swaraj** (village self-rule).",
       "Influences — **Bhagavad Gita, Ruskin (Unto This Last), Tolstoy, Thoreau (civil disobedience), Jainism**.",
-      "Constructive work — **khadi/charkha, Harijan uplift, Hindu-Muslim unity, prohibition**."
+      "Constructive work — **khadi/charkha, Harijan uplift, Hindu-Muslim unity, prohibition**.",
+      "Gandhian concepts: **Satyagraha, Ahimsa, Sarvodaya, Swaraj, Trusteeship, Swadeshi**.",
+      "**Hind Swaraj (1909)**; influences — **Tolstoy, Ruskin (Unto This Last), Thoreau**, Gita.",
+      "Basic education = **Nai Talim / Wardha scheme (1937)**; newspapers **Young India, Harijan, Navjivan**.",
+      "**Poona Pact (1932)** with Ambedkar (reserved seats, joint electorate)."
     ],
     "mainsAngles": [
       "Examine the philosophical foundations of Gandhian thought and their relevance today."
     ],
     "glossary": [
-      {"term": "Satyagraha", "definition": "Gandhi's method of non-violent resistance based on truth and moral force."},
-      {"term": "Sarvodaya", "definition": "Gandhi's ideal of the welfare and upliftment of all, especially the last person."},
-      {"term": "Trusteeship", "definition": "Gandhi's principle that the wealthy hold their wealth in trust for the benefit of society."}
+      {
+        "term": "Satyagraha",
+        "definition": "Gandhi's method of non-violent resistance based on truth and moral force."
+      },
+      {
+        "term": "Sarvodaya",
+        "definition": "Gandhi's ideal of the welfare and upliftment of all, especially the last person."
+      },
+      {
+        "term": "Trusteeship",
+        "definition": "Gandhi's principle that the wealthy hold their wealth in trust for the benefit of society."
+      }
     ]
   },
   {
@@ -236,13 +453,72 @@
           },
           {
             "type": "table",
-            "headers": ["Event", "Detail"],
+            "headers": [
+              "Event",
+              "Detail"
+            ],
             "rows": [
-              ["**Champaran (1917)**", "Bihar; indigo planters' **tinkathia** system; Gandhi's **first satyagraha in India** — success."],
-              ["**Ahmedabad Mill Strike (1918)**", "Textile workers' wages; **first hunger strike**."],
-              ["**Kheda (1918)**", "Gujarat peasants' revenue relief amid famine; **Sardar Patel** emerged."],
-              ["**Rowlatt & Jallianwala (1919)**", "Rowlatt Act protest; **Jallianwala Bagh massacre (13 Apr 1919, Gen. Dyer)**."],
-              ["**Non-Cooperation (1920-22)**", "With **Khilafat**; boycott of titles/schools/courts/foreign goods; called off after **Chauri Chaura (Feb 1922)**."]
+              [
+                "**Champaran (1917)**",
+                "Bihar; indigo planters' **tinkathia** system; Gandhi's **first satyagraha in India** — success."
+              ],
+              [
+                "**Ahmedabad Mill Strike (1918)**",
+                "Textile workers' wages; **first hunger strike**."
+              ],
+              [
+                "**Kheda (1918)**",
+                "Gujarat peasants' revenue relief amid famine; **Sardar Patel** emerged."
+              ],
+              [
+                "**Rowlatt & Jallianwala (1919)**",
+                "Rowlatt Act protest; **Jallianwala Bagh massacre (13 Apr 1919, Gen. Dyer)**."
+              ],
+              [
+                "**Non-Cooperation (1920-22)**",
+                "With **Khilafat**; boycott of titles/schools/courts/foreign goods; called off after **Chauri Chaura (Feb 1922)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: early satyagrahas → Non-Cooperation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Movement",
+              "Year",
+              "Significance"
+            ],
+            "rows": [
+              [
+                "**Champaran**",
+                "1917",
+                "Gandhi's first satyagraha (indigo planters, Bihar); tinkathia abolished."
+              ],
+              [
+                "**Kheda**",
+                "1918",
+                "Peasants v revenue in crop failure (Gujarat); Sardar Patel rose."
+              ],
+              [
+                "**Ahmedabad Mill Strike**",
+                "1918",
+                "First hunger strike; mill-workers' wages."
+              ],
+              [
+                "**Rowlatt Satyagraha**",
+                "1919",
+                "Against detention-without-trial ('no vakil, no dalil, no appeal'); led to **Jallianwala Bagh (13 Apr 1919, Dyer)**."
+              ],
+              [
+                "**Non-Cooperation + Khilafat**",
+                "1920–22",
+                "Boycott of titles, schools, courts, foreign cloth; first mass movement; withdrawn after **Chauri Chaura (Feb 1922)**."
+              ]
             ]
           }
         ]
@@ -268,15 +544,28 @@
       "**Rowlatt Act (1919)** — 'no vakil, no appeal, no daleel'; sparked the **Jallianwala Bagh massacre (13 April 1919)** under **General Dyer**.",
       "**Non-Cooperation Movement (1920)** — combined with the **Khilafat** movement (Ali brothers).",
       "Programme — boycott of **titles, councils, schools, courts, foreign cloth**.",
-      "Withdrawn after the **Chauri Chaura incident (Feb 1922)** — a mob burned a police station."
+      "Withdrawn after the **Chauri Chaura incident (Feb 1922)** — a mob burned a police station.",
+      "**Champaran (1917)** = Gandhi's first Indian satyagraha (indigo, Bihar).",
+      "**Rowlatt Act (1919)** → **Jallianwala Bagh massacre (13 April 1919, Gen. Dyer)**.",
+      "**Non-Cooperation (1920-22)** withdrawn after **Chauri Chaura (Feb 1922)**.",
+      "**Khilafat** (Ali brothers) allied with Non-Cooperation."
     ],
     "mainsAngles": [
       "Discuss the significance of Gandhi's early satyagrahas and the Non-Cooperation Movement."
     ],
     "glossary": [
-      {"term": "Tinkathia", "definition": "The system forcing Champaran peasants to grow indigo on 3/20 of their land, challenged by Gandhi."},
-      {"term": "Non-Cooperation Movement", "definition": "Gandhi's first all-India mass movement (1920-22), withdrawn after Chauri Chaura."},
-      {"term": "Chauri Chaura", "definition": "The February 1922 violent incident that led Gandhi to call off Non-Cooperation."}
+      {
+        "term": "Tinkathia",
+        "definition": "The system forcing Champaran peasants to grow indigo on 3/20 of their land, challenged by Gandhi."
+      },
+      {
+        "term": "Non-Cooperation Movement",
+        "definition": "Gandhi's first all-India mass movement (1920-22), withdrawn after Chauri Chaura."
+      },
+      {
+        "term": "Chauri Chaura",
+        "definition": "The February 1922 violent incident that led Gandhi to call off Non-Cooperation."
+      }
     ]
   }
 ]
