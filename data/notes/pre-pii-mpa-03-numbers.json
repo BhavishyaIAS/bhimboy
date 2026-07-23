@@ -12,23 +12,56 @@
           },
           {
             "type": "table",
-            "headers": ["Set", "Detail"],
+            "headers": [
+              "Set",
+              "Detail"
+            ],
             "rows": [
-              ["**Natural (N)**", "1, 2, 3, …; **Whole (W)** adds 0."],
-              ["**Integers (Z)**", "…, −2, −1, 0, 1, 2, …"],
-              ["**Rational (Q)**", "Expressible as p/q; **Irrational** cannot (√2, π)."],
-              ["**Prime**", "Exactly two factors (1 and itself); 2 is the only even prime."],
-              ["**Order of magnitude**", "Powers of ten (10², 10³…) — scale/size comparison."]
+              [
+                "**Natural (N)**",
+                "1, 2, 3, …; **Whole (W)** adds 0."
+              ],
+              [
+                "**Integers (Z)**",
+                "…, −2, −1, 0, 1, 2, …"
+              ],
+              [
+                "**Rational (Q)**",
+                "Expressible as p/q; **Irrational** cannot (√2, π)."
+              ],
+              [
+                "**Prime**",
+                "Exactly two factors (1 and itself); 2 is the only even prime."
+              ],
+              [
+                "**Order of magnitude**",
+                "Powers of ten (10², 10³…) — scale/size comparison."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["Divisibility rule", "Test"],
+            "headers": [
+              "Divisibility rule",
+              "Test"
+            ],
             "rows": [
-              ["**2 / 5 / 10**", "Last digit even / 0 or 5 / 0."],
-              ["**3 / 9**", "Digit sum divisible by 3 / 9."],
-              ["**4 / 8**", "Last 2 / 3 digits divisible."],
-              ["**11**", "Alternating digit-sum difference divisible by 11."]
+              [
+                "**2 / 5 / 10**",
+                "Last digit even / 0 or 5 / 0."
+              ],
+              [
+                "**3 / 9**",
+                "Digit sum divisible by 3 / 9."
+              ],
+              [
+                "**4 / 8**",
+                "Last 2 / 3 digits divisible."
+              ],
+              [
+                "**11**",
+                "Alternating digit-sum difference divisible by 11."
+              ]
             ]
           }
         ]
@@ -45,6 +78,26 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔢 Formulae, shortcuts & solved examples: number system",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Classification**: Natural (1,2,3…), Whole (0,1,2…), Integers, Rational (p/q), Irrational (√2, π), Real; **prime** (exactly 2 factors; 2 is the only even prime), composite, co-prime.",
+              "**Divisibility rules**: **2** (last digit even), **3** (digit-sum ÷3), **4** (last 2 digits ÷4), **5** (ends 0/5), **6** (÷2 & ÷3), **8** (last 3 digits ÷8), **9** (digit-sum ÷9), **11** (alternating digit-sum diff ÷11).",
+              "**Unit digit (cyclicity)**: powers repeat in cycles of 4 (e.g., 2→2,4,8,6; 3→3,9,7,1); find remainder of power ÷4.",
+              "**Sum formulae**: 1+2+…+n = **n(n+1)/2**; sum of squares = **n(n+1)(2n+1)/6**; sum of cubes = **[n(n+1)/2]²**; sum of first n odd = **n²**.",
+              "**Number of factors** of N = (a+1)(b+1)… where N = pᵃ·qᵇ…"
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Unit digit of **7^105**? Cycle of 7 = (7,9,3,1), length 4; 105÷4 → remainder 1 → **7**. || Sum 1..100 = 100·101/2 = **5050**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -53,12 +106,25 @@
       "Divisible by **3/9** → digit sum divisible by 3/9.",
       "Divisible by **11** → difference of alternate digit sums divisible by 11.",
       "**Order of magnitude** compares numbers by their power of ten.",
-      "Co-prime numbers share **no common factor** except 1."
+      "Co-prime numbers share **no common factor** except 1.",
+      "Divisibility: **3 & 9** (digit-sum), **4** (last 2 digits), **8** (last 3), **11** (alt-sum difference).",
+      "Sum 1..n = **n(n+1)/2**; sum of first n odd numbers = **n²**.",
+      "**2** = only even prime; unit-digit via **cyclicity of 4**.",
+      "Factors of N=pᵃqᵇ → **(a+1)(b+1)**."
     ],
     "glossary": [
-      {"term": "Rational number", "definition": "A number expressible as a fraction p/q of integers (q≠0)."},
-      {"term": "Prime number", "definition": "A natural number greater than 1 with exactly two factors: 1 and itself."},
-      {"term": "Order of magnitude", "definition": "The scale of a number expressed as the nearest power of ten."}
+      {
+        "term": "Rational number",
+        "definition": "A number expressible as a fraction p/q of integers (q≠0)."
+      },
+      {
+        "term": "Prime number",
+        "definition": "A natural number greater than 1 with exactly two factors: 1 and itself."
+      },
+      {
+        "term": "Order of magnitude",
+        "definition": "The scale of a number expressed as the nearest power of ten."
+      }
     ]
   },
   {
@@ -74,13 +140,31 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Ratio**", "a : b = a/b; unaffected by multiplying both terms."],
-              ["**Proportion**", "a : b = c : d → **ad = bc** (product of extremes = product of means)."],
-              ["**Direct variation**", "y ∝ x → y = kx (both rise together)."],
-              ["**Inverse variation**", "y ∝ 1/x → xy = k (one rises, other falls)."],
-              ["**Mean proportional**", "b = √(a×c) for a : b = b : c."]
+              [
+                "**Ratio**",
+                "a : b = a/b; unaffected by multiplying both terms."
+              ],
+              [
+                "**Proportion**",
+                "a : b = c : d → **ad = bc** (product of extremes = product of means)."
+              ],
+              [
+                "**Direct variation**",
+                "y ∝ x → y = kx (both rise together)."
+              ],
+              [
+                "**Inverse variation**",
+                "y ∝ 1/x → xy = k (one rises, other falls)."
+              ],
+              [
+                "**Mean proportional**",
+                "b = √(a×c) for a : b = b : c."
+              ]
             ]
           },
           {
@@ -91,6 +175,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔢 Formulae & solved examples: ratio, proportion, variation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Ratio** a:b; **proportion** a:b = c:d → **ad = bc** (product of means = product of extremes); **mean proportional** of a,b = **√(ab)**.",
+              "**Types**: direct variation (y∝x), inverse (y∝1/x), joint; **compounded ratio** = (a:b)×(c:d) = ac:bd.",
+              "**Dividing a quantity** in ratio a:b:c → parts = a/(a+b+c)×Total, etc.",
+              "**Partnership**: profit ∝ (capital × time); **mixtures/alligation**: (Cheaper : Dearer) = (Dearer−Mean) : (Mean−Cheaper)."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Divide ₹1600 in 3:5 → parts 3/8×1600=**₹600** & 5/8×1600=**₹1000**. || Alligation: mix rice at ₹20 & ₹30 to get ₹24 → ratio (30−24):(24−20)=6:4=**3:2**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -99,12 +202,25 @@
       "**Mean proportional** of a and c = **√(ac)**.",
       "To divide a sum in ratio a:b:c, split into **a+b+c** parts.",
       "Multiplying/dividing both terms of a ratio by the same number **does not change it**.",
-      "Compounded ratio of a:b and c:d = **ac : bd**."
+      "Compounded ratio of a:b and c:d = **ac : bd**.",
+      "Proportion a:b=c:d → **ad=bc**; **mean proportional = √(ab)**.",
+      "**Alligation**: (Dearer−Mean):(Mean−Cheaper) gives the mixing ratio.",
+      "Partnership profit ∝ **capital × time**.",
+      "Divide in ratio a:b → parts a/(a+b) & b/(a+b) of total."
     ],
     "glossary": [
-      {"term": "Proportion", "definition": "An equality of two ratios (a:b = c:d) where ad = bc."},
-      {"term": "Direct variation", "definition": "A relationship where one quantity is a constant multiple of another (y = kx)."},
-      {"term": "Inverse variation", "definition": "A relationship where the product of two quantities is constant (xy = k)."}
+      {
+        "term": "Proportion",
+        "definition": "An equality of two ratios (a:b = c:d) where ad = bc."
+      },
+      {
+        "term": "Direct variation",
+        "definition": "A relationship where one quantity is a constant multiple of another (y = kx)."
+      },
+      {
+        "term": "Inverse variation",
+        "definition": "A relationship where the product of two quantities is constant (xy = k)."
+      }
     ]
   },
   {
@@ -120,13 +236,31 @@
           },
           {
             "type": "table",
-            "headers": ["Measure", "Definition"],
+            "headers": [
+              "Measure",
+              "Definition"
+            ],
             "rows": [
-              ["**Mean (average)**", "Sum of values ÷ number of values."],
-              ["**Median**", "Middle value of ordered data (average of two middles if even count)."],
-              ["**Mode**", "The most frequently occurring value."],
-              ["**Weighted mean**", "**Σ(wᵢxᵢ) / Σwᵢ** — each value weighted by importance."],
-              ["**Empirical relation**", "Mode ≈ 3·Median − 2·Mean."]
+              [
+                "**Mean (average)**",
+                "Sum of values ÷ number of values."
+              ],
+              [
+                "**Median**",
+                "Middle value of ordered data (average of two middles if even count)."
+              ],
+              [
+                "**Mode**",
+                "The most frequently occurring value."
+              ],
+              [
+                "**Weighted mean**",
+                "**Σ(wᵢxᵢ) / Σwᵢ** — each value weighted by importance."
+              ],
+              [
+                "**Empirical relation**",
+                "Mode ≈ 3·Median − 2·Mean."
+              ]
             ]
           },
           {
@@ -137,6 +271,45 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔢 Formulae & solved examples: central tendency",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Measure",
+              "Formula"
+            ],
+            "rows": [
+              [
+                "**Mean (average)**",
+                "Sum of observations ÷ number of observations"
+              ],
+              [
+                "**Weighted mean**",
+                "Σ(w·x) ÷ Σw"
+              ],
+              [
+                "**Median**",
+                "Middle value (odd n) or average of two middle (even n) — data sorted"
+              ],
+              [
+                "**Mode**",
+                "Most frequent value"
+              ],
+              [
+                "**Empirical relation**",
+                "Mode = 3·Median − 2·Mean (approx)"
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: Average of 5,10,15,20,25 = 75/5 = **15**. || Weighted mean of marks 80(w3),60(w2) = (240+120)/5 = **72**. || Average of first n natural numbers = **(n+1)/2**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -145,12 +318,25 @@
       "**Median** is robust to outliers; **mean** is sensitive to them.",
       "Empirical relation: **Mode ≈ 3 Median − 2 Mean**.",
       "For even n, median = **average of the two middle terms**.",
-      "Mean of first n natural numbers = **(n+1)/2**."
+      "Mean of first n natural numbers = **(n+1)/2**.",
+      "**Mean** = Σx/n; **Weighted mean** = Σwx/Σw; **Median** = middle (sorted); **Mode** = most frequent.",
+      "Average of first n natural numbers = **(n+1)/2**.",
+      "**Mode ≈ 3·Median − 2·Mean** (empirical).",
+      "If a number is added/removed, new average shifts by (value−old average)/new count."
     ],
     "glossary": [
-      {"term": "Mean", "definition": "The arithmetic average — sum of values divided by their count."},
-      {"term": "Median", "definition": "The middle value of an ordered data set."},
-      {"term": "Weighted mean", "definition": "An average where each value is weighted by its relative importance."}
+      {
+        "term": "Mean",
+        "definition": "The arithmetic average — sum of values divided by their count."
+      },
+      {
+        "term": "Median",
+        "definition": "The middle value of an ordered data set."
+      },
+      {
+        "term": "Weighted mean",
+        "definition": "An average where each value is weighted by its relative importance."
+      }
     ]
   },
   {
@@ -166,13 +352,31 @@
           },
           {
             "type": "table",
-            "headers": ["Law of exponents", "Rule"],
+            "headers": [
+              "Law of exponents",
+              "Rule"
+            ],
             "rows": [
-              ["**Product**", "aᵐ × aⁿ = aᵐ⁺ⁿ"],
-              ["**Quotient**", "aᵐ ÷ aⁿ = aᵐ⁻ⁿ"],
-              ["**Power of power**", "(aᵐ)ⁿ = aᵐⁿ"],
-              ["**Zero/negative**", "a⁰ = 1; a⁻ⁿ = 1/aⁿ"],
-              ["**Fractional (root)**", "a^(1/n) = ⁿ√a"]
+              [
+                "**Product**",
+                "aᵐ × aⁿ = aᵐ⁺ⁿ"
+              ],
+              [
+                "**Quotient**",
+                "aᵐ ÷ aⁿ = aᵐ⁻ⁿ"
+              ],
+              [
+                "**Power of power**",
+                "(aᵐ)ⁿ = aᵐⁿ"
+              ],
+              [
+                "**Zero/negative**",
+                "a⁰ = 1; a⁻ⁿ = 1/aⁿ"
+              ],
+              [
+                "**Fractional (root)**",
+                "a^(1/n) = ⁿ√a"
+              ]
             ]
           },
           {
@@ -183,6 +387,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔢 Formulae & solved examples: powers, roots",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Laws of exponents**: aᵐ·aⁿ=aᵐ⁺ⁿ; aᵐ/aⁿ=aᵐ⁻ⁿ; (aᵐ)ⁿ=aᵐⁿ; a⁰=1; a⁻ⁿ=1/aⁿ; (ab)ⁿ=aⁿbⁿ.",
+              "**Roots**: √(ab)=√a·√b; ⁿ√a = a^(1/n); **squares to memorise** 1–30, **cubes** 1–15; a perfect square never ends in 2,3,7,8.",
+              "**Square root by factorisation/long division**; **cube root** by grouping digits in 3s.",
+              "**Surds & rationalisation**: multiply by conjugate (a+√b)(a−√b)=a²−b."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: 2⁵×2³ = 2⁸ = **256**. || √1156 = **34** (34²=1156). || Cube root of 3375 = **15**. || Simplify (√5+√3)(√5−√3)=5−3=**2**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -191,12 +414,25 @@
       "Perfect squares end only in **0,1,4,5,6,9** (never 2,3,7,8).",
       "Memorise **squares up to 30, cubes up to 15**.",
       "Unit digit of a square depends only on the number's unit digit.",
-      "√2 ≈ 1.414, √3 ≈ 1.732, √5 ≈ 2.236 (worth memorising)."
+      "√2 ≈ 1.414, √3 ≈ 1.732, √5 ≈ 2.236 (worth memorising).",
+      "**aᵐ·aⁿ=aᵐ⁺ⁿ; (aᵐ)ⁿ=aᵐⁿ; a⁻ⁿ=1/aⁿ; a⁰=1**.",
+      "Perfect squares never end in **2,3,7,8**; memorise squares to 30, cubes to 15.",
+      "**Rationalise** surds by the conjugate: (a+√b)(a−√b)=a²−b.",
+      "√(ab)=√a·√b; ⁿ√a = a^(1/n)."
     ],
     "glossary": [
-      {"term": "Exponent", "definition": "The power indicating how many times a base is multiplied by itself."},
-      {"term": "Square root", "definition": "A value which multiplied by itself gives the original number."},
-      {"term": "Perfect square", "definition": "A number that is the square of an integer (e.g. 1, 4, 9, 16)."}
+      {
+        "term": "Exponent",
+        "definition": "The power indicating how many times a base is multiplied by itself."
+      },
+      {
+        "term": "Square root",
+        "definition": "A value which multiplied by itself gives the original number."
+      },
+      {
+        "term": "Perfect square",
+        "definition": "A number that is the square of an integer (e.g. 1, 4, 9, 16)."
+      }
     ]
   },
   {
@@ -212,13 +448,31 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**HCF (GCD)**", "Largest common divisor; product of **lowest powers** of common primes."],
-              ["**LCM**", "Smallest common multiple; product of **highest powers** of all primes."],
-              ["**Key relation**", "**HCF × LCM = product of the two numbers** (for two numbers)."],
-              ["**HCF of fractions**", "HCF(numerators) / LCM(denominators)."],
-              ["**LCM of fractions**", "LCM(numerators) / HCF(denominators)."]
+              [
+                "**HCF (GCD)**",
+                "Largest common divisor; product of **lowest powers** of common primes."
+              ],
+              [
+                "**LCM**",
+                "Smallest common multiple; product of **highest powers** of all primes."
+              ],
+              [
+                "**Key relation**",
+                "**HCF × LCM = product of the two numbers** (for two numbers)."
+              ],
+              [
+                "**HCF of fractions**",
+                "HCF(numerators) / LCM(denominators)."
+              ],
+              [
+                "**LCM of fractions**",
+                "LCM(numerators) / HCF(denominators)."
+              ]
             ]
           },
           {
@@ -229,6 +483,25 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "🔢 Formulae & solved examples: HCF & LCM",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**HCF** (Highest Common Factor / GCD) — largest common divisor (by prime factorisation or division method); **LCM** (Lowest Common Multiple) — smallest common multiple.",
+              "**Key relation**: **HCF × LCM = Product of the two numbers** (for two numbers).",
+              "**Fractions**: HCF of fractions = HCF(numerators)/LCM(denominators); LCM of fractions = LCM(numerators)/HCF(denominators).",
+              "**Applications**: HCF → largest tile/greatest measure/max equal groups; LCM → bells ringing together, circular track meeting, smallest number divisible."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Solved: HCF(12,18)=6, LCM=36; check 6×36=216=12×18 ✓. || Bells ring at 6,8,12 s → ring together every LCM=**24 s**. || Smallest number leaving remainder 3 when divided by 5,6,8 = LCM(5,6,8)+3 = 120+3 = **123**."
+          }
+        ]
       }
     ],
     "prelimsPointers": [
@@ -237,11 +510,21 @@
       "**LCM** = product of **highest powers** of all prime factors.",
       "**HCF of fractions = HCF(numerators)/LCM(denominators)**; LCM = reverse.",
       "'Greatest number dividing…' → **HCF**; 'least number divisible by…' → **LCM**.",
-      "Bells-ringing-together / meeting problems use **LCM**."
+      "Bells-ringing-together / meeting problems use **LCM**.",
+      "**HCF × LCM = product of the two numbers**.",
+      "LCM problem type = **bells/tracks meeting together**; HCF type = **largest common measure/groups**.",
+      "HCF of fractions = HCF(num)/LCM(den); LCM of fractions = LCM(num)/HCF(den).",
+      "Smallest number divisible by a,b,c leaving remainder r = **LCM(a,b,c)+r**."
     ],
     "glossary": [
-      {"term": "HCF", "definition": "Highest Common Factor — the largest number dividing all given numbers."},
-      {"term": "LCM", "definition": "Lowest Common Multiple — the smallest number divisible by all given numbers."}
+      {
+        "term": "HCF",
+        "definition": "Highest Common Factor — the largest number dividing all given numbers."
+      },
+      {
+        "term": "LCM",
+        "definition": "Lowest Common Multiple — the smallest number divisible by all given numbers."
+      }
     ]
   }
 ]
