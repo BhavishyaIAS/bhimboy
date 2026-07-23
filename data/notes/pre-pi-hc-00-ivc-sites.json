@@ -1,5 +1,134 @@
 [
   {
+    "code": "PRE-PI-HC-001",
+    "sections": [
+      {
+        "heading": "Indus Valley Civilization — origin, extent & chronology",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "para",
+            "text": "The **Indus Valley (Harappan) Civilization** was the **first urbanisation of the Indian subcontinent** and one of the world's three earliest riverine civilisations (with Mesopotamia and Egypt). It belonged to the **Bronze Age**, spread over ~**1.3 million sq km** — the **largest** of the contemporary Bronze-Age civilisations — and is dated (mature phase) to **c. 2600–1900 BCE**."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "**Discovery**",
+                "**Harappa** first excavated by **Daya Ram Sahni (1921)**; **Mohenjo-daro** by **R.D. Banerji (1922)**; both under **Sir John Marshall** (announced the civilisation, 1924)."
+              ],
+              [
+                "**Named**",
+                "After the **Indus (Sindhu)** river; also 'Harappan' after the first-found site (naming after first-discovered site is convention)."
+              ],
+              [
+                "**Nomenclature note**",
+                "Now often called **Indus–Saraswati** civilisation — most sites lie along the dried **Ghaggar-Hakra (Saraswati)** bed."
+              ],
+              [
+                "**Script**",
+                "**Pictographic/logo-syllabic, undeciphered**; written **boustrophedon** (right-to-left, then left-to-right)."
+              ],
+              [
+                "**Race**",
+                "Skeletal remains: **Mediterranean, Proto-Australoid, Mongoloid, Alpine** — a mixed population."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Chronology / phases",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Phase",
+              "Dates",
+              "Character"
+            ],
+            "rows": [
+              [
+                "**Early Harappan** (Pre-Harappan)",
+                "c. 3300–2600 BCE",
+                "Regional farming cultures (Hakra, Ravi, Kot Diji); proto-urban; e.g. **Mehrgarh** (7000 BCE, Neolithic ancestor)."
+              ],
+              [
+                "**Mature Harappan**",
+                "c. 2600–1900 BCE",
+                "Full urbanism — planned cities, seals, standard weights, long-distance trade."
+              ],
+              [
+                "**Late Harappan** (Post-urban)",
+                "c. 1900–1300 BCE",
+                "De-urbanisation; regionalisation (Cemetery H, Jhukar, Rangpur); transition to Chalcolithic villages."
+              ]
+            ]
+          },
+          {
+            "type": "mermaid",
+            "code": "flowchart LR\n  A[Mehrgarh Neolithic 7000 BCE] --> B[Early Harappan 3300-2600 - Kot Diji, Ravi]\n  B --> C[Mature Harappan 2600-1900 - urban peak]\n  C --> D[Late Harappan 1900-1300 - de-urbanisation]"
+          }
+        ]
+      },
+      {
+        "heading": "Geographical extent (know the corner sites)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Northernmost**: **Manda** (Jammu, on Chenab).",
+              "**Southernmost**: **Daimabad** (Maharashtra, on Pravara — famous bronze chariot).",
+              "**Westernmost**: **Sutkagendor** (Balochistan/Makran coast — trade point with Babylon).",
+              "**Easternmost**: **Alamgirpur** (UP, on Hindon).",
+              "**Shape**: roughly **triangular**, spanning present **Pakistan, NW & western India** (Punjab, Haryana, Rajasthan, Gujarat, and parts of UP, J&K, Maharashtra).",
+              "**Rakhigarhi (Haryana)** is now considered the **largest** Harappan site (overtaking Mohenjo-daro)."
+            ]
+          }
+        ]
+      }
+    ],
+    "prelimsPointers": [
+      "**Harappa** — Daya Ram Sahni (1921), River **Ravi**, Montgomery district (now Pakistan).",
+      "**Mohenjo-daro** ('Mound of the Dead') — R.D. Banerji (1922), River **Indus**, Larkana; Sindhi.",
+      "IVC = **Bronze Age**, ~**1.3 million sq km**, largest of its era; mature phase **2600–1900 BCE**.",
+      "Corner sites: **Manda (N), Daimabad (S), Sutkagendor (W), Alamgirpur (E)**.",
+      "**Rakhigarhi (Haryana)** = largest site; **Dholavira & Lothal** = the two Indian **UNESCO** IVC sites (Dholavira inscribed 2021).",
+      "Script **undeciphered**, written **boustrophedon**; number system likely **decimal**; weights in **binary (1,2,4,8…)** then decimal multiples.",
+      "**Mehrgarh** (Balochistan, 7000 BCE) — Neolithic precursor: earliest farming & animal domestication in the subcontinent.",
+      "Sir **John Marshall** announced the discovery (1924) in the *Illustrated London News*.",
+      "Most sites on the dried **Ghaggar-Hakra (Saraswati)** system → 'Indus–Saraswati' civilisation."
+    ],
+    "mainsAngles": [
+      "Assess why the IVC is called India's 'first urbanisation' — planning, standardisation, craft specialisation and administered trade.",
+      "The 'Aryan invasion vs indigenous evolution' debate over IVC origins and decline (link to Vedic culture)."
+    ],
+    "glossary": [
+      {
+        "term": "Boustrophedon",
+        "definition": "Writing style alternating direction line-by-line (right-to-left then left-to-right); used in the Indus script."
+      },
+      {
+        "term": "Ghaggar-Hakra",
+        "definition": "A now-dry river system of NW India/Pakistan, identified by many with the Vedic Saraswati; densest cluster of Harappan sites."
+      },
+      {
+        "term": "Citadel",
+        "definition": "The raised, fortified western mound of a Harappan city housing public/ceremonial buildings."
+      },
+      {
+        "term": "Chalcolithic",
+        "definition": "Copper-Stone age; the post-urban Late Harappan villages belong to this horizon."
+      }
+    ]
+  },
+  {
     "code": "PRE-PI-HC-002",
     "sections": [
       {
@@ -88,6 +217,71 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: the sites & their signature finds",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Site (river / state)",
+              "Excavator / year",
+              "Signature finds"
+            ],
+            "rows": [
+              [
+                "**Harappa** (Ravi, Punjab-Pak)",
+                "Daya Ram Sahni, 1921",
+                "Granaries (6+6 rows), coffin/Cemetery **R-37 & H**, red-sandstone torso, stone dancing figure, mother-goddess figurines, phallus/lingam-yoni."
+              ],
+              [
+                "**Mohenjo-daro** (Indus, Sindh)",
+                "R.D. Banerji, 1922",
+                "**Great Bath**, Great Granary (largest building), **bronze Dancing Girl**, **Pashupati seal**, steatite **'Priest-King'**, bearded man, assembly hall, woven cotton."
+              ],
+              [
+                "**Dholavira** (Rann of Kutch, Gujarat)",
+                "J.P. Joshi / R.S. Bisht, 1967-90",
+                "**3-part city** (citadel+middle+lower), giant **water reservoirs & dams**, stadium, the **10-letter signboard**; UNESCO 2021."
+              ],
+              [
+                "**Lothal** (Bhogava, Gujarat)",
+                "S.R. Rao, 1955",
+                "**Dockyard** (tidal harbour), bead factory, rice husk, fire-altars, painted jar (crow-and-deer 'thirsty crow'), Persian-Gulf seal, terracotta ship."
+              ],
+              [
+                "**Kalibangan** (Ghaggar, Rajasthan)",
+                "B.B. Lal / B.K. Thapar, 1961",
+                "World's earliest **ploughed field**, **fire-altars** (ritual), wooden drainage, bones of camel, 'city of bangles'."
+              ],
+              [
+                "**Chanhudaro** (Sindh)",
+                "N.G. Majumdar, 1931",
+                "Only city with **no citadel**; bead-making, lipstick, ink-well, cat chasing dog footprints; famous bronze bullock-cart."
+              ],
+              [
+                "**Banawali** (Haryana)",
+                "R.S. Bisht, 1974",
+                "Both **pre-Harappan & Harappan** levels; radial streets; terracotta plough, barley."
+              ],
+              [
+                "**Surkotada** (Gujarat)",
+                "J.P. Joshi, 1964",
+                "First actual **horse bones** (debated); oval graves."
+              ],
+              [
+                "**Rakhigarhi** (Haryana)",
+                "1963/2014",
+                "Largest site; aDNA study on skeletons; granary, drains."
+              ]
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Memory hook: **water** cities are in **Gujarat** (Dholavira reservoirs, Lothal dockyard); the **ploughed field & fire-altars** = Kalibangan; **no-citadel** = Chanhudaro; **horse bones** = Surkotada."
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -110,7 +304,11 @@
       "**Rakhigarhi (Haryana)** — the **largest Harappan site in India**.",
       "Other sites — **Chanhudaro (beads, no citadel), Banawali, Surkotada (horse bones debated), Ropar**.",
       "**Rakhigarhi (Haryana)** — largest IVC site in India; **Dholavira & Lothal** are the Indian UNESCO IVC sites.",
-      "**Chanhudaro** — only IVC city without a citadel; bead-making. **Banawali** — both pre-Harappan & Harappan levels."
+      "**Chanhudaro** — only IVC city without a citadel; bead-making. **Banawali** — both pre-Harappan & Harappan levels.",
+      "**Great Bath & Dancing Girl & Pashupati seal → Mohenjo-daro**; **granaries & torso → Harappa**.",
+      "**Dockyard → Lothal**; **ploughed field & fire-altars → Kalibangan**; **water reservoirs & signboard → Dholavira**.",
+      "**Chanhudaro** — only city without a citadel; **Surkotada** — horse bones; **Rakhigarhi** — largest & aDNA site.",
+      "**Daimabad** (Maharashtra) — famous bronze chariot; southernmost site."
     ],
     "mainsAngles": [
       "Discuss the major sites of the Indus Valley Civilisation and their significance."

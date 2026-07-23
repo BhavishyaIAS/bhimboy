@@ -63,6 +63,49 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: planning, materials & architecture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Grid/chessboard plan**: streets cut at **right angles** (N-S & E-W); the main street at Mohenjo-daro ran ~**9 m wide**.",
+              "**Two-part city**: raised **citadel** (west — public buildings) + **lower town** (east — residential); both often **fortified**.",
+              "**Burnt-brick** construction with standard ratio **4:2:1** (L:B:H) — same across sites = central standardisation; kiln-fired bricks (Mesopotamia used mud-brick).",
+              "**Drainage** was the civilisation's hallmark: covered brick drains with **manholes/soak-pits**, house drains connecting to street drains — 'no other Bronze-Age culture gave such attention to health & cleanliness' (Marshall).",
+              "**Great Bath** (Mohenjo-daro): 12×7×2.4 m tank, made watertight with **gypsum mortar & bitumen**, changing rooms, a well to fill it, drain to empty — **ritual bathing**.",
+              "**Great Granary**: Mohenjo-daro's largest structure; Harappa had a series of granaries near the river with brick platforms.",
+              "**Houses**: courtyard-centred, private **wells & bathrooms**, staircases (upper storeys), **doors on side lanes** (not main street) for privacy; no windows facing streets."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Feature",
+              "Significance"
+            ],
+            "rows": [
+              [
+                "No temples/palaces identified",
+                "Possibly non-monarchical / mercantile-council rule; unusually egalitarian layout"
+              ],
+              [
+                "Standard bricks & weights",
+                "A central authority enforcing uniformity over 1.3 million sq km"
+              ],
+              [
+                "Advanced drainage",
+                "High civic sense & municipal administration"
+              ],
+              [
+                "Great Bath",
+                "Ritual/religious use of water — continuity into later Hindu practice"
+              ]
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -85,7 +128,10 @@
       "Dockyard at **Lothal**; 'Lower Town' with warehouses; no clearly identified temples/palaces.",
       "Fortifications & the 'Great Granary' show a strong central civic authority.",
       "Grid pattern = **chessboard** layout; houses had private wells & bathrooms.",
-      "Dholavira uniquely shows a **three-part** city and elaborate **water reservoirs**."
+      "Dholavira uniquely shows a **three-part** city and elaborate **water reservoirs**.",
+      "Brick ratio **4:2:1**; main street ~9 m; citadel (W) + lower town (E).",
+      "Great Bath waterproofed with **gypsum + bitumen**; drains had **manholes & soak-pits**.",
+      "**No temple/palace** identified — a distinctive, egalitarian Harappan feature."
     ],
     "mainsAngles": [
       "Discuss the town planning of the Indus Valley Civilisation as evidence of civic organisation."
@@ -152,6 +198,56 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: society, economy & trade",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Society**: urban, orderly; likely **matriarchal leanings** (abundant mother-goddess figurines); occupational differentiation (traders, artisans, farmers); no clear evidence of an army or warfare.",
+              "**Agriculture**: wheat, barley (staples), **cotton (first in the world — Greeks called it *Sindon*)**, peas, sesame, mustard, dates; **rice** at Lothal/Rangpur; used wooden ploughs (Kalibangan field).",
+              "**Domesticated animals**: humped bull (zebu), buffalo, sheep, goat, pig, elephant, dog, cat; **horse** absent/debated (key exam point); camel bones at Kalibangan.",
+              "**Crafts & industry**: bead-making (Lothal, Chanhudaro), shell/ivory work, metallurgy (copper, bronze, gold, silver — **not iron**), pottery (wheel-made, red-and-black), faience, seal-cutting.",
+              "**Trade** (internal + external): with **Mesopotamia (Meluhha), Oman (Magan), Bahrain (Dilmun)**; Harappan seals & etched carnelian beads found in Mesopotamia; imports — copper (Khetri/Oman), gold (Karnataka), lapis lazuli (Afghanistan), turquoise, jade.",
+              "**Trade mechanism**: **barter** (no coins); regulated by **standard weights** (cubical chert; ratios 1,2,4,8,16…320 — binary then decimal); Lothal **dockyard** = maritime hub; bullock carts & boats for transport."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Import",
+              "Source"
+            ],
+            "rows": [
+              [
+                "Copper",
+                "Khetri (Rajasthan), Oman/Magan"
+              ],
+              [
+                "Gold",
+                "Kolar (Karnataka), Afghanistan"
+              ],
+              [
+                "Lapis lazuli",
+                "Badakhshan (Afghanistan)"
+              ],
+              [
+                "Silver",
+                "Afghanistan, Iran"
+              ],
+              [
+                "Turquoise",
+                "Iran, Central Asia"
+              ],
+              [
+                "Tin (for bronze)",
+                "Afghanistan"
+              ]
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -172,7 +268,11 @@
       "Mesopotamian texts call the Indus region **'Meluhha'**; intermediaries **Dilmun (Bahrain), Magan (Oman)**.",
       "**Chanhudaro & Lothal** — bead-making centres; **Lothal** — dockyard (maritime trade).",
       "Metallurgy — **bronze (copper+tin)**; aware of gold, silver, copper, lead; **not iron** (pre-iron age).",
-      "Trade was largely **barter**; ~2000 **steatite seals** aided commerce."
+      "Trade was largely **barter**; ~2000 **steatite seals** aided commerce.",
+      "**Cotton** first cultivated by Harappans (Greek *Sindon*); **rice** at Lothal/Rangpur.",
+      "**Horse absent/debated**; trade with **Meluhha=Indus, Magan=Oman, Dilmun=Bahrain**.",
+      "Weights **cubical chert**, binary→decimal (1,2,4,8,16…); **barter**, no coins.",
+      "Copper from **Khetri**; gold from **Kolar**; lapis lazuli from **Afghanistan**."
     ],
     "mainsAngles": [
       "Assess the trade and economic organisation of the Indus Valley Civilisation."
@@ -189,6 +289,10 @@
       {
         "term": "Steatite seal",
         "definition": "A carved soapstone seal used in Harappan trade and administration."
+      },
+      {
+        "term": "Nishka",
+        "definition": "A gold ornament used as a unit of value/currency in the Vedic economy."
       }
     ]
   },
@@ -239,6 +343,27 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: art, seals & crafts",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Seals** (~2000 found): mostly **steatite**, square, ~2.5 cm; a **pictograph + animal** motif; the **'unicorn'** is commonest; the **Pashupati seal** shows a horned yogi with animals; used for **trade/property marking** (stamped on clay tags).",
+              "**Bronze sculpture**: **Dancing Girl** (Mohenjo-daro) — **lost-wax (cire perdue)** casting, tribal features, bangles; bronze buffalo & bullock-cart.",
+              "**Stone sculpture**: steatite **'Priest-King'** (trefoil robe, headband, half-closed eyes), bearded man; red-sandstone **male torso** (Harappa); grey stone dancing figure.",
+              "**Terracotta**: mother-goddess figurines, toys (whistles, carts), animal figures; **red-and-black painted pottery** (wheel-turned).",
+              "**Ornaments**: beads of carnelian, agate, steatite, gold, faience; **Lothal & Chanhudaro** = bead-manufacturing hubs; the famous **'necklace'** and micro-drilled long carnelian beads (a Harappan trade specialty).",
+              "**Metals used**: copper, bronze, gold, silver, lead — **iron unknown**; bronze via copper+tin alloying."
+            ]
+          },
+          {
+            "type": "quote",
+            "text": "Prelims trap: the **Dancing Girl is bronze (lost-wax); the Priest-King is steatite (stone)**. Seals are chiefly **steatite**. Don't mix these materials up."
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -259,7 +384,10 @@
       "Seals — mostly **steatite, square**; common motif the **unicorn** and **humped bull**.",
       "Script — **pictographic, boustrophedon (right-to-left first line), undeciphered**.",
       "**Red pottery painted in black**; terracotta mother-goddess figurines.",
-      "**Bronze** worked by lost-wax; Daimabad yielded bronze animal figures."
+      "**Bronze** worked by lost-wax; Daimabad yielded bronze animal figures.",
+      "**Dancing Girl = bronze (lost-wax)**; **Priest-King = steatite**; most **seals = steatite**.",
+      "Commonest seal animal = **'unicorn'**; bull, elephant, rhino, tiger also depicted (no horse).",
+      "**Lothal & Chanhudaro** = bead-making centres; iron **unknown** to IVC."
     ],
     "mainsAngles": [
       "Describe the artistic achievements of the Indus Valley Civilisation."
@@ -322,6 +450,46 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: religion, script & decline",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Religion**: **Mother Goddess** (fertility) worship; **proto-Shiva / Pashupati** (three-faced horned deity, seated in yogic posture, surrounded by animals); **phallus (lingam) & yoni** worship; **pipal/peepal tree** & animal worship (bull, unicorn); **fire-altars** (Kalibangan, Lothal) suggest ritual sacrifice; **no temples**, no priestly class evidenced.",
+              "**Continuity with Hinduism**: Pashupati→Shiva, lingam worship, pipal veneration, tank/ritual bathing, swastika motif — many later Hindu elements have Harappan roots.",
+              "**Burial practices**: mostly **extended inhumation** (N-S); Cemetery R-37 & H (Harappa); some fractional & pot burials; grave goods modest = relatively egalitarian.",
+              "**Decline theories**: (1) **climate change/aridification** (Fairservis), (2) **Aryan invasion** (Wheeler — 'massacre at Mohenjo-daro', now discredited), (3) **floods & river shift/tectonics** (M.R. Sahni, R.L. Raikes), (4) **Saraswati (Ghaggar-Hakra) drying up**, (5) **decline of trade with Mesopotamia**, (6) **ecological degradation/deforestation, salinity**. Consensus: a **gradual, multi-causal de-urbanisation**, not sudden collapse."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Scholar",
+              "Decline theory"
+            ],
+            "rows": [
+              [
+                "**Mortimer Wheeler**",
+                "Aryan invasion (massacre) — now rejected"
+              ],
+              [
+                "**R.L. Raikes / M.R. Sahni**",
+                "Floods & tectonic uplift damming the Indus"
+              ],
+              [
+                "**Fairservis**",
+                "Ecological imbalance / resource exhaustion"
+              ],
+              [
+                "**Gordon Childe / Marshall**",
+                "Continuity & internal decay"
+              ]
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -342,7 +510,10 @@
       "Script — **pictographic, ~400+ signs, undeciphered, boustrophedon**; written right-to-left first.",
       "Burials — **extended inhumation** (cemetery R-37, Harappa); some pot/urn burials.",
       "Decline — most-accepted causes: **Ghaggar-Hakra (Saraswati) drying, climate change/aridity, floods**.",
-      "**Wheeler's Aryan-invasion** theory of IVC's end is now discredited."
+      "**Wheeler's Aryan-invasion** theory of IVC's end is now discredited.",
+      "Religion: **Mother Goddess, Pashupati/proto-Shiva, lingam-yoni, pipal, bull**; fire-altars; no temples.",
+      "Wheeler's **Aryan-invasion (massacre)** theory now **rejected**; consensus = gradual multi-causal decline.",
+      "Saraswati (**Ghaggar-Hakra**) drying + climate change + trade collapse = leading decline factors."
     ],
     "mainsAngles": [
       "Examine the religious beliefs and the debate over the decline of the Indus Valley Civilisation."
@@ -455,6 +626,59 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Rig Vedic polity, society & economy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Sources**: the **Rigveda** (1028 hymns, 10 mandalas; II–VII = 'family books', oldest; X = latest, has Purusha Sukta). Archaeology: **Painted Grey Ware** overlaps Later Vedic.",
+              "**Polity**: **tribal (jana), semi-nomadic, kinship-based**; the **Rajan (chief)** led in war & protection, not an absolute king; assisted by **Purohita (priest — Vasishtha, Vishwamitra), Senani (war), Gramani (village)**. Two assemblies: **Sabha** (elders/nobles) & **Samiti** (whole tribe, elected the Rajan); also **Vidatha & Gana**.",
+              "**Battle of Ten Kings (Dasarajna)**: on the **Parushni (Ravi)**, Bharata king **Sudas** (with Vasishtha) defeated a confederacy of ten tribes — the most important political event of the Rig Vedic age.",
+              "**Society**: **patriarchal but not rigid**; **varna** was occupation-based & flexible (the fourfold order appears only in the late **Purusha Sukta, X.90**); **women** respected — educated (**Gargi, Lopamudra, Apala, Ghosha, Maitreyi**), attended assemblies, no sati/child-marriage/purdah.",
+              "**Economy**: **pastoral — cattle (gau) = chief wealth & unit of value**; 'Gavishti/Gavesana' (search for cows) = term for war; **barter** (cow, later **nishka** gold ornament); limited agriculture (barley = *yava*); river-based; **Panis** = trader/hoarder foes; no coins, no cities."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Rig Vedic term",
+              "Meaning"
+            ],
+            "rows": [
+              [
+                "Jana",
+                "Tribe / people"
+              ],
+              [
+                "Vish",
+                "Clan"
+              ],
+              [
+                "Gana",
+                "Group / kin"
+              ],
+              [
+                "Gavishti",
+                "War (lit. 'search for cattle')"
+              ],
+              [
+                "Nishka",
+                "Gold ornament used as currency"
+              ],
+              [
+                "Purohita",
+                "Chief priest"
+              ],
+              [
+                "Yava",
+                "Barley"
+              ]
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -477,7 +701,11 @@
       "**No untouchability / rigid caste**; women could attend Sabha; women seers — **Gargi, Lopamudra, Apala, Ghosha**.",
       "**Gayatri mantra** (to Savitri) is in the **3rd mandala** (Vishwamitra).",
       "Early Vedic gods **Indra, Agni, Varuna**; Sabha & Samiti were **real** assemblies; women educated (Gargi, Lopamudra, Maitreyi).",
-      "Rig Vedic economy = **pastoral/cattle (gau = wealth)**; 'Gavishti' (search for cattle) = war."
+      "Rig Vedic economy = **pastoral/cattle (gau = wealth)**; 'Gavishti' (search for cattle) = war.",
+      "Rigveda = **1028 hymns, 10 mandalas**; books **II–VII oldest**; **Purusha Sukta (X.90)** = varna origin (latest).",
+      "**Battle of Ten Kings (Dasarajna)** on the **Parushni (Ravi)** — **Sudas (Bharata)** won.",
+      "Cattle = wealth; **Gavishti** = war; **Nishka** = gold currency; Sabha & Samiti were powerful.",
+      "Women scholars: **Gargi, Lopamudra, Apala, Ghosha, Maitreyi**; no sati/purdah in Rig Vedic age."
     ],
     "mainsAngles": [
       "Contrast the polity, economy and society of the Early and Later Vedic ages."
@@ -494,6 +722,10 @@
       {
         "term": "Gavishti",
         "definition": "Literally 'search for cows' — the Rig Vedic term for war, reflecting a cattle-based economy."
+      },
+      {
+        "term": "Dasarajna",
+        "definition": "The Rig Vedic 'Battle of Ten Kings' on the Parushni, won by the Bharata king Sudas."
       }
     ]
   },
@@ -686,6 +918,51 @@
         ]
       },
       {
+        "heading": "🔎 Exam-ready deep coverage: Later Vedic change & Vedic literature",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Later Vedic (1000–600 BCE)**: composed the **Sama, Yajur, Atharva Vedas + Brahmanas, Aranyakas, Upanishads**; PGW + **iron ('krishna-ayas/shyama')** archaeology; centre shifts to the **Ganga-Yamuna doab (Kuru-Panchala)**.",
+              "**Polity**: tribal chief → **territorial king (Rajan)**; larger units — **Rashtra, Janapada**; kings performed **Rajasuya, Ashvamedha, Vajapeya** for legitimacy & divinity; **Sabha & Samiti declined**; new officials (**Bhagadugha** revenue-collector, **Sangrahitri** treasurer).",
+              "**Society**: **four-fold varna rigid & birth-based**; **gotra** appears; **four ashramas** (later); **women's status fell** — excluded from assemblies & upanayana, early hints of sub-ordination.",
+              "**Economy**: **agriculture central** (iron ploughshare, rice = *vrihi*), private land, expanding crafts, early trade & the **nishka/satamana** as money precursors.",
+              "**Religion**: nature gods declined; **Prajapati (creator), Vishnu, Rudra-Shiva** rise; **ritualism & sacrifice** peaked; reaction → **Upanishadic philosophy** (Atman-Brahman, karma, rebirth, moksha; 'Satyameva Jayate' — Mundaka)."
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Text type",
+              "Content / examples"
+            ],
+            "rows": [
+              [
+                "**Samhitas**",
+                "The 4 Vedas — Rig (hymns), Sama (melodies/music), Yajur (rituals; Shukla & Krishna), Atharva (spells, medicine, folk)."
+              ],
+              [
+                "**Brahmanas**",
+                "Prose ritual manuals (Aitareya, Shatapatha)."
+              ],
+              [
+                "**Aranyakas**",
+                "'Forest books' — philosophy of sacrifice."
+              ],
+              [
+                "**Upanishads**",
+                "108 in number; Vedanta — Atman, Brahman, karma, moksha."
+              ],
+              [
+                "**Vedangas**",
+                "6 limbs — Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha."
+              ]
+            ]
+          }
+        ]
+      },
+      {
         "heading": "Answer craft",
         "level": 2,
         "blocks": [
@@ -709,7 +986,11 @@
       "Each Veda has four parts — **Samhita, Brahmana, Aranyaka, Upanishad**.",
       "**Shruti** = Vedas, Brahmanas, Aranyakas, Upanishads; **Smriti** = Vedangas, Sutras, Epics, Puranas, Manusmriti.",
       "**Samaveda** = roots of Indian music; **Atharvaveda** = spells/medicine; **'Satyameva Jayate'** from Mundaka Upanishad.",
-      "IVC = **Bronze Age, urban, undeciphered script**; Vedic = **Iron Age, rural→monarchy, Sanskrit**."
+      "IVC = **Bronze Age, urban, undeciphered script**; Vedic = **Iron Age, rural→monarchy, Sanskrit**.",
+      "Later Vedic iron = **krishna-ayas/shyama-ayas**; centre = **Kuru-Panchala doab**.",
+      "Royal sacrifices: **Rajasuya** (consecration), **Ashvamedha** (horse), **Vajapeya** (chariot-race/prestige).",
+      "**Vedangas (6)**: Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha.",
+      "**Satyameva Jayate** = Mundaka Upanishad; **Gayatri Mantra** = Rigveda (to Savitr)."
     ],
     "mainsAngles": [
       "Trace the transformation from pastoral Rig Vedic to agrarian Later Vedic society."
@@ -726,6 +1007,14 @@
       {
         "term": "Upanishads",
         "definition": "The concluding philosophical texts of the Vedas (Vedanta), exploring Brahman and Atman."
+      },
+      {
+        "term": "Purusha Sukta",
+        "definition": "Rigveda X.90 hymn giving the mythic origin of the four varnas from the cosmic being."
+      },
+      {
+        "term": "Upanayana",
+        "definition": "The sacred-thread initiation ceremony; in Later Vedic times denied to Shudras and women."
       }
     ]
   }
