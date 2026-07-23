@@ -110,6 +110,26 @@ copied from compilations) in `answers/essays-archive-answers.json`, keyed
 node --env-file=.env.local scripts/update-essay-answers.mjs
 ```
 
+### Paper-II archive (2008–2024, APPSC + TGPSC)
+
+`paper2-archive.json` holds Mains **Paper-II** (History, Culture & Geography of
+India and AP) PYQs from years whose full papers are not ingested — 92 questions
+across APPSC 2008 / 2011 / 2012 / 2016 / 2017 and TGPSC 2016 / 2024 (plus one
+2025 APPSC soils question absent from the main 2025 paper). TGPSC rows use the
+paper label `Paper-II: History, Culture & Geography (TGPSC)` so the two boards'
+same-year papers stay distinct; APPSC rows reuse the standard
+`Paper-II: History, Culture & Geography` label. Questions are transcribed
+verbatim from the official papers and mapped to the `MN-PII-*` micro-themes
+(HCOI = History of India, HCOA = History of Andhra, G = Geography). Model
+answers are authored fresh (facts absorbed from reference compilations, all
+prose original) in `answers/paper2-archive-answers.json`, keyed `Q<no>` by the
+compilation numbering, and attached by:
+
+```bash
+node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/paper2-archive.json
+node --env-file=.env.local scripts/update-paper2-archive-answers.mjs
+```
+
 ## Model answers (Mains)
 
 Authored model answers live in `data/pyq/answers/<year>-mains-answers.json` as a
