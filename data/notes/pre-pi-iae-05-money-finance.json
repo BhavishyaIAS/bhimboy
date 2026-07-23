@@ -12,13 +12,47 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**RBI (1935)**", "Central bank; nationalised **1949**; functions — currency issue, banker's bank, monetary policy, forex, regulator."],
-              ["**Monetary Policy Committee**", "**MPC (6 members)** sets the **repo rate**; targets **CPI inflation 4% ±2%**."],
-              ["**Quantitative tools**", "**Repo & reverse repo, CRR, SLR, MSF, OMO, Bank Rate**."],
-              ["**Policy stance**", "**Dear money (contractionary)** to curb inflation; **cheap money (expansionary)** to boost growth."],
-              ["**Inflation targeting**", "Flexible IT framework since **2016** (RBI Act amended)."]
+              [
+                "**RBI (1935)**",
+                "Central bank; nationalised **1949**; functions — currency issue, banker's bank, monetary policy, forex, regulator."
+              ],
+              [
+                "**Monetary Policy Committee**",
+                "**MPC (6 members)** sets the **repo rate**; targets **CPI inflation 4% ±2%**."
+              ],
+              [
+                "**Quantitative tools**",
+                "**Repo & reverse repo, CRR, SLR, MSF, OMO, Bank Rate**."
+              ],
+              [
+                "**Policy stance**",
+                "**Dear money (contractionary)** to curb inflation; **cheap money (expansionary)** to boost growth."
+              ],
+              [
+                "**Inflation targeting**",
+                "Flexible IT framework since **2016** (RBI Act amended)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: RBI & monetary policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**RBI (est. 1935, nationalised 1949)**: functions — note issue (except ₹1 & coins by Govt), banker to govt & banks, monetary authority, forex manager, regulator/supervisor of banks & NBFCs, lender of last resort.",
+              "**Monetary policy**: since 2016 set by the **Monetary Policy Committee (MPC, 6 members)** targeting **CPI inflation of 4% (±2%)** — flexible inflation targeting.",
+              "**Quantitative tools**: **Repo & Reverse Repo (LAF), CRR, SLR, MSF, Bank Rate, OMO**; **Standing Deposit Facility (SDF)**.",
+              "**Qualitative tools**: margin requirements, moral suasion, priority-sector lending, credit rationing.",
+              "**Stance**: accommodative/neutral/tightening to control **inflation vs growth**; transmission via banks."
             ]
           }
         ]
@@ -44,15 +78,28 @@
       "**Quantitative tools** — **Repo, Reverse Repo, CRR, SLR, MSF, Bank Rate, OMO**.",
       "**CRR** (cash reserve ratio) & **SLR** (statutory liquidity ratio) — reserve requirements.",
       "Raising **repo/CRR** = **contractionary (dear money)**; lowering = expansionary.",
-      "RBI is the **sole issuer of currency** (except one-rupee notes/coins by the Finance Ministry)."
+      "RBI is the **sole issuer of currency** (except one-rupee notes/coins by the Finance Ministry).",
+      "**RBI (1935, nationalised 1949)**; note issue except **₹1 & coins (Govt)**.",
+      "**MPC (2016, 6 members)** targets **CPI 4% ±2%** (flexible inflation targeting).",
+      "Quant tools: **Repo, Reverse Repo, CRR, SLR, MSF, OMO, SDF**.",
+      "RBI = **lender of last resort**, banker to government, forex manager."
     ],
     "mainsAngles": [
       "Explain the tools of RBI's monetary policy and inflation targeting."
     ],
     "glossary": [
-      {"term": "Repo rate", "definition": "The rate at which the RBI lends to commercial banks; the key monetary-policy lever."},
-      {"term": "CRR", "definition": "Cash Reserve Ratio — the share of deposits banks must keep with the RBI."},
-      {"term": "MPC", "definition": "The Monetary Policy Committee that sets the repo rate to meet the inflation target."}
+      {
+        "term": "Repo rate",
+        "definition": "The rate at which the RBI lends to commercial banks; the key monetary-policy lever."
+      },
+      {
+        "term": "CRR",
+        "definition": "Cash Reserve Ratio — the share of deposits banks must keep with the RBI."
+      },
+      {
+        "term": "MPC",
+        "definition": "The Monetary Policy Committee that sets the repo rate to meet the inflation target."
+      }
     ]
   },
   {
@@ -68,13 +115,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Nationalisation**", "**14 banks in 1969, 6 in 1980**; expanded rural banking."],
-              ["**Narasimham Committees**", "**(1991 & 1998)** — banking-sector reforms (prudential norms, capital adequacy, autonomy)."],
-              ["**NPAs**", "Loans not repaid (>90 days); addressed via **SARFAESI Act, IBC (2016), asset reconstruction, recapitalisation**."],
-              ["**Structure**", "**Scheduled commercial banks (public, private, foreign, RRBs), cooperative banks, SFBs, payment banks**."],
-              ["**Inclusion**", "**Jan Dhan, business correspondents, differentiated banks, UPI/digital**."]
+              [
+                "**Nationalisation**",
+                "**14 banks in 1969, 6 in 1980**; expanded rural banking."
+              ],
+              [
+                "**Narasimham Committees**",
+                "**(1991 & 1998)** — banking-sector reforms (prudential norms, capital adequacy, autonomy)."
+              ],
+              [
+                "**NPAs**",
+                "Loans not repaid (>90 days); addressed via **SARFAESI Act, IBC (2016), asset reconstruction, recapitalisation**."
+              ],
+              [
+                "**Structure**",
+                "**Scheduled commercial banks (public, private, foreign, RRBs), cooperative banks, SFBs, payment banks**."
+              ],
+              [
+                "**Inclusion**",
+                "**Jan Dhan, business correspondents, differentiated banks, UPI/digital**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: banking & NPAs",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Structure**: **Scheduled** (in 2nd Schedule of RBI Act) — commercial (PSBs, private, foreign, RRBs) & cooperative; **NABARD, SIDBI, EXIM, NHB** (development finance); Payment & Small Finance Banks.",
+              "**Bank nationalisation**: 1969 (14 banks) & 1980 (6) — priority-sector lending, financial inclusion; recent **PSB mergers** (12 PSBs now).",
+              "**NPAs (Non-Performing Assets)**: loans overdue >90 days; twin-balance-sheet problem; resolution via **IBC (2016) & NCLT**, SARFAESI Act, Asset Reconstruction Companies, the **'Bad Bank' (NARCL)**, PCA framework, recapitalisation.",
+              "**Financial inclusion**: **PM Jan Dhan Yojana (2014)**, BSBDA, BC model, JAM; India Stack/UPI (world-leading digital payments), Basel III capital norms."
             ]
           }
         ]
@@ -100,15 +180,28 @@
       "NPA tools — **SARFAESI Act (2002), Insolvency & Bankruptcy Code (IBC, 2016), asset reconstruction companies, recapitalisation**.",
       "Bank types — **public-sector, private, foreign, RRBs, cooperative, Small Finance & Payment Banks**.",
       "**Basel norms** — capital-adequacy (CRAR) standards.",
-      "**UPI, Jan Dhan, business correspondents** drive financial inclusion."
+      "**UPI, Jan Dhan, business correspondents** drive financial inclusion.",
+      "Bank nationalisation: **1969 (14 banks)** & **1980 (6)**; recent **PSB mergers → 12 PSBs**.",
+      "**NPA** = overdue >90 days; resolution via **IBC (2016), SARFAESI, NCLT, NARCL (bad bank)**.",
+      "**PM Jan Dhan Yojana (2014)** = financial inclusion; **UPI** = digital payments leader.",
+      "Development banks: **NABARD (rural), SIDBI (MSME), EXIM, NHB**."
     ],
     "mainsAngles": [
       "Discuss the problem of NPAs and banking-sector reforms in India."
     ],
     "glossary": [
-      {"term": "NPA", "definition": "A Non-Performing Asset — a loan on which interest/principal is overdue beyond 90 days."},
-      {"term": "IBC", "definition": "The Insolvency and Bankruptcy Code (2016) providing a time-bound resolution of bad debts."},
-      {"term": "Narasimham Committee", "definition": "The committees (1991, 1998) that shaped India's banking-sector reforms."}
+      {
+        "term": "NPA",
+        "definition": "A Non-Performing Asset — a loan on which interest/principal is overdue beyond 90 days."
+      },
+      {
+        "term": "IBC",
+        "definition": "The Insolvency and Bankruptcy Code (2016) providing a time-bound resolution of bad debts."
+      },
+      {
+        "term": "Narasimham Committee",
+        "definition": "The committees (1991, 1998) that shaped India's banking-sector reforms."
+      }
     ]
   },
   {
@@ -124,13 +217,47 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Money market**", "Short-term (<1 yr) — **T-bills, call money, commercial paper, certificates of deposit**; RBI-regulated."],
-              ["**Capital market**", "Long-term — **equity & debt (shares, bonds, debentures)**; primary (IPO) & secondary markets."],
-              ["**Stock exchanges**", "**BSE (Sensex-30, Asia's oldest, 1875), NSE (Nifty-50)**."],
-              ["**SEBI (1988/1992)**", "**Securities & Exchange Board of India** — regulator of the securities market; statutory 1992."],
-              ["**Instabilities**", "**Bubbles, crashes, scams (Harshad Mehta 1992)**; SEBI ensures transparency."]
+              [
+                "**Money market**",
+                "Short-term (<1 yr) — **T-bills, call money, commercial paper, certificates of deposit**; RBI-regulated."
+              ],
+              [
+                "**Capital market**",
+                "Long-term — **equity & debt (shares, bonds, debentures)**; primary (IPO) & secondary markets."
+              ],
+              [
+                "**Stock exchanges**",
+                "**BSE (Sensex-30, Asia's oldest, 1875), NSE (Nifty-50)**."
+              ],
+              [
+                "**SEBI (1988/1992)**",
+                "**Securities & Exchange Board of India** — regulator of the securities market; statutory 1992."
+              ],
+              [
+                "**Instabilities**",
+                "**Bubbles, crashes, scams (Harshad Mehta 1992)**; SEBI ensures transparency."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: financial markets & SEBI",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Money market** (short-term, <1 yr — T-bills, call money, CPs, CDs; RBI-regulated) vs **Capital market** (long-term — equity & debt).",
+              "**Capital market**: **primary** (IPO/FPO) & **secondary** (stock exchanges — **BSE (Asia's oldest, 1875) & NSE**; indices **Sensex (30) & Nifty (50)**).",
+              "**SEBI (1988, statutory 1992)**: regulator of the securities market — protects investors, regulates exchanges/intermediaries, curbs insider trading & fraud.",
+              "**Instruments**: shares, bonds, debentures, mutual funds, derivatives (futures/options), REITs/InVITs, ETFs; **FPI/FII** flows drive volatility.",
+              "**Instabilities**: bubbles/crashes, capital-flow volatility, systemic risk; regulators coordinate via the **FSDC** (chaired by FM)."
             ]
           }
         ]
@@ -156,15 +283,28 @@
       "**NSE** — index **Nifty (50 stocks)**.",
       "**SEBI** — established 1988, statutory since **1992**; regulator of the securities market.",
       "**Harshad Mehta scam (1992)** led to SEBI's statutory empowerment.",
-      "**FPIs/FIIs** invest in Indian markets; **demat** accounts (NSDL/CDSL) hold securities."
+      "**FPIs/FIIs** invest in Indian markets; **demat** accounts (NSDL/CDSL) hold securities.",
+      "**Money market** (short-term: T-bills, CPs, CDs — RBI) vs **capital market** (long-term — SEBI).",
+      "**SEBI (statutory 1992)** regulates securities; **BSE (1875, Sensex-30) & NSE (Nifty-50)**.",
+      "**FSDC** (chaired by Finance Minister) coordinates financial regulators.",
+      "Instruments: shares, bonds, MFs, **derivatives, REITs/InVITs, ETFs**."
     ],
     "mainsAngles": [
       "Distinguish the money and capital markets and explain SEBI's role."
     ],
     "glossary": [
-      {"term": "SEBI", "definition": "The Securities and Exchange Board of India, statutory regulator of the securities market (1992)."},
-      {"term": "Money market", "definition": "The market for short-term (under one year) funds, regulated by the RBI."},
-      {"term": "Sensex", "definition": "The Bombay Stock Exchange's benchmark index of 30 large companies."}
+      {
+        "term": "SEBI",
+        "definition": "The Securities and Exchange Board of India, statutory regulator of the securities market (1992)."
+      },
+      {
+        "term": "Money market",
+        "definition": "The market for short-term (under one year) funds, regulated by the RBI."
+      },
+      {
+        "term": "Sensex",
+        "definition": "The Bombay Stock Exchange's benchmark index of 30 large companies."
+      }
     ]
   },
   {
@@ -180,13 +320,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Direct taxes**", "**Income tax, corporate tax**; progressive; burden not shiftable; **CBDT**."],
-              ["**Indirect taxes**", "Now mostly **GST**; earlier excise, VAT, service tax; **CBIC**."],
-              ["**GST (1 July 2017)**", "**101st Amendment**; subsumed most indirect taxes; **CGST + SGST + IGST**; slabs 0/5/12/18/28%."],
-              ["**GST Council**", "**Article 279A**; Union FM + state FMs; recommends rates (cooperative federalism)."],
-              ["**Impact**", "**Unified market, reduced cascading, higher compliance; revenue-sharing debates**."]
+              [
+                "**Direct taxes**",
+                "**Income tax, corporate tax**; progressive; burden not shiftable; **CBDT**."
+              ],
+              [
+                "**Indirect taxes**",
+                "Now mostly **GST**; earlier excise, VAT, service tax; **CBIC**."
+              ],
+              [
+                "**GST (1 July 2017)**",
+                "**101st Amendment**; subsumed most indirect taxes; **CGST + SGST + IGST**; slabs 0/5/12/18/28%."
+              ],
+              [
+                "**GST Council**",
+                "**Article 279A**; Union FM + state FMs; recommends rates (cooperative federalism)."
+              ],
+              [
+                "**Impact**",
+                "**Unified market, reduced cascading, higher compliance; revenue-sharing debates**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: taxation & GST",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Direct taxes** (on income/wealth — progressive; income tax, corporate tax) vs **Indirect taxes** (on goods/services — regressive; GST, customs).",
+              "**GST (1 July 2017, 101st Amendment)**: 'One Nation One Tax'; subsumed excise, service tax, VAT, etc.; **destination-based** consumption tax; **CGST + SGST/UTGST + IGST (interstate)**; slabs **0/5/12/18/28% (+cess)**; governed by the **GST Council (Art 279A)** — cooperative federalism; **GSTN** IT backbone.",
+              "**Outside GST**: petroleum, alcohol, electricity, stamp duty (for now).",
+              "**Reforms**: **faceless assessment, DTC discussions**, corporate-tax cut (2019, 22%), new personal-tax regime; **tax-GDP ratio** (~11-12% centre) still low; **tax buoyancy**; direct-tax collections rising via digitisation."
             ]
           }
         ]
@@ -212,15 +385,28 @@
       "GST slabs — **0%, 5%, 12%, 18%, 28%** (+ cess on luxury/sin goods).",
       "**GST Council (Article 279A)** — chaired by Union FM; recommends rates.",
       "GST subsumed **excise, service tax, VAT, octroi** etc. — 'One Nation, One Tax'.",
-      "Items outside GST — **petroleum, alcohol, electricity** (for now)."
+      "Items outside GST — **petroleum, alcohol, electricity** (for now).",
+      "**GST (1 July 2017, 101st Amendment)** = destination-based; **CGST+SGST+IGST**; slabs **0/5/12/18/28%**.",
+      "**GST Council (Art 279A)** = cooperative federalism; outside GST = **petrol, alcohol, electricity, stamp duty**.",
+      "**Direct taxes** (income/corporate) = progressive; **indirect** (GST/customs) = regressive.",
+      "Corporate tax cut to **22%** (2019); faceless assessment; low **tax-GDP ratio**."
     ],
     "mainsAngles": [
       "Assess the impact of GST on India's tax system and federalism."
     ],
     "glossary": [
-      {"term": "GST", "definition": "The Goods and Services Tax (2017), a unified indirect tax replacing many central and state levies."},
-      {"term": "GST Council", "definition": "The Article 279A body of Union and state finance ministers that decides GST rates."},
-      {"term": "Direct tax", "definition": "A tax (like income tax) borne directly by the person on whom it is levied."}
+      {
+        "term": "GST",
+        "definition": "The Goods and Services Tax (2017), a unified indirect tax replacing many central and state levies."
+      },
+      {
+        "term": "GST Council",
+        "definition": "The Article 279A body of Union and state finance ministers that decides GST rates."
+      },
+      {
+        "term": "Direct tax",
+        "definition": "A tax (like income tax) borne directly by the person on whom it is levied."
+      }
     ]
   },
   {
@@ -236,13 +422,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Finance Commission (Art. 280)**", "Constituted every **5 years**; recommends **tax devolution & grants-in-aid**."],
-              ["**Devolution**", "**15th FC** — states get **41%** of the divisible pool of central taxes."],
-              ["**Vertical/horizontal**", "**Vertical** (Centre-to-states share); **horizontal** (among states, by formula — population, area, income distance, etc.)."],
-              ["**Grants**", "**Statutory (FC), grants-in-aid (Art. 275), central schemes**."],
-              ["**GST Council**", "Complements FC for indirect-tax sharing."]
+              [
+                "**Finance Commission (Art. 280)**",
+                "Constituted every **5 years**; recommends **tax devolution & grants-in-aid**."
+              ],
+              [
+                "**Devolution**",
+                "**15th FC** — states get **41%** of the divisible pool of central taxes."
+              ],
+              [
+                "**Vertical/horizontal**",
+                "**Vertical** (Centre-to-states share); **horizontal** (among states, by formula — population, area, income distance, etc.)."
+              ],
+              [
+                "**Grants**",
+                "**Statutory (FC), grants-in-aid (Art. 275), central schemes**."
+              ],
+              [
+                "**GST Council**",
+                "Complements FC for indirect-tax sharing."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: centre-state finance & Finance Commission",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Finance Commission (Art 280)**: constituted every **5 years** by the President; recommends (a) **vertical devolution** — states' share of the **divisible pool** of central taxes (15th FC: **41%**), (b) **horizontal distribution** among states (population, area, income-distance, forest, demography), (c) grants-in-aid, local-body & disaster grants.",
+              "**15th FC (N.K. Singh)**: award period 2021-26; used **2011 census**; revenue-deficit & sector-specific grants.",
+              "**GST Council (Art 279A)**: shares indirect-tax decisions; GST compensation to states (ended 2022, extended cess).",
+              "**Issues**: rising **cesses & surcharges** (not in divisible pool → shrink states' share), borrowing limits (FRBM/Art 293), special-category-status demands (**AP** post-bifurcation)."
             ]
           }
         ]
@@ -268,15 +487,28 @@
       "**Vertical devolution** (Centre→states) & **horizontal** (among states by formula).",
       "Horizontal formula factors — **income distance, population (2011), area, forest & ecology, demographic performance, tax effort**.",
       "**Grants-in-aid — Article 275**.",
-      "GST Council handles indirect-tax revenue sharing (complements FC)."
+      "GST Council handles indirect-tax revenue sharing (complements FC).",
+      "**Finance Commission (Art 280)** every 5 yrs; **15th FC** devolved **41%** of the divisible pool to states.",
+      "Horizontal criteria: **income-distance, population (2011), area, forest, demographic performance**.",
+      "**Cesses & surcharges** stay OUT of the divisible pool (states' grievance).",
+      "**GST compensation** to states ended 2022; **AP** demands special-category status."
     ],
     "mainsAngles": [
       "Discuss the role of the Finance Commission in Centre-State fiscal relations."
     ],
     "glossary": [
-      {"term": "Finance Commission", "definition": "The Article 280 body recommending Centre-State tax sharing every five years."},
-      {"term": "Divisible pool", "definition": "The portion of central taxes shared with the states as recommended by the Finance Commission."},
-      {"term": "Fiscal federalism", "definition": "The division of taxation and spending powers between the Centre and the States."}
+      {
+        "term": "Finance Commission",
+        "definition": "The Article 280 body recommending Centre-State tax sharing every five years."
+      },
+      {
+        "term": "Divisible pool",
+        "definition": "The portion of central taxes shared with the states as recommended by the Finance Commission."
+      },
+      {
+        "term": "Fiscal federalism",
+        "definition": "The division of taxation and spending powers between the Centre and the States."
+      }
     ]
   },
   {
@@ -292,13 +524,47 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Union Budget (Art. 112)**", "'Annual Financial Statement'; **Revenue & Capital** accounts; presented on **1 February**."],
-              ["**Deficits**", "**Fiscal deficit** (total borrowing), **Revenue deficit**, **Primary deficit** (fiscal – interest)."],
-              ["**Public debt**", "Internal + external borrowings; sustainability = debt/GDP ratio."],
-              ["**FRBM Act (2003)**", "Targets fiscal prudence (fiscal deficit ~3% of GDP goal)."],
-              ["**Expenditure**", "**Revenue (recurring) vs Capital (asset-creating)**; committed (interest, salaries, subsidies)."]
+              [
+                "**Union Budget (Art. 112)**",
+                "'Annual Financial Statement'; **Revenue & Capital** accounts; presented on **1 February**."
+              ],
+              [
+                "**Deficits**",
+                "**Fiscal deficit** (total borrowing), **Revenue deficit**, **Primary deficit** (fiscal – interest)."
+              ],
+              [
+                "**Public debt**",
+                "Internal + external borrowings; sustainability = debt/GDP ratio."
+              ],
+              [
+                "**FRBM Act (2003)**",
+                "Targets fiscal prudence (fiscal deficit ~3% of GDP goal)."
+              ],
+              [
+                "**Expenditure**",
+                "**Revenue (recurring) vs Capital (asset-creating)**; committed (interest, salaries, subsidies)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: public finance, deficits & budget",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Budget (Art 112 — Annual Financial Statement)**: **Revenue** (recurring) vs **Capital** (asset/liability) accounts; presented **1 February**; **Consolidated Fund, Contingency Fund, Public Account**.",
+              "**Deficits**: **Fiscal deficit** (total borrowing = expenditure − non-borrowed receipts), **Revenue deficit** (revenue exp − revenue receipts), **Primary deficit** (fiscal − interest payments); **effective revenue deficit**.",
+              "**FRBM Act (2003)**: targets fiscal prudence (fiscal deficit ~3% of GDP goal); escape clauses in crises; N.K. Singh review recommended a debt-anchor.",
+              "**Public debt**: internal + external; **fiscal policy** (taxation & spending) manages demand/growth; **counter-cyclical** stance; capex push for multiplier effect.",
+              "**Bodies**: **CAG audit, Public Accounts Committee, Estimates Committee**; medium-term fiscal framework."
             ]
           }
         ]
@@ -324,15 +590,28 @@
       "**Revenue deficit** = revenue expenditure – revenue receipts; **Primary deficit** = fiscal deficit – interest payments.",
       "**FRBM Act (2003)** — Fiscal Responsibility & Budget Management (deficit-reduction targets).",
       "**Public debt** — internal (dominant) + external borrowings.",
-      "**Consolidated Fund, Contingency Fund, Public Account** — the three government funds."
+      "**Consolidated Fund, Contingency Fund, Public Account** — the three government funds.",
+      "**Budget = Art 112** (Annual Financial Statement); **Consolidated Fund / Contingency Fund / Public Account**.",
+      "**Fiscal deficit** = borrowing; **Primary deficit** = fiscal − interest; **Revenue deficit**.",
+      "**FRBM Act (2003)** targets fiscal discipline (~3% of GDP).",
+      "Money bill = **Art 110**; audited by **CAG**, examined by **Public Accounts Committee**."
     ],
     "mainsAngles": [
       "Explain fiscal policy, deficits and the FRBM framework."
     ],
     "glossary": [
-      {"term": "Fiscal deficit", "definition": "The gap between total expenditure and total receipts excluding borrowings — i.e. total borrowing."},
-      {"term": "FRBM Act", "definition": "The 2003 law mandating fiscal discipline and deficit-reduction targets."},
-      {"term": "Primary deficit", "definition": "The fiscal deficit minus interest payments, showing current fiscal stance."}
+      {
+        "term": "Fiscal deficit",
+        "definition": "The gap between total expenditure and total receipts excluding borrowings — i.e. total borrowing."
+      },
+      {
+        "term": "FRBM Act",
+        "definition": "The 2003 law mandating fiscal discipline and deficit-reduction targets."
+      },
+      {
+        "term": "Primary deficit",
+        "definition": "The fiscal deficit minus interest payments, showing current fiscal stance."
+      }
     ]
   }
 ]

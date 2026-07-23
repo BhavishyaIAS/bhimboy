@@ -12,13 +12,47 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**Industrial Policy 1956**", "Basis of the public-sector-led 'mixed economy'; three schedules of industries."],
-              ["**IPR 1991**", "**Abolished licensing (mostly), reduced public-sector reservation, allowed FDI** — LPG."],
-              ["**Make in India (2014)**", "Boost manufacturing to **25% of GDP**; 25 sectors; ease of doing business."],
-              ["**PLI schemes**", "**Production-Linked Incentives** for 14 sectors (electronics, pharma, semiconductors)."],
-              ["**Start-up/Stand-up India**", "**Start-up India (2016)** — innovation/funding; **Stand-up India** — loans for SC/ST & women entrepreneurs."]
+              [
+                "**Industrial Policy 1956**",
+                "Basis of the public-sector-led 'mixed economy'; three schedules of industries."
+              ],
+              [
+                "**IPR 1991**",
+                "**Abolished licensing (mostly), reduced public-sector reservation, allowed FDI** — LPG."
+              ],
+              [
+                "**Make in India (2014)**",
+                "Boost manufacturing to **25% of GDP**; 25 sectors; ease of doing business."
+              ],
+              [
+                "**PLI schemes**",
+                "**Production-Linked Incentives** for 14 sectors (electronics, pharma, semiconductors)."
+              ],
+              [
+                "**Start-up/Stand-up India**",
+                "**Start-up India (2016)** — innovation/funding; **Stand-up India** — loans for SC/ST & women entrepreneurs."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: industrial policy & Make in India",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Industrial policy evolution**: **IPR 1948 & 1956** (mixed economy, 'commanding heights' to PSUs, licensing) → **1991 New Industrial Policy** (delicensing, dereservation, disinvestment, FDI opened).",
+              "**Make in India (2014)**: boost manufacturing to **25% of GDP**; 25 sectors; Ease of Doing Business; **PLI (Production-Linked Incentive)** schemes across 14 sectors (electronics, pharma, semiconductors, etc.); Gati Shakti (logistics), National Logistics Policy.",
+              "**Start-up India (2016)** & **Stand-Up India (2016)**: startup ecosystem (India = 3rd-largest startup/unicorn hub), tax holidays, Fund of Funds (SIDBI); Stand-Up = bank loans for SC/ST & women entrepreneurs.",
+              "**MSMEs**: the backbone — ~30% of GDP, largest employer after agriculture; **Udyam** registration; credit guarantee (CGTMSE), MUDRA.",
+              "**Atmanirbhar Bharat (2020)**: self-reliance, PLI, defence indigenisation."
             ]
           }
         ]
@@ -44,15 +78,28 @@
       "**PLI (Production-Linked Incentive)** schemes — **14 sectors** (electronics, pharma, semiconductors, auto).",
       "**Start-up India (2016)** — funding, tax benefits, incubation.",
       "**Stand-up India** — bank loans (₹10 lakh-1 crore) for **SC/ST & women** entrepreneurs.",
-      "**MSMEs** are the backbone of employment; **Udyam** registration."
+      "**MSMEs** are the backbone of employment; **Udyam** registration.",
+      "**IPR 1956** = 'commanding heights' to PSUs; **1991** = delicensing/liberalisation.",
+      "**Make in India (2014)** target = manufacturing **25% of GDP**; **PLI** across 14 sectors.",
+      "**Start-Up India (2016)** & **Stand-Up India** (SC/ST & women entrepreneurs).",
+      "**MSMEs** ~30% GDP; **Udyam** registration; **PM Gati Shakti** logistics."
     ],
     "mainsAngles": [
       "Evaluate India's industrial policy shift and the Make-in-India initiative."
     ],
     "glossary": [
-      {"term": "IPR 1991", "definition": "The New Industrial Policy that dismantled the licence-permit Raj and opened the economy."},
-      {"term": "Make in India", "definition": "The 2014 initiative to boost domestic manufacturing to 25% of GDP."},
-      {"term": "PLI scheme", "definition": "Production-Linked Incentive schemes rewarding incremental manufacturing output."}
+      {
+        "term": "IPR 1991",
+        "definition": "The New Industrial Policy that dismantled the licence-permit Raj and opened the economy."
+      },
+      {
+        "term": "Make in India",
+        "definition": "The 2014 initiative to boost domestic manufacturing to 25% of GDP."
+      },
+      {
+        "term": "PLI scheme",
+        "definition": "Production-Linked Incentive schemes rewarding incremental manufacturing output."
+      }
     ]
   },
   {
@@ -68,13 +115,46 @@
           },
           {
             "type": "table",
-            "headers": ["Point", "Detail"],
+            "headers": [
+              "Point",
+              "Detail"
+            ],
             "rows": [
-              ["**SEZs**", "**SEZ Act (2005)** — duty-free enclaves for exports; single-window; e.g. many in AP/coast."],
-              ["**Industrial corridors**", "**DMIC, Vizag-Chennai (VCIC), Chennai-Bengaluru, Amritsar-Kolkata**."],
-              ["**Power sector**", "**Electricity Act (2003)**; unbundling; **UDAY** (discom finances); One Nation One Grid."],
-              ["**Renewables**", "Target **500 GW non-fossil capacity by 2030**; solar (ISA), wind; National Solar Mission."],
-              ["**Energy security**", "Coal (dominant), oil imports, **National Green Hydrogen Mission, ethanol blending**."]
+              [
+                "**SEZs**",
+                "**SEZ Act (2005)** — duty-free enclaves for exports; single-window; e.g. many in AP/coast."
+              ],
+              [
+                "**Industrial corridors**",
+                "**DMIC, Vizag-Chennai (VCIC), Chennai-Bengaluru, Amritsar-Kolkata**."
+              ],
+              [
+                "**Power sector**",
+                "**Electricity Act (2003)**; unbundling; **UDAY** (discom finances); One Nation One Grid."
+              ],
+              [
+                "**Renewables**",
+                "Target **500 GW non-fossil capacity by 2030**; solar (ISA), wind; National Solar Mission."
+              ],
+              [
+                "**Energy security**",
+                "Coal (dominant), oil imports, **National Green Hydrogen Mission, ethanol blending**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: SEZs, corridors & energy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**SEZs (SEZ Act 2005)**: duty-free enclaves for exports (single-window, tax breaks); India's first was **Kandla EPZ (1965)**; concerns — land, revenue loss, jobs.",
+              "**Industrial corridors**: **DMIC (Delhi-Mumbai), CBIC (Chennai-Bengaluru), Vizag-Chennai (VCIC) through AP, Amritsar-Kolkata, Bengaluru-Mumbai**; anchored by **PM Gati Shakti National Master Plan**.",
+              "**Energy/power**: sources — coal (~50%+ of power), hydro, nuclear, and fast-growing **renewables (solar, wind)**; targets — **500 GW non-fossil by 2030, 50% energy from renewables, Net-Zero 2070**; **ISA, National Solar Mission, Green Hydrogen Mission, PM-KUSUM (solar farms), PM Surya Ghar (rooftop solar)**.",
+              "**Power-sector reforms**: Electricity Act 2003, UDAY (DISCOM revival), One Nation One Grid, RE parks (AP has large solar/wind capacity)."
             ]
           }
         ]
@@ -100,15 +180,28 @@
       "**UDAY** scheme — revival of discom (distribution company) finances.",
       "India targets **500 GW of non-fossil (renewable) capacity by 2030**.",
       "**International Solar Alliance (ISA)** — India-France initiative (HQ Gurugram).",
-      "**National Green Hydrogen Mission** & **ethanol blending (20% by 2025-26)** for energy transition."
+      "**National Green Hydrogen Mission** & **ethanol blending (20% by 2025-26)** for energy transition.",
+      "**SEZ Act 2005**; first EPZ = **Kandla (1965)**.",
+      "Corridors: **DMIC, CBIC, VCIC (Vizag-Chennai, through AP)**; under **PM Gati Shakti**.",
+      "Energy target: **500 GW non-fossil by 2030, 50% RE, Net-Zero 2070**; **Green Hydrogen Mission**.",
+      "Power reforms: **Electricity Act 2003, UDAY**; solar via **PM-KUSUM, PM Surya Ghar**."
     ],
     "mainsAngles": [
       "Discuss SEZs, industrial corridors and energy policy in India's industrial strategy."
     ],
     "glossary": [
-      {"term": "SEZ", "definition": "A Special Economic Zone — a duty-free enclave with liberal rules to promote exports."},
-      {"term": "Industrial corridor", "definition": "A planned belt of industrial nodes linked by transport infrastructure (e.g. DMIC, VCIC)."},
-      {"term": "UDAY", "definition": "The Ujwal DISCOM Assurance Yojana to restore power-distribution companies' finances."}
+      {
+        "term": "SEZ",
+        "definition": "A Special Economic Zone — a duty-free enclave with liberal rules to promote exports."
+      },
+      {
+        "term": "Industrial corridor",
+        "definition": "A planned belt of industrial nodes linked by transport infrastructure (e.g. DMIC, VCIC)."
+      },
+      {
+        "term": "UDAY",
+        "definition": "The Ujwal DISCOM Assurance Yojana to restore power-distribution companies' finances."
+      }
     ]
   },
   {
@@ -124,13 +217,47 @@
           },
           {
             "type": "table",
-            "headers": ["Pillar", "Detail"],
+            "headers": [
+              "Pillar",
+              "Detail"
+            ],
             "rows": [
-              ["**Trigger**", "**1991 BoP/forex crisis** (gold pledged); PM **P.V. Narasimha Rao**, FM **Manmohan Singh**."],
-              ["**Liberalisation**", "**Abolished licensing, freed prices, reduced tariffs, deregulated interest rates**."],
-              ["**Privatisation**", "**Disinvestment of PSUs; reduced public-sector reservation**."],
-              ["**Globalisation**", "**FDI/FII, current-account convertibility, WTO integration, export orientation**."],
-              ["**Results**", "**Higher growth, foreign investment, services boom**; but inequality & farm-sector concerns."]
+              [
+                "**Trigger**",
+                "**1991 BoP/forex crisis** (gold pledged); PM **P.V. Narasimha Rao**, FM **Manmohan Singh**."
+              ],
+              [
+                "**Liberalisation**",
+                "**Abolished licensing, freed prices, reduced tariffs, deregulated interest rates**."
+              ],
+              [
+                "**Privatisation**",
+                "**Disinvestment of PSUs; reduced public-sector reservation**."
+              ],
+              [
+                "**Globalisation**",
+                "**FDI/FII, current-account convertibility, WTO integration, export orientation**."
+              ],
+              [
+                "**Results**",
+                "**Higher growth, foreign investment, services boom**; but inequality & farm-sector concerns."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: LPG reforms (1991)",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Trigger**: 1991 **Balance-of-Payments crisis** (forex for ~2 weeks, gold pledged); **Narasimha Rao–Manmohan Singh** reforms + IMF conditionalities.",
+              "**Liberalisation**: abolition of **industrial licensing** (except a few), **MRTP** eased, dereservation, interest-rate & trade liberalisation.",
+              "**Privatisation**: **disinvestment** of PSU equity, strategic sales, **PSU reform** (Maharatna/Navratna autonomy); recent **National Monetisation Pipeline & Asset Monetisation**.",
+              "**Globalisation**: rupee devaluation & later convertibility (current-account), **FDI/FII opening**, tariff cuts, **WTO membership (1995)**, integration into global value chains.",
+              "**Outcome**: higher growth (services/IT boom), forex build-up, poverty decline — but inequality, agrarian & informal-sector stress; **second-generation reforms** (GST, IBC, labour codes) followed."
             ]
           }
         ]
@@ -156,15 +283,28 @@
       "**Privatisation** — **disinvestment** of public-sector undertakings.",
       "**Globalisation** — **FDI, FII, convertibility, WTO membership (1995)**.",
       "The **rupee was devalued** and made convertible on the current account.",
-      "Reforms shifted India from a **controlled to a market-oriented** economy."
+      "Reforms shifted India from a **controlled to a market-oriented** economy.",
+      "**1991 BoP crisis** → **LPG reforms** (Narasimha Rao/Manmohan Singh) + IMF.",
+      "Liberalisation = **end of licence-permit raj**; Privatisation = **disinvestment**; Globalisation = **FDI/trade opening + WTO (1995)**.",
+      "PSU tiers: **Maharatna/Navratna/Miniratna**; recent **asset monetisation**.",
+      "Second-gen reforms: **GST (2017), IBC (2016), Labour Codes**."
     ],
     "mainsAngles": [
       "Assess the impact of the 1991 LPG reforms on the Indian economy."
     ],
     "glossary": [
-      {"term": "LPG reforms", "definition": "The 1991 Liberalisation, Privatisation and Globalisation policy overhaul."},
-      {"term": "Disinvestment", "definition": "The sale of government equity in public-sector undertakings."},
-      {"term": "Balance-of-payments crisis", "definition": "The 1991 forex shortage that forced India's economic reforms."}
+      {
+        "term": "LPG reforms",
+        "definition": "The 1991 Liberalisation, Privatisation and Globalisation policy overhaul."
+      },
+      {
+        "term": "Disinvestment",
+        "definition": "The sale of government equity in public-sector undertakings."
+      },
+      {
+        "term": "Balance-of-payments crisis",
+        "definition": "The 1991 forex shortage that forced India's economic reforms."
+      }
     ]
   },
   {
@@ -180,13 +320,46 @@
           },
           {
             "type": "table",
-            "headers": ["Concept", "Detail"],
+            "headers": [
+              "Concept",
+              "Detail"
+            ],
             "rows": [
-              ["**Balance of Payments**", "**Current account** (trade + invisibles) + **Capital account** (investment/loans); always 'balances'."],
-              ["**Trade balance**", "**Exports – imports**; India runs a **trade deficit** (esp. crude oil, gold)."],
-              ["**WTO (1995)**", "Succeeded **GATT**; HQ **Geneva**; agreements on goods (GATT), services (GATS), IP (TRIPS), agriculture (AoA)."],
-              ["**India's WTO stand**", "Defends **MSP/public stockholding (peace clause), farmer subsidies**; opposes rich-country farm subsidies."],
-              ["**Institutions**", "**IMF (BoP support), World Bank (development), WTO (trade rules)**."]
+              [
+                "**Balance of Payments**",
+                "**Current account** (trade + invisibles) + **Capital account** (investment/loans); always 'balances'."
+              ],
+              [
+                "**Trade balance**",
+                "**Exports – imports**; India runs a **trade deficit** (esp. crude oil, gold)."
+              ],
+              [
+                "**WTO (1995)**",
+                "Succeeded **GATT**; HQ **Geneva**; agreements on goods (GATT), services (GATS), IP (TRIPS), agriculture (AoA)."
+              ],
+              [
+                "**India's WTO stand**",
+                "Defends **MSP/public stockholding (peace clause), farmer subsidies**; opposes rich-country farm subsidies."
+              ],
+              [
+                "**Institutions**",
+                "**IMF (BoP support), World Bank (development), WTO (trade rules)**."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "🔎 Exam-ready deep coverage: trade, BoP & WTO",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Balance of Payments (BoP)**: **Current Account** (trade in goods+services, income, transfers/remittances — India has a **trade deficit** but large **services surplus & remittances**, world's top remittance recipient) + **Capital Account** (FDI, FPI, loans); India keeps **capital-account controls**.",
+              "**Forex reserves** (RBI-managed, among world's largest ~$600bn+); rupee is **market-determined/managed float**.",
+              "**Trade policy**: Foreign Trade Policy (DGFT), export promotion (SEZs, schemes replacing MEIS → **RoDTEP**), FTAs (UAE-CEPA, Australia-ECTA), 'Vocal for Local'.",
+              "**WTO (1995, Geneva)**: successor to **GATT**; principles — MFN, National Treatment; India's stances — **agriculture subsidies/food security ('peace clause'), public stockholding, patents (TRIPS & generic medicines), e-commerce moratorium**; disputes via the (currently stalled) Appellate Body."
             ]
           }
         ]
@@ -212,15 +385,28 @@
       "WTO agreements — **GATT (goods), GATS (services), TRIPS (IP), AoA (agriculture)**.",
       "India defends **public stockholding for food security** (Bali 'Peace Clause').",
       "**Invisibles** (software, remittances) help offset India's trade deficit.",
-      "Top exports — **petroleum products, gems, pharma, engineering goods, textiles**."
+      "Top exports — **petroleum products, gems, pharma, engineering goods, textiles**.",
+      "**BoP = Current Account + Capital Account**; India runs a **trade deficit** but big **services surplus & remittances** (world's top recipient).",
+      "**WTO (1995)** replaced **GATT**; principles **MFN & National Treatment**.",
+      "India's WTO issues: **food-security subsidies (peace clause), TRIPS/generic drugs, public stockholding**.",
+      "Export incentive now **RoDTEP** (replaced MEIS); FTAs — **UAE-CEPA, Australia-ECTA**."
     ],
     "mainsAngles": [
       "Discuss India's balance of payments and its stance in the WTO."
     ],
     "glossary": [
-      {"term": "Balance of Payments", "definition": "A record of all economic transactions between residents of a country and the rest of the world."},
-      {"term": "WTO", "definition": "The World Trade Organization (1995), which frames and enforces global trade rules."},
-      {"term": "TRIPS", "definition": "The WTO agreement on Trade-Related Aspects of Intellectual Property Rights."}
+      {
+        "term": "Balance of Payments",
+        "definition": "A record of all economic transactions between residents of a country and the rest of the world."
+      },
+      {
+        "term": "WTO",
+        "definition": "The World Trade Organization (1995), which frames and enforces global trade rules."
+      },
+      {
+        "term": "TRIPS",
+        "definition": "The WTO agreement on Trade-Related Aspects of Intellectual Property Rights."
+      }
     ]
   }
 ]
