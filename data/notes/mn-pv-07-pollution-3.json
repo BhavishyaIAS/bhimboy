@@ -8,11 +8,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Act", "Architecture", "Working & critique"],
+            "headers": [
+              "Act",
+              "Architecture",
+              "Working & critique"
+            ],
             "rows": [
-              ["**Environment (Protection) Act 1986**", "The **post-Bhopal umbrella** under Art 253 (Stockholm implementation): sweeping central powers — standards for emissions-effluents-hazardous substances, area restrictions (**eco-sensitive zones**, CRZ flow from it), entry-inspection, closure-directions (**Sec 5**), citizen suits (Sec 19); rules ecosystem — EIA-2006, CRZ, waste-rules families, noise rules all hang from it", "The enabling giant: flexible, delegated, judicially super-charged (Art 21 + PIL made it constitutional ecology); critiques — executive-heavy rule-making, penalties long trivial (**2023 Jan Vishwas amendments decriminalised minor violations into monetary penalties + adjudication officers** — deterrence-vs-ease debate), implementation via understaffed boards"],
-              ["**Forest (Conservation) Act 1980** (now **Van (Sanrakshan Evam Samvardhan) Adhiniyam**)", "**Sec 2**: no de-reservation/diversion of forest land for non-forest use without CENTRAL approval; compensatory afforestation + NPV payments; **Godavarman (1996-)** expanded 'forest' to dictionary meaning + the continuing mandamus that governs Indian forests", "Slowed diversion from ~1.5 lakh ha/yr (pre-1980) to ~1.5-2 thousand-ha-scale annual grants — the great brake; critiques — CAMPA plantation quality, and the **2023 amendment's** exemptions (border-security linear projects, zoos-safaris, plantations on private land defined out) contested in the SC (status-quo-ish interim orders on 'forest' meaning)"],
-              ["**Wildlife (Protection) Act 1972**", "**Schedules** (2022 amendment rationalised to **4** from 6: I-II protection tiers, III vermin-adjacent handling, IV CITES-implementation schedule), **protected-area ladder — National Parks, Sanctuaries, Conservation & Community Reserves**; authorities — NBWL, **NTCA (statutory 2006; tiger reserves ~55+)**, WCCB; hunting-trade prohibitions", "The species-and-spaces law: tiger recovery (~3,680, 2022 census — 75% of the world's), PA network ~5.3% of area; critiques — inviolate-space vs FRA rights tension, vermin-declaration politics, chronic vacancy-funding gaps"]
+              [
+                "**Environment (Protection) Act 1986**",
+                "The **post-Bhopal umbrella** under Art 253 (Stockholm implementation): sweeping central powers — standards for emissions-effluents-hazardous substances, area restrictions (**eco-sensitive zones**, CRZ flow from it), entry-inspection, closure-directions (**Sec 5**), citizen suits (Sec 19); rules ecosystem — EIA-2006, CRZ, waste-rules families, noise rules all hang from it",
+                "The enabling giant: flexible, delegated, judicially super-charged (Art 21 + PIL made it constitutional ecology); critiques — executive-heavy rule-making, penalties long trivial (**2023 Jan Vishwas amendments decriminalised minor violations into monetary penalties + adjudication officers** — deterrence-vs-ease debate), implementation via understaffed boards"
+              ],
+              [
+                "**Forest (Conservation) Act 1980** (now **Van (Sanrakshan Evam Samvardhan) Adhiniyam**)",
+                "**Sec 2**: no de-reservation/diversion of forest land for non-forest use without CENTRAL approval; compensatory afforestation + NPV payments; **Godavarman (1996-)** expanded 'forest' to dictionary meaning + the continuing mandamus that governs Indian forests",
+                "Slowed diversion from ~1.5 lakh ha/yr (pre-1980) to ~1.5-2 thousand-ha-scale annual grants — the great brake; critiques — CAMPA plantation quality, and the **2023 amendment's** exemptions (border-security linear projects, zoos-safaris, plantations on private land defined out) contested in the SC (status-quo-ish interim orders on 'forest' meaning)"
+              ],
+              [
+                "**Wildlife (Protection) Act 1972**",
+                "**Schedules** (2022 amendment rationalised to **4** from 6: I-II protection tiers, III vermin-adjacent handling, IV CITES-implementation schedule), **protected-area ladder — National Parks, Sanctuaries, Conservation & Community Reserves**; authorities — NBWL, **NTCA (statutory 2006; tiger reserves ~55+)**, WCCB; hunting-trade prohibitions",
+                "The species-and-spaces law: tiger recovery (~3,680, 2022 census — 75% of the world's), PA network ~5.3% of area; critiques — inviolate-space vs FRA rights tension, vermin-declaration politics, chronic vacancy-funding gaps"
+              ]
             ]
           }
         ]
@@ -51,6 +67,49 @@
             "text": "Exam tip: Godavarman's dictionary-forest and the 2023 amendment's redefinition tension is the live controversy to cite; NSTR-as-India's-largest-tiger-reserve is AP's flagship WPA fact."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the domestic environmental statute trio",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Statute",
+              "Year",
+              "Core"
+            ],
+            "rows": [
+              [
+                "**Water (Prevention & Control of Pollution) Act**",
+                "1974",
+                "Created CPCB/SPCBs; consent-to-establish/operate"
+              ],
+              [
+                "**Air (Prevention & Control of Pollution) Act**",
+                "1981",
+                "Emission standards; extends Board powers to air"
+              ],
+              [
+                "**Environment (Protection) Act**",
+                "1986",
+                "Umbrella law post-Bhopal; EIA, standards, hazardous-waste rules; wide central powers"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The enforcement layer:** the **National Green Tribunal (2010)** for speedy environmental justice; CPCB/SPCB consent regime; the **precautionary & polluter-pays principles** and **absolute liability (*M.C. Mehta / Oleum gas leak*)**.",
+              "**Recent shift:** the **Jan Vishwas Act (2023)** decriminalised many minor environmental offences (penalties over prosecution) — debated as ease-of-compliance vs dilution.",
+              "**AP register:** industrial-cluster pollution (pharma/Visakhapatnam), the **LG Polymers styrene leak (2020)** as a live case, and coastal/aquaculture effluent management."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**EPA 1986** enacted after the **Bhopal gas tragedy (1984)**; the umbrella environmental law.",
+          "**NGT** established 2010; **absolute liability** laid down in the *Oleum gas leak / M.C. Mehta* case (1987)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -70,12 +129,30 @@
       "Audit AP's experience under each act — LG Polymers, Polavaram's diversion, and the NSTR-Papikonda estate."
     ],
     "glossary": [
-      { "term": "Eco-sensitive zone", "definition": "EPA-notified buffer around protected areas with regulated activities — the shock-absorber ring." },
-      { "term": "Net Present Value (forest)", "definition": "The ecosystem-service payment charged on forest diversion in addition to compensatory afforestation." },
-      { "term": "Continuing mandamus", "definition": "The Godavarman device — the SC retaining the forest case to issue rolling nationwide directions since 1996." },
-      { "term": "National Park vs Sanctuary", "definition": "Both WPA protected areas; parks admit no rights and stricter control, sanctuaries may permit regulated rights." },
-      { "term": "NTCA", "definition": "National Tiger Conservation Authority (2006) — statutory steward of Project Tiger's reserves and corridors." },
-      { "term": "Critical Wildlife Habitat", "definition": "FRA's own inviolate-area category requiring consent-based relocation — the unused reconciliation clause." }
+      {
+        "term": "Eco-sensitive zone",
+        "definition": "EPA-notified buffer around protected areas with regulated activities — the shock-absorber ring."
+      },
+      {
+        "term": "Net Present Value (forest)",
+        "definition": "The ecosystem-service payment charged on forest diversion in addition to compensatory afforestation."
+      },
+      {
+        "term": "Continuing mandamus",
+        "definition": "The Godavarman device — the SC retaining the forest case to issue rolling nationwide directions since 1996."
+      },
+      {
+        "term": "National Park vs Sanctuary",
+        "definition": "Both WPA protected areas; parks admit no rights and stricter control, sanctuaries may permit regulated rights."
+      },
+      {
+        "term": "NTCA",
+        "definition": "National Tiger Conservation Authority (2006) — statutory steward of Project Tiger's reserves and corridors."
+      },
+      {
+        "term": "Critical Wildlife Habitat",
+        "definition": "FRA's own inviolate-area category requiring consent-based relocation — the unused reconciliation clause."
+      }
     ]
   },
   {
@@ -87,12 +164,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Instrument", "Content", "Assessment"],
+            "headers": [
+              "Instrument",
+              "Content",
+              "Assessment"
+            ],
             "rows": [
-              ["**Biological Diversity Act 2002 (amended 2023)**", "CBD's domestic child: **three-tier machinery — NBA (national), State Biodiversity Boards, ~2.7 lakh Biodiversity Management Committees** with **People's Biodiversity Registers**; **access & benefit-sharing (ABS)** for bio-resources (Nagoya-aligned); **Biodiversity Heritage Sites**; 2023 amendment — decriminalisation, AYUSH-practitioner exemptions, faster approvals (bio-trade-vs-biopiracy debate)", "Machinery built, benefit-sharing thin (₹-crore trickles vs use scale); PBRs patchy; the amendment eased business and worried conservationists — balance both"],
-              ["**COP21 — Paris Agreement (2015)**", "**Bottom-up NDCs** + 5-yearly **global stocktake (first: Dubai 2023 — 'transition away from fossil fuels')** + ratchet; goals — **well below 2°C, pursue 1.5°C**; finance-adaptation-loss&damage pillars; **Article 6** carbon markets operationalised (COP26-29)", "Universality achieved where Kyoto leaked; the gap — NDCs sum to ~2.5-2.9°C: ambition-ratchet is the design bet; India's Panchamrit + LiFE the national face"],
-              ["**SDGs (2015)**", "**17 goals-169 targets, 2030 horizon**; integrated (indivisible) design; India's localisation — NITI index, state-district frames, budget-tagging pilots", "Mid-point audit (2023 summit): most targets off-track globally (~12-15% on track); financing gap ~$4 tn; yet the framework's convening power endures — 'the world's shared syllabus'"],
-              ["**National Disaster Management Plan 2016 (rev. 2019)**", "India's **first national DM plan**, Sendai-aligned: responsibility matrices for **all phases across ministries**, the **five thematic areas** (understanding risk, IA coordination, DRR investment, capacity, climate-risk integration in 2019), no separate budget — 'mainstreaming' logic", "Comprehensive on paper; the G-092 critique applies — funding bias to response, DDMA capacity, plan-to-drill distance; its Sendai-target mapping is the exam-quotable feature"]
+              [
+                "**Biological Diversity Act 2002 (amended 2023)**",
+                "CBD's domestic child: **three-tier machinery — NBA (national), State Biodiversity Boards, ~2.7 lakh Biodiversity Management Committees** with **People's Biodiversity Registers**; **access & benefit-sharing (ABS)** for bio-resources (Nagoya-aligned); **Biodiversity Heritage Sites**; 2023 amendment — decriminalisation, AYUSH-practitioner exemptions, faster approvals (bio-trade-vs-biopiracy debate)",
+                "Machinery built, benefit-sharing thin (₹-crore trickles vs use scale); PBRs patchy; the amendment eased business and worried conservationists — balance both"
+              ],
+              [
+                "**COP21 — Paris Agreement (2015)**",
+                "**Bottom-up NDCs** + 5-yearly **global stocktake (first: Dubai 2023 — 'transition away from fossil fuels')** + ratchet; goals — **well below 2°C, pursue 1.5°C**; finance-adaptation-loss&damage pillars; **Article 6** carbon markets operationalised (COP26-29)",
+                "Universality achieved where Kyoto leaked; the gap — NDCs sum to ~2.5-2.9°C: ambition-ratchet is the design bet; India's Panchamrit + LiFE the national face"
+              ],
+              [
+                "**SDGs (2015)**",
+                "**17 goals-169 targets, 2030 horizon**; integrated (indivisible) design; India's localisation — NITI index, state-district frames, budget-tagging pilots",
+                "Mid-point audit (2023 summit): most targets off-track globally (~12-15% on track); financing gap ~$4 tn; yet the framework's convening power endures — 'the world's shared syllabus'"
+              ],
+              [
+                "**National Disaster Management Plan 2016 (rev. 2019)**",
+                "India's **first national DM plan**, Sendai-aligned: responsibility matrices for **all phases across ministries**, the **five thematic areas** (understanding risk, IA coordination, DRR investment, capacity, climate-risk integration in 2019), no separate budget — 'mainstreaming' logic",
+                "Comprehensive on paper; the G-092 critique applies — funding bias to response, DDMA capacity, plan-to-drill distance; its Sendai-target mapping is the exam-quotable feature"
+              ]
             ]
           }
         ]
@@ -131,6 +228,26 @@
             "text": "Exam tip: 'Frameworks govern by target and review, and fail at the last mile' — apply the sentence to whichever of the four the question picks, then prove it with its specific machinery."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — biodiversity law, Paris, SDGs & DRR",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Biodiversity law:** the **Biological Diversity Act 2002 (amended 2023)** — NBA/SBBs/BMCs, access-and-benefit-sharing (ABS) from **Nagoya Protocol**; the **Wildlife (Protection) Act 1972** (amended 2022) and **Forest Conservation Act 1980 (amended 2023)**.",
+              "**Paris Agreement:** bottom-up NDCs, global stocktake (first at COP28), and India's Panchamrit; the shift from Kyoto's binding top-down model.",
+              "**SDGs (2015-30):** 17 goals; India's **SDG India Index (NITI Aayog)** tracks state performance — link environmental SDGs (13 climate, 14 life-below-water, 15 life-on-land) to policy.",
+              "**Disaster plan:** the **National Disaster Management Plan (2016, aligned to Sendai)** — the prevention-preparedness-response-recovery cycle. **AP register:** rich Eastern Ghats/coastal biodiversity, cyclone DRR leadership."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Biological Diversity Act 2002** — three-tier: National Biodiversity Authority, State Boards, Biodiversity Management Committees.",
+          "**Nagoya Protocol** — access and benefit-sharing of genetic resources.",
+          "**SDG India Index** — published by NITI Aayog."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -150,12 +267,30 @@
       "Read the NDMP 2016 against Sendai's four priorities and AP's cyclone practice."
     ],
     "glossary": [
-      { "term": "Biodiversity Management Committee", "definition": "The panchayat-level body documenting local biodiversity (People's Registers) and channelling benefit-sharing — the Act's last mile." },
-      { "term": "Access and Benefit Sharing", "definition": "Payments/consent for commercial use of bio-resources and knowledge — CBD-Nagoya's equity engine, thin in practice." },
-      { "term": "NDC", "definition": "Nationally Determined Contribution — each country's self-set Paris pledge, subject to five-yearly ratcheting." },
-      { "term": "Global Stocktake", "definition": "Paris's collective progress audit every five years — Dubai 2023's 'transition away from fossil fuels' the first verdict." },
-      { "term": "SDG localisation", "definition": "Translating the 2030 agenda into state-district indices, plans and budgets — India's NITI-led method." },
-      { "term": "Mainstreaming (DRR)", "definition": "Embedding risk-reduction in every ministry's schemes rather than a separate budget — the NDMP's financing philosophy." }
+      {
+        "term": "Biodiversity Management Committee",
+        "definition": "The panchayat-level body documenting local biodiversity (People's Registers) and channelling benefit-sharing — the Act's last mile."
+      },
+      {
+        "term": "Access and Benefit Sharing",
+        "definition": "Payments/consent for commercial use of bio-resources and knowledge — CBD-Nagoya's equity engine, thin in practice."
+      },
+      {
+        "term": "NDC",
+        "definition": "Nationally Determined Contribution — each country's self-set Paris pledge, subject to five-yearly ratcheting."
+      },
+      {
+        "term": "Global Stocktake",
+        "definition": "Paris's collective progress audit every five years — Dubai 2023's 'transition away from fossil fuels' the first verdict."
+      },
+      {
+        "term": "SDG localisation",
+        "definition": "Translating the 2030 agenda into state-district indices, plans and budgets — India's NITI-led method."
+      },
+      {
+        "term": "Mainstreaming (DRR)",
+        "definition": "Embedding risk-reduction in every ministry's schemes rather than a separate budget — the NDMP's financing philosophy."
+      }
     ]
   },
   {
@@ -167,11 +302,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Revolution", "Architecture", "Scorecard"],
+            "headers": [
+              "Revolution",
+              "Architecture",
+              "Scorecard"
+            ],
             "rows": [
-              ["**White (Operation Flood, 1970-96)**", "**Verghese Kurien/NDDB, Anand-Amul pattern**: village cooperative → district union → state federation; farmer-owned processing-marketing; EEC dairy-aid monetised into investment; **India → world's largest milk producer (~230+ MT, ~24% global)**", "The institutional revolution: smallholder-women-centred (dairying's female workforce), price-spiral-free nutrition gains; critiques — regional skew (west-north strong), productivity per animal low, and the **AP note: strong buffalo economy (Chittoor-Godavari belts), cooperative revival attempts amid private-dairy dominance (Amul-AP entry MoUs, Sangam-Vijaya legacies)**"],
-              ["**Green Revolution (1960s-80s) — and its 'evergreen' correction**", "**HYV seeds (Borlaug wheat; IR rice) + irrigation + fertiliser + procurement-MSP**; **M.S. Swaminathan** the Indian architect; wheat-rice belts (Punjab-Haryana-west UP; the deltas for rice)", "Food security won (ship-to-mouth → surplus exporter); costs — water mining, soil fatigue, pesticide load, regional-crop skew (the ED-018/IG-028 files); **Swaminathan's own 'Evergreen Revolution'** = productivity WITH ecology (the bridge to natural farming, millets, precision agri); **AP: delta rice bowl + the APCNF corrective born on the same soil**"],
-              ["**Green-Pharmacy Revolution**", "The **medicinal-plants economy**: cultivation-conservation-processing of herbal pharmacopoeia — **National Medicinal Plants Board (2000)**, AYUSH mission's cultivation clusters, GAP/GACP standards, ABS under the BD Act; India's ~8,000-species ethnobotany, ~₹ multi-thousand-crore AYUSH-herbal industry (post-COVID surge)", "Promise — farm diversification (high-value/acre), conservation-through-cultivation (relieving wild harvest ~90% of supply), export (with quality-standardisation the gate); risks — adulteration, unsustainable wild collection, biopiracy (the **neem-turmeric patent battles won by India** — cite them); **AP assets: Eastern-Ghats ethnobotany (Araku-Paderu belts), red-sanders adjacency, Tirupati's herbal-research institutions (SVIMS-adjacent ayurveda; TTD's herbal gardens)**"]
+              [
+                "**White (Operation Flood, 1970-96)**",
+                "**Verghese Kurien/NDDB, Anand-Amul pattern**: village cooperative → district union → state federation; farmer-owned processing-marketing; EEC dairy-aid monetised into investment; **India → world's largest milk producer (~230+ MT, ~24% global)**",
+                "The institutional revolution: smallholder-women-centred (dairying's female workforce), price-spiral-free nutrition gains; critiques — regional skew (west-north strong), productivity per animal low, and the **AP note: strong buffalo economy (Chittoor-Godavari belts), cooperative revival attempts amid private-dairy dominance (Amul-AP entry MoUs, Sangam-Vijaya legacies)**"
+              ],
+              [
+                "**Green Revolution (1960s-80s) — and its 'evergreen' correction**",
+                "**HYV seeds (Borlaug wheat; IR rice) + irrigation + fertiliser + procurement-MSP**; **M.S. Swaminathan** the Indian architect; wheat-rice belts (Punjab-Haryana-west UP; the deltas for rice)",
+                "Food security won (ship-to-mouth → surplus exporter); costs — water mining, soil fatigue, pesticide load, regional-crop skew (the ED-018/IG-028 files); **Swaminathan's own 'Evergreen Revolution'** = productivity WITH ecology (the bridge to natural farming, millets, precision agri); **AP: delta rice bowl + the APCNF corrective born on the same soil**"
+              ],
+              [
+                "**Green-Pharmacy Revolution**",
+                "The **medicinal-plants economy**: cultivation-conservation-processing of herbal pharmacopoeia — **National Medicinal Plants Board (2000)**, AYUSH mission's cultivation clusters, GAP/GACP standards, ABS under the BD Act; India's ~8,000-species ethnobotany, ~₹ multi-thousand-crore AYUSH-herbal industry (post-COVID surge)",
+                "Promise — farm diversification (high-value/acre), conservation-through-cultivation (relieving wild harvest ~90% of supply), export (with quality-standardisation the gate); risks — adulteration, unsustainable wild collection, biopiracy (the **neem-turmeric patent battles won by India** — cite them); **AP assets: Eastern-Ghats ethnobotany (Araku-Paderu belts), red-sanders adjacency, Tirupati's herbal-research institutions (SVIMS-adjacent ayurveda; TTD's herbal gardens)**"
+              ]
             ]
           }
         ]
@@ -211,6 +362,58 @@
             "text": "Exam tip: 'The Green Revolution changed seeds, the White changed ownership, the Green-Pharmacy changes what a farm is for' — the closing line that turns three summaries into one thesis."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the 'revolutions', compared",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Revolution",
+              "Field",
+              "Key figure / note"
+            ],
+            "rows": [
+              [
+                "**White (Operation Flood)**",
+                "Milk/dairy — world's largest producer",
+                "**Verghese Kurien**; Amul cooperative model"
+              ],
+              [
+                "**Green**",
+                "Foodgrains (wheat/rice)",
+                "Swaminathan/Borlaug; self-sufficiency + ecological costs"
+              ],
+              [
+                "**Blue**",
+                "Fisheries/aquaculture",
+                "AP leads; PM Matsya Sampada Yojana"
+              ],
+              [
+                "**Yellow**",
+                "Oilseeds",
+                "Reducing edible-oil import dependence (NMEO)"
+              ],
+              [
+                "**Gene/Green-pharmacy**",
+                "Biotech/pharma",
+                "India as 'pharmacy of the world' — vaccines & generics"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**What 'revolution' means:** a technology-plus-institutions leap (seeds+MSP; cooperatives+cold chain) that transforms output — not technology alone.",
+              "**The next revolution:** an **'Evergreen/Rainbow Revolution'** integrating productivity with sustainability, nutrition and climate resilience."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**White Revolution / Operation Flood** — Verghese Kurien; India is the world's largest milk producer.",
+          "**Blue Revolution** — fisheries; **Yellow Revolution** — oilseeds."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -230,12 +433,30 @@
       "AP hosts all three arcs — delta rice to APCNF, buffalo belts, Ghats ethnobotany: write the state's triple narrative."
     ],
     "glossary": [
-      { "term": "Anand pattern", "definition": "The three-tier farmer-owned dairy cooperative structure (village-district-state) that Operation Flood nationalised." },
-      { "term": "Operation Flood", "definition": "NDDB's 1970-96 programme replicating Amul nationwide — the White Revolution's vehicle." },
-      { "term": "Evergreen Revolution", "definition": "Swaminathan's call for productivity gains without ecological harm — the Green Revolution's sustainability sequel." },
-      { "term": "Green Pharmacy", "definition": "The medicinal-plants cultivation-and-value economy — farming for health products with conservation co-benefits." },
-      { "term": "Biopiracy", "definition": "Patenting traditional knowledge or bio-resources without consent or benefit-sharing — fought via TKDL and ABS." },
-      { "term": "GACP", "definition": "Good Agricultural and Collection Practices for medicinal plants — the quality gate to pharmacopoeial and export markets." }
+      {
+        "term": "Anand pattern",
+        "definition": "The three-tier farmer-owned dairy cooperative structure (village-district-state) that Operation Flood nationalised."
+      },
+      {
+        "term": "Operation Flood",
+        "definition": "NDDB's 1970-96 programme replicating Amul nationwide — the White Revolution's vehicle."
+      },
+      {
+        "term": "Evergreen Revolution",
+        "definition": "Swaminathan's call for productivity gains without ecological harm — the Green Revolution's sustainability sequel."
+      },
+      {
+        "term": "Green Pharmacy",
+        "definition": "The medicinal-plants cultivation-and-value economy — farming for health products with conservation co-benefits."
+      },
+      {
+        "term": "Biopiracy",
+        "definition": "Patenting traditional knowledge or bio-resources without consent or benefit-sharing — fought via TKDL and ABS."
+      },
+      {
+        "term": "GACP",
+        "definition": "Good Agricultural and Collection Practices for medicinal plants — the quality gate to pharmacopoeial and export markets."
+      }
     ]
   }
 ]

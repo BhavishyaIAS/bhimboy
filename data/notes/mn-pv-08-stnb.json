@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Life domain", "Science → technology → innovation chain", "Impact"],
+            "headers": [
+              "Life domain",
+              "Science → technology → innovation chain",
+              "Impact"
+            ],
             "rows": [
-              ["Health", "Genomics → diagnostics-vaccines → **CoWIN-delivered Covishield/Covaxin at scale**; telemedicine (eSanjeevani)", "Life-years saved at low per-capita cost — the frugal-health model"],
-              ["Agriculture", "Plant science → HYV-Bt-drones → **Kisan drones, weather-DPI advisories, soil cards**", "Green-to-precision agriculture (the ADI files' tech spine)"],
-              ["Finance", "Cryptography-networks → Aadhaar-UPI → **real-time payments for a billion**", "Inclusion-at-scale — India's signature innovation"],
-              ["Energy", "Materials-electrochemistry → solar-storage-hydrogen → cost-collapsed clean power", "The transition's enabler (E2 files)"],
-              ["Everyday", "Sensors-AI → smartphones-maps-vernacular voice (**Bhashini**) → services in the pocket", "The digital-life transformation"]
+              [
+                "Health",
+                "Genomics → diagnostics-vaccines → **CoWIN-delivered Covishield/Covaxin at scale**; telemedicine (eSanjeevani)",
+                "Life-years saved at low per-capita cost — the frugal-health model"
+              ],
+              [
+                "Agriculture",
+                "Plant science → HYV-Bt-drones → **Kisan drones, weather-DPI advisories, soil cards**",
+                "Green-to-precision agriculture (the ADI files' tech spine)"
+              ],
+              [
+                "Finance",
+                "Cryptography-networks → Aadhaar-UPI → **real-time payments for a billion**",
+                "Inclusion-at-scale — India's signature innovation"
+              ],
+              [
+                "Energy",
+                "Materials-electrochemistry → solar-storage-hydrogen → cost-collapsed clean power",
+                "The transition's enabler (E2 files)"
+              ],
+              [
+                "Everyday",
+                "Sensors-AI → smartphones-maps-vernacular voice (**Bhashini**) → services in the pocket",
+                "The digital-life transformation"
+              ]
             ]
           }
         ]
@@ -58,6 +82,25 @@
             "text": "Exam tip: Open by separating science/technology/innovation in one sentence each — most candidates conflate them, and the distinction alone earns the framing mark; close on frugal innovation as India's model."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the innovation ecosystem, measured",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The triple helix:** academia + industry + government co-produce innovation; India's weak link is **low gross R&D spend (~0.65% of GDP** vs 2-4% in leaders) and low private-sector share of R&D.",
+              "**Where India ranks:** ~**39-40th on the Global Innovation Index (WIPO)** and a top-3 startup/unicorn ecosystem — strong on frugal ('jugaad') and digital innovation, weak on deep-tech patents.",
+              "**Ecosystem builders:** **Atal Innovation Mission (AIM), Startup India, ANRF (Anusandhan National Research Foundation, 2023) to fund university research, PLI, and technology-business incubators**.",
+              "**Craft:** diagnose India's paradox — world-class talent and IT/space achievements alongside low R&D intensity — and prescribe higher R&D spend, university-industry linkage and IP support."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**ANRF (Anusandhan National Research Foundation), 2023** — apex body to fund and coordinate research (subsumes SERB).",
+          "India's gross R&D expenditure is ~**0.65% of GDP**; **Global Innovation Index** published by WIPO."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +120,30 @@
       "Raise R&D from 0.65% — argue the private-participation and NRF strategy for a research-intensive India."
     ],
     "glossary": [
-      { "term": "Triple helix", "definition": "The academia-industry-government interaction model driving innovation ecosystems (Etzkowitz)." },
-      { "term": "Frugal innovation", "definition": "Delivering high value at low cost for resource-constrained users — India's jugaad formalised (Mangalyaan, UPI)." },
-      { "term": "Valley of death", "definition": "The funding-commercialisation gap between research output and market product where innovations die." },
-      { "term": "GERD", "definition": "Gross Expenditure on R&D as a share of GDP — India's ~0.65% the binding input constraint." },
-      { "term": "Diffusion", "definition": "The spread of an innovation through a population — the 'so-what' completing invention." },
-      { "term": "ANRF", "definition": "Anusandhan National Research Foundation (2023) — India's apex research-funding-and-coordination body seeding private R&D." }
+      {
+        "term": "Triple helix",
+        "definition": "The academia-industry-government interaction model driving innovation ecosystems (Etzkowitz)."
+      },
+      {
+        "term": "Frugal innovation",
+        "definition": "Delivering high value at low cost for resource-constrained users — India's jugaad formalised (Mangalyaan, UPI)."
+      },
+      {
+        "term": "Valley of death",
+        "definition": "The funding-commercialisation gap between research output and market product where innovations die."
+      },
+      {
+        "term": "GERD",
+        "definition": "Gross Expenditure on R&D as a share of GDP — India's ~0.65% the binding input constraint."
+      },
+      {
+        "term": "Diffusion",
+        "definition": "The spread of an innovation through a population — the 'so-what' completing invention."
+      },
+      {
+        "term": "ANRF",
+        "definition": "Anusandhan National Research Foundation (2023) — India's apex research-funding-and-coordination body seeding private R&D."
+      }
     ]
   },
   {
@@ -94,14 +155,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Everyday domain", "Enabling S&T", "Diffusion mechanism"],
+            "headers": [
+              "Everyday domain",
+              "Enabling S&T",
+              "Diffusion mechanism"
+            ],
             "rows": [
-              ["Communication", "Semiconductors, optical fibre, 5G, cloud", "Cheapest data on earth → a billion smartphones"],
-              ["Payments-identity", "Cryptography, biometrics (Aadhaar), APIs (UPI)", "DPI — the government-as-platform model"],
-              ["Health", "Diagnostics, mRNA/vector vaccines, wearables, telemedicine", "CoWIN, eSanjeevani, Jan Aushadhi generics"],
-              ["Food", "HYV/hybrid seeds, cold chain, food fortification, GM (Bt cotton)", "PDS, fortified rice, e-NAM"],
-              ["Home-mobility", "LED (UJALA), induction, EVs, GPS-maps, LPG (Ujjwala)", "Demand-aggregation procurement, subsidy-DBT"],
-              ["Weather-safety", "Doppler radar, satellites, early-warning apps", "SACHET alerts, cyclone doctrine"]
+              [
+                "Communication",
+                "Semiconductors, optical fibre, 5G, cloud",
+                "Cheapest data on earth → a billion smartphones"
+              ],
+              [
+                "Payments-identity",
+                "Cryptography, biometrics (Aadhaar), APIs (UPI)",
+                "DPI — the government-as-platform model"
+              ],
+              [
+                "Health",
+                "Diagnostics, mRNA/vector vaccines, wearables, telemedicine",
+                "CoWIN, eSanjeevani, Jan Aushadhi generics"
+              ],
+              [
+                "Food",
+                "HYV/hybrid seeds, cold chain, food fortification, GM (Bt cotton)",
+                "PDS, fortified rice, e-NAM"
+              ],
+              [
+                "Home-mobility",
+                "LED (UJALA), induction, EVs, GPS-maps, LPG (Ujjwala)",
+                "Demand-aggregation procurement, subsidy-DBT"
+              ],
+              [
+                "Weather-safety",
+                "Doppler radar, satellites, early-warning apps",
+                "SACHET alerts, cyclone doctrine"
+              ]
             ]
           }
         ]
@@ -141,6 +230,25 @@
             "text": "Exam tip: Memorise the four policy years and each one's one-word essence (institutions / self-reliance / investment / inclusion); then STIP's atmanirbhar-and-open turn — that ladder is a guaranteed scorer."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — STI policy evolution",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The policy arc:** **Scientific Policy Resolution 1958 → Technology Policy Statement 1983 → Science & Technology Policy 2003 → STI Policy 2013 (India among top-5 scientific powers) → draft STIP 2020** (decentralised, inclusive, 'people-centric').",
+              "**Everyday S&T:** health (vaccines, diagnostics), agriculture (HYV, biotech), communication (mobile/UPI), transport, disaster warning — S&T as the invisible infrastructure of daily life.",
+              "**Mission-mode programmes:** **National Quantum Mission, IndiaAI Mission, National Green Hydrogen Mission, Semiconductor Mission, Deep Ocean Mission, National Supercomputing Mission (PARAM)**.",
+              "**Governance:** PSA (Principal Scientific Adviser), DST/DBT/CSIR/DAE/DoS/ICMR — the apex S&T architecture."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**National Quantum Mission (2023)** and **National Supercomputing Mission (PARAM series)**.",
+          "**Deep Ocean Mission** — 'Samudrayaan' crewed submersible for deep-sea exploration."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -160,12 +268,30 @@
       "Science for the people, people for science — assess the 2013 policy's inclusion promise against outcomes."
     ],
     "glossary": [
-      { "term": "STIP", "definition": "The draft Science, Technology and Innovation Policy (2020-21) — decentralised, open-science, self-reliant, doubling R&D." },
-      { "term": "Mission mode", "definition": "Time-bound, funded, outcome-focused delivery of a national S&T goal (Quantum, AI, Semicon) versus open-ended policy." },
-      { "term": "Atmanirbharta (tech)", "definition": "Strategic-sector self-reliance — the capability-sovereignty thread from atomic energy to semiconductors." },
-      { "term": "Open science", "definition": "STIP's push for shared data, publications and infrastructure (the 'one nation, one subscription' idea)." },
-      { "term": "GERD doubling", "definition": "STIP's core quantitative target — lifting R&D from ~0.65% toward 2% of GDP." },
-      { "term": "Demand aggregation", "definition": "Pooling public demand (UJALA LEDs) to crash prices — a diffusion mechanism for everyday tech." }
+      {
+        "term": "STIP",
+        "definition": "The draft Science, Technology and Innovation Policy (2020-21) — decentralised, open-science, self-reliant, doubling R&D."
+      },
+      {
+        "term": "Mission mode",
+        "definition": "Time-bound, funded, outcome-focused delivery of a national S&T goal (Quantum, AI, Semicon) versus open-ended policy."
+      },
+      {
+        "term": "Atmanirbharta (tech)",
+        "definition": "Strategic-sector self-reliance — the capability-sovereignty thread from atomic energy to semiconductors."
+      },
+      {
+        "term": "Open science",
+        "definition": "STIP's push for shared data, publications and infrastructure (the 'one nation, one subscription' idea)."
+      },
+      {
+        "term": "GERD doubling",
+        "definition": "STIP's core quantitative target — lifting R&D from ~0.65% toward 2% of GDP."
+      },
+      {
+        "term": "Demand aggregation",
+        "definition": "Pooling public demand (UJALA LEDs) to crash prices — a diffusion mechanism for everyday tech."
+      }
     ]
   },
   {
@@ -177,12 +303,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Era", "Contributions"],
+            "headers": [
+              "Era",
+              "Contributions"
+            ],
             "rows": [
-              ["**Ancient-medieval**", "Zero & decimal place-value, **Aryabhata** (heliocentric hints, π, trigonometry), **Brahmagupta** (zero rules), **Bhaskara**, Kerala school (infinite series pre-Newton — Madhava), **Sushruta** (surgery) & **Charaka** (medicine), metallurgy (the rust-free Delhi Iron Pillar), **Nagarjuna** (chemistry)"],
-              ["**Colonial-modern giants**", "**J.C. Bose** (plant response, radio waves), **C.V. Raman** (Raman Effect — Nobel 1930), **S.N. Bose** (Bose-Einstein statistics; bosons), **Ramanujan** (number theory), **Meghnad Saha** (ionisation equation), **Homi Bhabha** (nuclear), **Vikram Sarabhai** (space), **M.S. Swaminathan** (Green Revolution), **Har Gobind Khorana** (Nobel, genetics)"],
-              ["**Independent-India programmes**", "**Space (Chandrayaan-3's south-pole landing 2023, Mangalyaan, Aditya-L1, ~430+ foreign satellites launched), Nuclear (three-stage, PFBR), Green Revolution, IT-services, pharma ('pharmacy of the world' — ~20% of global generics, 60% of vaccines), DPI (UPI-Aadhaar), missiles (Agni-BrahMos)**"],
-              ["**Frontier now**", "5G/6G, quantum, AI (IndiaAI), semiconductors, green hydrogen, biotech (indigenous vaccines — Covaxin, ZyCoV-D DNA vaccine, cervical-cancer vaccine CERVAVAC), deep ocean, SMRs"]
+              [
+                "**Ancient-medieval**",
+                "Zero & decimal place-value, **Aryabhata** (heliocentric hints, π, trigonometry), **Brahmagupta** (zero rules), **Bhaskara**, Kerala school (infinite series pre-Newton — Madhava), **Sushruta** (surgery) & **Charaka** (medicine), metallurgy (the rust-free Delhi Iron Pillar), **Nagarjuna** (chemistry)"
+              ],
+              [
+                "**Colonial-modern giants**",
+                "**J.C. Bose** (plant response, radio waves), **C.V. Raman** (Raman Effect — Nobel 1930), **S.N. Bose** (Bose-Einstein statistics; bosons), **Ramanujan** (number theory), **Meghnad Saha** (ionisation equation), **Homi Bhabha** (nuclear), **Vikram Sarabhai** (space), **M.S. Swaminathan** (Green Revolution), **Har Gobind Khorana** (Nobel, genetics)"
+              ],
+              [
+                "**Independent-India programmes**",
+                "**Space (Chandrayaan-3's south-pole landing 2023, Mangalyaan, Aditya-L1, ~430+ foreign satellites launched), Nuclear (three-stage, PFBR), Green Revolution, IT-services, pharma ('pharmacy of the world' — ~20% of global generics, 60% of vaccines), DPI (UPI-Aadhaar), missiles (Agni-BrahMos)**"
+              ],
+              [
+                "**Frontier now**",
+                "5G/6G, quantum, AI (IndiaAI), semiconductors, green hydrogen, biotech (indigenous vaccines — Covaxin, ZyCoV-D DNA vaccine, cervical-cancer vaccine CERVAVAC), deep ocean, SMRs"
+              ]
             ]
           }
         ]
@@ -222,6 +363,25 @@
             "text": "Exam tip: The proliferation half is where this theme differs from a proud-contributions list — frame technology as dual-use, name the regimes India joined and refused, and cite the new frontiers (cyber-AI-biotech) where norms lag."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — heritage to frontier & proliferation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Heritage:** zero & decimal system, Aryabhata (astronomy), Sushruta (surgery), Charaka (medicine), Nagarjuna (metallurgy — the rust-free Delhi Iron Pillar), Baudhayana (geometry).",
+              "**Frontier:** **Chandrayaan-3 (first at the lunar south pole, 2023), Aditya-L1 (solar), Mangalyaan, indigenous vaccines (COVAXIN), 5G stack, quantum & AI missions**.",
+              "**Proliferation & dual-use concern:** nuclear/missile technology control regimes (**NPT non-signatory but responsible; member of MTCR, Wassenaar, Australia Group; NSG membership pending**); bio- and cyber-security risks of dual-use science.",
+              "**Balanced line:** celebrate achievement while stressing responsible innovation, export controls, and ethics of dual-use technology."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "India is a member of **MTCR, Wassenaar Arrangement and the Australia Group**; NSG membership is pending.",
+          "**Chandrayaan-3 (2023)** — first soft landing near the lunar **south pole**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -241,12 +401,30 @@
       "Norms lag capability at the new frontiers — analyse cyber, AI and biotech proliferation and the governance gap."
     ],
     "glossary": [
-      { "term": "Dual-use technology", "definition": "Technology with both civilian and military/harmful applications — the root of every proliferation dilemma." },
-      { "term": "MTCR", "definition": "Missile Technology Control Regime — supplier group India joined in 2016, signalling responsible-power status." },
-      { "term": "Brain circulation", "definition": "The two-way flow of talent (emigration then return/engagement) replacing one-way brain drain." },
-      { "term": "SCOMET", "definition": "Special Chemicals, Organisms, Materials, Equipment and Technologies — India's dual-use export-control list." },
-      { "term": "Gain-of-function", "definition": "Research enhancing pathogen capabilities — the biotech dual-use frontier where norms lag." },
-      { "term": "Responsible non-signatory", "definition": "India's posture of upholding non-proliferation norms and joining export regimes while refusing the discriminatory NPT/CTBT." }
+      {
+        "term": "Dual-use technology",
+        "definition": "Technology with both civilian and military/harmful applications — the root of every proliferation dilemma."
+      },
+      {
+        "term": "MTCR",
+        "definition": "Missile Technology Control Regime — supplier group India joined in 2016, signalling responsible-power status."
+      },
+      {
+        "term": "Brain circulation",
+        "definition": "The two-way flow of talent (emigration then return/engagement) replacing one-way brain drain."
+      },
+      {
+        "term": "SCOMET",
+        "definition": "Special Chemicals, Organisms, Materials, Equipment and Technologies — India's dual-use export-control list."
+      },
+      {
+        "term": "Gain-of-function",
+        "definition": "Research enhancing pathogen capabilities — the biotech dual-use frontier where norms lag."
+      },
+      {
+        "term": "Responsible non-signatory",
+        "definition": "India's posture of upholding non-proliferation norms and joining export regimes while refusing the discriminatory NPT/CTBT."
+      }
     ]
   },
   {
@@ -258,13 +436,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Family", "Anchor institutions", "Domain"],
+            "headers": [
+              "Family",
+              "Anchor institutions",
+              "Domain"
+            ],
             "rows": [
-              ["**Atomic/strategic**", "**BARC (Mumbai), IGCAR (Kalpakkam), DAE labs, DRDO (~50 labs), ISRO centres**", "Nuclear, defence, space"],
-              ["**CSIR (~37 labs)**", "NPL, NCL (Pune), CCMB & IICT (**Hyderabad**), NAL, CDRI, NEERI, IIP", "Multidisciplinary applied research"],
-              ["**ICAR & ICMR & DBT**", "IARI (Pusa), **ICRISAT & NRC-era institutes near Hyderabad**; AIIMS-ICMR network, **NIN (Hyderabad — nutrition)**; DBT's biotech clusters", "Agriculture, medicine, biotech"],
-              ["**Education-research**", "IISc, IITs, IISERs, **IIT Tirupati, IISER Tirupati, Central University AP (Anantapur), University of Hyderabad**", "Frontier science & talent"],
-              ["**Space-launch**", "**Satish Dhawan Space Centre, SRIHARIKOTA (AP)** — the launch heart; VSSC, URSC, SAC", "Rockets & satellites"]
+              [
+                "**Atomic/strategic**",
+                "**BARC (Mumbai), IGCAR (Kalpakkam), DAE labs, DRDO (~50 labs), ISRO centres**",
+                "Nuclear, defence, space"
+              ],
+              [
+                "**CSIR (~37 labs)**",
+                "NPL, NCL (Pune), CCMB & IICT (**Hyderabad**), NAL, CDRI, NEERI, IIP",
+                "Multidisciplinary applied research"
+              ],
+              [
+                "**ICAR & ICMR & DBT**",
+                "IARI (Pusa), **ICRISAT & NRC-era institutes near Hyderabad**; AIIMS-ICMR network, **NIN (Hyderabad — nutrition)**; DBT's biotech clusters",
+                "Agriculture, medicine, biotech"
+              ],
+              [
+                "**Education-research**",
+                "IISc, IITs, IISERs, **IIT Tirupati, IISER Tirupati, Central University AP (Anantapur), University of Hyderabad**",
+                "Frontier science & talent"
+              ],
+              [
+                "**Space-launch**",
+                "**Satish Dhawan Space Centre, SRIHARIKOTA (AP)** — the launch heart; VSSC, URSC, SAC",
+                "Rockets & satellites"
+              ]
             ]
           },
           {
@@ -307,6 +509,58 @@
             "text": "Exam tip: For the AP state paper, the honest bifurcation point (Hyderabad's labs went to Telangana; AP rebuilds via Sriharikota-Gadanki-Tirupati) shows real regional knowledge, not a copied all-India list."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the R&D institutional map",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Agency",
+              "Domain",
+              "Note"
+            ],
+            "rows": [
+              [
+                "**CSIR**",
+                "Multidisciplinary (38 labs)",
+                "IICT Hyderabad, NGRI, CCMB — several in AP/Telangana region"
+              ],
+              [
+                "**DRDO**",
+                "Defence tech",
+                "Missiles, radars; Hyderabad missile complex (RCI, DRDL)"
+              ],
+              [
+                "**ISRO / DoS**",
+                "Space",
+                "Sriharikota (SDSC-SHAR, AP) launch site"
+              ],
+              [
+                "**DAE**",
+                "Atomic energy",
+                "BARC, IGCAR, BHAVINI"
+              ],
+              [
+                "**ICAR / ICMR / DBT**",
+                "Agri / medical / biotech",
+                "Research + regulation"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**AP/Telangana nodes:** **Sriharikota (SHAR)** — India's spaceport; Hyderabad's CSIR-IICT, CCMB, NGRI and DRDO missile complex — a strong regional S&T cluster to cite.",
+              "**Reform:** **ANRF** to lift university research; greater private-sector R&D and international collaboration."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**SDSC-SHAR, Sriharikota (Andhra Pradesh)** — India's primary spaceport.",
+          "**CCMB & IICT (Hyderabad)** are CSIR/premier biotech-chemistry labs in the region."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -326,12 +580,30 @@
       "Sriharikota is a national asset on AP soil — evaluate the state's stake in India's space and atmospheric science."
     ],
     "glossary": [
-      { "term": "SDSC-SHAR", "definition": "Satish Dhawan Space Centre, Sriharikota — ISRO's launch complex on the AP coast, India's spaceport." },
-      { "term": "NARL", "definition": "National Atmospheric Research Laboratory, Gadanki — ISRO's premier atmospheric/space-weather institute in AP." },
-      { "term": "CSIR", "definition": "Council of Scientific & Industrial Research — India's ~37-lab applied-research network." },
-      { "term": "Strategic sector labs", "definition": "The mission-funded, autonomous DAE-DRDO-ISRO establishments — capability-sovereignty's institutions." },
-      { "term": "Schedule-13 institutions", "definition": "The national institutes the Reorganisation Act mandated for successor states — AP's IIT/IISER/central-university crop." },
-      { "term": "ANRF", "definition": "Anusandhan National Research Foundation — the coordinating-funding overlay meant to unify and privately co-finance R&D." }
+      {
+        "term": "SDSC-SHAR",
+        "definition": "Satish Dhawan Space Centre, Sriharikota — ISRO's launch complex on the AP coast, India's spaceport."
+      },
+      {
+        "term": "NARL",
+        "definition": "National Atmospheric Research Laboratory, Gadanki — ISRO's premier atmospheric/space-weather institute in AP."
+      },
+      {
+        "term": "CSIR",
+        "definition": "Council of Scientific & Industrial Research — India's ~37-lab applied-research network."
+      },
+      {
+        "term": "Strategic sector labs",
+        "definition": "The mission-funded, autonomous DAE-DRDO-ISRO establishments — capability-sovereignty's institutions."
+      },
+      {
+        "term": "Schedule-13 institutions",
+        "definition": "The national institutes the Reorganisation Act mandated for successor states — AP's IIT/IISER/central-university crop."
+      },
+      {
+        "term": "ANRF",
+        "definition": "Anusandhan National Research Foundation — the coordinating-funding overlay meant to unify and privately co-finance R&D."
+      }
     ]
   },
   {
@@ -343,15 +615,47 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Scientist", "Achievement", "Legacy marker"],
+            "headers": [
+              "Scientist",
+              "Achievement",
+              "Legacy marker"
+            ],
             "rows": [
-              ["**C.V. Raman**", "Raman Effect (light scattering)", "**Nobel Physics 1930**; National Science Day (28 Feb)"],
-              ["**Homi Bhabha**", "Cascade theory; India's nuclear programme architect", "'Father of Indian nuclear programme'; BARC"],
-              ["**Vikram Sarabhai**", "India's space programme founder", "ISRO; SDSC named for successor Satish Dhawan"],
-              ["**M.S. Swaminathan**", "Green Revolution's Indian architect", "**Bharat Ratna 2024** (posthumous); World Food Prize"],
-              ["**A.P.J. Abdul Kalam**", "Missile & launch-vehicle development (SLV-III, Agni-Prithvi)", "'Missile Man'; President; **Bharat Ratna**"],
-              ["**J.C. Bose / S.N. Bose / Saha / Ramanujan**", "Plant-radio science / bosons / ionisation / number theory", "Foundational modern-Indian science"],
-              ["**Har Gobind Khorana / V. Ramakrishnan**", "Genetic code / ribosome structure", "**Nobels 1968 & 2009** (Indian-origin)"]
+              [
+                "**C.V. Raman**",
+                "Raman Effect (light scattering)",
+                "**Nobel Physics 1930**; National Science Day (28 Feb)"
+              ],
+              [
+                "**Homi Bhabha**",
+                "Cascade theory; India's nuclear programme architect",
+                "'Father of Indian nuclear programme'; BARC"
+              ],
+              [
+                "**Vikram Sarabhai**",
+                "India's space programme founder",
+                "ISRO; SDSC named for successor Satish Dhawan"
+              ],
+              [
+                "**M.S. Swaminathan**",
+                "Green Revolution's Indian architect",
+                "**Bharat Ratna 2024** (posthumous); World Food Prize"
+              ],
+              [
+                "**A.P.J. Abdul Kalam**",
+                "Missile & launch-vehicle development (SLV-III, Agni-Prithvi)",
+                "'Missile Man'; President; **Bharat Ratna**"
+              ],
+              [
+                "**J.C. Bose / S.N. Bose / Saha / Ramanujan**",
+                "Plant-radio science / bosons / ionisation / number theory",
+                "Foundational modern-Indian science"
+              ],
+              [
+                "**Har Gobind Khorana / V. Ramakrishnan**",
+                "Genetic code / ribosome structure",
+                "**Nobels 1968 & 2009** (Indian-origin)"
+              ]
             ]
           }
         ]
@@ -392,6 +696,63 @@
             "text": "Exam tip: Keep a five-scientist + five-recent-technology bank (Raman/Bhabha/Sarabhai/Swaminathan/Kalam + Chandrayaan-3/BrahMos/Covaxin/UPI/NavIC) — it serves this theme, the essay paper and the interview alike."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the citable scientists' roll",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Scientist",
+              "Contribution"
+            ],
+            "rows": [
+              [
+                "**C.V. Raman**",
+                "Raman Effect (Nobel 1930) — scattering of light"
+              ],
+              [
+                "**S. Chandrasekhar**",
+                "Chandrasekhar limit (Nobel 1983)"
+              ],
+              [
+                "**Har Gobind Khorana**",
+                "Genetic code (Nobel 1968)"
+              ],
+              [
+                "**J.C. Bose**",
+                "Plant response, radio/microwave science"
+              ],
+              [
+                "**S.N. Bose**",
+                "Bose-Einstein statistics (the 'boson')"
+              ],
+              [
+                "**Homi Bhabha / Vikram Sarabhai**",
+                "Fathers of India's nuclear / space programmes"
+              ],
+              [
+                "**M.S. Swaminathan**",
+                "Green Revolution in India"
+              ],
+              [
+                "**Venkatraman Ramakrishnan**",
+                "Ribosome structure (Nobel 2009)"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Indigenous & new tech stack:** COVAXIN & the world's largest vaccine manufacturing, indigenous 5G, Tejas (LCA), UPI/DPI, Chandrayaan, quantum & AI missions — deploy 2-3 with the specific scientist/institution for a high-scoring answer."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Raman Effect** — discovered by C.V. Raman; **National Science Day** (28 February) marks it.",
+          "**S.N. Bose** — 'boson' named after him (Bose-Einstein statistics)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -411,12 +772,30 @@
       "Sriharikota launches every Indian mission — analyse AP's stake in the national achievement stack."
     ],
     "glossary": [
-      { "term": "Raman Effect", "definition": "Inelastic scattering of light revealing molecular structure — C.V. Raman's Nobel-winning 1928 discovery." },
-      { "term": "PSLV", "definition": "Polar Satellite Launch Vehicle — ISRO's reliable workhorse, launcher of hundreds of foreign satellites." },
-      { "term": "NavIC", "definition": "Navigation with Indian Constellation — the indigenous regional positioning system." },
-      { "term": "CAR-T therapy", "definition": "Engineered-immune-cell cancer treatment; NexCAR19 (2024) is India's first indigenous version." },
-      { "term": "DNA vaccine", "definition": "A vaccine using plasmid DNA to induce immunity — ZyCoV-D the world's first approved for humans." },
-      { "term": "Indigenisation", "definition": "Developing home-grown capability in strategic technology (BrahMos, Tejas, Vikrant) — reducing import dependence." }
+      {
+        "term": "Raman Effect",
+        "definition": "Inelastic scattering of light revealing molecular structure — C.V. Raman's Nobel-winning 1928 discovery."
+      },
+      {
+        "term": "PSLV",
+        "definition": "Polar Satellite Launch Vehicle — ISRO's reliable workhorse, launcher of hundreds of foreign satellites."
+      },
+      {
+        "term": "NavIC",
+        "definition": "Navigation with Indian Constellation — the indigenous regional positioning system."
+      },
+      {
+        "term": "CAR-T therapy",
+        "definition": "Engineered-immune-cell cancer treatment; NexCAR19 (2024) is India's first indigenous version."
+      },
+      {
+        "term": "DNA vaccine",
+        "definition": "A vaccine using plasmid DNA to induce immunity — ZyCoV-D the world's first approved for humans."
+      },
+      {
+        "term": "Indigenisation",
+        "definition": "Developing home-grown capability in strategic technology (BrahMos, Tejas, Vikrant) — reducing import dependence."
+      }
     ]
   }
 ]

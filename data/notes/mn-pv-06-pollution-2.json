@@ -8,11 +8,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Phenomenon", "Mechanism", "Status & response"],
+            "headers": [
+              "Phenomenon",
+              "Mechanism",
+              "Status & response"
+            ],
             "rows": [
-              ["**Ozone depletion**", "Stratospheric O3 (the 15-35 km UV-B shield) destroyed catalytically by **chlorine-bromine radicals from CFCs-halons** (one Cl ~1 lakh O3 molecules); polar stratospheric clouds make the **Antarctic spring hole** (discovered 1985)", "**Montreal Protocol (1987)** — the treaty that worked: ODS down ~99%; ozone layer on track to **mid-century recovery (~2066 Antarctic)**; **Kigali Amendment (2016)** now phases down HFCs (potent GHGs — the ozone treaty doing climate work); the crucial distinction — stratospheric ozone GOOD, tropospheric ozone (PL-024's smog) BAD"],
-              ["**Acid rain**", "SO2 + NOx → (atmospheric oxidation) → H2SO4-HNO3 → wet & dry **acid deposition (pH <5.6)**", "Classic damage: Scandinavian-Canadian lakes (fish kill via Al mobilisation), forest dieback (Black Forest), **monument 'stone cancer' — the Taj Mahal-Mathura refinery case (SC's Taj Trapezium orders)**; controls — FGD-low-S fuels-SCR (the US SO2 cap-and-trade success); India's risk zones around unscrubbed coal clusters"],
-              ["**Global warming**", "GHG radiative forcing (CO2 420+ ppm, CH4 ~1.9 ppm, N2O; water-vapour feedback); +1.2-1.3°C with **feedbacks** (albedo loss, permafrost CH4) and **tipping-point risk** (AMOC, ice sheets, coral)", "The ED-020 file (IPCC-NDC-justice) — this note adds the science depth: GWP metrics (CH4 ~80×/20 yr), carbon-cycle sinks (ocean ~30%, land ~30% of emissions absorbed — and weakening), attribution science (event fingerprinting)"]
+              [
+                "**Ozone depletion**",
+                "Stratospheric O3 (the 15-35 km UV-B shield) destroyed catalytically by **chlorine-bromine radicals from CFCs-halons** (one Cl ~1 lakh O3 molecules); polar stratospheric clouds make the **Antarctic spring hole** (discovered 1985)",
+                "**Montreal Protocol (1987)** — the treaty that worked: ODS down ~99%; ozone layer on track to **mid-century recovery (~2066 Antarctic)**; **Kigali Amendment (2016)** now phases down HFCs (potent GHGs — the ozone treaty doing climate work); the crucial distinction — stratospheric ozone GOOD, tropospheric ozone (PL-024's smog) BAD"
+              ],
+              [
+                "**Acid rain**",
+                "SO2 + NOx → (atmospheric oxidation) → H2SO4-HNO3 → wet & dry **acid deposition (pH <5.6)**",
+                "Classic damage: Scandinavian-Canadian lakes (fish kill via Al mobilisation), forest dieback (Black Forest), **monument 'stone cancer' — the Taj Mahal-Mathura refinery case (SC's Taj Trapezium orders)**; controls — FGD-low-S fuels-SCR (the US SO2 cap-and-trade success); India's risk zones around unscrubbed coal clusters"
+              ],
+              [
+                "**Global warming**",
+                "GHG radiative forcing (CO2 420+ ppm, CH4 ~1.9 ppm, N2O; water-vapour feedback); +1.2-1.3°C with **feedbacks** (albedo loss, permafrost CH4) and **tipping-point risk** (AMOC, ice sheets, coral)",
+                "The ED-020 file (IPCC-NDC-justice) — this note adds the science depth: GWP metrics (CH4 ~80×/20 yr), carbon-cycle sinks (ocean ~30%, land ~30% of emissions absorbed — and weakening), attribution science (event fingerprinting)"
+              ]
             ]
           }
         ]
@@ -52,6 +68,48 @@
             "text": "Exam tip: 'Montreal proved planetary treaties can work; Kigali made the ozone treaty fight climate too' — the two-line bridge from the trio to the conventions note (PL-028). For IT, the sense-analyse-act triad organises any list into architecture."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the atmospheric trio, distinguished",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Phenomenon",
+              "Cause",
+              "Effect / fix"
+            ],
+            "rows": [
+              [
+                "**Ozone depletion**",
+                "CFCs/halons destroy stratospheric O₃ (Antarctic 'hole')",
+                "UV rise, skin cancer; **Montreal Protocol** phase-out — a rare success"
+              ],
+              [
+                "**Acid rain**",
+                "SO₂ + NOₓ → sulfuric/nitric acid",
+                "Damages soils, forests, monuments (Taj); FGD & clean fuel"
+              ],
+              [
+                "**Global warming**",
+                "GHGs trap outgoing IR",
+                "Climate change; mitigation via decarbonisation"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Don't conflate them:** ozone depletion (stratospheric, UV) ≠ ground-level ozone (a pollutant) ≠ global warming (GHGs) — a common exam trap.",
+              "**IT for environment & health — the digital-green stack:** **remote sensing/GIS (ISRO Bhuvan) for forest & pollution monitoring, AI for weather & crop advisories, IoT air-quality sensors, telemedicine (eSanjeevani), and digital disease surveillance (IDSP/IHIP)** — technology as an environmental and public-health instrument."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Montreal Protocol (1987)** — phased out ozone-depleting substances; the **Kigali Amendment (2016)** adds HFCs.",
+          "**Ground-level (tropospheric) ozone** is a harmful pollutant; **stratospheric ozone** shields against UV."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -72,12 +130,30 @@
       "IT must green itself while greening the economy — examine data-centre energy and e-waste with AP's hub ambitions."
     ],
     "glossary": [
-      { "term": "Ozone-depleting substances", "definition": "CFCs, halons, HCFCs whose Cl-Br radicals catalytically destroy stratospheric ozone — Montreal's phase-out list." },
-      { "term": "Kigali Amendment", "definition": "The 2016 Montreal add-on phasing down HFCs — climate mitigation through the ozone treaty's machinery." },
-      { "term": "Acid deposition", "definition": "Wet (rain-fog) and dry (particle-gas) delivery of sulphuric-nitric acids to ecosystems and monuments." },
-      { "term": "Global Warming Potential", "definition": "A gas's warming per kg relative to CO2 over a horizon — the metric that makes methane urgent." },
-      { "term": "Attribution science", "definition": "Quantifying climate change's fingerprint on specific extreme events — the science behind loss-and-damage claims." },
-      { "term": "Digital public infrastructure (health)", "definition": "Open platforms (CoWIN, ABDM, eSanjeevani) delivering health services at population scale — India's export model." }
+      {
+        "term": "Ozone-depleting substances",
+        "definition": "CFCs, halons, HCFCs whose Cl-Br radicals catalytically destroy stratospheric ozone — Montreal's phase-out list."
+      },
+      {
+        "term": "Kigali Amendment",
+        "definition": "The 2016 Montreal add-on phasing down HFCs — climate mitigation through the ozone treaty's machinery."
+      },
+      {
+        "term": "Acid deposition",
+        "definition": "Wet (rain-fog) and dry (particle-gas) delivery of sulphuric-nitric acids to ecosystems and monuments."
+      },
+      {
+        "term": "Global Warming Potential",
+        "definition": "A gas's warming per kg relative to CO2 over a horizon — the metric that makes methane urgent."
+      },
+      {
+        "term": "Attribution science",
+        "definition": "Quantifying climate change's fingerprint on specific extreme events — the science behind loss-and-damage claims."
+      },
+      {
+        "term": "Digital public infrastructure (health)",
+        "definition": "Open platforms (CoWIN, ABDM, eSanjeevani) delivering health services at population scale — India's export model."
+      }
     ]
   },
   {
@@ -89,12 +165,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Treaty", "Design", "Scorecard"],
+            "headers": [
+              "Treaty",
+              "Design",
+              "Scorecard"
+            ],
             "rows": [
-              ["**Montreal Protocol (1987)** — on the Vienna Convention (1985)", "Phase-out schedules by substance with **grace periods for developing countries (Art 5)**, a **Multilateral Fund** paying incremental costs, trade measures against non-parties, adjustable science-driven annexes", "**The gold standard**: universal ratification, ~99% ODS gone, ozone healing, ~135 bn tonnes CO2-eq avoided as co-benefit; **Kigali (2016)** extends it to HFCs — proof that finance + differentiation + teeth = compliance"],
-              ["**UNFCCC (1992, Rio)**", "Framework convention: stabilise GHGs at safe levels; **Annex-I vs non-Annex differentiation (CBDR)**; COPs as the legislature; reporting-review machinery", "The constitution, not the statute — its children did the binding: Kyoto, then Paris (PL-030); universal membership (198 parties) is its quiet achievement"],
-              ["**Kyoto Protocol (1997; in force 2005)**", "**Binding targets for Annex-I only (~5.2% below 1990, 2008-12)**; flexibility mechanisms — **CDM** (developing-country credits; India a top host), **Joint Implementation, Emissions Trading**; Doha second period (2013-20) under-subscribed", "Partial success, structural failure: US never ratified, Canada exited, emissions migrated to non-Annex growth — the lesson (targets without universality leak) that produced Paris's bottom-up design"],
-              ["**CITES (1973, Washington)**", "Trade-permit regime on **three appendices** (I — commercial trade banned: tiger, elephant ivory, red sanders' near-kin listings; II — regulated; III — national listings); standing committee reviews-sanctions", "The wildlife-trade firewall: real seizures-suspensions record; India's file — tiger-ivory bans, **red sanders (Appendix II)** export controls (the Seshachalam-AP species!), pangolin-star tortoise trafficking fights; critique — demand-side enforcement and captive-breeding loopholes"]
+              [
+                "**Montreal Protocol (1987)** — on the Vienna Convention (1985)",
+                "Phase-out schedules by substance with **grace periods for developing countries (Art 5)**, a **Multilateral Fund** paying incremental costs, trade measures against non-parties, adjustable science-driven annexes",
+                "**The gold standard**: universal ratification, ~99% ODS gone, ozone healing, ~135 bn tonnes CO2-eq avoided as co-benefit; **Kigali (2016)** extends it to HFCs — proof that finance + differentiation + teeth = compliance"
+              ],
+              [
+                "**UNFCCC (1992, Rio)**",
+                "Framework convention: stabilise GHGs at safe levels; **Annex-I vs non-Annex differentiation (CBDR)**; COPs as the legislature; reporting-review machinery",
+                "The constitution, not the statute — its children did the binding: Kyoto, then Paris (PL-030); universal membership (198 parties) is its quiet achievement"
+              ],
+              [
+                "**Kyoto Protocol (1997; in force 2005)**",
+                "**Binding targets for Annex-I only (~5.2% below 1990, 2008-12)**; flexibility mechanisms — **CDM** (developing-country credits; India a top host), **Joint Implementation, Emissions Trading**; Doha second period (2013-20) under-subscribed",
+                "Partial success, structural failure: US never ratified, Canada exited, emissions migrated to non-Annex growth — the lesson (targets without universality leak) that produced Paris's bottom-up design"
+              ],
+              [
+                "**CITES (1973, Washington)**",
+                "Trade-permit regime on **three appendices** (I — commercial trade banned: tiger, elephant ivory, red sanders' near-kin listings; II — regulated; III — national listings); standing committee reviews-sanctions",
+                "The wildlife-trade firewall: real seizures-suspensions record; India's file — tiger-ivory bans, **red sanders (Appendix II)** export controls (the Seshachalam-AP species!), pangolin-star tortoise trafficking fights; critique — demand-side enforcement and captive-breeding loopholes"
+              ]
             ]
           }
         ]
@@ -134,6 +230,53 @@
             "text": "Exam tip: 'Montreal paid, adjusted and punished — Kyoto bound half the world and leaked' — the comparison sentence that answers why environmental treaties succeed or fail."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the environmental treaties, why some bite",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Treaty",
+              "Target",
+              "Verdict"
+            ],
+            "rows": [
+              [
+                "**Montreal Protocol (1987)**",
+                "Ozone-depleting substances",
+                "Most successful — universal, binding, funded, clear substitutes"
+              ],
+              [
+                "**UNFCCC/Kyoto/Paris**",
+                "GHG emissions",
+                "Paris (2015) — universal but bottom-up NDCs, non-binding targets"
+              ],
+              [
+                "**CBD (1992) + Nagoya + Kunming-Montreal (2022)**",
+                "Biodiversity (30x30)",
+                "Ambitious; implementation & finance weak"
+              ],
+              [
+                "**Basel/Rotterdam/Stockholm**",
+                "Hazardous waste & POPs",
+                "Trade controls; enforcement uneven"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Why some treaties bite:** binding targets + verification + finance/technology transfer + available substitutes + a small number of key actors (Montreal) vs diffuse, costly, contested action (climate).",
+              "**Lesson for climate:** predictable finance (Loss & Damage, NCQG), technology transfer, and equity (CBDR) are what turn pledges into compliance."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Kunming-Montreal Global Biodiversity Framework (2022)** — the '30x30' target (protect 30% of land & sea by 2030).",
+          "**Stockholm Convention** — Persistent Organic Pollutants (POPs); **Basel** — transboundary hazardous-waste movement."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -154,12 +297,30 @@
       "Extract a treaty-design checklist (finance, differentiation, adjustability, enforcement) for the climate regime's future."
     ],
     "glossary": [
-      { "term": "Multilateral Fund", "definition": "Montreal's finance arm paying developing countries' incremental phase-out costs — the treaty's compliance engine." },
-      { "term": "Annex-I parties", "definition": "UNFCCC's industrialised-country list bearing Kyoto's binding cuts — the differentiation that Paris softened into NDCs." },
-      { "term": "Clean Development Mechanism", "definition": "Kyoto's offset scheme crediting emission-reducing projects in developing countries — India a top host; additionality its audit wound." },
-      { "term": "Carbon leakage", "definition": "Emissions migrating to unbound jurisdictions when only some are capped — Kyoto's structural failure mode." },
-      { "term": "CITES appendices", "definition": "The three-tier species lists — trade banned, regulated, or nationally notified — enforced through permits at customs." },
-      { "term": "Appendix II", "definition": "Species not yet endangered but requiring trade regulation — red sanders' category, permitting quota-based legal export." }
+      {
+        "term": "Multilateral Fund",
+        "definition": "Montreal's finance arm paying developing countries' incremental phase-out costs — the treaty's compliance engine."
+      },
+      {
+        "term": "Annex-I parties",
+        "definition": "UNFCCC's industrialised-country list bearing Kyoto's binding cuts — the differentiation that Paris softened into NDCs."
+      },
+      {
+        "term": "Clean Development Mechanism",
+        "definition": "Kyoto's offset scheme crediting emission-reducing projects in developing countries — India a top host; additionality its audit wound."
+      },
+      {
+        "term": "Carbon leakage",
+        "definition": "Emissions migrating to unbound jurisdictions when only some are capped — Kyoto's structural failure mode."
+      },
+      {
+        "term": "CITES appendices",
+        "definition": "The three-tier species lists — trade banned, regulated, or nationally notified — enforced through permits at customs."
+      },
+      {
+        "term": "Appendix II",
+        "definition": "Species not yet endangered but requiring trade regulation — red sanders' category, permitting quota-based legal export."
+      }
     ]
   }
 ]

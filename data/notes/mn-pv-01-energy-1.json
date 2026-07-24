@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Efficiency architecture", "Instrument", "Content"],
+            "headers": [
+              "Efficiency architecture",
+              "Instrument",
+              "Content"
+            ],
             "rows": [
-              ["Statute", "**Energy Conservation Act 2001 (amended 2022)**", "Created **BEE**; 2022 amendments: **carbon-credit trading scheme (CCTS)**, non-fossil purchase obligations, large buildings in code"],
-              ["Industry", "**PAT (Perform-Achieve-Trade)**", "Energy-intensity targets for designated consumers with tradable ESCerts — multiple cycles, ~2% intensity gains per cycle band"],
-              ["Appliances", "**Standards & Labelling (star ratings)**", "Fridges-ACs-fans-pumps; the quiet demand-side workhorse"],
-              ["Lighting & buildings", "**UJALA (~37 crore LEDs)**, Street-lighting programme, **ECBC/Eco Niwas** codes", "LED price crash (₹310→₹38 era) — the world-cited procurement success"],
-              ["Agriculture & mobility", "PM-KUSUM solar pumps; FAME-II/PM E-DRIVE EV push; fuel-economy (CAFE) norms", "Demand-side across sectors"]
+              [
+                "Statute",
+                "**Energy Conservation Act 2001 (amended 2022)**",
+                "Created **BEE**; 2022 amendments: **carbon-credit trading scheme (CCTS)**, non-fossil purchase obligations, large buildings in code"
+              ],
+              [
+                "Industry",
+                "**PAT (Perform-Achieve-Trade)**",
+                "Energy-intensity targets for designated consumers with tradable ESCerts — multiple cycles, ~2% intensity gains per cycle band"
+              ],
+              [
+                "Appliances",
+                "**Standards & Labelling (star ratings)**",
+                "Fridges-ACs-fans-pumps; the quiet demand-side workhorse"
+              ],
+              [
+                "Lighting & buildings",
+                "**UJALA (~37 crore LEDs)**, Street-lighting programme, **ECBC/Eco Niwas** codes",
+                "LED price crash (₹310→₹38 era) — the world-cited procurement success"
+              ],
+              [
+                "Agriculture & mobility",
+                "PM-KUSUM solar pumps; FAME-II/PM E-DRIVE EV push; fuel-economy (CAFE) norms",
+                "Demand-side across sectors"
+              ]
             ]
           },
           {
@@ -62,6 +86,25 @@
             "text": "Exam tip: Open with the paradox — 'third-largest consumer, one-third per-capita' — and close with delivery-as-the-binding-constraint. The examiner sees a thousand lists of schemes; the four-question frame is what distinguishes."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — India's energy arithmetic & transition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Scale:** India is the **3rd-largest energy consumer and 3rd-largest CO₂ emitter**, yet per-capita energy use is a third of the world average — the 'development vs decarbonisation' tension.",
+              "**Mix:** coal ~**50%+ of primary energy** and the backbone of power; heavy **import dependence** (~85% crude oil, ~50% natural gas) — the energy-security vulnerability.",
+              "**Targets:** **500 GW non-fossil capacity by 2030**, **50% of electricity from non-fossil sources**, cut emissions intensity of GDP by 45% (from 2005), and **Net-Zero by 2070** (Panchamrit, COP26).",
+              "**Efficiency levers:** **PAT (Perform-Achieve-Trade), UJALA (LED), star-labelling (BEE), and the Energy Conservation (Amendment) Act 2022** enabling a carbon market."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Panchamrit** (COP26): 500 GW non-fossil by 2030; 50% RE electricity; 1 bn tonne emission cut; 45% emissions-intensity cut; Net-Zero by 2070.",
+          "**PAT scheme** — market-based energy-efficiency mechanism under BEE."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -82,12 +125,30 @@
       "Audit India's resource endowment from high-ash coal to thorium sands, and the strategy each dictates."
     ],
     "glossary": [
-      { "term": "Primary energy", "definition": "Energy in its raw form (coal, crude, hydro inflow) before conversion — the mix's honest denominator." },
-      { "term": "Energy intensity", "definition": "Energy per unit of GDP — India's NDC metric (45% cut by 2030 vs 2005) and PAT's target variable." },
-      { "term": "PAT/ESCerts", "definition": "Perform-Achieve-Trade: efficiency targets whose over-achievement mints tradable certificates — market-based conservation." },
-      { "term": "First fuel", "definition": "Efficiency's honorific — avoided demand as the cheapest, cleanest energy resource." },
-      { "term": "AT&C losses", "definition": "Aggregate technical & commercial losses in distribution — the leak that bankrupts DISCOMs and taxes the grid." },
-      { "term": "Peak demand", "definition": "The system's highest instantaneous load (250+ GW) — the planning number that storage and peaker capacity must meet." }
+      {
+        "term": "Primary energy",
+        "definition": "Energy in its raw form (coal, crude, hydro inflow) before conversion — the mix's honest denominator."
+      },
+      {
+        "term": "Energy intensity",
+        "definition": "Energy per unit of GDP — India's NDC metric (45% cut by 2030 vs 2005) and PAT's target variable."
+      },
+      {
+        "term": "PAT/ESCerts",
+        "definition": "Perform-Achieve-Trade: efficiency targets whose over-achievement mints tradable certificates — market-based conservation."
+      },
+      {
+        "term": "First fuel",
+        "definition": "Efficiency's honorific — avoided demand as the cheapest, cleanest energy resource."
+      },
+      {
+        "term": "AT&C losses",
+        "definition": "Aggregate technical & commercial losses in distribution — the leak that bankrupts DISCOMs and taxes the grid."
+      },
+      {
+        "term": "Peak demand",
+        "definition": "The system's highest instantaneous load (250+ GW) — the planning number that storage and peaker capacity must meet."
+      }
     ]
   },
   {
@@ -99,14 +160,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Resource", "India status", "Notes"],
+            "headers": [
+              "Resource",
+              "India status",
+              "Notes"
+            ],
             "rows": [
-              ["**Solar**", "~**110+ GW** (2025) — utility parks (Bhadla; **AP's Kurnool/NP Kunta**), rooftops lagging → **PM Surya Ghar (2024: 1 crore rooftop homes, ~₹75,000 cr)**", "Tariffs ~₹2.5/unit era lows; duck-curve integration the issue; **module PLI + ALMM** for supply-chain onshoring"],
-              ["**Wind**", "~**48-50 GW**; TN-Gujarat-Karnataka-**AP-Rayalaseema** belts", "Repowering old turbines; **offshore wind** (Gujarat/TN ~37 GW zones; VGF 2024) the frontier"],
-              ["**Hydro & PSP**", "Large hydro ~47 GW (renewable-classified 2019); **pumped storage** the new star — **AP's ~40 GW pipeline** the national anchor", "Storage-first hydro policy; Himalayan ecology caveats (Teesta/Chamoli lessons)"],
-              ["**Bio-energy**", "~11 GW power + **ethanol E20 achieved 2025 target-year**; CBG (SATAT/GOBARdhan)", "2G refineries (Panipat); food-vs-fuel watch"],
-              ["**Green hydrogen**", "**National GH2 Mission (2023, ₹19,744 cr)**: 5 MMT by 2030; hubs — **Vizag-Pudimadaka (NTPC), Kakinada**, Kandla, Tuticorin", "The industrial-decarbonisation key (fertiliser, refinery, steel)"],
-              ["**Nuclear (bridge)**", "~8.2 GW; **Nuclear Energy Mission (2025): 100 GW by 2047, SMRs, Act amendments**", "Full file E2-017"]
+              [
+                "**Solar**",
+                "~**110+ GW** (2025) — utility parks (Bhadla; **AP's Kurnool/NP Kunta**), rooftops lagging → **PM Surya Ghar (2024: 1 crore rooftop homes, ~₹75,000 cr)**",
+                "Tariffs ~₹2.5/unit era lows; duck-curve integration the issue; **module PLI + ALMM** for supply-chain onshoring"
+              ],
+              [
+                "**Wind**",
+                "~**48-50 GW**; TN-Gujarat-Karnataka-**AP-Rayalaseema** belts",
+                "Repowering old turbines; **offshore wind** (Gujarat/TN ~37 GW zones; VGF 2024) the frontier"
+              ],
+              [
+                "**Hydro & PSP**",
+                "Large hydro ~47 GW (renewable-classified 2019); **pumped storage** the new star — **AP's ~40 GW pipeline** the national anchor",
+                "Storage-first hydro policy; Himalayan ecology caveats (Teesta/Chamoli lessons)"
+              ],
+              [
+                "**Bio-energy**",
+                "~11 GW power + **ethanol E20 achieved 2025 target-year**; CBG (SATAT/GOBARdhan)",
+                "2G refineries (Panipat); food-vs-fuel watch"
+              ],
+              [
+                "**Green hydrogen**",
+                "**National GH2 Mission (2023, ₹19,744 cr)**: 5 MMT by 2030; hubs — **Vizag-Pudimadaka (NTPC), Kakinada**, Kandla, Tuticorin",
+                "The industrial-decarbonisation key (fertiliser, refinery, steel)"
+              ],
+              [
+                "**Nuclear (bridge)**",
+                "~8.2 GW; **Nuclear Energy Mission (2025): 100 GW by 2047, SMRs, Act amendments**",
+                "Full file E2-017"
+              ]
             ]
           }
         ]
@@ -146,6 +235,25 @@
             "text": "Exam tip: The examiner's discriminator is the integration paragraph — storage, transmission, DISCOM economics. Capacity numbers impress; the delivery-system understanding scores."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the clean-energy portfolio & policy stack",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Solar:** the anchor of India's RE (leading capacity; **International Solar Alliance** India-founded, HQ Gurugram); **PM-KUSUM** (solar pumps), **PM Surya Ghar Muft Bijli** (rooftop), and solar parks (e.g., Bhadla).",
+              "**Wind, hydro, bio & waste-to-energy:** wind (Tamil Nadu/Gujarat lead), large & small hydro, **compressed biogas (SATAT), ethanol blending (E20 target)**.",
+              "**Green hydrogen:** the **National Green Hydrogen Mission (2023, ₹19,744 cr)** targets 5 MMT/yr by 2030 — for fertiliser, refining, steel and mobility.",
+              "**Storage & grid:** **pumped-storage & battery (PLI on ACC batteries)**, **Green Energy Corridors**, and round-the-clock RE tenders to solve intermittency. **Evaluation:** capacity is racing ahead; the bottlenecks are storage, DISCOM finances, land and grid integration."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**International Solar Alliance (ISA)** — co-founded by India & France; headquartered at Gurugram.",
+          "**National Green Hydrogen Mission (2023)** — target 5 MMT green-hydrogen production by 2030."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -166,12 +274,30 @@
       "Contract sanctity is renewable policy — draw the lessons of AP's PPA episode for investor-led transitions."
     ],
     "glossary": [
-      { "term": "Duck curve", "definition": "The net-load shape solar creates — midday trough, evening ramp — that storage and flexible plants must fill." },
-      { "term": "Curtailment", "definition": "Forced backing-down of renewable generation for grid or contract reasons — the integration failure indicator." },
-      { "term": "Viability-gap funding", "definition": "Capital subsidy making frontier technologies (offshore wind, BESS) bankable at current costs." },
-      { "term": "Green hydrogen", "definition": "Hydrogen from renewable-powered electrolysis — the decarbonisation vector for fertiliser, refining and steel." },
-      { "term": "Repowering", "definition": "Replacing old low-capacity wind turbines with modern ones on the same sites — capacity growth without new land." },
-      { "term": "Must-run status", "definition": "Grid rule obliging purchase of RE generation — protective for the transition, contested by stressed DISCOMs." }
+      {
+        "term": "Duck curve",
+        "definition": "The net-load shape solar creates — midday trough, evening ramp — that storage and flexible plants must fill."
+      },
+      {
+        "term": "Curtailment",
+        "definition": "Forced backing-down of renewable generation for grid or contract reasons — the integration failure indicator."
+      },
+      {
+        "term": "Viability-gap funding",
+        "definition": "Capital subsidy making frontier technologies (offshore wind, BESS) bankable at current costs."
+      },
+      {
+        "term": "Green hydrogen",
+        "definition": "Hydrogen from renewable-powered electrolysis — the decarbonisation vector for fertiliser, refining and steel."
+      },
+      {
+        "term": "Repowering",
+        "definition": "Replacing old low-capacity wind turbines with modern ones on the same sites — capacity growth without new land."
+      },
+      {
+        "term": "Must-run status",
+        "definition": "Grid rule obliging purchase of RE generation — protective for the transition, contested by stressed DISCOMs."
+      }
     ]
   },
   {
@@ -183,14 +309,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Attribute", "Conventional (coal-thermal, oil, gas, large hydro*)", "Non-conventional (solar, wind, bio, geothermal, tidal)"],
+            "headers": [
+              "Attribute",
+              "Conventional (coal-thermal, oil, gas, large hydro*)",
+              "Non-conventional (solar, wind, bio, geothermal, tidal)"
+            ],
             "rows": [
-              ["Nature", "Finite, stock-based; centuries of accumulation", "Flow-based, renewable; daily/seasonal cycles"],
-              ["Dispatch", "**Dispatchable** — follows load (coal's ramping limits aside); the grid's inertia and base", "**Variable/intermittent** — needs forecasting + storage + balancing"],
-              ["Cost structure", "Fuel-opex heavy; volatile (imported coal/oil)", "Capex-heavy, near-zero marginal cost — tariff certainty once built"],
-              ["Externalities", "CO2 (~0.9-1 kg/kWh coal), PM-SOx-NOx, ash ponds, mining displacement", "Minimal operating emissions; land-use, mineral supply chains, end-of-life waste"],
-              ["Scale & siting", "Large central stations, anywhere fuel reaches", "Resource-tied (sun-wind-tide maps decide); modular — rooftop to park"],
-              ["India status", "Coal ~210+ GW capacity, ~75% generation; gas underused (~25 GW at low PLF); large hydro ~47 GW", "Solar 110+, wind ~50, bio ~11 GW; geothermal-tidal at pilot stage"]
+              [
+                "Nature",
+                "Finite, stock-based; centuries of accumulation",
+                "Flow-based, renewable; daily/seasonal cycles"
+              ],
+              [
+                "Dispatch",
+                "**Dispatchable** — follows load (coal's ramping limits aside); the grid's inertia and base",
+                "**Variable/intermittent** — needs forecasting + storage + balancing"
+              ],
+              [
+                "Cost structure",
+                "Fuel-opex heavy; volatile (imported coal/oil)",
+                "Capex-heavy, near-zero marginal cost — tariff certainty once built"
+              ],
+              [
+                "Externalities",
+                "CO2 (~0.9-1 kg/kWh coal), PM-SOx-NOx, ash ponds, mining displacement",
+                "Minimal operating emissions; land-use, mineral supply chains, end-of-life waste"
+              ],
+              [
+                "Scale & siting",
+                "Large central stations, anywhere fuel reaches",
+                "Resource-tied (sun-wind-tide maps decide); modular — rooftop to park"
+              ],
+              [
+                "India status",
+                "Coal ~210+ GW capacity, ~75% generation; gas underused (~25 GW at low PLF); large hydro ~47 GW",
+                "Solar 110+, wind ~50, bio ~11 GW; geothermal-tidal at pilot stage"
+              ]
             ]
           },
           {
@@ -236,6 +390,53 @@
             "text": "Exam tip: 'Conventional gives firmness, non-conventional gives growth — storage marries them' is the three-clause thesis; the wind-cube law (P ∝ v³) and floating-solar twofer are the technical garnishes examiners notice."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — conventional vs non-conventional, compared",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Dimension",
+              "Conventional (fossil/large-hydro/nuclear)",
+              "Non-conventional (RE)"
+            ],
+            "rows": [
+              [
+                "Availability",
+                "Finite (fossil); dispatchable",
+                "Renewable; often intermittent"
+              ],
+              [
+                "Emissions",
+                "High (fossil); low (nuclear/hydro)",
+                "Low/near-zero"
+              ],
+              [
+                "Cost trend",
+                "Volatile (import-linked)",
+                "Falling sharply (solar tariffs at record lows)"
+              ],
+              [
+                "Reliability",
+                "Baseload, on-demand",
+                "Needs storage/backup"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The five non-conventional files:** **solar** (PV + thermal), **wind** (onshore/offshore), **biomass/biogas** (SATAT/CBG), **small hydro**, and **geothermal/tidal/OTEC** (nascent — India's tidal potential in the Gulf of Khambhat/Kutch; OTEC pilots).",
+              "**The transition logic:** RE + storage for the future, gas as a bridge, nuclear for clean baseload, and efficiency to cut demand — a portfolio, not a single winner."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**SATAT** — Sustainable Alternative Towards Affordable Transportation; promotes Compressed Bio-Gas (CBG).",
+          "**OTEC** — Ocean Thermal Energy Conversion; **tidal potential** highest in the Gulf of Khambhat and Kutch."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -256,12 +457,30 @@
       "From variable to firm — explain the storage-flexibility toolkit converting green power into dependable power."
     ],
     "glossary": [
-      { "term": "Dispatchability", "definition": "A plant's ability to vary output on command — the grid service conventional plants supply and storage must replicate." },
-      { "term": "Capacity factor (PLF)", "definition": "Actual output as a share of nameplate potential — solar ~20%, wind ~25-35%, coal ~60-70%: the comparison's honest lens." },
-      { "term": "Floating solar", "definition": "PV on reservoirs — saving land, cutting evaporation, pairing with hydro evacuation." },
-      { "term": "2G ethanol", "definition": "Fuel from crop residues' cellulose rather than food sugars — the food-vs-fuel resolver." },
-      { "term": "OTEC", "definition": "Ocean thermal energy conversion — exploiting surface-deep temperature gradients; India's Kavaratti pilot pairs it with desalination." },
-      { "term": "Hybrid park", "definition": "Co-located wind+solar+storage sharing evacuation — the tender format smoothing variability." }
+      {
+        "term": "Dispatchability",
+        "definition": "A plant's ability to vary output on command — the grid service conventional plants supply and storage must replicate."
+      },
+      {
+        "term": "Capacity factor (PLF)",
+        "definition": "Actual output as a share of nameplate potential — solar ~20%, wind ~25-35%, coal ~60-70%: the comparison's honest lens."
+      },
+      {
+        "term": "Floating solar",
+        "definition": "PV on reservoirs — saving land, cutting evaporation, pairing with hydro evacuation."
+      },
+      {
+        "term": "2G ethanol",
+        "definition": "Fuel from crop residues' cellulose rather than food sugars — the food-vs-fuel resolver."
+      },
+      {
+        "term": "OTEC",
+        "definition": "Ocean thermal energy conversion — exploiting surface-deep temperature gradients; India's Kavaratti pilot pairs it with desalination."
+      },
+      {
+        "term": "Hybrid park",
+        "definition": "Co-located wind+solar+storage sharing evacuation — the tender format smoothing variability."
+      }
     ]
   }
 ]

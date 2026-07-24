@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Forest file", "Content"],
+            "headers": [
+              "Forest file",
+              "Content"
+            ],
             "rows": [
-              ["**Social forestry (1976 NCA coinage)**", "Forestry FOR communities on non-forest land: **farm forestry** (own fields), **community woodlots** (village commons), **extension/strip forestry** (roads-canals-rail); goals — fuelwood-fodder-small timber, pressure relief on natural forests; 1980s heyday with mixed results (eucalyptus's market capture vs subsistence design — the classic critique)"],
-              ["**Agroforestry's rebirth**", "**National Agroforestry Policy 2014 (world's first)**; trees-outside-forests now supply most timber; poplar-Melia belts; **AP: subabul-casuarina pulpwood economies of Prakasam-Nellore** — farm forestry as cash crop"],
-              ["**Afforestation vs deforestation ledger**", "ISFR shows forest+tree cover ~**25% of area (headline)** BUT gains concentrated in plantations-TOF while **dense natural forest degrades**; diversion continues (~15,000+ km² since 1980); **CAMPA's quality question**; the 33% NFP-1988 goal unmet"],
-              ["**Mining's cost-benefit**", "Jobs-royalties-DMF vs deforestation, AMD (acid mine drainage), dust (silicosis belts), displacement (tribal-heavy districts — the Samatha-PESA shield); **rat-hole mining's** ban-and-persistence; reclamation obligations (mine-closure plans) under-enforced; **AP file: Mangampeta barytes, limestone belts, beach-sand minerals, Eastern-Ghats bauxite (shelved after resistance), illegal sand's river damage**"]
+              [
+                "**Social forestry (1976 NCA coinage)**",
+                "Forestry FOR communities on non-forest land: **farm forestry** (own fields), **community woodlots** (village commons), **extension/strip forestry** (roads-canals-rail); goals — fuelwood-fodder-small timber, pressure relief on natural forests; 1980s heyday with mixed results (eucalyptus's market capture vs subsistence design — the classic critique)"
+              ],
+              [
+                "**Agroforestry's rebirth**",
+                "**National Agroforestry Policy 2014 (world's first)**; trees-outside-forests now supply most timber; poplar-Melia belts; **AP: subabul-casuarina pulpwood economies of Prakasam-Nellore** — farm forestry as cash crop"
+              ],
+              [
+                "**Afforestation vs deforestation ledger**",
+                "ISFR shows forest+tree cover ~**25% of area (headline)** BUT gains concentrated in plantations-TOF while **dense natural forest degrades**; diversion continues (~15,000+ km² since 1980); **CAMPA's quality question**; the 33% NFP-1988 goal unmet"
+              ],
+              [
+                "**Mining's cost-benefit**",
+                "Jobs-royalties-DMF vs deforestation, AMD (acid mine drainage), dust (silicosis belts), displacement (tribal-heavy districts — the Samatha-PESA shield); **rat-hole mining's** ban-and-persistence; reclamation obligations (mine-closure plans) under-enforced; **AP file: Mangampeta barytes, limestone belts, beach-sand minerals, Eastern-Ghats bauxite (shelved after resistance), illegal sand's river damage**"
+              ]
             ]
           }
         ]
@@ -57,6 +72,25 @@
             "text": "Exam tip: JE in the Godavari delta (paddy-pig-mosquito triangle) is the perfect health-environment correlation example — local, mechanistic, memorable. Lead with it."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — One Health & the environment-health nexus",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**One Health:** human, animal and ecosystem health are inseparable — **~75% of emerging infectious diseases are zoonotic** (COVID-19, Nipah, avian flu); antimicrobial resistance (AMR) spans the same triad.",
+              "**Environmental disease burden:** air pollution is among the leading risk factors for mortality in India (State of Global Air); unsafe water/sanitation, indoor smoke, heat stress and chemical exposure add to it.",
+              "**Institutional response:** the **National One Health Mission**, **National Programme on Climate Change & Human Health**, AMR national action plan, and WHO's planetary-health framing.",
+              "**Craft:** frame environmental degradation as a **public-health emergency**, linking air/water quality, climate and zoonoses — a high-value integrative angle."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**One Health** — integrated approach linking human, animal and environmental health.",
+          "~**75% of emerging infectious diseases are zoonotic**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +111,30 @@
       "One Health is the pandemic's institutional lesson — assess India's mission and its field readiness."
     ],
     "glossary": [
-      { "term": "One Health", "definition": "The integrated approach recognising human, animal and ecosystem health as one interdependent system — zoonosis-era governance." },
-      { "term": "Social forestry", "definition": "Tree-growing on non-forest and community lands for local fuelwood-fodder-timber needs — forestry for people, by people." },
-      { "term": "Trees outside forests", "definition": "Farm, roadside and homestead trees — now India's main timber source and the agroforestry policy's subject." },
-      { "term": "Fluorosis", "definition": "Skeletal-dental disease from excess groundwater fluoride — AP's geogenic health-environment signature." },
-      { "term": "Acid mine drainage", "definition": "Sulphide-rock runoff acidifying streams from mines — the long-tail water cost of extraction." },
-      { "term": "DALY", "definition": "Disability-Adjusted Life Year — the burden metric that lets environment and hospitals compete for the health budget." }
+      {
+        "term": "One Health",
+        "definition": "The integrated approach recognising human, animal and ecosystem health as one interdependent system — zoonosis-era governance."
+      },
+      {
+        "term": "Social forestry",
+        "definition": "Tree-growing on non-forest and community lands for local fuelwood-fodder-timber needs — forestry for people, by people."
+      },
+      {
+        "term": "Trees outside forests",
+        "definition": "Farm, roadside and homestead trees — now India's main timber source and the agroforestry policy's subject."
+      },
+      {
+        "term": "Fluorosis",
+        "definition": "Skeletal-dental disease from excess groundwater fluoride — AP's geogenic health-environment signature."
+      },
+      {
+        "term": "Acid mine drainage",
+        "definition": "Sulphide-rock runoff acidifying streams from mines — the long-tail water cost of extraction."
+      },
+      {
+        "term": "DALY",
+        "definition": "Disability-Adjusted Life Year — the burden metric that lets environment and hospitals compete for the health budget."
+      }
     ]
   },
   {
@@ -98,12 +150,32 @@
           },
           {
             "type": "table",
-            "headers": ["Resource file", "India status", "Management frame"],
+            "headers": [
+              "Resource file",
+              "India status",
+              "Management frame"
+            ],
             "rows": [
-              ["**Forests**", "~25% headline cover; quality gradient; NTFP livelihoods for ~275 mn people", "Sustained-yield working plans → **participatory (JFM ~1 lakh committees) → rights-based (FRA-CFR)**; the state-community pendulum"],
-              ["**Fisheries**", "**India #2-3 global producer (~18+ MT; inland now ~70%)**; marine plateauing near MSY (~5.3 MT potential); **AP = #1 state (~30% of national; shrimp export engine)**", "Marine: closed seasons (61-day monsoon ban), mesh regulation, EEZ zoning, **PMMSY (₹20,050 cr)**; inland-aqua: disease-seed-feed governance (CAA), **Kolleru's cautionary ecology**; blue-economy vs artisanal equity"],
-              ["**Fossil fuels**", "Coal ~350+ bt reserves (extractable subset smaller), oil-gas modest (KG's deepwater the frontier)", "Peak-and-transition management: efficiency, substitution, **just transition for coal districts** — 'manage the decline, don't deny it'"],
-              ["**Minerals**", "Iron ore-bauxite-limestone rich; **critical-minerals poor** (Li-Co imports; Reasi's promise; beach-sand REE-thorium restricted)", "MMDR auctions + DMF sharing + **National Critical Minerals Mission** + recycling (urban mining) — the security-circularity pair"]
+              [
+                "**Forests**",
+                "~25% headline cover; quality gradient; NTFP livelihoods for ~275 mn people",
+                "Sustained-yield working plans → **participatory (JFM ~1 lakh committees) → rights-based (FRA-CFR)**; the state-community pendulum"
+              ],
+              [
+                "**Fisheries**",
+                "**India #2-3 global producer (~18+ MT; inland now ~70%)**; marine plateauing near MSY (~5.3 MT potential); **AP = #1 state (~30% of national; shrimp export engine)**",
+                "Marine: closed seasons (61-day monsoon ban), mesh regulation, EEZ zoning, **PMMSY (₹20,050 cr)**; inland-aqua: disease-seed-feed governance (CAA), **Kolleru's cautionary ecology**; blue-economy vs artisanal equity"
+              ],
+              [
+                "**Fossil fuels**",
+                "Coal ~350+ bt reserves (extractable subset smaller), oil-gas modest (KG's deepwater the frontier)",
+                "Peak-and-transition management: efficiency, substitution, **just transition for coal districts** — 'manage the decline, don't deny it'"
+              ],
+              [
+                "**Minerals**",
+                "Iron ore-bauxite-limestone rich; **critical-minerals poor** (Li-Co imports; Reasi's promise; beach-sand REE-thorium restricted)",
+                "MMDR auctions + DMF sharing + **National Critical Minerals Mission** + recycling (urban mining) — the security-circularity pair"
+              ]
             ]
           }
         ]
@@ -143,6 +215,26 @@
             "text": "Exam tip: Cite Ostrom against Hardin by name — the commons debate's resolution is the single most powerful analytical move on any resources question; 'the renewables are what we exhaust' is its hook."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — natural resources beyond the inventory",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Taxonomy:** renewable (solar, wind, forests, water) vs non-renewable (fossil fuels, minerals); flow vs stock; the **commons problem (Hardin's 'Tragedy of the Commons'; Ostrom's community-governance answer)**.",
+              "**Critical minerals:** the energy transition needs **lithium, cobalt, nickel, rare earths, copper** — India's **Critical Minerals list (2023), KABIL (mineral security abroad), and domestic exploration (lithium find in J&K/Reasi)**.",
+              "**Forests & carbon sinks:** India's forest & tree cover (~24-25% of area — India State of Forest Report), the **1.5-3 bn tonne additional carbon-sink NDC**, and the FRA-vs-conservation tension.",
+              "**Analysis:** move from 'what resources exist' to **who owns/governs them, sustainability of extraction, and equity of benefit-sharing** — the political economy of resources."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Ostrom** — Nobel for showing communities can sustainably govern common-pool resources.",
+          "**KABIL** — Khanij Bidesh India Ltd, for securing critical minerals abroad.",
+          "**India State of Forest Report (FSI)** — biennial forest-cover assessment."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +255,30 @@
       "The mine of 2040 is the city of 2020 — argue circularity as non-renewable policy."
     ],
     "glossary": [
-      { "term": "Maximum sustainable yield", "definition": "The largest harvest a renewable stock can sustain indefinitely — the fisheries-forests planning ceiling." },
-      { "term": "Tragedy of the commons", "definition": "Hardin's open-access overuse logic — each user's gain, all users' ruin — answered by Ostrom's governed commons." },
-      { "term": "Community Forest Rights", "definition": "FRA's recognition of village authority over customary forests — the rights-based management regime." },
-      { "term": "Hotelling's rule", "definition": "Exhaustible-resource economics: scarcity rents rise with interest, inducing substitution before exhaustion." },
-      { "term": "Urban mining", "definition": "Recovering metals from waste streams (e-waste, slag, C&D) — the circular answer to mineral dependence." },
-      { "term": "Blue economy", "definition": "Sustainable use of ocean resources for growth — fisheries, ports, energy — with artisanal-equity and ecology caveats." }
+      {
+        "term": "Maximum sustainable yield",
+        "definition": "The largest harvest a renewable stock can sustain indefinitely — the fisheries-forests planning ceiling."
+      },
+      {
+        "term": "Tragedy of the commons",
+        "definition": "Hardin's open-access overuse logic — each user's gain, all users' ruin — answered by Ostrom's governed commons."
+      },
+      {
+        "term": "Community Forest Rights",
+        "definition": "FRA's recognition of village authority over customary forests — the rights-based management regime."
+      },
+      {
+        "term": "Hotelling's rule",
+        "definition": "Exhaustible-resource economics: scarcity rents rise with interest, inducing substitution before exhaustion."
+      },
+      {
+        "term": "Urban mining",
+        "definition": "Recovering metals from waste streams (e-waste, slag, C&D) — the circular answer to mineral dependence."
+      },
+      {
+        "term": "Blue economy",
+        "definition": "Sustainable use of ocean resources for growth — fisheries, ports, energy — with artisanal-equity and ecology caveats."
+      }
     ]
   },
   {
@@ -184,12 +294,27 @@
           },
           {
             "type": "table",
-            "headers": ["Watershed management", "Content"],
+            "headers": [
+              "Watershed management",
+              "Content"
+            ],
             "rows": [
-              ["Concept", "The **watershed** (catchment draining to a common point) as the planning unit — treat land-water-vegetation together, **ridge-to-valley** sequencing (treat the ridge first, the drainage line last)"],
-              ["Techniques", "Area treatment: contour bunds-trenches (CCT), terracing, vegetative barriers, afforestation of upper reaches; drainage-line: gully plugs, **check dams, percolation tanks, farm ponds**; recharge: injection-defunct-borewell recharge; agronomy: mulching, crop-choice discipline"],
-              ["Programmes", "Ancestry (DPAP-DDP-IWDP) → **IWMP → PMKSY-Watershed Development Component (WDC 2.0)**; **MGNREGA as the largest de-facto watershed programme** (60% NRM-works mandate in backward blocks); **Atal Bhujal Yojana (community groundwater budgeting, 7 states)**; catch-the-rain campaigns; **Mission Kakatiya's tank restoration (Telangana) & AP's Neeru-Chettu legacy** — the Telugu tank tradition (chain-tanks/'cascades' of Rayalaseema-Deccan antiquity) as the indigenous watershed science"],
-              ["Success proofs", "**Hiware Bazar & Ralegan Siddhi (Maharashtra)**, Sukhomajri (Haryana) — water budgets, grazing bans, social fencing turning drought villages prosperous: cite one in every answer"]
+              [
+                "Concept",
+                "The **watershed** (catchment draining to a common point) as the planning unit — treat land-water-vegetation together, **ridge-to-valley** sequencing (treat the ridge first, the drainage line last)"
+              ],
+              [
+                "Techniques",
+                "Area treatment: contour bunds-trenches (CCT), terracing, vegetative barriers, afforestation of upper reaches; drainage-line: gully plugs, **check dams, percolation tanks, farm ponds**; recharge: injection-defunct-borewell recharge; agronomy: mulching, crop-choice discipline"
+              ],
+              [
+                "Programmes",
+                "Ancestry (DPAP-DDP-IWDP) → **IWMP → PMKSY-Watershed Development Component (WDC 2.0)**; **MGNREGA as the largest de-facto watershed programme** (60% NRM-works mandate in backward blocks); **Atal Bhujal Yojana (community groundwater budgeting, 7 states)**; catch-the-rain campaigns; **Mission Kakatiya's tank restoration (Telangana) & AP's Neeru-Chettu legacy** — the Telugu tank tradition (chain-tanks/'cascades' of Rayalaseema-Deccan antiquity) as the indigenous watershed science"
+              ],
+              [
+                "Success proofs",
+                "**Hiware Bazar & Ralegan Siddhi (Maharashtra)**, Sukhomajri (Haryana) — water budgets, grazing bans, social fencing turning drought villages prosperous: cite one in every answer"
+              ]
             ]
           }
         ]
@@ -229,6 +354,26 @@
             "text": "Exam tip: 'Ridge to valley' and 'gypsum for sodic, drainage for saline' are the two technical phrases that mark a prepared candidate; Hiware Bazar is the universally safe success citation."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — water & land resources, the answers",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Water stock-take:** India has ~18% of world population but ~4% of freshwater; **groundwater is over-exploited** (largest user globally); per-capita availability is falling toward water-stress thresholds.",
+              "**The watershed answer:** rainwater harvesting, watershed development (**Atal Bhujal Yojana, Jal Shakti Abhiyan**), micro-irrigation ('per drop more crop'), demand management, and reuse of treated wastewater.",
+              "**River interlinking & rejuvenation:** the **National River Linking Project** (Ken-Betwa first), **Namami Gange**, and aquifer mapping (NAQUIM).",
+              "**Land & soils:** soil-erosion control (contour bunding, agroforestry, check dams), reclamation of saline/alkaline and ravine lands, **Soil Health Cards**, and combating desertification (LDN). **AP register:** deltaic salinity, Rayalaseema drought, and watershed programmes."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Atal Bhujal Yojana** — community-led groundwater management in water-stressed areas.",
+          "**Ken-Betwa Link** — the first project under the National River Linking Project.",
+          "India has ~**18% of the world's population but only ~4% of its freshwater resources**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -249,12 +394,30 @@
       "Land is the meta-resource without a policy — argue for a national land-use framework with AP's resurvey as the data base."
     ],
     "glossary": [
-      { "term": "Watershed", "definition": "The land area draining to a common outlet — hydrology's natural planning unit for soil-water-vegetation treatment." },
-      { "term": "Ridge-to-valley", "definition": "Treating a catchment from its top downward so upper works protect lower ones — watershed engineering's first rule." },
-      { "term": "Percolation tank", "definition": "An impoundment designed to recharge groundwater rather than store surface supply — the aquifer's feeding bowl." },
-      { "term": "Sodic (usar) land", "definition": "High-sodium alkaline soil dispersing structure — reclaimed with gypsum, drainage and tolerant crops." },
-      { "term": "Conjunctive use", "definition": "Planned joint management of surface and groundwater — the escape from both waterlogging and mining." },
-      { "term": "Tank cascade", "definition": "The chain-tank systems of the Telugu-Deccan country passing overflow tank-to-tank — indigenous watershed infrastructure." }
+      {
+        "term": "Watershed",
+        "definition": "The land area draining to a common outlet — hydrology's natural planning unit for soil-water-vegetation treatment."
+      },
+      {
+        "term": "Ridge-to-valley",
+        "definition": "Treating a catchment from its top downward so upper works protect lower ones — watershed engineering's first rule."
+      },
+      {
+        "term": "Percolation tank",
+        "definition": "An impoundment designed to recharge groundwater rather than store surface supply — the aquifer's feeding bowl."
+      },
+      {
+        "term": "Sodic (usar) land",
+        "definition": "High-sodium alkaline soil dispersing structure — reclaimed with gypsum, drainage and tolerant crops."
+      },
+      {
+        "term": "Conjunctive use",
+        "definition": "Planned joint management of surface and groundwater — the escape from both waterlogging and mining."
+      },
+      {
+        "term": "Tank cascade",
+        "definition": "The chain-tank systems of the Telugu-Deccan country passing overflow tank-to-tank — indigenous watershed infrastructure."
+      }
     ]
   }
 ]

@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Prevention level", "Content", "Programme"],
+            "headers": [
+              "Prevention level",
+              "Content",
+              "Programme"
+            ],
             "rows": [
-              ["**Primary** (prevent occurrence)", "**Vaccination (immunisation), sanitation-safe water, vector control, hygiene, health education, nutrition**", "Universal Immunisation Programme (Mission Indradhanush), SBM, safe-water"],
-              ["**Secondary** (early detection-treatment)", "Screening, prompt diagnosis, treatment to prevent progression-transmission (DOTS for TB)", "NTEP (TB), NVBDCP (vector), screening camps"],
-              ["**Tertiary** (limit disability)", "Rehabilitation, complication management", "Disability programmes, palliative care"],
-              ["**One Health**", "Human-animal-environment integration (zoonoses ~60-75% of emerging infections)", "National One Health Mission, pandemic preparedness"]
+              [
+                "**Primary** (prevent occurrence)",
+                "**Vaccination (immunisation), sanitation-safe water, vector control, hygiene, health education, nutrition**",
+                "Universal Immunisation Programme (Mission Indradhanush), SBM, safe-water"
+              ],
+              [
+                "**Secondary** (early detection-treatment)",
+                "Screening, prompt diagnosis, treatment to prevent progression-transmission (DOTS for TB)",
+                "NTEP (TB), NVBDCP (vector), screening camps"
+              ],
+              [
+                "**Tertiary** (limit disability)",
+                "Rehabilitation, complication management",
+                "Disability programmes, palliative care"
+              ],
+              [
+                "**One Health**",
+                "Human-animal-environment integration (zoonoses ~60-75% of emerging infections)",
+                "National One Health Mission, pandemic preparedness"
+              ]
             ]
           }
         ]
@@ -57,6 +77,25 @@
             "text": "Exam tip: Organise by pathogen-type and transmission-route, then the three-level prevention hierarchy; India's 'triple burden' (communicable + NCD + emerging) plus AMR shows current epidemiological literacy."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — India's double disease burden",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The epidemiological transition:** India carries a **double burden** — persisting communicable diseases (TB, malaria, dengue) alongside a rising tide of **NCDs (cardiovascular, diabetes, cancer — now the majority of deaths)**.",
+              "**TB — the flagship:** India has the world's largest TB burden; the **National TB Elimination Programme** targets elimination ahead of the global 2030 goal.",
+              "**Systemic response:** **Ayushman Bharat (PM-JAY ₹5-lakh cover + Ayushman Arogya Mandirs), National Health Mission, and the Ayushman Bharat Digital Mission (health IDs)**.",
+              "**AMR — the silent pandemic:** antimicrobial resistance from overuse threatens to undo modern medicine; India's AMR action plan and 'One Health' response."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "India has the world's largest **tuberculosis** burden; **NTEP** targets elimination.",
+          "**NCDs (non-communicable diseases)** now account for the majority of deaths in India."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,12 +115,30 @@
       "AP's delta breeds Japanese encephalitis — link ecology, disease and prevention in a regional case."
     ],
     "glossary": [
-      { "term": "Communicable disease", "definition": "An infectious, transmissible disease caused by pathogens (virus, bacterium, protozoan, fungus, worm)." },
-      { "term": "Non-communicable disease", "definition": "A non-transmissible chronic disease (cardiovascular, diabetes, cancer) — India's rising majority burden." },
-      { "term": "Primary prevention", "definition": "Preventing disease occurrence via vaccination, sanitation, vector control and education — the cheapest level." },
-      { "term": "AMR", "definition": "Antimicrobial resistance — pathogens evolving to defeat drugs, the 'silent pandemic' of misuse." },
-      { "term": "Zoonosis", "definition": "A disease transmitted from animals to humans — the source of most emerging infections." },
-      { "term": "Epidemiological transition", "definition": "The shift of a population's disease burden from infectious to chronic non-communicable causes." }
+      {
+        "term": "Communicable disease",
+        "definition": "An infectious, transmissible disease caused by pathogens (virus, bacterium, protozoan, fungus, worm)."
+      },
+      {
+        "term": "Non-communicable disease",
+        "definition": "A non-transmissible chronic disease (cardiovascular, diabetes, cancer) — India's rising majority burden."
+      },
+      {
+        "term": "Primary prevention",
+        "definition": "Preventing disease occurrence via vaccination, sanitation, vector control and education — the cheapest level."
+      },
+      {
+        "term": "AMR",
+        "definition": "Antimicrobial resistance — pathogens evolving to defeat drugs, the 'silent pandemic' of misuse."
+      },
+      {
+        "term": "Zoonosis",
+        "definition": "A disease transmitted from animals to humans — the source of most emerging infections."
+      },
+      {
+        "term": "Epidemiological transition",
+        "definition": "The shift of a population's disease burden from infectious to chronic non-communicable causes."
+      }
     ]
   },
   {
@@ -93,12 +150,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Class", "Nature", "Examples & treatment"],
+            "headers": [
+              "Class",
+              "Nature",
+              "Examples & treatment"
+            ],
             "rows": [
-              ["**Bacterial**", "Prokaryotic, mostly extracellular; reproduce independently", "TB (Mycobacterium), cholera (Vibrio), typhoid (Salmonella), tetanus, leprosy, pneumonia; **treated by antibiotics** (targeting bacterial machinery); AMR the growing threat"],
-              ["**Viral**", "Obligate intracellular; hijack host cells; no independent metabolism", "Covid, influenza, HIV, dengue, hepatitis, polio, measles, rabies; **antivirals limited; vaccines the mainstay** (viruses don't respond to antibiotics — the key public-health literacy point)"],
-              ["**Protozoal**", "Single-celled eukaryotes; often vector/water-borne", "Malaria (Plasmodium), amoebiasis (Entamoeba), kala-azar (Leishmania), giardiasis; **anti-protozoal drugs** (chloroquine/ACT, metronidazole)"],
-              ["**Fungal**", "Eukaryotic; opportunistic in immunocompromised", "Candidiasis, aspergillosis, **mucormycosis ('black fungus' — the Covid-era surge)**, ringworm; **antifungals** (amphotericin, azoles)"]
+              [
+                "**Bacterial**",
+                "Prokaryotic, mostly extracellular; reproduce independently",
+                "TB (Mycobacterium), cholera (Vibrio), typhoid (Salmonella), tetanus, leprosy, pneumonia; **treated by antibiotics** (targeting bacterial machinery); AMR the growing threat"
+              ],
+              [
+                "**Viral**",
+                "Obligate intracellular; hijack host cells; no independent metabolism",
+                "Covid, influenza, HIV, dengue, hepatitis, polio, measles, rabies; **antivirals limited; vaccines the mainstay** (viruses don't respond to antibiotics — the key public-health literacy point)"
+              ],
+              [
+                "**Protozoal**",
+                "Single-celled eukaryotes; often vector/water-borne",
+                "Malaria (Plasmodium), amoebiasis (Entamoeba), kala-azar (Leishmania), giardiasis; **anti-protozoal drugs** (chloroquine/ACT, metronidazole)"
+              ],
+              [
+                "**Fungal**",
+                "Eukaryotic; opportunistic in immunocompromised",
+                "Candidiasis, aspergillosis, **mucormycosis ('black fungus' — the Covid-era surge)**, ringworm; **antifungals** (amphotericin, azoles)"
+              ]
             ]
           },
           {
@@ -142,6 +219,53 @@
             "text": "Exam tip: The treatment-logic distinction (antibiotics = bacteria only) is this theme's anchor — state it explicitly; the four-class table with one example and one drug-class each is the complete factual spine."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — the four pathogen classes & immunity",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Class",
+              "Example diseases",
+              "Treatment lever"
+            ],
+            "rows": [
+              [
+                "**Bacteria**",
+                "TB, cholera, typhoid, leprosy",
+                "Antibiotics (AMR risk)"
+              ],
+              [
+                "**Viruses**",
+                "COVID-19, dengue, polio, HIV, hepatitis",
+                "Vaccines/antivirals; no antibiotics"
+              ],
+              [
+                "**Fungi**",
+                "Mucormycosis ('black fungus'), candidiasis",
+                "Antifungals"
+              ],
+              [
+                "**Protozoa/parasites**",
+                "Malaria, kala-azar, filariasis",
+                "Antiparasitics; vector control"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Immunity:** innate (barriers, phagocytes) vs adaptive (B-cells/antibodies, T-cells/memory); **active** (infection/vaccine) vs **passive** (maternal/antibody transfer); **herd immunity** thresholds.",
+              "**Control:** vaccination (Universal Immunisation Programme, Mission Indradhanush), vector control, sanitation, surveillance (**IDSP/IHIP**), and antibiotic stewardship."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Antibiotics work on bacteria, not viruses** — misuse drives AMR.",
+          "**Active immunity** (vaccine/infection) is long-lasting; **passive** (antibodies) is immediate but temporary."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -161,12 +285,30 @@
       "Diagnosis decides treatment — evaluate the microscopy-culture-PCR-immunoassay toolkit."
     ],
     "glossary": [
-      { "term": "Bacterium", "definition": "A prokaryotic microorganism reproducing independently — treatable by antibiotics targeting its machinery." },
-      { "term": "Virus", "definition": "An obligate intracellular pathogen hijacking host cells — countered by vaccines and antivirals, not antibiotics." },
-      { "term": "Protozoan", "definition": "A single-celled eukaryotic parasite (malaria, amoebiasis) — treated with anti-protozoal drugs." },
-      { "term": "Opportunistic infection", "definition": "An infection exploiting weakened immunity (fungal mucormycosis) — status-dependent disease." },
-      { "term": "Antibiotic stewardship", "definition": "Rational, targeted antibiotic use preserving effectiveness — AMR's frontline defence." },
-      { "term": "ACT", "definition": "Artemisinin-based Combination Therapy — the first-line antimalarial regimen against resistant Plasmodium." }
+      {
+        "term": "Bacterium",
+        "definition": "A prokaryotic microorganism reproducing independently — treatable by antibiotics targeting its machinery."
+      },
+      {
+        "term": "Virus",
+        "definition": "An obligate intracellular pathogen hijacking host cells — countered by vaccines and antivirals, not antibiotics."
+      },
+      {
+        "term": "Protozoan",
+        "definition": "A single-celled eukaryotic parasite (malaria, amoebiasis) — treated with anti-protozoal drugs."
+      },
+      {
+        "term": "Opportunistic infection",
+        "definition": "An infection exploiting weakened immunity (fungal mucormycosis) — status-dependent disease."
+      },
+      {
+        "term": "Antibiotic stewardship",
+        "definition": "Rational, targeted antibiotic use preserving effectiveness — AMR's frontline defence."
+      },
+      {
+        "term": "ACT",
+        "definition": "Artemisinin-based Combination Therapy — the first-line antimalarial regimen against resistant Plasmodium."
+      }
     ]
   },
   {
@@ -178,16 +320,52 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Disease", "Pathogen & spread", "Control/programme"],
+            "headers": [
+              "Disease",
+              "Pathogen & spread",
+              "Control/programme"
+            ],
             "rows": [
-              ["**Diarrhoea/dysentery**", "Rotavirus, E. coli, Shigella (dysentery); faecal-oral", "**ORS + zinc** (the life-saver), Rotavac vaccine, sanitation (SBM); the child-mortality killer historically"],
-              ["**Cholera**", "Vibrio cholerae; contaminated water", "ORS/IV rehydration, oral cholera vaccine, safe water; epidemic-prone (Broad Street pump — epidemiology's birth)"],
-              ["**Tuberculosis**", "Mycobacterium tuberculosis; airborne droplet", "**NTEP (National TB Elimination Programme)**, DOTS/BPaLM regimens, Ni-kshay portal; **India's 2025 elimination target** (ahead of SDG 2030); the world's largest burden"],
-              ["**Malaria**", "Plasmodium (vivax/falciparum); Anopheles mosquito", "**NVBDCP → elimination by 2030**; ACT, bed-nets (LLINs), indoor spraying, RTS,S/R21 vaccines (Africa)"],
-              ["**HIV/AIDS**", "HIV retrovirus; blood/sexual/vertical", "**NACO/NACP**, ART (free), prevention (condoms, PrEP), '90-90-90'→95 targets; India's concentrated-epidemic success story"],
-              ["**Encephalitis (JE/AES)**", "JE virus (mosquito, pig-amplified); other AES causes", "JE vaccine (UIP), vector control, the Gorakhpur/Godavari-delta relevance"],
-              ["**Chikungunya/Dengue**", "Alphavirus/Flavivirus; Aedes mosquito (day-biter)", "Vector control (source reduction), no specific drug; dengue vaccines emerging; urban-monsoon surges"],
-              ["**Bird flu (avian influenza H5N1)**", "Influenza-A virus; poultry-to-human (zoonotic)", "Culling, surveillance (One Health), pandemic-preparedness watch (mammalian-spread concern)"]
+              [
+                "**Diarrhoea/dysentery**",
+                "Rotavirus, E. coli, Shigella (dysentery); faecal-oral",
+                "**ORS + zinc** (the life-saver), Rotavac vaccine, sanitation (SBM); the child-mortality killer historically"
+              ],
+              [
+                "**Cholera**",
+                "Vibrio cholerae; contaminated water",
+                "ORS/IV rehydration, oral cholera vaccine, safe water; epidemic-prone (Broad Street pump — epidemiology's birth)"
+              ],
+              [
+                "**Tuberculosis**",
+                "Mycobacterium tuberculosis; airborne droplet",
+                "**NTEP (National TB Elimination Programme)**, DOTS/BPaLM regimens, Ni-kshay portal; **India's 2025 elimination target** (ahead of SDG 2030); the world's largest burden"
+              ],
+              [
+                "**Malaria**",
+                "Plasmodium (vivax/falciparum); Anopheles mosquito",
+                "**NVBDCP → elimination by 2030**; ACT, bed-nets (LLINs), indoor spraying, RTS,S/R21 vaccines (Africa)"
+              ],
+              [
+                "**HIV/AIDS**",
+                "HIV retrovirus; blood/sexual/vertical",
+                "**NACO/NACP**, ART (free), prevention (condoms, PrEP), '90-90-90'→95 targets; India's concentrated-epidemic success story"
+              ],
+              [
+                "**Encephalitis (JE/AES)**",
+                "JE virus (mosquito, pig-amplified); other AES causes",
+                "JE vaccine (UIP), vector control, the Gorakhpur/Godavari-delta relevance"
+              ],
+              [
+                "**Chikungunya/Dengue**",
+                "Alphavirus/Flavivirus; Aedes mosquito (day-biter)",
+                "Vector control (source reduction), no specific drug; dengue vaccines emerging; urban-monsoon surges"
+              ],
+              [
+                "**Bird flu (avian influenza H5N1)**",
+                "Influenza-A virus; poultry-to-human (zoonotic)",
+                "Culling, surveillance (One Health), pandemic-preparedness watch (mammalian-spread concern)"
+              ]
             ]
           }
         ]
@@ -227,6 +405,25 @@
             "text": "Exam tip: Group the eight named diseases by transmission route, then map each route to its control programme — that structure turns a disease list into a public-health strategy; the elimination-target dates are the currency facts."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — cross-cutting public-health lessons",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Eradication vs elimination vs control:** **smallpox eradicated (1980), polio eliminated in India (2014), guinea-worm nearly gone**; TB/malaria/leprosy are elimination targets — the distinction matters in answers.",
+              "**Determinants of health (WHO):** social, economic and environmental factors (water, sanitation, nutrition, income, education) outweigh clinical care — the case for **preventive and primary health**.",
+              "**COVID-19 lessons:** surge capacity, indigenous vaccines (COVAXIN/CoWIN digital delivery), supply chains, and the need to raise **public-health spending toward the NHP-2017 target of 2.5% of GDP**.",
+              "**Craft:** frame disease control as health-systems + determinants + surveillance, not just drugs."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Smallpox** — the only human disease eradicated (1980); India certified **polio-free in 2014**.",
+          "**National Health Policy 2017** targets public-health spending of **2.5% of GDP**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -247,12 +444,30 @@
       "Bird flu tests One Health — argue zoonotic surveillance as pandemic prevention."
     ],
     "glossary": [
-      { "term": "ORS", "definition": "Oral Rehydration Solution — the glucose-salt therapy that made diarrhoea survivable; a public-health revolution." },
-      { "term": "DOTS", "definition": "Directly Observed Treatment, Short-course — the supervised-adherence strategy central to TB control." },
-      { "term": "NTEP", "definition": "National TB Elimination Programme — India's TB mission targeting elimination by 2025." },
-      { "term": "Vector control", "definition": "Reducing disease-carrying insects via source reduction, nets and spraying — the core anti-malaria/dengue tool." },
-      { "term": "ART", "definition": "Antiretroviral Therapy — the HIV treatment (free under NACO) suppressing viral load and transmission." },
-      { "term": "Elimination (disease)", "definition": "Reducing a disease to zero (or below-threshold) incidence in a defined area — India's TB/malaria/kala-azar goal." }
+      {
+        "term": "ORS",
+        "definition": "Oral Rehydration Solution — the glucose-salt therapy that made diarrhoea survivable; a public-health revolution."
+      },
+      {
+        "term": "DOTS",
+        "definition": "Directly Observed Treatment, Short-course — the supervised-adherence strategy central to TB control."
+      },
+      {
+        "term": "NTEP",
+        "definition": "National TB Elimination Programme — India's TB mission targeting elimination by 2025."
+      },
+      {
+        "term": "Vector control",
+        "definition": "Reducing disease-carrying insects via source reduction, nets and spraying — the core anti-malaria/dengue tool."
+      },
+      {
+        "term": "ART",
+        "definition": "Antiretroviral Therapy — the HIV treatment (free under NACO) suppressing viral load and transmission."
+      },
+      {
+        "term": "Elimination (disease)",
+        "definition": "Reducing a disease to zero (or below-threshold) incidence in a defined area — India's TB/malaria/kala-azar goal."
+      }
     ]
   },
   {
@@ -268,14 +483,35 @@
           },
           {
             "type": "table",
-            "headers": ["The recombinant-DNA workflow", "Step"],
+            "headers": [
+              "The recombinant-DNA workflow",
+              "Step"
+            ],
             "rows": [
-              ["1. Isolate", "Extract the gene of interest (and vector DNA)"],
-              ["2. Cut", "Restriction enzymes cut both at matching sites (creating sticky/blunt ends)"],
-              ["3. Join", "DNA ligase joins insert into vector → recombinant DNA"],
-              ["4. Transform", "Introduce recombinant vector into host (heat-shock, electroporation)"],
-              ["5. Select & screen", "Markers + blue-white screening identify successful transformants"],
-              ["6. Express & harvest", "Host produces the target protein; downstream purification"]
+              [
+                "1. Isolate",
+                "Extract the gene of interest (and vector DNA)"
+              ],
+              [
+                "2. Cut",
+                "Restriction enzymes cut both at matching sites (creating sticky/blunt ends)"
+              ],
+              [
+                "3. Join",
+                "DNA ligase joins insert into vector → recombinant DNA"
+              ],
+              [
+                "4. Transform",
+                "Introduce recombinant vector into host (heat-shock, electroporation)"
+              ],
+              [
+                "5. Select & screen",
+                "Markers + blue-white screening identify successful transformants"
+              ],
+              [
+                "6. Express & harvest",
+                "Host produces the target protein; downstream purification"
+              ]
             ]
           }
         ]
@@ -315,6 +551,25 @@
             "text": "Exam tip: Name the toolkit precisely — restriction enzymes (scissors), ligase (glue), plasmid (vehicle), marker (label) — and walk the six-step workflow; that mechanistic literacy is exactly what the health-biology paper tests."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — genetic engineering, the applied-biology view",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Core tools:** restriction enzymes ('molecular scissors'), ligase, plasmid/viral vectors, PCR (amplification), gel electrophoresis, and **CRISPR-Cas9** for precise editing.",
+              "**Medical applications:** recombinant insulin, human growth hormone, clotting factors, **recombinant vaccines (Hepatitis-B)**, gene therapy, and CAR-T (NexCAR19).",
+              "**Agricultural applications:** Bt crops (pest resistance), Golden Rice (vitamin-A), drought/salinity tolerance, and biofortification.",
+              "**Frontier & caution:** gene drives, synthetic biology, and xenotransplantation — powerful but demanding biosafety and ethics oversight (GEAC/ICMR)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Recombinant DNA technology** — combining DNA from different sources; basis of genetically engineered insulin.",
+          "**Golden Rice** — genetically engineered to produce beta-carotene (vitamin-A precursor)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -334,12 +589,30 @@
       "From insulin to vaccines — connect the mechanism to India's recombinant-pharma capacity."
     ],
     "glossary": [
-      { "term": "Central dogma", "definition": "The DNA→RNA→protein flow of genetic information — the framework genetic engineering intervenes in." },
-      { "term": "Restriction enzyme", "definition": "A protein cutting DNA at specific recognition sequences — genetic engineering's molecular scissors." },
-      { "term": "Vector (cloning)", "definition": "A DNA vehicle (plasmid, phage) carrying an inserted gene into a host cell for replication/expression." },
-      { "term": "Selectable marker", "definition": "A gene (often antibiotic resistance) letting researchers identify successfully transformed cells." },
-      { "term": "PCR", "definition": "Polymerase Chain Reaction — the technique amplifying tiny DNA amounts exponentially." },
-      { "term": "Transformation", "definition": "The uptake of foreign DNA by a host cell (via heat-shock or electroporation) — the workflow's delivery step." }
+      {
+        "term": "Central dogma",
+        "definition": "The DNA→RNA→protein flow of genetic information — the framework genetic engineering intervenes in."
+      },
+      {
+        "term": "Restriction enzyme",
+        "definition": "A protein cutting DNA at specific recognition sequences — genetic engineering's molecular scissors."
+      },
+      {
+        "term": "Vector (cloning)",
+        "definition": "A DNA vehicle (plasmid, phage) carrying an inserted gene into a host cell for replication/expression."
+      },
+      {
+        "term": "Selectable marker",
+        "definition": "A gene (often antibiotic resistance) letting researchers identify successfully transformed cells."
+      },
+      {
+        "term": "PCR",
+        "definition": "Polymerase Chain Reaction — the technique amplifying tiny DNA amounts exponentially."
+      },
+      {
+        "term": "Transformation",
+        "definition": "The uptake of foreign DNA by a host cell (via heat-shock or electroporation) — the workflow's delivery step."
+      }
     ]
   }
 ]

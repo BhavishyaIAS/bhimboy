@@ -12,14 +12,42 @@
           },
           {
             "type": "table",
-            "headers": ["Technique", "What it does", "Application"],
+            "headers": [
+              "Technique",
+              "What it does",
+              "Application"
+            ],
             "rows": [
-              ["**Micropropagation**", "Mass-clone identical plants from a single explant", "Banana, potato, orchids, sugarcane, forestry — disease-free elite planting material (AP's horticulture)"],
-              ["**Meristem culture**", "Culture the virus-free shoot-tip", "Virus-free seed potato, banana — sanitation"],
-              ["**Somatic embryogenesis / synthetic seeds**", "Embryos from somatic cells; encapsulated 'seeds'", "Clonal propagation, germplasm exchange"],
-              ["**Anther/pollen culture (haploids)**", "Produce haploid → doubled-haploid pure lines", "Rapid breeding of homozygous varieties"],
-              ["**Protoplast fusion (somatic hybridisation)**", "Fuse cell-wall-removed cells across species", "Novel hybrids bypassing sexual barriers"],
-              ["**Animal cell culture / stem cells**", "Grow cells in vitro; stem-cell differentiation", "Vaccine production, drug testing, regenerative medicine, cultured meat"]
+              [
+                "**Micropropagation**",
+                "Mass-clone identical plants from a single explant",
+                "Banana, potato, orchids, sugarcane, forestry — disease-free elite planting material (AP's horticulture)"
+              ],
+              [
+                "**Meristem culture**",
+                "Culture the virus-free shoot-tip",
+                "Virus-free seed potato, banana — sanitation"
+              ],
+              [
+                "**Somatic embryogenesis / synthetic seeds**",
+                "Embryos from somatic cells; encapsulated 'seeds'",
+                "Clonal propagation, germplasm exchange"
+              ],
+              [
+                "**Anther/pollen culture (haploids)**",
+                "Produce haploid → doubled-haploid pure lines",
+                "Rapid breeding of homozygous varieties"
+              ],
+              [
+                "**Protoplast fusion (somatic hybridisation)**",
+                "Fuse cell-wall-removed cells across species",
+                "Novel hybrids bypassing sexual barriers"
+              ],
+              [
+                "**Animal cell culture / stem cells**",
+                "Grow cells in vitro; stem-cell differentiation",
+                "Vaccine production, drug testing, regenerative medicine, cultured meat"
+              ]
             ]
           }
         ]
@@ -59,6 +87,25 @@
             "text": "Exam tip: Totipotency is the concept that makes plant tissue culture possible — state it first; then the explant-callus-plantlet workflow and the disease-free-mass-clone payoff (AP's banana horticulture the perfect example)."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — tissue culture, methods & impact",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Principle:** **totipotency** — a single plant cell can regenerate a whole plant on nutrient media (with auxins/cytokinins) under sterile conditions.",
+              "**Methods:** micropropagation (clonal, disease-free planting material), somatic embryogenesis, anther culture (haploids), protoplast fusion (somatic hybrids), and cryopreservation (germplasm banks).",
+              "**Why it matters:** rapid multiplication of elite/rare species (banana, orchids, teak), virus-free seed, conservation of endangered plants, and secondary-metabolite/pharma production.",
+              "**AP hook:** horticulture and plantation crops benefit from tissue-cultured planting material; commercial TC labs support banana/floriculture."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Totipotency** — the ability of a single cell to develop into a whole organism.",
+          "**Micropropagation** produces disease-free, genetically identical planting material at scale."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -78,12 +125,30 @@
       "Animal-cell culture underpins modern medicine — connect it to vaccines and regenerative therapy."
     ],
     "glossary": [
-      { "term": "Totipotency", "definition": "A cell's capacity to develop into a complete organism — the principle enabling plant tissue culture." },
-      { "term": "Explant", "definition": "The tissue piece excised to initiate a culture." },
-      { "term": "Callus", "definition": "An undifferentiated mass of dividing cells from which organs or embryos regenerate." },
-      { "term": "Micropropagation", "definition": "Mass in-vitro cloning of plants from small explants — the commercial workhorse of plant tissue culture." },
-      { "term": "Somaclonal variation", "definition": "Genetic/epigenetic variation arising during tissue culture — a source of novelty and of quality problems." },
-      { "term": "MS medium", "definition": "Murashige-Skoog nutrient medium — the standard substrate for plant tissue culture." }
+      {
+        "term": "Totipotency",
+        "definition": "A cell's capacity to develop into a complete organism — the principle enabling plant tissue culture."
+      },
+      {
+        "term": "Explant",
+        "definition": "The tissue piece excised to initiate a culture."
+      },
+      {
+        "term": "Callus",
+        "definition": "An undifferentiated mass of dividing cells from which organs or embryos regenerate."
+      },
+      {
+        "term": "Micropropagation",
+        "definition": "Mass in-vitro cloning of plants from small explants — the commercial workhorse of plant tissue culture."
+      },
+      {
+        "term": "Somaclonal variation",
+        "definition": "Genetic/epigenetic variation arising during tissue culture — a source of novelty and of quality problems."
+      },
+      {
+        "term": "MS medium",
+        "definition": "Murashige-Skoog nutrient medium — the standard substrate for plant tissue culture."
+      }
     ]
   },
   {
@@ -95,12 +160,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Input", "What it is", "Benefit & caution"],
+            "headers": [
+              "Input",
+              "What it is",
+              "Benefit & caution"
+            ],
             "rows": [
-              ["**Biofertilisers**", "Live microbes fixing/mobilising nutrients — **Rhizobium (legume N-fixation), Azotobacter/Azospirilla (free N), BGA/Azolla (rice), PSB (phosphate-solubilising), mycorrhizae**", "Cut chemical-fertiliser use, improve soil biology; caution — shelf-life, field-response variability"],
-              ["**Biopesticides**", "Biological pest control — **Bt (Bacillus thuringiensis), NPV viruses, Trichoderma (fungal), neem-based, pheromone traps**", "Target-specific, residue-free, resistance-managing; caution — slower action, storage"],
-              ["**Biofuels**", "Fuels from biomass — **1G ethanol (molasses/grain), 2G (crop residue-cellulose), biodiesel (UCO/jatropha), CBG (biogas), algae (frontier)**", "Import-substitution, emissions, farm-income (E20 achieved); caution — food-vs-fuel, water, land"],
-              ["**GM crops**", "Genetically engineered traits — **Bt (insect resistance), HT (herbicide tolerance), biofortified (golden rice), stress-tolerant**", "Yield-protection, nutrition, input-reduction; caution — biosafety, corporate-seed dependence, social acceptance (BN-033)"]
+              [
+                "**Biofertilisers**",
+                "Live microbes fixing/mobilising nutrients — **Rhizobium (legume N-fixation), Azotobacter/Azospirilla (free N), BGA/Azolla (rice), PSB (phosphate-solubilising), mycorrhizae**",
+                "Cut chemical-fertiliser use, improve soil biology; caution — shelf-life, field-response variability"
+              ],
+              [
+                "**Biopesticides**",
+                "Biological pest control — **Bt (Bacillus thuringiensis), NPV viruses, Trichoderma (fungal), neem-based, pheromone traps**",
+                "Target-specific, residue-free, resistance-managing; caution — slower action, storage"
+              ],
+              [
+                "**Biofuels**",
+                "Fuels from biomass — **1G ethanol (molasses/grain), 2G (crop residue-cellulose), biodiesel (UCO/jatropha), CBG (biogas), algae (frontier)**",
+                "Import-substitution, emissions, farm-income (E20 achieved); caution — food-vs-fuel, water, land"
+              ],
+              [
+                "**GM crops**",
+                "Genetically engineered traits — **Bt (insect resistance), HT (herbicide tolerance), biofortified (golden rice), stress-tolerant**",
+                "Yield-protection, nutrition, input-reduction; caution — biosafety, corporate-seed dependence, social acceptance (BN-033)"
+              ]
             ]
           }
         ]
@@ -140,6 +225,25 @@
             "text": "Exam tip: Bt cotton being India's ONLY commercial GM crop — despite two decades — is the single most telling fact about India's GM caution; frame bio-inputs as sustainable agriculture's biological arm, with APCNF as the AP flagship."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — bio-inputs & GM crops, the Indian picture",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Bio-inputs:** **biofertilisers (Rhizobium, Azotobacter, blue-green algae), biopesticides (Bt, neem, Trichoderma), and biostimulants** — central to natural/organic farming (APCNF).",
+              "**GM crops:** **Bt cotton** (only commercial GM crop; pest resistance but bollworm-resistance & Bt-brinjal-moratorium debates); **GM mustard (DMH-11)** cleared but sub judice; the **HTBt** illegal-cultivation issue.",
+              "**Regulation:** **GEAC** approval, biosafety trials, and the precaution-vs-productivity balance.",
+              "**Balanced line:** deploy GM where biosafety and farmer-benefit are proven (case-by-case), while scaling agroecological bio-inputs — the two need not be opposed."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Biofertilisers:** Rhizobium (legume N-fixation), Azotobacter, Azospirillum, blue-green algae.",
+          "**GM mustard (DMH-11)** — cleared by GEAC but litigation pending in the Supreme Court."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -159,12 +263,30 @@
       "AP hosts the green-biotech spectrum — from APCNF bio-inputs to Bt cotton to ethanol: synthesise."
     ],
     "glossary": [
-      { "term": "Biofertiliser", "definition": "Live microbial inoculants fixing or mobilising nutrients (Rhizobium, Azotobacter) — reducing chemical-fertiliser dependence." },
-      { "term": "Biopesticide", "definition": "Biological pest-control agents (Bt, Trichoderma, neem, NPV) — target-specific and residue-free." },
-      { "term": "GM crop", "definition": "A crop with genetically engineered traits (Bt insect-resistance, herbicide-tolerance, biofortification)." },
-      { "term": "2G biofuel", "definition": "Fuel from non-food cellulosic biomass (crop residue) — resolving the food-versus-fuel tension." },
-      { "term": "Bt", "definition": "Bacillus thuringiensis — a bacterium whose insecticidal genes power both biopesticides and Bt crops." },
-      { "term": "Compressed biogas", "definition": "Purified biogas (CBG) from organic waste as a transport fuel — the SATAT/GOBARdhan initiative." }
+      {
+        "term": "Biofertiliser",
+        "definition": "Live microbial inoculants fixing or mobilising nutrients (Rhizobium, Azotobacter) — reducing chemical-fertiliser dependence."
+      },
+      {
+        "term": "Biopesticide",
+        "definition": "Biological pest-control agents (Bt, Trichoderma, neem, NPV) — target-specific and residue-free."
+      },
+      {
+        "term": "GM crop",
+        "definition": "A crop with genetically engineered traits (Bt insect-resistance, herbicide-tolerance, biofortification)."
+      },
+      {
+        "term": "2G biofuel",
+        "definition": "Fuel from non-food cellulosic biomass (crop residue) — resolving the food-versus-fuel tension."
+      },
+      {
+        "term": "Bt",
+        "definition": "Bacillus thuringiensis — a bacterium whose insecticidal genes power both biopesticides and Bt crops."
+      },
+      {
+        "term": "Compressed biogas",
+        "definition": "Purified biogas (CBG) from organic waste as a transport fuel — the SATAT/GOBARdhan initiative."
+      }
     ]
   },
   {
@@ -180,13 +302,37 @@
           },
           {
             "type": "table",
-            "headers": ["Transgenic-animal application", "Example", "Purpose"],
+            "headers": [
+              "Transgenic-animal application",
+              "Example",
+              "Purpose"
+            ],
             "rows": [
-              ["**Pharming (biopharmaceuticals)**", "Goats/cattle secreting therapeutic proteins in milk (e.g., antithrombin — ATryn)", "Cheap drug production in 'bioreactor' animals"],
-              ["**Disease models**", "Transgenic mice (oncomouse), knockout models", "Research into human disease and drug testing"],
-              ["**Improved production**", "Faster-growing, disease-resistant, better-quality livestock/fish (AquAdvantage salmon)", "Food security and quality"],
-              ["**Xenotransplantation**", "Gene-edited pigs for human organ transplants (2022-24 pig-heart trials)", "The organ-shortage frontier"],
-              ["**Research reagents**", "Antibody production, vaccine testing", "Biotech supply chain"]
+              [
+                "**Pharming (biopharmaceuticals)**",
+                "Goats/cattle secreting therapeutic proteins in milk (e.g., antithrombin — ATryn)",
+                "Cheap drug production in 'bioreactor' animals"
+              ],
+              [
+                "**Disease models**",
+                "Transgenic mice (oncomouse), knockout models",
+                "Research into human disease and drug testing"
+              ],
+              [
+                "**Improved production**",
+                "Faster-growing, disease-resistant, better-quality livestock/fish (AquAdvantage salmon)",
+                "Food security and quality"
+              ],
+              [
+                "**Xenotransplantation**",
+                "Gene-edited pigs for human organ transplants (2022-24 pig-heart trials)",
+                "The organ-shortage frontier"
+              ],
+              [
+                "**Research reagents**",
+                "Antibody production, vaccine testing",
+                "Biotech supply chain"
+              ]
             ]
           }
         ]
@@ -226,6 +372,25 @@
             "text": "Exam tip: Separate accessible husbandry biotech (AI, ET, sexed semen — where India's mass gains lie) from transgenic frontiers (pharming, xenotransplantation) — that distinction shows practical judgment, not just technology enthusiasm."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — animal husbandry & transgenics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Improvement tools:** artificial insemination, embryo transfer, **MOET (multiple ovulation embryo transfer)**, sex-sorted semen, and genomic selection to raise milk/meat yield.",
+              "**Transgenic animals:** for pharma ('pharming' — proteins in milk), disease models, and improved traits; ethically sensitive (animal welfare, biosafety).",
+              "**India's context:** the **White Revolution** (world's largest milk producer) rests on cross-breeding and cooperatives; **Rashtriya Gokul Mission** conserves indigenous breeds; **National Animal Disease Control Programme** (FMD/brucellosis).",
+              "**AP hook:** strong dairy, poultry (Andhra a leading poultry state) and aquaculture; livestock as a rural-income and nutrition engine."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**MOET** — Multiple Ovulation Embryo Transfer for rapid cattle improvement.",
+          "**Rashtriya Gokul Mission** — conservation & development of indigenous bovine breeds."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -245,12 +410,30 @@
       "AP's buffalo-poultry-aqua economy meets biotech — evaluate the state's husbandry-technology potential."
     ],
     "glossary": [
-      { "term": "Artificial insemination", "definition": "Introducing selected semen to breed livestock without natural mating — the mass genetic-improvement workhorse." },
-      { "term": "Embryo transfer (MOET)", "definition": "Multiple Ovulation and Embryo Transfer — multiplying elite female genetics faster than natural breeding." },
-      { "term": "Transgenic animal", "definition": "An animal carrying a deliberately introduced foreign gene — for pharming, research or improved traits." },
-      { "term": "Pharming", "definition": "Producing pharmaceutical proteins in transgenic animals (e.g., drugs secreted in milk)." },
-      { "term": "Xenotransplantation", "definition": "Transplanting animal organs/tissues into humans — gene-edited pigs the current frontier." },
-      { "term": "Sexed semen", "definition": "Sperm sorted by sex chromosome to skew offspring toward (usually female) calves — dairy-productivity biotech." }
+      {
+        "term": "Artificial insemination",
+        "definition": "Introducing selected semen to breed livestock without natural mating — the mass genetic-improvement workhorse."
+      },
+      {
+        "term": "Embryo transfer (MOET)",
+        "definition": "Multiple Ovulation and Embryo Transfer — multiplying elite female genetics faster than natural breeding."
+      },
+      {
+        "term": "Transgenic animal",
+        "definition": "An animal carrying a deliberately introduced foreign gene — for pharming, research or improved traits."
+      },
+      {
+        "term": "Pharming",
+        "definition": "Producing pharmaceutical proteins in transgenic animals (e.g., drugs secreted in milk)."
+      },
+      {
+        "term": "Xenotransplantation",
+        "definition": "Transplanting animal organs/tissues into humans — gene-edited pigs the current frontier."
+      },
+      {
+        "term": "Sexed semen",
+        "definition": "Sperm sorted by sex chromosome to skew offspring toward (usually female) calves — dairy-productivity biotech."
+      }
     ]
   },
   {
@@ -266,14 +449,42 @@
           },
           {
             "type": "table",
-            "headers": ["Vaccine platform", "Mechanism", "Example"],
+            "headers": [
+              "Vaccine platform",
+              "Mechanism",
+              "Example"
+            ],
             "rows": [
-              ["**Live-attenuated**", "Weakened pathogen — strong, lasting immunity", "BCG, oral polio, MMR"],
-              ["**Inactivated/killed**", "Dead pathogen — safe, may need boosters", "Covaxin, IPV, rabies"],
-              ["**Subunit/conjugate**", "Antigen fragment — very safe", "**Hepatitis-B (recombinant surface antigen — the classic rDNA vaccine)**, HPV, pneumococcal"],
-              ["**Toxoid**", "Inactivated toxin", "Tetanus, diphtheria"],
-              ["**mRNA / DNA (nucleic-acid)**", "Genetic instructions → body makes antigen", "Covid mRNA; **ZyCoV-D (world's first DNA vaccine — India)**"],
-              ["**Viral-vector**", "Harmless virus delivers antigen gene", "Covishield, Sputnik"]
+              [
+                "**Live-attenuated**",
+                "Weakened pathogen — strong, lasting immunity",
+                "BCG, oral polio, MMR"
+              ],
+              [
+                "**Inactivated/killed**",
+                "Dead pathogen — safe, may need boosters",
+                "Covaxin, IPV, rabies"
+              ],
+              [
+                "**Subunit/conjugate**",
+                "Antigen fragment — very safe",
+                "**Hepatitis-B (recombinant surface antigen — the classic rDNA vaccine)**, HPV, pneumococcal"
+              ],
+              [
+                "**Toxoid**",
+                "Inactivated toxin",
+                "Tetanus, diphtheria"
+              ],
+              [
+                "**mRNA / DNA (nucleic-acid)**",
+                "Genetic instructions → body makes antigen",
+                "Covid mRNA; **ZyCoV-D (world's first DNA vaccine — India)**"
+              ],
+              [
+                "**Viral-vector**",
+                "Harmless virus delivers antigen gene",
+                "Covishield, Sputnik"
+              ]
             ]
           }
         ]
@@ -313,6 +524,25 @@
             "text": "Exam tip: Memory cells are why vaccines work — state that link explicitly; then the recombinant Hepatitis-B production (surface-antigen gene in yeast) as the modern-vaccine template, and India's vaccine-superpower status as the closing scale point. This completes Paper-V's biology unit."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — immunity & modern vaccines",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Vaccine platforms:** live-attenuated (BCG, MMR), inactivated (COVAXIN, polio-IPV), subunit/recombinant (**Hepatitis-B — made in yeast**), toxoid (tetanus), viral-vector (Covishield), and **mRNA (a new platform; India's GEMCOVAC-19)**.",
+              "**The Hepatitis-B story:** the first recombinant vaccine — the surface antigen gene expressed in yeast — illustrates biotech-enabled, safe, scalable vaccine production; India makes it affordably at scale.",
+              "**India as vaccine hub:** the **Universal Immunisation Programme, Mission Indradhanush, and 'vaccine capital of the world'** (Serum Institute, Bharat Biotech — Hyderabad); **CoWIN** digital delivery.",
+              "**Frontier:** mRNA/self-amplifying vaccines, thermostable formulations, and universal/pan-variant vaccines."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Hepatitis-B vaccine** — the first recombinant (subunit) vaccine, produced in yeast.",
+          "**COVAXIN (Bharat Biotech)** — inactivated; **GEMCOVAC-19** — India's mRNA COVID vaccine."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -332,12 +562,30 @@
       "UIP is primary prevention at scale — evaluate India's immunisation delivery from Indradhanush to CoWIN."
     ],
     "glossary": [
-      { "term": "Innate immunity", "definition": "The immediate, non-specific first line of defence — barriers, phagocytes, inflammation, complement." },
-      { "term": "Adaptive immunity", "definition": "The specific, memory-forming response — antibodies (humoral) and T-cells (cell-mediated)." },
-      { "term": "Memory cell", "definition": "A long-lived immune cell enabling a rapid, strong response to re-exposure — the basis of vaccination." },
-      { "term": "Active vs passive immunity", "definition": "Self-generated, lasting immunity (infection/vaccine) versus borrowed, temporary antibodies (maternal/antisera)." },
-      { "term": "Recombinant subunit vaccine", "definition": "A vaccine using a genetically engineered antigen fragment (Hep-B's HBsAg in yeast) — safe and scalable." },
-      { "term": "HBsAg", "definition": "Hepatitis-B surface antigen — the protein whose recombinant production created the modern Hep-B vaccine." }
+      {
+        "term": "Innate immunity",
+        "definition": "The immediate, non-specific first line of defence — barriers, phagocytes, inflammation, complement."
+      },
+      {
+        "term": "Adaptive immunity",
+        "definition": "The specific, memory-forming response — antibodies (humoral) and T-cells (cell-mediated)."
+      },
+      {
+        "term": "Memory cell",
+        "definition": "A long-lived immune cell enabling a rapid, strong response to re-exposure — the basis of vaccination."
+      },
+      {
+        "term": "Active vs passive immunity",
+        "definition": "Self-generated, lasting immunity (infection/vaccine) versus borrowed, temporary antibodies (maternal/antisera)."
+      },
+      {
+        "term": "Recombinant subunit vaccine",
+        "definition": "A vaccine using a genetically engineered antigen fragment (Hep-B's HBsAg in yeast) — safe and scalable."
+      },
+      {
+        "term": "HBsAg",
+        "definition": "Hepatitis-B surface antigen — the protein whose recombinant production created the modern Hep-B vaccine."
+      }
     ]
   },
   {
@@ -353,13 +601,31 @@
           },
           {
             "type": "table",
-            "headers": ["India's IPR architecture", "Content"],
+            "headers": [
+              "India's IPR architecture",
+              "Content"
+            ],
             "rows": [
-              ["Patents", "**Patents Act 1970 (TRIPS-amended 2005)**; **Section 3(d)** — bars evergreening (the **Novartis-Glivec case, 2013** — India's public-health-protecting jurisprudence); **compulsory licensing (Sec 84 — Bayer Nexavar, 2012)** for access"],
-              ["GI", "**GI Act 1999**; India has 600+ GIs — **Tirupati laddu, Banginapalle mango, Guntur Sannam chilli, Bandar laddu, Kondapalli/Etikoppaka toys, Machilipatnam Kalamkari, Dharmavaram/Venkatagiri/Uppada sarees, Araku coffee** (the AP GI treasure)"],
-              ["Traditional knowledge", "**TKDL (Traditional Knowledge Digital Library, 2001)** — prior-art database that defeated the **neem and turmeric** patents (biopiracy wins)"],
-              ["Policy & institutions", "**National IPR Policy 2016** ('Creative India, Innovative India'), CGPDTM (patent office), the push to lift India's low patent-filing (rising fast — resident filings crossed non-resident 2022)"],
-              ["Plant varieties", "**PPV&FR Act 2001** — unique dual protection of breeders' AND farmers' rights (India's sui-generis model)"]
+              [
+                "Patents",
+                "**Patents Act 1970 (TRIPS-amended 2005)**; **Section 3(d)** — bars evergreening (the **Novartis-Glivec case, 2013** — India's public-health-protecting jurisprudence); **compulsory licensing (Sec 84 — Bayer Nexavar, 2012)** for access"
+              ],
+              [
+                "GI",
+                "**GI Act 1999**; India has 600+ GIs — **Tirupati laddu, Banginapalle mango, Guntur Sannam chilli, Bandar laddu, Kondapalli/Etikoppaka toys, Machilipatnam Kalamkari, Dharmavaram/Venkatagiri/Uppada sarees, Araku coffee** (the AP GI treasure)"
+              ],
+              [
+                "Traditional knowledge",
+                "**TKDL (Traditional Knowledge Digital Library, 2001)** — prior-art database that defeated the **neem and turmeric** patents (biopiracy wins)"
+              ],
+              [
+                "Policy & institutions",
+                "**National IPR Policy 2016** ('Creative India, Innovative India'), CGPDTM (patent office), the push to lift India's low patent-filing (rising fast — resident filings crossed non-resident 2022)"
+              ],
+              [
+                "Plant varieties",
+                "**PPV&FR Act 2001** — unique dual protection of breeders' AND farmers' rights (India's sui-generis model)"
+              ]
             ]
           }
         ]
@@ -399,6 +665,54 @@
             "text": "Exam tip: India's IP story is the incentive-access balance done well — Sec 3(d) and compulsory licensing protecting public health within TRIPS; AP's GI wealth (Banginapalle to Araku coffee) makes IP tangible for the state paper."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — IPR in science & technology",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "IPR",
+              "Protects",
+              "India law"
+            ],
+            "rows": [
+              [
+                "**Patent**",
+                "Inventions (20 yrs)",
+                "Patents Act 1970 (amended 2005 — product patents; **Section 3(d)** bars evergreening)"
+              ],
+              [
+                "**Copyright**",
+                "Literary/artistic works",
+                "Copyright Act 1957"
+              ],
+              [
+                "**Trademark**",
+                "Brand marks",
+                "Trade Marks Act 1999"
+              ],
+              [
+                "**GI**",
+                "Origin-linked goods",
+                "GI Act 1999 (e.g., **Tirupati Laddu, Banaganapalle mango, Kondapalli toys, Machilipatnam Kalamkari** from AP)"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Key debates:** **Section 3(d)** (*Novartis v. Union, 2013* — no patent for trivial modifications, protecting generics), **compulsory licensing** (*Natco v. Bayer*), TRIPS flexibilities vs public health, biopiracy (turmeric/neem/basmati cases), and **traditional-knowledge protection (TKDL)**.",
+              "**Policy:** the **National IPR Policy 2016** and India's rising patent filings — but low domestic patenting remains a concern."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Section 3(d), Patents Act** — bars 'evergreening'; upheld in *Novartis v. Union of India (2013)*.",
+          "**TKDL** — Traditional Knowledge Digital Library, to prevent biopiracy patents.",
+          "AP **GI tags:** Tirupati Laddu, Banaganapalle mangoes, Kondapalli Bommalu, Machilipatnam Kalamkari."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -418,12 +732,30 @@
       "TKDL turned defence into offence against biopiracy — analyse traditional-knowledge protection."
     ],
     "glossary": [
-      { "term": "Patent", "definition": "A 20-year exclusive right over a novel, non-obvious, useful invention — the incentive-access bargain's core instrument." },
-      { "term": "Section 3(d)", "definition": "India's patent-law bar on 'evergreening' — refusing patents for trivial modifications of known substances (Novartis case)." },
-      { "term": "Compulsory licensing", "definition": "Government-permitted third-party manufacture of a patented product for access/affordability (Bayer Nexavar)." },
-      { "term": "Geographical Indication", "definition": "IP protecting origin-linked products (Banginapalle mango, Araku coffee) — livelihood protection for regional producers." },
-      { "term": "TKDL", "definition": "Traditional Knowledge Digital Library — the prior-art database defeating wrongful patents on Indian traditional knowledge." },
-      { "term": "PPV&FR", "definition": "Protection of Plant Varieties and Farmers' Rights Act 2001 — India's sui-generis dual-rights seed law." }
+      {
+        "term": "Patent",
+        "definition": "A 20-year exclusive right over a novel, non-obvious, useful invention — the incentive-access bargain's core instrument."
+      },
+      {
+        "term": "Section 3(d)",
+        "definition": "India's patent-law bar on 'evergreening' — refusing patents for trivial modifications of known substances (Novartis case)."
+      },
+      {
+        "term": "Compulsory licensing",
+        "definition": "Government-permitted third-party manufacture of a patented product for access/affordability (Bayer Nexavar)."
+      },
+      {
+        "term": "Geographical Indication",
+        "definition": "IP protecting origin-linked products (Banginapalle mango, Araku coffee) — livelihood protection for regional producers."
+      },
+      {
+        "term": "TKDL",
+        "definition": "Traditional Knowledge Digital Library — the prior-art database defeating wrongful patents on Indian traditional knowledge."
+      },
+      {
+        "term": "PPV&FR",
+        "definition": "Protection of Plant Varieties and Farmers' Rights Act 2001 — India's sui-generis dual-rights seed law."
+      }
     ]
   },
   {
@@ -439,13 +771,37 @@
           },
           {
             "type": "table",
-            "headers": ["Promotion lever", "National", "AP"],
+            "headers": [
+              "Promotion lever",
+              "National",
+              "AP"
+            ],
             "rows": [
-              ["Institutions", "IISc, IITs, IISERs, national labs, ANRF", "**IIT/IISER Tirupati, Central University AP, NARL Gadanki, Sriharikota**; state S&T council (APCOST)"],
-              ["Talent & education", "INSPIRE, PMRF, Olympiads, Atal Tinkering Labs", "School-science programmes, tinkering labs, science fairs; higher-ed R&D push"],
-              ["Culture-communication", "National Science Day, science cities, Vigyan Prasar", "Science exhibitions, planetariums (Vizag), scientific-temper drives"],
-              ["Innovation ecosystem", "AIM incubators, Startup India, iDEX", "AP innovation society, startup incubators, IT-electronics parks"],
-              ["Applied-science delivery", "Mission-mode programmes", "APCNF (natural-farming science), aqua-marine research, digital-governance tech"]
+              [
+                "Institutions",
+                "IISc, IITs, IISERs, national labs, ANRF",
+                "**IIT/IISER Tirupati, Central University AP, NARL Gadanki, Sriharikota**; state S&T council (APCOST)"
+              ],
+              [
+                "Talent & education",
+                "INSPIRE, PMRF, Olympiads, Atal Tinkering Labs",
+                "School-science programmes, tinkering labs, science fairs; higher-ed R&D push"
+              ],
+              [
+                "Culture-communication",
+                "National Science Day, science cities, Vigyan Prasar",
+                "Science exhibitions, planetariums (Vizag), scientific-temper drives"
+              ],
+              [
+                "Innovation ecosystem",
+                "AIM incubators, Startup India, iDEX",
+                "AP innovation society, startup incubators, IT-electronics parks"
+              ],
+              [
+                "Applied-science delivery",
+                "Mission-mode programmes",
+                "APCNF (natural-farming science), aqua-marine research, digital-governance tech"
+              ]
             ]
           }
         ]
@@ -485,6 +841,28 @@
             "text": "Exam tip: Promote science on four fronts — talent, funding, culture, application — and don't forget scientific temper (Art 51A(h)) as the cultural lever; for AP, the honest post-bifurcation rebuild story (Sriharikota-Gadanki-Tirupati) is the state differentiator that closes Paper-V."
           }
         ]
+      },
+      {
+        "heading": "🔬 Deep mastery — promotion of science, India & AP",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Scientific temper (Art 51A(h)):** a Fundamental Duty — promoting reason, inquiry and evidence against superstition; Nehru's phrase institutionalised.",
+              "**Promotion agenda:** raise **R&D to ~2% of GDP**, the **ANRF (2023)** to fund university research, **INSPIRE/KVPY-legacy & scholarships**, incubators (Atal Tinkering Labs), science communication, and international collaboration.",
+              "**Talent & 'brain drain to brain gain':** schemes like **VAJRA, Ramanujan/Ramalingaswami fellowships** to attract diaspora scientists.",
+              "**AP dimension:** Sriharikota (space), Genome Valley proximity, pharma/biotech clusters, and state S&T councils promoting research and innovation."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Scientific temper** — a Fundamental Duty under **Article 51A(h)**.",
+          "**ANRF (2023)** and **Atal Tinkering Labs** (school innovation) promote the research pipeline."
+        ],
+        "mainsAngles": [
+          "'India produces world-class science on a modest R&D budget' — examine how the promotion of science can be strengthened."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -504,12 +882,30 @@
       "Science promotion is the longest-return human-capital investment — make the case for India and AP."
     ],
     "glossary": [
-      { "term": "Scientific temper", "definition": "The habit of evidence-based, inquiring, non-dogmatic thinking — a constitutional duty under Article 51A(h)." },
-      { "term": "ANRF", "definition": "Anusandhan National Research Foundation (2023) — the apex body coordinating and co-financing India's research." },
-      { "term": "INSPIRE", "definition": "Innovation in Science Pursuit for Inspired Research — DST's talent-attraction scholarship scheme." },
-      { "term": "Atal Innovation Mission", "definition": "NITI Aayog's innovation-promotion programme — tinkering labs, incubators and challenges." },
-      { "term": "APCOST", "definition": "Andhra Pradesh Council of Science & Technology — the state's science-promotion body." },
-      { "term": "GERD", "definition": "Gross Expenditure on R&D — India's ~0.65% of GDP the perennial promotion constraint." }
+      {
+        "term": "Scientific temper",
+        "definition": "The habit of evidence-based, inquiring, non-dogmatic thinking — a constitutional duty under Article 51A(h)."
+      },
+      {
+        "term": "ANRF",
+        "definition": "Anusandhan National Research Foundation (2023) — the apex body coordinating and co-financing India's research."
+      },
+      {
+        "term": "INSPIRE",
+        "definition": "Innovation in Science Pursuit for Inspired Research — DST's talent-attraction scholarship scheme."
+      },
+      {
+        "term": "Atal Innovation Mission",
+        "definition": "NITI Aayog's innovation-promotion programme — tinkering labs, incubators and challenges."
+      },
+      {
+        "term": "APCOST",
+        "definition": "Andhra Pradesh Council of Science & Technology — the state's science-promotion body."
+      },
+      {
+        "term": "GERD",
+        "definition": "Gross Expenditure on R&D — India's ~0.65% of GDP the perennial promotion constraint."
+      }
     ]
   }
 ]
