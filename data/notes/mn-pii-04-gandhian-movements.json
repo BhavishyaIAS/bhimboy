@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Non-Cooperation–Khilafat (1920-22)", "Content"],
+            "headers": [
+              "Non-Cooperation–Khilafat (1920-22)",
+              "Content"
+            ],
             "rows": [
-              ["Twin grievances + swaraj", "**Punjab wrong + Khilafat wrong** (Ottoman Caliphate's dismemberment — Ali brothers' cause) + **Swaraj in one year**; Congress adopted NCM at **Calcutta special session (Sept 1920)**, confirmed **Nagpur (Dec 1920** — Congress constitution rewritten: village-to-AICC structure, 4-anna membership, linguistic PCCs)"],
-              ["Programme", "Surrender titles; boycott schools-courts-councils-foreign cloth; **charkha & khadi**; national schools (Jamia Millia, Kashi/Gujarat Vidyapiths); Tilak Swaraj Fund (₹1 crore); no-tax preparedness"],
-              ["Participation", "First true mass movement: students (~90,000 left schools), lawyers (Motilal, C.R. Das, Rajendra Prasad quit practice), **women, Muslims (Khilafat fusion — communal unity's high tide)**, peasants (UP kisan link), merchants"],
-              ["Climax & withdrawal", "Prince of Wales boycott (Nov 1921); mass arrests (~30,000); **Chauri Chaura (5 Feb 1922** — 22 policemen burnt) → Gandhi withdrew via **Bardoli resolution (12 Feb 1922)**; jailed March 1922 (six years — the 'great trial' speech)"]
+              [
+                "Twin grievances + swaraj",
+                "**Punjab wrong + Khilafat wrong** (Ottoman Caliphate's dismemberment — Ali brothers' cause) + **Swaraj in one year**; Congress adopted NCM at **Calcutta special session (Sept 1920)**, confirmed **Nagpur (Dec 1920** — Congress constitution rewritten: village-to-AICC structure, 4-anna membership, linguistic PCCs)"
+              ],
+              [
+                "Programme",
+                "Surrender titles; boycott schools-courts-councils-foreign cloth; **charkha & khadi**; national schools (Jamia Millia, Kashi/Gujarat Vidyapiths); Tilak Swaraj Fund (₹1 crore); no-tax preparedness"
+              ],
+              [
+                "Participation",
+                "First true mass movement: students (~90,000 left schools), lawyers (Motilal, C.R. Das, Rajendra Prasad quit practice), **women, Muslims (Khilafat fusion — communal unity's high tide)**, peasants (UP kisan link), merchants"
+              ],
+              [
+                "Climax & withdrawal",
+                "Prince of Wales boycott (Nov 1921); mass arrests (~30,000); **Chauri Chaura (5 Feb 1922** — 22 policemen burnt) → Gandhi withdrew via **Bardoli resolution (12 Feb 1922)**; jailed March 1922 (six years — the 'great trial' speech)"
+              ]
             ]
           }
         ]
@@ -57,6 +72,26 @@
             "text": "Exam tip: Frame NCM as the movement that traded a year's swaraj for a generation's fearlessness. Chauri Chaura questions want the means-ends logic PLUS the criticism PLUS the verdict — all three, briefly."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Gandhian entry & Non-Cooperation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The moral rupture:** the **Rowlatt Act (1919)** ('no dalil, no vakil, no appeal') → **Jallianwala Bagh massacre (13 April 1919, Dyer)** → Gandhi's return of the Kaisar-i-Hind medal — the turn to mass satyagraha.",
+              "**Non-Cooperation + Khilafat (1920-22):** boycott of titles, schools, courts, councils, foreign cloth; the first pan-Indian mass movement; withdrawn after **Chauri Chaura (Feb 1922)**.",
+              "**Gandhian technique:** **satyagraha** (truth-force), **ahimsa**, constructive programme (khadi, Harijan uplift, Hindu-Muslim unity), and mass participation across class and region.",
+              "**The Andhra front:** the **Rampa/Manyam Rebellion (1922-24) under Alluri Sitarama Raju** in the Godavari agency — armed tribal resistance paralleling the non-violent mainstream; and the vigorous non-cooperation & no-tax campaigns in coastal Andhra (Chirala-Perala, Pedanandipadu)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Jallianwala Bagh** — 13 April 1919 (Baisakhi); General Dyer; Hunter Commission inquiry.",
+          "**Chauri Chaura (1922)** led Gandhi to withdraw Non-Cooperation.",
+          "**Alluri Sitarama Raju** — Rampa/Manyam Rebellion (1922-24), Godavari agency, Andhra."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +112,30 @@
       "Chirala-Perala and Pedanandipadu made Andhra a frontline province — narrate and evaluate Andhra's Non-Cooperation."
     ],
     "glossary": [
-      { "term": "Satyagraha", "definition": "Gandhi's method of truth-force — nonviolent resistance that accepts suffering to convert, not coerce, the opponent." },
-      { "term": "Hartal", "definition": "A general cessation of work and business as political protest — the opening act of the Rowlatt satyagraha." },
-      { "term": "Khilafat movement", "definition": "Indian Muslim campaign (1919-24) to preserve the Ottoman Caliphate — fused by Gandhi with the national cause." },
-      { "term": "Charkha/Khadi", "definition": "The spinning wheel and hand-woven cloth — Non-Cooperation's economic weapon and moral uniform." },
-      { "term": "No-changers vs Swarajists", "definition": "Post-1922 split between constructive-work Gandhians and council-entry wreckers (Das-Motilal) — twin strategies of the lull." },
-      { "term": "Tinkathia", "definition": "The Champaran obligation to plant indigo on 3/20ths of one's land — the exaction Gandhi's first satyagraha ended." }
+      {
+        "term": "Satyagraha",
+        "definition": "Gandhi's method of truth-force — nonviolent resistance that accepts suffering to convert, not coerce, the opponent."
+      },
+      {
+        "term": "Hartal",
+        "definition": "A general cessation of work and business as political protest — the opening act of the Rowlatt satyagraha."
+      },
+      {
+        "term": "Khilafat movement",
+        "definition": "Indian Muslim campaign (1919-24) to preserve the Ottoman Caliphate — fused by Gandhi with the national cause."
+      },
+      {
+        "term": "Charkha/Khadi",
+        "definition": "The spinning wheel and hand-woven cloth — Non-Cooperation's economic weapon and moral uniform."
+      },
+      {
+        "term": "No-changers vs Swarajists",
+        "definition": "Post-1922 split between constructive-work Gandhians and council-entry wreckers (Das-Motilal) — twin strategies of the lull."
+      },
+      {
+        "term": "Tinkathia",
+        "definition": "The Champaran obligation to plant indigo on 3/20ths of one's land — the exaction Gandhi's first satyagraha ended."
+      }
     ]
   },
   {
@@ -98,12 +151,27 @@
           },
           {
             "type": "table",
-            "headers": ["Civil Disobedience phases", "Content"],
+            "headers": [
+              "Civil Disobedience phases",
+              "Content"
+            ],
             "rows": [
-              ["**Phase I (1930-31)**", "Salt satyagrahas nationwide (**Dharasana raid — Webb Miller's despatches; Vedaranyam — Rajaji's southern march**); no-tax, forest-law breaches, liquor picketing (women's mass entry — Sarojini Naidu at Dharasana); NWFP's **Khudai Khidmatgars (Badshah Khan)**; Nagaland's Rani Gaidinliu; ~90,000 jailed; **First RTC (Nov 1930)** boycotted"],
-              ["**Gandhi-Irwin Pact (5 Mar 1931)**", "Movement suspended; prisoners released (not Bhagat Singh trio — executed **23 Mar 1931**); coastal salt-making allowed; Gandhi to the **Second RTC (Sept-Dec 1931)** as Congress's sole delegate — wrecked on the minorities question"],
-              ["**Phase II (1932-34)**", "Willingdon's crackdown (Gandhi arrested Jan 1932); **Communal Award (Aug 1932)** — separate Dalit electorates → Gandhi's Yeravda fast → **Poona Pact (24 Sept 1932)**: joint electorates with reserved seats (148); movement withdrawn 1934; **Third RTC (1932)** Congress-less"],
-              ["Constitutional issue", "RTCs + White Paper → **Government of India Act 1935** (see HCOI-096); Congress swept the **1937 provincial elections** — office as the movement's paradoxical dividend"]
+              [
+                "**Phase I (1930-31)**",
+                "Salt satyagrahas nationwide (**Dharasana raid — Webb Miller's despatches; Vedaranyam — Rajaji's southern march**); no-tax, forest-law breaches, liquor picketing (women's mass entry — Sarojini Naidu at Dharasana); NWFP's **Khudai Khidmatgars (Badshah Khan)**; Nagaland's Rani Gaidinliu; ~90,000 jailed; **First RTC (Nov 1930)** boycotted"
+              ],
+              [
+                "**Gandhi-Irwin Pact (5 Mar 1931)**",
+                "Movement suspended; prisoners released (not Bhagat Singh trio — executed **23 Mar 1931**); coastal salt-making allowed; Gandhi to the **Second RTC (Sept-Dec 1931)** as Congress's sole delegate — wrecked on the minorities question"
+              ],
+              [
+                "**Phase II (1932-34)**",
+                "Willingdon's crackdown (Gandhi arrested Jan 1932); **Communal Award (Aug 1932)** — separate Dalit electorates → Gandhi's Yeravda fast → **Poona Pact (24 Sept 1932)**: joint electorates with reserved seats (148); movement withdrawn 1934; **Third RTC (1932)** Congress-less"
+              ],
+              [
+                "Constitutional issue",
+                "RTCs + White Paper → **Government of India Act 1935** (see HCOI-096); Congress swept the **1937 provincial elections** — office as the movement's paradoxical dividend"
+              ]
             ]
           }
         ]
@@ -143,6 +211,26 @@
             "text": "Exam tip: The Mypadu salt camp and Durgabai-Kanakamma women's leadership are Andhra's CDM signatures. On RTCs, one sentence each is enough — the analysis lives in why they failed (minorities arithmetic), not in their proceedings."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Civil Disobedience & the Salt Satyagraha",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Build-up:** **Simon Commission boycott (1928, 'Simon Go Back'; Lala Lajpat Rai's death)** → **Nehru Report (1928)** → **Purna Swaraj resolution (Lahore, Dec 1929; 26 Jan 1930 as Independence Day)**.",
+              "**Dandi March (12 March – 6 April 1930):** 240 miles to break the salt law — salt as the perfect symbol uniting all Indians; sparked nationwide **Civil Disobedience** (no-tax, forest-law defiance, boycott).",
+              "**Round Table Conferences & the Gandhi-Irwin Pact (1931);** the **Communal Award (1932) → Poona Pact** (Gandhi-Ambedkar, separate vs reserved seats).",
+              "**Andhra's salt:** salt satyagraha on the Andhra coast (e.g., at ** (coastal) Andhra sites** and no-tax campaigns) — the region was among the most active in Civil Disobedience."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Purna Swaraj** — Lahore Congress 1929; first Independence Day 26 January 1930.",
+          "**Dandi March** began 12 March 1930 from Sabarmati to Dandi (breaking the salt law on 6 April).",
+          "**Poona Pact (1932)** — Gandhi & Ambedkar; reserved seats for Depressed Classes within the general electorate."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +251,30 @@
       "Reconstruct Andhra's Civil Disobedience through its salt camps, women leaders and no-tax campaigns."
     ],
     "glossary": [
-      { "term": "Purna Swaraj", "definition": "Complete independence — the Lahore (1929) redefinition of the national goal beyond dominion status." },
-      { "term": "Eleven Demands", "definition": "Gandhi's Jan 1930 minimum programme (salt tax, land revenue cut, prohibition, etc.) whose rejection triggered Dandi." },
-      { "term": "Communal Award", "definition": "MacDonald's 1932 grant of separate electorates to minorities including Depressed Classes — reversed for Dalits by the Poona Pact." },
-      { "term": "Poona Pact", "definition": "Gandhi-Ambedkar agreement (Sept 1932): joint electorates with 148 reserved Dalit seats and primary-election safeguards." },
-      { "term": "Round Table Conference", "definition": "London constitutional negotiations (1930-32) among British parties, princes and Indian delegations — prelude to the 1935 Act." },
-      { "term": "Khudai Khidmatgar", "definition": "Badshah Khan's Pashtun nonviolent 'Servants of God' — the frontier's astonishing satyagraha army." }
+      {
+        "term": "Purna Swaraj",
+        "definition": "Complete independence — the Lahore (1929) redefinition of the national goal beyond dominion status."
+      },
+      {
+        "term": "Eleven Demands",
+        "definition": "Gandhi's Jan 1930 minimum programme (salt tax, land revenue cut, prohibition, etc.) whose rejection triggered Dandi."
+      },
+      {
+        "term": "Communal Award",
+        "definition": "MacDonald's 1932 grant of separate electorates to minorities including Depressed Classes — reversed for Dalits by the Poona Pact."
+      },
+      {
+        "term": "Poona Pact",
+        "definition": "Gandhi-Ambedkar agreement (Sept 1932): joint electorates with 148 reserved Dalit seats and primary-election safeguards."
+      },
+      {
+        "term": "Round Table Conference",
+        "definition": "London constitutional negotiations (1930-32) among British parties, princes and Indian delegations — prelude to the 1935 Act."
+      },
+      {
+        "term": "Khudai Khidmatgar",
+        "definition": "Badshah Khan's Pashtun nonviolent 'Servants of God' — the frontier's astonishing satyagraha army."
+      }
     ]
   },
   {
@@ -184,11 +290,23 @@
           },
           {
             "type": "table",
-            "headers": ["INA & Bose", "Content"],
+            "headers": [
+              "INA & Bose",
+              "Content"
+            ],
             "rows": [
-              ["Bose's road", "Congress president **Haripura 1938, re-elected Tripuri 1939 defeating Pattabhi Sitaramayya** ('Pattabhi's defeat is my defeat' — Gandhi) → resigned, founded **Forward Bloc (1939)** → house escape (Jan 1941) → Berlin → submarine to Singapore (1943)"],
-              ["INA", "Founded from POWs by **Mohan Singh (1942**, Fujiwara's aid); revived by **Bose (Singapore, July 1943)** — 'Give me blood…'; **Azad Hind Government (21 Oct 1943**, recognised by 9 Axis powers; Andamans renamed Shahid & Swaraj); **Rani of Jhansi Regiment (Lakshmi Swaminathan)**; Imphal-Kohima campaign (1944) — Moirang flag; retreat; Bose's reported air-crash death (**18 Aug 1945, Taipei**)"],
-              ["INA's Indian moment", "**Red Fort trials (Nov 1945 — Shah Nawaz, Sahgal, Dhillon; defence: Bhulabhai Desai, Nehru)**: all communities rallied; **RIN ratings' revolt (Feb 1946, Bombay)** — the loyalty of the armed forces visibly cracked: the empire's final calculus changed"]
+              [
+                "Bose's road",
+                "Congress president **Haripura 1938, re-elected Tripuri 1939 defeating Pattabhi Sitaramayya** ('Pattabhi's defeat is my defeat' — Gandhi) → resigned, founded **Forward Bloc (1939)** → house escape (Jan 1941) → Berlin → submarine to Singapore (1943)"
+              ],
+              [
+                "INA",
+                "Founded from POWs by **Mohan Singh (1942**, Fujiwara's aid); revived by **Bose (Singapore, July 1943)** — 'Give me blood…'; **Azad Hind Government (21 Oct 1943**, recognised by 9 Axis powers; Andamans renamed Shahid & Swaraj); **Rani of Jhansi Regiment (Lakshmi Swaminathan)**; Imphal-Kohima campaign (1944) — Moirang flag; retreat; Bose's reported air-crash death (**18 Aug 1945, Taipei**)"
+              ],
+              [
+                "INA's Indian moment",
+                "**Red Fort trials (Nov 1945 — Shah Nawaz, Sahgal, Dhillon; defence: Bhulabhai Desai, Nehru)**: all communities rallied; **RIN ratings' revolt (Feb 1946, Bombay)** — the loyalty of the armed forces visibly cracked: the empire's final calculus changed"
+              ]
             ]
           }
         ]
@@ -227,6 +345,26 @@
             "text": "Exam tip: Close Quit India-INA answers with the twin-pressure thesis: Gandhi proved India ungovernable; Bose proved the army un-relyable — Attlee's own (reported) admission ranked the INA-RIN factor high. That synthesis is the top-band move."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Quit India & the final phase",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Quit India (8 August 1942, Bombay):** 'Do or Die'; triggered by the failure of the **Cripps Mission**; leaders jailed at once, so it became a **spontaneous mass upsurge** — parallel governments (**Satara, Tamluk, Ballia**), sabotage, and underground activity (Jayaprakash Narayan, Aruna Asaf Ali, Usha Mehta's radio).",
+              "**Significance:** though suppressed by 1944, it showed the Raj had lost legitimacy and made independence a question of 'when', not 'if'.",
+              "**The endgame:** **INA & Subhas Bose**, the **RIN Mutiny (1946)**, **Cabinet Mission (1946)**, the **Mountbatten Plan (3 June 1947)** and the **Indian Independence Act (1947)** — with Partition as the price.",
+              "**The Andhra theatre:** vigorous Quit India participation in coastal and Rayalaseema districts; the region's underground and student mobilisation."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Quit India** — 8 August 1942, Bombay (Gowalia Tank); 'Do or Die'.",
+          "**Parallel governments:** Satara (Prati Sarkar), Tamluk (Jatiya Sarkar, Bengal), Ballia (UP).",
+          "**Cabinet Mission 1946**; **Mountbatten Plan** 3 June 1947; **Indian Independence Act** 1947."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -247,12 +385,30 @@
       "Document Andhra's Quit India — sabotage, firings and the delta underground — within the all-India storm."
     ],
     "glossary": [
-      { "term": "Do or Die", "definition": "Gandhi's Quit India mantra — complete freedom or death in its pursuit; the licence for mass initiative once leaders were jailed." },
-      { "term": "Parallel government", "definition": "Rebel administrations (Ballia, Tamluk, Satara) running justice, relief and policing where the Raj was expelled in 1942." },
-      { "term": "Azad Hind Fauj", "definition": "The Indian National Army — POW-recruited liberation force revived by Bose under the Provisional Government of Free India (1943)." },
-      { "term": "Red Fort trials", "definition": "Courts-martial of INA officers (1945) that united Indian opinion and shook the army's reliability — the empire's endgame accelerant." },
-      { "term": "RIN revolt", "definition": "The Feb 1946 naval ratings' uprising in Bombay — the clearest signal that armed forces' loyalty had cracked." },
-      { "term": "Individual satyagraha", "definition": "1940-41 selected-satyagrahi protest (Vinoba first) asserting free speech against war participation without mass upheaval." }
+      {
+        "term": "Do or Die",
+        "definition": "Gandhi's Quit India mantra — complete freedom or death in its pursuit; the licence for mass initiative once leaders were jailed."
+      },
+      {
+        "term": "Parallel government",
+        "definition": "Rebel administrations (Ballia, Tamluk, Satara) running justice, relief and policing where the Raj was expelled in 1942."
+      },
+      {
+        "term": "Azad Hind Fauj",
+        "definition": "The Indian National Army — POW-recruited liberation force revived by Bose under the Provisional Government of Free India (1943)."
+      },
+      {
+        "term": "Red Fort trials",
+        "definition": "Courts-martial of INA officers (1945) that united Indian opinion and shook the army's reliability — the empire's endgame accelerant."
+      },
+      {
+        "term": "RIN revolt",
+        "definition": "The Feb 1946 naval ratings' uprising in Bombay — the clearest signal that armed forces' loyalty had cracked."
+      },
+      {
+        "term": "Individual satyagraha",
+        "definition": "1940-41 selected-satyagrahi protest (Vinoba first) asserting free speech against war participation without mass upheaval."
+      }
     ]
   }
 ]

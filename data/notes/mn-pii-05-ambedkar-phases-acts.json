@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Phase", "Actions & works", "Significance"],
+            "headers": [
+              "Phase",
+              "Actions & works",
+              "Significance"
+            ],
             "rows": [
-              ["Awakening (1919-27)", "Southborough testimony (1919); **Mooknayak (1920)**; **Bahishkrit Hitakarini Sabha (1924)**; **Mahad Satyagraha (Mar 1927** — Chavadar tank water; **Manusmriti burnt 25 Dec 1927**)", "Civil-rights method: claim public goods, burn the ideology; 'we will not be satisfied with chappals' equality of appearance"],
-              ["Temple-entry & politics (1927-36)", "**Kalaram Temple satyagraha (Nashik, 1930-35)**; RTC delegate (all three); **Communal Award → Poona Pact (1932)**; *Annihilation of Caste* (1936 — the undelivered Jat-Pat-Todak address); **Independent Labour Party (1936)**", "Concluded temple-entry insufficient — power, not permission; ILP fused caste with class (mill workers, khoti tenants)"],
-              ["Statecraft (1937-46)", "Bombay Assembly; **Viceroy's Executive Council — Labour Member (1942-46)**; **Scheduled Castes Federation (1942)**; *What Congress and Gandhi Have Done…*, *Who Were the Shudras?*", "Labour laws (8-hour day discussions, ESI groundwork), water-power policy (Damodar/CWC seeds) — the administrator Ambedkar"],
-              ["Constitution (1946-51)", "Constituent Assembly (Bengal, then Bombay); **Drafting Committee Chairman (29 Aug 1947)**; Law Minister; **Hindu Code Bill** fight → resignation (Sept 1951)", "Arts 14-17 (equality, untouchability abolished), 25(2)(b) temple entry, reservations architecture, Art 32 ('the soul'); constitutional morality; 'grammar of anarchy' & the 20 Nov 1955? — his warnings speech **25 Nov 1949**"],
-              ["Renunciation (1951-56)", "**Buddhist conversion, Nagpur, 14 October 1956** (~5 lakh followers); *The Buddha and His Dhamma*; People's Education Society (Siddharth, Milind colleges)", "Exit from caste's cosmos — dhamma as social equality; the Navayana legacy"]
+              [
+                "Awakening (1919-27)",
+                "Southborough testimony (1919); **Mooknayak (1920)**; **Bahishkrit Hitakarini Sabha (1924)**; **Mahad Satyagraha (Mar 1927** — Chavadar tank water; **Manusmriti burnt 25 Dec 1927**)",
+                "Civil-rights method: claim public goods, burn the ideology; 'we will not be satisfied with chappals' equality of appearance"
+              ],
+              [
+                "Temple-entry & politics (1927-36)",
+                "**Kalaram Temple satyagraha (Nashik, 1930-35)**; RTC delegate (all three); **Communal Award → Poona Pact (1932)**; *Annihilation of Caste* (1936 — the undelivered Jat-Pat-Todak address); **Independent Labour Party (1936)**",
+                "Concluded temple-entry insufficient — power, not permission; ILP fused caste with class (mill workers, khoti tenants)"
+              ],
+              [
+                "Statecraft (1937-46)",
+                "Bombay Assembly; **Viceroy's Executive Council — Labour Member (1942-46)**; **Scheduled Castes Federation (1942)**; *What Congress and Gandhi Have Done…*, *Who Were the Shudras?*",
+                "Labour laws (8-hour day discussions, ESI groundwork), water-power policy (Damodar/CWC seeds) — the administrator Ambedkar"
+              ],
+              [
+                "Constitution (1946-51)",
+                "Constituent Assembly (Bengal, then Bombay); **Drafting Committee Chairman (29 Aug 1947)**; Law Minister; **Hindu Code Bill** fight → resignation (Sept 1951)",
+                "Arts 14-17 (equality, untouchability abolished), 25(2)(b) temple entry, reservations architecture, Art 32 ('the soul'); constitutional morality; 'grammar of anarchy' & the 20 Nov 1955? — his warnings speech **25 Nov 1949**"
+              ],
+              [
+                "Renunciation (1951-56)",
+                "**Buddhist conversion, Nagpur, 14 October 1956** (~5 lakh followers); *The Buddha and His Dhamma*; People's Education Society (Siddharth, Milind colleges)",
+                "Exit from caste's cosmos — dhamma as social equality; the Navayana legacy"
+              ]
             ]
           }
         ]
@@ -59,6 +83,25 @@
             "text": "Exam tip: One Ambedkar quote per answer, precisely attributed — the 25 Nov 1949 speech is the safest source. The AP homage set (university, district, Statue of Social Justice) is the regional close examiners now expect."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Ambedkar's liberation arc",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Milestones:** **Mahad Satyagraha (1927)** for water rights; burning of the **Manusmriti**; **Kalaram Temple entry (1930)**; founding of *Mooknayak*/*Bahishkrit Bharat*; the **Poona Pact (1932)**; **Independent Labour Party → Scheduled Castes Federation**; **conversion to Buddhism (1956, Nagpur)**.",
+              "**Ideas that outlived him:** *Annihilation of Caste* (caste must be destroyed, not reformed), constitutional method over agitation, social democracy ('liberty, equality, fraternity as a way of life'), and state socialism for economic justice.",
+              "**As Constitution-maker:** Chair of the Drafting Committee; architect of Fundamental Rights, Art 17 (abolition of untouchability), and safeguards for the depressed classes.",
+              "**The AP thread:** Ambedkarite and Dalit-assertion movements in Andhra; the resonance of his 'educate, agitate, organise' in the region's social-justice politics."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Mahad Satyagraha (1927)** — Ambedkar's movement for Dalit access to public water.",
+          "**Annihilation of Caste (1936)** — Ambedkar's undelivered address; **conversion to Buddhism 1956**, Nagpur."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -79,12 +122,30 @@
       "Assess Ambedkar the economist and administrator — rupee, labour and water — beyond the constitutionalist."
     ],
     "glossary": [
-      { "term": "Bahishkrit Hitakarini Sabha", "definition": "Ambedkar's 1924 organisation for the outcastes' education and civil rights — motto: educate, agitate, organise." },
-      { "term": "Mahad Satyagraha", "definition": "The 1927 assertion of untouchables' right to public water at Chavadar tank — India's founding Dalit civil-rights action." },
-      { "term": "Annihilation of Caste", "definition": "Ambedkar's 1936 text arguing caste cannot be reformed, only annihilated — with shastra-authority itself the target." },
-      { "term": "Scheduled Castes Federation", "definition": "Ambedkar's 1942 political party for Dalit self-representation — predecessor of the Republican Party of India." },
-      { "term": "Navayana", "definition": "Ambedkar's socially-engaged rereading of Buddhism — the 1956 conversion's 'new vehicle' of equality and rationality." },
-      { "term": "Constitutional morality", "definition": "Ambedkar's demand for allegiance to constitutional forms and restraint — 'not a natural sentiment; it has to be cultivated'." }
+      {
+        "term": "Bahishkrit Hitakarini Sabha",
+        "definition": "Ambedkar's 1924 organisation for the outcastes' education and civil rights — motto: educate, agitate, organise."
+      },
+      {
+        "term": "Mahad Satyagraha",
+        "definition": "The 1927 assertion of untouchables' right to public water at Chavadar tank — India's founding Dalit civil-rights action."
+      },
+      {
+        "term": "Annihilation of Caste",
+        "definition": "Ambedkar's 1936 text arguing caste cannot be reformed, only annihilated — with shastra-authority itself the target."
+      },
+      {
+        "term": "Scheduled Castes Federation",
+        "definition": "Ambedkar's 1942 political party for Dalit self-representation — predecessor of the Republican Party of India."
+      },
+      {
+        "term": "Navayana",
+        "definition": "Ambedkar's socially-engaged rereading of Buddhism — the 1956 conversion's 'new vehicle' of equality and rationality."
+      },
+      {
+        "term": "Constitutional morality",
+        "definition": "Ambedkar's demand for allegiance to constitutional forms and restraint — 'not a natural sentiment; it has to be cultivated'."
+      }
     ]
   },
   {
@@ -100,11 +161,27 @@
           },
           {
             "type": "table",
-            "headers": ["Phase", "Method & base", "Achievement / limit"],
+            "headers": [
+              "Phase",
+              "Method & base",
+              "Achievement / limit"
+            ],
             "rows": [
-              ["**1885-1905**", "Petition, press, drain critique; lawyers-journalists elite", "Nation imagined, 1892 Act, economic nationalism / mass distance, British deafness"],
-              ["**1905-1920**", "Boycott-swadeshi, national education, passive resistance; students, urban middle class; revolutionary cells (Anushilan, Ghadar 1913, Komagata Maru 1914); Lucknow Pact (1916 — Congress-League, separate electorates conceded); Home Rule's membership politics", "Mass techniques invented, Bengal reunited (1911), Montagu promise (1917) / communal electorates seeded (1909), repression-lull cycles"],
-              ["**1920-1947**", "Gandhian satyagraha cycles + constructive programme + negotiation; peasants-workers-women-students; parallel streams — HSRA (Bhagat Singh's socialist turn; Assembly bomb 1929, Lahore conspiracy), left (Meerut case 1929, CSP 1934), princely-state praja mandals, Ambedkar-Periyar social democracy, INA climax", "Ungovernability proven, army shaken, power transferred / Partition's price; social-question deferred (the unfinished revolution)"]
+              [
+                "**1885-1905**",
+                "Petition, press, drain critique; lawyers-journalists elite",
+                "Nation imagined, 1892 Act, economic nationalism / mass distance, British deafness"
+              ],
+              [
+                "**1905-1920**",
+                "Boycott-swadeshi, national education, passive resistance; students, urban middle class; revolutionary cells (Anushilan, Ghadar 1913, Komagata Maru 1914); Lucknow Pact (1916 — Congress-League, separate electorates conceded); Home Rule's membership politics",
+                "Mass techniques invented, Bengal reunited (1911), Montagu promise (1917) / communal electorates seeded (1909), repression-lull cycles"
+              ],
+              [
+                "**1920-1947**",
+                "Gandhian satyagraha cycles + constructive programme + negotiation; peasants-workers-women-students; parallel streams — HSRA (Bhagat Singh's socialist turn; Assembly bomb 1929, Lahore conspiracy), left (Meerut case 1929, CSP 1934), princely-state praja mandals, Ambedkar-Periyar social democracy, INA climax",
+                "Ungovernability proven, army shaken, power transferred / Partition's price; social-question deferred (the unfinished revolution)"
+              ]
             ]
           }
         ]
@@ -144,6 +221,47 @@
             "text": "Exam tip: When the question spans 1885-1947, examiners grade the ARCHITECTURE of your answer — phases characterised, threads connected, verdict argued. Resist the chronicle; write the analysis."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the three acts of the freedom struggle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Phase",
+              "Years",
+              "Character"
+            ],
+            "rows": [
+              [
+                "**Moderate**",
+                "1885-1905",
+                "Constitutional agitation; economic critique; elite-led"
+              ],
+              [
+                "**Extremist/Swadeshi**",
+                "1905-1919",
+                "Mass boycott, self-reliance, militant nationalism"
+              ],
+              [
+                "**Gandhian mass phase**",
+                "1919-1947",
+                "Satyagraha; NCM, CDM, Quit India; all-class participation"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Threads across phases:** widening social base (elite → middle class → peasants/women/workers), evolving methods (petition → boycott → satyagraha), and the parallel revolutionary and socialist streams.",
+              "**Andhra's presence throughout:** from Moderate-era associations to Rampa rebellion, salt satyagraha, Quit India, and the library/self-respect movements — the region tracked every national phase."
+            ]
+          }
+        ],
+        "mainsAngles": [
+          "Trace the evolution of the national movement across its three phases, showing the broadening of its social base and methods."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +281,30 @@
       "Andhra fought two freedoms at once — trace the braiding of nationalism and Andhra identity across the three phases."
     ],
     "glossary": [
-      { "term": "Struggle-truce-struggle", "definition": "Bipan Chandra's characterisation of Gandhian strategy — mass phases alternating with constructive/negotiation phases to sustain capacity." },
-      { "term": "Constructive programme", "definition": "Khadi, untouchability removal, communal unity, village work — Gandhian politics between movements; the nation built while resting." },
-      { "term": "Revolutionary terrorism", "definition": "Armed underground actions (Anushilan, Ghadar, HSRA) — the parallel stream whose socialist maturation was Bhagat Singh." },
-      { "term": "Praja Mandal", "definition": "People's associations in princely states linking their struggles to the national movement (AISPC, 1927)." },
-      { "term": "Separate electorates", "definition": "Communal voting introduced in 1909, conceded at Lucknow 1916, expanded 1932 — the institutional groove toward Partition." },
-      { "term": "Transfer of power", "definition": "The 1945-47 endgame — elections, Cabinet Mission, interim government, Mountbatten Plan — by which Britain exited a compounding crisis." }
+      {
+        "term": "Struggle-truce-struggle",
+        "definition": "Bipan Chandra's characterisation of Gandhian strategy — mass phases alternating with constructive/negotiation phases to sustain capacity."
+      },
+      {
+        "term": "Constructive programme",
+        "definition": "Khadi, untouchability removal, communal unity, village work — Gandhian politics between movements; the nation built while resting."
+      },
+      {
+        "term": "Revolutionary terrorism",
+        "definition": "Armed underground actions (Anushilan, Ghadar, HSRA) — the parallel stream whose socialist maturation was Bhagat Singh."
+      },
+      {
+        "term": "Praja Mandal",
+        "definition": "People's associations in princely states linking their struggles to the national movement (AISPC, 1927)."
+      },
+      {
+        "term": "Separate electorates",
+        "definition": "Communal voting introduced in 1909, conceded at Lucknow 1916, expanded 1932 — the institutional groove toward Partition."
+      },
+      {
+        "term": "Transfer of power",
+        "definition": "The 1945-47 endgame — elections, Cabinet Mission, interim government, Mountbatten Plan — by which Britain exited a compounding crisis."
+      }
     ]
   },
   {
@@ -180,11 +316,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Act", "Provisions", "Assessment"],
+            "headers": [
+              "Act",
+              "Provisions",
+              "Assessment"
+            ],
             "rows": [
-              ["**Indian Councils Act 1909 (Morley-Minto)**", "Councils enlarged; first Indian in Executive Council (**Satyendra Sinha**); indirect elections; **separate electorates for Muslims** (Simla deputation 1906's harvest)", "'Constitutional' communalism institutionalised — the fatal groove; reform as counter-insurgency after Swadeshi"],
-              ["**GoI Act 1919 (Montagu-Chelmsford)**", "**Dyarchy in provinces** (transferred: education, health, local govt — Indian ministers; reserved: police, revenue — executive councillors); bicameral centre; direct elections (~10% franchise); **separate electorates extended** (Sikhs etc.); Public Service Commission promised; **10-year review clause** (hence Simon)", "Responsibility without power — ministers sans purse; centre untouched; yet the first responsible-government germ and legislative apprenticeship"],
-              ["**GoI Act 1935**", "**All-India Federation** (never born — princes' accession threshold unmet); **provincial autonomy** (dyarchy abolished in provinces — popular ministries 1937); **dyarchy moved to the centre**; separate electorates persisted + Poona-Pact seats; **federal court (1937), RBI (1935)**, Burma separated, Sindh & Orissa created; franchise ~14%; **safeguards & special responsibilities** (Governors' veto powers)", "'A machine with strong brakes and no engine' (Nehru: 'new charter of slavery'; Jinnah: 'thoroughly rotten'); yet independent India's **administrative skeleton** — the 1950 Constitution's largest single source"]
+              [
+                "**Indian Councils Act 1909 (Morley-Minto)**",
+                "Councils enlarged; first Indian in Executive Council (**Satyendra Sinha**); indirect elections; **separate electorates for Muslims** (Simla deputation 1906's harvest)",
+                "'Constitutional' communalism institutionalised — the fatal groove; reform as counter-insurgency after Swadeshi"
+              ],
+              [
+                "**GoI Act 1919 (Montagu-Chelmsford)**",
+                "**Dyarchy in provinces** (transferred: education, health, local govt — Indian ministers; reserved: police, revenue — executive councillors); bicameral centre; direct elections (~10% franchise); **separate electorates extended** (Sikhs etc.); Public Service Commission promised; **10-year review clause** (hence Simon)",
+                "Responsibility without power — ministers sans purse; centre untouched; yet the first responsible-government germ and legislative apprenticeship"
+              ],
+              [
+                "**GoI Act 1935**",
+                "**All-India Federation** (never born — princes' accession threshold unmet); **provincial autonomy** (dyarchy abolished in provinces — popular ministries 1937); **dyarchy moved to the centre**; separate electorates persisted + Poona-Pact seats; **federal court (1937), RBI (1935)**, Burma separated, Sindh & Orissa created; franchise ~14%; **safeguards & special responsibilities** (Governors' veto powers)",
+                "'A machine with strong brakes and no engine' (Nehru: 'new charter of slavery'; Jinnah: 'thoroughly rotten'); yet independent India's **administrative skeleton** — the 1950 Constitution's largest single source"
+              ]
             ]
           }
         ]
@@ -224,6 +376,58 @@
             "text": "Exam tip: Examiners love 'evaluate the 1935 Act' — answer with the paradox: the nationalists' 'charter of slavery' became the republic's chassis. Cabinet Mission questions turn on the grouping clause; state it precisely."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the constitutional ladder & commissions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Act / body",
+              "Year",
+              "Key feature"
+            ],
+            "rows": [
+              [
+                "**Morley-Minto (Indian Councils Act)**",
+                "1909",
+                "Separate electorates for Muslims — communal seed"
+              ],
+              [
+                "**Montagu-Chelmsford (GoI Act)**",
+                "1919",
+                "Dyarchy in provinces; bicameral centre"
+              ],
+              [
+                "**Simon Commission**",
+                "1927-30",
+                "All-white; boycotted; led to Nehru Report"
+              ],
+              [
+                "**Government of India Act**",
+                "1935",
+                "Provincial autonomy; federal scheme; the base of the 1950 Constitution"
+              ],
+              [
+                "**Cripps / Cabinet Mission**",
+                "1942 / 1946",
+                "Dominion offer; framing of the Constituent Assembly"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**The arc:** each Act conceded a little more Indian participation while retaining ultimate control — the ladder from councils (1909) to provincial autonomy (1935) to transfer of power (1947).",
+              "**GoI Act 1935** is the single largest source of the Indian Constitution — the continuity thread to Paper-III."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Morley-Minto 1909** — introduced separate electorates.",
+          "**GoI Act 1935** — provincial autonomy; largest source of the Constitution; Burma separated."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -244,12 +448,30 @@
       "From Simon to Mountbatten, British constitutionalism was always a step behind Indian nationalism — evaluate."
     ],
     "glossary": [
-      { "term": "Dyarchy", "definition": "The 1919 division of provincial subjects into transferred (Indian ministers) and reserved (executive councillors) — dual government by design." },
-      { "term": "Provincial autonomy", "definition": "The 1935 Act's grant of fully responsible government in provinces — realised in the 1937 ministries." },
-      { "term": "Federation clause", "definition": "The 1935 all-India federation conditional on princely accession — the engine that never started." },
-      { "term": "Safeguards", "definition": "Governors' and Viceroy's special powers and vetoes in the 1935 Act — the 'strong brakes' on elected engines." },
-      { "term": "Grouping", "definition": "The Cabinet Mission's clustering of provinces into sections A, B, C for constitution-making — its compulsory/optional ambiguity killed the plan." },
-      { "term": "Direct Action Day", "definition": "The League's 16 August 1946 mass action — Calcutta's killings opening the partition spiral." }
+      {
+        "term": "Dyarchy",
+        "definition": "The 1919 division of provincial subjects into transferred (Indian ministers) and reserved (executive councillors) — dual government by design."
+      },
+      {
+        "term": "Provincial autonomy",
+        "definition": "The 1935 Act's grant of fully responsible government in provinces — realised in the 1937 ministries."
+      },
+      {
+        "term": "Federation clause",
+        "definition": "The 1935 all-India federation conditional on princely accession — the engine that never started."
+      },
+      {
+        "term": "Safeguards",
+        "definition": "Governors' and Viceroy's special powers and vetoes in the 1935 Act — the 'strong brakes' on elected engines."
+      },
+      {
+        "term": "Grouping",
+        "definition": "The Cabinet Mission's clustering of provinces into sections A, B, C for constitution-making — its compulsory/optional ambiguity killed the plan."
+      },
+      {
+        "term": "Direct Action Day",
+        "definition": "The League's 16 August 1946 mass action — Calcutta's killings opening the partition spiral."
+      }
     ]
   }
 ]

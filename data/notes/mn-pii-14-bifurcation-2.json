@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Socio-economic & demographic impact (the decade's data)", "Content"],
+            "headers": [
+              "Socio-economic & demographic impact (the decade's data)",
+              "Content"
+            ],
             "rows": [
-              ["Growth & income", "AP's GSDP growth generally **above national average** (agri-allied led); **per-capita income crossed the national mean** in recent Socio-Economic Surveys — from a below-average start in 2014: the headline convergence fact"],
-              ["Structural shape", "Agriculture-heavy GSVA (~1/3) with services under-weight (no metro) — the 'strong primary, missing tertiary' signature; industry ~23-25% — the corridor bet's target variable"],
-              ["Human development", "Strong delivery metrics (PDS, health cover, DBT reach); NFHS-5 mixed — good institutional deliveries, stubborn anaemia; education transition (English-medium, Nadu-Nedu) with learning-outcome debates"],
-              ["Demography", "TFR well below replacement (~1.5-1.7) — **AP among India's fastest-ageing states**: the coming care-economy and workforce question (the CM-level pro-natalist debate of 2024-25 is its political echo); out-migration of graduates to Hyderabad-Bengaluru-Chennai continues — the diaspora dividend-vs-drain file"],
-              ["Regional balance inside AP", "North-coastal & Rayalaseema packages, corridor nodes (Orvakal-Kopparthi), yet coastal-core concentration persists — Sri Bagh's question in modern dress"]
+              [
+                "Growth & income",
+                "AP's GSDP growth generally **above national average** (agri-allied led); **per-capita income crossed the national mean** in recent Socio-Economic Surveys — from a below-average start in 2014: the headline convergence fact"
+              ],
+              [
+                "Structural shape",
+                "Agriculture-heavy GSVA (~1/3) with services under-weight (no metro) — the 'strong primary, missing tertiary' signature; industry ~23-25% — the corridor bet's target variable"
+              ],
+              [
+                "Human development",
+                "Strong delivery metrics (PDS, health cover, DBT reach); NFHS-5 mixed — good institutional deliveries, stubborn anaemia; education transition (English-medium, Nadu-Nedu) with learning-outcome debates"
+              ],
+              [
+                "Demography",
+                "TFR well below replacement (~1.5-1.7) — **AP among India's fastest-ageing states**: the coming care-economy and workforce question (the CM-level pro-natalist debate of 2024-25 is its political echo); out-migration of graduates to Hyderabad-Bengaluru-Chennai continues — the diaspora dividend-vs-drain file"
+              ],
+              [
+                "Regional balance inside AP",
+                "North-coastal & Rayalaseema packages, corridor nodes (Orvakal-Kopparthi), yet coastal-core concentration persists — Sri Bagh's question in modern dress"
+              ]
             ]
           }
         ]
@@ -58,6 +76,25 @@
             "text": "Exam tip: 'From metropolis-rent to geography-work' is the thesis; the per-capita-income crossover is the proof-fact; ageing demography is the twist. Three moves, complete answer."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the coastal opportunity & the decade's scorecard",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Developmental opportunities:** the ~**975 km coastline** (second-longest), ports (Visakhapatnam + non-major), the **VCIC industrial corridor**, aquaculture/horticulture strength, and renewable-energy potential — residual AP's endowment for a fresh growth model.",
+              "**The decade's honest scorecard (2014-24):** progress on ports, some industry (Kia, Sri City), welfare-DBT delivery and human-development gains — set against fiscal stress, unfulfilled SCS, capital-city uncertainty, and pending Polavaram/river issues.",
+              "**Comparative frame:** Telangana leveraged Hyderabad's inherited base; residual AP had to build afresh — the asymmetry defines the decade.",
+              "**Way forward:** port-led, corridor-anchored, renewables-and-agri-processing growth, with fiscal consolidation and central commitments honoured."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "Residual AP has the **second-longest coastline** (~975 km) among Indian states.",
+          "**VCIC (Visakhapatnam-Chennai Industrial Corridor)** anchors post-bifurcation industrial strategy."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +114,30 @@
       "From metropolis-rent to geography-work: argue whether AP's forced model is the healthier one."
     ],
     "glossary": [
-      { "term": "Comparative advantage (regional)", "definition": "What a territory does relatively best — AP's coast, delta and sun, as against inherited metropolis rents." },
-      { "term": "Convergence (income)", "definition": "A lagging region's catch-up with the mean — AP's per-capita crossover as the decade's proof." },
-      { "term": "Sub-replacement fertility", "definition": "TFR below ~2.1 — AP's ~1.5-1.7, promising an early ageing curve and care-economy needs." },
-      { "term": "Diaspora dividend", "definition": "Remittances, investment and skills flowing back from out-migrated professionals — the counterweight to brain-drain." },
-      { "term": "Greenfield urbanism", "definition": "Building planned cities anew (Amaravati) rather than retrofitting old ones — high control, high capital hunger." },
-      { "term": "Care economy", "definition": "The paid-and-unpaid eldercare-childcare sector whose expansion an ageing AP must organise and fund." }
+      {
+        "term": "Comparative advantage (regional)",
+        "definition": "What a territory does relatively best — AP's coast, delta and sun, as against inherited metropolis rents."
+      },
+      {
+        "term": "Convergence (income)",
+        "definition": "A lagging region's catch-up with the mean — AP's per-capita crossover as the decade's proof."
+      },
+      {
+        "term": "Sub-replacement fertility",
+        "definition": "TFR below ~2.1 — AP's ~1.5-1.7, promising an early ageing curve and care-economy needs."
+      },
+      {
+        "term": "Diaspora dividend",
+        "definition": "Remittances, investment and skills flowing back from out-migrated professionals — the counterweight to brain-drain."
+      },
+      {
+        "term": "Greenfield urbanism",
+        "definition": "Building planned cities anew (Amaravati) rather than retrofitting old ones — high control, high capital hunger."
+      },
+      {
+        "term": "Care economy",
+        "definition": "The paid-and-unpaid eldercare-childcare sector whose expansion an ageing AP must organise and fund."
+      }
     ]
   },
   {
@@ -98,13 +153,31 @@
           },
           {
             "type": "table",
-            "headers": ["'Arbitrary provisions' — the critique catalogue", "Content & counterpoint"],
+            "headers": [
+              "'Arbitrary provisions' — the critique catalogue",
+              "Content & counterpoint"
+            ],
             "rows": [
-              ["**Process without consent**", "Bill passed after the **AP Assembly rejected the reference (Jan 2014)**; Lok Sabha's chaotic passage (doors-closed telecast episode, Feb 2014) — Art 3 permits it (views, not consent — *Babulal Parate*), but legitimacy ≠ legality: the standing critique. Counterpoint: Art 3's design protects national flexibility; Telangana's six-decade demand had its own democratic weight"],
-              ["**Asymmetric asset-liability split**", "Situs-based fixed assets (Hyderabad's endowment to Telangana) vs population-based debt (58% to AP) — 'assets by location, liabilities by headcount' as the arbitrariness exhibit. Counterpoint: standard reorganisation practice; Schedule IX/X mechanisms exist (their sloth is the real grievance)"],
-              ["**Unnumbered promises**", "Sec 46's one-year gap support, Sec 94's 'appropriate fiscal measures' & backward-area funds, capital 'assistance' — all **amount-less obligations** whose under-realisation fuelled the SCS saga (RMA-013). Counterpoint: statutes rarely fix sums; the failure is political follow-through"],
-              ["**Hyderabad's decade**", "Common-capital revenue accruing to Telangana while AP bore transition costs; Sec 8's Governor powers barely used. Counterpoint: ten-year access + institutional continuity had value; alternatives (UT-Hyderabad) were rejected by the movement itself"],
-              ["**Constitutional challenge**", "Writ petitions against the Act (consent, asymmetry) remain **pending in the SC a decade on** — judicial deferral itself part of the story; the Act stands operative regardless"]
+              [
+                "**Process without consent**",
+                "Bill passed after the **AP Assembly rejected the reference (Jan 2014)**; Lok Sabha's chaotic passage (doors-closed telecast episode, Feb 2014) — Art 3 permits it (views, not consent — *Babulal Parate*), but legitimacy ≠ legality: the standing critique. Counterpoint: Art 3's design protects national flexibility; Telangana's six-decade demand had its own democratic weight"
+              ],
+              [
+                "**Asymmetric asset-liability split**",
+                "Situs-based fixed assets (Hyderabad's endowment to Telangana) vs population-based debt (58% to AP) — 'assets by location, liabilities by headcount' as the arbitrariness exhibit. Counterpoint: standard reorganisation practice; Schedule IX/X mechanisms exist (their sloth is the real grievance)"
+              ],
+              [
+                "**Unnumbered promises**",
+                "Sec 46's one-year gap support, Sec 94's 'appropriate fiscal measures' & backward-area funds, capital 'assistance' — all **amount-less obligations** whose under-realisation fuelled the SCS saga (RMA-013). Counterpoint: statutes rarely fix sums; the failure is political follow-through"
+              ],
+              [
+                "**Hyderabad's decade**",
+                "Common-capital revenue accruing to Telangana while AP bore transition costs; Sec 8's Governor powers barely used. Counterpoint: ten-year access + institutional continuity had value; alternatives (UT-Hyderabad) were rejected by the movement itself"
+              ],
+              [
+                "**Constitutional challenge**",
+                "Writ petitions against the Act (consent, asymmetry) remain **pending in the SC a decade on** — judicial deferral itself part of the story; the Act stands operative regardless"
+              ]
             ]
           }
         ]
@@ -144,6 +217,28 @@
             "text": "Exam tip: Precision phrase — 'arbitrary in equity, not in law' — then prove both halves. The four-point reform agenda converts grievance into contribution, which is exactly the register APPSC's examiners reward."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — river-water sharing after 2014",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The twin rivers:** **Krishna** (deficit, contested — KWDT awards, AP as lower riparian) and **Godavari** (relative surplus); the Act created the **Krishna River Management Board (KRMB) & Godavari River Management Board (GRMB)** to manage shared operations.",
+              "**The disputes:** AP-Telangana contestation over projects (**Rayalaseema Lift, Pothireddypadu vs Kaleshwaram/Palamuru**), apportionment pending a fresh tribunal reference, and the 2021 notification of board jurisdictions.",
+              "**Law, equity, lesson:** inter-state water disputes (Art 262, ISWD Act) are slow and adversarial; the lesson is the need for **basin-level, depoliticised, data-driven governance** rather than project-by-project litigation.",
+              "**AP's stake:** as the lower riparian dependent on the deltas, assured Krishna water and the completion of **Polavaram** are existential."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**KRMB & GRMB** — river-management boards created under the AP Reorganisation Act 2014.",
+          "**Inter-State River Water Disputes Act 1956** (Art 262) governs such disputes; **KWDT** awards allocate Krishna water."
+        ],
+        "mainsAngles": [
+          "'Post-bifurcation river-water sharing exposes the limits of India's inter-state water-dispute mechanism' — examine with the AP-Telangana case."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +258,30 @@
       "Draft the model Reorganisation Code — consent, quantification, tribunal — from AP's 2014 experience."
     ],
     "glossary": [
-      { "term": "Apex Council", "definition": "The Act's ministerial forum (Sec 84) for AP-Telangana river disputes — the negotiation tier above the boards." },
-      { "term": "Babulal Parate doctrine", "definition": "The 1960 ruling that Art 3 requires only a state legislature's expressed views, not its consent — the Act's legal shield." },
-      { "term": "Unapproved project", "definition": "An irrigation scheme taken up without board/Apex clearance — each twin's charge against the other's lifts." },
-      { "term": "Backwater effect", "definition": "Upstream submergence from a dam's pondage — Odisha-Chhattisgarh's Polavaram objection." },
-      { "term": "Federal comity", "definition": "The mutual good-faith owed between governments — the register in which 'arbitrariness' claims are best argued." },
-      { "term": "Escrowed package", "definition": "Reorganisation funding parked with an independent trustee against milestones — the proposed cure for unnumbered promises." }
+      {
+        "term": "Apex Council",
+        "definition": "The Act's ministerial forum (Sec 84) for AP-Telangana river disputes — the negotiation tier above the boards."
+      },
+      {
+        "term": "Babulal Parate doctrine",
+        "definition": "The 1960 ruling that Art 3 requires only a state legislature's expressed views, not its consent — the Act's legal shield."
+      },
+      {
+        "term": "Unapproved project",
+        "definition": "An irrigation scheme taken up without board/Apex clearance — each twin's charge against the other's lifts."
+      },
+      {
+        "term": "Backwater effect",
+        "definition": "Upstream submergence from a dam's pondage — Odisha-Chhattisgarh's Polavaram objection."
+      },
+      {
+        "term": "Federal comity",
+        "definition": "The mutual good-faith owed between governments — the register in which 'arbitrariness' claims are best argued."
+      },
+      {
+        "term": "Escrowed package",
+        "definition": "Reorganisation funding parked with an independent trustee against milestones — the proposed cure for unnumbered promises."
+      }
     ]
   }
 ]

@@ -8,16 +8,52 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Movement", "Where/when", "Issue & outcome"],
+            "headers": [
+              "Movement",
+              "Where/when",
+              "Issue & outcome"
+            ],
             "rows": [
-              ["**Indigo revolt**", "Bengal, 1859-60", "Planters' forced cultivation; *Nil Darpan* (Dinabandhu Mitra); Indigo Commission — the first press-backed peasant victory"],
-              ["Pabna agrarian leagues", "1873-76", "Zamindari rent enhancements; Bengal Tenancy Act 1885"],
-              ["**Deccan riots**", "1875, Poona-Ahmadnagar", "Moneylender bonds burnt; Agriculturists' Relief Act 1879"],
-              ["**Champaran / Kheda / Bardoli**", "1917 / 1918 / **1928 (Patel — 'Sardar')**", "Tinkathia ended; revenue relief; Bardoli's 30% hike rolled back — Gandhian model satyagrahas"],
-              ["**Moplah rebellion**", "Malabar, 1921", "Tenancy + Khilafat ferment turned violent-communal — the cautionary chapter"],
-              ["**All India Kisan Sabha**", "**Lucknow, 1936 — Swami Sahajanand Saraswati** president; N.G. Ranga general secretary", "Class-programme (zamindari abolition, debt relief) inside the national movement"],
-              ["**Andhra's own**", "**N.G. Ranga's ryot movement** (Nidubrolu 1923 Ryot Association; India's first **peasant institute, Nidubrolu 1933**); Venkatagiri & Kalipatnam zamindari anti-rent struggles; **Munagala paraganas** struggle", "Andhra = the Kisan movement's intellectual home — Ranga its all-India face; fed the 1948 Estates Abolition"],
-              ["**Tebhaga / Telangana**", "Bengal 1946-47 / **Hyderabad state 1946-51**", "Two-thirds share demand; the communist-led **Telangana armed struggle** against Nizam-deshmukh exactions (vetti, illegal levies) — 3,000 villages' communes, land seized, suppressed post-Police Action — the era's most radical agrarian rising, on Telugu soil"]
+              [
+                "**Indigo revolt**",
+                "Bengal, 1859-60",
+                "Planters' forced cultivation; *Nil Darpan* (Dinabandhu Mitra); Indigo Commission — the first press-backed peasant victory"
+              ],
+              [
+                "Pabna agrarian leagues",
+                "1873-76",
+                "Zamindari rent enhancements; Bengal Tenancy Act 1885"
+              ],
+              [
+                "**Deccan riots**",
+                "1875, Poona-Ahmadnagar",
+                "Moneylender bonds burnt; Agriculturists' Relief Act 1879"
+              ],
+              [
+                "**Champaran / Kheda / Bardoli**",
+                "1917 / 1918 / **1928 (Patel — 'Sardar')**",
+                "Tinkathia ended; revenue relief; Bardoli's 30% hike rolled back — Gandhian model satyagrahas"
+              ],
+              [
+                "**Moplah rebellion**",
+                "Malabar, 1921",
+                "Tenancy + Khilafat ferment turned violent-communal — the cautionary chapter"
+              ],
+              [
+                "**All India Kisan Sabha**",
+                "**Lucknow, 1936 — Swami Sahajanand Saraswati** president; N.G. Ranga general secretary",
+                "Class-programme (zamindari abolition, debt relief) inside the national movement"
+              ],
+              [
+                "**Andhra's own**",
+                "**N.G. Ranga's ryot movement** (Nidubrolu 1923 Ryot Association; India's first **peasant institute, Nidubrolu 1933**); Venkatagiri & Kalipatnam zamindari anti-rent struggles; **Munagala paraganas** struggle",
+                "Andhra = the Kisan movement's intellectual home — Ranga its all-India face; fed the 1948 Estates Abolition"
+              ],
+              [
+                "**Tebhaga / Telangana**",
+                "Bengal 1946-47 / **Hyderabad state 1946-51**",
+                "Two-thirds share demand; the communist-led **Telangana armed struggle** against Nizam-deshmukh exactions (vetti, illegal levies) — 3,000 villages' communes, land seized, suppressed post-Police Action — the era's most radical agrarian rising, on Telugu soil"
+              ]
             ]
           }
         ]
@@ -57,6 +93,26 @@
             "text": "Exam tip: The Telangana armed struggle (1946-51) on Telugu soil and Ranga's Nidubrolu institute are APPSC's two highest-yield facts here — one radical, one institutional; deploy both."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — peasant, tribal, worker & women's movements",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Peasant:** **Indigo (Champaran 1917), Kheda (1918), Bardoli Satyagraha (1928, Patel — 'Sardar'), Moplah (1921), Eka & Awadh Kisan (Baba Ramchandra); All India Kisan Sabha (1936, Sahajanand Saraswati)**.",
+              "**Tribal:** **Santhal (1855), Munda/Birsa Munda (1899-1900), Rampa (Alluri, 1922-24)** — resistance to forest laws and land alienation.",
+              "**Workers:** **AITUC (1920, Lala Lajpat Rai)**; the socialist and communist wings; strikes in textile/railway.",
+              "**Women:** from reform-era beneficiaries to active satyagrahis — **Sarojini Naidu, Kamaladevi Chattopadhyay, Aruna Asaf Ali, Usha Mehta**; mass participation in CDM and Quit India."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Bardoli Satyagraha 1928** — Vallabhbhai Patel earned the title 'Sardar'.",
+          "**All India Kisan Sabha (1936)** — Swami Sahajanand Saraswati; **AITUC (1920)**.",
+          "**Birsa Munda** — Ulgulan (Great Tumult) tribal revolt, 1899-1900."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +133,30 @@
       "The social streams gave the freedom struggle depth and the republic its agenda — discuss the 'unfinished business' thesis."
     ],
     "glossary": [
-      { "term": "Vetti", "definition": "Forced unpaid labour exacted by landlords/officials — the Telangana struggle's core grievance and Alluri-era agency complaint." },
-      { "term": "Fituri", "definition": "Armed tribal rising of the Andhra agency tracts against forest-revenue intrusion — a recurring form (1879, 1922-24)." },
-      { "term": "Podu", "definition": "Shifting cultivation of the Eastern Ghats tribes — its restriction under forest laws fuelled the Manyam rebellion." },
-      { "term": "Kisan Sabha", "definition": "Organised peasant unionism (AIKS 1936) demanding zamindari abolition and debt relief within the national movement." },
-      { "term": "Tebhaga", "definition": "Bengal sharecroppers' 1946-47 demand for two-thirds of produce — the eastern twin of Telangana's rising." },
-      { "term": "Millenarian leadership", "definition": "Charismatic prophet-figures (Birsa's 'Dharti Aba', Alluri's mystique) promising a restored just order — the idiom of tribal revolt." }
+      {
+        "term": "Vetti",
+        "definition": "Forced unpaid labour exacted by landlords/officials — the Telangana struggle's core grievance and Alluri-era agency complaint."
+      },
+      {
+        "term": "Fituri",
+        "definition": "Armed tribal rising of the Andhra agency tracts against forest-revenue intrusion — a recurring form (1879, 1922-24)."
+      },
+      {
+        "term": "Podu",
+        "definition": "Shifting cultivation of the Eastern Ghats tribes — its restriction under forest laws fuelled the Manyam rebellion."
+      },
+      {
+        "term": "Kisan Sabha",
+        "definition": "Organised peasant unionism (AIKS 1936) demanding zamindari abolition and debt relief within the national movement."
+      },
+      {
+        "term": "Tebhaga",
+        "definition": "Bengal sharecroppers' 1946-47 demand for two-thirds of produce — the eastern twin of Telangana's rising."
+      },
+      {
+        "term": "Millenarian leadership",
+        "definition": "Charismatic prophet-figures (Birsa's 'Dharti Aba', Alluri's mystique) promising a restored just order — the idiom of tribal revolt."
+      }
     ]
   },
   {
@@ -94,16 +168,52 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Party/stream", "Founded & leaders", "Role — contribution and complication"],
+            "headers": [
+              "Party/stream",
+              "Founded & leaders",
+              "Role — contribution and complication"
+            ],
             "rows": [
-              ["**INC**", "1885", "The umbrella — mass movements + negotiation; internal spectra (Moderate-Extremist; Gandhian-Socialist-conservative) made it a movement, not a party"],
-              ["**Muslim League**", "**Dacca 1906**", "From loyalist elite to Lucknow partner (1916) to mass communal party (post-1937) to **Pakistan resolution (Lahore, 23 March 1940)** — the counter-nationalism"],
-              ["**Hindu Mahasabha / RSS**", "1915 (formalised)/**1925 (Hedgewar, Nagpur)**", "Hindu-nationalist stream; Savarkar's Hindutva (1923); largely outside the mass anti-imperialist campaigns"],
-              ["**Communists (CPI)**", "**1925, Kanpur** (émigré founding Tashkent 1920)", "Militant labour-kisan work, Meerut case martyrs; complications — 'imperialist war' → **'People's War' (1942 abstention)**, and 1948 insurrectionism; Telangana struggle their epic"],
-              ["**Congress Socialist Party**", "**1934 (JP, Lohia, Narendra Dev, Achyut)**", "Left conscience within Congress; 1942's underground backbone"],
-              ["**Justice Party**", "**Madras 1916-17 (T.M. Nair, P. Tyagaraja Chetty)**", "Non-Brahmin representation; ministries under dyarchy (1920-37); social-justice GOs (communal GO 1927); loyalist tilt; transformed into **Dravidar Kazhagam (1944)** — its Andhra wing covered in HCOA-062"],
-              ["**Ambedkarite parties**", "ILP 1936 → **SCF 1942**", "Dalit self-representation — the social-democracy stream"],
-              ["**Unionists/Akalis/Krishak Praja**", "Punjab (Fazl-i-Husain), SAD 1920, Bengal (Fazlul Huq 1936)", "Provincial agrarian-communal coalitions that shaped 1937-47's chessboard"]
+              [
+                "**INC**",
+                "1885",
+                "The umbrella — mass movements + negotiation; internal spectra (Moderate-Extremist; Gandhian-Socialist-conservative) made it a movement, not a party"
+              ],
+              [
+                "**Muslim League**",
+                "**Dacca 1906**",
+                "From loyalist elite to Lucknow partner (1916) to mass communal party (post-1937) to **Pakistan resolution (Lahore, 23 March 1940)** — the counter-nationalism"
+              ],
+              [
+                "**Hindu Mahasabha / RSS**",
+                "1915 (formalised)/**1925 (Hedgewar, Nagpur)**",
+                "Hindu-nationalist stream; Savarkar's Hindutva (1923); largely outside the mass anti-imperialist campaigns"
+              ],
+              [
+                "**Communists (CPI)**",
+                "**1925, Kanpur** (émigré founding Tashkent 1920)",
+                "Militant labour-kisan work, Meerut case martyrs; complications — 'imperialist war' → **'People's War' (1942 abstention)**, and 1948 insurrectionism; Telangana struggle their epic"
+              ],
+              [
+                "**Congress Socialist Party**",
+                "**1934 (JP, Lohia, Narendra Dev, Achyut)**",
+                "Left conscience within Congress; 1942's underground backbone"
+              ],
+              [
+                "**Justice Party**",
+                "**Madras 1916-17 (T.M. Nair, P. Tyagaraja Chetty)**",
+                "Non-Brahmin representation; ministries under dyarchy (1920-37); social-justice GOs (communal GO 1927); loyalist tilt; transformed into **Dravidar Kazhagam (1944)** — its Andhra wing covered in HCOA-062"
+              ],
+              [
+                "**Ambedkarite parties**",
+                "ILP 1936 → **SCF 1942**",
+                "Dalit self-representation — the social-democracy stream"
+              ],
+              [
+                "**Unionists/Akalis/Krishak Praja**",
+                "Punjab (Fazl-i-Husain), SAD 1920, Bengal (Fazlul Huq 1936)",
+                "Provincial agrarian-communal coalitions that shaped 1937-47's chessboard"
+              ]
             ]
           }
         ]
@@ -143,6 +253,25 @@
             "text": "Exam tip: Characterise each party in one clause by its QUESTION (League: whose nation? CPI: whose class? Justice: whose jobs? SCF: whose temple and well?) — that device compresses the spectrum memorably."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the party spectrum & regional movements",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The spectrum:** Congress (umbrella) with the **Congress Socialist Party (1934, JP, Lohia, Acharya Narendra Dev)**; the **Communist Party (1925)**; the **Swaraj Party (1923, C.R. Das & Motilal Nehru)** for council entry; the **Hindu Mahasabha & Muslim League**; revolutionary bodies (**HSRA — Bhagat Singh, Chandrasekhar Azad**).",
+              "**Regional/princely-state movements:** the **All India States People's Conference** coordinated struggles in princely states; movements in Hyderabad, Travancore, Rajkot etc.",
+              "**The Andhra regional strand:** the **Andhra Mahasabha** (linguistic-province demand) and the anti-Nizam struggle in the Telangana part — a direct syllabus link.",
+              "**Craft:** show the freedom struggle as a coalition of streams — not a monolith — with Congress as the coordinating centre."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Swaraj Party (1923)** — C.R. Das & Motilal Nehru; contested council elections.",
+          "**HSRA (1928)** — Hindustan Socialist Republican Association; Bhagat Singh, Azad, Sukhdev, Rajguru."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +292,30 @@
       "Regional identity was nationalism spoken in the mother tongue — argue with the Andhra movement's example."
     ],
     "glossary": [
-      { "term": "Praja Mandal", "definition": "Subjects' associations in princely states federated under the AISPC — democratising the un-British third of India." },
-      { "term": "Two-nation theory", "definition": "The claim that Muslims and Hindus form separate nations — Lahore 1940's premise and Partition's warrant." },
-      { "term": "People's War line", "definition": "CPI's 1941-45 support of the Allied war effort after the USSR's entry — its absence from Quit India." },
-      { "term": "Non-Brahmin movement", "definition": "The Justice-Party-era mobilisation for backward-caste share in education and office — social justice's Madras chapter." },
-      { "term": "Harijan Sevak Sangh", "definition": "Gandhi's 1932 organisation for untouchability eradication — service-model reform paralleling Ambedkar's rights-model." },
-      { "term": "Mulki", "definition": "Hyderabad state's 'native-born' employment rule — the identity-employment question threading into post-1956 Telangana politics." }
+      {
+        "term": "Praja Mandal",
+        "definition": "Subjects' associations in princely states federated under the AISPC — democratising the un-British third of India."
+      },
+      {
+        "term": "Two-nation theory",
+        "definition": "The claim that Muslims and Hindus form separate nations — Lahore 1940's premise and Partition's warrant."
+      },
+      {
+        "term": "People's War line",
+        "definition": "CPI's 1941-45 support of the Allied war effort after the USSR's entry — its absence from Quit India."
+      },
+      {
+        "term": "Non-Brahmin movement",
+        "definition": "The Justice-Party-era mobilisation for backward-caste share in education and office — social justice's Madras chapter."
+      },
+      {
+        "term": "Harijan Sevak Sangh",
+        "definition": "Gandhi's 1932 organisation for untouchability eradication — service-model reform paralleling Ambedkar's rights-model."
+      },
+      {
+        "term": "Mulki",
+        "definition": "Hyderabad state's 'native-born' employment rule — the identity-employment question threading into post-1956 Telangana politics."
+      }
     ]
   },
   {
@@ -184,11 +331,27 @@
           },
           {
             "type": "table",
-            "headers": ["Stage (Bipan Chandra's ladder)", "Content", "Markers"],
+            "headers": [
+              "Stage (Bipan Chandra's ladder)",
+              "Content",
+              "Markers"
+            ],
             "rows": [
-              ["Communal nationalism", "'My community's interests are distinct'", "Simla deputation 1906; League 1906; Mahasabha 1915"],
-              ["Liberal communalism", "Distinct but negotiable — pacts possible", "Lucknow 1916; Delhi proposals 1927; Jinnah's 14 Points 1929"],
-              ["Extreme communalism", "Antagonistic; separate nationhood — fear and hate politics", "Savarkar's two-nations (1937 Ahmedabad address), **Lahore 1940**; Direct Action 1946"]
+              [
+                "Communal nationalism",
+                "'My community's interests are distinct'",
+                "Simla deputation 1906; League 1906; Mahasabha 1915"
+              ],
+              [
+                "Liberal communalism",
+                "Distinct but negotiable — pacts possible",
+                "Lucknow 1916; Delhi proposals 1927; Jinnah's 14 Points 1929"
+              ],
+              [
+                "Extreme communalism",
+                "Antagonistic; separate nationhood — fear and hate politics",
+                "Savarkar's two-nations (1937 Ahmedabad address), **Lahore 1940**; Direct Action 1946"
+              ]
             ]
           },
           {
@@ -232,6 +395,28 @@
             "text": "Exam tip: Azad's 1940 Ramgarh address ('I am a Muslim and an Indian…') and Madani's composite-nationalism theology are the under-used unity citations that elevate this answer; pair one with Gandhi's Noakhali for the human close."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — communalism, unity & Partition",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The double helix of unity & division:** the parallel growth of nationalism and communalism — **separate electorates (1909), Lucknow Pact (1916), Khilafat unity (1920), then the Nehru Report rupture, the two-nation theory, and the 1940 Lahore (Pakistan) Resolution**.",
+              "**Roots of communalism:** colonial 'divide and rule', uneven socio-economic development among communities, the politicisation of religious identity, and elite competition — not primordial hatred (the 'constructed' view).",
+              "**The unity tradition:** the composite-culture ideal, Gandhi's Hindu-Muslim unity, and the secular-nationalist mainstream that Partition tragically could not fully hold.",
+              "**Andhra register:** the region's relatively composite social fabric and the way linguistic identity (Telugu) cut across religious lines in the province's politics."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Lahore Resolution 1940** — Muslim League's demand for separate states ('Pakistan Resolution').",
+          "**Lucknow Pact 1916** — Congress–League cooperation; accepted separate electorates."
+        ],
+        "mainsAngles": [
+          "'Communalism was a modern, constructed phenomenon, not an ancient inevitability' — critically examine the road to Partition."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -252,12 +437,30 @@
       "Coastal Andhra's composite calm and Hyderabad's Razakar tragedy — write the region's double register of the communal question."
     ],
     "glossary": [
-      { "term": "Communalism", "definition": "The ideology that followers of one religion share antagonistic secular (political-economic) interests against others — a modern political construction." },
-      { "term": "Composite nationalism", "definition": "The doctrine (Azad, Madani) that Indians of all faiths form one nation by shared history and destiny — the anti-two-nation theology." },
-      { "term": "Separate electorates", "definition": "Constituencies where only one community votes for its own — the 1909 institutional groove of communal politics." },
-      { "term": "Divide and rule", "definition": "Colonial strategy of balancing communities against each other to secure the Raj — from post-1857 army policy to constitutional design." },
-      { "term": "Razakars", "definition": "The Ittehad-ul-Muslimeen's militia in Hyderabad (1947-48) whose violence against the join-India movement preceded the Police Action." },
-      { "term": "Direct Action", "definition": "The League's August 1946 street mobilisation for Pakistan — the Calcutta killings that ignited the Partition spiral." }
+      {
+        "term": "Communalism",
+        "definition": "The ideology that followers of one religion share antagonistic secular (political-economic) interests against others — a modern political construction."
+      },
+      {
+        "term": "Composite nationalism",
+        "definition": "The doctrine (Azad, Madani) that Indians of all faiths form one nation by shared history and destiny — the anti-two-nation theology."
+      },
+      {
+        "term": "Separate electorates",
+        "definition": "Constituencies where only one community votes for its own — the 1909 institutional groove of communal politics."
+      },
+      {
+        "term": "Divide and rule",
+        "definition": "Colonial strategy of balancing communities against each other to secure the Raj — from post-1857 army policy to constitutional design."
+      },
+      {
+        "term": "Razakars",
+        "definition": "The Ittehad-ul-Muslimeen's militia in Hyderabad (1947-48) whose violence against the join-India movement preceded the Police Action."
+      },
+      {
+        "term": "Direct Action",
+        "definition": "The League's August 1946 street mobilisation for Pakistan — the Calcutta killings that ignited the Partition spiral."
+      }
     ]
   }
 ]

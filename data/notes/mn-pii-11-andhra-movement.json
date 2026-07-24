@@ -12,13 +12,31 @@
           },
           {
             "type": "table",
-            "headers": ["Milestone", "Content"],
+            "headers": [
+              "Milestone",
+              "Content"
+            ],
             "rows": [
-              ["**Bapatla 1913**", "First Andhra Mahasabha; the founding resolution; the movement's Magna Carta"],
-              ["**Linguistic PCC victory (1917-18)**", "Congress conceded a separate **Andhra Provincial Congress Committee** — Nagpur (1920) generalised linguistic PCCs: the Andhra demand reshaped Congress's own map"],
-              ["Inter-war pressure", "Mahasabha sessions + Andhra University (1926) + **Sri Bagh Pact (1937)** — the internal settlement between Circars & **Rayalaseema** (guarantees on university, HC location, irrigation priority for Rayalaseema — the name 'Rayalaseema' itself coined by **Chilukuri Narayana Rao (1928)** replacing 'Ceded Districts')"],
-              ["1940s stalemate", "Congress accepted linguistic provinces in principle; the Raj deferred ('after the war'); **the 1947-49 rethink — Dhar Commission (1948: language no basis) & JVP (1949: caution, but 'Andhra could be conceded minus Madras city')**"],
-              ["**The climax**", "**Swami Sitaram's 1951 fast** (withdrawn on Vinoba's counsel) → **Potti Sriramulu's fast (19 Oct – 15 Dec 1952, Madras — 58 days, death)** → riots → Nehru conceded → **Andhra State, 1 October 1953** (11 districts; **Kurnool capital** per Sri Bagh's spirit; **T. Prakasam first CM; C.M. Trivedi Governor**) — **the first linguistic state**, forcing the SRC (1953) and the 1956 map"]
+              [
+                "**Bapatla 1913**",
+                "First Andhra Mahasabha; the founding resolution; the movement's Magna Carta"
+              ],
+              [
+                "**Linguistic PCC victory (1917-18)**",
+                "Congress conceded a separate **Andhra Provincial Congress Committee** — Nagpur (1920) generalised linguistic PCCs: the Andhra demand reshaped Congress's own map"
+              ],
+              [
+                "Inter-war pressure",
+                "Mahasabha sessions + Andhra University (1926) + **Sri Bagh Pact (1937)** — the internal settlement between Circars & **Rayalaseema** (guarantees on university, HC location, irrigation priority for Rayalaseema — the name 'Rayalaseema' itself coined by **Chilukuri Narayana Rao (1928)** replacing 'Ceded Districts')"
+              ],
+              [
+                "1940s stalemate",
+                "Congress accepted linguistic provinces in principle; the Raj deferred ('after the war'); **the 1947-49 rethink — Dhar Commission (1948: language no basis) & JVP (1949: caution, but 'Andhra could be conceded minus Madras city')**"
+              ],
+              [
+                "**The climax**",
+                "**Swami Sitaram's 1951 fast** (withdrawn on Vinoba's counsel) → **Potti Sriramulu's fast (19 Oct – 15 Dec 1952, Madras — 58 days, death)** → riots → Nehru conceded → **Andhra State, 1 October 1953** (11 districts; **Kurnool capital** per Sri Bagh's spirit; **T. Prakasam first CM; C.M. Trivedi Governor**) — **the first linguistic state**, forcing the SRC (1953) and the 1956 map"
+              ]
             ]
           }
         ]
@@ -57,6 +75,25 @@
             "text": "Exam tip: The Sri Bagh Pact (1937) is the most under-prepared high-value fact — its Rayalaseema guarantees (and Kurnool's 1953 capital as their echo) connect the movement to every later regional-equity debate including 2014."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Andhra Mahasabha & the province idea",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The province imagined:** the demand for a separate **Telugu-speaking province** grew from cultural pride and grievance at being a linguistic minority in the Madras Presidency; the **Andhra Mahasabha (first meeting 1913, Bapatla)** institutionalised it.",
+              "**Congress recognition:** Andhra was among the first **linguistic Provincial Congress Committees (1917)** — the Congress's early acceptance of the linguistic principle it would later implement nationally.",
+              "**Two Andhra Mahasabhas:** the coastal-Andhra cultural-political body, and the **Telangana Andhra Mahasabha** under the Nizam (which turned radical/communist, feeding the Telangana armed struggle) — distinguish them.",
+              "**Grammar of the movement:** language + culture + economic grievance (neglect within the Presidency) = the case for statehood."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Andhra Mahasabha** — first session at **Bapatla, 1913**; demanded a separate Telugu province.",
+          "Congress conceded **linguistic Provincial Committees** in 1917 (Andhra among the first)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +114,30 @@
       "The first linguistic state forced federal India's redesign — evaluate Andhra 1953 as the SRC's trigger."
     ],
     "glossary": [
-      { "term": "Andhra Mahasabha", "definition": "The annual conference-movement (from Bapatla 1913) demanding a Telugu province — the Andhra identity's political parliament." },
-      { "term": "Linguistic PCC", "definition": "Congress's language-based provincial committee — the Andhra PCC (1917-18) pioneering the principle Nagpur 1920 adopted." },
-      { "term": "Sri Bagh Pact", "definition": "The 1937 Circars-Rayalaseema gentlemen's settlement on capital, high court, university and irrigation priorities — sub-regional federalism's first Andhra draft." },
-      { "term": "Dhar & JVP", "definition": "The 1948 commission (language no basis) and 1949 Nehru-Patel-Pattabhi committee (cautious concession) — the founding-era brakes on linguistic states." },
-      { "term": "Fast unto death", "definition": "Satyagraha's terminal instrument — Sriramulu's 58-day fast converting a deferred demand into an irresistible one." },
-      { "term": "Visalandhra", "definition": "The 'greater Andhra' goal — uniting Andhra State with Telangana — realised as AP (1956) and revisited in 2014." }
+      {
+        "term": "Andhra Mahasabha",
+        "definition": "The annual conference-movement (from Bapatla 1913) demanding a Telugu province — the Andhra identity's political parliament."
+      },
+      {
+        "term": "Linguistic PCC",
+        "definition": "Congress's language-based provincial committee — the Andhra PCC (1917-18) pioneering the principle Nagpur 1920 adopted."
+      },
+      {
+        "term": "Sri Bagh Pact",
+        "definition": "The 1937 Circars-Rayalaseema gentlemen's settlement on capital, high court, university and irrigation priorities — sub-regional federalism's first Andhra draft."
+      },
+      {
+        "term": "Dhar & JVP",
+        "definition": "The 1948 commission (language no basis) and 1949 Nehru-Patel-Pattabhi committee (cautious concession) — the founding-era brakes on linguistic states."
+      },
+      {
+        "term": "Fast unto death",
+        "definition": "Satyagraha's terminal instrument — Sriramulu's 58-day fast converting a deferred demand into an irresistible one."
+      },
+      {
+        "term": "Visalandhra",
+        "definition": "The 'greater Andhra' goal — uniting Andhra State with Telangana — realised as AP (1956) and revisited in 2014."
+      }
     ]
   },
   {
@@ -94,14 +149,42 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Figure", "Life & work", "Signature"],
+            "headers": [
+              "Figure",
+              "Life & work",
+              "Signature"
+            ],
             "rows": [
-              ["**Alluri Sitarama Raju (1897-1924)**", "Sanyasi-rebel of the Visakhapatnam agency; organised Koya-Bagata hill people against **forest-law podu bans, vetti and muttadar oppression**; the **Rampa/Manyam rebellion (Aug 1922-May 1924)** — guerrilla raids on **Chintapalli, Krishnadevipeta, Rajavommangi** police stations (arms seizures), jungle warfare humbling the Malabar Special Police; betrayed, **executed at Koyyuru (7 May 1924)**, tied to a tree and shot", "'**Manyam Veerudu**' — the fusion figure: tribal grievance + nationalist consciousness (he invoked NCM's context while rejecting its pacifism); 125th-anniversary national commemorations (2022, Bhimavaram statue) renewed his memory"],
-              ["**Duggirala Gopalakrishnayya (1889-1928)**", "Edinburgh-educated; 'Andhra Ratna'; led **Chirala-Perala (1921)** — evacuated ~13-15,000 townspeople to **Ramnagar** for 11 months against municipal imposition; Ramadandu volunteer corps; jailed; Kakinada Congress (1923)'s singing organiser", "Constructive satyagraha's most audacious experiment — a town seceding from the Raj; oratory-music as mobilisation ('the singing leader')"],
-              ["**Konda Venkatappayya (1866-1948)**", "'**Desabhakta**'; Krishna Patrika founder-editor phase; Andhra movement's father-figure (1913-); Andhra PCC's first helmsman; legislator; Gandhi's trusted Andhra lieutenant", "The movement's respectability and persistence — petition-to-satyagraha bridge across four decades"],
-              ["**Bhogaraju Pattabhi Sitaramayya (1880-1959)**", "Machilipatnam doctor-turned-Congressman; **founder: Andhra Bank (1923), Andhra Insurance, Bhagyalakshmi Bank**; historian — ***History of the Indian National Congress* (1935/1946-47)**; lost to Bose (Tripuri 1939); **Congress President (Jaipur 1948)**; Ahmednagar prison chronicler; later **Governor of Madhya Pradesh (1952-57)**", "Ideologue of linguistic provinces + swadeshi financier + the Congress's official memory — the institution-builder face of Andhra nationalism"],
-              ["**Ponaka Kanakamma (1892-1963)**", "Nellore's Gandhian matriarch; salt-satyagraha organiser (Mypadu's backbone), khadi-Harijan work; **founded Kasturidevi Vidyalayam (Nellore girls' school)**; jailed (first Andhra women's cohort); Sriramulu's Nellore-era patron", "Women's leadership normalised — funding, organising and jail-going in one person"],
-              ["**Dokka Seethamma (1841-1909)**", "Godavari's legendary annadatri of **Lankala Gannavaram** — fed every traveller-pilgrim across caste lines for decades ('Apara Annapurna'); the Raj-era legend: her name invoked at the 1902 Delhi Durbar honours narrative", "Service-as-dharma folk sainthood — the pre-political moral capital the movements later drew upon; **Godavari's aqueduct (2019) named for her** — living memory"]
+              [
+                "**Alluri Sitarama Raju (1897-1924)**",
+                "Sanyasi-rebel of the Visakhapatnam agency; organised Koya-Bagata hill people against **forest-law podu bans, vetti and muttadar oppression**; the **Rampa/Manyam rebellion (Aug 1922-May 1924)** — guerrilla raids on **Chintapalli, Krishnadevipeta, Rajavommangi** police stations (arms seizures), jungle warfare humbling the Malabar Special Police; betrayed, **executed at Koyyuru (7 May 1924)**, tied to a tree and shot",
+                "'**Manyam Veerudu**' — the fusion figure: tribal grievance + nationalist consciousness (he invoked NCM's context while rejecting its pacifism); 125th-anniversary national commemorations (2022, Bhimavaram statue) renewed his memory"
+              ],
+              [
+                "**Duggirala Gopalakrishnayya (1889-1928)**",
+                "Edinburgh-educated; 'Andhra Ratna'; led **Chirala-Perala (1921)** — evacuated ~13-15,000 townspeople to **Ramnagar** for 11 months against municipal imposition; Ramadandu volunteer corps; jailed; Kakinada Congress (1923)'s singing organiser",
+                "Constructive satyagraha's most audacious experiment — a town seceding from the Raj; oratory-music as mobilisation ('the singing leader')"
+              ],
+              [
+                "**Konda Venkatappayya (1866-1948)**",
+                "'**Desabhakta**'; Krishna Patrika founder-editor phase; Andhra movement's father-figure (1913-); Andhra PCC's first helmsman; legislator; Gandhi's trusted Andhra lieutenant",
+                "The movement's respectability and persistence — petition-to-satyagraha bridge across four decades"
+              ],
+              [
+                "**Bhogaraju Pattabhi Sitaramayya (1880-1959)**",
+                "Machilipatnam doctor-turned-Congressman; **founder: Andhra Bank (1923), Andhra Insurance, Bhagyalakshmi Bank**; historian — ***History of the Indian National Congress* (1935/1946-47)**; lost to Bose (Tripuri 1939); **Congress President (Jaipur 1948)**; Ahmednagar prison chronicler; later **Governor of Madhya Pradesh (1952-57)**",
+                "Ideologue of linguistic provinces + swadeshi financier + the Congress's official memory — the institution-builder face of Andhra nationalism"
+              ],
+              [
+                "**Ponaka Kanakamma (1892-1963)**",
+                "Nellore's Gandhian matriarch; salt-satyagraha organiser (Mypadu's backbone), khadi-Harijan work; **founded Kasturidevi Vidyalayam (Nellore girls' school)**; jailed (first Andhra women's cohort); Sriramulu's Nellore-era patron",
+                "Women's leadership normalised — funding, organising and jail-going in one person"
+              ],
+              [
+                "**Dokka Seethamma (1841-1909)**",
+                "Godavari's legendary annadatri of **Lankala Gannavaram** — fed every traveller-pilgrim across caste lines for decades ('Apara Annapurna'); the Raj-era legend: her name invoked at the 1902 Delhi Durbar honours narrative",
+                "Service-as-dharma folk sainthood — the pre-political moral capital the movements later drew upon; **Godavari's aqueduct (2019) named for her** — living memory"
+              ]
             ]
           }
         ]
@@ -140,6 +223,25 @@
             "text": "Exam tip: Alluri wrote to the authorities before striking — the detail that turns him from bandit to satyagrahi-with-arms in your answer; Pattabhi's bank plus his History make him the man who financed AND wrote the movement."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the lives that carried the struggle",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The makers:** **Konda Venkatappayya** (architect of the Andhra movement), **Bhogaraju Pattabhi Sitaramayya** (historian of the Congress, statehood advocate), **Tanguturi Prakasam** ('Andhra Kesari' — the lion who bared his chest to police guns, first CM of Andhra State), **Duggirala Gopalakrishnayya** (Chirala-Perala satyagraha), and **N.G. Ranga** (peasant leader).",
+              "**Reading the six together:** they fused **national freedom + linguistic statehood + social/peasant reform** — Andhra's struggle was simultaneously anti-colonial and identity-affirming.",
+              "**Prakasam's symbolism:** the 'Andhra Kesari' episode (baring his chest during a boycott) became the movement's iconic image of courage.",
+              "**Significance:** these lives embody how the all-India movement and the sub-national aspiration reinforced each other in Andhra."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Tanguturi Prakasam** — 'Andhra Kesari'; first Chief Minister of Andhra State (1953).",
+          "**Konda Venkatappayya** — leading organiser of the Andhra movement; **N.G. Ranga** — peasant leader."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -160,12 +262,30 @@
       "Recover the women's front of Andhra nationalism through Ponaka Kanakamma's career."
     ],
     "glossary": [
-      { "term": "Manyam", "definition": "The hill-forest agency tracts of north coastal Andhra — Alluri's theatre; hence 'Manyam Veerudu'." },
-      { "term": "Muttadar", "definition": "Hill-estate revenue chief whose exactions (with contractor wage-fraud) fired the 1922 rising." },
-      { "term": "Ramadandu", "definition": "Duggirala's disciplined volunteer corps ('Rama's army') that ran the Ramnagar parallel town." },
-      { "term": "Annadanam", "definition": "Ritual-ethical feeding of all comers — Seethamma's lifelong practice, the seva substrate of public life." },
-      { "term": "Primitive rebel debate", "definition": "Historiographical frame (Hobsbawm) asking whether risings like Alluri's were pre-political — countered by their evident nationalist consciousness." },
-      { "term": "1 of 70", "definition": "AP's Land Transfer Regulation (1959, amended 1970) barring non-tribal acquisition of Scheduled-Area land — the fituris' statutory afterlife." }
+      {
+        "term": "Manyam",
+        "definition": "The hill-forest agency tracts of north coastal Andhra — Alluri's theatre; hence 'Manyam Veerudu'."
+      },
+      {
+        "term": "Muttadar",
+        "definition": "Hill-estate revenue chief whose exactions (with contractor wage-fraud) fired the 1922 rising."
+      },
+      {
+        "term": "Ramadandu",
+        "definition": "Duggirala's disciplined volunteer corps ('Rama's army') that ran the Ramnagar parallel town."
+      },
+      {
+        "term": "Annadanam",
+        "definition": "Ritual-ethical feeding of all comers — Seethamma's lifelong practice, the seva substrate of public life."
+      },
+      {
+        "term": "Primitive rebel debate",
+        "definition": "Historiographical frame (Hobsbawm) asking whether risings like Alluri's were pre-political — countered by their evident nationalist consciousness."
+      },
+      {
+        "term": "1 of 70",
+        "definition": "AP's Land Transfer Regulation (1959, amended 1970) barring non-tribal acquisition of Scheduled-Area land — the fituris' statutory afterlife."
+      }
     ]
   },
   {
@@ -177,11 +297,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Leader", "Career", "Library-movement work"],
+            "headers": [
+              "Leader",
+              "Career",
+              "Library-movement work"
+            ],
             "rows": [
-              ["**Ayyanki Venkata Ramanayya (1890-1979)**", "Vijayawada's librarian-general of the nation; Congress worker; edited movement journals", "**Founded the Andhradesa Grandhalaya Sangham (1914)** and steered its conferences; launched **Grandhalaya Sarvasvam (1916)**; moved the **All India Public Library Association (1919)** and its all-India conferences; pressed library legislation for decades (the 1960 AP Act his life's codicil) — **'Father of the Indian library movement'**; Rao Sahib title returned during NCM"],
-              ["**Gadicherla Harisarvottama Rao (1883-1960)**", "Vandemataram-era firebrand (expelled from Rajahmundry College's teachership context, 1907); **jailed for 'Viplavam' in *Swarajya* (1908-09)** — Andhra's first sedition-celebrity; Home Rule organiser; Andhra movement stalwart; scholar-translator", "Ran libraries as national schools — the **Sarvottama/reading-room network of Rayalaseema-coastal towns**; librarianship-journalism-education fused; presided over library conferences; his life the proof that the reading room WAS the barricade"],
-              ["**Kasinathuni Nageswara Rao (1867-1938)**", "'**Desoddharaka**' & 'Viswadata'; pharmacist-industrialist (**Amrutanjan, 1893**) turned press baron — **Andhra Patrika (1908 weekly Bombay → 1914 Madras daily)**, **Bharati (1924)**, **Andhra Grandhamala** book series; Congress financier; **host of the Sri Bagh Pact (1937 — his Madras residence)**", "Bankrolled the print-library ecosystem: cheap classics via Grandhamala, the Patrika's library-movement advocacy, philanthropy to reading rooms and schools — the movement's treasury and megaphone in one"]
+              [
+                "**Ayyanki Venkata Ramanayya (1890-1979)**",
+                "Vijayawada's librarian-general of the nation; Congress worker; edited movement journals",
+                "**Founded the Andhradesa Grandhalaya Sangham (1914)** and steered its conferences; launched **Grandhalaya Sarvasvam (1916)**; moved the **All India Public Library Association (1919)** and its all-India conferences; pressed library legislation for decades (the 1960 AP Act his life's codicil) — **'Father of the Indian library movement'**; Rao Sahib title returned during NCM"
+              ],
+              [
+                "**Gadicherla Harisarvottama Rao (1883-1960)**",
+                "Vandemataram-era firebrand (expelled from Rajahmundry College's teachership context, 1907); **jailed for 'Viplavam' in *Swarajya* (1908-09)** — Andhra's first sedition-celebrity; Home Rule organiser; Andhra movement stalwart; scholar-translator",
+                "Ran libraries as national schools — the **Sarvottama/reading-room network of Rayalaseema-coastal towns**; librarianship-journalism-education fused; presided over library conferences; his life the proof that the reading room WAS the barricade"
+              ],
+              [
+                "**Kasinathuni Nageswara Rao (1867-1938)**",
+                "'**Desoddharaka**' & 'Viswadata'; pharmacist-industrialist (**Amrutanjan, 1893**) turned press baron — **Andhra Patrika (1908 weekly Bombay → 1914 Madras daily)**, **Bharati (1924)**, **Andhra Grandhamala** book series; Congress financier; **host of the Sri Bagh Pact (1937 — his Madras residence)**",
+                "Bankrolled the print-library ecosystem: cheap classics via Grandhamala, the Patrika's library-movement advocacy, philanthropy to reading rooms and schools — the movement's treasury and megaphone in one"
+              ]
             ]
           }
         ]
@@ -221,6 +357,25 @@
             "text": "Exam tip: 'Organise, staff, finance' — the three-verb frame for the trio; and the closing line 'before Andhra had a state, it had a catalogue' gives the examiner a sentence to remember your answer by."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Granthalaya trio as a system",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The trio:** **Ayyanki Venkata Ramanaiah, Gadicherla Harisarvottama Rao, and Vavilala Gopalakrishnayya** — organisers who turned the **library movement** into a state-wide network of civic awakening.",
+              "**The library as system:** reading rooms + Telugu books + newspapers + public lectures created a decentralised infrastructure of literacy and nationalism — 'each library a cell of the movement'.",
+              "**Link to statehood:** the library and cultural movements built the literate, self-aware Telugu public that demanded and sustained the case for Andhra.",
+              "**Significance:** an instructive model of how cultural institution-building underpins political mobilisation — a strong, distinctive answer point."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Ayyanki Venkata Ramanaiah** — organiser of the Andhra Granthalaya (library) movement.",
+          "The library movement functioned as the civic-cultural base of the Andhra statehood struggle."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -239,12 +394,30 @@
       "'Before Andhra had a state, it had a catalogue' — defend the claim that libraries built Andhra identity's infrastructure."
     ],
     "glossary": [
-      { "term": "ADLA", "definition": "Andhradesa Grandhalaya Sangham (1914) — the provincial library federation that professionalised and politicised the reading-room movement." },
-      { "term": "Grandhalaya Sarvasvam", "definition": "The 1916 Telugu library-science journal — the movement's professional voice, among the world's earliest in a vernacular." },
-      { "term": "Andhra Grandhamala", "definition": "Kasinathuni's cheap-classics book series — affordable print as the library shelf's supply chain." },
-      { "term": "Library cess", "definition": "The local surcharge funding public libraries under the 1948/1960 Acts — the movement's fiscal machinery." },
-      { "term": "Viplavam case", "definition": "The 1908 sedition prosecution of Gadicherla for his Swarajya editorial — Andhra's early press-martyrdom." },
-      { "term": "Desoddharaka", "definition": "'Nation-uplifter' — Kasinathuni's honorific, earned by financing the Telugu public sphere." }
+      {
+        "term": "ADLA",
+        "definition": "Andhradesa Grandhalaya Sangham (1914) — the provincial library federation that professionalised and politicised the reading-room movement."
+      },
+      {
+        "term": "Grandhalaya Sarvasvam",
+        "definition": "The 1916 Telugu library-science journal — the movement's professional voice, among the world's earliest in a vernacular."
+      },
+      {
+        "term": "Andhra Grandhamala",
+        "definition": "Kasinathuni's cheap-classics book series — affordable print as the library shelf's supply chain."
+      },
+      {
+        "term": "Library cess",
+        "definition": "The local surcharge funding public libraries under the 1948/1960 Acts — the movement's fiscal machinery."
+      },
+      {
+        "term": "Viplavam case",
+        "definition": "The 1908 sedition prosecution of Gadicherla for his Swarajya editorial — Andhra's early press-martyrdom."
+      },
+      {
+        "term": "Desoddharaka",
+        "definition": "'Nation-uplifter' — Kasinathuni's honorific, earned by financing the Telugu public sphere."
+      }
     ]
   }
 ]

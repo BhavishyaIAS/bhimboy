@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Power", "Andhra establishments", "Notes"],
+            "headers": [
+              "Power",
+              "Andhra establishments",
+              "Notes"
+            ],
             "rows": [
-              ["**Dutch (VOC)**", "**Masulipatnam (1605)** — their first Coromandel factory; Nizampatnam (Petapuli), Palakollu, Draksharama, Jaggernaikpuram (Kakinada), **Bimlipatam (Bheemunipatnam, 1652)**", "Dominated 17th-century Coromandel trade; Bimlipatam's Dutch cemetery survives — prelims-friendly relic"],
-              ["**English (EIC)**", "**Masulipatnam (1611)** — the Company's **first Coromandel factory** (before Madras, 1639); **Armagon/Durgarazpatnam (1626)**; later Visakhapatnam (1682-)", "The 'golden firman' of Golconda (1632/34) eased trade; Masulipatnam's 1686-87 Mughal-conquest disruptions pushed primacy to Madras"],
-              ["**French**", "**Masulipatnam & Yanam (1723/1731)**", "**Yanam remained French till 1954** — the Andhra dot of French India; Bussy's 1750s hinterland presence (Circars grant to the French, 1753) the high-water mark"],
-              ["Danes/others", "Minor Coromandel touchpoints", "Peripheral to Andhra"]
+              [
+                "**Dutch (VOC)**",
+                "**Masulipatnam (1605)** — their first Coromandel factory; Nizampatnam (Petapuli), Palakollu, Draksharama, Jaggernaikpuram (Kakinada), **Bimlipatam (Bheemunipatnam, 1652)**",
+                "Dominated 17th-century Coromandel trade; Bimlipatam's Dutch cemetery survives — prelims-friendly relic"
+              ],
+              [
+                "**English (EIC)**",
+                "**Masulipatnam (1611)** — the Company's **first Coromandel factory** (before Madras, 1639); **Armagon/Durgarazpatnam (1626)**; later Visakhapatnam (1682-)",
+                "The 'golden firman' of Golconda (1632/34) eased trade; Masulipatnam's 1686-87 Mughal-conquest disruptions pushed primacy to Madras"
+              ],
+              [
+                "**French**",
+                "**Masulipatnam & Yanam (1723/1731)**",
+                "**Yanam remained French till 1954** — the Andhra dot of French India; Bussy's 1750s hinterland presence (Circars grant to the French, 1753) the high-water mark"
+              ],
+              [
+                "Danes/others",
+                "Minor Coromandel touchpoints",
+                "Peripheral to Andhra"
+              ]
             ]
           },
           {
@@ -61,6 +81,26 @@
             "text": "Exam tip: Frame Company-era Andhra as a hinterland being made — port to presidency, weaver to ryot, palegar to pensioner — transformation, not mere chronology, is what the mains examiner grades."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — European trade & Company Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Trade footholds:** the **Dutch (Pulicat, Nizampatnam), the English (Masulipatnam 1611 — their first factory on the Coromandel/east coast, then Madras 1639), and the French (Yanam)** — the Andhra coast was central to the Coromandel textile trade (famous painted cloth, *kalamkari*).",
+              "**Into rule:** after Buxar and the Northern Circars grant (**the Circars ceded 1765-66**), coastal Andhra passed to the Company; **Rayalaseema (the Ceded Districts) came in 1800** from the Nizam ('Datta Mandalam').",
+              "**Colonial economy:** ryotwari revenue (Munro), decline of handloom weaving under de-industrialisation, and later the transformative **Godavari & Krishna anicuts (Sir Arthur Cotton)** turning the deltas into a rice bowl.",
+              "**Significance:** Andhra's colonial experience combined coastal commercial prominence with agrarian transformation and artisanal decline."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Masulipatnam (Machilipatnam)** — the English East India Company's first east-coast factory (1611).",
+          "**Ceded Districts (Rayalaseema)** transferred by the Nizam to the Company in **1800**; the Northern Circars earlier.",
+          "**Sir Arthur Cotton** — Dowleswaram anicut on the Godavari."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -81,12 +121,30 @@
       "Explain how colonial administrative geography (Presidency, tenures, railways) set up the later demand for a separate Andhra."
     ],
     "glossary": [
-      { "term": "Coromandel trade", "definition": "The textile-centred commerce of India's southeast coast — Andhra's kalamkari and chintz the currency of Indo-Southeast Asian exchange." },
-      { "term": "Factory (trading)", "definition": "A fortified warehouse-residence of a European company — Masulipatnam hosting Dutch (1605) and English (1611) firsts on the Coromandel." },
-      { "term": "Firman", "definition": "A royal grant/charter (Golconda's 'golden firman', the Mughal-Nizam grants) licensing trade or ceding revenue rights." },
-      { "term": "Palegar (Poligar)", "definition": "Armed local chieftain of the southern uplands; the Ceded Districts' palegar suppression was Munro's first campaign." },
-      { "term": "Northern Circars", "definition": "The five coastal Andhra sarkars (Chicacole to Guntur) obtained from the Nizam (1766) — the Presidency's Andhra spine." },
-      { "term": "Agency tracts", "definition": "The scheduled hill areas of the Eastern Ghats under special regulations — the fituris' home and today's Fifth Schedule areas." }
+      {
+        "term": "Coromandel trade",
+        "definition": "The textile-centred commerce of India's southeast coast — Andhra's kalamkari and chintz the currency of Indo-Southeast Asian exchange."
+      },
+      {
+        "term": "Factory (trading)",
+        "definition": "A fortified warehouse-residence of a European company — Masulipatnam hosting Dutch (1605) and English (1611) firsts on the Coromandel."
+      },
+      {
+        "term": "Firman",
+        "definition": "A royal grant/charter (Golconda's 'golden firman', the Mughal-Nizam grants) licensing trade or ceding revenue rights."
+      },
+      {
+        "term": "Palegar (Poligar)",
+        "definition": "Armed local chieftain of the southern uplands; the Ceded Districts' palegar suppression was Munro's first campaign."
+      },
+      {
+        "term": "Northern Circars",
+        "definition": "The five coastal Andhra sarkars (Chicacole to Guntur) obtained from the Nizam (1766) — the Presidency's Andhra spine."
+      },
+      {
+        "term": "Agency tracts",
+        "definition": "The scheduled hill areas of the Eastern Ghats under special regulations — the fituris' home and today's Fifth Schedule areas."
+      }
     ]
   },
   {
@@ -102,11 +160,27 @@
           },
           {
             "type": "table",
-            "headers": ["Awakening stream", "Carriers", "Content"],
+            "headers": [
+              "Awakening stream",
+              "Carriers",
+              "Content"
+            ],
             "rows": [
-              ["**Social reform**", "**Veeresalingam's Rajahmundry hub** (full note HCOA-059); Brahmo networks (Raghupathi Venkataratnam Naidu's purity-social work); Vivekananda's 1893-97 ripples", "Widow remarriage (1881), anti-nautch, anti-dowry, girls' schools — reform's Telugu edition"],
-              ["**Literary renaissance**", "**Kandukuri (prose's workhorse), Gurajada (Kanyasulkam 1892; 'Desamunu Preminchumanna'), Gidugu (vyavaharika movement)**, Chilakamarthi (Gayopakhyanam), Rayaprolu & the bhava kavitvam wave", "From pandit-Telugu to people's Telugu; literature as reform's vehicle — the play, the novel, the essay all debut socially armed"],
-              ["**Press & associations**", "Vivekavardhini (1874), Krishna Patrika (1902), Andhra Patrika (1908/14); libraries & night schools; caste-reform sabhas and **adi-movements** (Adi-Andhra 1917)", "The infrastructure of a Telugu public sphere (HCOA-060 completes)"]
+              [
+                "**Social reform**",
+                "**Veeresalingam's Rajahmundry hub** (full note HCOA-059); Brahmo networks (Raghupathi Venkataratnam Naidu's purity-social work); Vivekananda's 1893-97 ripples",
+                "Widow remarriage (1881), anti-nautch, anti-dowry, girls' schools — reform's Telugu edition"
+              ],
+              [
+                "**Literary renaissance**",
+                "**Kandukuri (prose's workhorse), Gurajada (Kanyasulkam 1892; 'Desamunu Preminchumanna'), Gidugu (vyavaharika movement)**, Chilakamarthi (Gayopakhyanam), Rayaprolu & the bhava kavitvam wave",
+                "From pandit-Telugu to people's Telugu; literature as reform's vehicle — the play, the novel, the essay all debut socially armed"
+              ],
+              [
+                "**Press & associations**",
+                "Vivekavardhini (1874), Krishna Patrika (1902), Andhra Patrika (1908/14); libraries & night schools; caste-reform sabhas and **adi-movements** (Adi-Andhra 1917)",
+                "The infrastructure of a Telugu public sphere (HCOA-060 completes)"
+              ]
             ]
           }
         ]
@@ -146,6 +220,25 @@
             "text": "Exam tip: 'The missionaries brought the tools; Andhra forged its own awakening with them' — that thesis line, the Ongole-Dalit paragraph, and Gidugu's language victory are this note's three scoring pillars."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — missionaries & the Andhra awakening",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Missionary contribution:** printing presses, schools, Telugu grammar & dictionaries, and mass education among the poor and Dalits — an ambivalent legacy of modernisation alongside evangelism.",
+              "**The Andhra renaissance:** **Kandukuri Veeresalingam** ('the father of the Telugu renaissance') — widow remarriage, women's education, anti-nautch, and modern Telugu prose (*Rajasekhara Charitramu*, the first Telugu novel).",
+              "**Debates:** reform from within vs Westernised modernity; social reform's urban-elite reach vs mass impact.",
+              "**Significance:** the awakening created the cultural-intellectual base for Andhra's later linguistic and political self-assertion."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Kandukuri Veeresalingam** — pioneer of widow remarriage and women's education in Andhra; wrote *Rajasekhara Charitramu*.",
+          "Missionaries pioneered **Telugu printing, grammar and mass schooling**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -166,12 +259,30 @@
       "Why was Andhra nationalism's readiest province by 1920? Argue from the awakening's completed toolkit."
     ],
     "glossary": [
-      { "term": "Lone Star mission", "definition": "The American Baptist Nellore-Ongole mission whose 1870s Madiga mass movement was among India's largest conversion waves." },
-      { "term": "Adi-Andhra", "definition": "The self-chosen census identity (from 1917-21) of Andhra Dalits claiming original-inhabitant status — assertion through nomenclature." },
-      { "term": "Anti-nautch movement", "definition": "Campaign against dedicating girls (devadasi) and nautch entertainments — Venkataratnam Naidu's signature cause." },
-      { "term": "Vyavaharika bhasha", "definition": "Spoken-standard Telugu championed by Gidugu for print and schooling against archaic granthika." },
-      { "term": "Bhava kavitvam", "definition": "The lyric-romantic movement of modern Telugu poetry (Rayaprolu et al.) — the renaissance's aesthetic wing." },
-      { "term": "Social purity movement", "definition": "Brahmo-inflected reform (Venkataratnam Naidu) targeting drink, nautch and vice — respectability as reform idiom." }
+      {
+        "term": "Lone Star mission",
+        "definition": "The American Baptist Nellore-Ongole mission whose 1870s Madiga mass movement was among India's largest conversion waves."
+      },
+      {
+        "term": "Adi-Andhra",
+        "definition": "The self-chosen census identity (from 1917-21) of Andhra Dalits claiming original-inhabitant status — assertion through nomenclature."
+      },
+      {
+        "term": "Anti-nautch movement",
+        "definition": "Campaign against dedicating girls (devadasi) and nautch entertainments — Venkataratnam Naidu's signature cause."
+      },
+      {
+        "term": "Vyavaharika bhasha",
+        "definition": "Spoken-standard Telugu championed by Gidugu for print and schooling against archaic granthika."
+      },
+      {
+        "term": "Bhava kavitvam",
+        "definition": "The lyric-romantic movement of modern Telugu poetry (Rayaprolu et al.) — the renaissance's aesthetic wing."
+      },
+      {
+        "term": "Social purity movement",
+        "definition": "Brahmo-inflected reform (Venkataratnam Naidu) targeting drink, nautch and vice — respectability as reform idiom."
+      }
     ]
   },
   {
@@ -183,11 +294,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Figure", "Career in brief", "Andhra legacy"],
+            "headers": [
+              "Figure",
+              "Career in brief",
+              "Andhra legacy"
+            ],
             "rows": [
-              ["**Sir Thomas Munro (1761-1827)**", "Read's assistant (Baramahal) → **Principal Collector, Ceded Districts (1800-07)** — palegar pacification, village-level ryotwari settlements → **Governor of Madras (1820-27)**; died of cholera at **Pattikonda (Kurnool), 6 July 1827**", "**Ryotwari's architect** — direct patta to the cultivator; judicial-revenue integration (collector-magistrate); the 'Munro system' of paternalist district officer; folk deification in Rayalaseema (the 'Mandava' legends; equestrian statue, Madras) — the coloniser remembered as protector: a paradox worth one line"],
-              ["**Colin Mackenzie (1754-1821)**", "Military engineer-surveyor; **Mysore & Deccan surveys**; **first Surveyor-General of India (1815)**", "The **Mackenzie Manuscripts**: with Brahmin assistants (**Kavali brothers — Venkata Boriah, Lakshmayya**) collected **thousands of local histories, kaifiyats (village records), inscriptions, coins** across Telugu country — the single richest archive of Andhra's pre-colonial past; 'surveyed the land and salvaged its memory'"],
-              ["**C.P. Brown (1798-1884)**", "Company civilian at **Cuddapah/Kadapa**; judge-collector posts; spent private fortune on Telugu letters", "**Telugu-English (1852) & English-Telugu dictionaries**; **rescued and edited Vemana's verses** (first print 1829); collected-copied thousands of Telugu manuscripts (his 'Brown's pandits' scriptorium at Kadapa); grammar, translations — called **'the saviour of Telugu literature'** at its lowest ebb; the **C.P. Brown Library, Kadapa** preserves the memory"]
+              [
+                "**Sir Thomas Munro (1761-1827)**",
+                "Read's assistant (Baramahal) → **Principal Collector, Ceded Districts (1800-07)** — palegar pacification, village-level ryotwari settlements → **Governor of Madras (1820-27)**; died of cholera at **Pattikonda (Kurnool), 6 July 1827**",
+                "**Ryotwari's architect** — direct patta to the cultivator; judicial-revenue integration (collector-magistrate); the 'Munro system' of paternalist district officer; folk deification in Rayalaseema (the 'Mandava' legends; equestrian statue, Madras) — the coloniser remembered as protector: a paradox worth one line"
+              ],
+              [
+                "**Colin Mackenzie (1754-1821)**",
+                "Military engineer-surveyor; **Mysore & Deccan surveys**; **first Surveyor-General of India (1815)**",
+                "The **Mackenzie Manuscripts**: with Brahmin assistants (**Kavali brothers — Venkata Boriah, Lakshmayya**) collected **thousands of local histories, kaifiyats (village records), inscriptions, coins** across Telugu country — the single richest archive of Andhra's pre-colonial past; 'surveyed the land and salvaged its memory'"
+              ],
+              [
+                "**C.P. Brown (1798-1884)**",
+                "Company civilian at **Cuddapah/Kadapa**; judge-collector posts; spent private fortune on Telugu letters",
+                "**Telugu-English (1852) & English-Telugu dictionaries**; **rescued and edited Vemana's verses** (first print 1829); collected-copied thousands of Telugu manuscripts (his 'Brown's pandits' scriptorium at Kadapa); grammar, translations — called **'the saviour of Telugu literature'** at its lowest ebb; the **C.P. Brown Library, Kadapa** preserves the memory"
+              ]
             ]
           }
         ]
@@ -226,6 +353,25 @@
             "text": "Exam tip: Brown's line that he found Telugu literature 'dead' and left it 'living' (paraphrase honestly) plus Munro's folk-memory paradox are the two colour-points; the Kavali-brothers credit shows historiographical maturity examiners reward."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Company servants who shaped Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Thomas Munro** — architect of the **Ryotwari** system in the Ceded Districts/Rayalaseema; the paternalist district administration model.",
+              "**Sir Arthur Cotton** — engineer of the **Godavari (Dowleswaram) and Krishna anicuts**, still revered in the deltas as a near-deity for ending famine and creating the rice economy.",
+              "**C.P. Brown** — scholar-official who revived Telugu literature (rescuing Vemana's verses, compiling dictionaries) — the colonial servant as custodian of Telugu heritage.",
+              "**Reading them together:** administration (Munro), engineering/economy (Cotton), and culture (Brown) — three faces of the colonial encounter that reshaped Andhra."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**C.P. Brown** — revived Telugu literature; compiled Telugu-English dictionaries; edited Vemana.",
+          "**Thomas Munro** (Ryotwari) and **Arthur Cotton** (anicuts) transformed Andhra's administration and agriculture."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -245,12 +391,30 @@
       "Colonial knowledge served the empire and seeded the renaissance — argue with these three careers."
     ],
     "glossary": [
-      { "term": "Kaifiyat", "definition": "Village-level historical narrative/record collected in the Mackenzie survey — Andhra's grassroots archive of dynasties, tanks, temples and tenures." },
-      { "term": "Ryotwari patta", "definition": "The title-cum-revenue document issued directly to the cultivator — Munro's instrument of the intermediary-free settlement." },
-      { "term": "Surveyor-General", "definition": "Head of India's mapping establishment — Mackenzie the first (1815), uniting cartography with antiquarian collection." },
-      { "term": "Kavali brothers", "definition": "Venkata Boriah and Lakshmayya — Mackenzie's Telugu interpreter-scholars, the Indian intelligence of the archive." },
-      { "term": "Vemana", "definition": "The iconoclast Telugu poet-saint of aphoristic verse (Ataveladi metre) whose corpus Brown collected, edited and first printed." },
-      { "term": "Philology", "definition": "The dictionary-grammar-edition scholarship (Brown's mode) that standardised and preserved languages — power and gift entwined." }
+      {
+        "term": "Kaifiyat",
+        "definition": "Village-level historical narrative/record collected in the Mackenzie survey — Andhra's grassroots archive of dynasties, tanks, temples and tenures."
+      },
+      {
+        "term": "Ryotwari patta",
+        "definition": "The title-cum-revenue document issued directly to the cultivator — Munro's instrument of the intermediary-free settlement."
+      },
+      {
+        "term": "Surveyor-General",
+        "definition": "Head of India's mapping establishment — Mackenzie the first (1815), uniting cartography with antiquarian collection."
+      },
+      {
+        "term": "Kavali brothers",
+        "definition": "Venkata Boriah and Lakshmayya — Mackenzie's Telugu interpreter-scholars, the Indian intelligence of the archive."
+      },
+      {
+        "term": "Vemana",
+        "definition": "The iconoclast Telugu poet-saint of aphoristic verse (Ataveladi metre) whose corpus Brown collected, edited and first printed."
+      },
+      {
+        "term": "Philology",
+        "definition": "The dictionary-grammar-edition scholarship (Brown's mode) that standardised and preserved languages — power and gift entwined."
+      }
     ]
   }
 ]

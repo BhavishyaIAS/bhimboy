@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Andhra State (1 Oct 1953)", "Content"],
+            "headers": [
+              "Andhra State (1 Oct 1953)",
+              "Content"
+            ],
             "rows": [
-              ["Composition", "**11 Telugu districts of Madras** (Circars + Rayalaseema + Nellore); **Kurnool capital** (Sri Bagh's Rayalaseema claim honoured), **High Court at Guntur** — the split-institutions compromise"],
-              ["Government", "**CM T. Prakasam** ('Andhra Kesari'), deputy **N. Sanjiva Reddy**; Governor **C.M. Trivedi**; the ministry's instability (fell 1954; **Bezawada Gopala Reddy** 1955-56 after mid-term polls) — the young state's teething"],
-              ["Significance", "**India's first linguistic state** — breached the Dhar-JVP dam; **triggered the SRC (Dec 1953)** and the 1956 all-India linguistic map; proved the fast's terrible arithmetic (a life for a state) and the danger of deferring legitimate demands"],
-              ["The Madras-city wound", "Andhra's surrendered claim (Prakasam-era 'Madras manade' sentiment) settled by the JVP price — the grievance's echo shaped Kurnool's choice and later capital anxieties (a straight line to 2014's Hyderabad loss: the state that twice lost its metropolis)"]
+              [
+                "Composition",
+                "**11 Telugu districts of Madras** (Circars + Rayalaseema + Nellore); **Kurnool capital** (Sri Bagh's Rayalaseema claim honoured), **High Court at Guntur** — the split-institutions compromise"
+              ],
+              [
+                "Government",
+                "**CM T. Prakasam** ('Andhra Kesari'), deputy **N. Sanjiva Reddy**; Governor **C.M. Trivedi**; the ministry's instability (fell 1954; **Bezawada Gopala Reddy** 1955-56 after mid-term polls) — the young state's teething"
+              ],
+              [
+                "Significance",
+                "**India's first linguistic state** — breached the Dhar-JVP dam; **triggered the SRC (Dec 1953)** and the 1956 all-India linguistic map; proved the fast's terrible arithmetic (a life for a state) and the danger of deferring legitimate demands"
+              ],
+              [
+                "The Madras-city wound",
+                "Andhra's surrendered claim (Prakasam-era 'Madras manade' sentiment) settled by the JVP price — the grievance's echo shaped Kurnool's choice and later capital anxieties (a straight line to 2014's Hyderabad loss: the state that twice lost its metropolis)"
+              ]
             ]
           }
         ]
@@ -56,6 +71,25 @@
             "text": "Exam tip: The temple-entry fasts are the differentiating fact — they convert Sriramulu from 'the man who fasted for Andhra' to 'the Gandhian whose Andhra was also a Harijan cause'; and always land the SRC-trigger sentence."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Potti Sriramulu & the martyr's method",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The fast:** **Potti Sriramulu** fasted unto death for a separate Andhra State and **died on 15 December 1952 (58 days)**; the ensuing public upheaval forced Nehru to concede — **Andhra State was formed on 1 October 1953** (capital Kurnool, first CM Prakasam).",
+              "**The method:** Gandhian **fast-unto-death (satyagraha)** turned into the decisive lever of linguistic statehood — martyrdom as political catalyst.",
+              "**National consequence:** it forced the **States Reorganisation Commission (Fazl Ali, 1953)** and the **SRA 1956**, redrawing India on linguistic lines — Andhra's sacrifice reshaped the whole federation.",
+              "**Assessment:** a study in how moral sacrifice can achieve what negotiation could not — but also the opening of the 'linguistic states' era with its own tensions."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Potti Sriramulu** — died 15 December 1952 after a 58-day fast; **Andhra State formed 1 October 1953** (capital Kurnool).",
+          "**States Reorganisation Commission** — Fazl Ali, K.M. Panikkar, H.N. Kunzru (1953); **SRA 1956**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,11 +110,26 @@
       "Deferring legitimate demands manufactures martyrs — argue with the 58 days of official silence."
     ],
     "glossary": [
-      { "term": "Amarajeevi", "definition": "'The immortal' — Potti Sriramulu's posthumous title as the Andhra cause's martyr." },
-      { "term": "Madras-city knot", "definition": "The dispute over Madras's ownership that stalled Andhra — resolved by JVP's exclusion price, leaving a metropolis-loss wound." },
-      { "term": "Split institutions", "definition": "Kurnool-capital/Guntur-HC arrangement honouring Rayalaseema's Sri Bagh claim — sub-regional equity by geography of institutions." },
-      { "term": "Fast unto death (ethics)", "definition": "Satyagraha's terminal weapon — morally luminous, democratically double-edged; Sriramulu's case its defining Indian debate." },
-      { "term": "Andhra Kesari", "definition": "'Lion of Andhra' — Tanguturi Prakasam, the first CM, famed for baring his chest to police fire (Madras, 1928 Simon protests)." }
+      {
+        "term": "Amarajeevi",
+        "definition": "'The immortal' — Potti Sriramulu's posthumous title as the Andhra cause's martyr."
+      },
+      {
+        "term": "Madras-city knot",
+        "definition": "The dispute over Madras's ownership that stalled Andhra — resolved by JVP's exclusion price, leaving a metropolis-loss wound."
+      },
+      {
+        "term": "Split institutions",
+        "definition": "Kurnool-capital/Guntur-HC arrangement honouring Rayalaseema's Sri Bagh claim — sub-regional equity by geography of institutions."
+      },
+      {
+        "term": "Fast unto death (ethics)",
+        "definition": "Satyagraha's terminal weapon — morally luminous, democratically double-edged; Sriramulu's case its defining Indian debate."
+      },
+      {
+        "term": "Andhra Kesari",
+        "definition": "'Lion of Andhra' — Tanguturi Prakasam, the first CM, famed for baring his chest to police fire (Madras, 1928 Simon protests)."
+      }
     ]
   },
   {
@@ -96,11 +145,23 @@
           },
           {
             "type": "table",
-            "headers": ["AP 1956-2014 — the arc", "Content"],
+            "headers": [
+              "AP 1956-2014 — the arc",
+              "Content"
+            ],
             "rows": [
-              ["Safeguard erosion & first storm", "Regional Council toothless; Mulki violations accumulated → **1969 'Jai Telangana'** (Chenna Reddy's Telangana Praja Samithi; ~370 dead in firings; the **8-point/G.O. era**); SC upheld Mulki rules (1972) → Andhra's counter — **1972 'Jai Andhra'** movement → the balancing **Six-Point Formula (1973)**: Mulki rules & Regional Committee gone, **Art 371D** (1973/75 Presidential Order: zonal local-cadre system) + planning board"],
-              ["The middle decades", "Green-revolution delta prosperity; Naxalbari's AP edition (Srikakulam 1967-70; later PWG); **NTR's 1982-83 'Telugu atma gauravam'** — TDP ending three-decade Congress rule, federal-politics star; 1990s-2000s: Chandrababu's reform-tech era (Cyberabad, 'Bhagyanagar to byte-nagar'), YSR's welfare era (2004-09 — free power, Aarogyasri, fee reimbursement, Jalayagnam)"],
-              ["The final decade", "**2001: TRS founded (K. Chandrasekhar Rao)** — Telangana's grievances re-armed (water: 'Krishna-Godavari injustice'; jobs: 610 G.O.'s non-implementation; identity); **2004/2009 electoral alliances legitimate the demand**; **KCR's fast (Nov-Dec 2009) → Chidambaram's 9 Dec 2009 statement** → Seemandhra counter-agitation → **Srikrishna Committee (2010**, six options) → prolonged stalemate, Telangana march-crescendos → **CWC decision (July 2013)** → **AP Reorganisation Act (Feb 2014**, passed amid Lok Sabha chaos) → **Telangana born 2 June 2014**"]
+              [
+                "Safeguard erosion & first storm",
+                "Regional Council toothless; Mulki violations accumulated → **1969 'Jai Telangana'** (Chenna Reddy's Telangana Praja Samithi; ~370 dead in firings; the **8-point/G.O. era**); SC upheld Mulki rules (1972) → Andhra's counter — **1972 'Jai Andhra'** movement → the balancing **Six-Point Formula (1973)**: Mulki rules & Regional Committee gone, **Art 371D** (1973/75 Presidential Order: zonal local-cadre system) + planning board"
+              ],
+              [
+                "The middle decades",
+                "Green-revolution delta prosperity; Naxalbari's AP edition (Srikakulam 1967-70; later PWG); **NTR's 1982-83 'Telugu atma gauravam'** — TDP ending three-decade Congress rule, federal-politics star; 1990s-2000s: Chandrababu's reform-tech era (Cyberabad, 'Bhagyanagar to byte-nagar'), YSR's welfare era (2004-09 — free power, Aarogyasri, fee reimbursement, Jalayagnam)"
+              ],
+              [
+                "The final decade",
+                "**2001: TRS founded (K. Chandrasekhar Rao)** — Telangana's grievances re-armed (water: 'Krishna-Godavari injustice'; jobs: 610 G.O.'s non-implementation; identity); **2004/2009 electoral alliances legitimate the demand**; **KCR's fast (Nov-Dec 2009) → Chidambaram's 9 Dec 2009 statement** → Seemandhra counter-agitation → **Srikrishna Committee (2010**, six options) → prolonged stalemate, Telangana march-crescendos → **CWC decision (July 2013)** → **AP Reorganisation Act (Feb 2014**, passed amid Lok Sabha chaos) → **Telangana born 2 June 2014**"
+              ]
             ]
           }
         ]
@@ -140,6 +201,26 @@
             "text": "Exam tip: 'Born of a breached agreement, AP died of accumulated breaches' — the sentence that frames 1956-2014 as one file. Cite the SRC's original hesitation: the examiner rewards knowing that 1956 itself overrode expert advice."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Visalandhra 1956 & the seeds of bifurcation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Formation:** the **States Reorganisation Act 1956** merged Andhra State with the Telugu-speaking districts of Hyderabad State to form **Andhra Pradesh (1 November 1956)** — 'Visalandhra', the first state formed purely on language.",
+              "**The safeguards:** the **Gentlemen's Agreement (1956)** promised protections to Telangana (employment, education, development, revenue) — the **Mulki rules** and regional committees; their perceived violation seeded later grievance.",
+              "**Analytical causes of bifurcation:** perceived Telangana under-development and neglect (jobs, water, funds), identity assertion, the emotive **1969 Telangana & 1972 Jai Andhra agitations**, and the eventual **Telangana movement (KCR/TRS)** culminating in the **AP Reorganisation Act 2014**.",
+              "**The verdict:** Visalandhra united Telugus but the failure to honour intra-state equity guarantees ultimately unmade the union in 2014."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Andhra Pradesh formed 1 November 1956** under the SRA — the first linguistic state (Visalandhra).",
+          "**Gentlemen's Agreement (1956)** — safeguards for the Telangana region; **Mulki rules** on local employment.",
+          "**371D** (32nd Amendment, 1973) followed the Jai Andhra/Telangana agitations."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -160,12 +241,30 @@
       "From NTR's self-respect wave to KCR's single-issue vehicle — how party entrepreneurship shaped AP's unity and division."
     ],
     "glossary": [
-      { "term": "Visalandhra", "definition": "The 'greater Andhra' ideal of uniting all Telugu speakers — realised 1956, partitioned 2014." },
-      { "term": "Mulki rules", "definition": "Hyderabad-lineage domicile requirements for local employment — the safeguard whose erosion powered 1969." },
-      { "term": "Six-Point Formula", "definition": "The 1973 settlement replacing Mulki/Regional-Committee safeguards with zonal cadres (Art 371D) and planning mechanisms." },
-      { "term": "G.O. 610", "definition": "The 1985 order to repatriate non-local employees from Telangana zones — its non-implementation the movement's exhibit A." },
-      { "term": "Srikrishna Committee", "definition": "The 2010 five-member inquiry offering six options on Telangana — statehood with Hyderabad as the eventual path taken." },
-      { "term": "Internal colonialism (frame)", "definition": "The movement's claim that Telangana's water, jobs and capital city were appropriated within the merged state — contested but mobilising." }
+      {
+        "term": "Visalandhra",
+        "definition": "The 'greater Andhra' ideal of uniting all Telugu speakers — realised 1956, partitioned 2014."
+      },
+      {
+        "term": "Mulki rules",
+        "definition": "Hyderabad-lineage domicile requirements for local employment — the safeguard whose erosion powered 1969."
+      },
+      {
+        "term": "Six-Point Formula",
+        "definition": "The 1973 settlement replacing Mulki/Regional-Committee safeguards with zonal cadres (Art 371D) and planning mechanisms."
+      },
+      {
+        "term": "G.O. 610",
+        "definition": "The 1985 order to repatriate non-local employees from Telangana zones — its non-implementation the movement's exhibit A."
+      },
+      {
+        "term": "Srikrishna Committee",
+        "definition": "The 2010 five-member inquiry offering six options on Telangana — statehood with Hyderabad as the eventual path taken."
+      },
+      {
+        "term": "Internal colonialism (frame)",
+        "definition": "The movement's claim that Telangana's water, jobs and capital city were appropriated within the merged state — contested but mobilising."
+      }
     ]
   }
 ]

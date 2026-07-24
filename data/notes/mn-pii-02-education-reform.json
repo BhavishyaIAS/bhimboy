@@ -8,16 +8,52 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Milestone", "Content", "Significance"],
+            "headers": [
+              "Milestone",
+              "Content",
+              "Significance"
+            ],
             "rows": [
-              ["**Charter Act 1813**", "₹1 lakh/year for education — first state responsibility", "Triggered the **Orientalist-Anglicist controversy** (Sanskrit/Arabic vs English learning)"],
-              ["**Macaulay's Minute (1835)**", "English medium, Western learning; 'a class Indian in blood, English in taste' — **downward filtration theory**", "Bentinck adopted it; Persian replaced by English (1837 in courts)"],
-              ["**Wood's Despatch (1854)**", "'Magna Carta of English education': graded system village school→university, vernaculars at base, grants-in-aid, women's & teacher education", "**Universities of Calcutta, Bombay, Madras (1857)**; education departments in provinces"],
-              ["**Hunter Commission (1882)**", "Primary education to local bodies; secondary split (literary/vocational)", "Local-fund schooling; missionary-state balance"],
-              ["**Indian Universities Act 1904 (Curzon)**", "Tightened official control of universities", "Nationalists read it as chaining awakening minds"],
-              ["**Saddler (1917-19), Hartog (1929)**", "12-year school+3-yr degree; quality-over-quantity ('wastage & stagnation')", "Inter-war stocktaking"],
-              ["**Wardha Scheme (1937)**", "**Gandhi's Nai Talim** — craft-centred basic education in mother tongue", "The nationalist counter-model"],
-              ["**Sargent Plan (1944)**", "Universal free education 6-11 in 40 years", "Colonial ambition, glacial timetable"]
+              [
+                "**Charter Act 1813**",
+                "₹1 lakh/year for education — first state responsibility",
+                "Triggered the **Orientalist-Anglicist controversy** (Sanskrit/Arabic vs English learning)"
+              ],
+              [
+                "**Macaulay's Minute (1835)**",
+                "English medium, Western learning; 'a class Indian in blood, English in taste' — **downward filtration theory**",
+                "Bentinck adopted it; Persian replaced by English (1837 in courts)"
+              ],
+              [
+                "**Wood's Despatch (1854)**",
+                "'Magna Carta of English education': graded system village school→university, vernaculars at base, grants-in-aid, women's & teacher education",
+                "**Universities of Calcutta, Bombay, Madras (1857)**; education departments in provinces"
+              ],
+              [
+                "**Hunter Commission (1882)**",
+                "Primary education to local bodies; secondary split (literary/vocational)",
+                "Local-fund schooling; missionary-state balance"
+              ],
+              [
+                "**Indian Universities Act 1904 (Curzon)**",
+                "Tightened official control of universities",
+                "Nationalists read it as chaining awakening minds"
+              ],
+              [
+                "**Saddler (1917-19), Hartog (1929)**",
+                "12-year school+3-yr degree; quality-over-quantity ('wastage & stagnation')",
+                "Inter-war stocktaking"
+              ],
+              [
+                "**Wardha Scheme (1937)**",
+                "**Gandhi's Nai Talim** — craft-centred basic education in mother tongue",
+                "The nationalist counter-model"
+              ],
+              [
+                "**Sargent Plan (1944)**",
+                "Universal free education 6-11 in 40 years",
+                "Colonial ambition, glacial timetable"
+              ]
             ]
           },
           {
@@ -61,6 +97,26 @@
             "text": "Exam tip: Pair every repressive press act with its resistance story (1823-Rammohan's memorial; 1878-ABP's overnight English). For APPSC, the Telugu press genealogy and Gidugu's spoken-language revolution are compulsory colour."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — education & press milestones",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Education chain:** **Charter Act 1813** (₹1 lakh for education) → the **Anglicist-Orientalist debate → Macaulay's Minute (1835)** (English, 'downward filtration') → **Wood's Despatch (1854, the 'Magna Carta of English education')** — grants-in-aid, universities → **Hunter Commission (1882), Sadler Commission (1917), Sargent Plan (1944)**.",
+              "**The universities:** Calcutta, Bombay, Madras (all **1857**).",
+              "**Press milestones:** *Bengal Gazette* (Hickey, 1780, first newspaper); **Vernacular Press Act 1878** (Lytton — gagged Indian-language press); **Newspaper Act 1908 / Press Act 1910**; the press as the nursery of nationalism (*Kesari*, *The Hindu*, *Amrita Bazar Patrika*).",
+              "**Consequence:** English education created an Indian intelligentsia that turned liberal-democratic ideas (liberty, equality, nationalism) against the colonial state — colonialism's 'unruly child'."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Wood's Despatch (1854)** — the 'Magna Carta of English education in India'.",
+          "**Macaulay's Minute (1835)** — 'downward filtration'; English as the medium.",
+          "**Vernacular Press Act 1878** — Lord Lytton; targeted the Indian-language press."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -81,12 +137,30 @@
       "Evaluate the cultural transformations of the nineteenth century as colonial modernity's unintended gifts."
     ],
     "glossary": [
-      { "term": "Downward filtration", "definition": "The theory that educating an elite in English would percolate knowledge to the masses — Macaulay's rationale; it never filtered." },
-      { "term": "Orientalist-Anglicist controversy", "definition": "The 1820s-30s debate over whether state funds should promote classical Indian learning or English education — settled for English in 1835." },
-      { "term": "Grants-in-aid", "definition": "Wood's Despatch system of funding private (often missionary) schools meeting state standards — the public-private architecture of colonial schooling." },
-      { "term": "Vernacular Press Act", "definition": "Lytton's 1878 law empowering magistrates to bind and censor Indian-language papers — the 'gagging Act' repealed in 1882." },
-      { "term": "Vyavaharika bhasha", "definition": "The spoken-Telugu standard championed by Gidugu Ramamurthy for education and print against archaic granthika — the language of modern Telugu prose." },
-      { "term": "Nai Talim", "definition": "Gandhi's 1937 Wardha scheme of craft-centred, mother-tongue basic education — the nationalist alternative to Macaulayism." }
+      {
+        "term": "Downward filtration",
+        "definition": "The theory that educating an elite in English would percolate knowledge to the masses — Macaulay's rationale; it never filtered."
+      },
+      {
+        "term": "Orientalist-Anglicist controversy",
+        "definition": "The 1820s-30s debate over whether state funds should promote classical Indian learning or English education — settled for English in 1835."
+      },
+      {
+        "term": "Grants-in-aid",
+        "definition": "Wood's Despatch system of funding private (often missionary) schools meeting state standards — the public-private architecture of colonial schooling."
+      },
+      {
+        "term": "Vernacular Press Act",
+        "definition": "Lytton's 1878 law empowering magistrates to bind and censor Indian-language papers — the 'gagging Act' repealed in 1882."
+      },
+      {
+        "term": "Vyavaharika bhasha",
+        "definition": "The spoken-Telugu standard championed by Gidugu Ramamurthy for education and print against archaic granthika — the language of modern Telugu prose."
+      },
+      {
+        "term": "Nai Talim",
+        "definition": "Gandhi's 1937 Wardha scheme of craft-centred, mother-tongue basic education — the nationalist alternative to Macaulayism."
+      }
     ]
   },
   {
@@ -102,13 +176,37 @@
           },
           {
             "type": "table",
-            "headers": ["Reformer", "Organisation & works", "Core contributions"],
+            "headers": [
+              "Reformer",
+              "Organisation & works",
+              "Core contributions"
+            ],
             "rows": [
-              ["**Raja Rammohan Roy (1772-1833)** — 'father of Indian renaissance'", "**Brahmo Sabha (1828)** → Brahmo Samaj; *Precepts of Jesus*; Sambad Kaumudi; Vedanta translations", "**Sati abolition campaign → Regulation XVII (1829, Bentinck)**; monotheism from Upanishads; rationalism + press freedom + English education advocacy; died Bristol 1833"],
-              ["**Debendranath Tagore / Keshab Chandra Sen**", "Tattvabodhini Sabha (1839); Brahmo split (1866); Sen's Indian Reform Association", "Widow remarriage, inter-caste marriage advocacy; **Native Marriage (Civil Marriage) Act 1872**; Sen's Cuckoo — child-marriage lapse split the Samaj again (Sadharan Brahmo, 1878)"],
-              ["**Ishwar Chandra Vidyasagar**", "Sanskrit College principal; Bethune School support", "**Hindu Widows' Remarriage Act 1856**; girls' schools; anti-polygamy — reform by shastra + compassion"],
-              ["**Swami Dayananda Saraswati (1824-83)**", "**Arya Samaj (Bombay 1875, Lahore HQ)**; *Satyarth Prakash*", "'**Back to the Vedas**'; rejected idolatry, caste-by-birth, untouchability; **shuddhi** (reconversion); DAV schools (1886, Lahore) fused Vedas+science; 'India for Indians' — proto-nationalism"],
-              ["**Sri Ramakrishna (1836-86) & Swami Vivekananda (1863-1902)**", "**Ramakrishna Mission (1897, Belur)**", "Ramakrishna's experiential universalism ('as many faiths, so many paths'); Vivekananda's **Chicago address (11 Sept 1893)**; practical Vedanta — 'service to man is service to God' (daridra-narayana); national self-confidence: 'Arise, awake…'"]
+              [
+                "**Raja Rammohan Roy (1772-1833)** — 'father of Indian renaissance'",
+                "**Brahmo Sabha (1828)** → Brahmo Samaj; *Precepts of Jesus*; Sambad Kaumudi; Vedanta translations",
+                "**Sati abolition campaign → Regulation XVII (1829, Bentinck)**; monotheism from Upanishads; rationalism + press freedom + English education advocacy; died Bristol 1833"
+              ],
+              [
+                "**Debendranath Tagore / Keshab Chandra Sen**",
+                "Tattvabodhini Sabha (1839); Brahmo split (1866); Sen's Indian Reform Association",
+                "Widow remarriage, inter-caste marriage advocacy; **Native Marriage (Civil Marriage) Act 1872**; Sen's Cuckoo — child-marriage lapse split the Samaj again (Sadharan Brahmo, 1878)"
+              ],
+              [
+                "**Ishwar Chandra Vidyasagar**",
+                "Sanskrit College principal; Bethune School support",
+                "**Hindu Widows' Remarriage Act 1856**; girls' schools; anti-polygamy — reform by shastra + compassion"
+              ],
+              [
+                "**Swami Dayananda Saraswati (1824-83)**",
+                "**Arya Samaj (Bombay 1875, Lahore HQ)**; *Satyarth Prakash*",
+                "'**Back to the Vedas**'; rejected idolatry, caste-by-birth, untouchability; **shuddhi** (reconversion); DAV schools (1886, Lahore) fused Vedas+science; 'India for Indians' — proto-nationalism"
+              ],
+              [
+                "**Sri Ramakrishna (1836-86) & Swami Vivekananda (1863-1902)**",
+                "**Ramakrishna Mission (1897, Belur)**",
+                "Ramakrishna's experiential universalism ('as many faiths, so many paths'); Vivekananda's **Chicago address (11 Sept 1893)**; practical Vedanta — 'service to man is service to God' (daridra-narayana); national self-confidence: 'Arise, awake…'"
+              ]
             ]
           }
         ]
@@ -148,6 +246,58 @@
             "text": "Exam tip: The Tilak-vs-Age-of-Consent episode is the perfect illustration of the reform-nationalism tension; Vivekananda's daridra-narayana is the bridge from religion to service to nation. Both one-liners elevate an average answer."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the reform matrix",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Reformer / body",
+              "Focus",
+              "Landmark"
+            ],
+            "rows": [
+              [
+                "**Raja Ram Mohan Roy** (Brahmo Samaj, 1828)",
+                "Monotheism, anti-sati, women's rights",
+                "Abolition of **Sati, 1829** (with Bentinck)"
+              ],
+              [
+                "**Ishwar Chandra Vidyasagar**",
+                "Widow remarriage, women's education",
+                "**Widow Remarriage Act, 1856**"
+              ],
+              [
+                "**Dayananda Saraswati** (Arya Samaj, 1875)",
+                "'Back to the Vedas', shuddhi",
+                "Reform + revival"
+              ],
+              [
+                "**Jyotiba Phule** (Satyashodhak Samaj)",
+                "Anti-caste, women's & Dalit education",
+                "Girls' school (1848)"
+              ],
+              [
+                "**Syed Ahmad Khan** (Aligarh)",
+                "Muslim modern education",
+                "MAO College → AMU"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Assessment:** the reforms modernised society (women, caste, education) but were often confined to the urban elite and carried a revivalist strain; they laid the cultural bedrock of nationalism.",
+              "**Two strands:** **reformist** (change from within, e.g., Brahmo) vs **revivalist** (glorify the past, e.g., Arya Samaj) — the analytical distinction examiners reward."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Sati abolished 1829** — Lord William Bentinck & Raja Ram Mohan Roy.",
+          "**Widow Remarriage Act 1856** — Ishwar Chandra Vidyasagar."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -168,12 +318,30 @@
       "Nineteenth-century reform was a lawyer's reform — evaluate its class, gender and caste limits."
     ],
     "glossary": [
-      { "term": "Brahmo Samaj", "definition": "Rammohan Roy's monotheist reform society (1828) rejecting idolatry and priestcraft, rereading Upanishads through reason — the reformist prototype." },
-      { "term": "Arya Samaj", "definition": "Dayananda's 1875 revivalist movement — Vedic infallibility, anti-idolatry, anti-caste-by-birth, shuddhi reconversion and DAV education." },
-      { "term": "Shuddhi", "definition": "Arya Samaj's purification-reconversion of converts to other faiths — reform energy with a communal after-shadow." },
-      { "term": "Practical Vedanta", "definition": "Vivekananda's doctrine that service to suffering humanity is worship — turning metaphysics into social action." },
-      { "term": "Daridra-narayana", "definition": "'God as the poor' — Vivekananda's phrase (later beloved of Gandhi) sanctifying service to the destitute." },
-      { "term": "Revivalism", "definition": "Reform legitimated by return to a purified golden past — powerful for self-respect, risky for inter-community relations." }
+      {
+        "term": "Brahmo Samaj",
+        "definition": "Rammohan Roy's monotheist reform society (1828) rejecting idolatry and priestcraft, rereading Upanishads through reason — the reformist prototype."
+      },
+      {
+        "term": "Arya Samaj",
+        "definition": "Dayananda's 1875 revivalist movement — Vedic infallibility, anti-idolatry, anti-caste-by-birth, shuddhi reconversion and DAV education."
+      },
+      {
+        "term": "Shuddhi",
+        "definition": "Arya Samaj's purification-reconversion of converts to other faiths — reform energy with a communal after-shadow."
+      },
+      {
+        "term": "Practical Vedanta",
+        "definition": "Vivekananda's doctrine that service to suffering humanity is worship — turning metaphysics into social action."
+      },
+      {
+        "term": "Daridra-narayana",
+        "definition": "'God as the poor' — Vivekananda's phrase (later beloved of Gandhi) sanctifying service to the destitute."
+      },
+      {
+        "term": "Revivalism",
+        "definition": "Reform legitimated by return to a purified golden past — powerful for self-respect, risky for inter-community relations."
+      }
     ]
   },
   {
@@ -185,15 +353,47 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Figure", "Movement & institutions", "Contribution — and the complication"],
+            "headers": [
+              "Figure",
+              "Movement & institutions",
+              "Contribution — and the complication"
+            ],
             "rows": [
-              ["**Annie Besant (1847-1933)**", "**Theosophical Society** (founded 1875, Blavatsky-Olcott, NY; **HQ Adyar, Madras, 1882**); Besant led from 1907; **Central Hindu College, Banaras (1898)** → nucleus of **BHU (1916)**", "Revalidated Hindu philosophy for the educated; **Home Rule League (Sept 1916, Adyar)**; *New India* & *Commonweal*; **first woman Congress President (Calcutta, 1917)**; complication — mentor-turned-critic of Gandhian mass politics"],
-              ["**Sir Syed Ahmad Khan (1817-98)**", "Aligarh movement: Scientific Society (1864), **MAO College Aligarh (1875)** → AMU (1920); *Tahzib-ul-Akhlaq*", "Reconciled Islam with modern science ('Quran and nature are both God's word'); anti-superstition, education-first; complication — advised Muslims away from Congress (loyalist separatism the Raj cultivated)"],
-              ["**Pandita Ramabai (1858-1922)**", "Arya Mahila Samaj (1881); **Sharada Sadan (1889)**; *The High-Caste Hindu Woman*", "Widow education & shelter — women's reform led BY a woman; Hunter Commission testimony on women's education"],
-              ["**M.G. Ranade & the Prarthana Samaj (Bombay, 1867)**", "Widow Marriage Association, **National Social Conference (1887)**", "Reform inside tradition, gradualist; 'social reform and political reform are two wheels'"],
-              ["**Behramji Malabari**", "Journalism (Indian Spectator)", "**Age of Consent campaign → 1891 Act**"],
-              ["**Sayyid/other Muslim reform**", "**Deoband (1866)** — anti-colonial ulema traditionalism; Ahmadiyya (1889)", "The Aligarh-Deoband contrast: modernist loyalism vs traditionalist anti-colonialism"],
-              ["**Parsi & Sikh reform**", "Rahnumai Mazdayasnan Sabha (1851 — Naoroji, Furdunji); **Singh Sabha (1873)** → Akali/Gurdwara movement (SGPC 1920, Act 1925)", "Community modernisation streams joining the same river"]
+              [
+                "**Annie Besant (1847-1933)**",
+                "**Theosophical Society** (founded 1875, Blavatsky-Olcott, NY; **HQ Adyar, Madras, 1882**); Besant led from 1907; **Central Hindu College, Banaras (1898)** → nucleus of **BHU (1916)**",
+                "Revalidated Hindu philosophy for the educated; **Home Rule League (Sept 1916, Adyar)**; *New India* & *Commonweal*; **first woman Congress President (Calcutta, 1917)**; complication — mentor-turned-critic of Gandhian mass politics"
+              ],
+              [
+                "**Sir Syed Ahmad Khan (1817-98)**",
+                "Aligarh movement: Scientific Society (1864), **MAO College Aligarh (1875)** → AMU (1920); *Tahzib-ul-Akhlaq*",
+                "Reconciled Islam with modern science ('Quran and nature are both God's word'); anti-superstition, education-first; complication — advised Muslims away from Congress (loyalist separatism the Raj cultivated)"
+              ],
+              [
+                "**Pandita Ramabai (1858-1922)**",
+                "Arya Mahila Samaj (1881); **Sharada Sadan (1889)**; *The High-Caste Hindu Woman*",
+                "Widow education & shelter — women's reform led BY a woman; Hunter Commission testimony on women's education"
+              ],
+              [
+                "**M.G. Ranade & the Prarthana Samaj (Bombay, 1867)**",
+                "Widow Marriage Association, **National Social Conference (1887)**",
+                "Reform inside tradition, gradualist; 'social reform and political reform are two wheels'"
+              ],
+              [
+                "**Behramji Malabari**",
+                "Journalism (Indian Spectator)",
+                "**Age of Consent campaign → 1891 Act**"
+              ],
+              [
+                "**Sayyid/other Muslim reform**",
+                "**Deoband (1866)** — anti-colonial ulema traditionalism; Ahmadiyya (1889)",
+                "The Aligarh-Deoband contrast: modernist loyalism vs traditionalist anti-colonialism"
+              ],
+              [
+                "**Parsi & Sikh reform**",
+                "Rahnumai Mazdayasnan Sabha (1851 — Naoroji, Furdunji); **Singh Sabha (1873)** → Akali/Gurdwara movement (SGPC 1920, Act 1925)",
+                "Community modernisation streams joining the same river"
+              ]
             ]
           }
         ]
@@ -233,6 +433,25 @@
             "text": "Exam tip: Besant and Sir Syed are best written as mirror images — a Western woman championing Hindu revival into nationalism; an Indian aristocrat channelling Islamic modernism into loyalism — one comparison paragraph that examiners remember."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the second reform wave",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Annie Besant:** Theosophical Society, **Central Hindu College (Banaras)**, and the **Home Rule League (1916)** — bridging reform and nationalism; first woman Congress President (1917).",
+              "**Sir Syed Ahmad Khan:** the **Aligarh Movement** — Muslim modernisation through Western education, while cautioning against Congress agitation (the two-strand legacy).",
+              "**Patterns:** the second wave moved from social reform toward **community consolidation and political mobilisation**; education, journals and associations were the common instruments.",
+              "**Significance:** these movements built institutions and a public sphere that the freedom struggle would harness — but also seeded communitarian identities."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Annie Besant** — Home Rule League (1916); first woman President of the INC (Calcutta, 1917).",
+          "**Aligarh Movement** — Sir Syed Ahmad Khan; MAO College (1875) → Aligarh Muslim University."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -253,12 +472,30 @@
       "Reform movements incubated both nationalism and communal identities — discuss with Aligarh, Singh Sabha and Theosophy."
     ],
     "glossary": [
-      { "term": "Theosophy", "definition": "Occult-philosophical movement drawing on Vedanta and Buddhism; its Adyar establishment revalidated Indian traditions for the colonised educated class." },
-      { "term": "Aligarh movement", "definition": "Sir Syed's programme of Western education and Islamic modernism centred on MAO College — social regeneration paired with political loyalism." },
-      { "term": "Home Rule League", "definition": "Besant's (and Tilak's) 1916 self-government campaign on the Irish model — the bridge between moderate petitioning and Gandhian mass politics." },
-      { "term": "Islamic modernism", "definition": "Rereading Islam as compatible with reason and science (Sir Syed's naturism) — against both orthodoxy and wholesale Westernisation." },
-      { "term": "National Social Conference", "definition": "Ranade's 1887 reform platform meeting alongside Congress sessions — the 'social' twin of political nationalism until orthodox pushback." },
-      { "term": "Gurdwara Reform movement", "definition": "Akali campaign (1920-25) wresting shrines from hereditary mahants — reform agitation that trained Punjab's nationalist cadre." }
+      {
+        "term": "Theosophy",
+        "definition": "Occult-philosophical movement drawing on Vedanta and Buddhism; its Adyar establishment revalidated Indian traditions for the colonised educated class."
+      },
+      {
+        "term": "Aligarh movement",
+        "definition": "Sir Syed's programme of Western education and Islamic modernism centred on MAO College — social regeneration paired with political loyalism."
+      },
+      {
+        "term": "Home Rule League",
+        "definition": "Besant's (and Tilak's) 1916 self-government campaign on the Irish model — the bridge between moderate petitioning and Gandhian mass politics."
+      },
+      {
+        "term": "Islamic modernism",
+        "definition": "Rereading Islam as compatible with reason and science (Sir Syed's naturism) — against both orthodoxy and wholesale Westernisation."
+      },
+      {
+        "term": "National Social Conference",
+        "definition": "Ranade's 1887 reform platform meeting alongside Congress sessions — the 'social' twin of political nationalism until orthodox pushback."
+      },
+      {
+        "term": "Gurdwara Reform movement",
+        "definition": "Akali campaign (1920-25) wresting shrines from hereditary mahants — reform agitation that trained Punjab's nationalist cadre."
+      }
     ]
   }
 ]

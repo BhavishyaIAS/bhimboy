@@ -12,13 +12,37 @@
           },
           {
             "type": "table",
-            "headers": ["Pre-Congress associations", "Founder/year", "Note"],
+            "headers": [
+              "Pre-Congress associations",
+              "Founder/year",
+              "Note"
+            ],
             "rows": [
-              ["Landholders' Society / British Indian Association", "1838 / 1851 (Calcutta)", "Zamindari petitioning"],
-              ["**Poona Sarvajanik Sabha**", "1870 (Ranade circle)", "Deccan's public voice"],
-              ["**Indian Association**", "**1876, Surendranath Banerjea & Anand Mohan Bose**", "ICS-age agitation; all-India conferences (1883, 1885) — the 'almost-Congress'"],
-              ["Madras Mahajana Sabha / Bombay Presidency Assn", "1884 / 1885", "Southern & western feeders"],
-              ["**Indian National Congress**", "**28 Dec 1885, Gokuldas Tejpal Sanskrit College, Bombay** — 72 delegates; **A.O. Hume** convener; **W.C. Bonnerjee** president", "The umbrella; **safety-valve theory** (Hume's biographer Wedderburn) vs Lala Lajpat Rai's 'lightning conductor' retort — modern view: Indians used Hume as the lightning rod"]
+              [
+                "Landholders' Society / British Indian Association",
+                "1838 / 1851 (Calcutta)",
+                "Zamindari petitioning"
+              ],
+              [
+                "**Poona Sarvajanik Sabha**",
+                "1870 (Ranade circle)",
+                "Deccan's public voice"
+              ],
+              [
+                "**Indian Association**",
+                "**1876, Surendranath Banerjea & Anand Mohan Bose**",
+                "ICS-age agitation; all-India conferences (1883, 1885) — the 'almost-Congress'"
+              ],
+              [
+                "Madras Mahajana Sabha / Bombay Presidency Assn",
+                "1884 / 1885",
+                "Southern & western feeders"
+              ],
+              [
+                "**Indian National Congress**",
+                "**28 Dec 1885, Gokuldas Tejpal Sanskrit College, Bombay** — 72 delegates; **A.O. Hume** convener; **W.C. Bonnerjee** president",
+                "The umbrella; **safety-valve theory** (Hume's biographer Wedderburn) vs Lala Lajpat Rai's 'lightning conductor' retort — modern view: Indians used Hume as the lightning rod"
+              ]
             ]
           }
         ]
@@ -59,6 +83,26 @@
             "text": "Exam tip: The drain theory is the single most examinable idea of early nationalism — one line on its mechanics (home charges, remittances, unrequited exports) and one on its function (empire's moral delegitimation) is mandatory. P. Ananda Charlu is your Andhra flag in the Moderate era."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the making of nationalism & the Moderates",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Convergence of causes:** economic exploitation (drain, deindustrialisation), political & administrative unification (railways, telegraph, English), Western education & liberal ideas, the reform/press movements, racial arrogance (**Ilbert Bill controversy, 1883**), and a rediscovered cultural pride.",
+              "**INC founded 1885** (A.O. Hume; first President **W.C. Bonnerjee**, Bombay) — the 'safety-valve' thesis vs a genuine national platform.",
+              "**Moderate methods (1885-1905):** the '**3 Ps**' — prayer, petition, protest; **'constitutional agitation'**; demands — legislative reform, Indianisation of services, reduced military spending; the economic critique (Naoroji, R.C. Dutt).",
+              "**Contribution & limits:** the Moderates built the national platform and exposed the economic drain, but their elite methods and slow gains bred impatience — the ground for the Extremists."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**INC founded 1885** by A.O. Hume; first session Bombay, President **W.C. Bonnerjee**.",
+          "**Ilbert Bill controversy (1883)** exposed racial discrimination and galvanised nationalist opinion.",
+          "Moderate economic critics: **Dadabhai Naoroji, R.C. Dutt, M.G. Ranade**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -79,12 +123,30 @@
       "Sketch Andhra's entry into all-India nationalist politics in the Congress's first two decades."
     ],
     "glossary": [
-      { "term": "Drain of wealth", "definition": "Naoroji-Dutt thesis that India's surplus flowed to Britain unrequited (home charges, salaries, profits, freight) — impoverishment by constitutional plunder." },
-      { "term": "Moderates", "definition": "The 1885-1905 Congress generation using constitutional petitioning in faith of British justice — Naoroji, Gokhale, Banerjea, Mehta." },
-      { "term": "Mendicancy", "definition": "The Extremist taunt for petition politics — 'political beggary' awaiting alms of reform." },
-      { "term": "Safety-valve theory", "definition": "The claim that Hume founded Congress to defuse rebellion; countered by the lightning-conductor view that Indians used Hume as cover." },
-      { "term": "Ilbert Bill", "definition": "1883 measure allowing Indian judges to try Europeans; the white backlash and its success schooled Indians in agitational organisation." },
-      { "term": "Economic nationalism", "definition": "The Moderate programme of tariff protection, drain reversal, and state frugality — nation defined through its economy first." }
+      {
+        "term": "Drain of wealth",
+        "definition": "Naoroji-Dutt thesis that India's surplus flowed to Britain unrequited (home charges, salaries, profits, freight) — impoverishment by constitutional plunder."
+      },
+      {
+        "term": "Moderates",
+        "definition": "The 1885-1905 Congress generation using constitutional petitioning in faith of British justice — Naoroji, Gokhale, Banerjea, Mehta."
+      },
+      {
+        "term": "Mendicancy",
+        "definition": "The Extremist taunt for petition politics — 'political beggary' awaiting alms of reform."
+      },
+      {
+        "term": "Safety-valve theory",
+        "definition": "The claim that Hume founded Congress to defuse rebellion; countered by the lightning-conductor view that Indians used Hume as cover."
+      },
+      {
+        "term": "Ilbert Bill",
+        "definition": "1883 measure allowing Indian judges to try Europeans; the white backlash and its success schooled Indians in agitational organisation."
+      },
+      {
+        "term": "Economic nationalism",
+        "definition": "The Moderate programme of tariff protection, drain reversal, and state frugality — nation defined through its economy first."
+      }
     ]
   },
   {
@@ -100,11 +162,27 @@
           },
           {
             "type": "table",
-            "headers": ["Movement", "Essentials", "Andhra resonance"],
+            "headers": [
+              "Movement",
+              "Essentials",
+              "Andhra resonance"
+            ],
             "rows": [
-              ["**Vandemataram in Andhra (1905-11)**", "The Swadeshi wave crossed to the Circars: student strikes, foreign-cloth boycott, national schools", "**Kotappakonda/ Rajahmundry & Machilipatnam student militancy** (Vandemataram case — students expelled for the cry, Rajahmundry College 1907); **Bipin Chandra Pal's 1907 Andhra tour** electrified the coast; **Harisarvottama Rao's** national school; the movement seeded the Andhra political generation"],
-              ["**Home Rule Leagues (1916-18)**", "**Tilak's (April 1916, Belgaum — Maharashtra/Karnataka/CP)** & **Besant's (Sept 1916, Adyar — rest of India)**; self-government on the Irish model; membership lakhs; Besant's internment (June 1917) → **Montagu Declaration (20 Aug 1917)**", "Besant's league's strongest ground included Andhra — **Gadicherla Harisarvottama Rao, Ayyadevara Kaleswara Rao, Konda Venkatappayya** led branches; trained the cadre that became Gandhian Andhra"],
-              ["**Self-Respect movement (1925–)**", "**Periyar E.V. Ramaswamy** after quitting Congress (Vaikom hero, 1924-25): anti-caste, anti-priestcraft, rationalism, **self-respect marriages**, women's rights; Tamil-centred but ideologically pan-southern", "Its non-Brahmin politics paralleled the **Justice Party's Andhra wing** (covered in HCOA-062); self-respect weddings and rationalist currents touched Telugu reformers (Tripuraneni Ramaswamy's rationalist literature the Andhra cousin)"]
+              [
+                "**Vandemataram in Andhra (1905-11)**",
+                "The Swadeshi wave crossed to the Circars: student strikes, foreign-cloth boycott, national schools",
+                "**Kotappakonda/ Rajahmundry & Machilipatnam student militancy** (Vandemataram case — students expelled for the cry, Rajahmundry College 1907); **Bipin Chandra Pal's 1907 Andhra tour** electrified the coast; **Harisarvottama Rao's** national school; the movement seeded the Andhra political generation"
+              ],
+              [
+                "**Home Rule Leagues (1916-18)**",
+                "**Tilak's (April 1916, Belgaum — Maharashtra/Karnataka/CP)** & **Besant's (Sept 1916, Adyar — rest of India)**; self-government on the Irish model; membership lakhs; Besant's internment (June 1917) → **Montagu Declaration (20 Aug 1917)**",
+                "Besant's league's strongest ground included Andhra — **Gadicherla Harisarvottama Rao, Ayyadevara Kaleswara Rao, Konda Venkatappayya** led branches; trained the cadre that became Gandhian Andhra"
+              ],
+              [
+                "**Self-Respect movement (1925–)**",
+                "**Periyar E.V. Ramaswamy** after quitting Congress (Vaikom hero, 1924-25): anti-caste, anti-priestcraft, rationalism, **self-respect marriages**, women's rights; Tamil-centred but ideologically pan-southern",
+                "Its non-Brahmin politics paralleled the **Justice Party's Andhra wing** (covered in HCOA-062); self-respect weddings and rationalist currents touched Telugu reformers (Tripuraneni Ramaswamy's rationalist literature the Andhra cousin)"
+              ]
             ]
           }
         ]
@@ -143,6 +221,26 @@
             "text": "Exam tip: 'Swadeshi wrote the grammar Gandhi would speak' and 'Home Rule turned agitation into membership' are your two synthesis lines; for Self-Respect, distinguish political swaraj from social swaraj in Periyar's redefinition."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Swadeshi & the Extremist turn",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Partition of Bengal (1905, Curzon)** triggered the **Swadeshi & Boycott movement** — the first mass phase; techniques: boycott of foreign goods, national education (Bengal National College), swadeshi enterprise, and cultural mobilisation ('Vande Mataram').",
+              "**Extremists ('Lal-Bal-Pal' + Aurobindo):** **Bal Gangadhar Tilak** — 'Swaraj is my birthright'; used festivals (Ganapati, Shivaji) for mass mobilisation; **passive resistance** and self-reliance replacing petitioning.",
+              "**Surat Split (1907):** Moderates vs Extremists split the Congress — reunited only at **Lucknow (1916)**.",
+              "**Reading the three (Swadeshi, Extremism, Revolutionary terrorism):** escalating radicalism — from economic boycott to militant nationalism (Anushilan, Jugantar; the Alipore, Kakori later) — all rejecting Moderate constitutionalism."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Partition of Bengal 1905** (Curzon) → **Swadeshi Movement**; annulled in 1911.",
+          "**'Swaraj is my birthright and I shall have it'** — Bal Gangadhar Tilak.",
+          "**Surat Split 1907** — Moderate–Extremist division; reunion at Lucknow 1916."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -163,12 +261,30 @@
       "Compare the Extremist and Moderate readings of swaraj that split Congress at Surat."
     ],
     "glossary": [
-      { "term": "Swadeshi", "definition": "Economic-cultural self-reliance — indigenous goods, enterprise and education as the positive twin of boycott." },
-      { "term": "Boycott", "definition": "Refusal of British goods (extended to schools, courts, titles) — coercing empire through its markets." },
-      { "term": "Extremists", "definition": "The Lal-Bal-Pal generation demanding swaraj through self-reliance and sacrifice, rejecting mendicancy — ascendant 1905-08." },
-      { "term": "Home Rule", "definition": "Self-government within the empire on the Irish model — the 1916-18 demand that mainstreamed 'swaraj' respectably." },
-      { "term": "Self-Respect movement", "definition": "Periyar's rationalist anti-caste campaign (1925–) — dignity, self-respect marriages, and social democracy before political democracy." },
-      { "term": "National education", "definition": "Swadeshi-era independent schools/colleges free of official control — Bengal National College, Andhra's national schools." }
+      {
+        "term": "Swadeshi",
+        "definition": "Economic-cultural self-reliance — indigenous goods, enterprise and education as the positive twin of boycott."
+      },
+      {
+        "term": "Boycott",
+        "definition": "Refusal of British goods (extended to schools, courts, titles) — coercing empire through its markets."
+      },
+      {
+        "term": "Extremists",
+        "definition": "The Lal-Bal-Pal generation demanding swaraj through self-reliance and sacrifice, rejecting mendicancy — ascendant 1905-08."
+      },
+      {
+        "term": "Home Rule",
+        "definition": "Self-government within the empire on the Irish model — the 1916-18 demand that mainstreamed 'swaraj' respectably."
+      },
+      {
+        "term": "Self-Respect movement",
+        "definition": "Periyar's rationalist anti-caste campaign (1925–) — dignity, self-respect marriages, and social democracy before political democracy."
+      },
+      {
+        "term": "National education",
+        "definition": "Swadeshi-era independent schools/colleges free of official control — Bengal National College, Andhra's national schools."
+      }
     ]
   },
   {
@@ -180,11 +296,27 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Radical", "Movement & works", "Method & message"],
+            "headers": [
+              "Radical",
+              "Movement & works",
+              "Method & message"
+            ],
             "rows": [
-              ["**Jyotirao Phule (1827-90)**", "**Satyashodhak Samaj (1873, Pune)**; *Gulamgiri (1873)*, *Shetkaryacha Asud*; with **Savitribai** — **first girls' school (1848)**, widow home, well opened to untouchables (1868)", "Brahmanism as ideology of slavery (dedicated *Gulamgiri* to American abolitionists); education of shudra-atishudra & women as liberation ('lack of education → lack of everything' chain); priestless weddings; the title **'Mahatma' (1888)**"],
-              ["**Sree Narayana Guru (1856-1928)**", "**SNDP Yogam (1903**, with Dr Palpu & Kumaran Asan); **Aruvippuram consecration (1888)** — an Ezhava consecrating Shiva: 'my Shiva, not the Brahmin's'; Sivagiri", "'**One caste, one religion, one God for man**'; temple-and-school strategy (temples he built admitted all); backed **Vaikom Satyagraha (1924-25)**; spiritual equality as social revolution — reform without rancour"],
-              ["**Periyar E.V. Ramaswamy (1879-1973)**", "Vaikom hero → **Self-Respect movement (1925)**; *Kudi Arasu*; later Justice Party leadership (1938) → **Dravidar Kazhagam (1944)**", "Rationalism ('no god; the one who created god is a fool' rhetoric), anti-Brahminism, women's radical equality (property, divorce, contraception advocacy), self-respect marriages (legalised retrospectively, TN 1967); social democracy before political freedom"]
+              [
+                "**Jyotirao Phule (1827-90)**",
+                "**Satyashodhak Samaj (1873, Pune)**; *Gulamgiri (1873)*, *Shetkaryacha Asud*; with **Savitribai** — **first girls' school (1848)**, widow home, well opened to untouchables (1868)",
+                "Brahmanism as ideology of slavery (dedicated *Gulamgiri* to American abolitionists); education of shudra-atishudra & women as liberation ('lack of education → lack of everything' chain); priestless weddings; the title **'Mahatma' (1888)**"
+              ],
+              [
+                "**Sree Narayana Guru (1856-1928)**",
+                "**SNDP Yogam (1903**, with Dr Palpu & Kumaran Asan); **Aruvippuram consecration (1888)** — an Ezhava consecrating Shiva: 'my Shiva, not the Brahmin's'; Sivagiri",
+                "'**One caste, one religion, one God for man**'; temple-and-school strategy (temples he built admitted all); backed **Vaikom Satyagraha (1924-25)**; spiritual equality as social revolution — reform without rancour"
+              ],
+              [
+                "**Periyar E.V. Ramaswamy (1879-1973)**",
+                "Vaikom hero → **Self-Respect movement (1925)**; *Kudi Arasu*; later Justice Party leadership (1938) → **Dravidar Kazhagam (1944)**",
+                "Rationalism ('no god; the one who created god is a fool' rhetoric), anti-Brahminism, women's radical equality (property, divorce, contraception advocacy), self-respect marriages (legalised retrospectively, TN 1967); social democracy before political freedom"
+              ]
             ]
           }
         ]
@@ -224,6 +356,26 @@
             "text": "Exam tip: The three-strategy contrast (counter-ideology / sacralised equality / rationalist demolition) is the analytical frame that turns biography into argument — close with the 'whose nation?' question they bequeathed to Ambedkar and the Constitution."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the anti-caste lineage & the Andhra echo",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The lineage:** **Jyotiba Phule** (Satyashodhak Samaj, *Gulamgiri*) → **Narayana Guru** (Kerala — 'one caste, one religion, one God', Vaikom) → **Periyar E.V. Ramasamy** (Self-Respect Movement, Tamil Nadu) → **B.R. Ambedkar** (annihilation of caste, constitutional route).",
+              "**Comparing the three:** Phule (education & anti-Brahminism), Narayana Guru (spiritual-social reform within Hinduism), Periyar (rationalist, radical rejection) — a spectrum from reform to revolt.",
+              "**The Andhra echo:** the anti-caste and self-respect currents shaped Andhra's social reform — figures like **Gurajada, Kandukuri Veeresalingam** (widow remarriage, social reform), and later Dalit assertion; the Justice/non-Brahmin movement in Madras Presidency directly touched Andhra.",
+              "**Significance:** these movements democratised the national movement by adding social justice to political freedom — 'political swaraj without social reform is meaningless' (Ambedkar's challenge to Congress)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Jyotiba Phule** — Satyashodhak Samaj (1873); *Gulamgiri*.",
+          "**Narayana Guru** — 'One caste, one religion, one God for humankind'; Vaikom Satyagraha region.",
+          "**Periyar E.V. Ramasamy** — Self-Respect Movement (Tamil Nadu)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -243,12 +395,30 @@
       "Trace the Andhra echoes of the anti-caste awakening from Tripuraneni to Bhagya Reddy Varma."
     ],
     "glossary": [
-      { "term": "Satyashodhak Samaj", "definition": "Phule's 1873 'truth-seekers' society — anti-Brahmanism, priestless rites, education of shudras, atishudras and women." },
-      { "term": "Gulamgiri", "definition": "Phule's 1873 tract equating caste with slavery, dedicated to American abolitionists — the founding text of anti-caste critique." },
-      { "term": "SNDP Yogam", "definition": "Sree Narayana Dharma Paripalana Yogam (1903) — the Ezhava self-organisation built on Guru's temples, schools and industry triad." },
-      { "term": "Self-respect marriage", "definition": "Periyar's priestless, ritual-free wedding asserting rational dignity — later legalised in Tamil Nadu (1967 amendment)." },
-      { "term": "Adi-Hindu movement", "definition": "Bhagya Reddy Varma's Hyderabad-based assertion of Dalits as original inhabitants — pre-Ambedkarite Telugu Dalit organising." },
-      { "term": "Vaikom Satyagraha", "definition": "1924-25 campaign for untouchables' right to temple roads in Travancore — the first great temple-centred civil-rights struggle." }
+      {
+        "term": "Satyashodhak Samaj",
+        "definition": "Phule's 1873 'truth-seekers' society — anti-Brahmanism, priestless rites, education of shudras, atishudras and women."
+      },
+      {
+        "term": "Gulamgiri",
+        "definition": "Phule's 1873 tract equating caste with slavery, dedicated to American abolitionists — the founding text of anti-caste critique."
+      },
+      {
+        "term": "SNDP Yogam",
+        "definition": "Sree Narayana Dharma Paripalana Yogam (1903) — the Ezhava self-organisation built on Guru's temples, schools and industry triad."
+      },
+      {
+        "term": "Self-respect marriage",
+        "definition": "Periyar's priestless, ritual-free wedding asserting rational dignity — later legalised in Tamil Nadu (1967 amendment)."
+      },
+      {
+        "term": "Adi-Hindu movement",
+        "definition": "Bhagya Reddy Varma's Hyderabad-based assertion of Dalits as original inhabitants — pre-Ambedkarite Telugu Dalit organising."
+      },
+      {
+        "term": "Vaikom Satyagraha",
+        "definition": "1924-25 campaign for untouchables' right to temple roads in Travancore — the first great temple-centred civil-rights struggle."
+      }
     ]
   }
 ]

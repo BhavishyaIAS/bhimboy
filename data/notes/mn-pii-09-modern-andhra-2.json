@@ -12,11 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Element", "Character", "Colonial fate"],
+            "headers": [
+              "Element",
+              "Character",
+              "Colonial fate"
+            ],
             "rows": [
-              ["**Palegar system**", "Fort-based warrior chiefs (kavali/watch fees, blackmail-protection duality); Vijayanagara-Nayaka lineage; Rayalaseema-Nellore belt", "Suppressed as 'predatory' — disarmament & pensions (contrast TN's bloody Poligar wars, 1799-1805); their memory lives in **Narasimha Reddy (1846-47)** — a palegar-pension grievance turned rising"],
-              ["**Coastal zamindaris**", "Great houses: **Vizianagaram** (the largest; Padmanabham's 1794 defiance), **Bobbili** (the 1757 Bobbili-Vizianagaram-Bussy epic — Tandra Paparayudu's legend), Pithapuram (patron of reform — Venkataratnam Naidu's college), Venkatagiri, Nuzvid, Challapalli", "Sanad-fixed revenue; many slid into debt-litigation (Court of Wards); some became **patrons of education-culture** (Vizianagaram's colleges, Pithapuram's reform patronage) — the double face"],
-              ["**Native states & little kings**", "**Banganapalle** (Nawabi enclave in Kurnool — a princely state till 1948) and **Sanjeevaraopeta/other petty holdings**; the agency's **muttadars** (hill chiefs under special regulations)", "Banganapalle acceded 1948; muttadari abuses fed the fituris (Rampa 1879; Alluri's rising against muttadar-forest oppression)"]
+              [
+                "**Palegar system**",
+                "Fort-based warrior chiefs (kavali/watch fees, blackmail-protection duality); Vijayanagara-Nayaka lineage; Rayalaseema-Nellore belt",
+                "Suppressed as 'predatory' — disarmament & pensions (contrast TN's bloody Poligar wars, 1799-1805); their memory lives in **Narasimha Reddy (1846-47)** — a palegar-pension grievance turned rising"
+              ],
+              [
+                "**Coastal zamindaris**",
+                "Great houses: **Vizianagaram** (the largest; Padmanabham's 1794 defiance), **Bobbili** (the 1757 Bobbili-Vizianagaram-Bussy epic — Tandra Paparayudu's legend), Pithapuram (patron of reform — Venkataratnam Naidu's college), Venkatagiri, Nuzvid, Challapalli",
+                "Sanad-fixed revenue; many slid into debt-litigation (Court of Wards); some became **patrons of education-culture** (Vizianagaram's colleges, Pithapuram's reform patronage) — the double face"
+              ],
+              [
+                "**Native states & little kings**",
+                "**Banganapalle** (Nawabi enclave in Kurnool — a princely state till 1948) and **Sanjeevaraopeta/other petty holdings**; the agency's **muttadars** (hill chiefs under special regulations)",
+                "Banganapalle acceded 1948; muttadari abuses fed the fituris (Rampa 1879; Alluri's rising against muttadar-forest oppression)"
+              ]
             ]
           }
         ]
@@ -55,6 +71,25 @@
             "text": "Exam tip: The Bobbili-1757 saga (Bussy, Tandra Paparayudu) is Andhra folk-history's Marathon — one line of it signals cultural literacy; the Ranga-led anti-estate kisan link connects this note to HCOI-038 seamlessly."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — zamindars, palegars & the 'little kings'",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The order:** **palegars/poligars** (military chieftains) and **zamindars** were the intermediary 'little kings' of the Andhra countryside; the **Permanent Settlement (extended to the Circars)** froze them as revenue landlords.",
+              "**Resistance & dismantling:** poligar rebellions against Company revenue demands; later the **Madras Estates (Abolition and Conversion into Ryotwari) Act 1948** dismantled the zamindari system, converting tenants to ryots.",
+              "**Social consequence:** sub-infeudation, tenant insecurity and agrarian tension that fed peasant movements — the backdrop to later communist and kisan mobilisation in coastal Andhra & Telangana.",
+              "**Significance:** the land question is the connective tissue between colonial Andhra's social structure and its 20th-century radical politics."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Poligars/Palegars** — military chieftains; led early resistance to Company revenue collection.",
+          "**Madras Estates Abolition Act 1948** — abolished zamindari in the Andhra region."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -75,12 +110,30 @@
       "Link muttadari oppression to the fituri tradition — the agency's variant of the anti-landlord struggle."
     ],
     "glossary": [
-      { "term": "Palegar (Palayakkarar)", "definition": "Fort-holding warrior chief of the southern uplands exercising revenue-police powers — the Vijayanagara-Nayaka order's local units." },
-      { "term": "Sanad", "definition": "The engrossed deed by which Madras fixed coastal zamindars' permanent revenue (1802-03) — chiefship converted to landlordism." },
-      { "term": "Muttadar", "definition": "Hill-tract chief/revenue intermediary of the Andhra agency under special regulations — the fituris' immediate oppressor tier." },
-      { "term": "Kattubadi", "definition": "Quit-rent/tribute payable by sub-holders to the zamindar — the estate pyramid's cement." },
-      { "term": "Court of Wards", "definition": "Colonial trusteeship managing indebted/minor-ruled estates — many Andhra zamindaris passed through it." },
-      { "term": "Estates Abolition (1948)", "definition": "Madras Act converting zamindari estates to ryotwari with compensation — the legal end of Andhra's landlord regime." }
+      {
+        "term": "Palegar (Palayakkarar)",
+        "definition": "Fort-holding warrior chief of the southern uplands exercising revenue-police powers — the Vijayanagara-Nayaka order's local units."
+      },
+      {
+        "term": "Sanad",
+        "definition": "The engrossed deed by which Madras fixed coastal zamindars' permanent revenue (1802-03) — chiefship converted to landlordism."
+      },
+      {
+        "term": "Muttadar",
+        "definition": "Hill-tract chief/revenue intermediary of the Andhra agency under special regulations — the fituris' immediate oppressor tier."
+      },
+      {
+        "term": "Kattubadi",
+        "definition": "Quit-rent/tribute payable by sub-holders to the zamindar — the estate pyramid's cement."
+      },
+      {
+        "term": "Court of Wards",
+        "definition": "Colonial trusteeship managing indebted/minor-ruled estates — many Andhra zamindaris passed through it."
+      },
+      {
+        "term": "Estates Abolition (1948)",
+        "definition": "Madras Act converting zamindari estates to ryotwari with compensation — the legal end of Andhra's landlord regime."
+      }
     ]
   },
   {
@@ -92,13 +145,37 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Figure", "Work & institutions", "Signature contribution"],
+            "headers": [
+              "Figure",
+              "Work & institutions",
+              "Signature contribution"
+            ],
             "rows": [
-              ["**Kandukuri Veeresalingam (1848-1919)** — 'Gadya Tikkana', the Andhra reformer", "*Vivekavardhini* (1874); **Rajahmundry widow-remarriage (11 Dec 1881)**; **Hitakarini Samaj** (his properties willed to it); widows' homes, girls' schools; *Rajasekhara Charitramu* (1878 — first major Telugu novel); *Satyavati Charitram*; prolific satire", "The renaissance's engine: reform + prose + press in one person; ~40 remarriages performed against boycott and violence; 'the Vidyasagar of the south'"],
-              ["**Gurajada Apparao (1862-1915)**", "*Kanyasulkam* (1892; pref. 2nd ed. 1909); **'Desamunu preminchumanna' (Desabhakti song)**; short stories (*Diddubatu*); Vizianagaram court scholar", "Modern Telugu literature's founding play — bride-price, fake sannyasis, the immortal **Gireesham & Madhuravani**; spoken-dialect literature vindicated; 'a nation is its people, not its soil'"],
-              ["**Raghupathi Venkataratnam Naidu (1862-1939)**", "Brahmo missionary-educationist; principal, **Pithapuram Rajah's College (Kakinada)**; 'social purity' movement; knighted; students called him 'Kulapati'", "**Anti-nautch & anti-devadasi campaign**, temperance, Dalit-uplift hostels; moulded a generation (his students seeded Andhra's public life)"],
-              ["**Gidugu Venkata Ramamurthy (1863-1940)**", "*Telugu* (journal); Savara linguistics (first grammar-dictionary of a Munda tongue); the **vyavaharika crusade** vs granthika (Jayanti Ramayya's camp)", "Democratised the written language — schoolbooks & press in living Telugu; **Telugu Language Day = his birthday (29 Aug)**; 'Pidugu' (thunderbolt) Gidugu"],
-              ["**Annie Besant (1847-1933)**", "(Full portrait HCOI-097) Adyar Theosophy; Home Rule (1916); *New India*", "For Andhra specifically: Theosophical lodges as the coastal elite's finishing school; Home Rule's Andhra network (Gadicherla, Kaleswara Rao); the awakening's all-India bridge"]
+              [
+                "**Kandukuri Veeresalingam (1848-1919)** — 'Gadya Tikkana', the Andhra reformer",
+                "*Vivekavardhini* (1874); **Rajahmundry widow-remarriage (11 Dec 1881)**; **Hitakarini Samaj** (his properties willed to it); widows' homes, girls' schools; *Rajasekhara Charitramu* (1878 — first major Telugu novel); *Satyavati Charitram*; prolific satire",
+                "The renaissance's engine: reform + prose + press in one person; ~40 remarriages performed against boycott and violence; 'the Vidyasagar of the south'"
+              ],
+              [
+                "**Gurajada Apparao (1862-1915)**",
+                "*Kanyasulkam* (1892; pref. 2nd ed. 1909); **'Desamunu preminchumanna' (Desabhakti song)**; short stories (*Diddubatu*); Vizianagaram court scholar",
+                "Modern Telugu literature's founding play — bride-price, fake sannyasis, the immortal **Gireesham & Madhuravani**; spoken-dialect literature vindicated; 'a nation is its people, not its soil'"
+              ],
+              [
+                "**Raghupathi Venkataratnam Naidu (1862-1939)**",
+                "Brahmo missionary-educationist; principal, **Pithapuram Rajah's College (Kakinada)**; 'social purity' movement; knighted; students called him 'Kulapati'",
+                "**Anti-nautch & anti-devadasi campaign**, temperance, Dalit-uplift hostels; moulded a generation (his students seeded Andhra's public life)"
+              ],
+              [
+                "**Gidugu Venkata Ramamurthy (1863-1940)**",
+                "*Telugu* (journal); Savara linguistics (first grammar-dictionary of a Munda tongue); the **vyavaharika crusade** vs granthika (Jayanti Ramayya's camp)",
+                "Democratised the written language — schoolbooks & press in living Telugu; **Telugu Language Day = his birthday (29 Aug)**; 'Pidugu' (thunderbolt) Gidugu"
+              ],
+              [
+                "**Annie Besant (1847-1933)**",
+                "(Full portrait HCOI-097) Adyar Theosophy; Home Rule (1916); *New India*",
+                "For Andhra specifically: Theosophical lodges as the coastal elite's finishing school; Home Rule's Andhra network (Gadicherla, Kaleswara Rao); the awakening's all-India bridge"
+              ]
             ]
           }
         ]
@@ -137,6 +214,25 @@
             "text": "Exam tip: Quote Gurajada once ('desamante matti kaadoi, desamante manushuloi') and note Kandukuri's ~40 remarriages figure — concrete practice beats abstract praise in APPSC grading."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the makers of modern Andhra",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The pantheon:** **Kandukuri Veeresalingam** (social reform), **Gurajada Apparao** (*Kanyasulkam* — anti-bride-price play; 'Desamante Matti Kaadoi, Desamante Manushuloy' — humanist nationalism), **Gidugu Ramamurthy** (the **vyavaharika bhasha / spoken-Telugu movement**), **Raghupathi Venkataratnam Naidu** (Brahmo social reform, anti-nautch), and **Unnava Lakshminarayana** (*Malapalli*, social novel).",
+              "**Reading the pantheon:** they combined **language reform + social reform + literary modernism + nationalism** — the cultural engine of Andhra's self-assertion.",
+              "**Gidugu's revolution:** replacing the archaic *grandhika* with the living *vyavaharika* language democratised Telugu literacy and expression — a directly citable cultural-history point.",
+              "**Significance:** these makers turned a linguistic-cultural identity into the basis of a political demand for a Telugu-speaking state."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Gurajada Apparao** — *Kanyasulkam* (1892), the landmark Telugu social play.",
+          "**Gidugu Ramamurthy** — champion of *vyavaharika bhasha* (spoken/colloquial Telugu)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -157,12 +253,30 @@
       "Reform's colleges bred nationalism's cadre — trace the Venkataratnam-Besant channels into the Andhra movement."
     ],
     "glossary": [
-      { "term": "Gadya Tikkana", "definition": "Honorific for Veeresalingam — 'the Tikkana of prose' — marking his foundational role in modern Telugu prose." },
-      { "term": "Kanyasulkam", "definition": "Bride-price; also Gurajada's 1892 play attacking the practice — modern Telugu drama's founding classic." },
-      { "term": "Hitakarini Samaj", "definition": "Veeresalingam's charitable society (Rajahmundry) inheriting his properties for widows' homes and schools." },
-      { "term": "Granthika vs vyavaharika", "definition": "Classical-archaic versus spoken-standard Telugu — the language controversy Gidugu's camp won for print and education." },
-      { "term": "Devadasi/anti-nautch", "definition": "Temple-dedication of women and its performance economy — target of Venkataratnam Naidu's purity campaign." },
-      { "term": "Kulapati", "definition": "'Master of the clan/gurukula' — the students' title for Venkataratnam Naidu as character-building educator." }
+      {
+        "term": "Gadya Tikkana",
+        "definition": "Honorific for Veeresalingam — 'the Tikkana of prose' — marking his foundational role in modern Telugu prose."
+      },
+      {
+        "term": "Kanyasulkam",
+        "definition": "Bride-price; also Gurajada's 1892 play attacking the practice — modern Telugu drama's founding classic."
+      },
+      {
+        "term": "Hitakarini Samaj",
+        "definition": "Veeresalingam's charitable society (Rajahmundry) inheriting his properties for widows' homes and schools."
+      },
+      {
+        "term": "Granthika vs vyavaharika",
+        "definition": "Classical-archaic versus spoken-standard Telugu — the language controversy Gidugu's camp won for print and education."
+      },
+      {
+        "term": "Devadasi/anti-nautch",
+        "definition": "Temple-dedication of women and its performance economy — target of Venkataratnam Naidu's purity campaign."
+      },
+      {
+        "term": "Kulapati",
+        "definition": "'Master of the clan/gurukula' — the students' title for Venkataratnam Naidu as character-building educator."
+      }
     ]
   },
   {
@@ -178,11 +292,23 @@
           },
           {
             "type": "table",
-            "headers": ["Movement element", "Content"],
+            "headers": [
+              "Movement element",
+              "Content"
+            ],
             "rows": [
-              ["**Leaders**", "**Ayyanki Venkata Ramanayya** — 'father of the library movement' (ADLA 1914, AIPLA 1919, Grandhalaya Sarvasvam); **Gadicherla Harisarvottama Rao** — librarian-nationalist (also Vandemataram-era prisoner); **Komarraju Lakshmana Rao** — Hyderabad's Bhasha Nilayam + **Vignana Chandrika Grandhamala (1906**, popular-knowledge series) + the **Andhra Vignana Sarvasvamu** (first Telugu encyclopaedia project); Suri Venkata Narasimha Sastri, Vetapalem's founders"],
-              ["**Character**", "Libraries doubled as **adult-literacy night schools, swadeshi platforms, khadi depots, harikatha-lecture venues**; travelling/boat libraries on the delta canals; women's reading sections — the library as the village's civic hall"],
-              ["**Politics**", "Reading rooms hosted the **Andhra movement's** meetings and Congress campaigns; colonial CID watched them; during Non-Cooperation & CDM they were nationalism's nervous system — 'every library a fort of swaraj'"]
+              [
+                "**Leaders**",
+                "**Ayyanki Venkata Ramanayya** — 'father of the library movement' (ADLA 1914, AIPLA 1919, Grandhalaya Sarvasvam); **Gadicherla Harisarvottama Rao** — librarian-nationalist (also Vandemataram-era prisoner); **Komarraju Lakshmana Rao** — Hyderabad's Bhasha Nilayam + **Vignana Chandrika Grandhamala (1906**, popular-knowledge series) + the **Andhra Vignana Sarvasvamu** (first Telugu encyclopaedia project); Suri Venkata Narasimha Sastri, Vetapalem's founders"
+              ],
+              [
+                "**Character**",
+                "Libraries doubled as **adult-literacy night schools, swadeshi platforms, khadi depots, harikatha-lecture venues**; travelling/boat libraries on the delta canals; women's reading sections — the library as the village's civic hall"
+              ],
+              [
+                "**Politics**",
+                "Reading rooms hosted the **Andhra movement's** meetings and Congress campaigns; colonial CID watched them; during Non-Cooperation & CDM they were nationalism's nervous system — 'every library a fort of swaraj'"
+              ]
             ]
           }
         ]
@@ -221,6 +347,25 @@
             "text": "Exam tip: 'Desoddharaka' Kasinathuni and 'library-movement father' Ayyanki are the two honorifics to drop; the boat-libraries of the delta canals are the vivid detail that makes your answer memorable."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the library & newspaper movements",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The library (Granthalaya) movement:** reading rooms as engines of literacy, awareness and nationalism; **Ayyanki Venkata Ramanaiah** organised the Andhra library movement — libraries as 'people's universities'.",
+              "**The Telugu press:** journals and newspapers (**Krishna Patrika, Andhra Patrika — Kasinathuni Nageswara Rao 'Desoddharaka'**) built public opinion, promoted the language, and carried the national and Andhra-province message.",
+              "**Reading them together:** libraries + newspapers created a **Telugu public sphere** that underpinned the Andhra Mahasabha and the statehood movement.",
+              "**Significance:** cultural infrastructure (libraries, presses) was as vital as political agitation in forging Andhra identity."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Ayyanki Venkata Ramanaiah** — father of the Andhra library movement.",
+          "**Kasinathuni Nageswara Rao** — founder of *Andhra Patrika*; titled 'Desoddharaka'."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -241,12 +386,30 @@
       "Libraries as swaraj's forts — examine the political functions of Andhra's reading rooms during the Gandhian movements."
     ],
     "glossary": [
-      { "term": "Grandhalaya movement", "definition": "The Andhra campaign to plant public libraries as instruments of literacy, identity and nationalism — India's model library movement." },
-      { "term": "Grandhalaya Sarvasvam", "definition": "The ADLA's 1916 journal — among the world's earliest library-science periodicals in an Indian language." },
-      { "term": "Vignana Chandrika Grandhamala", "definition": "Komarraju's 1906 series of popular-knowledge Telugu books — the encyclopaedia impulse serving mass enlightenment." },
-      { "term": "Desoddharaka", "definition": "'Uplifter of the nation' — the honorific of Kasinathuni Nageswara Rao, press baron-philanthropist of Andhra Patrika." },
-      { "term": "Boat library", "definition": "The delta's travelling canal-borne book service — the movement's famous outreach device." },
-      { "term": "Public Libraries Act", "definition": "Legislation (Madras 1948; AP 1960) creating library cess-funded public systems — the movement's statutory consolidation." }
+      {
+        "term": "Grandhalaya movement",
+        "definition": "The Andhra campaign to plant public libraries as instruments of literacy, identity and nationalism — India's model library movement."
+      },
+      {
+        "term": "Grandhalaya Sarvasvam",
+        "definition": "The ADLA's 1916 journal — among the world's earliest library-science periodicals in an Indian language."
+      },
+      {
+        "term": "Vignana Chandrika Grandhamala",
+        "definition": "Komarraju's 1906 series of popular-knowledge Telugu books — the encyclopaedia impulse serving mass enlightenment."
+      },
+      {
+        "term": "Desoddharaka",
+        "definition": "'Uplifter of the nation' — the honorific of Kasinathuni Nageswara Rao, press baron-philanthropist of Andhra Patrika."
+      },
+      {
+        "term": "Boat library",
+        "definition": "The delta's travelling canal-borne book service — the movement's famous outreach device."
+      },
+      {
+        "term": "Public Libraries Act",
+        "definition": "Legislation (Madras 1948; AP 1960) creating library cess-funded public systems — the movement's statutory consolidation."
+      }
     ]
   }
 ]

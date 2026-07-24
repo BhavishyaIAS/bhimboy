@@ -12,14 +12,42 @@
           },
           {
             "type": "table",
-            "headers": ["Domain", "Implications for residual AP", "Adaptive response"],
+            "headers": [
+              "Domain",
+              "Implications for residual AP",
+              "Adaptive response"
+            ],
             "rows": [
-              ["**Administrative**", "Capital-less statehood (Secretariat operating from Hyderabad's 10-year window, Sec 5 — then Velagapudi interim); **cadre division chaos** (IAS/IPS allocations contested; Sec 77-80 employee division dragging years); records, institutions, training academies all Telangana-side", "Interim Secretariat (2016-); new directorates built from scratch; the secretariat-village system (2019) as a leapfrog — adversity midwifing innovation"],
-              ["**Economic**", "~45% revenue loss with 58% population (services-IT receipts Hyderabad-locked); revenue deficit from day one; debt-share disputes (population-ratio division of ~₹97,000 crore public debt; asset division asymmetric — fixed assets by location favoured Telangana's Hyderabad endowment)", "Sunrise-state strategy: ports-corridors-aqua; EoDB rank-1 positioning; central packages pursued (the RMA-013 scorecard)"],
-              ["**Social**", "Families-jobs-education networks split; students' fee-reimbursement and admissions transition (common admissions till 2024 window under Sec 95); health-referral dependence on Hyderabad's corporate hospitals", "AIIMS Mangalagiri & new institution buildout; 371D continuation protecting existing allocations"],
-              ["**Political**", "Seat shrink (LS 25, Assembly 175) → reduced Delhi weight; party system reset (regional bipolarity; the SCS-betrayal narrative as the dominant cleavage 2014-19); Rayalaseema's renewed periphery anxiety (capital moved coastward again)", "Special-status politics; the 2018 NDA exit & 2024 coalition pivot — AP's leverage politics"],
-              ["**Cultural**", "Telugu identity's split-screen (two states claiming the language's patrimony — official language bodies, film industry's Hyderabad base, festivals' 'ownership'); Hyderabad's shared-heritage wistfulness", "AP's identity rebuild: Lepakshi-Amaravati heritage branding, separate academies, the 'Andhra' cultural re-centering"],
-              ["**Legal**", "The Act's disputed provisions (next notes' subjects): Sec 46 finance, Secs 85-89 water boards, Schedule IX/X institution division (**Sheela Bhide committee** pending items), Sec 8 (Governor's Hyderabad law-order role, lapsed 2024)", "Litigation + negotiation track; SC petitions on the Act's 'arbitrary provisions' (HCOA-073's core)"]
+              [
+                "**Administrative**",
+                "Capital-less statehood (Secretariat operating from Hyderabad's 10-year window, Sec 5 — then Velagapudi interim); **cadre division chaos** (IAS/IPS allocations contested; Sec 77-80 employee division dragging years); records, institutions, training academies all Telangana-side",
+                "Interim Secretariat (2016-); new directorates built from scratch; the secretariat-village system (2019) as a leapfrog — adversity midwifing innovation"
+              ],
+              [
+                "**Economic**",
+                "~45% revenue loss with 58% population (services-IT receipts Hyderabad-locked); revenue deficit from day one; debt-share disputes (population-ratio division of ~₹97,000 crore public debt; asset division asymmetric — fixed assets by location favoured Telangana's Hyderabad endowment)",
+                "Sunrise-state strategy: ports-corridors-aqua; EoDB rank-1 positioning; central packages pursued (the RMA-013 scorecard)"
+              ],
+              [
+                "**Social**",
+                "Families-jobs-education networks split; students' fee-reimbursement and admissions transition (common admissions till 2024 window under Sec 95); health-referral dependence on Hyderabad's corporate hospitals",
+                "AIIMS Mangalagiri & new institution buildout; 371D continuation protecting existing allocations"
+              ],
+              [
+                "**Political**",
+                "Seat shrink (LS 25, Assembly 175) → reduced Delhi weight; party system reset (regional bipolarity; the SCS-betrayal narrative as the dominant cleavage 2014-19); Rayalaseema's renewed periphery anxiety (capital moved coastward again)",
+                "Special-status politics; the 2018 NDA exit & 2024 coalition pivot — AP's leverage politics"
+              ],
+              [
+                "**Cultural**",
+                "Telugu identity's split-screen (two states claiming the language's patrimony — official language bodies, film industry's Hyderabad base, festivals' 'ownership'); Hyderabad's shared-heritage wistfulness",
+                "AP's identity rebuild: Lepakshi-Amaravati heritage branding, separate academies, the 'Andhra' cultural re-centering"
+              ],
+              [
+                "**Legal**",
+                "The Act's disputed provisions (next notes' subjects): Sec 46 finance, Secs 85-89 water boards, Schedule IX/X institution division (**Sheela Bhide committee** pending items), Sec 8 (Governor's Hyderabad law-order role, lapsed 2024)",
+                "Litigation + negotiation track; SC petitions on the Act's 'arbitrary provisions' (HCOA-073's core)"
+              ]
             ]
           }
         ]
@@ -58,6 +86,56 @@
             "text": "Exam tip: 'Telangana inherited the metropolis; AP inherited the coastline' — the one-line frame that organises every implication and signals balance. The Sheela Bhide & Kamalanathan committee names mark you as a details candidate."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — bifurcation's six domains",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Domain",
+              "Impact on residual AP"
+            ],
+            "rows": [
+              [
+                "**Capital**",
+                "Lost Hyderabad; had to build a new capital (Amaravati) from scratch"
+              ],
+              [
+                "**Revenue/fiscal**",
+                "Revenue-deficit legacy; lost Hyderabad's tax base"
+              ],
+              [
+                "**Employment**",
+                "Division of employees, guardianship (Kamalanathan Committee)"
+              ],
+              [
+                "**Water**",
+                "Krishna & Godavari sharing disputes; river management boards"
+              ],
+              [
+                "**Institutions**",
+                "Division of assets, PSUs, and educational seats"
+              ],
+              [
+                "**Special status**",
+                "SCS promised (RS floor) but not granted"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Three cross-cutting justice questions:** distributive (assets/revenue), procedural (was the division fair/consultative?), and developmental (can residual AP catch up?).",
+              "**The framework Act:** the **AP Reorganisation Act 2014** (Arts 3-4, simple majority) is the legal instrument — its Schedule-13 institutional and special-assistance promises are the accountability yardstick."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**AP Reorganisation Act 2014** — bifurcated AP & Telangana (appointed day 2 June 2014).",
+          "**Kamalanathan Committee** — allocation/guardianship of state-cadre employees post-bifurcation."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +155,30 @@
       "Politics after partition — analyse how bifurcation reset AP's party system and its leverage in Delhi."
     ],
     "glossary": [
-      { "term": "Residual state", "definition": "The continuing legal entity (AP) after carve-out — inheriting the state's identity, debts and the Act's compensatory promises." },
-      { "term": "Common capital", "definition": "Hyderabad's ten-year shared-capital status under Sec 5 — expired June 2024, completing the separation." },
-      { "term": "Situs-based division", "definition": "Allocating fixed assets by physical location — the rule that concentrated Hyderabad-era assets in Telangana." },
-      { "term": "Cadre allocation", "definition": "Division of all-India and state services personnel between successor states — the Kamalanathan-era administrative saga." },
-      { "term": "Schedule IX/X institutions", "definition": "The Act's lists of state corporations and training-research institutions requiring division — the Sheela Bhide file." },
-      { "term": "Sunrise state", "definition": "AP's post-2014 self-branding — a coastline-led, investment-hungry rebuild narrative." }
+      {
+        "term": "Residual state",
+        "definition": "The continuing legal entity (AP) after carve-out — inheriting the state's identity, debts and the Act's compensatory promises."
+      },
+      {
+        "term": "Common capital",
+        "definition": "Hyderabad's ten-year shared-capital status under Sec 5 — expired June 2024, completing the separation."
+      },
+      {
+        "term": "Situs-based division",
+        "definition": "Allocating fixed assets by physical location — the rule that concentrated Hyderabad-era assets in Telangana."
+      },
+      {
+        "term": "Cadre allocation",
+        "definition": "Division of all-India and state services personnel between successor states — the Kamalanathan-era administrative saga."
+      },
+      {
+        "term": "Schedule IX/X institutions",
+        "definition": "The Act's lists of state corporations and training-research institutions requiring division — the Sheela Bhide file."
+      },
+      {
+        "term": "Sunrise state",
+        "definition": "AP's post-2014 self-branding — a coastline-led, investment-hungry rebuild narrative."
+      }
     ]
   },
   {
@@ -98,12 +194,27 @@
           },
           {
             "type": "table",
-            "headers": ["Financial implications file", "Content"],
+            "headers": [
+              "Financial implications file",
+              "Content"
+            ],
             "rows": [
-              ["Construction bill vs support", "Master plans (Singapore consortium) estimated lakh-crore-scale build; **central support actual: ~₹1,500 cr (capital) + ₹2,500 cr (backward regions instalments era)** — the Act promised 'assistance' without a number (**Sec 94(3)**: funds for essential facilities): the gap grievance"],
-              ["The 2019-24 rupture", "Three-capitals proposal (**Executive: Visakhapatnam; Legislative: Amaravati; Judicial: Kurnool** — the Sri Bagh echo) + CRDA repeal (2020); farmer litigation (annuity & development covenants); **AP HC (March 2022)** ordered Amaravati's development per pooling promises; appeal pending in SC; construction frozen five years"],
-              ["The 2024 revival", "CRDA restored; **World Bank+ADB ~$1.6 bn (~₹15,000 cr) programme**; HUDCO lines; trunk-works retendered — Amaravati as capital re-affirmed; Polavaram-Amaravati as the twin flagship rebuild"],
-              ["Fiscal meaning", "Capital-less decade = investment-signal costs (capital flight to Hyderabad/Bengaluru/Chennai), interim-rent economy (Velagapudi), land-value stasis for pooled farmers — 'the cost of not deciding' as a public-finance case"]
+              [
+                "Construction bill vs support",
+                "Master plans (Singapore consortium) estimated lakh-crore-scale build; **central support actual: ~₹1,500 cr (capital) + ₹2,500 cr (backward regions instalments era)** — the Act promised 'assistance' without a number (**Sec 94(3)**: funds for essential facilities): the gap grievance"
+              ],
+              [
+                "The 2019-24 rupture",
+                "Three-capitals proposal (**Executive: Visakhapatnam; Legislative: Amaravati; Judicial: Kurnool** — the Sri Bagh echo) + CRDA repeal (2020); farmer litigation (annuity & development covenants); **AP HC (March 2022)** ordered Amaravati's development per pooling promises; appeal pending in SC; construction frozen five years"
+              ],
+              [
+                "The 2024 revival",
+                "CRDA restored; **World Bank+ADB ~$1.6 bn (~₹15,000 cr) programme**; HUDCO lines; trunk-works retendered — Amaravati as capital re-affirmed; Polavaram-Amaravati as the twin flagship rebuild"
+              ],
+              [
+                "Fiscal meaning",
+                "Capital-less decade = investment-signal costs (capital flight to Hyderabad/Bengaluru/Chennai), interim-rent economy (Velagapudi), land-value stasis for pooled farmers — 'the cost of not deciding' as a public-finance case"
+              ]
             ]
           }
         ]
@@ -142,6 +253,25 @@
             "text": "Exam tip: 'AP lost a metropolis in 2014 and a decade to indecision after' — then pivot to the 2024 revival. The Sivaramakrishnan-vs-Amaravati tension and the tenant-exclusion critique of pooling are the depth markers."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — losing a capital",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The singular wound:** Hyderabad — the political, economic and IT heart — went to Telangana (a shared capital for 10 years under the Act), leaving residual AP to build administration and a capital anew.",
+              "**Amaravati:** the greenfield-capital project (land-pooling model) faced funding, phasing and policy-continuity challenges (the three-capitals debate under successive governments) — a live case in state-formation.",
+              "**Assessment — capital-building as state-building:** a capital is not just buildings but institutions, connectivity and an economic anchor; the delay imposed real developmental costs.",
+              "**Craft:** treat the capital question as the concentrated expression of bifurcation's asymmetry — residual AP bore disproportionate transition costs."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "Under the 2014 Act, **Hyderabad served as the common capital for up to 10 years**.",
+          "**Amaravati** — planned greenfield capital via the **land-pooling** model."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -161,12 +291,30 @@
       "From grievance to project — appraise the 2024 multilateral-financed Amaravati revival and its risks."
     ],
     "glossary": [
-      { "term": "Land Pooling Scheme", "definition": "Voluntary land assembly returning developed plots plus annuities to owners — Amaravati's acquisition-without-eminent-domain model." },
-      { "term": "CRDA", "definition": "Capital Region Development Authority (2014; repealed 2020; restored 2024) — Amaravati's statutory builder." },
-      { "term": "Agglomeration economics", "definition": "Productivity gains from urban concentration — what a capital city seeds and a frozen capital forfeits." },
-      { "term": "Sivaramakrishnan Committee", "definition": "The Sec-6 expert panel (2014) advising distributed capital functions and warning against fertile-delta megacity siting." },
-      { "term": "Annuity (LPS)", "definition": "The guaranteed yearly payment to pooling farmers pending plot development — the scheme's trust instrument and litigation subject." },
-      { "term": "Three capitals", "definition": "The 2020 decentralisation proposal (Vizag-Amaravati-Kurnool) — Sri Bagh's echo, struck down in 2022, politically retired after 2024." }
+      {
+        "term": "Land Pooling Scheme",
+        "definition": "Voluntary land assembly returning developed plots plus annuities to owners — Amaravati's acquisition-without-eminent-domain model."
+      },
+      {
+        "term": "CRDA",
+        "definition": "Capital Region Development Authority (2014; repealed 2020; restored 2024) — Amaravati's statutory builder."
+      },
+      {
+        "term": "Agglomeration economics",
+        "definition": "Productivity gains from urban concentration — what a capital city seeds and a frozen capital forfeits."
+      },
+      {
+        "term": "Sivaramakrishnan Committee",
+        "definition": "The Sec-6 expert panel (2014) advising distributed capital functions and warning against fertile-delta megacity siting."
+      },
+      {
+        "term": "Annuity (LPS)",
+        "definition": "The guaranteed yearly payment to pooling farmers pending plot development — the scheme's trust instrument and litigation subject."
+      },
+      {
+        "term": "Three capitals",
+        "definition": "The 2020 decentralisation proposal (Vizag-Amaravati-Kurnool) — Sri Bagh's echo, struck down in 2022, politically retired after 2024."
+      }
     ]
   },
   {
@@ -182,12 +330,27 @@
           },
           {
             "type": "table",
-            "headers": ["Trade, commerce & industry effects", "Content"],
+            "headers": [
+              "Trade, commerce & industry effects",
+              "Content"
+            ],
             "rows": [
-              ["Immediate shocks", "Licences-permits-registrations duplicated; **excise & liquor markets split** (pricing arbitrage borders); APSRTC bifurcation (fleet/routes/debts); power-purchase agreements untangled (generation stations vs demand centres — the **Sec 92/Schedule-12 power-sharing** friction and KRMB-GRMB energy angle)"],
-              ["Firm-level geography", "Hyderabad-headquartered firms serving Andhra markets re-registered; pharma's Vizag belt vs Hyderabad's Genome Valley — one industry, two jurisdictions; film industry (Tollywood's Hyderabad base) vs AP's audience-tax base — the entertainment-tax and ticket-pricing skirmishes as symbol"],
-              ["Finance & credit", "Bank regional offices, SLBC restructuring; district credit plans redrawn; chit-fund/NBFC oversight split"],
-              ["New-border frictions → cooperation", "Check-post era (2014-17) till GST (2017) dissolved fiscal borders — **GST as the accidental healer of bifurcation's trade wounds**: the one-nation-tax arriving three years after the two-state split"]
+              [
+                "Immediate shocks",
+                "Licences-permits-registrations duplicated; **excise & liquor markets split** (pricing arbitrage borders); APSRTC bifurcation (fleet/routes/debts); power-purchase agreements untangled (generation stations vs demand centres — the **Sec 92/Schedule-12 power-sharing** friction and KRMB-GRMB energy angle)"
+              ],
+              [
+                "Firm-level geography",
+                "Hyderabad-headquartered firms serving Andhra markets re-registered; pharma's Vizag belt vs Hyderabad's Genome Valley — one industry, two jurisdictions; film industry (Tollywood's Hyderabad base) vs AP's audience-tax base — the entertainment-tax and ticket-pricing skirmishes as symbol"
+              ],
+              [
+                "Finance & credit",
+                "Bank regional offices, SLBC restructuring; district credit plans redrawn; chit-fund/NBFC oversight split"
+              ],
+              [
+                "New-border frictions → cooperation",
+                "Check-post era (2014-17) till GST (2017) dissolved fiscal borders — **GST as the accidental healer of bifurcation's trade wounds**: the one-nation-tax arriving three years after the two-state split"
+              ]
             ]
           }
         ]
@@ -226,6 +389,25 @@
             "text": "Exam tip: 'GST healed what the Act cut' is the freshest analytical line on this theme; the tribunal-clogging employee saga is its cautionary twin. Deploy both and you've framed the decade."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — dividing people & institutions",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Employees:** allocation of state-cadre staff between the two states (Kamalanathan Committee), local-cadre disputes, and the continuation of **Art 371D** local-reservation architecture for both states.",
+              "**Institutions & PSUs:** division of assets and liabilities under **Schedules 9 & 10** of the Act (companies, corporations, training institutes) — a complex, litigated apportionment.",
+              "**Natural resources & rivers:** shared river-water governance via the **Krishna & Godavari River Management Boards** — the enduring inter-state friction.",
+              "**Craft:** bifurcation was not a clean cut but a prolonged, contested disentanglement — cite the Committees and Schedules to show command of the mechanics."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Schedules 9 & 10** of the AP Reorganisation Act — apportionment of state companies, corporations and institutions.",
+          "**Art 371D** local-cadre/Presidential-Order regime continues for both AP and Telangana."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -245,12 +427,30 @@
       "Division's demography outlasts its paperwork — discuss the Hyderabad diaspora of Andhra professionals and its economic meaning."
     ],
     "glossary": [
-      { "term": "Nativity (service law)", "definition": "Place-of-origin criterion used in employee allotment and education quotas — identity operationalised in HR during division." },
-      { "term": "Options-based allotment", "definition": "Letting employees state successor-state preferences within seniority-nativity matrices — agency with gaming risks." },
-      { "term": "SLBC", "definition": "State Level Bankers' Committee — the credit-planning forum each successor state had to reconstitute." },
-      { "term": "Check-post economy", "definition": "The 2014-17 border-tax friction between the twins — dissolved by GST's destination-based regime." },
-      { "term": "Institutional memory loss", "definition": "The archival-training-experience depletion when one administration becomes two — reorganisation's invisible cost." },
-      { "term": "Schedule 12 (power)", "definition": "The Act's arrangements continuing existing power purchase and sharing between successor states." }
+      {
+        "term": "Nativity (service law)",
+        "definition": "Place-of-origin criterion used in employee allotment and education quotas — identity operationalised in HR during division."
+      },
+      {
+        "term": "Options-based allotment",
+        "definition": "Letting employees state successor-state preferences within seniority-nativity matrices — agency with gaming risks."
+      },
+      {
+        "term": "SLBC",
+        "definition": "State Level Bankers' Committee — the credit-planning forum each successor state had to reconstitute."
+      },
+      {
+        "term": "Check-post economy",
+        "definition": "The 2014-17 border-tax friction between the twins — dissolved by GST's destination-based regime."
+      },
+      {
+        "term": "Institutional memory loss",
+        "definition": "The archival-training-experience depletion when one administration becomes two — reorganisation's invisible cost."
+      },
+      {
+        "term": "Schedule 12 (power)",
+        "definition": "The Act's arrangements continuing existing power purchase and sharing between successor states."
+      }
     ]
   }
 ]

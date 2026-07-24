@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Partition's ledger", "Content"],
+            "headers": [
+              "Partition's ledger",
+              "Content"
+            ],
             "rows": [
-              ["Human cost", "Deaths ~**5-10+ lakh** (estimates range to 20); **~1.4-1.8 crore displaced** — history's largest forced migration; ~1 lakh women abducted/violated (Recovery Act 1949's painful sequel)"],
-              ["Why Congress accepted", "Exhaustion + ungovernability of coalition (Interim Govt) + riots' momentum + fear of balkanisation beyond two states + Patel's 'diseased limb' realism + Mountbatten's speed; Gandhi's dissent stood apart — he spent 15 August fasting in Calcutta"],
-              ["Institutional surgery", "Armies, assets (₹55 crore dispute → Gandhi's last fast), records, even instruments divided; **Punjab & Bengal partitioned by Radcliffe**; Sylhet & NWFP referendums"],
-              ["**Rehabilitation**", "Ministry of Relief & Rehabilitation; camps (Kurukshetra's ~3 lakh); **Nilokheri (S.K. Dey's township-with-work model)**, Faridabad; evacuee-property law; East-Punjab land allotment (graded cuts — Tarlok Singh's 'standard acre'); Bengal's slower tragedy (continuing influx → Dandakaranya scheme later); refugees rebuilt Delhi, Kolkata — displacement's entrepreneurial epilogue"]
+              [
+                "Human cost",
+                "Deaths ~**5-10+ lakh** (estimates range to 20); **~1.4-1.8 crore displaced** — history's largest forced migration; ~1 lakh women abducted/violated (Recovery Act 1949's painful sequel)"
+              ],
+              [
+                "Why Congress accepted",
+                "Exhaustion + ungovernability of coalition (Interim Govt) + riots' momentum + fear of balkanisation beyond two states + Patel's 'diseased limb' realism + Mountbatten's speed; Gandhi's dissent stood apart — he spent 15 August fasting in Calcutta"
+              ],
+              [
+                "Institutional surgery",
+                "Armies, assets (₹55 crore dispute → Gandhi's last fast), records, even instruments divided; **Punjab & Bengal partitioned by Radcliffe**; Sylhet & NWFP referendums"
+              ],
+              [
+                "**Rehabilitation**",
+                "Ministry of Relief & Rehabilitation; camps (Kurukshetra's ~3 lakh); **Nilokheri (S.K. Dey's township-with-work model)**, Faridabad; evacuee-property law; East-Punjab land allotment (graded cuts — Tarlok Singh's 'standard acre'); Bengal's slower tragedy (continuing influx → Dandakaranya scheme later); refugees rebuilt Delhi, Kolkata — displacement's entrepreneurial epilogue"
+              ]
             ]
           }
         ]
@@ -56,6 +71,25 @@
             "text": "Exam tip: The two-image close — Nehru's Tryst at midnight, Gandhi fasting in Calcutta — earns the discursive mark; the rehabilitation paragraph (too often skipped) earns the content mark. Do both."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the road to 15 August & its price",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The final year:** the **Cabinet Mission (1946)** rejected Pakistan but proposed a loose federation; **Direct Action Day (Aug 1946)** and communal violence; the **Interim Government**; the **Mountbatten Plan (3 June 1947)**; and the **Radcliffe Line** partitioning Punjab & Bengal.",
+              "**The price:** the largest mass migration in history (~10-15 million displaced), communal carnage (~1 million dead), and the unresolved question of princely states and Kashmir.",
+              "**Why Partition:** the failure of power-sharing, League intransigence and Congress fatigue, colonial haste (advanced from June 1948 to August 1947), and the logic of the two-nation theory.",
+              "**Andhra register:** the region entered independence as part of Madras Presidency, its own statehood struggle (Visalandhra) still ahead."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Radcliffe Line** — drew the India-Pakistan boundary (Punjab & Bengal).",
+          "**Mountbatten Plan (3 June 1947)** → **Indian Independence Act 1947** → power transfer 15 August 1947."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -75,12 +109,30 @@
       "The Constitution is Partition's rebuttal — discuss the secular-state resolve of the founding."
     ],
     "glossary": [
-      { "term": "Mountbatten Plan", "definition": "The 3 June 1947 scheme — partition on communal-majority lines, dominion status at speed, princely states to choose — the endgame's blueprint." },
-      { "term": "Radcliffe Line", "definition": "The boundary drawn by Cyril Radcliffe's commissions through Punjab and Bengal — published after independence itself." },
-      { "term": "Evacuee property", "definition": "Assets left by migrants to the other dominion — administered/compensated under evacuee-property law; rehabilitation's currency." },
-      { "term": "Standard acre", "definition": "The productivity-weighted unit used to allot East-Punjab land to refugees with graded cuts — planned rehabilitation's tool." },
-      { "term": "Interim Government", "definition": "The Sept 1946 Congress-League executive under Nehru whose internal obstruction proved coalition impossible." },
-      { "term": "Tryst with Destiny", "definition": "Nehru's midnight address of 14-15 August 1947 — the founding speech of the sovereign republic-to-be." }
+      {
+        "term": "Mountbatten Plan",
+        "definition": "The 3 June 1947 scheme — partition on communal-majority lines, dominion status at speed, princely states to choose — the endgame's blueprint."
+      },
+      {
+        "term": "Radcliffe Line",
+        "definition": "The boundary drawn by Cyril Radcliffe's commissions through Punjab and Bengal — published after independence itself."
+      },
+      {
+        "term": "Evacuee property",
+        "definition": "Assets left by migrants to the other dominion — administered/compensated under evacuee-property law; rehabilitation's currency."
+      },
+      {
+        "term": "Standard acre",
+        "definition": "The productivity-weighted unit used to allot East-Punjab land to refugees with graded cuts — planned rehabilitation's tool."
+      },
+      {
+        "term": "Interim Government",
+        "definition": "The Sept 1946 Congress-League executive under Nehru whose internal obstruction proved coalition impossible."
+      },
+      {
+        "term": "Tryst with Destiny",
+        "definition": "Nehru's midnight address of 14-15 August 1947 — the founding speech of the sovereign republic-to-be."
+      }
     ]
   },
   {
@@ -96,12 +148,27 @@
           },
           {
             "type": "table",
-            "headers": ["Hyderabad 1947-48", "Content"],
+            "headers": [
+              "Hyderabad 1947-48",
+              "Content"
+            ],
             "rows": [
-              ["The Nizam's gambit", "Independence ambition (Osman Ali Khan); **Standstill Agreement (Nov 1947)**; arms procurement; **Razakars under Kasim Razvi (Ittehad-ul-Muslimeen)** terrorising the join-India movement"],
-              ["The people's struggle", "**Hyderabad State Congress satyagraha (Swami Ramananda Tirtha)**; border camps from Indian territory; **Telangana's communist-led peasant struggle** simultaneously fighting Nizam-deshmukh order; Vande Mataram legacy cadres"],
-              ["**Operation Polo (Police Action), 13-17 September 1948**", "Five days; Nizam surrendered; Razvi jailed; **communal violence in the aftermath — the Sundarlal Committee's report** (kept unpublished for decades) recorded large-scale killings: the honest asterisk"],
-              ["Aftermath", "Military → civilian administration (M.K. Vellodi); Nizam as Rajpramukh; **mulki rules' continuation**; 1952 first elections; Hyderabad state lived until **1956's trifurcation** — Telangana to Andhra (→AP), Marathwada to Bombay, Kannada districts to Mysore"]
+              [
+                "The Nizam's gambit",
+                "Independence ambition (Osman Ali Khan); **Standstill Agreement (Nov 1947)**; arms procurement; **Razakars under Kasim Razvi (Ittehad-ul-Muslimeen)** terrorising the join-India movement"
+              ],
+              [
+                "The people's struggle",
+                "**Hyderabad State Congress satyagraha (Swami Ramananda Tirtha)**; border camps from Indian territory; **Telangana's communist-led peasant struggle** simultaneously fighting Nizam-deshmukh order; Vande Mataram legacy cadres"
+              ],
+              [
+                "**Operation Polo (Police Action), 13-17 September 1948**",
+                "Five days; Nizam surrendered; Razvi jailed; **communal violence in the aftermath — the Sundarlal Committee's report** (kept unpublished for decades) recorded large-scale killings: the honest asterisk"
+              ],
+              [
+                "Aftermath",
+                "Military → civilian administration (M.K. Vellodi); Nizam as Rajpramukh; **mulki rules' continuation**; 1952 first elections; Hyderabad state lived until **1956's trifurcation** — Telangana to Andhra (→AP), Marathwada to Bombay, Kannada districts to Mysore"
+              ]
             ]
           },
           {
@@ -144,6 +211,25 @@
             "text": "Exam tip: For APPSC, the Hyderabad-Telangana strand is not a footnote but the headline — write Police Action WITH the people's struggle (Ramananda Tirtha + communist peasantry) and WITH the Sundarlal honesty, then carry the Gentlemen's Agreement forward to 2014."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — integration of the princely states",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The task:** ~**565 princely states** to integrate; the **Instrument of Accession** (defence, external affairs, communications) engineered by **Sardar Patel & V.P. Menon** through the States Department.",
+              "**The hard cases:** **Junagadh** (plebiscite), **Hyderabad** (**Operation Polo, 1948** — police action against the Nizam/Razakars), and **Kashmir** (accession after the 1947 tribal invasion).",
+              "**Method:** a blend of persuasion, the appeal to patriotism, the 'privy purse' guarantee, and, where needed, force — 'the iron and velvet' of Patel's statecraft.",
+              "**AP link:** the **Hyderabad State** integration (1948) directly shaped the future Telangana region and, later, the Visalandhra question."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Instrument of Accession** — Sardar Patel & V.P. Menon; ~565 princely states.",
+          "**Operation Polo (1948)** — integration of Hyderabad State (police action)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -164,12 +250,30 @@
       "Compare Junagadh, Kashmir and Hyderabad as three grammars of accession."
     ],
     "glossary": [
-      { "term": "Paramountcy", "definition": "The Crown's suzerainty over princely states — lapsing at independence, leaving accession to rulers' choice." },
-      { "term": "Instrument of Accession", "definition": "The minimal treaty (three subjects) by which princely states joined a dominion — Menon's speed-friendly device." },
-      { "term": "Privy purse", "definition": "Guaranteed payments to acceding rulers — integration's price, abolished in 1971." },
-      { "term": "Police Action", "definition": "Operation Polo (Sept 1948) — the five-day military integration of Hyderabad state." },
-      { "term": "Mulki rules", "definition": "Hyderabad-era domicile requirements for public employment — carried into AP's safeguards and the Telangana question." },
-      { "term": "Gentlemen's Agreement (1956)", "definition": "The Andhra-Telangana pact of safeguards (regional committee, jobs, deputy-CM) conditioning the AP merger — its erosion fed bifurcation politics." }
+      {
+        "term": "Paramountcy",
+        "definition": "The Crown's suzerainty over princely states — lapsing at independence, leaving accession to rulers' choice."
+      },
+      {
+        "term": "Instrument of Accession",
+        "definition": "The minimal treaty (three subjects) by which princely states joined a dominion — Menon's speed-friendly device."
+      },
+      {
+        "term": "Privy purse",
+        "definition": "Guaranteed payments to acceding rulers — integration's price, abolished in 1971."
+      },
+      {
+        "term": "Police Action",
+        "definition": "Operation Polo (Sept 1948) — the five-day military integration of Hyderabad state."
+      },
+      {
+        "term": "Mulki rules",
+        "definition": "Hyderabad-era domicile requirements for public employment — carried into AP's safeguards and the Telangana question."
+      },
+      {
+        "term": "Gentlemen's Agreement (1956)",
+        "definition": "The Andhra-Telangana pact of safeguards (regional committee, jobs, deputy-CM) conditioning the AP merger — its erosion fed bifurcation politics."
+      }
     ]
   },
   {
@@ -185,12 +289,27 @@
           },
           {
             "type": "table",
-            "headers": ["Early-republic economic policy", "Content"],
+            "headers": [
+              "Early-republic economic policy",
+              "Content"
+            ],
             "rows": [
-              ["Land reform (states)", "**Zamindari abolition (Madras Estates Abolition Act 1948** covering Andhra estates; UP/Bihar acts 1950-51); tenancy reform; ceilings (patchy); the First Amendment (1951) + **Ninth Schedule** shielding reform from litigation"],
-              ["Planning", "**Planning Commission (15 Mar 1950)**; **First Plan (1951-56)** — agriculture-Harrod-Domar; **Second Plan (1956-61)** — **Mahalanobis heavy-industry model**; steel trio (Bhilai-Rourkela-Durgapur)"],
-              ["Industrial framework", "IPR **1948** (mixed economy) → IPR **1956** (the 'economic constitution': Schedule A public monopoly) + Industries Act 1951 (licensing)"],
-              ["Science-institutions", "IITs (Kharagpur 1951–), CSIR labs, AEC (1948)/DAE (1954 — Bhabha), community development (**2 Oct 1952**) & NES; the dams — 'temples of modern India' (**Nagarjuna Sagar's foundation, 1955** — Nehru's phrase-site on Telugu soil; Bhakra, Hirakud, DVC)"]
+              [
+                "Land reform (states)",
+                "**Zamindari abolition (Madras Estates Abolition Act 1948** covering Andhra estates; UP/Bihar acts 1950-51); tenancy reform; ceilings (patchy); the First Amendment (1951) + **Ninth Schedule** shielding reform from litigation"
+              ],
+              [
+                "Planning",
+                "**Planning Commission (15 Mar 1950)**; **First Plan (1951-56)** — agriculture-Harrod-Domar; **Second Plan (1956-61)** — **Mahalanobis heavy-industry model**; steel trio (Bhilai-Rourkela-Durgapur)"
+              ],
+              [
+                "Industrial framework",
+                "IPR **1948** (mixed economy) → IPR **1956** (the 'economic constitution': Schedule A public monopoly) + Industries Act 1951 (licensing)"
+              ],
+              [
+                "Science-institutions",
+                "IITs (Kharagpur 1951–), CSIR labs, AEC (1948)/DAE (1954 — Bhabha), community development (**2 Oct 1952**) & NES; the dams — 'temples of modern India' (**Nagarjuna Sagar's foundation, 1955** — Nehru's phrase-site on Telugu soil; Bhakra, Hirakud, DVC)"
+              ]
             ]
           }
         ]
@@ -230,6 +349,28 @@
             "text": "Exam tip: 'The Constitution answered Partition; the Plan answered poverty; non-alignment answered the Cold War' — that one-line triad, then the evidence, then the honest counterweights: the complete top-band shape."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — nation-building: Constitution & foreign policy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Constitution-making:** the Constituent Assembly (1946-49), the Objectives Resolution, and the founding of a democratic republic (link to Paper-III).",
+              "**Foreign policy — Nehru's grammar:** **Non-Alignment** (leadership of NAM, Bandung 1955), **Panchsheel (1954, with China)**, anti-colonialism, and the ideal of an independent voice — tested by the **1962 China war**.",
+              "**Early state-building:** linguistic reorganisation of states (**States Reorganisation Act 1956**), planning (Five-Year Plans, Mahalanobis), and the integration of a diverse polity.",
+              "**AP as the trigger:** **Andhra State (1953)**, born of Potti Sriramulu's sacrifice, forced the linguistic reorganisation of the whole country — a pivotal AP contribution to nation-building."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Panchsheel (1954)** — Five Principles of Peaceful Coexistence; **NAM** — Belgrade 1961 (roots at Bandung 1955).",
+          "**States Reorganisation Act 1956** — reorganised states on linguistic lines; **Andhra State 1953** was the first linguistic state."
+        ],
+        "mainsAngles": [
+          "'Andhra's creation in 1953 set in motion the linguistic reorganisation of India' — examine its national significance."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -250,12 +391,30 @@
       "Non-alignment was self-interest enlightened, not neutrality — assess Nehru's foreign policy through Bandung, Panchsheel and 1962."
     ],
     "glossary": [
-      { "term": "Objectives Resolution", "definition": "Nehru's December 1946 declaration of the Assembly's aims — sovereignty, justice, equality — transmuted into the Preamble." },
-      { "term": "Ninth Schedule", "definition": "The First Amendment's shelter for land-reform laws from fundamental-rights challenge — reform's constitutional armour." },
-      { "term": "Mahalanobis model", "definition": "The Second Plan's heavy-industry-first strategy — capital goods today for consumer goods tomorrow." },
-      { "term": "Non-alignment", "definition": "Independent judgment outside Cold-War blocs, preserving autonomy and aid access — India's founding strategic doctrine." },
-      { "term": "Panchsheel", "definition": "The five principles of peaceful coexistence (1954) — sovereignty, non-aggression, non-interference, equality, coexistence." },
-      { "term": "Community Development Programme", "definition": "The 1952 block-based rural development apparatus — planning's village arm and Panchayati Raj's precursor." }
+      {
+        "term": "Objectives Resolution",
+        "definition": "Nehru's December 1946 declaration of the Assembly's aims — sovereignty, justice, equality — transmuted into the Preamble."
+      },
+      {
+        "term": "Ninth Schedule",
+        "definition": "The First Amendment's shelter for land-reform laws from fundamental-rights challenge — reform's constitutional armour."
+      },
+      {
+        "term": "Mahalanobis model",
+        "definition": "The Second Plan's heavy-industry-first strategy — capital goods today for consumer goods tomorrow."
+      },
+      {
+        "term": "Non-alignment",
+        "definition": "Independent judgment outside Cold-War blocs, preserving autonomy and aid access — India's founding strategic doctrine."
+      },
+      {
+        "term": "Panchsheel",
+        "definition": "The five principles of peaceful coexistence (1954) — sovereignty, non-aggression, non-interference, equality, coexistence."
+      },
+      {
+        "term": "Community Development Programme",
+        "definition": "The 1952 block-based rural development apparatus — planning's village arm and Panchayati Raj's precursor."
+      }
     ]
   }
 ]
