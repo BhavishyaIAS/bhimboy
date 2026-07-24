@@ -130,6 +130,32 @@ node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/paper2-archiv
 node --env-file=.env.local scripts/update-paper2-archive-answers.mjs
 ```
 
+### Paper-III archive (2008–2024, APPSC + TGPSC)
+
+`paper3-archive.json` holds Mains **Paper-III** (Polity, Governance, Law &
+Ethics) PYQs from years whose full papers are not ingested — 68 questions
+across APPSC 2008 / 2011 / 2012 / 2016 / 2017 / 2024 and TGPSC 2016 / 2024
+(including two 2020 APPSC questions — office of profit; Rajya Sabha vs Lok
+Sabha — absent from the ingested 2020 paper). TGPSC rows use the paper label
+`Paper-III: Polity, Governance, Law & Ethics (TGPSC)`; APPSC rows reuse the
+standard `Paper-III: Polity, Governance, Law & Ethics` label. Questions are
+transcribed verbatim from the official Paper-III compilation and mapped to the
+`MN-PIII-*` micro-themes (PC = Polity & Constitution, PAG = Public
+Administration & Governance, EIPS = Ethics, LII = Law). Model answers are
+authored fresh — the compilation's model-answer substance **merged** with own
+knowledge and recent case law, fully restructured into original prose — in
+`answers/paper3-archive-answers.json`, keyed `Q<no>`, and attached by:
+
+```bash
+node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/paper3-archive.json
+node --env-file=.env.local scripts/update-paper3-archive-answers.mjs
+```
+
+The **2020 / 2023 / 2025** Paper-III model answers already ingested were
+**overhauled** in place (merging the compilation's worked examples, data and
+recent developments with the existing answers) via the per-year
+`answers/<year>-mains-answers.json` files and `update-model-answers.mjs`.
+
 ## Model answers (Mains)
 
 Authored model answers live in `data/pyq/answers/<year>-mains-answers.json` as a
