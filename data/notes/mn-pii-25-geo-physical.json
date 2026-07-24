@@ -12,21 +12,48 @@
           },
           {
             "type": "table",
-            "headers": ["Division (India)", "Character"],
+            "headers": [
+              "Division (India)",
+              "Character"
+            ],
             "rows": [
-              ["**Himalayas**", "Young **fold mountains**; Greater (Himadri), Lesser (Himachal), Outer (Shiwalik); source of perennial rivers; climatic barrier."],
-              ["**Northern Plains**", "**Alluvial** Indo-Gangetic-Brahmaputra plains; bhabar-terai-bhangar-khadar; India's granary."],
-              ["**Peninsular Plateau**", "Ancient **Gondwana** landmass; Deccan trap, Western & **Eastern Ghats**, Central Highlands; mineral-rich."],
-              ["**Coastal Plains & Islands**", "East (deltaic, wider) & West (narrow) coasts; **Andaman-Nicobar (volcanic/tectonic), Lakshadweep (coral)**."]
+              [
+                "**Himalayas**",
+                "Young **fold mountains**; Greater (Himadri), Lesser (Himachal), Outer (Shiwalik); source of perennial rivers; climatic barrier."
+              ],
+              [
+                "**Northern Plains**",
+                "**Alluvial** Indo-Gangetic-Brahmaputra plains; bhabar-terai-bhangar-khadar; India's granary."
+              ],
+              [
+                "**Peninsular Plateau**",
+                "Ancient **Gondwana** landmass; Deccan trap, Western & **Eastern Ghats**, Central Highlands; mineral-rich."
+              ],
+              [
+                "**Coastal Plains & Islands**",
+                "East (deltaic, wider) & West (narrow) coasts; **Andaman-Nicobar (volcanic/tectonic), Lakshadweep (coral)**."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["AP physiographic zone", "Features"],
+            "headers": [
+              "AP physiographic zone",
+              "Features"
+            ],
             "rows": [
-              ["**Coastal Plains**", "Wide, fertile **Godavari-Krishna-Penna deltas**; the rice bowl; Kolleru & Pulicat lagoons."],
-              ["**Eastern Ghats**", "Discontinuous hills; **Araku, Horsley Hills**; highest AP peak **Arma Konda (~1680 m)**; broken by river gaps."],
-              ["**Rayalaseema plateau**", "Semi-arid interior (Kadapa, Kurnool, Anantapur); part of the Deccan; drought-prone."]
+              [
+                "**Coastal Plains**",
+                "Wide, fertile **Godavari-Krishna-Penna deltas**; the rice bowl; Kolleru & Pulicat lagoons."
+              ],
+              [
+                "**Eastern Ghats**",
+                "Discontinuous hills; **Araku, Horsley Hills**; highest AP peak **Arma Konda (~1680 m)**; broken by river gaps."
+              ],
+              [
+                "**Rayalaseema plateau**",
+                "Semi-arid interior (Kadapa, Kurnool, Anantapur); part of the Deccan; drought-prone."
+              ]
             ]
           }
         ]
@@ -66,6 +93,25 @@
             "text": "Exam tip: Four Indian divisions + AP's three zones (deltaic coast, Eastern Ghats, Rayalaseema plateau); for climate stress AP's dependence on the NE (retreating) monsoon and Bay-of-Bengal cyclones, then close on climate change (delta submergence, drought)."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — AP's physiography & climate",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Three physical divisions:** the **coastal plains** (fertile Krishna-Godavari deltas), the **Eastern Ghats** (discontinuous — Papikonda, Nallamala, Seshachalam; highest peak **Arma Konda ~1680 m**), and the **interior plateau (Rayalaseema)**.",
+              "**Coastline:** ~**974 km, the second-longest** in India; lagoons (**Kolleru** — freshwater lake between the deltas; **Pulicat** — brackish lagoon shared with Tamil Nadu).",
+              "**Climate:** tropical; SW monsoon (June-Sep) + a significant **NE/retreating monsoon** contribution; cyclone exposure on the coast; drought-prone Rayalaseema.",
+              "**Climatic change concern:** sea-level rise threatening the low deltas, changing monsoon variability, and heat stress — the adaptation agenda."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Arma Konda** (~1680 m, Eastern Ghats) — highest peak in Andhra Pradesh.",
+          "**Kolleru** — freshwater lake (Ramsar site) between the Krishna & Godavari deltas; **Pulicat** — brackish lagoon."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -85,11 +131,26 @@
       "Assess the vulnerability of the Andhra coast to cyclones and sea-level rise."
     ],
     "glossary": [
-      {"term": "Peninsular Plateau", "definition": "The ancient, stable Gondwana landmass of southern India, of which Rayalaseema and the Eastern Ghats form part."},
-      {"term": "Retreating (NE) monsoon", "definition": "The Oct-Dec monsoon that brings much of coastal Andhra's rainfall as the SW monsoon withdraws."},
-      {"term": "Eastern Ghats", "definition": "The discontinuous hill ranges along India's east coast; in AP they include Araku and the highest peak, Arma Konda."},
-      {"term": "Delta", "definition": "The fertile depositional plain at a river's mouth; the Godavari and Krishna deltas form AP's rice bowl."},
-      {"term": "Rayalaseema", "definition": "The semi-arid, drought-prone interior plateau region of southern Andhra Pradesh (Kadapa, Kurnool, Anantapur, etc.)."}
+      {
+        "term": "Peninsular Plateau",
+        "definition": "The ancient, stable Gondwana landmass of southern India, of which Rayalaseema and the Eastern Ghats form part."
+      },
+      {
+        "term": "Retreating (NE) monsoon",
+        "definition": "The Oct-Dec monsoon that brings much of coastal Andhra's rainfall as the SW monsoon withdraws."
+      },
+      {
+        "term": "Eastern Ghats",
+        "definition": "The discontinuous hill ranges along India's east coast; in AP they include Araku and the highest peak, Arma Konda."
+      },
+      {
+        "term": "Delta",
+        "definition": "The fertile depositional plain at a river's mouth; the Godavari and Krishna deltas form AP's rice bowl."
+      },
+      {
+        "term": "Rayalaseema",
+        "definition": "The semi-arid, drought-prone interior plateau region of southern Andhra Pradesh (Kadapa, Kurnool, Anantapur, etc.)."
+      }
     ]
   },
   {
@@ -105,22 +166,52 @@
           },
           {
             "type": "table",
-            "headers": ["Soil", "Where & use (India / AP)"],
+            "headers": [
+              "Soil",
+              "Where & use (India / AP)"
+            ],
             "rows": [
-              ["**Alluvial**", "Northern plains & **AP river deltas/coast**; most fertile; rice, sugarcane."],
-              ["**Black (regur)**", "Deccan trap; **Rayalaseema & interior AP**; moisture-retentive; **cotton** ('black cotton soil')."],
-              ["**Red**", "Peninsula; **much of AP (Telangana-type & Rayalaseema uplands)**; iron-rich, less fertile; millets, groundnut."],
-              ["**Laterite**", "High-rainfall Ghats; parts of the **Eastern Ghats/coast**; leached; plantation/cashew."]
+              [
+                "**Alluvial**",
+                "Northern plains & **AP river deltas/coast**; most fertile; rice, sugarcane."
+              ],
+              [
+                "**Black (regur)**",
+                "Deccan trap; **Rayalaseema & interior AP**; moisture-retentive; **cotton** ('black cotton soil')."
+              ],
+              [
+                "**Red**",
+                "Peninsula; **much of AP (Telangana-type & Rayalaseema uplands)**; iron-rich, less fertile; millets, groundnut."
+              ],
+              [
+                "**Laterite**",
+                "High-rainfall Ghats; parts of the **Eastern Ghats/coast**; leached; plantation/cashew."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["AP river", "Note"],
+            "headers": [
+              "AP river",
+              "Note"
+            ],
             "rows": [
-              ["**Godavari**", "Peninsula's **longest** (~1465 km); 'Dakshina Ganga'; rises Trimbak (Maharashtra); huge delta; Polavaram project."],
-              ["**Krishna**", "2nd-longest peninsular; rises Mahabaleshwar; Nagarjunasagar & Srisailam dams; Krishna delta."],
-              ["**Penna (Pennar)**", "Rayalaseema's main river; rises in Karnataka; Somasila reservoir."],
-              ["**Vamsadhara & Nagavali**", "North-coastal (Srikakulam-Vizianagaram) rivers."]
+              [
+                "**Godavari**",
+                "Peninsula's **longest** (~1465 km); 'Dakshina Ganga'; rises Trimbak (Maharashtra); huge delta; Polavaram project."
+              ],
+              [
+                "**Krishna**",
+                "2nd-longest peninsular; rises Mahabaleshwar; Nagarjunasagar & Srisailam dams; Krishna delta."
+              ],
+              [
+                "**Penna (Pennar)**",
+                "Rayalaseema's main river; rises in Karnataka; Somasila reservoir."
+              ],
+              [
+                "**Vamsadhara & Nagavali**",
+                "North-coastal (Srikakulam-Vizianagaram) rivers."
+              ]
             ]
           }
         ]
@@ -160,6 +251,25 @@
             "text": "Exam tip: Link soil to crop and river to delta — alluvial deltas of the Godavari-Krishna give AP its rice bowl, black regur gives cotton; then raise the live water issue (Krishna-Godavari inter-state disputes, groundwater stress) for analytical marks."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — soils, rivers & the delta economy",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Soils:** **alluvial** (deltas — highly fertile, paddy/sugarcane), **black/regur** (interior — cotton, groundnut), **red** (Rayalaseema — millets, groundnut), **laterite** and **coastal saline/sandy** soils.",
+              "**Rivers:** the **Godavari** (largest peninsular river, 'Dakshina Ganga') and the **Krishna** are the lifelines; also the **Pennar, Vamsadhara, Nagavali, and Tungabhadra** (a Krishna tributary).",
+              "**Delta economy:** the Krishna-Godavari deltas are AP's rice bowl (Cotton's anicuts); the KG basin also holds offshore oil & gas.",
+              "**Issues:** delta salinity, waterlogging, upstream disputes (Krishna), and the centrality of Polavaram for water security."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Godavari** — largest river of peninsular India ('Dakshina Ganga'); rises at Trimbak (Maharashtra).",
+          "**Black (regur) soil** in interior AP suits cotton; **alluvial** deltas suit paddy."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -179,11 +289,26 @@
       "Examine soil degradation and conservation in Andhra Pradesh."
     ],
     "glossary": [
-      {"term": "Regur", "definition": "Black cotton soil formed on the Deccan trap; moisture-retentive and ideal for cotton, found in interior AP."},
-      {"term": "Godavari", "definition": "The longest peninsular river ('Dakshina Ganga'), draining much of AP and building the Godavari delta."},
-      {"term": "Delta", "definition": "The alluvial fan at a river mouth; the Godavari-Krishna deltas form AP's rice bowl."},
-      {"term": "Polavaram", "definition": "A major multipurpose irrigation project on the Godavari, central to AP's water strategy."},
-      {"term": "Laterite soil", "definition": "A leached, iron-rich soil of high-rainfall areas, suited to cashew and plantation crops along parts of AP's coast/Ghats."}
+      {
+        "term": "Regur",
+        "definition": "Black cotton soil formed on the Deccan trap; moisture-retentive and ideal for cotton, found in interior AP."
+      },
+      {
+        "term": "Godavari",
+        "definition": "The longest peninsular river ('Dakshina Ganga'), draining much of AP and building the Godavari delta."
+      },
+      {
+        "term": "Delta",
+        "definition": "The alluvial fan at a river mouth; the Godavari-Krishna deltas form AP's rice bowl."
+      },
+      {
+        "term": "Polavaram",
+        "definition": "A major multipurpose irrigation project on the Godavari, central to AP's water strategy."
+      },
+      {
+        "term": "Laterite soil",
+        "definition": "A leached, iron-rich soil of high-rainfall areas, suited to cashew and plantation crops along parts of AP's coast/Ghats."
+      }
     ]
   },
   {
@@ -199,12 +324,27 @@
           },
           {
             "type": "table",
-            "headers": ["Geological unit", "Significance in AP"],
+            "headers": [
+              "Geological unit",
+              "Significance in AP"
+            ],
             "rows": [
-              ["**Archaean (Dharwar/gneiss)**", "Oldest crystalline basement; hosts **iron, manganese, gold-traces, granite**."],
-              ["**Cuddapah & Kurnool systems**", "Proterozoic sedimentary basins (Rayalaseema); **limestone, barytes (Mangampet — world's largest), lead-zinc, uranium (Tummalapalle)**."],
-              ["**Gondwana (Godavari valley)**", "Coal-bearing (**Singareni coalfields**), the peninsula's main coal source."],
-              ["**Eastern Ghats (khondalite/charnockite)**", "**Bauxite, graphite, manganese, dimension stone**; the north-coastal mineral belt."]
+              [
+                "**Archaean (Dharwar/gneiss)**",
+                "Oldest crystalline basement; hosts **iron, manganese, gold-traces, granite**."
+              ],
+              [
+                "**Cuddapah & Kurnool systems**",
+                "Proterozoic sedimentary basins (Rayalaseema); **limestone, barytes (Mangampet — world's largest), lead-zinc, uranium (Tummalapalle)**."
+              ],
+              [
+                "**Gondwana (Godavari valley)**",
+                "Coal-bearing (**Singareni coalfields**), the peninsula's main coal source."
+              ],
+              [
+                "**Eastern Ghats (khondalite/charnockite)**",
+                "**Bauxite, graphite, manganese, dimension stone**; the north-coastal mineral belt."
+              ]
             ]
           }
         ]
@@ -244,6 +384,25 @@
             "text": "Exam tip: Anchor AP geology on four belts and their star minerals — Mangampet barytes (world's largest), Tummalapalle uranium, Singareni coal, Eastern-Ghat bauxite, and granite exports — plus the cement-driving limestone; note the sand/granite illegal-mining angle for balance."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — geology & mineral wealth",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Geology:** ancient Archaean/Dharwar rocks in the interior, Cuddapah & Kurnool sedimentary basins (rich in minerals), and coastal alluvium.",
+              "**Minerals:** **barytes (Mangampet — among the world's largest), limestone, dolomite, mica, beach-sand heavy minerals (ilmenite, garnet, monazite), granite/quartz, and gold (traces)**; the KG basin's hydrocarbons.",
+              "**Construction & industrial materials:** limestone (cement), granite (a major export), and clays.",
+              "**Issues:** sustainable mining, District Mineral Foundation funds for local development, and the balance with Fifth-Schedule tribal rights in agency areas."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Mangampet (YSR/Kadapa)** — one of the world's largest **barytes** deposits.",
+          "AP beach sands are rich in **heavy minerals** (ilmenite, garnet, monazite); **Cuddapah basin** is mineral-rich."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -263,11 +422,26 @@
       "Examine the environmental concerns associated with mining in Andhra Pradesh."
     ],
     "glossary": [
-      {"term": "Peninsular shield", "definition": "The ancient stable Archaean crust underlying southern India, bearing AP's oldest rocks and minerals."},
-      {"term": "Cuddapah system", "definition": "A Proterozoic sedimentary basin in Rayalaseema rich in limestone, barytes and lead-zinc."},
-      {"term": "Barytes", "definition": "A barium-sulphate mineral (used in oil-drilling muds, paints); AP's Mangampet is the world's largest deposit."},
-      {"term": "Khondalite", "definition": "A metamorphic rock of the Eastern Ghats, associated with bauxite, graphite and used as dimension stone."},
-      {"term": "Singareni", "definition": "The Gondwana coalfields of the Godavari valley — the principal coal source of peninsular India."}
+      {
+        "term": "Peninsular shield",
+        "definition": "The ancient stable Archaean crust underlying southern India, bearing AP's oldest rocks and minerals."
+      },
+      {
+        "term": "Cuddapah system",
+        "definition": "A Proterozoic sedimentary basin in Rayalaseema rich in limestone, barytes and lead-zinc."
+      },
+      {
+        "term": "Barytes",
+        "definition": "A barium-sulphate mineral (used in oil-drilling muds, paints); AP's Mangampet is the world's largest deposit."
+      },
+      {
+        "term": "Khondalite",
+        "definition": "A metamorphic rock of the Eastern Ghats, associated with bauxite, graphite and used as dimension stone."
+      },
+      {
+        "term": "Singareni",
+        "definition": "The Gondwana coalfields of the Godavari valley — the principal coal source of peninsular India."
+      }
     ]
   },
   {
@@ -283,12 +457,27 @@
           },
           {
             "type": "table",
-            "headers": ["Project", "River & significance"],
+            "headers": [
+              "Project",
+              "River & significance"
+            ],
             "rows": [
-              ["**Nagarjunasagar**", "**Krishna**; one of the world's largest **masonry dams**; huge irrigation + hydel; a modern 'temple of resurgent India'."],
-              ["**Srisailam**", "**Krishna**; major **hydro-electric** + irrigation; deep gorge reservoir; feeds Rayalaseema (SRBC, Handri-Neeva)."],
-              ["**Polavaram**", "**Godavari**; AP's **flagship multipurpose** project (irrigation, power, Krishna-Godavari link); national-project status."],
-              ["**Prakasam Barrage / Cotton's anicuts**", "**Krishna/Godavari deltas**; **Sir Arthur Cotton's Dowleswaram (Godavari) & Prakasam (Krishna) barrages** — the historic delta-irrigation backbone."]
+              [
+                "**Nagarjunasagar**",
+                "**Krishna**; one of the world's largest **masonry dams**; huge irrigation + hydel; a modern 'temple of resurgent India'."
+              ],
+              [
+                "**Srisailam**",
+                "**Krishna**; major **hydro-electric** + irrigation; deep gorge reservoir; feeds Rayalaseema (SRBC, Handri-Neeva)."
+              ],
+              [
+                "**Polavaram**",
+                "**Godavari**; AP's **flagship multipurpose** project (irrigation, power, Krishna-Godavari link); national-project status."
+              ],
+              [
+                "**Prakasam Barrage / Cotton's anicuts**",
+                "**Krishna/Godavari deltas**; **Sir Arthur Cotton's Dowleswaram (Godavari) & Prakasam (Krishna) barrages** — the historic delta-irrigation backbone."
+              ]
             ]
           }
         ]
@@ -328,6 +517,25 @@
             "text": "Exam tip: Tie each dam to its river and purpose, trace the Cotton-anicut-to-Polavaram arc, and highlight Rayalaseema lift schemes (Handri-Neeva, Telugu Ganga) plus the live issues (inter-state disputes, Polavaram R&R) for analytical depth."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — reservoirs, dams & contemporary issues",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Major projects:** **Nagarjuna Sagar** (one of the world's largest masonry dams, on the Krishna), **Srisailam** (hydel + irrigation), the **Godavari (Dowleswaram/Cotton Barrage)**, **Somasila & Telugu Ganga** (Pennar/Krishna water to Rayalaseema & Chennai), and **Polavaram** (under construction — the keystone multipurpose national project).",
+              "**Purpose:** irrigation, hydropower, drinking water, and flood moderation — the backbone of AP's agrarian economy.",
+              "**Contemporary issues:** inter-state sharing (KRMB/GRMB, Telangana disputes), siltation, displacement & R&R (Polavaram submergence, tribal rehabilitation), and completion delays.",
+              "**Craft:** link a named project to a specific benefit and a specific controversy (e.g., Polavaram → Rayalaseema/delta water vs submergence of tribal villages)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Nagarjuna Sagar** — on the Krishna; among the largest masonry dams; **Srisailam** — hydel + irrigation.",
+          "**Polavaram** — multipurpose national project on the Godavari (under construction)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -347,11 +555,26 @@
       "Discuss inter-state river water disputes affecting Andhra Pradesh."
     ],
     "glossary": [
-      {"term": "Multipurpose project", "definition": "A river-valley scheme serving several aims at once — irrigation, hydro-power, water supply, flood control and fisheries."},
-      {"term": "Anicut", "definition": "A masonry weir diverting river water for irrigation; Cotton's Godavari-Krishna anicuts created AP's delta prosperity."},
-      {"term": "Polavaram", "definition": "AP's flagship multipurpose Godavari project, with national-project status and a Godavari-Krishna link."},
-      {"term": "Lift irrigation", "definition": "Pumping water uphill to command areas beyond gravity flow — used to bring Krishna/Penna water to Rayalaseema."},
-      {"term": "Water Disputes Tribunal", "definition": "A statutory body adjudicating inter-state river-water sharing (e.g. the Krishna and Godavari tribunals affecting AP)."}
+      {
+        "term": "Multipurpose project",
+        "definition": "A river-valley scheme serving several aims at once — irrigation, hydro-power, water supply, flood control and fisheries."
+      },
+      {
+        "term": "Anicut",
+        "definition": "A masonry weir diverting river water for irrigation; Cotton's Godavari-Krishna anicuts created AP's delta prosperity."
+      },
+      {
+        "term": "Polavaram",
+        "definition": "AP's flagship multipurpose Godavari project, with national-project status and a Godavari-Krishna link."
+      },
+      {
+        "term": "Lift irrigation",
+        "definition": "Pumping water uphill to command areas beyond gravity flow — used to bring Krishna/Penna water to Rayalaseema."
+      },
+      {
+        "term": "Water Disputes Tribunal",
+        "definition": "A statutory body adjudicating inter-state river-water sharing (e.g. the Krishna and Godavari tribunals affecting AP)."
+      }
     ]
   },
   {
@@ -367,21 +590,48 @@
           },
           {
             "type": "table",
-            "headers": ["Vegetation type", "Where in AP"],
+            "headers": [
+              "Vegetation type",
+              "Where in AP"
+            ],
             "rows": [
-              ["**Tropical moist deciduous**", "Wetter Eastern Ghats (Araku, Nallamala) — teak, terminalia; the main forest type."],
-              ["**Tropical dry deciduous**", "Rayalaseema & interior — red sanders (endemic), hardwoods; degraded to scrub."],
-              ["**Thorn/scrub**", "Arid Rayalaseema (Anantapur) — acacia, euphorbia."],
-              ["**Littoral/mangrove & tidal**", "**Coringa (Godavari) & Krishna estuary mangroves** — coastal protection & fisheries."]
+              [
+                "**Tropical moist deciduous**",
+                "Wetter Eastern Ghats (Araku, Nallamala) — teak, terminalia; the main forest type."
+              ],
+              [
+                "**Tropical dry deciduous**",
+                "Rayalaseema & interior — red sanders (endemic), hardwoods; degraded to scrub."
+              ],
+              [
+                "**Thorn/scrub**",
+                "Arid Rayalaseema (Anantapur) — acacia, euphorbia."
+              ],
+              [
+                "**Littoral/mangrove & tidal**",
+                "**Coringa (Godavari) & Krishna estuary mangroves** — coastal protection & fisheries."
+              ]
             ]
           },
           {
             "type": "table",
-            "headers": ["Relief feature", "Note"],
+            "headers": [
+              "Relief feature",
+              "Note"
+            ],
             "rows": [
-              ["**Eastern Ghats**", "Discontinuous ranges; **Nallamala, Seshachalam, Erramala, Horsley Hills, Araku valley**; **Arma Konda** highest."],
-              ["**Nallamala Hills**", "Krishna-gorge ranges; **Nagarjunasagar-Srisailam Tiger Reserve**; Chenchu tribal home."],
-              ["**Seshachalam Hills**", "Tirupati; **biosphere reserve**; endemic **red sanders**."]
+              [
+                "**Eastern Ghats**",
+                "Discontinuous ranges; **Nallamala, Seshachalam, Erramala, Horsley Hills, Araku valley**; **Arma Konda** highest."
+              ],
+              [
+                "**Nallamala Hills**",
+                "Krishna-gorge ranges; **Nagarjunasagar-Srisailam Tiger Reserve**; Chenchu tribal home."
+              ],
+              [
+                "**Seshachalam Hills**",
+                "Tirupati; **biosphere reserve**; endemic **red sanders**."
+              ]
             ]
           }
         ]
@@ -421,6 +671,25 @@
             "text": "Exam tip: Present a rainfall-driven vegetation gradient and the Eastern-Ghat relief (Nallamala, Seshachalam, Arma Konda), with red sanders (endemic) and the Nagarjunasagar-Srisailam Tiger Reserve as flagships; end on the podu/red-sanders-smuggling conservation tension."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — forests, biodiversity & conservation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Forests & hills:** the **Eastern Ghats** (Papikonda, Nallamala, Seshachalam, Araku) with tropical dry & moist deciduous forests; ~17-18% of AP's area under forest.",
+              "**Biodiversity & endemism:** the **Seshachalam hills (red sandalwood/Red Sanders — endemic and CITES-protected), Nallamala (tiger reserve), and Coringa mangroves**; the Eastern Ghats are a biodiversity treasure with high endemism.",
+              "**Protected areas:** **Nagarjunasagar-Srisailam Tiger Reserve** (India's largest), **Papikonda & Sri Venkateswara National Parks, Coringa & Krishna Wildlife Sanctuaries (mangroves), Kolleru (Ramsar)**.",
+              "**Conservation issues:** Red Sanders smuggling, podu (shifting) cultivation, mining pressure, and mangrove protection against cyclones/erosion."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Red Sanders (Pterocarpus santalinus)** — endemic to the Seshachalam/Eastern Ghats; CITES-protected.",
+          "**Nagarjunasagar-Srisailam** — India's largest tiger reserve; **Coringa** — major mangrove sanctuary."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -440,11 +709,26 @@
       "Examine the relationship between forest-dwelling tribes, podu cultivation and forest conservation."
     ],
     "glossary": [
-      {"term": "Deciduous forest", "definition": "Forest of trees that shed leaves in the dry season; AP's dominant type, graded moist to dry by rainfall."},
-      {"term": "Red sanders", "definition": "Pterocarpus santalinus — a prized endemic tree of the Seshachalam hills, CITES-protected and heavily smuggled."},
-      {"term": "Mangrove", "definition": "Salt-tolerant tidal forest (as at Coringa) that protects the coast and sustains fisheries."},
-      {"term": "Nallamala", "definition": "The Eastern-Ghat ranges around the Krishna gorge, home to the Nagarjunasagar-Srisailam Tiger Reserve and the Chenchu tribe."},
-      {"term": "Podu", "definition": "Shifting (slash-and-burn) cultivation practised by Eastern-Ghat tribes, a source of forest-conservation tension."}
+      {
+        "term": "Deciduous forest",
+        "definition": "Forest of trees that shed leaves in the dry season; AP's dominant type, graded moist to dry by rainfall."
+      },
+      {
+        "term": "Red sanders",
+        "definition": "Pterocarpus santalinus — a prized endemic tree of the Seshachalam hills, CITES-protected and heavily smuggled."
+      },
+      {
+        "term": "Mangrove",
+        "definition": "Salt-tolerant tidal forest (as at Coringa) that protects the coast and sustains fisheries."
+      },
+      {
+        "term": "Nallamala",
+        "definition": "The Eastern-Ghat ranges around the Krishna gorge, home to the Nagarjunasagar-Srisailam Tiger Reserve and the Chenchu tribe."
+      },
+      {
+        "term": "Podu",
+        "definition": "Shifting (slash-and-burn) cultivation practised by Eastern-Ghat tribes, a source of forest-conservation tension."
+      }
     ]
   }
 ]

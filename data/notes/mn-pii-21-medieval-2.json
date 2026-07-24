@@ -12,12 +12,27 @@
           },
           {
             "type": "table",
-            "headers": ["Dynasty", "Key ruler & achievement"],
+            "headers": [
+              "Dynasty",
+              "Key ruler & achievement"
+            ],
             "rows": [
-              ["**Slave/Mamluk (1206-90)**", "**Iltutmish** (consolidator; Qutb Minar completed; iqta system); **Razia** (first woman ruler); **Balban** (theory of kingship — 'zill-i-ilahi', strong monarchy)"],
-              ["**Khilji (1290-1320)**", "**Alauddin Khilji** — **market/price control**, revenue reforms, standing army, defeated Mongols; **Malik Kafur's Deccan-South raids** reached the Andhra-Tamil country"],
-              ["**Tughlaq (1320-1414)**", "**Muhammad bin Tughlaq** — the 'ideas ahead of time' failures (capital shift to Daulatabad, token currency); **Firoz Shah** — public works, jizya, canals; the empire fragments"],
-              ["**Sayyid & Lodi (1414-1526)**", "Decline; **Ibrahim Lodi** defeated by **Babur at Panipat (1526)** — end of the Sultanate, birth of the Mughals"]
+              [
+                "**Slave/Mamluk (1206-90)**",
+                "**Iltutmish** (consolidator; Qutb Minar completed; iqta system); **Razia** (first woman ruler); **Balban** (theory of kingship — 'zill-i-ilahi', strong monarchy)"
+              ],
+              [
+                "**Khilji (1290-1320)**",
+                "**Alauddin Khilji** — **market/price control**, revenue reforms, standing army, defeated Mongols; **Malik Kafur's Deccan-South raids** reached the Andhra-Tamil country"
+              ],
+              [
+                "**Tughlaq (1320-1414)**",
+                "**Muhammad bin Tughlaq** — the 'ideas ahead of time' failures (capital shift to Daulatabad, token currency); **Firoz Shah** — public works, jizya, canals; the empire fragments"
+              ],
+              [
+                "**Sayyid & Lodi (1414-1526)**",
+                "Decline; **Ibrahim Lodi** defeated by **Babur at Panipat (1526)** — end of the Sultanate, birth of the Mughals"
+              ]
             ]
           }
         ]
@@ -57,6 +72,54 @@
             "text": "Exam tip: The impact of Islam's advent is both conflict and synthesis — present both without one-sidedness; for AP, the Sultanate's Deccan raids (Malik Kafur, Tughlaq) shattered the Kakatiyas and directly birthed Vijayanagara and the Bahmani — the state's medieval order."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Delhi Sultanate, dynasty by dynasty",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Dynasty",
+              "Years",
+              "Landmark"
+            ],
+            "rows": [
+              [
+                "**Slave/Mamluk**",
+                "1206-90",
+                "Qutb-ud-din Aibak (Qutb Minar); Iltutmish; Razia; Balban"
+              ],
+              [
+                "**Khilji**",
+                "1290-1320",
+                "Alauddin — market reforms, price control, Deccan raids (Malik Kafur)"
+              ],
+              [
+                "**Tughlaq**",
+                "1320-1414",
+                "Muhammad bin Tughlaq — capital shift, token currency; Firoz Shah — public works"
+              ],
+              [
+                "**Sayyid & Lodi**",
+                "1414-1526",
+                "Lodis; Ibrahim Lodi defeated at Panipat I (1526)"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Institutions:** the **iqta system** (revenue assignments), Persian administration, and a new **Indo-Islamic architecture** (arch, dome, minaret — Qutb complex, Alai Darwaza).",
+              "**Impact of Islam's advent:** syncretism (Bhakti-Sufi), new technology (paper, spinning wheel, Persian wheel), urban growth, and a composite culture — alongside conflict and iconoclasm (a balanced view).",
+              "**AP link:** Khilji/Tughlaq Deccan raids (Malik Kafur reached the Kakatiya kingdom, Warangal) drew the south into Sultanate politics."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Iqta system** — land-revenue assignment for military/administrative service.",
+          "**Alauddin Khilji** — market/price-control reforms; **Muhammad bin Tughlaq** — capital shift to Daulatabad & token currency."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -76,12 +139,30 @@
       "The Sultanate's southern raids created the Deccan order — connect Malik Kafur to Vijayanagara and the Bahmani."
     ],
     "glossary": [
-      { "term": "Iqta", "definition": "A revenue-assignment granted for military/administrative service — the Sultanate's fiscal-military backbone." },
-      { "term": "Indo-Islamic culture", "definition": "The synthesis of Islamic and Indian forms in architecture, language (Urdu), music and cuisine." },
-      { "term": "Zill-i-ilahi", "definition": "'Shadow of God' — Balban's theory of exalted, divinely-sanctioned kingship." },
-      { "term": "Market control (Alauddin)", "definition": "Alauddin Khilji's price-fixing and supply-regulation of essential goods to maintain a large cheap army." },
-      { "term": "Malik Kafur's raids", "definition": "Alauddin's general's campaigns (1309-11) into the Deccan and South, reaching the Andhra-Tamil country." },
-      { "term": "Jizya", "definition": "The tax on non-Muslim subjects under Islamic rule — levied and later abolished at different points." }
+      {
+        "term": "Iqta",
+        "definition": "A revenue-assignment granted for military/administrative service — the Sultanate's fiscal-military backbone."
+      },
+      {
+        "term": "Indo-Islamic culture",
+        "definition": "The synthesis of Islamic and Indian forms in architecture, language (Urdu), music and cuisine."
+      },
+      {
+        "term": "Zill-i-ilahi",
+        "definition": "'Shadow of God' — Balban's theory of exalted, divinely-sanctioned kingship."
+      },
+      {
+        "term": "Market control (Alauddin)",
+        "definition": "Alauddin Khilji's price-fixing and supply-regulation of essential goods to maintain a large cheap army."
+      },
+      {
+        "term": "Malik Kafur's raids",
+        "definition": "Alauddin's general's campaigns (1309-11) into the Deccan and South, reaching the Andhra-Tamil country."
+      },
+      {
+        "term": "Jizya",
+        "definition": "The tax on non-Muslim subjects under Islamic rule — levied and later abolished at different points."
+      }
     ]
   },
   {
@@ -97,13 +178,31 @@
           },
           {
             "type": "table",
-            "headers": ["Stream", "Figures & message"],
+            "headers": [
+              "Stream",
+              "Figures & message"
+            ],
             "rows": [
-              ["**Early/South Bhakti**", "**Alvars (Vaishnava) & Nayanars (Shaiva)** of Tamil country (6th-9th c.); Shankara (Advaita), Ramanuja (Vishishtadvaita), Madhva — the philosophical-devotional foundation"],
-              ["**Nirguna Bhakti** (formless God)", "**Kabir** (Hindu-Muslim synthesis, against ritual-caste), **Guru Nanak** (founded Sikhism), Dadu, Ravidas — radical social equality"],
-              ["**Saguna Bhakti** (God with form)", "**Tulsidas (Ram), Surdas (Krishna), Mirabai (Krishna), Chaitanya (Bengal Krishna-bhakti)** — emotional devotion in vernaculars"],
-              ["**Sufism**", "**Chishti (Moinuddin Chishti-Ajmer, Nizamuddin Auliya), Suhrawardi, Qadiri, Naqshbandi** silsilas; message of love (ishq), tolerance, service; the **dargah** as a shared sacred space"],
-              ["**AP/Telugu Bhakti**", "**Annamacharya (Annamayya — Tirumala; ~32,000 sankirtanas to Venkateswara — the founder of the Telugu padam-sankirtana tradition), Vemana (rationalist-reformist verse), Potana (Bhagavatam), Tallapaka poets, Bhakta Ramadasu (Kancherla Gopanna — Bhadrachalam Rama devotion)**"]
+              [
+                "**Early/South Bhakti**",
+                "**Alvars (Vaishnava) & Nayanars (Shaiva)** of Tamil country (6th-9th c.); Shankara (Advaita), Ramanuja (Vishishtadvaita), Madhva — the philosophical-devotional foundation"
+              ],
+              [
+                "**Nirguna Bhakti** (formless God)",
+                "**Kabir** (Hindu-Muslim synthesis, against ritual-caste), **Guru Nanak** (founded Sikhism), Dadu, Ravidas — radical social equality"
+              ],
+              [
+                "**Saguna Bhakti** (God with form)",
+                "**Tulsidas (Ram), Surdas (Krishna), Mirabai (Krishna), Chaitanya (Bengal Krishna-bhakti)** — emotional devotion in vernaculars"
+              ],
+              [
+                "**Sufism**",
+                "**Chishti (Moinuddin Chishti-Ajmer, Nizamuddin Auliya), Suhrawardi, Qadiri, Naqshbandi** silsilas; message of love (ishq), tolerance, service; the **dargah** as a shared sacred space"
+              ],
+              [
+                "**AP/Telugu Bhakti**",
+                "**Annamacharya (Annamayya — Tirumala; ~32,000 sankirtanas to Venkateswara — the founder of the Telugu padam-sankirtana tradition), Vemana (rationalist-reformist verse), Potana (Bhagavatam), Tallapaka poets, Bhakta Ramadasu (Kancherla Gopanna — Bhadrachalam Rama devotion)**"
+              ]
             ]
           }
         ]
@@ -143,6 +242,25 @@
             "text": "Exam tip: Bhakti-Sufi democratised the sacred and grew the vernaculars but reformed hearts more than caste — that balanced verdict is the top-answer move; Annamayya's Tirumala sankirtanas are Andhra's compulsory Bhakti crown."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Bhakti & Sufi movements",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Bhakti streams:** **Nirguna** (formless — Kabir, Nanak, Ravidas) vs **Saguna** (with form — Tulsidas, Surdas, Mirabai for Krishna; Ramananda); the southern Alvars/Nayanars and the Virashaiva (Basava).",
+              "**Sufism:** the **Chishti (Moinuddin Chishti-Ajmer, Nizamuddin Auliya), Suhrawardi, Qadiri, Naqshbandi** orders; khanqahs, sama (music), and the message of love and equality.",
+              "**Social significance:** vernacular devotion challenged ritual hierarchy and caste, promoted **Hindu-Muslim harmony**, and enriched regional languages and music (Guru Nanak → Sikhism).",
+              "**AP thread:** the Telugu Bhakti tradition — **Annamacharya (Tallapaka, Tirupati), Ramadasu (Bhadrachalam), Tyagaraja (Carnatic saint-composer), Potuluri Veerabrahmam** — a rich home-state repertoire."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Nirguna** (formless) vs **Saguna** (with attributes) Bhakti.",
+          "**Annamacharya** — earliest known Telugu *sankirtana* composer (Tirupati); **Ramadasu** — Bhadrachalam."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -162,12 +280,30 @@
       "Annamayya founded Telugu devotional music — evaluate the AP Bhakti galaxy from Vemana to Ramadasu."
     ],
     "glossary": [
-      { "term": "Bhakti", "definition": "The medieval Hindu devotional movement of loving, direct devotion to a personal God over ritual and priesthood." },
-      { "term": "Nirguna vs Saguna", "definition": "Devotion to a formless (Kabir, Nanak) versus a form-bearing (Tulsidas, Mira) God — Bhakti's two streams." },
-      { "term": "Sufism", "definition": "Islamic mysticism seeking union with God through love and service — organised in silsilas (orders)." },
-      { "term": "Silsila", "definition": "A Sufi spiritual lineage/order (Chishti, Suhrawardi, Qadiri, Naqshbandi)." },
-      { "term": "Sankirtana", "definition": "Devotional-song composition; Annamayya's ~32,000 to Venkateswara founded the Telugu tradition." },
-      { "term": "Dargah", "definition": "A Sufi saint's shrine-tomb, often a shared Hindu-Muslim sacred and cultural space." }
+      {
+        "term": "Bhakti",
+        "definition": "The medieval Hindu devotional movement of loving, direct devotion to a personal God over ritual and priesthood."
+      },
+      {
+        "term": "Nirguna vs Saguna",
+        "definition": "Devotion to a formless (Kabir, Nanak) versus a form-bearing (Tulsidas, Mira) God — Bhakti's two streams."
+      },
+      {
+        "term": "Sufism",
+        "definition": "Islamic mysticism seeking union with God through love and service — organised in silsilas (orders)."
+      },
+      {
+        "term": "Silsila",
+        "definition": "A Sufi spiritual lineage/order (Chishti, Suhrawardi, Qadiri, Naqshbandi)."
+      },
+      {
+        "term": "Sankirtana",
+        "definition": "Devotional-song composition; Annamayya's ~32,000 to Venkateswara founded the Telugu tradition."
+      },
+      {
+        "term": "Dargah",
+        "definition": "A Sufi saint's shrine-tomb, often a shared Hindu-Muslim sacred and cultural space."
+      }
     ]
   },
   {
@@ -183,13 +319,31 @@
           },
           {
             "type": "table",
-            "headers": ["Language", "Medieval flowering"],
+            "headers": [
+              "Language",
+              "Medieval flowering"
+            ],
             "rows": [
-              ["**Telugu (the AP core)**", "**Nannaya (Adikavi, 11th c.) → Tikkana → Errana (the Kavitraya's Mahabharatam); Srinatha ('Kavisarvabhaumudu'); the Vijayanagara golden age — Krishnadevaraya's Amuktamalyada & the Ashtadiggajas (Peddana, etc. — 'Prabandha' age); Potana's Bhagavatam; Vemana; Annamayya**"],
-              ["Hindi (Apabhramsha→)", "Bhakti poets — Kabir, Tulsidas (Ramcharitmanas), Surdas; Amir Khusrau's Hindavi"],
-              ["Bengali", "Chaitanya's Vaishnava Bhakti; Chandidas, Vidyapati (Maithili-Bengali)"],
-              ["Marathi", "Dnyaneshwar (Dnyaneshwari), Namdev, Eknath, Tukaram — the Varkari Bhakti"],
-              ["Tamil-Kannada-Malayalam", "Kamban's Ramayana (Tamil); the Kannada three gems & Vachana poets (Basava); early Malayalam"]
+              [
+                "**Telugu (the AP core)**",
+                "**Nannaya (Adikavi, 11th c.) → Tikkana → Errana (the Kavitraya's Mahabharatam); Srinatha ('Kavisarvabhaumudu'); the Vijayanagara golden age — Krishnadevaraya's Amuktamalyada & the Ashtadiggajas (Peddana, etc. — 'Prabandha' age); Potana's Bhagavatam; Vemana; Annamayya**"
+              ],
+              [
+                "Hindi (Apabhramsha→)",
+                "Bhakti poets — Kabir, Tulsidas (Ramcharitmanas), Surdas; Amir Khusrau's Hindavi"
+              ],
+              [
+                "Bengali",
+                "Chaitanya's Vaishnava Bhakti; Chandidas, Vidyapati (Maithili-Bengali)"
+              ],
+              [
+                "Marathi",
+                "Dnyaneshwar (Dnyaneshwari), Namdev, Eknath, Tukaram — the Varkari Bhakti"
+              ],
+              [
+                "Tamil-Kannada-Malayalam",
+                "Kamban's Ramayana (Tamil); the Kannada three gems & Vachana poets (Basava); early Malayalam"
+              ]
             ]
           }
         ]
@@ -229,6 +383,25 @@
             "text": "Exam tip: The vernacular revolution democratised knowledge and forged linguistic identities; for AP, the Telugu golden age under Krishnadevaraya (Amuktamalyada + the Ashtadiggajas' Prabandha poetry) is the compulsory literary summit."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — vernaculars & the Telugu golden age",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Rise of vernaculars:** as Sanskrit's monopoly waned, regional languages flowered — the medieval age of Hindi (Tulsi/Surdas), Bengali, Marathi (saint-poets), and **Telugu**.",
+              "**The Telugu 'golden age' — Vijayanagara:** **Krishnadevaraya's Ashtadiggajas** (eight poet-luminaries, incl. **Allasani Peddana**, 'Andhra Kavita Pitamaha'); Krishnadevaraya himself wrote *Amuktamalyada*; the **Prabandha** genre peaked.",
+              "**The Kavitrayam** (Nannaya, Tikkana, Yerrapragada) translated the Mahabharata — the foundation of Telugu literary tradition.",
+              "**Significance:** vernacular literature democratised culture and forged regional identities — the base of Andhra's later linguistic self-assertion."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Ashtadiggajas** — eight Telugu poets at Krishnadevaraya's court; **Allasani Peddana** the foremost.",
+          "**Krishnadevaraya** wrote *Amuktamalyada*; **Kavitrayam** — Nannaya, Tikkana, Yerrapragada."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -248,12 +421,30 @@
       "Vernaculars forged the roots of linguistic identity — argue the long-run significance for modern India."
     ],
     "glossary": [
-      { "term": "Apabhramsha", "definition": "The late-Prakrit transitional stage from which modern Indian vernaculars emerged as literary languages." },
-      { "term": "Prabandha", "definition": "The ornate Telugu narrative-poem form that peaked in the Vijayanagara golden age." },
-      { "term": "Ashtadiggajas", "definition": "The 'eight poet-elephants' of Krishnadevaraya's court — the summit of classical Telugu literature." },
-      { "term": "Kavitraya", "definition": "The Telugu poet-trinity (Nannaya, Tikkana, Errana) who rendered the Mahabharata." },
-      { "term": "Carnatic music", "definition": "The South Indian classical system (Purandaradasa its father) enriched by Annamayya's Telugu sankirtanas." },
-      { "term": "Vachana", "definition": "The Kannada free-verse devotional form of the Virashaiva (Basava) movement." }
+      {
+        "term": "Apabhramsha",
+        "definition": "The late-Prakrit transitional stage from which modern Indian vernaculars emerged as literary languages."
+      },
+      {
+        "term": "Prabandha",
+        "definition": "The ornate Telugu narrative-poem form that peaked in the Vijayanagara golden age."
+      },
+      {
+        "term": "Ashtadiggajas",
+        "definition": "The 'eight poet-elephants' of Krishnadevaraya's court — the summit of classical Telugu literature."
+      },
+      {
+        "term": "Kavitraya",
+        "definition": "The Telugu poet-trinity (Nannaya, Tikkana, Errana) who rendered the Mahabharata."
+      },
+      {
+        "term": "Carnatic music",
+        "definition": "The South Indian classical system (Purandaradasa its father) enriched by Annamayya's Telugu sankirtanas."
+      },
+      {
+        "term": "Vachana",
+        "definition": "The Kannada free-verse devotional form of the Virashaiva (Basava) movement."
+      }
     ]
   },
   {
@@ -269,12 +460,32 @@
           },
           {
             "type": "table",
-            "headers": ["Kingdom", "Period & capital", "Socio-cultural contribution"],
+            "headers": [
+              "Kingdom",
+              "Period & capital",
+              "Socio-cultural contribution"
+            ],
             "rows": [
-              ["**Kakatiyas**", "~1163-1323; **Warangal (Orugallu)**", "The first great **Telugu-identity kingdom**; **Ganapatideva, Rudramadevi (a rare woman ruler — Marco Polo praised her), Prataparudra**; **Ramappa Temple (UNESCO 2021), Warangal Fort, Thousand-Pillar Temple**; tank-irrigation (the Kakatiya tanks), inclusive nayaka-military system across castes; fell to the Tughlaqs (1323)"],
-              ["**Vijayanagara**", "1336-1646; **Hampi**", "Founded by **Harihara & Bukka (Sangama dynasty)** as a **Hindu bulwark**; peak under **Krishnadevaraya (Tuluva, early 16th c.)** — Telugu golden age (Ashtadiggajas), temple-building (Vitthala, Virupaksha; the musical pillars, stone chariot), Roman-Persian trade, the mahanavami festival; defeated at **Talikota (1565)** by the Deccan Sultanates' alliance"],
-              ["**Bahmani Sultanate**", "1347-1527; Gulbarga→**Bidar**", "The first independent **Deccan Muslim state**; **Mahmud Gawan** (great vizier — administrative reforms, the Bidar madrasa); Indo-Persian (Deccani) culture, architecture (Gol Gumbaz-lineage), Persian-Deccani Urdu; split into **five Deccan Sultanates**"],
-              ["**Qutb Shahis**", "1518-1687; **Golconda→Hyderabad**", "The **Golconda Sultanate** — the Telugu-region Deccan Sultanate; **founded Hyderabad (Muhammad Quli Qutb Shah — Charminar, 1591)**; **Deccani-Urdu & Telugu patronage** (a rare Persianate court patronising Telugu), diamond trade (Golconda), Indo-Islamic architecture; annexed by Aurangzeb (1687)"]
+              [
+                "**Kakatiyas**",
+                "~1163-1323; **Warangal (Orugallu)**",
+                "The first great **Telugu-identity kingdom**; **Ganapatideva, Rudramadevi (a rare woman ruler — Marco Polo praised her), Prataparudra**; **Ramappa Temple (UNESCO 2021), Warangal Fort, Thousand-Pillar Temple**; tank-irrigation (the Kakatiya tanks), inclusive nayaka-military system across castes; fell to the Tughlaqs (1323)"
+              ],
+              [
+                "**Vijayanagara**",
+                "1336-1646; **Hampi**",
+                "Founded by **Harihara & Bukka (Sangama dynasty)** as a **Hindu bulwark**; peak under **Krishnadevaraya (Tuluva, early 16th c.)** — Telugu golden age (Ashtadiggajas), temple-building (Vitthala, Virupaksha; the musical pillars, stone chariot), Roman-Persian trade, the mahanavami festival; defeated at **Talikota (1565)** by the Deccan Sultanates' alliance"
+              ],
+              [
+                "**Bahmani Sultanate**",
+                "1347-1527; Gulbarga→**Bidar**",
+                "The first independent **Deccan Muslim state**; **Mahmud Gawan** (great vizier — administrative reforms, the Bidar madrasa); Indo-Persian (Deccani) culture, architecture (Gol Gumbaz-lineage), Persian-Deccani Urdu; split into **five Deccan Sultanates**"
+              ],
+              [
+                "**Qutb Shahis**",
+                "1518-1687; **Golconda→Hyderabad**",
+                "The **Golconda Sultanate** — the Telugu-region Deccan Sultanate; **founded Hyderabad (Muhammad Quli Qutb Shah — Charminar, 1591)**; **Deccani-Urdu & Telugu patronage** (a rare Persianate court patronising Telugu), diamond trade (Golconda), Indo-Islamic architecture; annexed by Aurangzeb (1687)"
+              ]
             ]
           }
         ]
@@ -314,6 +525,26 @@
             "text": "Exam tip: This is medieval AP's central theme — the four kingdoms gave the Telugu country its identity, golden age, Deccani culture and Hyderabad; know each socio-cultural contribution, and present the Vijayanagara-Sultanate relationship as rivalry-plus-synthesis, not a simple binary."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Deccan kingdoms & synthesis",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Kakatiyas (Warangal):** Ganapatideva, **Rudramadevi** (a rare woman sovereign, admired by Marco Polo), Prataparudra; the **Thousand-Pillar Temple, Ramappa Temple (UNESCO, 2021)**, and the tank-irrigation network of Telangana/AP.",
+              "**Vijayanagara (Hampi):** founded 1336 (Harihara & Bukka; Vidyaranya); four dynasties (Sangama, Saluva, Tuluva-**Krishnadevaraya**, Aravidu); a Hindu bulwark against the Deccan Sultanates; defeated at **Talikota (1565)**.",
+              "**Bahmani → five Deccan Sultanates** (Bijapur, Golconda, Ahmadnagar, Bidar, Berar); **Golconda (Qutb Shahis)** ruled the Andhra/Telangana Deccan — diamonds, Charminar, and Deccani culture.",
+              "**The Deccan synthesis:** Hindu-Islamic architectural and cultural fusion (Indo-Islamic Deccani style), and Telugu's flourishing under both Vijayanagara and Qutb Shahi patronage."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Ramappa Temple (Kakatiya, Palampet)** — UNESCO World Heritage (2021); **Rudramadevi** — Kakatiya queen.",
+          "**Vijayanagara** founded 1336; defeated at **Battle of Talikota (1565)**.",
+          "**Golconda (Qutb Shahis)** — ruled the Andhra Deccan; built Charminar."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -333,12 +564,30 @@
       "The Qutb Shahis founded Hyderabad and patronised Telugu — evaluate the Golconda Sultanate's dual legacy."
     ],
     "glossary": [
-      { "term": "Kakatiyas", "definition": "The Warangal dynasty (~1163-1323) that forged Telugu political identity — Ramappa Temple, Rudramadevi, tank irrigation." },
-      { "term": "Vijayanagara", "definition": "The Hindu Deccan empire (1336-1646) centred on Hampi — peaking under Krishnadevaraya, defeated at Talikota (1565)." },
-      { "term": "Bahmani Sultanate", "definition": "The first independent Deccan Muslim state (1347) — Mahmud Gawan's reforms; parent of the five Deccan Sultanates." },
-      { "term": "Qutb Shahis", "definition": "The Golconda Sultanate (1518-1687) — founders of Hyderabad and Charminar, patrons of Deccani-Urdu and Telugu." },
-      { "term": "Deccani culture", "definition": "The Indo-Persian-Telugu synthesis of the Deccan Sultanates — architecture, Deccani Urdu, and courtly arts." },
-      { "term": "Talikota (1565)", "definition": "The battle where the allied Deccan Sultanates defeated Vijayanagara, ending its imperial apex." }
+      {
+        "term": "Kakatiyas",
+        "definition": "The Warangal dynasty (~1163-1323) that forged Telugu political identity — Ramappa Temple, Rudramadevi, tank irrigation."
+      },
+      {
+        "term": "Vijayanagara",
+        "definition": "The Hindu Deccan empire (1336-1646) centred on Hampi — peaking under Krishnadevaraya, defeated at Talikota (1565)."
+      },
+      {
+        "term": "Bahmani Sultanate",
+        "definition": "The first independent Deccan Muslim state (1347) — Mahmud Gawan's reforms; parent of the five Deccan Sultanates."
+      },
+      {
+        "term": "Qutb Shahis",
+        "definition": "The Golconda Sultanate (1518-1687) — founders of Hyderabad and Charminar, patrons of Deccani-Urdu and Telugu."
+      },
+      {
+        "term": "Deccani culture",
+        "definition": "The Indo-Persian-Telugu synthesis of the Deccan Sultanates — architecture, Deccani Urdu, and courtly arts."
+      },
+      {
+        "term": "Talikota (1565)",
+        "definition": "The battle where the allied Deccan Sultanates defeated Vijayanagara, ending its imperial apex."
+      }
     ]
   }
 ]

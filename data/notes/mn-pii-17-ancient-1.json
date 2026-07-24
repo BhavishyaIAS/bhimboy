@@ -146,6 +146,26 @@
             "text": "Exam tip: The Neolithic agricultural revolution is prehistory's turning point — surplus made civilisation possible; AP's Kurnool caves and South Indian ash-mounds give the state-paper its prehistoric anchors."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — prehistory anchors & sources",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The stone sequence:** **Palaeolithic** (Bhimbetka rock art; Robert Bruce Foote's 1863 Pallavaram handaxe — the birth of Indian prehistory) → **Mesolithic** (microliths, Bagor, Adamgarh) → **Neolithic** (Mehrgarh — earliest farming ~7000 BCE; Burzahom pit-dwellings) → **Chalcolithic** (copper-stone, Jorwe, Ahar).",
+              "**Andhra/South anchors:** **Renigunta, Giddalur** (Palaeolithic), and the **South Indian Neolithic ash-mounds** (Utnur, Nagarjunakonda region) — directly citable AP prehistory.",
+              "**Dating tools:** radiocarbon (C-14), stratigraphy, and typology — how prehistory is reconstructed without texts.",
+              "**Significance:** the transition from hunting-gathering to settled farming (the Neolithic Revolution) is the foundation on which the Harappan urban civilisation would rise."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Robert Bruce Foote** — 'father of Indian prehistory'; found a Palaeolithic handaxe at Pallavaram (1863).",
+          "**Mehrgarh** — earliest evidence of agriculture/Neolithic in the subcontinent.",
+          "South Indian Neolithic marked by **ash-mounds** (e.g., Utnur)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -344,6 +364,26 @@
             "type": "quote",
             "text": "Exam tip: The Harappans' urban planning and sanitation were unmatched for millennia — lead with that; the decline is multi-causal (climate-Saraswati-trade), NOT the discredited Aryan invasion — state that correction explicitly."
           }
+        ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Harappa: the exam-critical specifics",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Town planning:** grid layout, the citadel + lower town, **Great Bath (Mohenjodaro)**, granaries, standardised baked bricks (ratio 4:2:1), and the world's first urban **sanitation/drainage** system.",
+              "**Key sites & finds:** Harappa & Mohenjodaro (Indus), **Dholavira** (water reservoirs, signboard), **Lothal** (dockyard), **Kalibangan** (ploughed field, fire altars), **Rakhigarhi** (largest site); the undeciphered **Indus script** (boustrophedon), Pashupati seal, dancing girl, priest-king.",
+              "**Economy & trade:** standardised weights (binary), **Meluhha** trade with Mesopotamia, cotton ('sindon'), bead-making (**Chanhudaro**).",
+              "**Decline theories:** climate change/river shifts (Ghaggar-Hakra/Saraswati drying), floods, declining trade, ecological degradation — not a single cause."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Lothal** — dockyard; **Dholavira** — sophisticated water management; **Rakhigarhi** — largest Harappan site.",
+          "Harappan brick ratio **4:2:1**; script is **boustrophedon** and undeciphered.",
+          "**Chanhudaro** — known for bead-making."
         ]
       }
     ],
@@ -634,6 +674,59 @@
             "text": "Exam tip: The early-to-later Vedic transformation (pastoral→agrarian, tribal→territorial, fluid→rigid varna) is the entire theme in one table; the Upanishadic turn from ritual to knowledge is the philosophical climax to close on."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Vedic society, early vs later",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Early Vedic (1500-1000 BCE)",
+              "Later Vedic (1000-600 BCE)"
+            ],
+            "rows": [
+              [
+                "Geography",
+                "Sapta Sindhu (Punjab)",
+                "Ganga-Yamuna doab"
+              ],
+              [
+                "Economy",
+                "Pastoral; cattle wealth",
+                "Agriculture; iron (krishna ayas)"
+              ],
+              [
+                "Polity",
+                "Tribal (jana), sabha/samiti",
+                "Territorial kingdoms (janapadas); king's power grows"
+              ],
+              [
+                "Society",
+                "Varna fluid; women respected",
+                "Rigid varna; decline in women's status"
+              ],
+              [
+                "Religion",
+                "Nature gods (Indra, Agni, Varuna); yajna",
+                "Prajapati/Vishnu/Rudra rise; ritualism; Upanishadic philosophy"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Sources:** the four Vedas (Rig oldest), Brahmanas, Aranyakas, Upanishads; the **Upanishads** turn from ritual to philosophy (Brahman-Atman, karma, moksha) — the intellectual root of later Indian thought.",
+              "**Significance:** the later-Vedic consolidation of agriculture, territory and varna set the stage for the Mahajanapadas and the second urbanisation."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Sabha & Samiti** — early-Vedic tribal assemblies ('twin daughters of Prajapati').",
+          "'**Krishna ayas**' (black metal, iron) appears in the Later Vedic period.",
+          "**Satyameva Jayate** is from the **Mundaka Upanishad**."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -778,6 +871,26 @@
             "type": "quote",
             "text": "Exam tip: The republics-vs-monarchies distinction and the second-urbanisation material base (iron-surplus-trade-coinage) are this theme's analytical core; Assaka on the Godavari is AP's thread into the sixteen."
           }
+        ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Mahajanapadas & second urbanisation",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The 16 Mahajanapadas** (Buddhist *Anguttara Nikaya*): Magadha's rise (Haryankas — Bimbisara, Ajatashatru; Shishunagas; Nandas) through geography (iron at Rajgir, Ganga fertility, elephants) and ambition.",
+              "**Second urbanisation (~6th century BCE):** the return of cities after the Harappan gap — **NBPW (Northern Black Polished Ware), punch-marked coins, guilds (shrenis), and expanding trade** on the Ganga.",
+              "**Republics vs monarchies:** **gana-sanghas** (Vajji/Lichchhavi confederacy, Malla) vs monarchies (Magadha, Kosala) — an early experiment in oligarchic governance.",
+              "**Significance:** Magadha's consolidation created the platform for the first pan-Indian empire under the Mauryas; the era also birthed Buddhism and Jainism."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**16 Mahajanapadas** listed in the Buddhist *Anguttara Nikaya*; Magadha emerged supreme.",
+          "**Second urbanisation** — associated with NBPW pottery and punch-marked (silver) coins.",
+          "**Vajji/Lichchhavi** — an early republican (gana-sangha) confederacy."
         ]
       }
     ],

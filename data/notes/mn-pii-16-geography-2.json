@@ -12,12 +12,32 @@
           },
           {
             "type": "table",
-            "headers": ["Cycle stage", "Content & instruments", "AP practice"],
+            "headers": [
+              "Cycle stage",
+              "Content & instruments",
+              "AP practice"
+            ],
             "rows": [
-              ["**Mitigation**", "Hazard mapping-zoning, building codes, ecosystem buffers (mangroves cut surge — Coringa's proof), embankments-with-ecology", "Cyclone shelters network (from 1977's lesson), coastal shelterbelts & mangrove restoration; Polavaram-era flood-cushion debates"],
-              ["**Preparedness**", "Early-warning chains (IMD's doppler-satellite net; **Common Alerting Protocol/SACHET SMS**), mock drills, community task forces (Aapda Mitra), pre-positioning", "**RTGS-era real-time monitoring; secretariat-volunteer last-mile warning**; fishermen-return protocols; the drill culture behind zero-casualty"],
-              ["**Response**", "Incident Response System, NDRF-SDRF-forces triage, surge evacuation", "**Mass evacuations** (Hudhud ~4 lakh era; Michaung lakhs moved); Vizag's urban response test 2014"],
-              ["**Recovery**", "Build-back-better housing, livelihood restoration, PDNA (post-disaster needs assessment)", "Post-Hudhud Vizag rebuild (~₹22,000 cr damage; smart-city convergence); Titli's Srikakulam horticulture recovery lessons"]
+              [
+                "**Mitigation**",
+                "Hazard mapping-zoning, building codes, ecosystem buffers (mangroves cut surge — Coringa's proof), embankments-with-ecology",
+                "Cyclone shelters network (from 1977's lesson), coastal shelterbelts & mangrove restoration; Polavaram-era flood-cushion debates"
+              ],
+              [
+                "**Preparedness**",
+                "Early-warning chains (IMD's doppler-satellite net; **Common Alerting Protocol/SACHET SMS**), mock drills, community task forces (Aapda Mitra), pre-positioning",
+                "**RTGS-era real-time monitoring; secretariat-volunteer last-mile warning**; fishermen-return protocols; the drill culture behind zero-casualty"
+              ],
+              [
+                "**Response**",
+                "Incident Response System, NDRF-SDRF-forces triage, surge evacuation",
+                "**Mass evacuations** (Hudhud ~4 lakh era; Michaung lakhs moved); Vizag's urban response test 2014"
+              ],
+              [
+                "**Recovery**",
+                "Build-back-better housing, livelihood restoration, PDNA (post-disaster needs assessment)",
+                "Post-Hudhud Vizag rebuild (~₹22,000 cr damage; smart-city convergence); Titli's Srikakulam horticulture recovery lessons"
+              ]
             ]
           }
         ]
@@ -57,6 +77,25 @@
             "text": "Exam tip: Cite Sendai's four priorities by name (understand risk; strengthen governance; invest in DRR; build back better) and map one AP practice to each — the alignment table is an instant top-band device."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — disaster management, the paradigm",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The cycle:** **prevention → mitigation → preparedness → response → recovery → reconstruction**; the shift from a reactive relief model to proactive **Disaster Risk Reduction (DRR)**.",
+              "**Institutional grid:** the **Disaster Management Act 2005 (NDMA-PM, SDMA-CM, DDMA-Collector), NDRF/SDRF, NIDM**, and the **Sendai Framework (2015-30)** with the PM's Ten-Point Agenda.",
+              "**Impact assessment & evaluation:** hazard mapping, vulnerability & risk assessment, cost-benefit of mitigation, and **build-back-better**; the **CDRI (India-led Coalition for Disaster Resilient Infrastructure)**.",
+              "**AP application:** cyclone shelters, coastal-zone regulation, and the state's celebrated evacuation record — a model DRR case."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Disaster Management Act 2005** — NDMA (chaired by the PM); **NDRF** for response.",
+          "**Sendai Framework (2015-2030)** — global DRR blueprint; **CDRI** — India-led."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -77,12 +116,30 @@
       "The next disasters are urban, hot and compound — audit preparedness beyond the cyclone success story."
     ],
     "glossary": [
-      { "term": "Disaster-management cycle", "definition": "The mitigation-preparedness-response-recovery loop — governance across risk's whole life, not just its eruption." },
-      { "term": "Sendai Framework", "definition": "The 2015-30 global DRR compact — four priorities and seven targets from understanding risk to building back better." },
-      { "term": "Early-warning system", "definition": "The detection-decision-dissemination-response chain whose last mile determines lives saved." },
-      { "term": "Build back better", "definition": "Recovery that upgrades resilience (housing, siting, livelihoods) rather than restoring vulnerability." },
-      { "term": "Mitigation fund", "definition": "Ex-ante risk-reduction financing (NDMF/SDMF) — the 15th FC's structural correction to response bias." },
-      { "term": "Parametric insurance", "definition": "Payouts triggered by hazard parameters (wind speed, rainfall) rather than assessed loss — speed for certainty trade." }
+      {
+        "term": "Disaster-management cycle",
+        "definition": "The mitigation-preparedness-response-recovery loop — governance across risk's whole life, not just its eruption."
+      },
+      {
+        "term": "Sendai Framework",
+        "definition": "The 2015-30 global DRR compact — four priorities and seven targets from understanding risk to building back better."
+      },
+      {
+        "term": "Early-warning system",
+        "definition": "The detection-decision-dissemination-response chain whose last mile determines lives saved."
+      },
+      {
+        "term": "Build back better",
+        "definition": "Recovery that upgrades resilience (housing, siting, livelihoods) rather than restoring vulnerability."
+      },
+      {
+        "term": "Mitigation fund",
+        "definition": "Ex-ante risk-reduction financing (NDMF/SDMF) — the 15th FC's structural correction to response bias."
+      },
+      {
+        "term": "Parametric insurance",
+        "definition": "Payouts triggered by hazard parameters (wind speed, rainfall) rather than assessed loss — speed for certainty trade."
+      }
     ]
   },
   {
@@ -94,12 +151,32 @@
         "blocks": [
           {
             "type": "table",
-            "headers": ["Domain", "Pollutants & sources", "Standards & instruments"],
+            "headers": [
+              "Domain",
+              "Pollutants & sources",
+              "Standards & instruments"
+            ],
             "rows": [
-              ["**Air**", "**PM2.5/PM10** (combustion, dust), SO2-NOx (power, vehicles), CO, **ground-level ozone** (secondary), benzene; stubble-episodic north; India hosts most of the world's most-polluted cities lists", "**NAAQS (2009, 12 pollutants — under revision)**; **AQI (2015, 6 bands)**; **NCAP 2019** (~130 cities; 40% PM cut by 2026 vs 2017); CAQM for the NCR airshed; BS-VI leap (2020); PUSA-decomposer & paddy-shift for stubble"],
-              ["**Water**", "Sewage (~72% urban untreated-gap era; CPCB's **polluted river stretches ~311/603**), industrial effluents (CETPs' patchiness), agrochemical runoff (nitrate-fluoride-arsenic groundwater), plastics; **eutrophication** (the Kolleru textbook case)", "Water Act 1974 (CPCB/SPCBs); **Namami Gange** (~₹40,000 cr programme; STP capacity build); Jal Jeevan's quality testing; groundwater regulation (CGWA)"],
-              ["**Soil & waste**", "Heavy metals, pesticide residues (POPs), **legacy dumpsites (~3,000+ lakh tonnes)**, e-waste (~16+ lakh t/yr, world #3), plastic (~40 lakh t/yr, ~single-use ban 2022), biomedical, C&D", "**SWM Rules 2016 family** (segregation-EPR regimes: plastic-e-waste-battery EPR), **SBM 2.0's** dumpsite remediation & GFC star ratings; soil-health via fertiliser reform (nano-urea, PM-PRANAM)"],
-              ["**Noise & emerging**", "Traffic-construction-festival noise (Noise Rules 2000: 55/45 dB residential day/night); light pollution; microplastics; PFAS 'forever chemicals'; AMR as pollution's biological edge", "Rules enforcement + the frontier debate — cite one emerging pollutant to show currency"]
+              [
+                "**Air**",
+                "**PM2.5/PM10** (combustion, dust), SO2-NOx (power, vehicles), CO, **ground-level ozone** (secondary), benzene; stubble-episodic north; India hosts most of the world's most-polluted cities lists",
+                "**NAAQS (2009, 12 pollutants — under revision)**; **AQI (2015, 6 bands)**; **NCAP 2019** (~130 cities; 40% PM cut by 2026 vs 2017); CAQM for the NCR airshed; BS-VI leap (2020); PUSA-decomposer & paddy-shift for stubble"
+              ],
+              [
+                "**Water**",
+                "Sewage (~72% urban untreated-gap era; CPCB's **polluted river stretches ~311/603**), industrial effluents (CETPs' patchiness), agrochemical runoff (nitrate-fluoride-arsenic groundwater), plastics; **eutrophication** (the Kolleru textbook case)",
+                "Water Act 1974 (CPCB/SPCBs); **Namami Gange** (~₹40,000 cr programme; STP capacity build); Jal Jeevan's quality testing; groundwater regulation (CGWA)"
+              ],
+              [
+                "**Soil & waste**",
+                "Heavy metals, pesticide residues (POPs), **legacy dumpsites (~3,000+ lakh tonnes)**, e-waste (~16+ lakh t/yr, world #3), plastic (~40 lakh t/yr, ~single-use ban 2022), biomedical, C&D",
+                "**SWM Rules 2016 family** (segregation-EPR regimes: plastic-e-waste-battery EPR), **SBM 2.0's** dumpsite remediation & GFC star ratings; soil-health via fertiliser reform (nano-urea, PM-PRANAM)"
+              ],
+              [
+                "**Noise & emerging**",
+                "Traffic-construction-festival noise (Noise Rules 2000: 55/45 dB residential day/night); light pollution; microplastics; PFAS 'forever chemicals'; AMR as pollution's biological edge",
+                "Rules enforcement + the frontier debate — cite one emerging pollutant to show currency"
+              ]
             ]
           }
         ]
@@ -139,6 +216,25 @@
             "text": "Exam tip: The instrument-spectrum argument (floors-markets-courts-behaviour) shows conceptual command; the LG Polymers case gives AP's answer its own Bhopal-scale anchor — absolute liability applied at home."
           }
         ]
+      },
+      {
+        "heading": "🗺 Deep mastery — pollution, standards & management",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Forms & standards:** air (**NAAQS, AQI, NCAP**), water (BOD/COD, CPCB norms), soil, noise, and plastic/e-waste; the **precautionary and polluter-pays principles**.",
+              "**Management tools:** consent regime (CPCB/SPCBs), the **NGT**, EIA, extended producer responsibility (plastic/e-waste rules), and market instruments (emissions trading pilots).",
+              "**The technology stack:** ESP/FGD (air), STP/ETP & constructed wetlands (water), and bioremediation (soil).",
+              "**The AP frame:** industrial-cluster management (pharma/Visakhapatnam — the LG Polymers styrene leak, 2020, as a case), coastal & aquaculture effluent control, and urban solid-waste management."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**NCAP** targets a 40% cut in particulate pollution in non-attainment cities.",
+          "**Polluter-pays & precautionary principles** are part of Indian environmental jurisprudence (*Vellore Citizens*, 1996)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -160,12 +256,30 @@
       "Waste is a design failure — evaluate the EPR-SBM 2.0 architecture for circular management."
     ],
     "glossary": [
-      { "term": "PM2.5", "definition": "Fine particulates under 2.5 microns penetrating deep into lungs and blood — the deadliest routine pollutant." },
-      { "term": "Eutrophication", "definition": "Nutrient-overload of water bodies driving algal blooms and oxygen crashes — Kolleru's aquaculture syndrome." },
-      { "term": "Absolute liability", "definition": "The Mehta-Oleum doctrine: hazardous enterprises owe full compensation without exceptions — stricter than strict liability." },
-      { "term": "Extended Producer Responsibility", "definition": "Producers' statutory obligation for their products' end-of-life management — the waste-rules' economic engine." },
-      { "term": "Airshed management", "definition": "Governing pollution across a meteorologically connected region rather than city borders — the CAQM model's logic." },
-      { "term": "Non-attainment city", "definition": "A city persistently violating NAAQS — the NCAP's unit of mission." }
+      {
+        "term": "PM2.5",
+        "definition": "Fine particulates under 2.5 microns penetrating deep into lungs and blood — the deadliest routine pollutant."
+      },
+      {
+        "term": "Eutrophication",
+        "definition": "Nutrient-overload of water bodies driving algal blooms and oxygen crashes — Kolleru's aquaculture syndrome."
+      },
+      {
+        "term": "Absolute liability",
+        "definition": "The Mehta-Oleum doctrine: hazardous enterprises owe full compensation without exceptions — stricter than strict liability."
+      },
+      {
+        "term": "Extended Producer Responsibility",
+        "definition": "Producers' statutory obligation for their products' end-of-life management — the waste-rules' economic engine."
+      },
+      {
+        "term": "Airshed management",
+        "definition": "Governing pollution across a meteorologically connected region rather than city borders — the CAQM model's logic."
+      },
+      {
+        "term": "Non-attainment city",
+        "definition": "A city persistently violating NAAQS — the NCAP's unit of mission."
+      }
     ]
   }
 ]

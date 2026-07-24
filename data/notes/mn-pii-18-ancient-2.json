@@ -239,6 +239,54 @@
             "text": "Exam tip: For the AP paper, Andhra's status as a Buddhist heartland (Amaravati school of art, Nagarjunakonda, Acharya Nagarjuna's Madhyamaka philosophy born here) is a compulsory, high-value connection — never omit it."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Buddhism & Jainism, compared",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "table",
+            "headers": [
+              "Aspect",
+              "Buddhism",
+              "Jainism"
+            ],
+            "rows": [
+              [
+                "Founder",
+                "Gautama Buddha (563-483 BCE)",
+                "Mahavira (24th Tirthankara; Rishabhanatha 1st)"
+              ],
+              [
+                "Core",
+                "Four Noble Truths, Eightfold Path, Middle Path",
+                "Triratna, five vows, extreme ahimsa, anekantavada"
+              ],
+              [
+                "Soul/God",
+                "Anatta (no permanent soul); non-theistic",
+                "Believes in soul (jiva) in all things"
+              ],
+              [
+                "Councils/spread",
+                "4 Buddhist Councils; spread across Asia",
+                "Split into Digambara & Svetambara"
+              ]
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "**Why they rose:** reaction to Vedic ritualism, Brahmin dominance and the varna order; the support of the rising urban trading (vaishya) class and kings.",
+              "**The AP/South thread:** Andhra was a great **Buddhist heartland** — **Amaravati, Nagarjunakonda (Ikshvaku patronage), Bhattiprolu, Ghantasala** stupas; the Mahayana philosopher **Nagarjuna** is associated with the region.",
+              "**Legacy:** ahimsa, monastic education (Nalanda), stupa/vihara art, and vast literature (Tripitaka in Pali; Jain Agamas in Prakrit)."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Amaravati & Nagarjunakonda** — major Buddhist sites in Andhra (Satavahana/Ikshvaku patronage).",
+          "**Triratna** (Jain): right faith, right knowledge, right conduct; **anekantavada** — many-sidedness of truth."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -519,6 +567,25 @@
             "text": "Exam tip: The Mauryas were India's first pan-subcontinental empire built on a centralised bureaucratic state — the Arthashastra-plus-Indica administration is the analytical core; Erragudi's Ashokan edicts put AP inside the empire."
           }
         ]
+      },
+      {
+        "heading": "🏺 Deep mastery — the Mauryan state & its sources",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**Foundation:** Chandragupta Maurya (with Kautilya/Chanakya) overthrew the Nandas (321 BCE), defeated Seleucus; **Megasthenes** (*Indica*) described Pataliputra.",
+              "**Sources:** the **Arthashastra** (statecraft), **Megasthenes' Indica**, **Ashokan edicts** (deciphered by James Prinsep, 1837), Buddhist/Jain texts, and Junagadh (Rudradaman) inscription.",
+              "**Administration:** a centralised bureaucracy — provinces under princes (kumaras), the **espionage & mahamatra system**, land revenue (Sita/Bhaga), and a large standing army; **Sohgaura & Mahasthan** famine-relief inscriptions.",
+              "**Significance:** India's first empire — administrative unity, a documented ideology of governance, and the template later empires echoed."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Megasthenes** — Greek envoy of Seleucus; wrote *Indica*; described Pataliputra's administration.",
+          "**James Prinsep** — deciphered the Brahmi script of Ashokan edicts (1837)."
+        ]
       }
     ],
     "prelimsPointers": [
@@ -723,6 +790,26 @@
             "type": "quote",
             "text": "Exam tip: The key distinction — Dhamma was a universal civic-moral code, NOT Buddhism imposed as state religion — separates a top answer; 'all men are my children' inscribed at Erragudi is AP's Dhamma connection."
           }
+        ]
+      },
+      {
+        "heading": "🏺 Deep mastery — Ashoka's Dhamma & its assessment",
+        "level": 2,
+        "blocks": [
+          {
+            "type": "bullets",
+            "items": [
+              "**The turn:** the **Kalinga War (261 BCE)** and its carnage converted Ashoka to Buddhism and to **Dhamma** — a moral code (tolerance, non-violence, respect for elders, welfare) propagated by **Dhamma Mahamatras** and rock/pillar edicts.",
+              "**Dhamma ≠ Buddhism:** it was a broad civic-moral ethic for a plural empire, not sectarian imposition — the debate on whether it weakened the empire (pacifism) or strengthened social cohesion.",
+              "**Andhra connection:** Ashokan minor rock edicts in the south (e.g., **Rajula-Mandagiri, Erragudi in Kurnool region**) show Mauryan reach into Andhra.",
+              "**Assessment:** a pioneering experiment in **ethical statecraft and welfare** (roads, wells, hospitals, tolerance) — a favourite Ethics-paper cross-reference too."
+            ]
+          }
+        ],
+        "prelimsPointers": [
+          "**Kalinga War (c. 261 BCE)** transformed Ashoka; described in **Major Rock Edict XIII**.",
+          "Ashokan edicts in Andhra: **Erragudi & Rajula-Mandagiri** (Kurnool region).",
+          "Ashoka's emblem — the **Sarnath Lion Capital** — is India's national emblem."
         ]
       }
     ],
