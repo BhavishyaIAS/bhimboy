@@ -156,6 +156,32 @@ The **2020 / 2023 / 2025** Paper-III model answers already ingested were
 recent developments with the existing answers) via the per-year
 `answers/<year>-mains-answers.json` files and `update-model-answers.mjs`.
 
+### Paper-V archive (2008–2024, APPSC + TGPSC)
+
+`paper5-archive.json` holds Mains **Paper-V** (Science, Technology &
+Environment) PYQs from years whose full papers are not ingested — 182
+questions across APPSC 2008 / 2011 / 2012 / 2016 / 2017 and TGPSC 2016 / 2024.
+TGPSC rows use the paper label `Paper-V: Science, Technology & Environment
+(TGPSC)`; APPSC rows reuse the standard `Paper-V: Science, Technology &
+Environment` label. Questions are transcribed verbatim from the official
+Paper-V compilation and mapped to the `MN-PV-*` micro-themes (STNB = S&T
+basics/institutions, SP = Space, ED/E2 = Energy & Environment, HB = Health &
+Biotech, BN = Biotech, PL = Pollution, I = IT/e-governance/disasters, IIST =
+IPR). Model answers are authored fresh — the compilation's model-answer
+substance **merged** with own knowledge and recent developments, fully
+restructured into original prose — in `answers/paper5-archive-answers.json`,
+keyed `Q<no>`, and attached by:
+
+```bash
+node --env-file=.env.local scripts/import-pyqs.mjs --file data/pyq/paper5-archive.json
+node --env-file=.env.local scripts/update-paper5-archive-answers.mjs
+```
+
+The **2020 / 2023 / 2025** Paper-V model answers already ingested were
+**overhauled** in place (merging the compilation's worked examples, latest
+data, schemes and value-additions with the existing answers) via the per-year
+`answers/<year>-mains-answers.json` files and `update-model-answers.mjs`.
+
 ## Model answers (Mains)
 
 Authored model answers live in `data/pyq/answers/<year>-mains-answers.json` as a
