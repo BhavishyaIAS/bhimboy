@@ -204,11 +204,13 @@ node --env-file=.env.local scripts/import-paper4-archive.mjs --file data/pyq/pap
 node --env-file=.env.local scripts/update-paper4-archive-answers.mjs
 ```
 
-**Year field**: known years are set on each row; where the source did not
-state a year the JSON leaves `"year": null` (to be filled in later). Because
-`mains_questions.year` is `NOT NULL`, the paper4-archive import/attach scripts
-coalesce a null year to **`0`** in the database — so the 4 unknown-year rows
-currently show year `0` in the vault until edited.
+**Year field**: every archive row's year and board are tagged from the
+official Paper-IV **INDEX** (the `6e467c2a-…Final` compilation index, which
+lists each PYQ's question no. → text → marks → `BOARD YEAR`). Each archive
+question was matched to its index entry by text and its year/board written
+back — so all 147 rows carry a real year (2008–2024) and the correct
+APPSC/TGPSC label. (The import/attach scripts still coalesce a null year to
+`0` for safety, but no null-year rows remain.)
 
 The **2020 / 2023 / 2025** Paper-IV model answers already ingested were
 **fully replaced** (not merged) with the compilation's answers wherever the
