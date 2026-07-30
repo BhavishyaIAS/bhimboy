@@ -182,6 +182,39 @@ The **2020 / 2023 / 2025** Paper-V model answers already ingested were
 data, schemes and value-additions with the existing answers) via the per-year
 `answers/<year>-mains-answers.json` files and `update-model-answers.mjs`.
 
+### Paper-IV archive (2008–2024, APPSC + TGPSC)
+
+`paper4-archive.json` holds Mains **Paper-IV** (Economy & Development of India
+and Andhra Pradesh) PYQs from years whose full papers are not ingested — 147
+questions across APPSC/TGPSC 2008 / 2011 / 2012 / 2016 / 2017 / 2020 / 2024
+(plus a few whose year could not be read from the source). TGPSC rows use the
+label `Paper-IV: Economy & Development (TGPSC)`; APPSC rows reuse the standard
+`Paper-IV: Economy & Development` label. Questions are transcribed from the
+uploaded topper compilation and mapped (best-effort, by keyword) to the
+`MN-PIV-*` micro-themes (IEC = economy concepts, RMI/RMA = resource
+mobilisation India/AP, GBI/GBA = growth & banking India/AP, IG = inclusive
+growth, ADI/ADA = agriculture India/AP, IDI/IDA = industry India/AP, II/IA =
+infrastructure India/AP). Each question's **full model answer is taken
+directly from the compilation** (parsed from the `.docx`; tables rendered as
+bullets, prep scaffolding dropped) into `answers/paper4-archive-answers.json`,
+keyed `Q<no>`, and attached by:
+
+```bash
+node --env-file=.env.local scripts/import-paper4-archive.mjs --file data/pyq/paper4-archive.json
+node --env-file=.env.local scripts/update-paper4-archive-answers.mjs
+```
+
+**Year field**: known years are set on each row; where the source did not
+state a year the JSON leaves `"year": null` (to be filled in later). Because
+`mains_questions.year` is `NOT NULL`, the paper4-archive import/attach scripts
+coalesce a null year to **`0`** in the database — so the 4 unknown-year rows
+currently show year `0` in the vault until edited.
+
+The **2020 / 2023 / 2025** Paper-IV model answers already ingested were
+**fully replaced** (not merged) with the compilation's answers wherever the
+same question appears, via the per-year `answers/<year>-mains-answers.json`
+files and `update-model-answers.mjs`.
+
 ## Model answers (Mains)
 
 Authored model answers live in `data/pyq/answers/<year>-mains-answers.json` as a
