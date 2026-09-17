@@ -157,7 +157,7 @@ async function main() {
     const { data: rows, error: selErr } = await supabase
       .from("mains_questions")
       .select("id")
-      .eq("year", q.year)
+      .eq("year", q.year ?? 0)
       .eq("paper_label", q.paper_label)
       .eq("question_text", q.text.trim());
     if (selErr) {

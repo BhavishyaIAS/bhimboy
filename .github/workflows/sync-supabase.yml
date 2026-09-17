@@ -1,0 +1,60 @@
+name: Sync PYQ answers to Supabase
+
+# Run this from the GitHub website:
+#   Actions tab -> "Sync PYQ answers to Supabase" -> "Run workflow"
+# Requires two repository secrets (Settings -> Secrets and variables -> Actions):
+#   NEXT_PUBLIC_SUPABASE_URL   = https://<your-project-ref>.supabase.co
+#   SUPABASE_SERVICE_ROLE_KEY  = <your service role key>
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Verify secrets are set
+        run: |
+          if [ -z "$NEXT_PUBLIC_SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "::error::Missing repository secrets NEXT_PUBLIC_SUPABASE_URL and/or SUPABASE_SERVICE_ROLE_KEY"
+            exit 1
+          fi
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Write .env.local from secrets
+        run: |
+          printf 'NEXT_PUBLIC_SUPABASE_URL=%s\nSUPABASE_SERVICE_ROLE_KEY=%s\n' \
+            "$NEXT_PUBLIC_SUPABASE_URL" "$SUPABASE_SERVICE_ROLE_KEY" > .env.local
+
+      - name: Attach per-year model answers (all papers, 2020/2023/2025)
+        run: |
+          for y in 2020 2023 2025; do
+            node --env-file=.env.local scripts/update-model-answers.mjs --year "$y"
+          done
+
+      - name: Import archive question rows (idempotent upsert; null year -> 0)
+        run: |
+          for f in paper2 paper3 paper4 paper5; do
+            node --env-file=.env.local scripts/import-paper4-archive.mjs --file "data/pyq/${f}-archive.json"
+          done
+
+      - name: Attach archive model answers (Paper II/III/IV/V)
+        run: |
+          for p in 2 3 4 5; do
+            node --env-file=.env.local "scripts/update-paper${p}-archive-answers.mjs"
+          done
+
+      - name: Clean up secrets file
+        if: always()
+        run: rm -f .env.local
