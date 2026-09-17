@@ -2,9 +2,10 @@ name: Sync PYQ answers to Supabase
 
 # Run this from the GitHub website:
 #   Actions tab -> "Sync PYQ answers to Supabase" -> "Run workflow"
-# Requires two repository secrets (Settings -> Secrets and variables -> Actions):
-#   NEXT_PUBLIC_SUPABASE_URL   = https://<your-project-ref>.supabase.co
-#   SUPABASE_SERVICE_ROLE_KEY  = <your service role key>
+# Requires repository secrets (Settings -> Secrets and variables -> Actions):
+#   NEXT_PUBLIC_SUPABASE_URL       = https://<your-project-ref>.supabase.co
+#   SUPABASE_SERVICE_ROLE_KEY      = <your service role key>   (required for sync)
+#   NEXT_PUBLIC_SUPABASE_ANON_KEY  = <your anon public key>    (optional; written for completeness)
 
 on:
   workflow_dispatch:
@@ -14,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
     steps:
       - uses: actions/checkout@v4
@@ -34,8 +36,8 @@ jobs:
 
       - name: Write .env.local from secrets
         run: |
-          printf 'NEXT_PUBLIC_SUPABASE_URL=%s\nSUPABASE_SERVICE_ROLE_KEY=%s\n' \
-            "$NEXT_PUBLIC_SUPABASE_URL" "$SUPABASE_SERVICE_ROLE_KEY" > .env.local
+          printf 'NEXT_PUBLIC_SUPABASE_URL=%s\nNEXT_PUBLIC_SUPABASE_ANON_KEY=%s\nSUPABASE_SERVICE_ROLE_KEY=%s\n' \
+            "$NEXT_PUBLIC_SUPABASE_URL" "$NEXT_PUBLIC_SUPABASE_ANON_KEY" "$SUPABASE_SERVICE_ROLE_KEY" > .env.local
 
       - name: Attach per-year model answers (all papers, 2020/2023/2025)
         run: |
