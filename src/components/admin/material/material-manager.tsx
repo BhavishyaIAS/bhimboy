@@ -133,6 +133,8 @@ function CategoryPanel({
   const [topicId, setTopicId] = useState("");
   const [microthemeId, setMicrothemeId] = useState("");
   const [fileName, setFileName] = useState("");
+  const [commission, setCommission] = useState<"appsc" | "tgpsc">("appsc");
+  const [group, setGroup] = useState<"1" | "2">("1");
   const [pending, startTransition] = useTransition();
 
   const papers = useMemo(
@@ -231,6 +233,8 @@ function CategoryPanel({
 
         const result = await createMaterial({
           category,
+          commission,
+          group,
           title,
           description,
           filePath: path,
@@ -306,6 +310,37 @@ function CategoryPanel({
             placeholder="A short note shown with the material."
             rows={2}
           />
+        </div>
+
+        {/* Exam track (commission + group) */}
+        <div className="mt-3 grid gap-3 sm:grid-cols-2">
+          <div className="space-y-1.5">
+            <Label>Commission</Label>
+            <Select
+              value={commission}
+              onValueChange={(v) => setCommission(v as "appsc" | "tgpsc")}
+            >
+              <SelectTrigger className="w-full">
+                <SelectValue />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="appsc">APPSC</SelectItem>
+                <SelectItem value="tgpsc">TGPSC</SelectItem>
+              </SelectContent>
+            </Select>
+          </div>
+          <div className="space-y-1.5">
+            <Label>Exam group</Label>
+            <Select value={group} onValueChange={(v) => setGroup(v as "1" | "2")}>
+              <SelectTrigger className="w-full">
+                <SelectValue />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="1">Group 1</SelectItem>
+                <SelectItem value="2">Group 2</SelectItem>
+              </SelectContent>
+            </Select>
+          </div>
         </div>
 
         {/* Syllabus-wise placement (cascading, each level optional) */}

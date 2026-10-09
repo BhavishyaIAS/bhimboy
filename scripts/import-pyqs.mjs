@@ -111,8 +111,15 @@ async function main() {
     // while staying a single row in the vault.
     const extraKeywords = Array.isArray(it.keywords) ? it.keywords : [];
     const keywords = [...new Set([...secondaryCodes, ...extraKeywords])];
+
+    // Commission / group: a "(TGPSC)" marker in the label means TGPSC; the
+    // marker is stripped so the stored label is clean (matches migration 0006).
+    const commission = /\(TGPSC\)/i.test(it.paper_label) ? "tgpsc" : "appsc";
+    const exam_group = "1";
+    const paper_label = it.paper_label.replace(/\s*\(TGPSC\)/gi, "").trim();
+
     // Stable natural key so re-runs update rather than duplicate.
-    const naturalKey = `${it.year}|${it.paper_label}|Q${it.no}${it.part ?? ""}`;
+    const naturalKey = `${it.year}|${paper_label}|Q${it.no}${it.part ?? ""}`;
 
     if (TYPE === "prelims" && !(it.answer ?? "").trim() && !it.option_a) {
       failed++;
@@ -129,7 +136,9 @@ async function main() {
       ? {
           microtheme_id,
           year: it.year,
-          paper_label: it.paper_label,
+          paper_label,
+          commission,
+          exam_group,
           question_text: it.text.trim(),
           option_a: (it.option_a ?? "").trim(),
           option_b: (it.option_b ?? "").trim(),
@@ -143,7 +152,9 @@ async function main() {
       : {
           microtheme_id,
           year: it.year,
-          paper_label: it.paper_label,
+          paper_label,
+          commission,
+          exam_group,
           question_text: it.text.trim(),
           option_a: (it.answer ?? "").trim(),
           option_b: it.option_b ?? "",
@@ -161,7 +172,9 @@ async function main() {
         : {
             microtheme_id,
             year: it.year,
-            paper_label: it.paper_label,
+            paper_label,
+          commission,
+          exam_group,
             question_text: it.text.trim(),
             directive_word: it.directive_word ?? null,
             marks: it.marks ?? null,
@@ -175,7 +188,7 @@ async function main() {
       .from(TABLE)
       .select("id")
       .eq("year", it.year)
-      .eq("paper_label", it.paper_label)
+      .eq("paper_label", paper_label)
       .eq("microtheme_id", microtheme_id)
       .eq("question_text", row.question_text)
       .maybeSingle();

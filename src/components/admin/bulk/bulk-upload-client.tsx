@@ -72,6 +72,8 @@ export function BulkUploadClient() {
   const router = useRouter();
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [type, setType] = useState<UploadType>("prelims");
+  const [commission, setCommission] = useState<"appsc" | "tgpsc">("appsc");
+  const [group, setGroup] = useState<"1" | "2">("1");
   const [filename, setFilename] = useState<string | null>(null);
   const [preview, setPreview] = useState<RowValidation[] | null>(null);
   const [committed, setCommitted] = useState<CommitResult | null>(null);
@@ -132,6 +134,8 @@ export function BulkUploadClient() {
         type,
         filename,
         rows: validRaw,
+        commission,
+        group,
       });
       if (!result.ok) {
         toast.error(result.error);
@@ -179,9 +183,58 @@ export function BulkUploadClient() {
             <Download className="h-4 w-4" /> Download {type} template
           </Button>
         </div>
+
+        <div className="mt-3 flex flex-wrap items-end gap-5">
+          <div>
+            <p className="mb-1 text-xs font-medium text-muted-foreground">
+              Commission
+            </p>
+            <div className="flex overflow-hidden rounded-md border">
+              {(["appsc", "tgpsc"] as const).map((c) => (
+                <button
+                  key={c}
+                  type="button"
+                  onClick={() => setCommission(c)}
+                  className={cn(
+                    "px-4 py-2 text-sm font-medium uppercase",
+                    commission === c
+                      ? "bg-primary text-primary-foreground"
+                      : "bg-background text-muted-foreground hover:bg-accent"
+                  )}
+                >
+                  {c}
+                </button>
+              ))}
+            </div>
+          </div>
+          <div>
+            <p className="mb-1 text-xs font-medium text-muted-foreground">
+              Exam group
+            </p>
+            <div className="flex overflow-hidden rounded-md border">
+              {(["1", "2"] as const).map((g) => (
+                <button
+                  key={g}
+                  type="button"
+                  onClick={() => setGroup(g)}
+                  className={cn(
+                    "px-4 py-2 text-sm font-medium",
+                    group === g
+                      ? "bg-primary text-primary-foreground"
+                      : "bg-background text-muted-foreground hover:bg-accent"
+                  )}
+                >
+                  Group {g}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+
         <p className="mt-2 text-xs text-muted-foreground">
           Row 1 must keep the column headers exactly as in the template. Every
-          row needs a valid micro-theme code (see the Syllabus Manager).
+          row needs a valid micro-theme code (see the Syllabus Manager). All
+          imported rows are tagged to the commission &amp; group selected above.
         </p>
       </div>
 

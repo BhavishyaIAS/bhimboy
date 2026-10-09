@@ -50,15 +50,19 @@ async function nextSortOrder(
 export async function createPaper(input: {
   name: string;
   stage: "prelims" | "mains";
+  commission?: "appsc" | "tgpsc";
+  group?: "1" | "2";
 }): Promise<ActionResult<{ id: string }>> {
   try {
     const { supabase } = await getAdminClient();
     const name = nameSchema.parse(input.name);
     const stage = z.enum(["prelims", "mains"]).parse(input.stage);
+    const commission = z.enum(["appsc", "tgpsc"]).parse(input.commission ?? "appsc");
+    const exam_group = z.enum(["1", "2"]).parse(input.group ?? "1");
     const sort_order = await nextSortOrder(supabase, "papers", null, null);
     const { data, error } = await supabase
       .from("papers")
-      .insert({ name, stage, sort_order })
+      .insert({ name, stage, sort_order, commission, exam_group })
       .select("id")
       .single();
     if (error) throw new Error(error.message);

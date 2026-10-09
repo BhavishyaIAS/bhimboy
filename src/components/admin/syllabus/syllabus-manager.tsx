@@ -714,8 +714,8 @@ export function SyllabusManager({ tree }: { tree: SyllabusTree }) {
       />
 
       <AddPaperForm
-        onAdd={async (name, stage) => {
-          await run(() => createPaper({ name, stage }));
+        onAdd={async (name, stage, commission, group) => {
+          await run(() => createPaper({ name, stage, commission, group }));
         }}
       />
     </div>
@@ -725,10 +725,17 @@ export function SyllabusManager({ tree }: { tree: SyllabusTree }) {
 function AddPaperForm({
   onAdd,
 }: {
-  onAdd: (name: string, stage: "prelims" | "mains") => Promise<void>;
+  onAdd: (
+    name: string,
+    stage: "prelims" | "mains",
+    commission: "appsc" | "tgpsc",
+    group: "1" | "2"
+  ) => Promise<void>;
 }) {
   const [name, setName] = useState("");
   const [stage, setStage] = useState<"prelims" | "mains">("prelims");
+  const [commission, setCommission] = useState<"appsc" | "tgpsc">("appsc");
+  const [group, setGroup] = useState<"1" | "2">("1");
   const [pending, startTransition] = useTransition();
 
   return (
@@ -758,12 +765,46 @@ function AddPaperForm({
           </button>
         ))}
       </div>
+      <div className="flex overflow-hidden rounded-md border">
+        {(["appsc", "tgpsc"] as const).map((c) => (
+          <button
+            key={c}
+            type="button"
+            onClick={() => setCommission(c)}
+            className={cn(
+              "px-3 py-1.5 text-xs font-medium uppercase",
+              commission === c
+                ? "bg-primary text-primary-foreground"
+                : "bg-background text-muted-foreground hover:bg-accent"
+            )}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <div className="flex overflow-hidden rounded-md border">
+        {(["1", "2"] as const).map((g) => (
+          <button
+            key={g}
+            type="button"
+            onClick={() => setGroup(g)}
+            className={cn(
+              "px-3 py-1.5 text-xs font-medium",
+              group === g
+                ? "bg-primary text-primary-foreground"
+                : "bg-background text-muted-foreground hover:bg-accent"
+            )}
+          >
+            G{g}
+          </button>
+        ))}
+      </div>
       <Button
         size="sm"
         disabled={!name.trim() || pending}
         onClick={() =>
           startTransition(async () => {
-            await onAdd(name.trim(), stage);
+            await onAdd(name.trim(), stage, commission, group);
             setName("");
           })
         }

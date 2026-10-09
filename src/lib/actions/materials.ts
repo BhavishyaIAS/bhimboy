@@ -11,6 +11,8 @@ const nullableUuid = z
 
 const createSchema = z.object({
   category: z.enum(["comprehensive", "prelims", "mains"]),
+  commission: z.enum(["appsc", "tgpsc"]).optional().default("appsc"),
+  group: z.enum(["1", "2"]).optional().default("1"),
   title: z.string().trim().min(1, "Title is required").max(300),
   description: z.string().trim().max(2000).optional().default(""),
   filePath: z.string().trim().min(1, "Missing file"),
@@ -34,6 +36,8 @@ export async function createMaterial(
       .from("materials")
       .insert({
         category: v.category,
+        commission: v.commission,
+        exam_group: v.group,
         title: v.title,
         description: v.description,
         file_path: v.filePath,

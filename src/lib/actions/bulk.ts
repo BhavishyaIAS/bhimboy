@@ -14,6 +14,8 @@ import {
 import { plainTextToTipTap } from "@/lib/tiptap-text";
 
 const typeSchema = z.enum(["prelims", "mains"]);
+const commissionSchema = z.enum(["appsc", "tgpsc"]);
+const groupSchema = z.enum(["1", "2"]);
 
 export interface BulkPreview {
   rows: RowValidation[];
@@ -78,11 +80,15 @@ export async function commitBulkUpload(input: {
   type: "prelims" | "mains";
   filename: string;
   rows: Record<string, unknown>[];
+  commission?: "appsc" | "tgpsc";
+  group?: "1" | "2";
 }): Promise<ActionResult<{ inserted: number; failed: number }>> {
   try {
     const { supabase, userId } = await getAdminClient();
     const type = typeSchema.parse(input.type);
     const filename = z.string().trim().min(1).max(300).parse(input.filename);
+    const commission = commissionSchema.parse(input.commission ?? "appsc");
+    const group = groupSchema.parse(input.group ?? "1");
 
     const validation = await validateBulkRows({ type, rows: input.rows });
     if (!validation.ok) return validation;
@@ -101,6 +107,9 @@ export async function commitBulkUpload(input: {
           v.model_answer = text ? plainTextToTipTap(text) : null;
           v.model_answer_text = text;
         }
+        // Tag every row with the chosen commission + group.
+        v.commission = commission;
+        v.exam_group = group;
         return v;
       });
 
