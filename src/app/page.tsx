@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { BarChart3, ChevronRight, FileText, Landmark } from "lucide-react";
+import Image from "next/image";
+import { BarChart3, ChevronRight, FileText } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
 import { SiteHeader } from "@/components/landing/site-header";
 
@@ -17,6 +18,7 @@ export default async function LandingPage() {
       cls: "appsc",
       title: "APPSC",
       full: "Andhra Pradesh Public Service Commission",
+      emblem: "/appsc-emblem.jpg",
       href: "/appsc",
     },
     {
@@ -24,6 +26,7 @@ export default async function LandingPage() {
       cls: "tgpsc",
       title: "TGPSC",
       full: "Telangana Public Service Commission",
+      emblem: "/tgpsc-emblem.jpg",
       href: "/tgpsc",
     },
   ];
@@ -48,7 +51,13 @@ export default async function LandingPage() {
           {commissions.map((c) => (
             <div key={c.key} className={`psc-exam ${c.cls}`}>
               <div className="psc-seal">
-                <Landmark className="h-10 w-10 text-white/90" />
+                <Image
+                  src={c.emblem}
+                  alt={`${c.title} emblem`}
+                  width={96}
+                  height={96}
+                  priority
+                />
               </div>
               <h2 className="psc-exam-title">{c.title}</h2>
               <p className="psc-exam-sub">{c.full}</p>

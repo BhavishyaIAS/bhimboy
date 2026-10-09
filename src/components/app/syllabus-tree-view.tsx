@@ -1,5 +1,4 @@
 import Link from "next/link";
-import type { Metadata } from "next";
 import { ChevronRight, FileText } from "lucide-react";
 import {
   Accordion,
@@ -8,74 +7,33 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
-import { redirect } from "next/navigation";
-import { getSyllabusTree } from "@/lib/queries";
-import { getUserAndProfile } from "@/lib/auth";
-import { ForestScene } from "@/components/living/forest-scene";
-import { Lotus } from "@/components/decor/ornaments";
 import { CoverageChips, paperTotals } from "@/components/app/coverage-chips";
+import type { SyllabusTree } from "@/lib/database.types";
 
-export const metadata: Metadata = { title: "Syllabus" };
-export const dynamic = "force-dynamic";
-
-export default async function SyllabusExplorerPage() {
-  // The Forest / Syllabus Detailer is admin-only.
-  const { profile } = await getUserAndProfile();
-  if (profile?.role !== "admin") redirect("/app");
-
-  const tree = await getSyllabusTree({ publishedOnly: true });
-
+/**
+ * Renders the syllabus hierarchy (paper → subject → topic → micro-theme),
+ * grouped by Prelims / Mains. Used by the admin-only Syllabus Detailer.
+ */
+export function SyllabusTreeView({ tree }: { tree: SyllabusTree }) {
   const prelims = tree.papers.filter((p) => p.stage === "prelims");
   const mains = tree.papers.filter((p) => p.stage === "mains");
 
-  const hasContent = tree.papers.some((p) =>
-    (p.subjects ?? []).some((s) => (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0))
-  );
-
   return (
     <>
-      <ForestScene />
-      <div className="relative animate-rise-in">
-      <h1 className="relative font-display text-3xl font-medium tracking-tight">
-        The Forest
-      </h1>
-      <p className="relative mt-1.5 text-sm text-muted-foreground">
-        The living syllabus. Walk it paper by paper — every branch a topic,
-        every leaf a micro‑theme. Nothing here competes; everything belongs.
-      </p>
-      <p className="relative mt-2 text-xs text-muted-foreground">
-        <span className="font-medium text-ember">core</span> = start here
-        (highest yield) · <span className="font-medium text-emerald-700">P+M</span>{" "}
-        = counts for Prelims and Mains — study once, use twice · the clock is
-        one honest sitting.
-      </p>
-
-      {!hasContent && (
-        <div className="mt-12 rounded-2xl border border-dashed bg-card/60 p-12 text-center text-muted-foreground backdrop-blur">
-          <Lotus className="mx-auto h-8 w-14 opacity-70" />
-          <p className="mt-4 font-display text-lg text-foreground">
-            The grove is still being planted
-          </p>
-          <p className="mt-1 text-sm">
-            Published notes will appear here soon — return shortly.
-          </p>
-        </div>
-      )}
-
       {[
         { label: "Prelims", papers: prelims },
         { label: "Mains", papers: mains },
       ].map(
         (group) =>
           group.papers.length > 0 && (
-            <section key={group.label} className="mt-9">
-              <h2 className="font-display text-xs font-semibold uppercase tracking-[0.3em] text-ember/70">
+            <section key={group.label} className="mt-6 first:mt-0">
+              <h2 className="text-xs font-semibold uppercase tracking-[0.25em] text-primary/80">
                 {group.label}
               </h2>
               <div className="mt-3 space-y-4">
                 {group.papers.map((paper) => {
-                  const subjects = (paper.subjects ?? []).filter(
-                    (s) => (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0)
+                  const subjects = (paper.subjects ?? []).filter((s) =>
+                    (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0)
                   );
                   const allMicros = (paper.subjects ?? []).flatMap((s) =>
                     (s.topics ?? []).flatMap((t) => t.microthemes ?? [])
@@ -84,10 +42,10 @@ export default async function SyllabusExplorerPage() {
                   return (
                     <div
                       key={paper.id}
-                      className="overflow-hidden rounded-2xl border bg-card/85 shadow-sm backdrop-blur"
+                      className="overflow-hidden rounded-2xl border bg-card shadow-sm"
                     >
-                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 border-b bg-gradient-to-r from-accent/70 to-transparent px-5 py-3.5">
-                        <h3 className="font-display font-semibold">{paper.name}</h3>
+                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 border-b bg-accent/50 px-5 py-3.5">
+                        <h3 className="font-semibold">{paper.name}</h3>
                         {allMicros.length > 0 && (
                           <span className="text-xs text-muted-foreground">
                             {allMicros.length} micro-theme
@@ -98,7 +56,7 @@ export default async function SyllabusExplorerPage() {
                       </div>
                       {subjects.length === 0 ? (
                         <p className="px-5 py-4 text-sm italic text-muted-foreground">
-                          This paper is still gathering its leaves.
+                          No mapped topics in this paper yet.
                         </p>
                       ) : (
                         <Accordion type="multiple" className="px-5">
@@ -158,7 +116,6 @@ export default async function SyllabusExplorerPage() {
             </section>
           )
       )}
-      </div>
     </>
   );
 }

@@ -27,17 +27,20 @@ export function GroupChooser({
   commission: Commission;
   loggedIn: boolean;
 }) {
-  const enterHref = loggedIn ? "/app/syllabus" : "/login";
+  const hrefFor = (group: "1" | "2") =>
+    loggedIn ? `/app/g/${group}` : `/login?next=/app/g/${group}`;
 
   const groups = [
     {
       cls: "bhv-exam1",
       name: "GROUP 1",
+      href: hrefFor("1"),
       text: `The complete ${commission.short} Group 1 journey — from the prelims screening through the descriptive mains papers and the interview.`,
     },
     {
       cls: "bhv-exam2",
       name: "GROUP 2",
+      href: hrefFor("2"),
       text: `Structured ${commission.short} Group 2 preparation across the screening test and the main examination, mapped subject by subject.`,
     },
   ];
@@ -59,7 +62,7 @@ export function GroupChooser({
 
         <section className="bhv-landing">
           {groups.map((g) => (
-            <Link key={g.name} href={enterHref} className={`bhv-exam-card ${g.cls}`}>
+            <Link key={g.name} href={g.href} className={`bhv-exam-card ${g.cls}`}>
               <span className="bhv-arrow">↗</span>
               <h2>
                 {commission.short} · {g.name}
