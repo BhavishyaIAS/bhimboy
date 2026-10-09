@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import {
   FileQuestion,
   LayoutDashboard,
@@ -8,7 +9,6 @@ import {
 } from "lucide-react";
 import { requireAdmin } from "@/lib/auth";
 import { logout } from "@/lib/actions/auth";
-import { Button } from "@/components/ui/button";
 
 const NAV = [
   { href: "/admin", label: "Dashboard", icon: LayoutDashboard },
@@ -27,37 +27,46 @@ export default async function AdminLayout({
 
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="sticky top-0 z-40 border-b bg-background/95 backdrop-blur">
-        <div className="mx-auto flex h-14 w-full max-w-6xl items-center gap-2 px-4">
-          <Link
-            href="/admin"
-            className="mr-2 shrink-0 font-display font-semibold italic tracking-tight"
-          >
-            Bhimboy <span className="not-italic text-muted-foreground">Admin</span>
+      <header className="bhv-topbar">
+        <Link href="/admin" className="bhv-brand">
+          <Image
+            src="/bhavishya-logo.png"
+            alt="Bhavishya IAS"
+            width={68}
+            height={68}
+            className="bhv-brand-logo"
+            priority
+          />
+          <span>
+            <b>Bhavishya IAS</b>
+            <span>MANAGE · CONTENT STUDIO</span>
+          </span>
+        </Link>
+
+        <nav className="bhv-nav">
+          {NAV.map((item) => (
+            <Link key={item.href} href={item.href} className="bhv-nav-link">
+              <item.icon className="h-4 w-4" />
+              <span className="hidden sm:inline">{item.label}</span>
+            </Link>
+          ))}
+        </nav>
+
+        <div className="flex shrink-0 items-center gap-2">
+          <Link href="/app" className="bhv-admin">
+            View app
           </Link>
-          <nav className="flex items-center gap-0.5 overflow-x-auto">
-            {NAV.map((item) => (
-              <Button key={item.href} asChild variant="ghost" size="sm">
-                <Link href={item.href}>
-                  <item.icon className="h-4 w-4" />
-                  <span className="hidden sm:inline">{item.label}</span>
-                </Link>
-              </Button>
-            ))}
-          </nav>
-          <div className="ml-auto flex items-center gap-1">
-            <Button asChild variant="outline" size="sm">
-              <Link href="/app">View app</Link>
-            </Button>
-            <form action={logout}>
-              <Button variant="ghost" size="sm" type="submit">
-                Log out
-              </Button>
-            </form>
-          </div>
+          <form action={logout}>
+            <button type="submit" className="bhv-nav-link">
+              Log out
+            </button>
+          </form>
         </div>
       </header>
-      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6">{children}</main>
+
+      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-7">
+        {children}
+      </main>
     </div>
   );
 }

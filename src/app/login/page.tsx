@@ -1,21 +1,37 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { LoginForm } from "./login-form";
-import { OceanScene } from "@/components/living/ocean-scene";
-import { Lotus } from "@/components/decor/ornaments";
 
 export const metadata: Metadata = { title: "Log in" };
 
 export default function LoginPage() {
   return (
-    <main className="relative flex flex-1 flex-col items-center justify-center overflow-hidden bg-[#081527] px-4 py-12">
-      <OceanScene />
-      <div className="relative z-10 w-full max-w-sm animate-rise-in">
-        <Link href="/" className="block text-center">
-          <Lotus breathing className="mx-auto h-9 w-16 fill-slate-200/90" />
-          <span className="mt-2 block font-display text-lg font-semibold italic text-slate-100">
-            Bhimboy
+    <main className="relative flex flex-1 flex-col items-center justify-center overflow-hidden px-4 py-12">
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0 -z-10"
+        style={{
+          background:
+            "radial-gradient(120% 80% at 50% -10%, #ffe3e6 0%, #eef3fb 45%, #f4f7fc 100%)",
+        }}
+      />
+      <div className="w-full max-w-sm animate-rise-in">
+        <Link href="/" className="flex flex-col items-center text-center">
+          <Image
+            src="/bhavishya-logo.png"
+            alt="Bhavishya IAS"
+            width={72}
+            height={72}
+            className="h-[72px] w-[72px] rounded-full border-[3px] border-white bg-white object-contain shadow-[0_6px_22px_rgba(16,36,62,0.18)]"
+            priority
+          />
+          <span className="mt-3 block text-lg font-extrabold tracking-tight text-[color:var(--navy)]">
+            Bhavishya IAS
+          </span>
+          <span className="mt-0.5 block text-[11px] font-semibold uppercase tracking-[0.12em] text-muted-foreground">
+            APPSC Group 1 &amp; Group 2
           </span>
         </Link>
         <div className="mt-6">
@@ -23,9 +39,6 @@ export default function LoginPage() {
             <LoginForm />
           </Suspense>
         </div>
-        <p className="mt-6 text-center text-xs italic text-slate-400/70">
-          The ocean is calm tonight. Come in quietly.
-        </p>
       </div>
     </main>
   );

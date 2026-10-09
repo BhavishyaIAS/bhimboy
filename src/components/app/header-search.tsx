@@ -23,7 +23,7 @@ export function HeaderSearch() {
         name="q"
         type="search"
         placeholder="Search notes, PYQs…"
-        className="h-8 pl-8"
+        className="h-9 rounded-[10px] border-white/40 bg-white pl-8 text-foreground placeholder:text-muted-foreground"
       />
     </form>
   );
