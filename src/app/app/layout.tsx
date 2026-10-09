@@ -17,7 +17,7 @@ export default async function StudentLayout({
       <header className="bhv-topbar">
         <Link href="/app" className="bhv-brand">
           <Image
-            src="/bhavishya-logo.png"
+            src="/bhavishya-psc-logo.png"
             alt="Bhavishya IAS"
             width={68}
             height={68}

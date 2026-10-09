@@ -30,7 +30,7 @@ export default async function AdminLayout({
       <header className="bhv-topbar">
         <Link href="/admin" className="bhv-brand">
           <Image
-            src="/bhavishya-logo.png"
+            src="/bhavishya-psc-logo.png"
             alt="Bhavishya IAS"
             width={68}
             height={68}

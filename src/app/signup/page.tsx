@@ -19,7 +19,7 @@ export default function SignupPage() {
       <div className="w-full max-w-sm animate-rise-in">
         <Link href="/" className="flex flex-col items-center text-center">
           <Image
-            src="/bhavishya-logo.png"
+            src="/bhavishya-psc-logo.png"
             alt="Bhavishya IAS"
             width={72}
             height={72}

@@ -710,6 +710,268 @@
 }
 
 /* ============================================================
+   Bhavishya·PSCs — commission chooser landing (APPSC / TGPSC)
+   Faithful to the approved "Choose Your Exam" mockup.
+   ============================================================ */
+.psc-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: #fff;
+  padding: 14px 34px;
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 14px rgba(16, 36, 62, 0.06);
+}
+.psc-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  min-width: 0;
+}
+.psc-brand-logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 10px rgba(180, 0, 20, 0.18);
+}
+.psc-wordmark b {
+  display: block;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  color: var(--navy);
+}
+.psc-wordmark b .psc-accent {
+  color: var(--brand-red);
+}
+.psc-wordmark span {
+  display: block;
+  margin-top: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  color: #6b7b93;
+}
+.psc-actions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.psc-btn-login {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1.5px solid #b9c6dd;
+  color: var(--blue-ink);
+  background: #fff;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: 800;
+  text-decoration: none;
+}
+.psc-btn-login:hover {
+  background: #f2f6fd;
+}
+.psc-btn-signup {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(100deg, #e4111f, #c30d25);
+  color: #fff;
+  padding: 11px 22px;
+  border-radius: 12px;
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(195, 13, 37, 0.3);
+}
+.psc-btn-signup:hover {
+  filter: brightness(1.06);
+}
+
+.psc-page {
+  position: relative;
+  flex: 1;
+  padding: 46px 28px 80px;
+  background: linear-gradient(180deg, #eaf1fb 0%, #f3e9ec 55%, #f7eee6 100%);
+}
+.psc-hero {
+  text-align: center;
+  max-width: 1040px;
+  margin: 0 auto 36px;
+}
+.psc-eyebrow {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 6px;
+  color: #5f6f8a;
+  text-transform: uppercase;
+}
+.psc-h1 {
+  font-size: 60px;
+  line-height: 1.05;
+  font-weight: 800;
+  letter-spacing: -1.5px;
+  color: var(--navy);
+  margin: 12px 0 14px;
+}
+.psc-h1 .psc-accent {
+  color: var(--brand-red);
+}
+.psc-taglines {
+  font-size: 18px;
+  color: #1f3a63;
+  font-weight: 600;
+}
+.psc-taglines .sep {
+  color: #b9c3d6;
+  margin: 0 12px;
+}
+
+.psc-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+.psc-exam {
+  position: relative;
+  overflow: hidden;
+  border-radius: 26px;
+  padding: 32px 30px 30px;
+  min-height: 360px;
+  color: #fff;
+  box-shadow: 0 20px 50px rgba(16, 36, 62, 0.22);
+  display: flex;
+  flex-direction: column;
+}
+.psc-exam.appsc {
+  background: linear-gradient(135deg, #7a0612 0%, #c30d25 45%, #e21b2b 100%);
+}
+.psc-exam.tgpsc {
+  background: linear-gradient(135deg, #0a2a63 0%, #1458c8 55%, #2d7ff0 100%);
+}
+.psc-exam::after {
+  content: "";
+  position: absolute;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  background: #ffffff14;
+  right: -90px;
+  top: -90px;
+}
+.psc-seal {
+  position: relative;
+  z-index: 1;
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  background: #ffffff1f;
+  border: 3px solid #ffffff5a;
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+}
+.psc-exam-title {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  font-size: 46px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin: 16px 0 4px;
+  color: #fff;
+}
+.psc-exam-sub {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1.8px;
+  color: #ffffffd0;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.psc-group-row {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: auto;
+}
+.psc-group-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 16px 18px;
+  font-weight: 800;
+  font-size: 16px;
+  text-decoration: none;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.14);
+  transition: transform 0.16s;
+}
+.psc-group-btn .chev {
+  margin-left: auto;
+}
+.psc-exam.appsc .psc-group-btn {
+  color: var(--brand-red);
+}
+.psc-exam.tgpsc .psc-group-btn {
+  color: var(--blue);
+}
+.psc-group-btn:hover {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 860px) {
+  .psc-grid {
+    grid-template-columns: 1fr;
+  }
+  .psc-h1 {
+    font-size: 40px;
+  }
+  .psc-header {
+    padding: 12px 16px;
+  }
+  .psc-page {
+    padding: 30px 15px 60px;
+  }
+  .psc-wordmark b {
+    font-size: 21px;
+  }
+  .psc-wordmark span {
+    letter-spacing: 3px;
+  }
+}
+@media (max-width: 520px) {
+  .psc-taglines {
+    font-size: 15px;
+  }
+  .psc-taglines .sep {
+    margin: 0 7px;
+  }
+  .psc-exam-title {
+    font-size: 38px;
+  }
+  .psc-actions .psc-btn-login span,
+  .psc-actions .psc-btn-signup span {
+    display: none;
+  }
+}
+
+/* ============================================================
    Rich content (notes / model answers) — brand-themed
    ============================================================ */
 .rich-content {
