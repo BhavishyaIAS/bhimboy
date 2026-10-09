@@ -1,31 +1,28 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
+import { BarChart3, ChevronRight, FileText } from "lucide-react";
 
 export const metadata: Metadata = { title: "Home" };
 
-// Prototype "Home" view: hero + the two preparation workspaces (Group 1 / 2).
+// Prototype "Home": choose a commission, then a group. Real content currently
+// lives under APPSC Group 1; other tracks open to empty states with uploads.
 export default function AppHomePage() {
-  const groups = [
+  const commissions = [
     {
-      cls: "bhv-exam1",
-      name: "GROUP 1",
-      href: "/app/g/1",
-      text: "Complete preparation workspace for APPSC Group 1 Prelims and Mains.",
+      key: "appsc",
+      cls: "appsc",
+      title: "APPSC",
+      full: "Andhra Pradesh Public Service Commission",
+      emblem: "/appsc-emblem.jpg",
     },
     {
-      cls: "bhv-exam2",
-      name: "GROUP 2",
-      href: "/app/g/2",
-      text: "Complete preparation workspace for APPSC Group 2 Prelims and Mains.",
+      key: "tgpsc",
+      cls: "tgpsc",
+      title: "TGPSC",
+      full: "Telangana Public Service Commission",
+      emblem: "/tgpsc-emblem.jpg",
     },
-  ];
-
-  const features = [
-    "Syllabus Detailer",
-    "Progress Tracker",
-    "Prelims PYQs",
-    "Mains PYQs",
-    "Materials",
   ];
 
   return (
@@ -34,32 +31,38 @@ export default function AppHomePage() {
         <p className="bhv-eyebrow">APPSC • Structured Preparation Ecosystem</p>
         <h1 className="bhv-h1">One Platform. Every Stage of Preparation.</h1>
         <p className="bhv-lead">
-          Select your examination and access syllabus mapping, progress tracking,
-          Prelims &amp; Mains PYQs, and syllabus-wise study materials.
+          Choose your commission and group to open its preparation workspace —
+          syllabus, progress, Prelims &amp; Mains PYQs and study material.
         </p>
       </section>
 
-      <section className="bhv-landing">
-        {groups.map((g) => (
-          <Link key={g.name} href={g.href} className={`bhv-exam-card ${g.cls}`}>
-            <span className="bhv-arrow">↗</span>
-            <h2>{g.name}</h2>
-            <p>{g.text}</p>
-            <div className="bhv-features">
-              {features.map((f) => (
-                <span key={f} className="bhv-pill">
-                  {f}
-                </span>
-              ))}
+      <section className="psc-grid" style={{ marginTop: 18 }}>
+        {commissions.map((c) => (
+          <div key={c.key} className={`psc-exam ${c.cls}`}>
+            <div className="psc-seal">
+              <Image src={c.emblem} alt={`${c.title} emblem`} width={96} height={96} />
             </div>
-            <span className="font-extrabold tracking-wide">ENTER {g.name} →</span>
-          </Link>
+            <h2 className="psc-exam-title">{c.title}</h2>
+            <p className="psc-exam-sub">{c.full}</p>
+            <div className="psc-group-row">
+              <Link href={`/app/g/${c.key}/1`} className="psc-group-btn">
+                <FileText className="h-5 w-5" />
+                Group - 1
+                <ChevronRight className="chev h-5 w-5" />
+              </Link>
+              <Link href={`/app/g/${c.key}/2`} className="psc-group-btn">
+                <BarChart3 className="h-5 w-5" />
+                Group - 2
+                <ChevronRight className="chev h-5 w-5" />
+              </Link>
+            </div>
+          </div>
         ))}
       </section>
 
       <p className="bhv-footer">
-        Bhavishya·PSCs • Structured Preparation Ecosystem • Syllabus-mapped
-        content, PYQs and materials.
+        Content is currently available for APPSC Group 1. Other tracks are ready
+        for upload.
       </p>
     </div>
   );

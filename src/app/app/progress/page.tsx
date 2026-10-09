@@ -27,8 +27,16 @@ export default async function GlobalProgressPage() {
   }
   const coverage = total ? Math.round((published / total) * 100) : 0;
 
+  // Content currently exists only for APPSC Group 1.
+  const tracks = [
+    { c: "appsc", g: "1", label: "APPSC · Group 1", has: true },
+    { c: "appsc", g: "2", label: "APPSC · Group 2", has: false },
+    { c: "tgpsc", g: "1", label: "TGPSC · Group 1", has: false },
+    { c: "tgpsc", g: "2", label: "TGPSC · Group 2", has: false },
+  ];
+
   const stats = [
-    { label: "Syllabus Coverage", value: `${coverage}%`, bar: coverage },
+    { label: "Syllabus Coverage (APPSC G1)", value: `${coverage}%`, bar: coverage },
     { label: "Micro-themes Published", value: `${published}/${total}` },
     { label: "Prelims PYQs", value: String(prelims.total) },
     { label: "Mains PYQs", value: String(mains.total) },
@@ -77,29 +85,41 @@ export default async function GlobalProgressPage() {
             </tr>
           </thead>
           <tbody>
-            {[
-              { name: "Group 1", n: "1" },
-              { name: "Group 2", n: "2" },
-            ].map((g) => (
-              <tr key={g.n}>
+            {tracks.map((t) => (
+              <tr key={`${t.c}-${t.g}`}>
                 <td>
-                  <b>{g.name}</b>
+                  <b>{t.label}</b>
                 </td>
-                <td style={{ minWidth: 160 }}>
-                  <div className="bhv-progress-wrap">
-                    <div
-                      className="bhv-progress-bar"
-                      style={{ width: `${coverage}%` }}
-                    />
-                  </div>
-                  <span className="mt-1 inline-block text-xs text-muted-foreground">
-                    {coverage}%
-                  </span>
-                </td>
-                <td>{prelims.total}</td>
-                <td>{mains.total}</td>
+                {t.has ? (
+                  <>
+                    <td style={{ minWidth: 160 }}>
+                      <div className="bhv-progress-wrap">
+                        <div
+                          className="bhv-progress-bar"
+                          style={{ width: `${coverage}%` }}
+                        />
+                      </div>
+                      <span className="mt-1 inline-block text-xs text-muted-foreground">
+                        {coverage}%
+                      </span>
+                    </td>
+                    <td>{prelims.total}</td>
+                    <td>{mains.total}</td>
+                  </>
+                ) : (
+                  <>
+                    <td>
+                      <span className="bhv-badge">No content yet</span>
+                    </td>
+                    <td>—</td>
+                    <td>—</td>
+                  </>
+                )}
                 <td>
-                  <Link href={`/app/g/${g.n}/progress`} className="bhv-btn-secondary">
+                  <Link
+                    href={`/app/g/${t.c}/${t.g}/progress`}
+                    className="bhv-btn-secondary"
+                  >
                     View
                   </Link>
                 </td>

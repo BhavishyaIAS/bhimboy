@@ -14,6 +14,7 @@ export default async function AppscPage() {
     <GroupChooser
       loggedIn={!!user}
       commission={{
+        key: "appsc",
         short: "APPSC",
         full: "Andhra Pradesh Public Service Commission",
       }}

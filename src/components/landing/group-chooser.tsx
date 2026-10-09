@@ -3,6 +3,7 @@ import { ArrowLeft } from "lucide-react";
 import { SiteHeader } from "@/components/landing/site-header";
 
 type Commission = {
+  key: "appsc" | "tgpsc";
   short: string; // APPSC / TGPSC
   full: string; // full commission name
 };
@@ -27,8 +28,10 @@ export function GroupChooser({
   commission: Commission;
   loggedIn: boolean;
 }) {
-  const hrefFor = (group: "1" | "2") =>
-    loggedIn ? `/app/g/${group}` : `/login?next=/app/g/${group}`;
+  const hrefFor = (group: "1" | "2") => {
+    const dest = `/app/g/${commission.key}/${group}`;
+    return loggedIn ? dest : `/login?next=${encodeURIComponent(dest)}`;
+  };
 
   const groups = [
     {

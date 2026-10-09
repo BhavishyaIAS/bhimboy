@@ -14,6 +14,7 @@ export default async function TgpscPage() {
     <GroupChooser
       loggedIn={!!user}
       commission={{
+        key: "tgpsc",
         short: "TGPSC",
         full: "Telangana Public Service Commission",
       }}

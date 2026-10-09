@@ -1,7 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { Download } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
+import { EmptyTrack, UploadCTA } from "@/components/app/track";
+import {
+  commissionShort,
+  isCommission,
+  isGroup,
+  trackHasContent,
+} from "@/lib/exam";
 import type { Material, MaterialCategory } from "@/lib/database.types";
 
 export const metadata: Metadata = { title: "Material / Notes" };
@@ -17,10 +25,23 @@ export default async function MaterialsTab({
   params,
   searchParams,
 }: {
-  params: Promise<{ group: string }>;
+  params: Promise<{ commission: string; group: string }>;
   searchParams: Promise<{ type?: string }>;
 }) {
-  const { group } = await params;
+  const { commission, group } = await params;
+  if (!isCommission(commission) || !isGroup(group)) notFound();
+
+  if (!trackHasContent(commission, group)) {
+    return (
+      <EmptyTrack
+        title="No study material yet"
+        note={`Full Notes, Prelims Notes and Mains Notes for ${commissionShort(commission)} Group ${group} haven’t been uploaded yet.`}
+        uploadHref="/admin/material"
+        uploadLabel="Upload Material"
+      />
+    );
+  }
+
   const { type } = await searchParams;
   const active: MaterialCategory =
     type === "prelims" || type === "mains" ? type : "comprehensive";
@@ -46,7 +67,6 @@ export default async function MaterialsTab({
 
   const rows = materials.filter((m) => m.category === active);
 
-  // Private bucket → short-lived signed URLs for download.
   const signedUrls: Record<string, string> = {};
   const paths = [...new Set(rows.map((m) => m.file_path).filter(Boolean))];
   if (paths.length) {
@@ -58,13 +78,20 @@ export default async function MaterialsTab({
     }
   }
 
+  const base = `/app/g/${commission}/${group}`;
+
   return (
     <>
+      <div className="bhv-section-head" style={{ marginTop: 0 }}>
+        <h2 style={{ fontSize: 18, margin: 0 }}>Material / Notes</h2>
+        <UploadCTA href="/admin/material" label="Upload Material" />
+      </div>
+
       <div className="bhv-note-types">
         {CATS.map((c) => (
           <Link
             key={c.key}
-            href={`/app/g/${group}/materials?type=${c.key}`}
+            href={`${base}/materials?type=${c.key}`}
             className={`bhv-note-type${c.key === active ? " active" : ""}`}
           >
             <b>{c.label}</b>
@@ -103,7 +130,9 @@ export default async function MaterialsTab({
                     <td>
                       <b>{m.title}</b>
                     </td>
-                    <td className="text-muted-foreground">{m.description || "—"}</td>
+                    <td className="text-muted-foreground">
+                      {m.description || "—"}
+                    </td>
                     <td>{m.file_name || "—"}</td>
                     <td>
                       {url ? (

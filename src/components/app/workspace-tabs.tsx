@@ -14,14 +14,16 @@ const TABS: Tab[] = [
 ];
 
 export function WorkspaceTabs({
+  commission,
   group,
   isAdmin,
 }: {
+  commission: string;
   group: string;
   isAdmin: boolean;
 }) {
   const pathname = usePathname();
-  const base = `/app/g/${group}`;
+  const base = `/app/g/${commission}/${group}`;
   const visible = TABS.filter((t) => isAdmin || !t.adminOnly);
 
   return (
