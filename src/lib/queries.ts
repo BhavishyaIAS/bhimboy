@@ -2,6 +2,8 @@ import "server-only";
 
 import { createClient } from "@/lib/supabase/server";
 import type {
+  Commission,
+  ExamGroup,
   GlossaryTerm,
   MainsQuestion,
   Microtheme,
@@ -14,11 +16,34 @@ import type {
   Video,
 } from "@/lib/database.types";
 
+// Whether the commission/exam_group columns (migration 0006) exist yet.
+// Cached per server instance; until the migration is applied, track filters
+// are skipped so the app keeps working (unsegregated, as before).
+let _trackReady: boolean | null = null;
+async function trackColumnsReady(): Promise<boolean> {
+  if (_trackReady === true) return true;
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from("prelims_questions")
+      .select("commission")
+      .limit(1);
+    _trackReady = !error;
+  } catch {
+    _trackReady = false;
+  }
+  return _trackReady ?? false;
+}
+
 // RLS already restricts students to published rows; `publishedOnly` applies
 // the same filter explicitly so admins previewing the student area see
 // exactly what students see.
 export async function getSyllabusTree(
-  options: { publishedOnly?: boolean } = {}
+  options: {
+    publishedOnly?: boolean;
+    commission?: Commission;
+    group?: ExamGroup;
+  } = {}
 ): Promise<SyllabusTree> {
   const supabase = await createClient();
   let query = supabase
@@ -43,6 +68,11 @@ export async function getSyllabusTree(
       .eq("subjects.status", "published")
       .eq("subjects.topics.status", "published")
       .eq("subjects.topics.microthemes.status", "published");
+  }
+
+  if ((options.commission || options.group) && (await trackColumnsReady())) {
+    if (options.commission) query = query.eq("commission", options.commission);
+    if (options.group) query = query.eq("exam_group", options.group);
   }
 
   const { data, error } = await query;
@@ -156,6 +186,8 @@ async function getOrderedMicrothemes(): Promise<
 
 export interface PyqFilters {
   stage?: "prelims" | "mains";
+  commission?: Commission;
+  group?: ExamGroup;
   paperLabel?: string;
   year?: number;
   subjectId?: string;
@@ -230,6 +262,11 @@ async function queryQuestions(
   if (filters.paperLabel) query = query.eq("paper_label", filters.paperLabel);
   if (filters.year) query = query.eq("year", filters.year);
   if (filters.status) query = query.eq("status", filters.status);
+
+  if ((filters.commission || filters.group) && (await trackColumnsReady())) {
+    if (filters.commission) query = query.eq("commission", filters.commission);
+    if (filters.group) query = query.eq("exam_group", filters.group);
+  }
 
   const scopeIds = await getMicrothemeIdsForScope(filters);
   if (scopeIds) {
@@ -334,14 +371,31 @@ async function attachTags(items: PyqWithMeta[]) {
   }
 }
 
-// Filter dropdown option sources for the vault.
-export async function getPyqFilterOptions() {
+// Filter dropdown option sources for the vault. When a track scope is given
+// (and the columns exist), the paper/year options reflect that track only.
+export async function getPyqFilterOptions(scope?: {
+  commission?: Commission;
+  group?: ExamGroup;
+}) {
   const supabase = await createClient();
+  const ready =
+    scope?.commission || scope?.group ? await trackColumnsReady() : false;
+
+  const sel = (
+    table: "prelims_questions" | "mains_questions",
+    col: "paper_label" | "year"
+  ) => {
+    let q = supabase.from(table).select(col);
+    if (ready && scope?.commission) q = q.eq("commission", scope.commission);
+    if (ready && scope?.group) q = q.eq("exam_group", scope.group);
+    return q.limit(1000);
+  };
+
   const [papersRes, yearsPrelims, yearsMains, tagsRes, subjectsRes] =
     await Promise.all([
-      supabase.from("prelims_questions").select("paper_label").limit(1000),
-      supabase.from("prelims_questions").select("year").limit(1000),
-      supabase.from("mains_questions").select("year").limit(1000),
+      sel("prelims_questions", "paper_label"),
+      sel("prelims_questions", "year"),
+      sel("mains_questions", "year"),
       supabase.from("tags").select("name").order("name").limit(500),
       supabase
         .from("subjects")
@@ -351,24 +405,19 @@ export async function getPyqFilterOptions() {
         .order("sort_order", { referencedTable: "topics.microthemes" }),
     ]);
 
-  const mainsLabels = await supabase
-    .from("mains_questions")
-    .select("paper_label")
-    .limit(1000);
+  const mainsLabels = await sel("mains_questions", "paper_label");
 
-  const paperLabels = [
-    ...new Set(
-      [...(papersRes.data ?? []), ...(mainsLabels.data ?? [])].map(
-        (r) => r.paper_label
-      )
-    ),
-  ].sort();
+  const labelRows = [
+    ...(papersRes.data ?? []),
+    ...(mainsLabels.data ?? []),
+  ] as { paper_label: string }[];
+  const paperLabels = [...new Set(labelRows.map((r) => r.paper_label))].sort();
 
-  const years = [
-    ...new Set(
-      [...(yearsPrelims.data ?? []), ...(yearsMains.data ?? [])].map((r) => r.year)
-    ),
-  ].sort((a, b) => b - a);
+  const yearRows = [
+    ...(yearsPrelims.data ?? []),
+    ...(yearsMains.data ?? []),
+  ] as { year: number }[];
+  const years = [...new Set(yearRows.map((r) => r.year))].sort((a, b) => b - a);
 
   return {
     paperLabels,

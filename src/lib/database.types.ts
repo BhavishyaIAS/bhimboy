@@ -6,6 +6,8 @@ export type ExamStage = "prelims" | "mains";
 export type Role = "admin" | "student";
 export type CorrectOption = "A" | "B" | "C" | "D";
 export type MaterialCategory = "comprehensive" | "prelims" | "mains";
+export type Commission = "appsc" | "tgpsc";
+export type ExamGroup = "1" | "2";
 
 export interface Profile {
   id: string;
@@ -18,6 +20,8 @@ export interface Paper {
   id: string;
   name: string;
   stage: ExamStage;
+  commission: Commission;
+  exam_group: ExamGroup;
   sort_order: number;
   created_at: string;
   updated_at: string;
@@ -103,6 +107,8 @@ export interface PrelimsQuestion {
   microtheme_id: string;
   year: number;
   paper_label: string;
+  commission: Commission;
+  exam_group: ExamGroup;
   question_text: string;
   option_a: string;
   option_b: string;
@@ -121,6 +127,8 @@ export interface MainsQuestion {
   microtheme_id: string;
   year: number;
   paper_label: string;
+  commission: Commission;
+  exam_group: ExamGroup;
   question_text: string;
   directive_word: string | null;
   marks: number | null;
@@ -135,6 +143,8 @@ export interface MainsQuestion {
 export interface Material {
   id: string;
   category: MaterialCategory;
+  commission: Commission;
+  exam_group: ExamGroup;
   title: string;
   description: string;
   file_path: string;

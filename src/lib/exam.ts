@@ -5,13 +5,14 @@
 // commission + group in the database, APPSC Group 1 is the only populated
 // track; every other track shows empty states with admin upload options.
 
-export const COMMISSIONS = {
+import type { Commission, ExamGroup } from "@/lib/database.types";
+
+export type { Commission, ExamGroup };
+
+export const COMMISSIONS: Record<Commission, string> = {
   appsc: "Andhra Pradesh Public Service Commission",
   tgpsc: "Telangana Public Service Commission",
-} as const;
-
-export type Commission = keyof typeof COMMISSIONS;
-export type ExamGroup = "1" | "2";
+};
 
 export function isCommission(x: string): x is Commission {
   return x === "appsc" || x === "tgpsc";
@@ -27,9 +28,4 @@ export function commissionShort(c: Commission): string {
 
 export function commissionFull(c: Commission): string {
   return COMMISSIONS[c];
-}
-
-/** The only track with real content right now is APPSC Group 1. */
-export function trackHasContent(c: Commission, g: ExamGroup): boolean {
-  return c === "appsc" && g === "1";
 }

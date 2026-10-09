@@ -3,13 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Download } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
-import { EmptyTrack, UploadCTA } from "@/components/app/track";
-import {
-  commissionShort,
-  isCommission,
-  isGroup,
-  trackHasContent,
-} from "@/lib/exam";
+import { UploadCTA } from "@/components/app/track";
+import { isCommission, isGroup } from "@/lib/exam";
 import type { Material, MaterialCategory } from "@/lib/database.types";
 
 export const metadata: Metadata = { title: "Material / Notes" };
@@ -31,17 +26,6 @@ export default async function MaterialsTab({
   const { commission, group } = await params;
   if (!isCommission(commission) || !isGroup(group)) notFound();
 
-  if (!trackHasContent(commission, group)) {
-    return (
-      <EmptyTrack
-        title="No study material yet"
-        note={`Full Notes, Prelims Notes and Mains Notes for ${commissionShort(commission)} Group ${group} haven’t been uploaded yet.`}
-        uploadHref="/admin/material"
-        uploadLabel="Upload Material"
-      />
-    );
-  }
-
   const { type } = await searchParams;
   const active: MaterialCategory =
     type === "prelims" || type === "mains" ? type : "comprehensive";
@@ -51,13 +35,30 @@ export default async function MaterialsTab({
   let materials: Material[] = [];
   let unavailable = false;
   try {
-    const { data, error } = await supabase
+    // Prefer the track-scoped query; fall back if the commission column
+    // isn't there yet (migration 0006 not applied).
+    const scoped = await supabase
       .from("materials")
       .select("*")
       .eq("status", "published")
+      .eq("commission", commission)
+      .eq("exam_group", group)
       .order("created_at", { ascending: false });
-    if (error) unavailable = true;
-    else materials = (data ?? []) as Material[];
+    if (scoped.error) {
+      if (/commission|exam_group/i.test(scoped.error.message)) {
+        const fallback = await supabase
+          .from("materials")
+          .select("*")
+          .eq("status", "published")
+          .order("created_at", { ascending: false });
+        if (fallback.error) unavailable = true;
+        else materials = (fallback.data ?? []) as Material[];
+      } else {
+        unavailable = true;
+      }
+    } else {
+      materials = (scoped.data ?? []) as Material[];
+    }
   } catch {
     unavailable = true;
   }

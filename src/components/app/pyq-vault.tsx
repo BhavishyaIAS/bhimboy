@@ -9,7 +9,9 @@ import { PyqPagination } from "@/components/pyq/pyq-pagination";
 import { PrelimsQuestionCard } from "@/components/pyq/prelims-question-card";
 import { MainsQuestionCard } from "@/components/pyq/mains-question-card";
 import type {
+  Commission,
   CorrectOption,
+  ExamGroup,
   MainsQuestion,
   PrelimsQuestion,
 } from "@/lib/database.types";
@@ -18,15 +20,19 @@ export type PyqSearchParams = {
   [key: string]: string | string[] | undefined;
 };
 
-/** Build PYQ query filters from URL search params with a fixed stage. */
+/** Build PYQ query filters from URL search params with a fixed stage + track. */
 export function buildPyqFilters(
   sp: PyqSearchParams,
-  stage: "prelims" | "mains"
+  stage: "prelims" | "mains",
+  commission: Commission,
+  group: ExamGroup
 ): Filters {
   const first = (v: string | string[] | undefined) =>
     Array.isArray(v) ? v[0] : v;
   return {
     stage,
+    commission,
+    group,
     paperLabel: first(sp.paper) || undefined,
     year: first(sp.year) ? Number(first(sp.year)) : undefined,
     subjectId: first(sp.subject) || undefined,
@@ -52,9 +58,32 @@ export async function PyqVault({
   lockStage?: boolean;
 }) {
   const [options, result] = await Promise.all([
-    getPyqFilterOptions(),
+    getPyqFilterOptions({ commission: filters.commission, group: filters.group }),
     getPyqs(filters),
   ]);
+
+  const hasUserFilters = Boolean(
+    filters.paperLabel ||
+      filters.year ||
+      filters.subjectId ||
+      filters.topicId ||
+      filters.microthemeId ||
+      filters.tag ||
+      filters.q
+  );
+
+  // Truly-empty track (no questions and no active filters): simple message.
+  // The tab header already carries the admin upload button.
+  if (result.total === 0 && !hasUserFilters) {
+    return (
+      <div className="bhv-panel">
+        <div className="bhv-empty">
+          No {filters.stage === "mains" ? "Mains" : "Prelims"} previous-year
+          questions have been uploaded for this exam yet.
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="bhv-panel">

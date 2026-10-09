@@ -4,7 +4,7 @@ import { getUserAndProfile } from "@/lib/auth";
 import { getSyllabusTree } from "@/lib/queries";
 import { SyllabusTreeView } from "@/components/app/syllabus-tree-view";
 import { EmptyTrack, UploadCTA } from "@/components/app/track";
-import { commissionShort, isCommission, isGroup, trackHasContent } from "@/lib/exam";
+import { commissionShort, isCommission, isGroup } from "@/lib/exam";
 
 export const metadata: Metadata = { title: "Syllabus Detailer" };
 export const dynamic = "force-dynamic";
@@ -21,7 +21,14 @@ export default async function SyllabusTab({
   // The Syllabus Detailer (the "Forest") is admin-only.
   if (profile?.role !== "admin") redirect(`/app/g/${commission}/${group}/prelims`);
 
-  if (!trackHasContent(commission, group)) {
+  const tree = await getSyllabusTree({ commission, group });
+  const hasPapers = tree.papers.some((p) =>
+    (p.subjects ?? []).some((s) =>
+      (s.topics ?? []).some((t) => (t.microthemes ?? []).length > 0)
+    )
+  );
+
+  if (!hasPapers) {
     return (
       <EmptyTrack
         title="No syllabus mapped yet"
@@ -31,8 +38,6 @@ export default async function SyllabusTab({
       />
     );
   }
-
-  const tree = await getSyllabusTree();
 
   return (
     <div className="bhv-panel">
