@@ -5,6 +5,7 @@ export type ContentStatus = "draft" | "published";
 export type ExamStage = "prelims" | "mains";
 export type Role = "admin" | "student";
 export type CorrectOption = "A" | "B" | "C" | "D";
+export type MaterialCategory = "comprehensive" | "prelims" | "mains";
 
 export interface Profile {
   id: string;
@@ -127,6 +128,27 @@ export interface MainsQuestion {
   model_answer_text: string;
   keywords: string[];
   status: ContentStatus;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface Material {
+  id: string;
+  category: MaterialCategory;
+  title: string;
+  description: string;
+  file_path: string;
+  file_name: string;
+  file_size: number;
+  mime_type: string;
+  paper_id: string | null;
+  subject_id: string | null;
+  topic_id: string | null;
+  microtheme_id: string | null;
+  status: ContentStatus;
+  sort_order: number;
+  uploaded_by: string | null;
+  published_at: string | null;
   created_at: string;
   updated_at: string;
 }

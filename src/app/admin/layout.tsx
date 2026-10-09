@@ -2,6 +2,7 @@ import Link from "next/link";
 import {
   FileQuestion,
   LayoutDashboard,
+  Library,
   ListTree,
   Upload,
 } from "lucide-react";
@@ -12,6 +13,7 @@ import { Button } from "@/components/ui/button";
 const NAV = [
   { href: "/admin", label: "Dashboard", icon: LayoutDashboard },
   { href: "/admin/syllabus", label: "Syllabus", icon: ListTree },
+  { href: "/admin/material", label: "Material", icon: Library },
   { href: "/admin/pyqs", label: "PYQs", icon: FileQuestion },
   { href: "/admin/bulk-upload", label: "Bulk Upload", icon: Upload },
 ];
