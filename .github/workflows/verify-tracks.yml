@@ -1,0 +1,37 @@
+name: Verify commission/group tracks
+
+# Run from the GitHub website:
+#   Actions tab -> "Verify commission/group tracks" -> "Run workflow"
+# Reads counts from the live DB and prints them in the run log.
+# Requires repository secrets:
+#   NEXT_PUBLIC_SUPABASE_URL  = https://<your-project-ref>.supabase.co
+#   SUPABASE_SERVICE_ROLE_KEY = <your service role key>
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Verify secrets are set
+        run: |
+          if [ -z "$NEXT_PUBLIC_SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "::error::Missing repository secrets NEXT_PUBLIC_SUPABASE_URL and/or SUPABASE_SERVICE_ROLE_KEY"
+            exit 1
+          fi
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Report PYQ tracks
+        run: node scripts/verify-tracks.mjs
