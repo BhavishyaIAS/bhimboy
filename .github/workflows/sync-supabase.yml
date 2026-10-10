@@ -57,6 +57,9 @@ jobs:
             node --env-file=.env.local "scripts/update-paper${p}-archive-answers.mjs"
           done
 
+      - name: Report PYQ tracks (commission / group counts)
+        run: node --env-file=.env.local scripts/verify-tracks.mjs
+
       - name: Clean up secrets file
         if: always()
         run: rm -f .env.local
