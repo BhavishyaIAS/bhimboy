@@ -78,7 +78,7 @@ returns integer
 language plpgsql
 security definer
 set search_path = public
-as $$
+as $func$
 declare
   r jsonb;
   v_mt uuid;
@@ -96,7 +96,7 @@ begin
   loop
     v_idx := v_idx + 1;
 
-    select id into v_mt from public.microthemes where code = r ->> 'microtheme_code';
+    v_mt := (select id from public.microthemes where code = r ->> 'microtheme_code' limit 1);
     if v_mt is null then
       raise exception 'Row %: unknown micro-theme code "%"', v_idx, r ->> 'microtheme_code';
     end if;
@@ -147,14 +147,14 @@ begin
 
   return v_count;
 end;
-$$;
+$func$;
 
 create or replace function public.bulk_insert_mains(p_rows jsonb)
 returns integer
 language plpgsql
 security definer
 set search_path = public
-as $$
+as $func$
 declare
   r jsonb;
   v_mt uuid;
@@ -172,7 +172,7 @@ begin
   loop
     v_idx := v_idx + 1;
 
-    select id into v_mt from public.microthemes where code = r ->> 'microtheme_code';
+    v_mt := (select id from public.microthemes where code = r ->> 'microtheme_code' limit 1);
     if v_mt is null then
       raise exception 'Row %: unknown micro-theme code "%"', v_idx, r ->> 'microtheme_code';
     end if;
@@ -220,4 +220,4 @@ begin
 
   return v_count;
 end;
-$$;
+$func$;
