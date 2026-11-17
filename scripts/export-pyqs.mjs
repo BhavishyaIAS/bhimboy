@@ -11,7 +11,11 @@
 // Or via GitHub Actions: Actions -> "Export PYQs" -> Run (downloads artifacts).
 
 import { mkdirSync, writeFileSync } from "node:fs";
+import dns from "node:dns";
 import { createClient } from "@supabase/supabase-js";
+
+// GitHub runners often fail IPv6 routes to Supabase ("fetch failed"); prefer IPv4.
+dns.setDefaultResultOrder("ipv4first");
 
 if (process.env.HTTPS_PROXY || process.env.HTTP_PROXY) {
   const { setGlobalDispatcher, EnvHttpProxyAgent } = await import("undici");
@@ -31,7 +35,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // Fetch one page, retrying transient network failures ("fetch failed").
 async function fetchPage(table, from, pageSize) {
   let lastErr;
-  for (let attempt = 1; attempt <= 4; attempt++) {
+  for (let attempt = 1; attempt <= 6; attempt++) {
     try {
       const { data, error } = await supabase
         .from(table)
@@ -42,9 +46,13 @@ async function fetchPage(table, from, pageSize) {
       return data ?? [];
     } catch (e) {
       lastErr = e;
-      if (attempt < 4) {
-        console.log(`  ${table} rows ${from}-${from + pageSize - 1}: ${e.message} — retry ${attempt}`);
+      // Surface the underlying network error code (ETIMEDOUT / ECONNRESET / ENOTFOUND…).
+      const cause = e?.cause ? ` [cause: ${e.cause.code ?? e.cause.message ?? e.cause}]` : "";
+      if (attempt < 6) {
+        console.log(`  ${table} rows ${from}-${from + pageSize - 1}: ${e.message}${cause} — retry ${attempt}`);
         await sleep(attempt * 2000);
+      } else {
+        console.error(`  ${table} rows ${from}-${from + pageSize - 1}: giving up — ${e.message}${cause}`);
       }
     }
   }
@@ -111,9 +119,9 @@ function toCsv(rows) {
 
 console.log("Exporting PYQs from the live database…");
 // Sequential (not parallel) and small mains pages, to keep each response small.
-const prelimsRaw = await fetchAll("prelims_questions", 1000);
+const prelimsRaw = await fetchAll("prelims_questions", 300);
 console.log(`  fetched prelims: ${prelimsRaw.length}`);
-const mainsRaw = await fetchAll("mains_questions", 150);
+const mainsRaw = await fetchAll("mains_questions", 100);
 console.log(`  fetched mains: ${mainsRaw.length}`);
 
 const prelims = prelimsRaw.map((r) => flatten(r, "prelims"));
