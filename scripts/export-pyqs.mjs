@@ -95,6 +95,18 @@ function commissionOf(r) {
 const cleanLabel = (l) => String(l ?? "").replace(/\s*\(TGPSC\)/gi, "").trim();
 const hasAnswer = (r) => (r.model_answer_text ?? "").trim().length > 0;
 
+// Some prelims years were imported from the official ANSWER KEY only (no
+// option list in the source). Those rows hold the correct answer's text in
+// option_a with B/C/D empty. Export them honestly: no fake options, and the
+// answer text in a dedicated "answer" column.
+const blank = (v) => !String(v ?? "").trim();
+const isKeyOnly = (r) => blank(r.option_b) && blank(r.option_c) && blank(r.option_d);
+function correctAnswerText(r) {
+  if (isKeyOnly(r)) return r.option_a ?? "";
+  const k = String(r.correct_option ?? "").toUpperCase();
+  return { A: r.option_a, B: r.option_b, C: r.option_c, D: r.option_d }[k] ?? "";
+}
+
 function keep(r, stage) {
   if (FILTER.commission !== "all" && commissionOf(r) !== FILTER.commission) return false;
   if (FILTER.group !== "all" && String(r.exam_group ?? "1") !== FILTER.group) return false;
@@ -118,13 +130,16 @@ function flatten(r, stage) {
     status: r.status,
   };
   if (stage === "prelims") {
+    const keyOnly = isKeyOnly(r);
     return {
       ...base,
-      option_a: r.option_a,
-      option_b: r.option_b,
-      option_c: r.option_c,
-      option_d: r.option_d,
-      correct_option: r.correct_option,
+      format: keyOnly ? "Answer key only (no options in source)" : "Full MCQ",
+      option_a: keyOnly ? "" : r.option_a,
+      option_b: keyOnly ? "" : r.option_b,
+      option_c: keyOnly ? "" : r.option_c,
+      option_d: keyOnly ? "" : r.option_d,
+      correct_option: keyOnly ? "" : r.correct_option,
+      answer: correctAnswerText(r),
       explanation: r.explanation ?? "",
       ...tail,
     };
@@ -194,7 +209,7 @@ let truncated = 0;
 if (wantPrelims) {
   XLSX.utils.book_append_sheet(
     wb,
-    sheet(prelims, { ...common, option_a: 28, option_b: 28, option_c: 28, option_d: 28, correct_option: 8, explanation: 50 }),
+    sheet(prelims, { ...common, format: 22, option_a: 28, option_b: 28, option_c: 28, option_d: 28, correct_option: 8, answer: 40, explanation: 50 }),
     "Prelims"
   );
 }
@@ -214,6 +229,10 @@ const readme = [
   { field: "Stage filter", value: FILTER.stage },
   { field: "Only mains with model answers", value: String(FILTER.onlyAnswered) },
   { field: "Prelims rows", value: wantPrelims ? prelims.length : "—" },
+  {
+    field: "Prelims from answer key only (no options in source)",
+    value: wantPrelims ? prelimsRaw.filter(isKeyOnly).length : "—",
+  },
   { field: "Mains rows", value: wantMains ? mains.length : "—" },
   {
     field: "Mains with a model answer",
