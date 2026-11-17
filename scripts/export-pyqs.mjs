@@ -26,19 +26,39 @@ if (!url || !key) {
 }
 const supabase = createClient(url, key, { auth: { persistSession: false } });
 
-async function fetchAll(table) {
-  const pageSize = 1000;
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Fetch one page, retrying transient network failures ("fetch failed").
+async function fetchPage(table, from, pageSize) {
+  let lastErr;
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      const { data, error } = await supabase
+        .from(table)
+        .select("*, microtheme:microthemes (code, name, slug)")
+        .order("year", { ascending: false })
+        .range(from, from + pageSize - 1);
+      if (error) throw new Error(error.message);
+      return data ?? [];
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 4) {
+        console.log(`  ${table} rows ${from}-${from + pageSize - 1}: ${e.message} — retry ${attempt}`);
+        await sleep(attempt * 2000);
+      }
+    }
+  }
+  throw new Error(`${table}: ${lastErr?.message ?? "fetch failed"}`);
+}
+
+// mains rows carry large rich model-answer JSON, so page them in small chunks.
+async function fetchAll(table, pageSize = 1000) {
   let from = 0;
   const rows = [];
   for (;;) {
-    const { data, error } = await supabase
-      .from(table)
-      .select("*, microtheme:microthemes (code, name, slug)")
-      .order("year", { ascending: false })
-      .range(from, from + pageSize - 1);
-    if (error) throw new Error(`${table}: ${error.message}`);
-    rows.push(...(data ?? []));
-    if (!data || data.length < pageSize) break;
+    const page = await fetchPage(table, from, pageSize);
+    rows.push(...page);
+    if (page.length < pageSize) break;
     from += pageSize;
   }
   return rows;
@@ -90,10 +110,11 @@ function toCsv(rows) {
 }
 
 console.log("Exporting PYQs from the live database…");
-const [prelimsRaw, mainsRaw] = await Promise.all([
-  fetchAll("prelims_questions"),
-  fetchAll("mains_questions"),
-]);
+// Sequential (not parallel) and small mains pages, to keep each response small.
+const prelimsRaw = await fetchAll("prelims_questions", 1000);
+console.log(`  fetched prelims: ${prelimsRaw.length}`);
+const mainsRaw = await fetchAll("mains_questions", 150);
+console.log(`  fetched mains: ${mainsRaw.length}`);
 
 const prelims = prelimsRaw.map((r) => flatten(r, "prelims"));
 const mains = mainsRaw.map((r) => flatten(r, "mains"));
