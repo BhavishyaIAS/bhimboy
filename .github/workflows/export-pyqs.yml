@@ -1,0 +1,45 @@
+name: Export PYQs
+
+# Run from the GitHub website:
+#   Actions tab -> "Export PYQs" -> "Run workflow"
+# Then open the finished run and download the "pyq-export" artifact (a zip
+# containing prelims/mains as JSON + CSV, and a combined pyqs.json).
+# Requires repository secrets:
+#   NEXT_PUBLIC_SUPABASE_URL  = https://<your-project-ref>.supabase.co
+#   SUPABASE_SERVICE_ROLE_KEY = <your service role key>
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Verify secrets are set
+        run: |
+          if [ -z "$NEXT_PUBLIC_SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "::error::Missing repository secrets NEXT_PUBLIC_SUPABASE_URL and/or SUPABASE_SERVICE_ROLE_KEY"
+            exit 1
+          fi
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Export PYQs
+        run: node scripts/export-pyqs.mjs
+
+      - name: Upload export artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pyq-export
+          path: export/
+          if-no-files-found: error

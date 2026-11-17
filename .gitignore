@@ -42,3 +42,6 @@ next-env.d.ts
 
 # committed env template
 !.env.example
+
+# Local PYQ export output
+export/
