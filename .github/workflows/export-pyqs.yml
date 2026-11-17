@@ -34,6 +34,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Diagnose Supabase connectivity
+        run: |
+          host=$(printf '%s' "$NEXT_PUBLIC_SUPABASE_URL" | sed -E 's#https?://([^/]+).*#\1#')
+          echo "Supabase host: $host"
+          echo "URL length: ${#NEXT_PUBLIC_SUPABASE_URL}, key length: ${#SUPABASE_SERVICE_ROLE_KEY}"
+          echo "--- DNS ---"
+          getent hosts "$host" || echo "DNS: could NOT resolve $host (URL secret is likely wrong)"
+          echo "--- HTTPS to REST endpoint ---"
+          code=$(curl -sS -o /dev/null -w "%{http_code}" -m 25 \
+            "$NEXT_PUBLIC_SUPABASE_URL/rest/v1/" \
+            -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" 2>/tmp/curlerr) \
+            && echo "REST / HTTP status: $code" \
+            || { echo "curl failed:"; cat /tmp/curlerr; }
+
       - name: Export PYQs
         run: node scripts/export-pyqs.mjs
 
