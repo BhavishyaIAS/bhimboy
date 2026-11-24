@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { Inter, Geist_Mono } from "next/font/google";
+import { Fraunces, Geist, Geist_Mono } from "next/font/google";
 import { Toaster } from "@/components/ui/sonner";
 import "./globals.css";
 
-const inter = Inter({
-  variable: "--font-inter",
+const geistSans = Geist({
+  variable: "--font-geist-sans",
   subsets: ["latin"],
 });
 
@@ -13,13 +13,19 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
+  subsets: ["latin"],
+  style: ["normal", "italic"],
+});
+
 export const metadata: Metadata = {
   title: {
-    default: "Bhavishya IAS — APPSC Group 1 & Group 2 Preparation",
-    template: "%s | Bhavishya IAS",
+    default: "Bhimboy — APPSC Group 1 Prep",
+    template: "%s | Bhimboy",
   },
   description:
-    "A structured preparation ecosystem for APPSC Group 1 & Group 2 — syllabus detailer, progress tracker, prelims & mains PYQs, model answers and study material, organised micro-theme by micro-theme.",
+    "Structured notes, videos, PYQs and glossary for APPSC Group 1 aspirants, organised micro-theme by micro-theme.",
 };
 
 export default function RootLayout({
@@ -30,7 +36,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col">
         {children}

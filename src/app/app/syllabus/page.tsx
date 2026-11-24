@@ -8,9 +8,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
-import { redirect } from "next/navigation";
 import { getSyllabusTree } from "@/lib/queries";
-import { getUserAndProfile } from "@/lib/auth";
 import { ForestScene } from "@/components/living/forest-scene";
 import { Lotus } from "@/components/decor/ornaments";
 import { CoverageChips, paperTotals } from "@/components/app/coverage-chips";
@@ -19,10 +17,6 @@ export const metadata: Metadata = { title: "Syllabus" };
 export const dynamic = "force-dynamic";
 
 export default async function SyllabusExplorerPage() {
-  // The Forest / Syllabus Detailer is admin-only.
-  const { profile } = await getUserAndProfile();
-  if (profile?.role !== "admin") redirect("/app");
-
   const tree = await getSyllabusTree({ publishedOnly: true });
 
   const prelims = tree.papers.filter((p) => p.stage === "prelims");

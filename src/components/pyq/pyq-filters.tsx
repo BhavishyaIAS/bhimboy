@@ -32,13 +32,7 @@ export interface FilterOptions {
   }[];
 }
 
-export function PyqFilters({
-  options,
-  lockStage = false,
-}: {
-  options: FilterOptions;
-  lockStage?: boolean;
-}) {
+export function PyqFilters({ options }: { options: FilterOptions }) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
@@ -90,21 +84,19 @@ export function PyqFilters({
       </form>
 
       <div className="flex flex-wrap items-center gap-2">
-        {!lockStage && (
-          <Select
-            value={get("stage") || ALL}
-            onValueChange={(v) => setParams({ stage: v })}
-          >
-            <SelectTrigger className={selectClass}>
-              <SelectValue placeholder="Stage" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value={ALL}>All stages</SelectItem>
-              <SelectItem value="prelims">Prelims</SelectItem>
-              <SelectItem value="mains">Mains</SelectItem>
-            </SelectContent>
-          </Select>
-        )}
+        <Select
+          value={get("stage") || ALL}
+          onValueChange={(v) => setParams({ stage: v })}
+        >
+          <SelectTrigger className={selectClass}>
+            <SelectValue placeholder="Stage" />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value={ALL}>All stages</SelectItem>
+            <SelectItem value="prelims">Prelims</SelectItem>
+            <SelectItem value="mains">Mains</SelectItem>
+          </SelectContent>
+        </Select>
 
         <Select
           value={get("paper") || ALL}
